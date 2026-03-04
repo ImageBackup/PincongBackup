@@ -5,6 +5,6 @@
     "wecenter-backup-helper": "git+https://github.com/Xmader/wecenter-backup-helper.git#master"
   },
   "scripts": {
-    "backup": "node index.js"
+    "install": "exit 0"
   }
 }
