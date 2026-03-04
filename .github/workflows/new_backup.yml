@@ -1,0 +1,30 @@
+name: NewBackup
+on:
+  workflow_dispatch:
+jobs:
+  run-task:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - name: Install
+        run: npm install
+      - name: Run
+        run: npm run backup
+        env:
+          BACKUP_TYPE: "question"
+          START_ID: 76800
+          END_ID: 76857
+          SITE_URL: "https://pincong.rocks"
+          UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      - name: Save
+        run: |
+          git config --global user.email "bot@example.com"
+          git config --global user.name "bot"
+          git add .
+          git commit -m "update" || exit 0
+          git push
