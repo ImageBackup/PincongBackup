@@ -1,0 +1,11 @@
+{
+  "name": "pincong-backup",
+  "version": "1.0.0",
+  "dependencies": {
+    "wecenter-backup-helper": "git+https://github.com/Xmader/wecenter-backup-helper.git#master",
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
