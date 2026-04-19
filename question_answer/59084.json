@@ -1,0 +1,72 @@
+{
+  "parent_type": "question",
+  "parent_id": "59084",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "662385",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看合同，有的房贷合同里可能会有豁免条款，但是考虑到制订合同的一半是贷款方，他们不大可能给你这种条款，把风险从你身上转移到他们自己身上。<br/>\n<br/>\n我要批评一下楼主，这种简单的问题Google一下或者问ChatGPT就好了，要学会自己寻找答案：<br/>\n<br/>\nhttps://www.quora.com/What-would-happen-to-your-mortgage-if-your-house-was-destroyed-because-of-an-act-of-war<br/>\n<br/>\n至于另外一个所谓房贷责任无限的，我不知道他在说什么。自然人的借贷都是无限责任的，所以才会成立公司，因为法人责任有限。事实上有的人确实用成立公司的方法规避风险，每个房子成立一个公司，这样万一有一个被毁的话，公司破产就好。中国也可以这么玩，公司成本一年几千人民币，也没多贵。当然这样会推高风险，没有抵押的话从银行很难贷款就是了。\t\t</div>",
+      "date": "2023-06-13",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662389",
+      "is_folded": false,
+      "answerer": {
+        "username": "赵客胡缨",
+        "uid": "97803"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t战争还真不在房屋保险的范围内——因为一旦有战争保险公司是真的赔不起。<br/>\n<br/>\n不过呢，理论上房屋贷款是以房子为抵押的贷款。你拒绝还贷的最糟糕的结果就是房子被银行收回后拍卖，用拍卖款来抵偿自己的损失。所以这个时候你大可以对银行比个中指然后拍拍屁股拎包走人，让银行去试图拍卖被炸烂的房子好了。<br/>\n<br/>\n而遇到战争的话，这种现象应该是大规模的，银行大概率没有办法一个个贷款人去追诉差价。但凡脑子拎得清的司法体系也不可能判银行可以追回差价。<br/>\n<br/>\n当然，天朝的法院大概率属于脑子拎不清那个。<br/>\n<br/>\nd<br/>\n<br/>\ne<br/>\ns\t\t</div>",
+      "date": "2023-06-13",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662383",
+      "is_folded": false,
+      "answerer": {
+        "username": "SANDOLA666",
+        "uid": "78276"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在<mark>支那</mark>，房子爆炸了<br/>\n你還是要還房貸<br/>\n<br/>\n因為你對房貸的責任是無限的<br/>\n<br/>\n但在一個正常國家<br/>\n一但房子爆炸了<br/>\n房貸就跟你無關了<br/>\n<br/>\n因為你對房貸的責任是有限的\t\t</div>",
+      "date": "2023-06-13",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662390",
+      "is_folded": false,
+      "answerer": {
+        "username": "群体事件出叛徒",
+        "uid": "108127"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个问题非常睿智，答案是肯定要还的。<br/>\n俄罗斯占领区来说，俄罗斯接手了所有乌克兰政府机构，包括银行，<br/>\n你应该问，俄罗斯占领后，当地乌克兰居民的存款还能取出来吗，如果存款能取出，那证明银行还能用，证明，房贷你还是得还。\t\t</div>",
+      "date": "2023-06-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662425",
+      "is_folded": true,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-06-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "61798",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "689412",
+      "is_folded": false,
+      "answerer": {
+        "username": "Tymosa",
+        "uid": "115186"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不知道是不是因为频繁切换梯子节点被Google认为是机器人操作，跳出这个提示主要就是想验证当前使用的使用者是不是真人。\t\t</div>",
+      "date": "2023-09-16",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1208813",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-09-16",
+          "content": "有可能"
+        }
+      ]
+    },
+    {
+      "id": "689508",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷雾通么?迷雾通免费节点是这样的<br/>\n过个人机验证就好了\t\t</div>",
+      "date": "2023-09-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "689512",
+      "is_folded": false,
+      "answerer": {
+        "username": "remember1989",
+        "uid": "105192"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有多个用户在使用同一ip访问，被Google识别为恶意流量，要使用需要答验证码。<br/>\n<br/>\n你可以选好一点的原生节点，不要用送中节点<br/>\n你也可以用这个工具https://scamalytics.com/  <br/>\n检测ip地址的风险性，如果是高风险ip，注册或者访问被拒绝的概率就大\t\t</div>",
+      "date": "2023-09-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "689410",
+      "is_folded": true,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-09-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

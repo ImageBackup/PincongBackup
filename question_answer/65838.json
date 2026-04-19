@@ -1,0 +1,74 @@
+{
+  "parent_type": "question",
+  "parent_id": "65838",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "732951",
+      "is_folded": false,
+      "answerer": {
+        "username": "心在祖国人在伦敦",
+        "uid": "124837"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://ja.wikipedia.org/wiki/%E6%9F%94%E8%A1%93<br/>\n以下是日文維基關於柔術條目裡的一句：<br/>\n“大正時代の教本の一部には「凡そ我が柔術は<mark>支那</mark>(中国)に起りて我が国に伝わりし物である」と柔術の起源が中国にあると解説しているものもあるが[3]、現代では異論が多い。”<br/>\n翻譯：大正時代的部分教科書認為「基本上我國的柔術乃為起源於<mark>支那</mark>（中國）流傳至我國之物」，但現代有不少反對意見。<br/>\n<br/>\n並不是所有的日本人都否認柔術來源<mark>支那</mark>哦。日本人可不以某種技術或知識來源於哪裡而耿耿於懷，只在意那種技術實不實用和怎麼轉為己用怎麼改進，這種意識非常值得學習。反過來講,技能來自桂枝而桂枝被青出於藍勝於藍,不正好說明現在的貴枝人廢不堪言，有辱祖上。\t\t</div>",
+      "date": "2024-03-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732945",
+      "is_folded": false,
+      "answerer": {
+        "username": "functional",
+        "uid": "112730"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你这种问题太专业了，估计这里的人都回答不了。\t\t</div>",
+      "date": "2024-03-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732978",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t流传到现在的中国武术粗分是内家拳和外家拳。但是这两大类到现在很少能看到跟日本柔术类似的技巧。<br/>\n<br/>\n因为柔术里包含的关节技 贴身等徒手技巧 已经不是中国武术的主流。中国外家拳概括来说就是以战场兵器所化的技巧。而内家拳则是天下武术出少林，糅合了内练气而发于外的技巧。肉搏类的技术则走向小众比如蒙古摔跤一类的。拆关节等技巧都变成了末流。<br/>\n<br/>\n如果要说柔术来源中国 那也只能是很远古的事情了。就像艾灸技法 在中国逐渐变成末流而在日本却慢慢声势浩大。这都是可能的。\t\t</div>",
+      "date": "2024-03-09",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1249986",
+          "replier": {
+            "username": "redstormss",
+            "uid": "45808"
+          },
+          "date": "2024-03-09",
+          "content": "大小擒拿也属于中国武术的主流啊，像军队或是警察的格斗术最后必然会往擒拿方向发展，毕竟光靠打击技只能退敌又不能擒敌。"
+        },
+        {
+          "id": "1249998",
+          "replier": {
+            "username": "zhengyi",
+            "uid": "1766"
+          },
+          "date": "2024-03-09",
+          "content": "@redstormss:你说的这些都不是武术流派里面最大的。一般都是警察和军队里面在用。是实用性的。这些跟什么八极 形意 洪拳 咏春等门派比起来都属于没落的。这是要讲传承的。"
+        },
+        {
+          "id": "1250069",
+          "replier": {
+            "username": "redstormss",
+            "uid": "45808"
+          },
+          "date": "2024-03-09",
+          "content": "@zhengyi:俗话说踢打摔拿不分家,你说的这些什么八极 形意 洪拳 咏春里都有擒拿元素."
+        }
+      ]
+    }
+  ]
+}

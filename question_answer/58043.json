@@ -1,0 +1,48 @@
+{
+  "parent_type": "question",
+  "parent_id": "58043",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "652571",
+      "is_folded": false,
+      "answerer": {
+        "username": "矢作萌夏",
+        "uid": "29415"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t加尔特里是美国军校留学归国的意大利高材生，立场坚决反共亲美，里根也把他当作亲近盟友，跟康米没有半毛钱关系。他和英国开战这件事事实上也很难认为真的跟冷战有什么关系。\t\t</div>",
+      "date": "2023-05-04",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1174891",
+          "replier": {
+            "username": "shijiaqing",
+            "uid": "80186"
+          },
+          "date": "2023-05-04",
+          "content": "那就是说阿根廷是自由世界阵营吗？和英国的战争属于自由世界内部矛盾？"
+        },
+        {
+          "id": "1174892",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-05-04",
+          "content": "@shijiaqing: 算是阿根廷为了应对国内政局动荡搞的赌博，英国属于躺枪的。"
+        },
+        {
+          "id": "1174915",
+          "replier": {
+            "username": "shijiaqing",
+            "uid": "80186"
+          },
+          "date": "2023-05-04",
+          "content": "@矢作萌夏:那应该算自由世界内部矛盾"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "parent_type": "question",
+  "parent_id": "53657",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "604550",
+      "is_folded": false,
+      "answerer": {
+        "username": "荣耀归于上帝",
+        "uid": "14555"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最近刚好在找稳定好用的翻墙方法，看到几篇文章，已经不推荐自己搭建 ssr、v2ray了，识别出翻墙，vps 的 ip 容易被封。推荐的方法是使用大厂的VPN，推荐最多的 vpn 是 ExpressVPN 和 strongVPN。\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "604527",
+      "is_folded": false,
+      "answerer": {
+        "username": "庆丰包子的梦帝",
+        "uid": "1283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\texpressvpn也是国际大厂，还有nordvpn、surfshark、vyprvpn、purevpn，这些都是国际的大厂都行。\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "604529",
+      "is_folded": false,
+      "answerer": {
+        "username": "Julien2022",
+        "uid": "103620"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tastrill黑色星期五折扣200刀2年，当然最好自己搭梯子，这样最保险\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "604586",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tQuantumult X<br/>\nSHADOWROCKET：支持各种协议<br/>\nOneClick：只支持SS和trojan<br/>\n迷雾通：没上架App Store，需要用TestFlight下载<br/>\nonion browser：在封锁严重时，可使用snowflake或obfs4网桥（需到Tor官网扫码获取新地址）突破封锁<br/>\nPsiphon：赛风，备用<br/>\nUltrasurf VPN：无界浏览的iOS版本，备用<br/>\nFair VPN：无界出品，支持SS、SSR、V2ray、Trojan\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

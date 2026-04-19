@@ -1,0 +1,269 @@
+{
+  "parent_type": "question",
+  "parent_id": "65631",
+  "answer_count": 15,
+  "answers": [
+    {
+      "id": "730575",
+      "is_folded": false,
+      "answerer": {
+        "username": "doublea4548",
+        "uid": "119592"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有一个好消息和一个坏消息。<br/>\n<br/>\n好消息是“你不一定会因为自己的IP地址被请去喝茶”，因为这么做很麻烦效率很低。<br/>\n<br/>\n坏消息是“你肯定会因为国产软件读取你的历史记录和键盘记录而被请去喝茶”。<br/>\n<br/>\n电脑上的微信和QQ都会读取你的浏览器访问记录和剪切板，这个已经被反间谍软件证实了，我亲手用反间谍软件测试过，其他很多国产软件也都会这么做。<br/>\n<br/>\n以前有人说微信和QQ也会有键盘记录，但是这个我确实没亲手抓到过，不过不排除可能，毕竟我的专业不是计算机安全。<br/>\n<br/>\n还有一个差点忘了说，QQ还会扫描你的硬盘文件，你硬盘里有多少小电影，腾讯和警察可能比你自己还清楚。<br/>\n<br/>\n如果你在登陆品葱，推特等平台的同时登录国产软件，那么恭喜你，几乎可以肯定你被拉清单了，警察的KPI什么时候不够，就会好心的请你参加茶会。<br/>\n<br/>\n我建议你马上注销所有和国产软件同时使用的外网账户，低级格式化硬盘，重装系统，而且不要在你上外网的电脑上安装任何国产软件。<br/>\n<br/>\n如果是手机，国产手机内置反诈骗中心，而且很多国产APP也会读取你的软件列表，以及保存键盘记录，包括QQ在内的很多国产PP还会读取你的相册。\t\t</div>",
+      "date": "2024-02-27",
+      "agree_count": 6,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1247769",
+          "replier": {
+            "username": "主席也有难处",
+            "uid": "119334"
+          },
+          "date": "2024-02-27",
+          "content": "蛮吓人， 我的性癖被看光光了 羞羞"
+        },
+        {
+          "id": "1247808",
+          "replier": {
+            "username": "UsugiiiS",
+            "uid": "118431"
+          },
+          "date": "2024-02-27",
+          "content": "这么夸张，qq还能读取浏览器访问记录，谷歌也拦不住吗"
+        },
+        {
+          "id": "1247856",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-02-27",
+          "content": "@UsugiiiS:在windows很多人都是用同个用户运行QQ和浏览器，能读取自己是所有者的文件有啥奇怪的吗？QQ还在安装的时候给自己弄了有管理员权限的服务，能干的事就更多了。android上的话，很多中国的应用故意不用Storage Access Framework，骗你给它READ_EXTERNAL_STORAGE和WRITE_EXTERNAL_STORAGE的权限，像拼多多这种甚至还会用漏洞提升权限。"
+        }
+      ]
+    },
+    {
+      "id": "730576",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t使用的输入法: 搜狗输入法<br/>\n使用的VPN: 老王VPN<br/>\n后台的软件: QQ,微信,XX电脑管家,360<br/>\n使用的浏览器: QQ浏览器<br/>\n访问的网站: 品葱,推特,大纪元\t\t</div>",
+      "date": "2024-02-27",
+      "agree_count": 16,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1247767",
+          "replier": {
+            "username": "为了目标",
+            "uid": "124900"
+          },
+          "date": "2024-02-27",
+          "content": "你这可把几率点数点到最高了"
+        },
+        {
+          "id": "1247841",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2024-02-27",
+          "content": "输入法级监控文字，vpn级监控浏览内容，后台软件扫描相册和浏览器，浏览器本身监控网站访问情况。。生怕公安不知道翻墙"
+        }
+      ]
+    },
+    {
+      "id": "730584",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t喝一次张张见识没啥不好<br/>\n<br/>\n以后就坚定颠覆共产党的决心, 义无反顾的去颜色革命\t\t</div>",
+      "date": "2024-02-27",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730573",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不能，党国又没有品葱推特的权限，看不到你在品葱推特的ip<br/>\n<br/>\n除非你是大V，党国可以用黑客手段和情报手段渗透这些平台并发现你在这些平台使用时的ip<br/>\n<br/>\n虽然要主动抓你成本很高，必须你是大V才会出动，但是党国也可以守株待兔，从暗网上购买泄漏的数据库，然后用电脑自动排查发现你。<br/>\n<br/>\n所以： 不要用同一个IP登录墙内实名制服务和墙外服务（否则一次简单泄漏就暴露身份）<br/>\n<br/>\n不要用分流代理工具（否则一次钓鱼链接就暴露身份）<br/>\n<br/>\n分开墙内和墙外服务，对于小白来说直接用两台设备来的最简单。\t\t</div>",
+      "date": "2024-02-27",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730616",
+      "is_folded": false,
+      "answerer": {
+        "username": "RobotRepublic",
+        "uid": "101437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得你人微言轻，请你喝茶纯属浪费时间，抓你还不如抓四楼和六楼那两位\t\t</div>",
+      "date": "2024-02-27",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730834",
+      "is_folded": false,
+      "answerer": {
+        "username": "JimRichard",
+        "uid": "125078"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怕死就不要反共了，只要你反共就别怕死，请一定要尽可能的做好自身的隐私安全\t\t</div>",
+      "date": "2024-02-28",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730670",
+      "is_folded": false,
+      "answerer": {
+        "username": "functional",
+        "uid": "112730"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你如果通过VPN，理论上他们看不到你的干什么了。不过中国警察要找你的IP是非常容易的事情，你的运营商就知道。<br/>\n      如果你被监控了，那么VPN也不安全，任何加密报文都是可以破解的，只是时间问题。因此，如果你觉得被盯上了，什么事情都不要做。\t\t</div>",
+      "date": "2024-02-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730569",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t首先要進入品蔥和twitter的database<br/>\n<br/>\ntwitter不清楚，但品蔥自稱不會記錄你的ip和其它信息，這點看你信不信了\t\t</div>",
+      "date": "2024-02-27",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1247763",
+          "replier": {
+            "username": "主席也有难处",
+            "uid": "119334"
+          },
+          "date": "2024-02-27",
+          "content": "也就是说可以的是吧？据我所知推特内部是有一些中国人和国安私下合作的"
+        }
+      ]
+    },
+    {
+      "id": "730570",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你的IP可以让你登陆品葱，推特等平台吗？如果可以，那么你可能是在机要单位，可能会被监控。\t\t</div>",
+      "date": "2024-02-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732518",
+      "is_folded": false,
+      "answerer": {
+        "username": "小学硕士",
+        "uid": "119464"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t主要原因还是手机号，IP太麻烦了，小人物一般不会用\t\t</div>",
+      "date": "2024-03-06",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1249759",
+          "replier": {
+            "username": "主席也有难处",
+            "uid": "119334"
+          },
+          "date": "2024-03-07",
+          "content": "谢谢解答"
+        }
+      ]
+    },
+    {
+      "id": "732686",
+      "is_folded": false,
+      "answerer": {
+        "username": "主席是为了大家好",
+        "uid": "125756"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t听你们说的，好害怕，我都要把新注册的号给注销了\t\t</div>",
+      "date": "2024-03-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730653",
+      "is_folded": false,
+      "answerer": {
+        "username": "Cd9208",
+        "uid": "88787"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不发表敏感言论，不暴露个人信息，不会被喝茶。。。是这样\t\t</div>",
+      "date": "2024-02-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730817",
+      "is_folded": false,
+      "answerer": {
+        "username": "台湾国的周杰伦",
+        "uid": "114126"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还是那句话怕死就不要反共，反共就不要怕死，但是要尽可能的做好自身的隐私安全，希望大家都能够活到共产党灭亡。\t\t</div>",
+      "date": "2024-02-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730852",
+      "is_folded": false,
+      "answerer": {
+        "username": "重新出發",
+        "uid": "121832"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t唉，中共這個國家真是壞事做絕，說句話都得擔心會不會被抓。只能說注意安全啊\t\t</div>",
+      "date": "2024-02-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732527",
+      "is_folded": true,
+      "answerer": {
+        "username": "大家好才是真的好",
+        "uid": "125486"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-03-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

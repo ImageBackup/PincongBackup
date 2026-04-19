@@ -1,0 +1,48 @@
+{
+  "parent_type": "question",
+  "parent_id": "64272",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "716210",
+      "is_folded": false,
+      "answerer": {
+        "username": "大侠爱吃汉堡包",
+        "uid": "113180"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t去你所在城市郊区的小商店里看看有没有，我前段时间去村里挑狗的时候看到有小孩子在玩这玩意\t\t</div>",
+      "date": "2023-12-29",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1235664",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2023-12-31",
+          "content": "大城市感觉有点难\n这些好像都是小作坊无证生产的"
+        },
+        {
+          "id": "1235676",
+          "replier": {
+            "username": "Muaie",
+            "uid": "119915"
+          },
+          "date": "2024-01-01",
+          "content": "烟花爆竹销售点，过年期间路口都是这种摊。去哪买"
+        },
+        {
+          "id": "1235678",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-01-01",
+          "content": "@Muaie:好的，回头了解一下"
+        }
+      ]
+    }
+  ]
+}

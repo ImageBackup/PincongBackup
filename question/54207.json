@@ -1,0 +1,43 @@
+{
+  "question_id": "54207",
+  "category_id": "6",
+  "title": "数字人民币和支付宝和微信的区别是什么？",
+  "meta_description": "数字人民币和支付宝和微信的区别是什么？ - 有必要从支付宝阵地转到数字人民币吗？",
+  "meta_keywords": "数字,人民币,支付,微信,区别,是什么",
+  "tags": [
+    {
+      "id": "101174",
+      "name": "数字人民币"
+    }
+  ],
+  "author": {
+    "username": "韭菜炒鸡蛋",
+    "uid": "43188"
+  },
+  "view_count": 3612,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t有必要从支付宝阵地转到数字人民币吗？\t\t\t\t\t\t\t</div>",
+  "date": "2022-12-12",
+  "agree_count": 0,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1028918",
+      "replier": {
+        "username": "执笔画浮尘",
+        "uid": "76224"
+      },
+      "date": "2022-12-12",
+      "content": "本质上区别不大，中国的数字人民币严格地讲不是数字人民币，只是建立了一套app钱包系统，个人钱包可以绕过银行直接和央行结算而已，没有区块链网络，没有去中心化，可以离线交易，仅此而已。"
+    },
+    {
+      "id": "1028927",
+      "replier": {
+        "username": "fasafasa",
+        "uid": "50161"
+      },
+      "date": "2022-12-12",
+      "content": "数字人民币是一种货币，微信、支付宝是两个支付接口、支付平台。"
+    }
+  ],
+  "answer_count": 10
+}

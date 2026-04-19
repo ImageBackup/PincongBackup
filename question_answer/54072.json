@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "54072",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "608580",
+      "is_folded": false,
+      "answerer": {
+        "username": "Jero",
+        "uid": "4525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://rentry.org/voldy<br/>\n<br/>\n如果不能正常使用,大概率是因为显卡性能太差,需要修改配置(文内有)--lowvram\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608594",
+      "is_folded": false,
+      "answerer": {
+        "username": "唔做豬韭嘅Cantonese",
+        "uid": "20866"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t牆內有現成熟肉，牆外就Google Colab。https://www.bilibili.com/video/BV1MK411S7Uh/\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

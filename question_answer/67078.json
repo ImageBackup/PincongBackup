@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "67078",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "745713",
+      "is_folded": false,
+      "answerer": {
+        "username": "忽念山中客",
+        "uid": "122842"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你到底在说什么？非专业人士干嘛去关注这一连串毫无关联的高速公里代号，他们要知道不应该是高速公路限速多少，哪个服务区配置齐全吗？\t\t</div>",
+      "date": "2024-05-06",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "745723",
+      "is_folded": false,
+      "answerer": {
+        "username": "qbc",
+        "uid": "51169"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tG开头的是国道。一般就是高速公路。S开头的省道，一般是一级公路。也有人把S开头的说成旧路。一般G开头的路是有收费站的，是要收费的。而S开头的路是没有收费站的。X开头的是县路，这个路就比较窄了，一般只有两车道。\t\t</div>",
+      "date": "2024-05-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

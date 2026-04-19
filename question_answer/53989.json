@@ -1,0 +1,53 @@
+{
+  "parent_type": "question",
+  "parent_id": "53989",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "607874",
+      "is_folded": false,
+      "answerer": {
+        "username": "judgementday",
+        "uid": "95239"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就是普通的伸手打招呼，但由于是仰拍镜头所以看起来就变味了\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133671",
+          "replier": {
+            "username": "不可接触者",
+            "uid": "50310"
+          },
+          "date": "2022-12-08",
+          "content": "也许是但这是央视ccav拍的，他们记者应该会比较考量这方面问题，所以看起来很像温在表示对德国政府的不满"
+        }
+      ]
+    },
+    {
+      "id": "608187",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不可能的，在德国行纳粹礼会被德国人打，你可以搜搜，有这个新闻\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133938",
+          "replier": {
+            "username": "不可接触者",
+            "uid": "50310"
+          },
+          "date": "2022-12-08",
+          "content": "那温家宝视频画面里面确实行了，他下来后怎么不揍他，揍了温家宝算不算刺杀？"
+        }
+      ]
+    }
+  ]
+}

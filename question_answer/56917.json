@@ -1,0 +1,816 @@
+{
+  "parent_type": "question",
+  "parent_id": "56917",
+  "answer_count": 24,
+  "answers": [
+    {
+      "id": "640307",
+      "is_folded": false,
+      "answerer": {
+        "username": "eeexplor",
+        "uid": "73767"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那是因為領域不同，日本人在美國喜歡做很隱藏，不那麼時髦但非常重要的領域。我在美國聽過的日本教授做機器人的很多，分散在機械和電機系。另外說下，就算是在電機系裡，日本教授都是做普羅大眾比較不知道的東西，所以在it時代，除了機器人以外，都不是那麼出名。例如，微機電系統（MEMS），做陀螺儀就需要這個，這個領域需要整合機械和電機的知識，納米級別的機電控制技術，而最重要的應用就是做半導體設備，所以有很多日本教授在美國做這個，為那些中國極為渴望獲得的企業工作，例如應材，KLA，這兩家日本員工都不少。另外一個領域日本教授特別喜歡的是半導體材料，在美國也在做這個，很多都是從日本挖來的。所以你看，日本材料和設備很強，這不是偶然的。在美國，日本教授都是做那些非常費時費力，偏向製造業，投資基期長的項目，和矽谷的步調基本完全相反，那很少見到日本人不是很正常？\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 17,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1163196",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-03-15",
+          "content": "的确如此。"
+        },
+        {
+          "id": "1163201",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-03-15",
+          "content": "硅谷支了"
+        },
+        {
+          "id": "1163230",
+          "replier": {
+            "username": "zzzzz11111",
+            "uid": "41398"
+          },
+          "date": "2023-03-15",
+          "content": "@dogg0五入拖拉曼:硅谷的风格氛围本来就是美国最支的地方，骗子也是美国最多的"
+        },
+        {
+          "id": "1163908",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2023-03-18",
+          "content": "@dogg0五入拖拉曼:名副其实。确实哲学和支一拍即合也是最能合作的。"
+        }
+      ]
+    },
+    {
+      "id": "640441",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本一共才一亿人，老龄化又严重，啥都会是不是要求太高了？<br/>\n<br/>\n<mark>支那</mark>有十四亿人，出几个天才润走也不妨碍支那是洼地的事实。<br/>\n<br/>\n日本人写代码基本都集中在工业领域（包括芯片），工业领域也需要程序员，而且代码水平比互联网公司高多了。<br/>\n<br/>\n特斯拉找<mark>支那</mark>公司（老板是马拉西亚华人）定做了超大型铸造机（技术来自收购的意大利公司），用来制造特斯拉的车身。但是<mark>支那人</mark>没办法提供数据图纸，光有大型铸造机也造不出车身，所以<mark>支那</mark>新能源汽车仍然没办法和特斯拉竞争。特斯拉其他先进技术更是<mark>支那</mark>汽车公司望尘莫及。<br/>\n<br/>\n同样是设计师和程序员，<mark>支那人</mark>觉得腾讯和阿里巴巴很厉害，其实是坐井观天，不知道自己跟欧美日的差距有多大。连芯片都搞不出来的国家，有什么资格装逼？韩国人起码还能制造最高端的内存条，最先进的手机。\t\t</div>",
+      "date": "2023-03-16",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640300",
+      "is_folded": false,
+      "answerer": {
+        "username": "追寻自由",
+        "uid": "92690"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t虽然我本身作为一个日吹，始终以润日为最高目标<br/>\n但给我感觉日本社会在互联网 it这块有种奇怪的守旧主义<br/>\n<br/>\n我以前想找一些本行业学习资料，发现哪怕台湾和韩国的资料都比日本的要多得多....<br/>\n<br/>\n补充一下，我前任主管接触过一些日本甲方，感觉他们很依赖外国外包团队，倒不是因为他们处在“行业上游”，而是因为他们就找不到多少国内干这个的\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 15,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1163397",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-03-16",
+          "content": "日本本国的需求不需要大规模互联网，够用就行。\n支那\n的互联网规模和美国差不多，但是心思都在割韭菜上，还不如日本呢。找不到日语学习资料的原因是日本的版权保护非常严格，只有漫画、动漫这种比较热门的才有大量盗版流出，冷门英语资料一样没盗版，更别说日语资料了。实际上日本国内图书资源非常发达，\n支那\n根本比不了，日本人可能是最喜欢看书学习的民族之一。"
+        },
+        {
+          "id": "1163872",
+          "replier": {
+            "username": "追寻自由",
+            "uid": "92690"
+          },
+          "date": "2023-03-17",
+          "content": "@reddit_suck:我觉得你搞错了我说的“学习资料”指的是什么东西......这玩意就是youtube上面的小教程+项目心得体会，在其他国家都很常见的，你说的那种另外的收费系统性教程了"
+        },
+        {
+          "id": "1163969",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-03-18",
+          "content": "@追寻自由:这种东西你拿日语搜也是不少的，但是日本国内程序员大多集中在工业领域，基本都不会在网上分享，否则可能涉嫌泄密。美国那边也是互联网程序员才会公开分享，搞开源，工业领域没什么人在分享。"
+        },
+        {
+          "id": "1167112",
+          "replier": {
+            "username": "追寻自由",
+            "uid": "92690"
+          },
+          "date": "2023-03-31",
+          "content": "已删除"
+        },
+        {
+          "id": "1167113",
+          "replier": {
+            "username": "追寻自由",
+            "uid": "92690"
+          },
+          "date": "2023-03-31",
+          "content": "@reddit_suck:不好意思我就是拿日语搜的，而且我说的这些入门级的东西算啥的泄密....除了日语视频之外其他都找得到。"
+        }
+      ]
+    },
+    {
+      "id": "640324",
+      "is_folded": false,
+      "answerer": {
+        "username": "cong_guy",
+        "uid": "109295"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本在科学技术上萎缩严重是事实，一是老龄化严重二是结构性改革推进的阻力很大（团块老害能不能赶紧爆金币，别奔着150活了），但是信息技术相关的研究和落地一直都在搞，该有的还是都有的，只不过没搞出爆款而已。<br/>\n<br/>\n此外我实在不认为IT产业，尤其是互联网和人工智能方向的这些玩意配被称作高科技。\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 7,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1163347",
+          "replier": {
+            "username": "德州仪器",
+            "uid": "93127"
+          },
+          "date": "2023-03-16",
+          "content": "互联网确实已经不算高科技了，人工智能还算。计算机相关行业最高科技的应该是芯片和计算机体系结构设计。"
+        },
+        {
+          "id": "1170548",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-04-15",
+          "content": "不管算不算高科技，現在會影響世界發生最重大革命性變化的就是GPT這類東西"
+        }
+      ]
+    },
+    {
+      "id": "640308",
+      "is_folded": false,
+      "answerer": {
+        "username": "muromi",
+        "uid": "87682"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本IT加拉帕戈斯化非常严重，都是针对日本市场、单一行业，甚至单一客户特化的产品，很少有公司搞这种面向世界的东西\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640447",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\topenai和chatgpt又不是ai的全部了<br/>\n還有日本有對話機器人啊，line上幾年前就有air friend，聊天已經能前言搭上後語還會主動找話題\t\t</div>",
+      "date": "2023-03-16",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640301",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本人一般读完博士大部分会回国<br/>\n愿意留在美国的大部分都是学术路线<br/>\n这符合经济发达国家一般规律<br/>\n<br/>\n这些大公司一般日本都有分部, 喜欢该行业的许多都会选择去哪里<br/>\n(中国除了微软大概都关门了)\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640296",
+      "is_folded": false,
+      "answerer": {
+        "username": "爱娴",
+        "uid": "96773"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本人在科技上似乎比较走保守，据说日本很多政府数据都还用软盘保存，不像其他国家要么用网盘，最差都用u盘或者刻光盘\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 4,
+      "discussion_count": 9,
+      "discussions": [
+        {
+          "id": "1163208",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-03-15",
+          "content": "来源？软盘还是磁带？"
+        },
+        {
+          "id": "1163209",
+          "replier": {
+            "username": "爱娴",
+            "uid": "96773"
+          },
+          "date": "2023-03-15",
+          "content": "@华国锋:\nhttps://www.6parkbbs.com/index.php?app=index&act=view&cid=4068267"
+        },
+        {
+          "id": "1163234",
+          "replier": {
+            "username": "mlsayu",
+            "uid": "78078"
+          },
+          "date": "2023-03-15",
+          "content": "够可以了，美国海军还在用 5.25 英寸还是 8 英寸的来着那种大软盘，然后系统也一直用 DOS, 导致得花高价从 DELL 专门订购这些早就过时了的装置。——当然这新闻爆出来的时候还是 201x 年，可能现在更新了也说不定。"
+        },
+        {
+          "id": "1163402",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-03-16",
+          "content": "不懂不要乱说，软盘和磁带才是最安全的，不会泄露机密，而且价格便宜，可以保存资料几十年、几百年。U盘容易丢失数据，光盘容易损坏，都不可靠。网盘更垃圾，信息外泄太严重，\n支那人\n的户籍信息早就被看光光。"
+        },
+        {
+          "id": "1163420",
+          "replier": {
+            "username": "爱娴",
+            "uid": "96773"
+          },
+          "date": "2023-03-16",
+          "content": "@reddit_suck:那请问美国用什么盘存储这类重要数据？"
+        },
+        {
+          "id": "1163422",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-03-16",
+          "content": "@爱娴:美国一样使用磁带技术，实际上磁带的读写速度可以很快，而且容量非常大，可靠性也是最强的。连机械硬盘都没被淘汰，凭什么磁带被淘汰？只不过普通人很难见到磁带。日本普通人一样使用U盘、移动硬盘、网盘、手机传输文件，日本人又不是与世隔绝，也不会穷到买不起。美国很多互联网公司为了省钱，也会使用磁带，将不常用的数据存储在磁带里，需要的时候再读取。"
+        },
+        {
+          "id": "1163438",
+          "replier": {
+            "username": "爱娴",
+            "uid": "96773"
+          },
+          "date": "2023-03-16",
+          "content": "@reddit_suck:都说了是不常用的数据 日本则是常用数据都会用软盘 还是有区别"
+        },
+        {
+          "id": "1170481",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-04-15",
+          "content": "@爱娴:别听他扯淡了，磁带备份随机性能感人，而且十年了也不见得拿出来用一下。磁带磁盘强磁场消磁很容易，要说便于保存也是光盘好得多，放在container里避免物理刮擦就好了。NAND就算是二十年前也谈不上数据丢失真容易，真当我们人民群众没用过软盘软驱了，搞笑。当初三寸盘出来的时候我们都感叹终于不用跟脆弱的五寸盘打交道了，当然这些磁盘基本都是两三年就报废，读不出数据来了。"
+        },
+        {
+          "id": "1170551",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-04-15",
+          "content": "@华国锋: 磁帶很多公司用來備份資料，因為每一單位儲存量最便宜"
+        }
+      ]
+    },
+    {
+      "id": "640424",
+      "is_folded": false,
+      "answerer": {
+        "username": "TIAN_KUAI_HUO",
+        "uid": "88301"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t同理，好像一个刚果人都没有耶<br/>\n<br/>\n研发人员也就百来人，刚好没有几个国家很正常\t\t</div>",
+      "date": "2023-03-16",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640299",
+      "is_folded": false,
+      "answerer": {
+        "username": "已润的阿葱",
+        "uid": "98763"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有在日本生活学习过的都知道日本人有多么费拉不堪，论智商才能绝对比不过中国做题家的。\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 2,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1163184",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-03-15",
+          "content": "已删除"
+        },
+        {
+          "id": "1163202",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-03-15",
+          "content": "反串？"
+        },
+        {
+          "id": "1163281",
+          "replier": {
+            "username": "已润的阿葱",
+            "uid": "98763"
+          },
+          "date": "2023-03-16",
+          "content": "@dogg0五入拖拉曼:真的，个人感觉，日人脑瓜真的普遍不太灵光。"
+        },
+        {
+          "id": "1163394",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-03-16",
+          "content": "@已润的阿葱:\n支那人\n评价一个人聪明与否就是看做题分数高不高，职场能不能卷，薪水高不高，官位大不大。按照这些标准，爱因斯坦就是垃圾，根本不入\n支那人\n的法眼"
+        },
+        {
+          "id": "1163395",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-03-16",
+          "content": "@已润的阿葱:如果你是在说日本普通人智商不高，建议看看\n支那\n普通人有多弱智，文化水平有多低"
+        },
+        {
+          "id": "1163404",
+          "replier": {
+            "username": "已润的阿葱",
+            "uid": "98763"
+          },
+          "date": "2023-03-16",
+          "content": "@reddit_suck:我就单纯觉得日本人脑子不太灵光，你不用这样乱黑我吧。\n支人\n智商绝对是高水准的，被共产党这样吸血也能发展到这个地步。你想想当今的日人有做出什么大IP，大公司没？"
+        },
+        {
+          "id": "1163413",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-03-16",
+          "content": "@已润的阿葱:\n支那人\n一直在吃日本动漫的剩饭，连美国人都知道七龙珠。日本人在电子游戏界留下太多传奇，许多游戏至今都是经典，马里奥、宝可梦、生化危机不是著名IP？Hello Kitty的知名度跟米老鼠差不多，也是日本人创造的。\n索尼、任天堂、丰田、本田、日产、佳能、松下、三菱、东芝、卡西欧、日立、夏普难道不是世界级的公司？这些公司的产品早就遍布全球，\n支那人\n有什么品牌遍布全球？除了这种世界级的公司，稍微有点名气的日本公司根本数不过来，大金、斯巴鲁、资生堂、花王、百乐、乐天、优衣库、西铁城、奥林巴斯这种级别的公司，\n支那\n有几个？\n虽然日本的很多公司在萎缩，比如夏普和东芝，但是也不是\n支那人\n可以碰瓷的。\n支那人\n畅销的品牌的核心技术都是美国和日本的，自己造不出来，只能赚组装费。"
+        },
+        {
+          "id": "1163423",
+          "replier": {
+            "username": "已润的阿葱",
+            "uid": "98763"
+          },
+          "date": "2023-03-16",
+          "content": "@reddit_suck:\n我没有否定日本昔日的成就，我只是说现在的日本费拉不堪而已，你列举的公司有哪些是在90年代00年代后新创的？"
+        }
+      ]
+    },
+    {
+      "id": "640501",
+      "is_folded": false,
+      "answerer": {
+        "username": "trast",
+        "uid": "109547"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t早期互联网行业本质上还是商业模式，日本缺乏互联网巨头的原因就是两个1.国际地位不够高，国际化程度不够，本国的互联网应用很难获得足够的资源和支持走向国际2.初创企业的融资不足，这里主要是缺乏吸引国际风险资本的能力，这个能力不足也和日本国际地位不高有关\t\t</div>",
+      "date": "2023-03-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640502",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如何看待XX沒有一個埃塞俄比亞人？<br/>\n<br/>\n不知道沒有日本人有什麼問題。\t\t</div>",
+      "date": "2023-03-16",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1163912",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-03-18",
+          "content": "你如果觉得埃塞俄比亚跟日本是一个等级的国家那当我没说"
+        }
+      ]
+    },
+    {
+      "id": "644494",
+      "is_folded": false,
+      "answerer": {
+        "username": "Olivert",
+        "uid": "73427"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本有什么知名tech公司么？另外感觉日本在tech领域非常守旧，好像之前在reddit看过一张图画的是每个国家最常用的网站，主要发达国家都差不多，唯独日本人对Yahoo情有独钟。\t\t</div>",
+      "date": "2023-04-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640494",
+      "is_folded": false,
+      "answerer": {
+        "username": "c2h4",
+        "uid": "101813"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为语言与与生俱来的民族环境民族性，无法理解他国人的脑洞，只有外国特殊专业特殊需要才会研究别国人种种，中国人喜欢研究各种他国人思维上的东西包括我自己有时也忍不住，个人自由但我不推荐这些无聊细碎的畅想\t\t</div>",
+      "date": "2023-03-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640329",
+      "is_folded": false,
+      "answerer": {
+        "username": "打土共分兰兰",
+        "uid": "89718"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t失去的三十年加上文化、人口问题，如果美国不撑住台湾的话，恐怕连日本都要失去，一个年轻人口数量和质量都不足的日本很难抵挡即使是衰落中的大陆\t\t</div>",
+      "date": "2023-03-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640364",
+      "is_folded": false,
+      "answerer": {
+        "username": "rei",
+        "uid": "109473"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日人有AI BOT<br/>\n<br/>\n日人又沒創意<br/>\n<br/>\n日人的IT不知名<br/>\n<br/>\n這是字數..<br/>\n<br/>\n這是字數..\t\t</div>",
+      "date": "2023-03-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640380",
+      "is_folded": false,
+      "answerer": {
+        "username": "deatholder2",
+        "uid": "74314"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还是需要秩序输入啊，不过既然是输入就迟早会失控\t\t</div>",
+      "date": "2023-03-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659360",
+      "is_folded": false,
+      "answerer": {
+        "username": "香蕉南波灣",
+        "uid": "45307"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t為甚麼AI才算高科技？日本最先進的科技術點在開啟平行宇宙（暗物質&amp;能量）和製造鋼彈引擎材料（緲子）去了，研究一些不能讓一般廢物在網路上裝逼的技術就叫落後保守啦？\t\t</div>",
+      "date": "2023-05-31",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648355",
+      "is_folded": false,
+      "answerer": {
+        "username": "proc",
+        "uid": "110163"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t开始装起文化人来了？前不久还是个姨学睿智。<br/>\n现在摇身一变成\"计算机科学大手子\"指点起人工智能和编程江山起来了？hello world打明白了吗？<br/>\n看你不懂嗯装的样子我都想笑，是不是觉得自己会用谷歌翻译翻译几篇国外的科普文章和论文摘抄一下，就能在这给自己冒充一个斯坦福大学高材生的新人设了？<br/>\n为什么日本计算机不行？因为你这曾经的姨粪对计算机科学和分析哲学数理逻辑狗屁不懂只会用谷歌搜索啊。配合这个问题底下跟你一样不学无术就敢胡乱意淫指点江山的回答简直天生一对。\t\t</div>",
+      "date": "2023-04-15",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1170476",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-04-15",
+          "content": "你谁啊 我好像从来没翻译过什么科普文章和论文吧"
+        }
+      ]
+    },
+    {
+      "id": "648373",
+      "is_folded": false,
+      "answerer": {
+        "username": "unis14wis",
+        "uid": "108840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t过几年再看，日本的科技主要集中在医疗和半导体领域，软件方面起步就是不如中国快，现在半导体还被台湾超过了，确实要加把劲了\t\t</div>",
+      "date": "2023-04-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "644514",
+      "is_folded": false,
+      "answerer": {
+        "username": "猫魔人",
+        "uid": "16840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t东京电视台采访了OPENAI一个日本出生、加拿大华裔的员工（日文采访）油管上有，值得一看\t\t</div>",
+      "date": "2023-04-01",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1167129",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-04-01",
+          "content": "人家国际学校+加拿大华裔 除了会说日文以外跟日本有什么关系吗？典型的国际化third culture kid 而已"
+        }
+      ]
+    },
+    {
+      "id": "640305",
+      "is_folded": false,
+      "answerer": {
+        "username": "英雄本色",
+        "uid": "108936"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本在信息化上，极其落后。<br/>\n<br/>\n日本IT人员工资还没中国高。<br/>\n<br/>\n日本议员，还在用软盘存东西。<br/>\nU盘都不会用。\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1163213",
+          "replier": {
+            "username": "超级码力",
+            "uid": "96100"
+          },
+          "date": "2023-03-15",
+          "content": "已删除"
+        },
+        {
+          "id": "1163279",
+          "replier": {
+            "username": "redstormss",
+            "uid": "45808"
+          },
+          "date": "2023-03-16",
+          "content": "@超级码力:Ruby语言的境遇恰恰证明了日本产业界的无能，这人要是一直呆在日本的话就和舛冈富士雄差不多，越有能力待遇越差"
+        }
+      ]
+    },
+    {
+      "id": "640302",
+      "is_folded": false,
+      "answerer": {
+        "username": "习近平会连任吗",
+        "uid": "73202"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小日本本身就对互联网创业没什么兴趣，人家是世界工业强国，各种工业产品质量数一数二，写写代码测测模型这种娘炮工作人家不稀罕。\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 2,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1163191",
+          "replier": {
+            "username": "追寻自由",
+            "uid": "92690"
+          },
+          "date": "2023-03-15",
+          "content": "这吹得也太尬了，搞得好像欧美国家都娘炮似的。。。。"
+        },
+        {
+          "id": "1163192",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-03-15",
+          "content": "法国德国什么时候娘炮了草"
+        },
+        {
+          "id": "1163194",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-03-15",
+          "content": "@追寻自由: 还有回国就职这件事也肯定是说不通的，里面除了波兰俄国还有不少西欧各国的研究者。日本一个没有我个人觉得只能说明日本人连海外读博这件事都不会去干"
+        },
+        {
+          "id": "1163416",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-03-16",
+          "content": "@矢作萌夏:法兰西球：我娘的时候也娘得艺术，岂是德国那群乡巴佬能相提并论的，使用meme😏\nhttps://www.youtube.com/watch?v=CAMWdvo71ls"
+        },
+        {
+          "id": "1163417",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-03-16",
+          "content": "日本人写代码基本都集中在工业领域（包括芯片），工业领域也需要程序员，而且代码水平比互联网公司高多了。\n支那\n程序员都搞互联网，工业领域就是一坨大便。日本还有索尼、任天堂、SE这些大型游戏公司，程序员给他们打工比在互联网公司强多了，水平也比\n支那\n互联网强，\n支那人\n到现在没搞出一个靠谱的3A游戏。"
+        },
+        {
+          "id": "1163468",
+          "replier": {
+            "username": "redstormss",
+            "uid": "45808"
+          },
+          "date": "2023-03-16",
+          "content": "@reddit_suck:只能说日本人不爱财，工业软件开发是有名的事多钱少，肝的不比民用少，但是薪资只有民用零头。国内发那科数控技术员起薪5000，腾讯阿里随便就是几万以上，"
+        },
+        {
+          "id": "1163586",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-03-17",
+          "content": "@redstormss:日本各行各业工资都差不多，喜欢硬件就干硬件，喜欢软件就干软件，工业和互联网选自己喜欢的，程序员做腻了改行干别的也差不多。\n支那\n贫富差距太大，想出人头地只能去高薪行业卷，做工业就是不如互联网来钱多。互联网是一个虚拟产业，技术来自欧美日，再怎么卷也就那么回事，浪费了很多优秀的人才"
+        },
+        {
+          "id": "1170553",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-04-15",
+          "content": "@reddit_suck:所以中村修二大罵日本一頓然後跑去美國"
+        }
+      ]
+    },
+    {
+      "id": "640313",
+      "is_folded": true,
+      "answerer": {
+        "username": "超级码力",
+        "uid": "96100"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-03-15",
+      "agree_count": 35,
+      "discussion_count": 13,
+      "discussions": [
+        {
+          "id": "1163212",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-03-15",
+          "content": "请问层主，thr3和asimo这类用到了哪些machine learning方面的研究？"
+        },
+        {
+          "id": "1163220",
+          "replier": {
+            "username": "超级码力",
+            "uid": "96100"
+          },
+          "date": "2023-03-15",
+          "content": "已删除"
+        },
+        {
+          "id": "1163239",
+          "replier": {
+            "username": "eeexplor",
+            "uid": "73767"
+          },
+          "date": "2023-03-15",
+          "content": "確實如此，想起以前用ROS平台寫computer vision的時候，裡面的開源碼還是豐田的人寫的"
+        },
+        {
+          "id": "1163241",
+          "replier": {
+            "username": "超级码力",
+            "uid": "96100"
+          },
+          "date": "2023-03-16",
+          "content": "已删除"
+        },
+        {
+          "id": "1163242",
+          "replier": {
+            "username": "超级码力",
+            "uid": "96100"
+          },
+          "date": "2023-03-16",
+          "content": "已删除"
+        },
+        {
+          "id": "1163271",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-03-16",
+          "content": "@超级码力: 请问所谓大力出奇迹指的就是这类天量数据狂用算力的部分吧？"
+        },
+        {
+          "id": "1163274",
+          "replier": {
+            "username": "爱娴",
+            "uid": "96773"
+          },
+          "date": "2023-03-16",
+          "content": "@矢作萌夏:客观来说，日本的科技理论领先桂枝很多，但是实际应用不如桂枝"
+        },
+        {
+          "id": "1163287",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-03-16",
+          "content": "又要被米哈游偷技术了"
+        },
+        {
+          "id": "1163436",
+          "replier": {
+            "username": "超级码力",
+            "uid": "96100"
+          },
+          "date": "2023-03-16",
+          "content": "已删除"
+        },
+        {
+          "id": "1167131",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-04-01",
+          "content": "@超级码力:阿西莫是最老的人形机器人，不过其技术早就过时了，早已停止研发。这东西也根本没有用到深度学习相关的AI"
+        },
+        {
+          "id": "1167132",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-04-01",
+          "content": "@超级码力:机器人控制根本不能算AI（起码在我们robotics and control society没人管这叫AI），轨迹规划也只能勉强算AI，但必须是基于learning的。传统rule based的轨迹规划不算AI。还有robotics跟AI是独立的两个学科，robotics不从属于AI。"
+        },
+        {
+          "id": "1167135",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-04-01",
+          "content": "@超级码力:robotics是由机械系—>机电控制—>工业机器人这一路发展起来的。而AI是计算机系—>机器学习—>神经网络这一路发展起来的。虽然现在两者在robot in unstructured environments的发展上越来越有互相结合的趋势，但他们本身并不是谁从属于谁的关系。"
+        },
+        {
+          "id": "1170480",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-04-15",
+          "content": "@超级码力:CV和NLP跟deep learning没关系？学习近平列书单吗？"
+        }
+      ]
+    }
+  ]
+}

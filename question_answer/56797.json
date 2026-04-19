@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "56797",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "639032",
+      "is_folded": false,
+      "answerer": {
+        "username": "MasonQian",
+        "uid": "15361"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t俄羅斯主要是靠石油<br/>\n開戰後石油價格飆高，對俄羅斯有利<br/>\n俄油主要北約國家不收，還有其他國收<br/>\n所以大致沒事吧<br/>\n這種東西看主要經濟來源跟其他國家的動態平衡\t\t</div>",
+      "date": "2023-03-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "639033",
+      "is_folded": false,
+      "answerer": {
+        "username": "zzzzz11111",
+        "uid": "41398"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能源粮食不出问题现代独裁国家很难自行崩溃\t\t</div>",
+      "date": "2023-03-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

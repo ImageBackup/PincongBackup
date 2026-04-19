@@ -1,0 +1,32 @@
+{
+  "question_id": "63507",
+  "category_id": "4",
+  "title": "有人用 Xray 吗？小火箭和 v2rayn 订阅格式不一样有好的解决方法吗？",
+  "meta_description": "有人用 Xray 吗？小火箭和 v2rayn 订阅格式不一样有好的解决方法吗？ - 这两个客户端生成的url不一样，导致无法使用同一个订阅链接  如果是 vmess 就没有这个问题  有没有好的解决办法",
+  "meta_keywords": "人用,xray,火箭,v2rayn,订阅,格式,不一样,解决,方法",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "2198",
+      "name": "V2Ray"
+    },
+    {
+      "id": "9360",
+      "name": "翻墙软件"
+    }
+  ],
+  "author": {
+    "username": "zaxinn",
+    "uid": "117936"
+  },
+  "view_count": 7037,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t这两个客户端生成的url不一样，导致无法使用同一个订阅链接<br/>\n<br/>\n如果是 vmess 就没有这个问题<br/>\n<br/>\n有没有好的解决办法\t\t\t\t\t\t\t</div>",
+  "date": "2023-11-24",
+  "agree_count": 1,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 1
+}

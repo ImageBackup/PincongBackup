@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "54639",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "614470",
+      "is_folded": false,
+      "answerer": {
+        "username": "remember1989",
+        "uid": "105192"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://ilovexjp.pages.dev<br/>\n不知道这个里面行不行   紫薯布丁紫薯紫薯紫薯紫薯\t\t</div>",
+      "date": "2022-12-27",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1138817",
+          "replier": {
+            "username": "qwe123qwe123",
+            "uid": "91660"
+          },
+          "date": "2022-12-27",
+          "content": "这个太旧了"
+        }
+      ]
+    },
+    {
+      "id": "627101",
+      "is_folded": false,
+      "answerer": {
+        "username": "qwe123qwe123",
+        "uid": "91660"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有没葱油有最新的版本？？？谢谢葱油<br/>\n<br/>\n紫薯紫薯紫薯紫\t\t</div>",
+      "date": "2023-02-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

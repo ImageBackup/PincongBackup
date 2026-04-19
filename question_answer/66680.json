@@ -1,0 +1,118 @@
+{
+  "parent_type": "question",
+  "parent_id": "66680",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "741763",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你好，在美国，以年来计算的工作经验是十分重要的，它有时同样参与工资的分配，尤其是教育行业。据说在日本，一个在位更久的职员更能拿到丰厚的工资，而且离职后还会有与在位时间有关的离职金可以拿。\t\t</div>",
+      "date": "2024-04-18",
+      "agree_count": 4,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1258591",
+          "replier": {
+            "username": "okamiyu",
+            "uid": "81756"
+          },
+          "date": "2024-04-18",
+          "content": "そうですね、日本では学歴と務める企業の規模にもよります。１０００万から２０００万以上くらいもらいます。もちろん。これは年金ではなくただの退職金です。"
+        },
+        {
+          "id": "1258596",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-18",
+          "content": "@okamiyu:wow that's a lot"
+        },
+        {
+          "id": "1258598",
+          "replier": {
+            "username": "okamiyu",
+            "uid": "81756"
+          },
+          "date": "2024-04-18",
+          "content": "@Nederland:円だからね元とドルではないから。そんなにはないかな。これは定年退職のほう貰えるものだから。"
+        },
+        {
+          "id": "1258603",
+          "replier": {
+            "username": "okamiyu",
+            "uid": "81756"
+          },
+          "date": "2024-04-18",
+          "content": "年金は自分負担だから仕事と関係ないですが、正式な仕事の場合、会社が５０％負担してくれるから、お得です。ちなみに今の満額だと780,900円もらえる、退職金もあるからすごいお金になるよ。"
+        },
+        {
+          "id": "1258609",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-18",
+          "content": "@okamiyu:I get it, thank you for telling me this"
+        }
+      ]
+    },
+    {
+      "id": "741889",
+      "is_folded": false,
+      "answerer": {
+        "username": "Muaie",
+        "uid": "119915"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t借楼问问 那么年龄歧视有吗？<br/>\n<br/>\n<br/>\n字字字字字字字字字字\t\t</div>",
+      "date": "2024-04-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741863",
+      "is_folded": false,
+      "answerer": {
+        "username": "xijinping1994",
+        "uid": "125189"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t工龄似乎是体制内和退休金挂钩而设计的，其他国家是不是没有这个制度，而是按照工作时支付的社保金多寡，来获得退休收入？<br/>\n<br/>\n我没在国外生活过，非常好奇各国的社保制度和退休金制度，请有这方面知识的大神不吝赐教。非常感谢。\t\t</div>",
+      "date": "2024-04-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741865",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这种问题你不如问知乎。<br/>\n<br/>\n一般来说就是几个方向：保护低收入的社保，自己存将来花的养老金（单位有可能match），退休时领取的退休金，中国特色现在交的和将来拿的没啥关系的社会统筹。具体每种我以前都发过帖子，楼主懒得翻去Google比较快。\t\t</div>",
+      "date": "2024-04-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741866",
+      "is_folded": false,
+      "answerer": {
+        "username": "汉口市长",
+        "uid": "113634"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有，美国攒够十年“工龄”，就能拿养老金了<br/>\n<br/>\n<br/>\n字数字数字数字数\t\t</div>",
+      "date": "2024-04-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

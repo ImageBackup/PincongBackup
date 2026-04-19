@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "58859",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "660241",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支太君",
+        "uid": "83470"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人在美国为什么还要玩需要身份证的中国游戏？\t\t</div>",
+      "date": "2023-06-04",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1181964",
+          "replier": {
+            "username": "hairlessness",
+            "uid": "103852"
+          },
+          "date": "2023-06-04",
+          "content": "想玩了"
+        }
+      ]
+    },
+    {
+      "id": "660250",
+      "is_folded": true,
+      "answerer": {
+        "username": "金木水火土",
+        "uid": "102577"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-06-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "parent_type": "question",
+  "parent_id": "56046",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "630448",
+      "is_folded": false,
+      "answerer": {
+        "username": "肖战嗦习维尼牛子",
+        "uid": "84670"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国IP、香港IP、美国IP都不行。而且ChatGPT开始封机房IP了，可能以后必须用家宽IP才能用也说不定。<br/>\n<br/>\n打开ipinfo.io 下拉，看自己的IP type，如果是isp，就是家宽，business是商宽，hosting是机房ip。\t\t</div>",
+      "date": "2023-02-12",
+      "agree_count": 5,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1153794",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-02-13",
+          "content": "不对吧，国外在公司里上班的人使用的网络不能访问 ChatGPT？不可能"
+        },
+        {
+          "id": "1153796",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-02-13",
+          "content": "而且我刚才在国外家里试了ipinfo.io，type:\"hosting\",说明你这个结论不靠谱"
+        },
+        {
+          "id": "1153818",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-13",
+          "content": "@billzt:也可能是我的IP不干净吧，反正我发现美国某机房IP访问不了。至于ipinfo也只是个参考，真想要看IP类型，还要根据其他因素，通常需要加钱。ipinfo的地理位置有的还显示“湖南省武汉市”这种错误，仅供参考。"
+        }
+      ]
+    },
+    {
+      "id": "630863",
+      "is_folded": false,
+      "answerer": {
+        "username": "chenwen",
+        "uid": "78602"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t肉身在内，但我有美国手机卡，算是赛博脱亚入欧吧。不过现在要订阅会员才能使用chatgpt了。<br/>\n<br/>\nedit：非会员仅在需求低时可用。\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "630480",
+      "is_folded": false,
+      "answerer": {
+        "username": "半场",
+        "uid": "105808"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是不是被防火墙Cloudflare拦截了？这个Cloudflare恶心无比，到处都见它拦截不让我访问墙外网站。\t\t</div>",
+      "date": "2023-02-13",
+      "agree_count": -1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1153815",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-13",
+          "content": "先了解下CDN是做什么的，不要“半场”开香槟"
+        }
+      ]
+    }
+  ]
+}

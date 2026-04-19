@@ -1,0 +1,22 @@
+{
+  "article_id": "68551",
+  "category_id": "4",
+  "title": "谈谈linux怎么翻墙",
+  "meta_description": "谈谈linux怎么翻墙 - 这里以Debian为例，仅考虑linux使用客户端。  推荐使用docker+v2raya的方式（docker+clash暂时还可用,但不推荐）  步骤：  1. 使用shell脚本安装docker engine curl -fsSL https://ge...",
+  "meta_keywords": "谈谈,linux,翻墙",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    }
+  ],
+  "author": {
+    "username": "Deskwork2175",
+    "uid": "122665"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t这里以Debian为例，仅考虑linux使用客户端。<br/>\n<br/>\r\n推荐使用docker+v2raya的方式（docker+clash暂时还可用,但不推荐）  步骤：<br/>\n<br/>\r\n1. 使用shell脚本安装docker engine<br/>\r\ncurl -fsSL https://get.docker.com -o get-docker.sh (需要先安装curl)<br/>\r\nsh get-docker.sh<br/>\n<br/>\r\n2.添加docker用户组（免去频繁sudo）<br/>\r\nsudo groupadd docker<br/>\r\nsudo usermod -aG docker $USER<br/>\r\nnewgrp docker<br/>\n<br/>\r\n3.拉取v2raya的docker image<br/>\r\n <br/>\r\ndocker pull mzz2017/v2raya (默认拉取最新版本）<br/>\n<br/>\r\n4.查询v2ray 的image id<br/>\r\ndocker images<br/>\n<br/>\r\n5.启动v2raya<br/>\n<br/>\r\ndocker run -d --restart=always --privileged --network=host --name=v2raya 接上v2ray的image id   (官方文档指定了相关路径和目录映射，实际上并不需要，所以就不加上了）<br/>\n<br/>\r\n6.访问v2raya的使用界面<br/>\n<br/>\r\n访问127.0.0.1:2017 或 你的linux内网ip:2017 进而访问v2raya的web gui<br/>\n<br/>\r\n到这一步添加节点和使用就很容易了，不再赘述\t\t\t\t\t\t\t</div>",
+  "view_count": 13724,
+  "date": "2024-01-31",
+  "agree_count": 9,
+  "comment_count": 16
+}

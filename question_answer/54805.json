@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "54805",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "616135",
+      "is_folded": false,
+      "answerer": {
+        "username": "熙来",
+        "uid": "92527"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t江泽民抗议声中离开人世<br/>\n<br/>\n胡锦涛众目之下抬出会场<br/>\n<br/>\n横批：两个确立\t\t</div>",
+      "date": "2023-01-01",
+      "agree_count": 7,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1140296",
+          "replier": {
+            "username": "yundi",
+            "uid": "90205"
+          },
+          "date": "2023-01-02",
+          "content": "哈哈哈哈哈"
+        }
+      ]
+    },
+    {
+      "id": "616302",
+      "is_folded": false,
+      "answerer": {
+        "username": "肖战嗦习维尼牛子",
+        "uid": "84670"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t上联：登基十载未闻民沸人怨<br/>\n下联：建党百年哪管洪水滔天<br/>\n<br/>\n横批：这就是中国<br/>\n<br/>\n<br/>\n这是我21年写的，那时候习近平上任十年，共产党建党百年。\t\t</div>",
+      "date": "2023-01-01",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "616374",
+      "is_folded": false,
+      "answerer": {
+        "username": "神州陆沉",
+        "uid": "89962"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t六亿人民齐跃进（深渊）<br/>\n十年国庆（惟）共（党）欢腾<br/>\n<br/>\n陈寅恪 1959\t\t</div>",
+      "date": "2023-01-02",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

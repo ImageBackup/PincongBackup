@@ -1,0 +1,269 @@
+{
+  "parent_type": "question",
+  "parent_id": "60163",
+  "answer_count": 13,
+  "answers": [
+    {
+      "id": "673160",
+      "is_folded": false,
+      "answerer": {
+        "username": "revn1987",
+        "uid": "54663"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国产核磁共振应该指的是联影，联营比较难说是吹牛还是真的，但是国内的报道绝对是吹牛。<br/>\n联影的发家方式比较有争议，基本就是高价买下了整个西门子中国的研发团队，吸收了西门子的供应链然后通过‘公正’的司法系统宣布西门子的技术无效，买下的人其实在上海高研院而不是联影工作所以没有违反竞业限制。这件事给国内的医疗器械毕业生很大打击，之后GPS三家几乎不在国内招聘研发岗。这一下降低了联影很多研发成本，所以可以打价格战。<br/>\n联影卷的氛围还是可以的，作为技术人员肯定喜欢这种密集的工程问题+解决问题的挑战。联影也算是国内研发氛围比较好的公司，尽管抄过别人但是技术人员还是一直在完善产品。<br/>\n至于报道，国内之前mri贵和gps毛关系没有，和某些国家的神奇税率以及手续繁杂关系更大。20年1.5t MRI在美国大概130万美元吧，x23。 至于国内1.5t所谓降到300-400万基本上是东软x16的，扫描速度会慢很多，x23的大概是600万，价格只是和美国平齐了。静态扫描精度差不多，但扫描速度还是比GPS的x23差（当然好于x16）。MRI扫描速度非常重要，因为核磁共振移动会导致影响分辨下降。医学那边我不是很清楚，不过科研这边联影的扫描速度一直跟不上。3.0t的美国那边基本上往300万美元走，这里联影报价的确低不少，但是还是速度问题，3.0t是要看1.5t看不清的，可能动的区域，如果速度慢就没有意义了。<br/>\n总结来说国内之前那些2000万以上的mri要不然是定制的科研款，要不然是某些特色下的神奇价格，如果按照美国mri价格来算国内mri的确会便宜，但是什么降价90%就是拿不同产品做对比的结果。\t\t</div>",
+      "date": "2023-07-23",
+      "agree_count": 10,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673829",
+      "is_folded": false,
+      "answerer": {
+        "username": "熱血大叔",
+        "uid": "89990"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t難得看到一題我可以發揮的專業問題。<br/>\n電腦斷層掃描(CT)始於1971，磁振造影(MRI)始於1980，以近數十年的科技發展來看，這兩種設備都應該被破解的七七八八，屬於爛大街隨便阿貓阿狗都可以做得出來的東西，事實上是如此嗎？影像三巨頭被業界戲稱GPS：GE、Philips、Siemens，這三巨頭在CT、MRI的全球市佔率約略占了七成多不到八成，以亞洲市場來說，還有Canon(併購Toshiba Medical)以及Fujifilm(併購Hitachi Medical)以及其他歐、美小廠分食剩餘的兩成多的市場。<br/>\n這塊封閉的市場這麼香，毛利又高的嚇人，難道沒有後來著試著搶食嗎？印象中在2008年左右富士康的郭台銘就信心滿滿的要進入醫療領域，並誇下海口讓台灣每一家診所都裝一台CT，2011年左右Samsung就在RSNA上放了一台CT的prototype，十多年過去了，富士康的醫療團隊退而求其次的作代理生意，Samsung的CT也從來不曾問世。<br/>\n與其他行業的高精密儀器雷同，醫療設備也是軟、硬體的整合，而不是硬體拼拼湊湊就成的了事。<br/>\n先說硬體。某樓蔥友提到，聯影以國家之力將西門子中國的員工買下一大半，並因此得取得上游供應商的相關渠道進入這個市場。然而GPS都各有各的關鍵硬體技術，而這些硬體都是自產自用而不外賣，以CT而言，高階X光管球(X-Ray Tube)及偵檢器(Detector)就是關鍵組件，對MRI而言則是磁體、線圈等，甚至連高壓產生器及RF發射器都是自產自用，因此聯影只能自行研發或外購，自行研發的難度就不說了，幾十年的累積沒有彎道超車的可能性，外購則只能買的到中低階的產品，例如西門子醫療有OEM的業務，但它只賣低階的零組件。換言之，單純比較高階設備硬體規格的話，中國製的CT、MRI落在後段班，賣不進大型醫療院所。缺乏高階關鍵組件的狀況，想想現在的華為所面臨的困境，大概可以略窺一二。<br/>\n再來說說演算法(軟體)，這可不是隨便找個速成班軟體工程師就行得通的，以MRI來說，涉及傅立葉級數轉換，林杯求學時代就被這位傅立葉折磨的生不如死，再來還要優化，別家的儀器幾秒鐘後影像就出來了，你家的影像要等軟體運算幾分鐘到幾十分鐘，一天掃描十幾個病人累積起來的延誤非常可觀，哪還賣的動？影像出來後還要涉及後處理的分析軟體，這可不是工程師可以單幹的，必須跟資深的放射科醫師合作才行。這就出現一個現象：比較兩款中、低階設備時，GPS的硬體規格可能全面落後於中國品牌，但實際的使用體驗，GPS全面輾壓中國品牌。<br/>\n醫療影像還有一個特性，藝術：把0/1的訊號轉化為黑白灰階的影像，以便讓醫師可以判讀，這是一門藝術。曾有醫師對我說過：你看看你們家這個CT影像，塑膠味這麼重，我怎麼判讀？你再看看別人家的影像，多漂亮啊！說實話，林杯完全不知道他在供三小，就像畢卡索的畫作和幼兒園學生的塗鴉，在我等凡夫俗子眼中是一樣的，但在行家眼中卻有天讓之別。交響樂指揮對打擊手說：這個段落你要放入情感，要敲出恢弘但悲壯的氣概；打擊手：你是要我敲大力一點嗎？醫師是指揮，軟體工程師是打擊手，工程師不清楚醫師的需求，自然無法用調教出適當的影像特性。<br/>\n日本兩家老牌供應商Toshiba &amp; Hitachi，追趕了幾十年還是看不到GPS的車尾燈，Toshiba還好一些，64 slice CT出來後乃至於640 slice CT，在CT領域已經儕身第一梯隊，但MRI及MI的產品還是全面落後中。聯影、邁瑞某種程度有華為的感覺，被中國人視為國產之光，但把視野放大到全球市場，你會發現，他們只是在中低階市場打價格戰搶食低利潤市場的市占率，高利潤的頂級市場完全吃不到。至於中國產品在中國的市占率就不多說了，大家都懂。<br/>\n影像設備這一塊靠的是薄積累發，需要長而持續地累積，跟煉芯一樣，必須一步一腳印克服難關避開專利壁壘，不是一蹴可及的。<br/>\n彎道超車？中國品牌影像設備這一塊，我目前看到的都是翻車的。\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2023-07-26",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673117",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果说的是用于化学研究的核磁共振波谱仪，这玩意已经问世七十多年了；如果说的是用于医疗诊断的核磁共振成像，这是半个世纪前发明的。不论哪一个，都是很成熟的技术了，有什么特别值得吹嘘的吗？\t\t</div>",
+      "date": "2023-07-23",
+      "agree_count": 9,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1193777",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-07-23",
+          "content": "Best Answer"
+        },
+        {
+          "id": "1193805",
+          "replier": {
+            "username": "abing101",
+            "uid": "113671"
+          },
+          "date": "2023-07-24",
+          "content": "就像航母和民航客机一样。。。日本70年前就造出多少航母称霸西太平洋还和美国过了几招，大飞机就更不要说了，现在什么山东号辽宁号都是回收♻️人家旧航母翻新的还敢吹牛逼。新出的大飞机就更不要说了，上面除了壳子基本上引擎系统都是西方的技术，能坦诚一点老实一点慢慢发展没人会笑你，只是你这自欺欺人的做法真的让人看不下去。"
+        }
+      ]
+    },
+    {
+      "id": "673096",
+      "is_folded": false,
+      "answerer": {
+        "username": "functional",
+        "uid": "112730"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不懂这东西，只能说下在amazon 的购物感受，实在没办法才会买中国产品。质量根本无法保证，连说明书都糊弄。\t\t</div>",
+      "date": "2023-07-23",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1193702",
+          "replier": {
+            "username": "robinwen",
+            "uid": "3603"
+          },
+          "date": "2023-07-23",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "673101",
+      "is_folded": false,
+      "answerer": {
+        "username": "我真的不知道",
+        "uid": "73219"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国产MRI与进口MRI在配置、单价、功能、维修保养等方面有差异，有论文通过采用方便抽样，抽取64家样本医疗机构，就MRI的配置及使用情况进行关键知情人访谈。结果：国产MRI在采购单价和维保便捷性方面具有优势，可以满足静态部位的检查需要，但在动态部位检查、扫描时间和图像质量等方面与进口MRI还存在差距。\t\t</div>",
+      "date": "2023-07-23",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673181",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有没有可能<br/>\n<br/>\n核心部件是西门子或者富士的<br/>\n<br/>\n然后其他零配件是国产的？\t\t</div>",
+      "date": "2023-07-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673129",
+      "is_folded": false,
+      "answerer": {
+        "username": "pokornyjelen",
+        "uid": "108712"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t市场是检验技术的唯一标准。只要有市场，就可以有时间迭代升级。\t\t</div>",
+      "date": "2023-07-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673098",
+      "is_folded": false,
+      "answerer": {
+        "username": "robinwen",
+        "uid": "3603"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我在amazon上买东西都不知道在哪里看产地。但是碰到中国产的东西机率高挺大的。说回核磁共振仪，还有最近的飞机发动机，我觉得中国那种欺上瞒下，外行领导内行，还有瓦房店技术，怎么会在这些方面有突破，觉得很不相信啊。如果中共掌握这些高精尖技术的话，怎么看也是人类之祸。\t\t</div>",
+      "date": "2023-07-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673180",
+      "is_folded": false,
+      "answerer": {
+        "username": "天天吃包子",
+        "uid": "105007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要是中共搞得东西，必然是吹牛，共产党傻逼一窝，啥都搞不出来，就差一场战争把它们全灭了\t\t</div>",
+      "date": "2023-07-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673113",
+      "is_folded": false,
+      "answerer": {
+        "username": "毅俊389",
+        "uid": "12775"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国产的大疆无人机倒是全世界占有率最高，所有广告都是洋人来拍，不知道的还以为是洋货\t\t</div>",
+      "date": "2023-07-23",
+      "agree_count": 1,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1193731",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-07-23",
+          "content": "大疆毕竟还是组装货，不能算核心技术国产化\n类似富士康组装苹果"
+        },
+        {
+          "id": "1193737",
+          "replier": {
+            "username": "redstormss",
+            "uid": "45808"
+          },
+          "date": "2023-07-23",
+          "content": "@rowlandheights:核心技术就是芯片了，除了芯片别的大疆都能自产"
+        },
+        {
+          "id": "1193738",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-07-23",
+          "content": "@redstormss:其他材料也是从供货商那里买来组装的，当然很多要求不高的材料中国早就能生产了，比如工程塑料"
+        },
+        {
+          "id": "1193759",
+          "replier": {
+            "username": "毅俊389",
+            "uid": "12775"
+          },
+          "date": "2023-07-23",
+          "content": "不过大疆还算老实，韬光养晦闷头赚钱。希望它家扛起华为的大旗哈哈哈"
+        },
+        {
+          "id": "1193760",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-07-23",
+          "content": "@毅俊389:闷头也没用，五角大楼说了，不能买大疆用于米军军事用途"
+        },
+        {
+          "id": "1193766",
+          "replier": {
+            "username": "毅俊389",
+            "uid": "12775"
+          },
+          "date": "2023-07-23",
+          "content": "@rowlandheights:军事肯定是不行的，可惜的是没把它民用的也干死，让它在那装洋货"
+        },
+        {
+          "id": "1193768",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-07-23",
+          "content": "@毅俊389:民用价廉物美有啥不好，中国赚点组装的辛苦费也是应该的"
+        }
+      ]
+    },
+    {
+      "id": "673099",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一：各种高新科技，中国都有国产的<br/>\n<br/>\n二：除了个别产品，都是落后的淘汰货<br/>\n<br/>\n三：先进的多半不好用\t\t</div>",
+      "date": "2023-07-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673159",
+      "is_folded": false,
+      "answerer": {
+        "username": "天日昭昭",
+        "uid": "103606"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这破玩意真的突破了，更高级的ct/pet都有国产替代的。\t\t</div>",
+      "date": "2023-07-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673178",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是医学用的那个核磁共振么？<br/>\n<br/>\n和中国生产的飞机一样，不敢坐也不敢用。\t\t</div>",
+      "date": "2023-07-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "parent_type": "question",
+  "parent_id": "60687",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "677989",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从口头反贼变实际反贼，挺好的。<br/>\n<br/>\n普通人没有任何可能避开网络服务和终端两大限制，end of story\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677988",
+      "is_folded": false,
+      "answerer": {
+        "username": "democracy2022",
+        "uid": "106127"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果不能翻墙，墙内的反贼活着还有啥意义？不行就去国外买电话卡了\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677999",
+      "is_folded": false,
+      "answerer": {
+        "username": "灵感泉",
+        "uid": "665"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我都是用电脑翻墙 只要电脑还能翻墙 手机翻墙也会有办法解决\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1197996",
+          "replier": {
+            "username": "lqczhhlrh",
+            "uid": "93213"
+          },
+          "date": "2023-08-09",
+          "content": "PC开着机，开着开源的远程工具，手机开远程工具，远程PC，通过PC翻墙"
+        }
+      ]
+    },
+    {
+      "id": "677987",
+      "is_folded": false,
+      "answerer": {
+        "username": "moshan",
+        "uid": "102479"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中共国的每一个手机制造商都会一丝不苟地落实共匪党的规定。普通人能够采取什么措施避开这些间谍设施？\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1197993",
+          "replier": {
+            "username": "隐匿之影",
+            "uid": "103339"
+          },
+          "date": "2023-08-09",
+          "content": "不用国产手机"
+        }
+      ]
+    },
+    {
+      "id": "678620",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想做绝的话直接搞白名单，要求app主动提供备案验证信息，不提供一律禁入就完事了，这也没有监控你，就是单纯不让你用而已\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "parent_type": "question",
+  "parent_id": "54892",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "617276",
+      "is_folded": false,
+      "answerer": {
+        "username": "映霞",
+        "uid": "100046"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t推荐<a href=\"url/link/aHR0cHM6Ly9naXRodWIuY29tL3JpbWUvaG9tZQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://github.com/rime/home\">rime</a><br/>\n优点<br/>\n<ul><li>开源，不联网，足够安全</li><li>许多配置都能自定义，可拓展性强</li><li>Win，Mac，Linux以及苹果安卓都能使用，将配置文件拷贝过去即可在不同平台使用同样的配置</li></ul><br/>\n缺点<br/>\n<ul><li>需要自行配置，有一定的上手门槛</li></ul><br/>\n<br/>\n楼主若想使用，可参考<a href=\"url/link/aHR0cHM6Ly9naXRodWIuY29tL3JpbWUvaG9tZS93aWtpL1VzZXJHdWlkZQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://github.com/rime/home/wiki/UserGuide\">官方文档</a>，亦可在github上找些大佬现成的配置方案。<br/>\n<br/>\n层主抛弃了百度输入法，现在用了rime两三个月了。别的不说，以前输入一些内容后，其他应用的广告里就会出现相关的产品，现在这种情况已经大大减少了👏\t\t</div>",
+      "date": "2023-01-04",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617490",
+      "is_folded": false,
+      "answerer": {
+        "username": "DEMfreedom",
+        "uid": "103265"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t微软谷歌苹果，三巨头的输入法都不可靠的话那就没什么靠谱的输入法\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617187",
+      "is_folded": false,
+      "answerer": {
+        "username": "忧乐为天下",
+        "uid": "23699"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t台湾 嘸蝦米輸入法  <a href=\"url/link/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mTHJqekxQdzVCRQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=fLrjzLPw5BE\">https://www.youtube.com/watch?v=fLrjzLPw5BE</a> </div>",
+      "date": "2023-01-04",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1140918",
+          "replier": {
+            "username": "笨笨兔",
+            "uid": "95706"
+          },
+          "date": "2023-01-04",
+          "content": "謝々　けっこうおもしろそう。"
+        }
+      ]
+    },
+    {
+      "id": "617189",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只说拼音输入法的话，电脑早几年一直在用Microsoft自带中文输入，后来有一段时间Microsoft系统根据非默认输入法显示中文后（Google一下发现不止中文、很多其他非默认输入也有同样问题）就把中文输入卸了。好在电脑端也基本没有输入中文的需求。<br/>\n<br/>\n手机端一直是苹果自带中文输入。很多词语/成语/诗句/古汉语用法是没有的，但日常够用。<br/>\n<br/>\n五笔/仓颉/注音等不了解。\t\t</div>",
+      "date": "2023-01-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617203",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t找到输入法的exe文件，然后打开Windows防火墙，在出站规则和入站规则都建一条禁止联网。\t\t</div>",
+      "date": "2023-01-04",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1141019",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-01-04",
+          "content": "太天真，\n支那\n产的软件怎么可能只有主程序上传用户数据？就算你把所有上传程序都用防火墙屏蔽了，后台占用资源难道能忍？一个输入法占用内存几百兆"
+        }
+      ]
+    },
+    {
+      "id": "617211",
+      "is_folded": false,
+      "answerer": {
+        "username": "荣耀归于上帝",
+        "uid": "14555"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://rime.im/<br/>\n中州韻輸入法引擎<br/>\n<br/>\n全平台，win、linux、mac OS、android、iOS 都支持。支持各种输入法，拼音、各种双拼、五笔、仓颉、注音、自然码等等。<br/>\n<br/>\n不过使用上有点门槛。主要问题，一是可能需要找词库，虽然我觉得自带的就够用了，不过网上词库不少，有搜狗、百度、google等的词库。<br/>\n<br/>\n二是多平台的同步比较麻烦，现在没有自带同步方案，需要自己使用其它方式同步资料（词库、设定等）。<br/>\n<br/>\n<br/>\n<blockquote>通過 /plum/ 配置管理器獲取並安裝輸入方案：〔庫藏一覽〕<br/>\n<br/>\n  - 現代標準漢語：朙月拼音、地球拼音、注音<br/>\n  - 拼音的變體：雙拼、宮保拼音、打字速記法<br/>\n  - 漢語方言：粵拼、吳語（上海話、蘇州話）<br/>\n  - 歷史音韻：中古漢語拼音<br/>\n  - 字形輸入法：五筆畫、倉頡、速成、五筆<br/>\n  - 符號輸入：繪文字、國際音標</blockquote><br/>\n<br/>\n[推薦一個神級輸入法——Rime](https://byvoid.com/zht/blog/recommend-rime/)<br/>\n[鼠须管，“神级” 输入法 | 爱范儿](https://www.ifanr.com/156409)\t\t</div>",
+      "date": "2023-01-04",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1140997",
+          "replier": {
+            "username": "笨笨兔",
+            "uid": "95706"
+          },
+          "date": "2023-01-04",
+          "content": "非常感謝！小狼毫很好用。謝謝！"
+        }
+      ]
+    }
+  ]
+}

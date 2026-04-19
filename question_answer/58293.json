@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "58293",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "654774",
+      "is_folded": false,
+      "answerer": {
+        "username": "养老不能靠政府",
+        "uid": "48556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t和平演变窗口已经过去，不止总书记和中国人民弃之如敝履，西方也视之为耻辱的失败了。未来东亚要么是中华帝国的天下，要么是日本印度在美帝撤出之后代管，您所担忧的情况不会出现。\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654769",
+      "is_folded": true,
+      "answerer": {
+        "username": "芝麻没有一个五谷",
+        "uid": "103451"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-05-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

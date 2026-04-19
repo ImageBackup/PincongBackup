@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "66254",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "737314",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t前面那个，水贴太多，主题帖就标题那么两个字，有刷版嫌疑。先灰名单处理，以后再刷就封。<br/>\n后面那个，由于答案全删了，不知道它在搞什么，先放着。这也可能是一种新的刷版攻击行为，我会关注它们动向的。\t\t</div>",
+      "date": "2024-03-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

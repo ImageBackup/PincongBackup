@@ -1,0 +1,97 @@
+{
+  "question_id": "42221",
+  "category_id": "4",
+  "title": "请问墙外家用wifi无法访问品葱该如何解决？",
+  "meta_description": "请问墙外家用wifi无法访问品葱该如何解决？ - 如题，不同设备chrome连接Wi-Fi都无法访问，但是手机的移动数据网络可以，人在墙外。谢谢！ [quote]Error 1020 Ray ID: xxxxx  • 2021-10-02 xxxx Access denied What happened?...",
+  "meta_keywords": "请问,墙外,家用,wifi,无法,访问,品葱,解决",
+  "tags": [
+    {
+      "id": "128",
+      "name": "品蔥"
+    }
+  ],
+  "author": {
+    "username": "诺克特",
+    "uid": "30984"
+  },
+  "view_count": 11451,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t如题，不同设备chrome连接Wi-Fi都无法访问，但是手机的移动数据网络可以，人在墙外。谢谢！<br/>\n<blockquote>Error 1020<br/>\nRay ID: xxxxx<br/>\n<br/>\n•<br/>\n2021-10-02 xxxx<br/>\nAccess denied<br/>\nWhat happened?<br/>\n<br/>\nThis website is using a security service to protect itself from online attacks</blockquote><br/>\n<br/>\n更新：<br/>\n我咨询过了网络运营商 他们确认过了不是我这边网络的问题 也不是路由器的问题\t\t\t\t\t\t\t</div>",
+  "date": "2021-10-02",
+  "agree_count": 2,
+  "discussion_count": 8,
+  "discussions": [
+    {
+      "id": "1001661",
+      "replier": {
+        "username": "pixel",
+        "uid": "74443"
+      },
+      "date": "2021-10-02",
+      "content": "如果是Fixed IP就找管理報告，應該可以加進白名單。如果是Dynamic IP就重新啟動一下router，換個新的IP就好了。"
+    },
+    {
+      "id": "1001663",
+      "replier": {
+        "username": "诺克特",
+        "uid": "30984"
+      },
+      "date": "2021-10-02",
+      "content": "谢谢你 我先重启试试看@pixel:"
+    },
+    {
+      "id": "1001664",
+      "replier": {
+        "username": "诺克特",
+        "uid": "30984"
+      },
+      "date": "2021-10-02",
+      "content": "@pixel:应该是动态ip的 重启也还是这样 看来要问运营商了"
+    },
+    {
+      "id": "1001666",
+      "replier": {
+        "username": "N2o小熊",
+        "uid": "26074"
+      },
+      "date": "2021-10-03",
+      "content": "@诺克特:我知道許多運營商雖然是動態ip但是永遠會分到同一個ip。建議看看重啟後ip是否發生變化。"
+    },
+    {
+      "id": "1001669",
+      "replier": {
+        "username": "诺克特",
+        "uid": "30984"
+      },
+      "date": "2021-10-03",
+      "content": "@N2o小熊:重启了呀(╥﹏╥)没效果"
+    },
+    {
+      "id": "1001673",
+      "replier": {
+        "username": "N2o小熊",
+        "uid": "26074"
+      },
+      "date": "2021-10-03",
+      "content": "@诺克特:問題在於重啟是否改變了ip"
+    },
+    {
+      "id": "1001712",
+      "replier": {
+        "username": "pixel",
+        "uid": "74443"
+      },
+      "date": "2021-10-04",
+      "content": "@诺克特:嘗試用Google一下my ip, 看看重新啟動之後是不是有改變？如果沒有改變，那就是 @N2o小熊 說的情況確實有存在。可以和電信商諮詢，申請一個fixed IP 來解決這個問題（通常只要不是資源太緊張，向電信商說明原因，就可以免費分配給你），或者只好換電信商來解決了。"
+    },
+    {
+      "id": "1001715",
+      "replier": {
+        "username": "诺克特",
+        "uid": "30984"
+      },
+      "date": "2021-10-04",
+      "content": "@pixel:好的谢谢你"
+    }
+  ],
+  "answer_count": 7
+}

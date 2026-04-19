@@ -1,0 +1,26 @@
+{
+  "article_id": "69670",
+  "category_id": "14",
+  "title": "Palworld - <幻兽帕鲁> 已内置敏感词屏蔽系统",
+  "meta_description": "Palworld - <幻兽帕鲁> 已内置敏感词屏蔽系统 - 自0.15更新后更改帕鲁名字都需要经过 api.palworldgame.com 的审查,如果无法访问该网址则无法更改名字 该机制取决于用户进行游戏使用的语言来进行过滤 如果游戏是中文,则整合了中文的屏蔽词库,政治词汇自然也是屏蔽了的 如果游戏是英文,则屏...",
+  "meta_keywords": "palworld,lt,幻兽,帕鲁,gt,内置,敏感,屏蔽,系统",
+  "tags": [
+    {
+      "id": "81",
+      "name": "游戏"
+    },
+    {
+      "id": "1317",
+      "name": "内容审查"
+    }
+  ],
+  "author": {
+    "username": "takesipon",
+    "uid": "89998"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t自0.15更新后更改帕鲁名字都需要经过 api.palworldgame.com 的审查,如果无法访问该网址则无法更改名字<br/>\r\n该机制取决于用户进行游戏使用的语言来进行过滤<br/>\r\n如果游戏是中文,则整合了中文的屏蔽词库,政治词汇自然也是屏蔽了的<br/>\r\n如果游戏是英文,则屏蔽了诸如 Fuck Bitch 这种词汇,也可以借由此绕过中文特色屏蔽<br/>\n<hr/><br/>\r\n好笑的是,这个网站在支那是无法直接访问的,导致你如果用中文进行游戏,就算你连接互联网也还要品这口屎<br/>\n<br/>\r\n连Winnie都是不能作为名字的<br/>\n<br/>\r\n游戏BUG满天飞,却先想着怎么整敏感词,多少有点病这个公司\t\t\t\t\t\t\t</div>",
+  "view_count": 4421,
+  "date": "2024-03-05",
+  "agree_count": 3,
+  "comment_count": 6
+}

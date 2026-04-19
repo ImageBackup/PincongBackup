@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "54521",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "612924",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t任何变种都是会努力让宿主 生存下去。而不是杀死宿主。病毒又不是傻子。<br/>\n<br/>\n流感病毒年年都要打疫苗，而且疫苗每年都是不一样的，这不就说明人体对流感病毒实际并未产生免疫吗？既然流感可以每年阳了又阳，而且每年还死那么多人，可是社会却对此如此轻视？<br/>\n<br/>\n这就是人类社会，盲从的 弱智一般被各种社会热点牵着鼻子走。比金鱼脑子略大一点的记忆。\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137533",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2022-12-22",
+          "content": "你说的疫苗，是不是只防重症死亡，不防感染的疫苗？"
+        }
+      ]
+    }
+  ]
+}

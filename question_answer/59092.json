@@ -1,0 +1,75 @@
+{
+  "parent_type": "question",
+  "parent_id": "59092",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "662462",
+      "is_folded": false,
+      "answerer": {
+        "username": "flicker_free",
+        "uid": "98663"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t放出来是肯定不可能这么快的。<br/>\n<br/>\n估计八月一日五花大绑押到菜市口公审，然后直播问斩吧。\t\t</div>",
+      "date": "2023-06-13",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662450",
+      "is_folded": false,
+      "answerer": {
+        "username": "蘑菇云",
+        "uid": "77623"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t立案调查而已，并不是抓进去。抓进去的官方表述是采取刑事强制措施，当然取保候审也是强制措施，并不代表人被关起来。\t\t</div>",
+      "date": "2023-06-13",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1183942",
+          "replier": {
+            "username": "judgementday",
+            "uid": "95239"
+          },
+          "date": "2023-06-13",
+          "content": "不对吧，新闻说的是已拘留"
+        }
+      ]
+    },
+    {
+      "id": "662460",
+      "is_folded": false,
+      "answerer": {
+        "username": "屮尼玛",
+        "uid": "78795"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我记得是“立案调查“，并没有说把李抓起来，这是两个概念。\t\t</div>",
+      "date": "2023-06-13",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1183943",
+          "replier": {
+            "username": "judgementday",
+            "uid": "95239"
+          },
+          "date": "2023-06-13",
+          "content": "新闻都是已拘留"
+        },
+        {
+          "id": "1183956",
+          "replier": {
+            "username": "屮尼玛",
+            "uid": "78795"
+          },
+          "date": "2023-06-14",
+          "content": "@judgementday: 这个真没持续关注啊。我确实只听说要“立案调查”，没听说拘捕的事情啊。那里得来的信息？啥时候的事情啊？"
+        }
+      ]
+    }
+  ]
+}

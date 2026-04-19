@@ -1,0 +1,53 @@
+{
+  "parent_type": "question",
+  "parent_id": "66113",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "736898",
+      "is_folded": false,
+      "answerer": {
+        "username": "国家主席刘德华",
+        "uid": "112103"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没人吗，应该有八零后的葱油看过她以前演的星梦奇缘吧\t\t</div>",
+      "date": "2024-03-28",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1301464",
+          "replier": {
+            "username": "国家主席刘德华",
+            "uid": "112103"
+          },
+          "date": "2024-11-12",
+          "content": "以前还有人把她的头像拿来伪装成习近平前妻的头像"
+        }
+      ]
+    },
+    {
+      "id": "785541",
+      "is_folded": false,
+      "answerer": {
+        "username": "hechuan1",
+        "uid": "137417"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没看过，都不认识这么个人，怪我怪我对韩剧还兴趣，不如日剧更喜欢。\t\t</div>",
+      "date": "2024-11-22",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1349445",
+          "replier": {
+            "username": "国家主席刘德华",
+            "uid": "112103"
+          },
+          "date": "2025-11-16",
+          "content": "她那个年代才刚开始"
+        }
+      ]
+    }
+  ]
+}

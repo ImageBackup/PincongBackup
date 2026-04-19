@@ -1,0 +1,56 @@
+{
+  "question_id": "55435",
+  "category_id": "8",
+  "title": "请问品葱各项权限所须的声望值是什么？",
+  "meta_description": "请问品葱各项权限所须的声望值是什么？ - 匿名需要多少声望？私信需要多少声望？",
+  "meta_keywords": "请问,品葱,各项,权限,所须,声望,是什么",
+  "tags": [
+    {
+      "id": "153",
+      "name": "品葱"
+    },
+    {
+      "id": "5642",
+      "name": "声望"
+    }
+  ],
+  "author": {
+    "username": "墙国壬民",
+    "uid": "84766"
+  },
+  "view_count": 1030,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t匿名需要多少声望？私信需要多少声望？\t\t\t\t\t\t\t</div>",
+  "date": "2023-01-21",
+  "agree_count": 0,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1031825",
+      "replier": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "date": "2023-01-22",
+      "content": "匿名128，私信400"
+    },
+    {
+      "id": "1031858",
+      "replier": {
+        "username": "墙国壬民",
+        "uid": "84766"
+      },
+      "date": "2023-01-22",
+      "content": "@admin:谢谢"
+    },
+    {
+      "id": "1031859",
+      "replier": {
+        "username": "墙国壬民",
+        "uid": "84766"
+      },
+      "date": "2023-01-22",
+      "content": "已删除"
+    }
+  ],
+  "answer_count": 1
+}

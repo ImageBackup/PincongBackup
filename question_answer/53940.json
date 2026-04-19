@@ -1,0 +1,71 @@
+{
+  "parent_type": "question",
+  "parent_id": "53940",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "607485",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t客户端使用Clash，去平台上获取最新的订阅链接，重新更新订阅。如果更新不了，可以挂全局代理再更新。目前应该是可以用的。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1136460",
+          "replier": {
+            "username": "XJP06153019",
+            "uid": "94210"
+          },
+          "date": "2022-12-17",
+          "content": "请问有ios手机可以用的吗，我试了小火箭和另外一款sp开头的，都连不上维尼云，电脑倒是可以"
+        },
+        {
+          "id": "1136506",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2022-12-17",
+          "content": "@XJP06153019:应该有相关客服群"
+        }
+      ]
+    },
+    {
+      "id": "607324",
+      "is_folded": false,
+      "answerer": {
+        "username": "hideinshade",
+        "uid": "104216"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t官网说是更新了clash格式，目前要支持clash premium内核的clash客户端才能订阅。\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1133362",
+          "replier": {
+            "username": "XJP06153019",
+            "uid": "94210"
+          },
+          "date": "2022-12-07",
+          "content": "😭有没有ios可以用的clash软件"
+        },
+        {
+          "id": "1133385",
+          "replier": {
+            "username": "hideinshade",
+            "uid": "104216"
+          },
+          "date": "2022-12-07",
+          "content": "@XJP06153019:iOS就shadowrocket，但得有美区Apple ID才能安装"
+        }
+      ]
+    }
+  ]
+}

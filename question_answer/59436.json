@@ -1,0 +1,572 @@
+{
+  "parent_type": "question",
+  "parent_id": "59436",
+  "answer_count": 17,
+  "answers": [
+    {
+      "id": "665792",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你这让别人怎么说呢。。风险大不大谁知道，就算有人知道朋友被抓的事，也没有统计意义啊。<br/>\n<br/>\n你还是自己买设备，投资一点吧。\t\t</div>",
+      "date": "2023-06-27",
+      "agree_count": 2,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1187567",
+          "replier": {
+            "username": "聖勵騎士",
+            "uid": "112599"
+          },
+          "date": "2023-06-27",
+          "content": "我认识个墙内的p站（Pixiv）画师，就被抓了。平时接一些私活  chatgpt “爆发”以前 他就负责接一些真人照片，然后 用鼠绘 漫画形式 画成色情漫画或者裸露图片 交稿给客户，后来2018年左右被抓了，账号再也没更新过，现在出来没有 不详，但是就算出来了 估计也 失业 了吧，毕竟现在 AI 画这个 已经不需要人工了，就是画出来的图 有时候 有错误，比如上次我让画师画个全裸星巴克眼镜女店员的全裸图，结果 出来的图稿 眼镜妹的阴唇 竟然有 “三片” 唇，估计 AI 也把我当成外星人了（以为我有外星人审美呢）。"
+        },
+        {
+          "id": "1187570",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-27",
+          "content": "好吧这也是我目前的想法。但是自己买设备就是麻烦。而且这种设备(16g显存的电脑)在英国买非常贵，因为市场需求小，而且没有中国那种华强北低端品牌。"
+        },
+        {
+          "id": "1187572",
+          "replier": {
+            "username": "聖勵騎士",
+            "uid": "112599"
+          },
+          "date": "2023-06-27",
+          "content": "@yogafire:我想请问一下，英国男女同时对 肛交 的认可和接受度 如何？有没有相关数据 和 统计表呢？"
+        },
+        {
+          "id": "1187573",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-27",
+          "content": "@香蕉共和: “就是画出来的图 有时候 有错误，比如上次我让画师画个全裸星巴克眼镜女店员的全裸图” 这一点在stable diffusion只需要一个negative prompt关键词：”bad anatomy“就可以避免。"
+        },
+        {
+          "id": "1187575",
+          "replier": {
+            "username": "聖勵騎士",
+            "uid": "112599"
+          },
+          "date": "2023-06-27",
+          "content": "@yogafire:人工智能 已经如此 高超效率纠错能力了么？让我 叹为观止，感谢关于人工成人图片的解惑，谢谢。"
+        }
+      ]
+    },
+    {
+      "id": "665869",
+      "is_folded": false,
+      "answerer": {
+        "username": "jsfdhjdshghg",
+        "uid": "73263"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以试试<a href=\"url/link/aHR0cHM6Ly9sYW1iZGFsYWJzLmNvbS8\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://lambdalabs.com/\">https://lambdalabs.com/</a>，最新的H100只要$2一小时，A100也只要$1.2一小时，这两种GPU国内都是被制裁的\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1187687",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-28",
+          "content": "多谢建议"
+        },
+        {
+          "id": "1187869",
+          "replier": {
+            "username": "吃包子的小學生",
+            "uid": "90380"
+          },
+          "date": "2023-06-28",
+          "content": "@yogafire:AWS 開出來大約$1.7/H （那instance/配置/名字忘了 但是是剛好夠的那個），不過AWS有限制GPU instance的量，apply一下前2個都不是問題 3+會慢一點。\nAzure也差不多 也有量的限制 等得久一點 開第二個要等一天（我碰到的是這樣，也可能是個例）"
+        }
+      ]
+    },
+    {
+      "id": "665797",
+      "is_folded": false,
+      "answerer": {
+        "username": "比特肥肥",
+        "uid": "112512"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果你自用就不会有大问题，但是如果你涉及传播，然后又被举报就很威胁了。自用基本上也没有人知道，云服务器的监控，也主要是看你的传播，你自用了还发出去了，被人调查，就很容易发现。\t\t</div>",
+      "date": "2023-06-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665801",
+      "is_folded": false,
+      "answerer": {
+        "username": "Shit进瓶",
+        "uid": "93874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tstable的不是河蟹了吗？用unstable吧😂<br/>\n<br/>\n红薯果冻红薯果冻红薯果冻\t\t</div>",
+      "date": "2023-06-27",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1187588",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-27",
+          "content": "unstable diffusion我确实用过，非常地unstable，大多数时候是不能用😂\nstable diffusion确实现在有了河蟹机制，但是它是开源的，只要改一行代码就可以把审查机制去掉。"
+        },
+        {
+          "id": "1187877",
+          "replier": {
+            "username": "Shit进瓶",
+            "uid": "93874"
+          },
+          "date": "2023-06-28",
+          "content": "@yogafire:unstable不是说只是把开源的stable去掉审查，代码应该是同步的，或者稍微滞后同步的吧"
+        }
+      ]
+    },
+    {
+      "id": "665868",
+      "is_folded": false,
+      "answerer": {
+        "username": "giuuio8897",
+        "uid": "109426"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t云上传还涉及女同事和女同学就他妈的离谱  <br/>\n撸个管想象力还这般羸弱<br/>\n可悲\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 2,
+      "discussion_count": 12,
+      "discussions": [
+        {
+          "id": "1187655",
+          "replier": {
+            "username": "wce3f2xi",
+            "uid": "49662"
+          },
+          "date": "2023-06-28",
+          "content": "呵呵，只怕人家是在赚钱罢了。"
+        },
+        {
+          "id": "1187686",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-28",
+          "content": "@wce3f2xi:没有在赚钱。赚钱的话问题大了去了。我想象力确实弱了点"
+        },
+        {
+          "id": "1187733",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-06-28",
+          "content": "@yogafire 别管这种人，你又不是传播。关起门来做什么都没人管，云方面谁有闲工夫去查你在干嘛。而且就算查了，你人在英国，禁用报警又如何？如果他把图片漏出来，该吃官司的就是他们自己了。"
+        },
+        {
+          "id": "1187746",
+          "replier": {
+            "username": "giuuio8897",
+            "uid": "109426"
+          },
+          "date": "2023-06-28",
+          "content": "@华国锋:被人AI练图的是你的女儿，你的老婆，你的姐姐妹妹，这时候你还能这么说“别管这种人”。"
+        },
+        {
+          "id": "1187747",
+          "replier": {
+            "username": "giuuio8897",
+            "uid": "109426"
+          },
+          "date": "2023-06-28",
+          "content": "@华国锋:真是映衬你的头像。"
+        },
+        {
+          "id": "1187750",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-28",
+          "content": "@giuuio8897: “被人AI练图的是你的女儿，你的老婆，你的姐姐妹妹，这时候你还能这么说“别管这种人”？ 我自己没有女儿也没有老婆也没有亲姐妹。不过如果被人AI炼图的是我母亲或者我的表姐妹，我会为她们对异性的吸引力感到非常骄傲，当然前提是不要被广为流传而且被误以为是她们真实的照片。"
+        },
+        {
+          "id": "1187754",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-28",
+          "content": "@giuuio8897:我甚至可以再退一步，假如我妈年轻的照片被人炼图了，也被传播了，我的底线是那些图别让我和其他我妈的亲人看到就可以--当然，一旦被广泛传播了就意味着我就有机会看到，所以说还是不能被传播。一位和我在英国有一炮之缘的女性--刘玥，曾经说过一句让我很认同的话：“你想到世界上有那么多人看着我的作品享受到，而且为我而cum，我就觉得这是一种功德而且为此感到骄傲”，\nhttps://youtu.be/ZQR4MYzUQ8c?t=385\n在这个影片中她也有表达类似的看法。如果能够避免掉掉“我自己看到亲人这些照片“这样一个尴尬而且不伦的画面，我想到我表姐妹以及我妈年轻时候的样子能让那么多男性着迷，我真的是觉得很了不起，为我家族的优秀基因感到骄傲。"
+        },
+        {
+          "id": "1187762",
+          "replier": {
+            "username": "心理不稳定的韭菜",
+            "uid": "75115"
+          },
+          "date": "2023-06-28",
+          "content": "@yogafire:大哥，你都洋洋洒洒这么一大段了，还问伦理道德的问题，有意义么"
+        },
+        {
+          "id": "1187779",
+          "replier": {
+            "username": "聖勵騎士",
+            "uid": "112599"
+          },
+          "date": "2023-06-28",
+          "content": "@yogafire:可恶啊! 刘女士竟然说出这种话，害我赶紧去 p 站（这次是真的p站，xxxhub)赶紧找了一部她的作品 为她cum了一次， 表示了自己力所能及的尊敬敬意。\n回味过头，再说点自己看法，  其实我一直觉着 女人，（在很多方面) 远比男人要开放 放的开 看的开 许多。"
+        },
+        {
+          "id": "1187904",
+          "replier": {
+            "username": "giuuio8897",
+            "uid": "109426"
+          },
+          "date": "2023-06-29",
+          "content": "@yogafire:挺搞笑的，你的观点就代表你家女性亲戚？你的女性亲戚同意吗？"
+        },
+        {
+          "id": "1187906",
+          "replier": {
+            "username": "giuuio8897",
+            "uid": "109426"
+          },
+          "date": "2023-06-29",
+          "content": "@yogafire:要做比喻，这么做比喻，把你的照片被AI练成被普丁各种姿势后入，上传云端，你愿意吗？私人玩法，不外泄露。当然安全不安全，就不知道了。"
+        },
+        {
+          "id": "1188037",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-29",
+          "content": "@giuuio8897: “你的观点就代表你家女性亲戚？你的女性亲戚同意吗？” 这又是另一个问题了，我之前的回答是应对你的质问 “被人AI练图的是你的女儿，你的老婆，你的姐姐妹妹，这时候你还能这么说“别管这种人”。 对你说法的应对怎么就搞笑了？\n“把你的照片被AI练成被普丁各种姿势后入，上传云端，你愿意吗？私人玩法，不外泄露。当然安全不安全，就不知道了” 不要泄露出来当然可以啊，我个人非常支持创作自由的。那如果泄露出来当然我就要追责，当然我追责的对象是泄密者而不是创作者。创作者只要主观上不想泄露而且也为防止泄露做了可观的努力，我不会去追究的。"
+        }
+      ]
+    },
+    {
+      "id": "665865",
+      "is_folded": false,
+      "answerer": {
+        "username": "曹公孟德",
+        "uid": "18980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你用匪區資源肯定有風險啊<br/>\n而且也沒有人確定你的風險會有多大\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665885",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你不对外提供服务的话，应该不会泄露吧。就怕你多多少少潜意识里有一些想泄露出去的意识……………………\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1187748",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-28",
+          "content": "老哥你要这么说的话，“你多多少少潜意识里有一些想泄露出去的意识”，潜意识这个东西自己也说不清的，但是我非常确定。即便有也是出于人类有了好东西就想炫耀的本能，而不是要拿这东西来盈利。\n另外，即便我潜意识里面有这种意识，但是表意识中我绝对不想也不容许泄露的，因为一旦泄露，就不仅仅是道德问题了，在任何国家都会牵涉到法律问题，有吃官司的风险的。"
+        },
+        {
+          "id": "1187777",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-06-28",
+          "content": "@yogafire: 只要自己不泄露不声张，我觉得问题不大，当然要有基本都防黑技术，毕竟很多肉鸡在网上天天闲着没事就在扫描，一旦扫到你的漏洞，接下来的活儿都是预先设定好的\n关键还是我认为墙内的云厂商不会去针对一个没什么影响力的客户名下设备去偷数据"
+        }
+      ]
+    },
+    {
+      "id": "665890",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tai换脸有违法风险，更别说用别人的肖像去创作色图了，你自己回忆一下，有几个用女明星画色图的？即便画出来没那么像？\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1187734",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-06-28",
+          "content": "你自己去看mrdeepfakes, 别说图了，视频都一大堆，而且还都是在only fans上卖的"
+        }
+      ]
+    },
+    {
+      "id": "665923",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t3060 12G跑SD怎么样。<br/>\n二手矿卡的现在应该很便宜吧。1000块左右？\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1187749",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-28",
+          "content": "那是在中国。我还要从中国购买一个，然后转运到英国，然后在英国买一个台式机自己组装起来？这不仅仅是麻烦，而且还有各种风险，比如被卡在海关被税，比如英国买的台式机和这个矿卡不适配等等。"
+        },
+        {
+          "id": "1187758",
+          "replier": {
+            "username": "绝不换肩",
+            "uid": "50844"
+          },
+          "date": "2023-06-28",
+          "content": "@yogafire:油管Up主，勇闯华强北的视频。有很多啊。DIY博主打卡地。阿里的速卖通在英国没有？"
+        },
+        {
+          "id": "1187759",
+          "replier": {
+            "username": "绝不换肩",
+            "uid": "50844"
+          },
+          "date": "2023-06-28",
+          "content": "@yogafire:国外有个大佬，魔改了1080TI，22G显存。现在已经被华强北掌握了技术。\n是目前的SD神器。"
+        }
+      ]
+    },
+    {
+      "id": "665964",
+      "is_folded": false,
+      "answerer": {
+        "username": "喜欢吃蒸包子",
+        "uid": "110657"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我在中國只使用AI做仿真和科學運算，一是能夠“薅韭菜”（價格便宜），二是AI換臉之類實在是太無聊了……\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665985",
+      "is_folded": false,
+      "answerer": {
+        "username": "通商宽衣颐使气指",
+        "uid": "74980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t共党主要管控对他们不利的信息，他们也需要色情来促进生育率和发泄韭菜的压抑情绪\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665987",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支太君",
+        "uid": "83470"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不懂就问，训练的步骤是怎样的？完全看不懂界面啊\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1187715",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-28",
+          "content": "推荐像我一样不懂编程的新手先别玩训练，先下载类似chilloumix的大型model，以及Lora这种训练好的微调model，练好prompts等基础，然后玩图生图，然后再玩训练，不懂就问chatgpt."
+        },
+        {
+          "id": "1187716",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-28",
+          "content": "然后网路上有很多教程，其实"
+        },
+        {
+          "id": "1187718",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-06-28",
+          "content": "@yogafire:我现在生成的图全是anime风格的，用了这些model，能来点realistic的吗"
+        },
+        {
+          "id": "1187745",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-28",
+          "content": "@屠支太君:用chilloutmix这个model啊，生成的就是真实的亚洲风格了"
+        }
+      ]
+    },
+    {
+      "id": "665988",
+      "is_folded": false,
+      "answerer": {
+        "username": "MasonQian",
+        "uid": "15361"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t選擇自己架電腦吧<br/>\n萬無一失..............<br/>\n不然都有風險<br/>\n還是你人在國外再用國內的雲<br/>\n抓不到你吧？？\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665791",
+      "is_folded": false,
+      "answerer": {
+        "username": "聖勵騎士",
+        "uid": "112599"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t请问你平均一星期射精（获得的性快感的次数)是几次？感觉你来自外星球。\t\t</div>",
+      "date": "2023-06-27",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1187563",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-27",
+          "content": "目前大概是7次左右"
+        },
+        {
+          "id": "1187564",
+          "replier": {
+            "username": "聖勵騎士",
+            "uid": "112599"
+          },
+          "date": "2023-06-27",
+          "content": "@yogafire:了解，学习一下，我始终觉得自己性冷感，看来我还得加强刺激自己的性器才行，比如先从加大力度上FC2开始，另外\n多谢高手指教!  拜谢!"
+        }
+      ]
+    },
+    {
+      "id": "666049",
+      "is_folded": false,
+      "answerer": {
+        "username": "我不是机器",
+        "uid": "91113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t希望西方早日封禁你這種行為。如果你覺得你的行為沒有問題，那就直接告訴你的女同事女性朋友，看看她們覺得o不ok。\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665793",
+      "is_folded": false,
+      "answerer": {
+        "username": "TouchikD",
+        "uid": "109818"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国境内买正规云服务器，都要身份证的。如果被商家报警了，容易被定位<br/>\n<br/>\n这是换脸吗，请教一下，怎么换。流程是什么。\t\t</div>",
+      "date": "2023-06-27",
+      "agree_count": -1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1187581",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-06-27",
+          "content": "换脸是一种炼图的方法，还有就是全部图片都由AI绘制。具体的方法么，stable diffision 完全开源，可以去网上找到一堆教程。"
+        }
+      ]
+    },
+    {
+      "id": "665795",
+      "is_folded": true,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t不要在支国炼成人<br/>\n<br/>\n要炼就炼铜<br/>\n<br/>\n反正炼铜在哪都不合法，天朝还管得松一点\t\t</div>",
+      "date": "2023-06-27",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1187577",
+          "replier": {
+            "username": "聖勵騎士",
+            "uid": "112599"
+          },
+          "date": "2023-06-27",
+          "content": "十分不道德，阁下的言论，就连色窦初开的我 看了都要 掩面为你啜泣。"
+        },
+        {
+          "id": "1187587",
+          "replier": {
+            "username": "VOTkXtQFTpCZ",
+            "uid": "54379"
+          },
+          "date": "2023-06-27",
+          "content": "炼铜只适合有这个兴趣的人，就我来说炼铜资源完全就是让人感到无聊的垃圾。"
+        },
+        {
+          "id": "1187589",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-06-27",
+          "content": "@香蕉共和:我又不炼铜，我只是说支国的法律体系，实际上是鼓励人炼铜\n就像支国法律体系下卖大麻都能死刑，实际上是鼓励大家卖烈性毒品"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "parent_type": "question",
+  "parent_id": "66453",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "739274",
+      "is_folded": false,
+      "answerer": {
+        "username": "奴雅",
+        "uid": "126250"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t浏览器内置DNS可以屏蔽特定的url。你看一下是否打开了“安全DNS”功能。\t\t</div>",
+      "date": "2024-04-08",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1255767",
+          "replier": {
+            "username": "久念",
+            "uid": "125666"
+          },
+          "date": "2024-04-08",
+          "content": "这个在哪里看"
+        }
+      ]
+    },
+    {
+      "id": "739375",
+      "is_folded": false,
+      "answerer": {
+        "username": "品支",
+        "uid": "119299"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t检测翻墙工具是否安全无内鬼的重要标准之一就是测试是否能正常打开轮媒网站\t\t</div>",
+      "date": "2024-04-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "739439",
+      "is_folded": false,
+      "answerer": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t政治不过关，此VPN机场弃用<br/>\n<br/>\n對於日本，牠們說：忘記歷史等於背叛。<br/>\n對於俄國，牠們說：糾纏歷史毫無意義。<br/>\n對於台灣，牠們說：兩岸歷史不可分割。<br/>\n對於中共，牠們說：瞭解歷史等於犯罪！\t\t</div>",
+      "date": "2024-04-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "739281",
+      "is_folded": false,
+      "answerer": {
+        "username": "吃瓜瓜和瓜皮",
+        "uid": "93859"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以尝试通过wireshark等手段，抓一下回环口（loopback）的数据包，看一下是怎么样的报错。\t\t</div>",
+      "date": "2024-04-08",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1255820",
+          "replier": {
+            "username": "久念",
+            "uid": "125666"
+          },
+          "date": "2024-04-09",
+          "content": "可以了，厲害呀"
+        }
+      ]
+    }
+  ]
+}

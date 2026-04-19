@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "63366",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "706242",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvZjNlMzMxMzg4NjdmODNiYjMxMDFiLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/f3e33138867f83bb3101b.png\"><img alt=\"https://telegra.ph/file/f3e33138867f83bb3101b.png\" loading=\"lazy\" src=\"https://telegra.ph/file/f3e33138867f83bb3101b.png\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-11-17",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "706243",
+      "is_folded": true,
+      "answerer": {
+        "username": "反大一統反皇漢",
+        "uid": "93847"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-11-17",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

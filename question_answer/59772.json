@@ -1,0 +1,110 @@
+{
+  "parent_type": "question",
+  "parent_id": "59772",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "669121",
+      "is_folded": false,
+      "answerer": {
+        "username": "仲长若谷",
+        "uid": "13710"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t上个现在各种阴阳怪气的知乎你还怕泄露身份<br/>\n<br/>\n这个网站你还是不要来的好\t\t</div>",
+      "date": "2023-07-09",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "669168",
+      "is_folded": false,
+      "answerer": {
+        "username": "月光",
+        "uid": "89273"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用別人的身份證字號註冊？<br/>\n不是聽說很多人這樣幹嗎？\t\t</div>",
+      "date": "2023-07-10",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1190588",
+          "replier": {
+            "username": "chenwen",
+            "uid": "78602"
+          },
+          "date": "2023-07-10",
+          "content": "还需要加非+86号码"
+        }
+      ]
+    },
+    {
+      "id": "669172",
+      "is_folded": false,
+      "answerer": {
+        "username": "天天吃包子",
+        "uid": "105007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t网上身份证不是随便一搜就有，难得是弄个匿名的手机号\t\t</div>",
+      "date": "2023-07-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "669330",
+      "is_folded": false,
+      "answerer": {
+        "username": "rockroll",
+        "uid": "103904"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t反正在知乎啥都发不出来，还在乎泄露身份?<br/>\n<br/>\n反正在知乎啥都发不出来，还在乎泄露身份?\t\t</div>",
+      "date": "2023-07-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "669128",
+      "is_folded": false,
+      "answerer": {
+        "username": "他公平",
+        "uid": "111618"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t隐藏ip+浏览器隐身+接码平台<br/>\n访问开全局模式隐藏ip<br/>\n浏览器隐身不保存cookie，要求再高一点可以使用虚拟机或者反指纹的插件，不让浏览器指纹泄露\t\t</div>",
+      "date": "2023-07-09",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1190497",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2023-07-10",
+          "content": "知乎首先要身份证或者护照我就受不了了"
+        },
+        {
+          "id": "1190500",
+          "replier": {
+            "username": "他公平",
+            "uid": "111618"
+          },
+          "date": "2023-07-10",
+          "content": "@Studebaker史刁碧嘉:你的意思知乎注册需要绑定跟身份证一致的手机号？没这么夸张吧。要这么多信息可能是国外ip的原因，找个国内的ip代理。最直接的办法就是买号。"
+        },
+        {
+          "id": "1190567",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-07-10",
+          "content": "知乎会卡你无限安全验证的,进都进不去"
+        }
+      ]
+    }
+  ]
+}

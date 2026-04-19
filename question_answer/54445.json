@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "54445",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "612220",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t直接下載容易在將來被下絆子, 翻拍或錄屏一下應該就沒問題. 分辨率把握一下別太高, 意思到了就行.\t\t</div>",
+      "date": "2022-12-19",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1136921",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-19",
+          "content": "分辨率太高了不好在哪"
+        },
+        {
+          "id": "1136933",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-19",
+          "content": "@敏感词滚蛋:\n_ _ 若要在視頻的某一幀裏動手脚, 分辨率低點或能避免掉. 翻拍本身會隔絕一些元信息, 所以分辨率略低一些就可以不必過度追求高或低. 如有編輯能力全加個低點的柔化效果什麽的更佳."
+        }
+      ]
+    },
+    {
+      "id": "612295",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有风险，但不会是EXIF这种“阳谋”。有可能是以下情况：<br/>\n（1）被盲水印泄密，例如通过在图片或视频里增加看不见的像素点，记录上传者身份。<br/>\n（2）被视频本身的内容泄密，例如通过背景建筑物来推测出拍摄者实际地点。<br/>\n<br/>\n如果是转载他人视频，可以不在乎泄密，除非你是“李老师”那种做合订本的用户。如果是本人“爆料”，建议对视频进行翻拍、剪辑等技术处理（而且不要使用国产软件或网站处理）。\t\t</div>",
+      "date": "2022-12-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "62964",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "702164",
+      "is_folded": false,
+      "answerer": {
+        "username": "bun",
+        "uid": "92655"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t肩抗式地对空导弹主要是对付飞得更低速度更慢的直升机的， 客机飞行速度快多了， 光靠肉眼观瞄很难获得足够的发射窗口。 而且大部分肩抗导弹的导引头不是红外就是紫外的， 发射前需要冷却， 这个过程是不可逆的。 也就是说真打民航的话，只有1次机会， 几秒钟内得做出决定。 对人员的要求不是一般的高。<br/>\n<br/>\n最重要的是，肩抗式地对空导弹比普通炸药贵多了。\t\t</div>",
+      "date": "2023-10-30",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1221904",
+          "replier": {
+            "username": "Germany2014",
+            "uid": "105134"
+          },
+          "date": "2023-10-30",
+          "content": "民航机自卫系统早已有之　　实际上，早在十年前，用于民航客机的自卫系统就已经研发成功，并少量装备客机，不过那时候的客机自卫系统主要针对红外制导的便携式防空导弹。其研发也源起于一系列的导弹攻击事件。2002年11月，一架以色列阿基亚航空公司的波音757客机在肯尼亚海滨城市蒙巴萨机场起飞后，遭到来自地面的两枚“萨姆-7”导弹袭击，所幸未被击中。同年年底，以色列国防部要求所有飞国际航线的以色列客机都要安装自卫装置。2003年11月的巴格达，DHL公司的一架空客A310遭到两枚便携式防空导弹攻击，其中一枚重创了飞机左侧机翼，但飞机最终迫降成功。这迫使美英等西方国家加紧了客机“反导防御系统”的研制。　　2003年10月，以航空工业部门向外界公开展示了名为“飞行卫士”的“反导弹防御装置”。该装置的价格在200万美元左右。该系统重90公斤，采用脉冲多普雷雷达探测来袭导弹。飞机两侧各安装两个红外干扰弹投放器。雷达探测到来袭导弹后，对机组人员发出警告，并自动触发红外干扰弹。大约有150架飞机安装了这种“飞机卫士”。"
+        }
+      ]
+    },
+    {
+      "id": "702153",
+      "is_folded": false,
+      "answerer": {
+        "username": "畜平首寄",
+        "uid": "111902"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有。<br/>\n<br/>\n以色列客机都加装了反导系统，<br/>\n<br/>\n这种反导系统使用红外欺骗，就是单纯针对肩扛式发射器的。<br/>\n<br/>\n以色列客机反导系统，无法有效克制普通的雷达导引制式地空导弹。\t\t</div>",
+      "date": "2023-10-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "702143",
+      "is_folded": false,
+      "answerer": {
+        "username": "蘑菇云",
+        "uid": "77623"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t射程5km，要成功的话，一般要进入到机场范围内，难点在于你压根不知道飞机什么时候到达。难道你在渗透到跑道附近躲一天不被发现？\t\t</div>",
+      "date": "2023-10-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "702160",
+      "is_folded": true,
+      "answerer": {
+        "username": "Germany2014",
+        "uid": "105134"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-10-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "article_id": "61646",
+  "category_id": "2",
+  "title": "諗到個idea將tg nostr matrix merge埋一齊",
+  "meta_description": "諗到個idea將tg nostr matrix merge埋一齊 - 基本上參考matrix id係@abcd:efg.xyz  類似地有個寄存器係 id!id，前面係user id後面server id。server id係server run套software將ipv4 / ipv6對映做server id  有個mas...",
+  "meta_keywords": "idea,tg,nostr,matrix,merge,一齊",
+  "tags": [
+    {
+      "id": "103157",
+      "name": "tg"
+    },
+    {
+      "id": "104390",
+      "name": "nostr"
+    },
+    {
+      "id": "105559",
+      "name": "matrix"
+    }
+  ],
+  "author": {
+    "username": "四邑漁農牧工商總會",
+    "uid": "7113"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t基本上參考matrix id係@abcd:efg.xyz<br/>\n<br/>\r\n類似地有個寄存器係 id!id，前面係user id後面server id。server id係server run套software將ipv4 / ipv6對映做server id<br/>\n<br/>\r\n有個master login key類似nsec，之後經密碼同email（類似telegram 2-steps verification）可以有advanced settings如view others sessions、logout others accounts n devices、delete account<br/>\n<br/>\r\n每一個room或者group都有寄存地址表示寄存喺邊個server，表示為id!id<br/>\n<br/>\r\nid係大細階拉丁字母，hyphen underline 0～9，每位有64個變量<br/>\n<br/>\r\ndata stored at room server（room chat）或者a/c server（dm chat）<br/>\n<br/>\r\nphoto用heic format video用h266 AV1 audio opus<br/>\n<br/>\r\nroom chat可以揀，唔俾 a/c server同room server唔同的a/c入群，唔同server禁止入群。即係咁，user account id!id同server id!id唔同禁止入群，禁止在server開group<br/>\n<br/>\r\ndm可以揀，接受dm前要先獲同意，requested n approved first，這個是可選擇的option<br/>\n<br/>\r\n入群可揀是否需admin approve<br/>\n<br/>\r\n最終效果是這樣：<br/>\n<br/>\r\nuser id EsrA1-iD!gyU8r4<br/>\r\ngroup id Yugd542!486huErT<br/>\n<br/>\r\n!後的id對應到server的ipv4或ipv6或域名。由於去中心化所以這些id以亂碼為主，而不是有意義的字串（參考nostr的nsec npub key）<br/>\r\n可能要用到ipv6的概念，及參考telegram的可重設的invite link<br/>\n<br/>\r\n圖片經壓縮去除exif資訊，變成 .heif ？<br/>\n<br/>\r\nregister可以免費也可以付費，也可能需要申請，視server，這個是可選擇的option<br/>\n<br/>\r\nlogin則類似nostr 需要nsec key及id id!id 指明其server及id\t\t\t\t\t\t\t</div>",
+  "view_count": 1444,
+  "date": "2023-07-26",
+  "agree_count": 0,
+  "comment_count": 1
+}

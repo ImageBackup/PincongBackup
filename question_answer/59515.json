@@ -1,0 +1,95 @@
+{
+  "parent_type": "question",
+  "parent_id": "59515",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "666701",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tvue.js 又不是只有中国人用，全世界都在用，为什么会影响流行？\t\t</div>",
+      "date": "2023-07-01",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1188417",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-07-01",
+          "content": "还真是中国人多，世界上一般用react"
+        }
+      ]
+    },
+    {
+      "id": "666711",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t早就该被封了,去年俄乌战争时就表态了<br/>\n<br/>\n赶紧把vue跟vite的官网也给封掉,干烂前端\t\t</div>",
+      "date": "2023-07-01",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "666736",
+      "is_folded": false,
+      "answerer": {
+        "username": "驱蚊花露水",
+        "uid": "9818"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t他是一个天才的程序员，有极高的智商。<br/>\n<br/>\n一个人智商达到一定程度，都会从内心本能地轻贱包弟。\t\t</div>",
+      "date": "2023-07-01",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "666740",
+      "is_folded": false,
+      "answerer": {
+        "username": "c2h4",
+        "uid": "101813"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t蝴蝶效应，你可以想象成，你或我在这里任何文字都可以掀起一场革命\t\t</div>",
+      "date": "2023-07-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "666759",
+      "is_folded": false,
+      "answerer": {
+        "username": "修正匪疯狂找补",
+        "uid": "112938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t任何狗咬狗行动，最后都利好黄四郎。<br/>\n<br/>\n自己动动脑子。<br/>\n<br/>\n当然，不咬更利好黄四郎。<br/>\n综上黄四郎稳赢\t\t</div>",
+      "date": "2023-07-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "666763",
+      "is_folded": false,
+      "answerer": {
+        "username": "tjlggjkfgj",
+        "uid": "112666"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t去年12月就有的事呀。难道当时没封完全？最近又表态，封完全了？如果最近没有表态那这不是纯纯旧闻？\t\t</div>",
+      "date": "2023-07-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

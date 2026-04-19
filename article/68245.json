@@ -1,0 +1,30 @@
+{
+  "article_id": "68245",
+  "category_id": "22",
+  "title": "彭立发喇叭生成器",
+  "meta_description": "彭立发喇叭生成器 - 俺在ChatGPT的帮助下，整了一个新活： 彭立发喇叭生成器是一个单独的HTML文件，不需要联网，可以在任何有浏览器的设备上运行。本工具用于在任意的音频前插入指定时长的空白，并将结果生成音频文件，可以放到任意设备上运行。  不过由于浏览器的技术限制，空白时...",
+  "meta_keywords": "彭立发,喇叭,成器",
+  "tags": [
+    {
+      "id": "102874",
+      "name": "彭立发"
+    },
+    {
+      "id": "107364",
+      "name": "勇武战术"
+    },
+    {
+      "id": "107589",
+      "name": "彭立发喇叭"
+    }
+  ],
+  "author": {
+    "username": "cybermage",
+    "uid": "29130"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t俺在ChatGPT的帮助下，整了一个新活：<br/>\r\n彭立发喇叭生成器是一个单独的HTML文件，不需要联网，可以在任何有浏览器的设备上运行。本工具用于在任意的音频前插入指定时长的空白，并将结果生成音频文件，可以放到任意设备上运行。<br/>\n<br/>\r\n不过由于浏览器的技术限制，空白时长不能过长。在俺的测试机上，空白时长最高只有2小时。<br/>\n<br/>\n<b>使用方法：</b><br/>\n<br/>\n<ol><li>进入如下地址 【警告：链接内容可能存在钓鱼网址，请勿打开】https://pastebin .com/gCCUM6cG</li><li>点击 “download” 按钮来下载网页文件<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvZWZhZTI0YmU2ZmU1OWYxOTI3MTk0LnBuZz93aWR0aD0xMDA1JmhlaWdodD0yMTc\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/efae24be6fe59f1927194.pngwidth=1005&amp;height=217\"><img alt=\"https://telegra.ph/file/efae24be6fe59f1927194.pngwidth=1005&amp;height=217\" loading=\"lazy\" src=\"https://telegra.ph/file/efae24be6fe59f1927194.pngwidth=1005&amp;height=217\" style=\"max-width:100%\"/></a></li><li>直接双击打开下载的文件 <b>（安全提示：请使用 Brave、FireFox 之类的安全浏览器，绝对不要使用国产浏览器打开！）</b></li><li>使用第一个按钮来选择一个音频文件</li><li>在输入框内输入空白时间（分钟）</li><li>单击“生成并下载” （由于技术限制，只能生成wav文件，而且体积很大。2个小时的空白文件大约有1.5G大小）</li><li>把生成的音频文件放进任意的播放器即可。（请手动检查一下生成的文件有没有错）</li></ol><br/>\n<br/>\r\n本代码遵循BSD-2-Clause协议开源，欢迎其他人修改源代码并发布。不需要注明程序出处。<br/>\n<br/>\r\nP.S. 俺觉得如果想要生成格式更好，时长更长的彭立发喇叭文件，就只能使用浏览器javascript之外的技术了。不知道站长能不能做一个PHP版本，集成到品葱里？\t\t\t\t\t\t\t</div>",
+  "view_count": null,
+  "date": "2024-01-24",
+  "agree_count": 9,
+  "comment_count": 10
+}

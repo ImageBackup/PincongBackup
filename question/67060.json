@@ -1,0 +1,34 @@
+{
+  "question_id": "67060",
+  "category_id": "2",
+  "title": "Resistance 去哪了？",
+  "meta_description": "Resistance 去哪了？ - 他很多技术方面的见解比较不错，不过没出现了。",
+  "meta_keywords": "resistance,去哪",
+  "tags": [
+    {
+      "id": "103756",
+      "name": "寻人启事"
+    }
+  ],
+  "author": {
+    "username": "Deceiving4271",
+    "uid": "117645"
+  },
+  "view_count": 797,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t他很多技术方面的见解比较不错，不过没出现了。\t\t\t\t\t\t\t</div>",
+  "date": "2024-05-05",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1059987",
+      "replier": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "date": "2024-05-07",
+      "content": "由于对pincong本身的安全性存疑。\n目前将使用nostr+mastodon来代替pincong。\n我未来可能会很少登录，可能偶尔会看。"
+    }
+  ],
+  "answer_count": 1
+}

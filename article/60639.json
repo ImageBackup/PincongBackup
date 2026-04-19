@@ -1,0 +1,22 @@
+{
+  "article_id": "60639",
+  "category_id": "10",
+  "title": "",
+  "meta_description": "有没有可能用wifi频段从卫星向地面单向广播数据 - 地面设备就用普通的路由器或其它wifi设备改装成高增益的天线 同时软件和驱动部分做相应的修改 如果天线的指向性太强就用步进电机做跟踪  这样应该能[b]单向接收[/b]来自低轨卫星的数据，毕竟从前一个小锅天线就能收到同步轨道的电视信号，那个时候也有广播数据...",
+  "meta_keywords": "能用,wifi,频段,卫星,地面,单向,广播,数据",
+  "tags": [
+    {
+      "id": "8601",
+      "name": "星链"
+    }
+  ],
+  "author": {
+    "username": "jgh73de6",
+    "uid": "112086"
+  },
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "view_count": 1614,
+  "date": "2023-07-04",
+  "agree_count": 0,
+  "comment_count": 5
+}

@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "58032",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "652496",
+      "is_folded": false,
+      "answerer": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我们无法判断管理员是否是水军，因为任何用户在达到一定声望后自动晋升管理员，只有在管理员多次违规操作后才会被取消管理权限。您同样也是管理员，可以将不符合规定的水区内容移回主页，或投诉申请移出。\t\t</div>",
+      "date": "2023-05-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

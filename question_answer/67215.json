@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "67215",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "747120",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有啊，成都都普及天然气了，西安还在用旱厕，这是2005年的事。\t\t</div>",
+      "date": "2024-05-12",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1264615",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2024-05-12",
+          "content": "那时候四川还不富裕"
+        }
+      ]
+    },
+    {
+      "id": "747137",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你不在中国？多久没回国了？<br/>\n<br/>\n正常生活在中国的人问不出这种问题吧。就算你不回国，想想李克强说的“6亿人月收入1K”，再看看北上深核心CBD区域的灯红酒绿，还猜不出来吗？\t\t</div>",
+      "date": "2024-05-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

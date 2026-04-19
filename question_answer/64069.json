@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "64069",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "713983",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为我们共产党员不是傻逼。有你们人矿负责贡献器官，我们共产党员负责享用即可。\t\t</div>",
+      "date": "2023-12-19",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1233151",
+          "replier": {
+            "username": "主席也有难处",
+            "uid": "119334"
+          },
+          "date": "2023-12-19",
+          "content": "这有违为人民服务精神"
+        },
+        {
+          "id": "1233160",
+          "replier": {
+            "username": "屠支大佐毛遮洞",
+            "uid": "107972"
+          },
+          "date": "2023-12-19",
+          "content": "@主席也有难处:你们只是人矿，我们共产党员才是人民。你们为我们服务，没毛病。"
+        }
+      ]
+    }
+  ]
+}

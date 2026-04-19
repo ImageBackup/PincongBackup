@@ -1,0 +1,59 @@
+{
+  "parent_type": "question",
+  "parent_id": "65133",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "725620",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t习近平同志的外号数量遥遥领先同行。不同意的请举手？没有、没有、…没有！通过！\t\t</div>",
+      "date": "2024-02-04",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "725613",
+      "is_folded": false,
+      "answerer": {
+        "username": "总得说两句",
+        "uid": "112835"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谥号：有文能武二百斤大包子好男儿喂泥熊大撒币皇帝\t\t</div>",
+      "date": "2024-02-04",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "725623",
+      "is_folded": false,
+      "answerer": {
+        "username": "呵呵哒12345",
+        "uid": "18282"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t皇帝的名字不能說，那麼所有的詞都會是他的名字\t\t</div>",
+      "date": "2024-02-04",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "725622",
+      "is_folded": true,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-02-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

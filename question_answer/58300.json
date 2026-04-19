@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "58300",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "654961",
+      "is_folded": false,
+      "answerer": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t候选人确定后将在首页顶部加入欧美时政区传送门。鉴于此类话题的争议性、与中国政治的无关性、被网军利用的可能性，多位管理员一致同意独立分区不在首页显示。如果想要推翻此类站务共识，您需要发起RCF并获得超过发起此提议的支持人数支持且支持新提议的管理员超过旧提议的管理员才能通过。<br/>\n<br/>\n请参考：<br/>\n<a href=\"https://pincong.rocks/article/id-27386__sort_key-add_time__sort-DESC\" title=\"https://pincong.rocks/article/id-27386__sort_key-add_time__sort-DESC\">https://pincong.rocks/article/id-27386__sort_key-add_time__sort-DESC</a><br/>\n<a href=\"https://pincong.rocks/article/25826\" title=\"https://pincong.rocks/article/25826\">https://pincong.rocks/article/25826</a><br/>\n<a href=\"https://pincong.rocks/article/28249\" title=\"https://pincong.rocks/article/28249\">https://pincong.rocks/article/28249</a><br/>\n<a href=\"https://pincong.rocks/article/19887\" title=\"https://pincong.rocks/article/19887\">https://pincong.rocks/article/19887</a><br/>\n<br/>\nRFC提议：<br/>\n<a href=\"https://pincong.rocks/topic/RFC\" title=\"https://pincong.rocks/topic/RFC\">https://pincong.rocks/topic/RFC</a> </div>",
+      "date": "2023-05-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

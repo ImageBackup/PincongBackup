@@ -1,0 +1,28 @@
+{
+  "question_id": "54119",
+  "category_id": "4",
+  "title": "如何给已经部署好的shadowsocks添加cdn？",
+  "meta_description": "如何给已经部署好的shadowsocks添加cdn？ - 本人年初花了7天才部署好的ss挂了，然后最近我拿同一个服务器部署了trojan就活过来了。虽然如此，我想恢复之前我用的ss +v2ray plugin + TLS +websocks 的方案，并添加上CDN，但我弄了半天失败了，这个方案不知道为什么一旦开启...",
+  "meta_keywords": "已经,部署,shadowsocks,添加,cdn",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "5426",
+      "name": "shadowsocks"
+    }
+  ],
+  "author": {
+    "username": "pz221",
+    "uid": "51046"
+  },
+  "view_count": 3243,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t本人年初花了7天才部署好的ss挂了，然后最近我拿同一个服务器部署了trojan就活过来了。虽然如此，我想恢复之前我用的ss +v2ray plugin + TLS +websocks 的方案，并添加上CDN，但我弄了半天失败了，这个方案不知道为什么一旦开启某c服务商的cdn后就无法连接了（被封杀前开CDN也是无法连接的），即使按照网上的一些方法也不行，我不知道是什么原因求大佬指点，我原先的ss配置方法如下：<a href=\"url/link/aHR0cHM6Ly9zdWxpYW4tYmxvZy5jb20vc2hhZG93c29ja3MtdjJyYXktd3MtcHJveHkvY29tbWVudC1wYWdlLTEvI2NvbW1lbnQtNTY2MA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://sulian-blog.com/shadowsocks-v2ray-ws-proxy/comment-page-1/#comment-5660\">https://sulian-blog.com/shadowsocks-v2ray-ws-proxy/comment-page-1/#comment-5660</a> </div>",
+  "date": "2022-12-10",
+  "agree_count": 1,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 0
+}

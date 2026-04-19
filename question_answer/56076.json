@@ -1,0 +1,88 @@
+{
+  "parent_type": "question",
+  "parent_id": "56076",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "630842",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你是赛博脱亚入欧了？用中文在zhihu上一搜就能搜到解决方案。<br/>\n<br/>\n去sms-active.org接码平台，用支付宝充值2块钱，选印度尼西亚的电话号码，可以注册，我已经成功了。<br/>\n<br/>\n至于ip问题<br/>\n<br/>\n 用迷雾通，走法国节点出去。（加拿大节点也被ban了，其他没测试过）\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1154300",
+          "replier": {
+            "username": "vnychase",
+            "uid": "44482"
+          },
+          "date": "2023-02-15",
+          "content": "用这个方法成功了，非常感谢！"
+        }
+      ]
+    },
+    {
+      "id": "630837",
+      "is_folded": false,
+      "answerer": {
+        "username": "sllnvaeolbz800",
+        "uid": "87561"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以试试找个在外国的朋友，互联网上找也行不过不要在品葱等暴露了身份有麻烦的地方找。当然你能管理好风险那随意。\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "630852",
+      "is_folded": false,
+      "answerer": {
+        "username": "肩扛200斤女人",
+        "uid": "28255"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我想知道你們都在用chatgpt做什麽？ 只問一些無聊的問題，還是真的是在工作，還是用它賺錢？\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1154301",
+          "replier": {
+            "username": "vnychase",
+            "uid": "44482"
+          },
+          "date": "2023-02-15",
+          "content": "我是用来写一些英文的材料，用上面葱油的方法登上了，真的还可以的，虽然一开始的答案勉勉强强，但是可以通过后续的输入让它不断改进，输出的质量还不错"
+        },
+        {
+          "id": "1154485",
+          "replier": {
+            "username": "不吃蔥",
+            "uid": "39352"
+          },
+          "date": "2023-02-15",
+          "content": "很多東西可以問，實際工作問題，快速生成代碼，投資規劃問題，這是一個非常優秀的工具，它的答案是不是有價值要看用的人在問什麼。"
+        }
+      ]
+    },
+    {
+      "id": "630851",
+      "is_folded": true,
+      "answerer": {
+        "username": "o楚门的世界o",
+        "uid": "98360"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\tw我就在用啊，有的是办法哈哈哈哈哈去sms-active.org接码平台，用支付宝充值2块钱，\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

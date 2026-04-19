@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "53347",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "601631",
+      "is_folded": false,
+      "answerer": {
+        "username": "ACitizen",
+        "uid": "103678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tbbc首页头条跟踪了最新的进展，不过内容是英文的\t\t</div>",
+      "date": "2022-11-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "601633",
+      "is_folded": false,
+      "answerer": {
+        "username": "electric_rain",
+        "uid": "25574"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a href=\"url/link/aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2xpdmUvd29ybGQtYXNpYS02Mzc3NjgxNg\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.bbc.com/news/live/world-asia-63776816\">https://www.bbc.com/news/live/world-asia-63776816</a><br/>\nbbc整理的时间线，但是有一些滞后：<br/>\n<br/>\nSummary<br/>\n    Protests against strict Covid measures in China spilled into a second night and spread to the biggest cities<br/>\n    Demonstrators gather in the capital Beijing and the financial hub Shanghai, where some called for President Xi Jinping to resign<br/>\n    Protesters are angry at Xi's zero-Covid approach, which involves mass testing, quarantines and snap lockdowns<br/>\n    The latest unrest follows a protest in the north-western city of Urumqi, where 10 people died in a tower block fire<br/>\n    Protesters blamed lockdown rules for hampering rescue efforts, but authorities deny this<br/>\n    Protests have also taken place in the south-western city of Chengdu and central cities of Xi'an and also Wuhan<br/>\n    Wuhan is where the Covid outbreak originated nearly three years ago\t\t</div>",
+      "date": "2022-11-27",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1129054",
+          "replier": {
+            "username": "月刊艾塞克斯級",
+            "uid": "47797"
+          },
+          "date": "2022-11-27",
+          "content": "THX"
+        }
+      ]
+    },
+    {
+      "id": "601634",
+      "is_folded": false,
+      "answerer": {
+        "username": "antipc",
+        "uid": "103111"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t早就说了，品葱置顶的东西要加红加粗，不然根本没人看\t\t</div>",
+      "date": "2022-11-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

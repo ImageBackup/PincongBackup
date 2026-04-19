@@ -1,0 +1,87 @@
+{
+  "parent_type": "question",
+  "parent_id": "65680",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "731153",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好像是中了习包子的江湖奸杀令，从其他网站逃难过来的。\t\t</div>",
+      "date": "2024-03-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742249",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t膜乎好像之前是主打膜蛤乳包文化，據説是從墻内搬出來的，後來品葱丟數據的時候就破碎了<br/>\nreddit上似乎還有一些膜友，但不知道他們是不是之前的用戶\t\t</div>",
+      "date": "2024-04-20",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1259178",
+          "replier": {
+            "username": "德州仪器",
+            "uid": "93127"
+          },
+          "date": "2024-04-20",
+          "content": "几个管理都是以前的老人，什么抗麦郎和恒源氏之类的，膜乎已经青黄不接了。"
+        },
+        {
+          "id": "1259425",
+          "replier": {
+            "username": "OrphenOfKos",
+            "uid": "73371"
+          },
+          "date": "2024-04-21",
+          "content": "@德州仪器:教主都没了 蛤丝们能怎么办？"
+        },
+        {
+          "id": "1259532",
+          "replier": {
+            "username": "德州仪器",
+            "uid": "93127"
+          },
+          "date": "2024-04-22",
+          "content": "@OrphenOfKos:那倒是，蛤蟆都死了。现在膜乎也全面转向乳包。"
+        }
+      ]
+    },
+    {
+      "id": "742245",
+      "is_folded": true,
+      "answerer": {
+        "username": "新用户12555",
+        "uid": "127142"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-04-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742243",
+      "is_folded": true,
+      "answerer": {
+        "username": "lyyzandy",
+        "uid": "16137"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-04-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

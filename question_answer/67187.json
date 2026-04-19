@@ -1,0 +1,183 @@
+{
+  "parent_type": "question",
+  "parent_id": "67187",
+  "answer_count": 10,
+  "answers": [
+    {
+      "id": "746816",
+      "is_folded": false,
+      "answerer": {
+        "username": "NHFM",
+        "uid": "116881"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t要不你干脆通过代理访问一个异地主机然后在那台主机上进行所有网络活动好了\t\t</div>",
+      "date": "2024-05-10",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "747610",
+      "is_folded": false,
+      "answerer": {
+        "username": "owndamnfault",
+        "uid": "128852"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我先说一下我自己的使用情况，希望对你有所帮助<br/>\n我的网络架构是使用openwrt软路由，并在里面安装openclash进行的<br/>\n而我的Windows是放在pve里面的，类似于vmware的exsi<br/>\n虚拟机的网络架构有点类似vmware workstation网络中的桥接模式，即Windows虚拟机自己作为局域网的一个客户机存在<br/>\n<br/>\n目前我的方案是通过openclash自定义规则实现分流，将原IP来自我的Windows虚拟机分流给一个固定代理（这个固定代理是个多重代理，先走某一个机场的Shadowsocks，然后再中继到我的一台vps上的Shadowsocks节点)，从而实现全部流量走到代理上<br/>\n<br/>\n在这个基础上我再开启tor browser访问品葱之类的网站\t\t</div>",
+      "date": "2024-05-14",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "746833",
+      "is_folded": false,
+      "answerer": {
+        "username": "Surge",
+        "uid": "19471"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t单-双虚拟机隔离。<br/>\n<br/>\n参考编程随想的博文：<a href=\"url/link/aHR0cHM6Ly9wcm9ncmFtLXRoaW5rLmJsb2dzcG90LmNvbS8yMDEzLzAxL2hvd3RvLWNvdmVyLXlvdXItdHJhY2tzLTcuaHRtbA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://program-think.blogspot.com/2013/01/howto-cover-your-tracks-7.html\">https://program-think.blogspot.com/2013/01/howto-cover-your-tracks-7.html</a><br/>\n<br/>\n虽然教程有点老了，原理还是通用的。\t\t</div>",
+      "date": "2024-05-10",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "750405",
+      "is_folded": false,
+      "answerer": {
+        "username": "Onion2957",
+        "uid": "129755"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用Qubes OS。<br/>\n<br/>\nQubes OS是一个<b>免费、开源（FOSS）</b>的操作系统，可以创建多个互相隔离的子系统。子系统默认是Linux，但也可以安装Windows。所有软件都在子系统中运行，即使其中一个子系统不幸感染恶意程序，其它子系统也不会受到任何影响。在这些子系统当中，有一个特殊的Whonix子系统设置了Tor专用于联网，其它子系统联网时均需经由该Whonix子系统中转，保证<b>电脑上的所有网络连接都由Tor保护</b>。<br/>\n<br/>\nQubes OS得到美国“棱镜计划”告密者<b>斯诺登（Edward Snowden）的推荐</b>。<br/>\n<br/>\n如果要下载Qubes OS，请在确认安全的电脑上使用Tor浏览器在Duckduckgo上搜索Qubes OS。\t\t</div>",
+      "date": "2024-05-28",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1267926",
+          "replier": {
+            "username": "Onion2957",
+            "uid": "129755"
+          },
+          "date": "2024-05-28",
+          "content": "使用前请务必仔细阅读官方教程，按照教程进行相应配置，保证最大限度的安全。"
+        },
+        {
+          "id": "1267941",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-05-28",
+          "content": "这个和普通虚拟机比如kvm有啥不同?"
+        },
+        {
+          "id": "1268032",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-05-28",
+          "content": "@hahayuyu: KVM (Kernel Virtual Machine) 是一个linux内核模块，有了它，用户空间的程序也能使用处理器的硬件虚拟化特性。\n[code]\nhttps://wiki.qemu.org/Features/KVM\n[/code]\nQubes OS是一个linux发行版，Onion2957的回复里有个明显的错误 —— \"有一个特殊的Whonix子系统设置了Tor专用于联网，其它子系统联网时均需经由该Whonix子系统中转，\"，把一个app qube设置成不经过sys-whonix qube访问互联网是可行的。"
+        },
+        {
+          "id": "1268158",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-05-29",
+          "content": "@Streptopelia: 谢谢, 我就是说qubes和VMs有什么不同? 如果使用ubuntu再用KVM装几个VM是不是一样的."
+        },
+        {
+          "id": "1268264",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-05-29",
+          "content": "@hahayuyu: 额，有些方面没办法做到一致，比如，ubuntu预装的驱动并不是在无特权的虚拟机里运行的。"
+        }
+      ]
+    },
+    {
+      "id": "750419",
+      "is_folded": false,
+      "answerer": {
+        "username": "N2o小熊",
+        "uid": "26074"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t使用Host Only Network<br/>\nhttps://docs.vmware.com/en/VMware-Workstation-Pro/17/com.vmware.ws.using.doc/GUID-93BDF7F1-D2E4-42CE-80EA-4E305337D2FC.html<br/>\n<br/>\n这样默认就不联网了，只能通过一个IP访问宿主机，然后配置proxy，这样只要联网就是用的proxy\t\t</div>",
+      "date": "2024-05-28",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "750423",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t配置防火墙, 让流量只能从代理走. 你还得注意dns是啥.\t\t</div>",
+      "date": "2024-05-28",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "751288",
+      "is_folded": false,
+      "answerer": {
+        "username": "火隐",
+        "uid": "124850"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t配置防火墙，让虚拟机的流量只能是tcp的通过这个socks的IP和端口。<br/>\n更简单的说，只要用hostonly网卡，那虚拟机流量就默认不通，只能走配置的代理。\t\t</div>",
+      "date": "2024-05-31",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "757656",
+      "is_folded": false,
+      "answerer": {
+        "username": "considering",
+        "uid": "122841"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tHOST 开 Tunnel 模式应该差不多。<br/>\n<br/>\n【字数补丁字数补丁字数补丁字数补丁字数补丁】\t\t</div>",
+      "date": "2024-06-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "757663",
+      "is_folded": false,
+      "answerer": {
+        "username": "地狱火半岛",
+        "uid": "130353"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别折腾虚拟机了，去电脑城，买一张二手主板，然后上咸鱼配点垃圾散件，花不了几个钱，配一台电脑，用v2ray翻墙后把数据转发到你的设备就行了\t\t</div>",
+      "date": "2024-06-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "750373",
+      "is_folded": true,
+      "answerer": {
+        "username": "bj64",
+        "uid": "129258"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-05-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

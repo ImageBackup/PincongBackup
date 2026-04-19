@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "58908",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "660685",
+      "is_folded": false,
+      "answerer": {
+        "username": "歪交部大石话",
+        "uid": "7599"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t请问有哪个国家从同一关税区以外的国家进口商品不需要报关的？这不是常识性的问题吗？\t\t</div>",
+      "date": "2023-06-06",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "660684",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t进口商品本来就需要报关，各国都一样，一是为了关税，二也是需要知道进来了什么东西（违禁品禁止入境，比如入侵物种、毒品、象牙等等）。<br/>\n<br/>\n海外代购其实是打法律擦边球，以个人物品名义进的关。正规的商家其实报关了，但是他替你代劳了（至少在中国是这样，台湾那边不清楚）\t\t</div>",
+      "date": "2023-06-06",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

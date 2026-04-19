@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "65957",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "734273",
+      "is_folded": false,
+      "answerer": {
+        "username": "紅豆",
+        "uid": "125667"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t天然氣爆炸的威力有點過大了，感覺這都有炸藥的威力了，這種威力你們覺得會是燃氣，那濃度得到多少才會有這樣的威力，而且洩漏的話是有味道的，這種不會一點感覺都沒有吧？\t\t</div>",
+      "date": "2024-03-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734271",
+      "is_folded": false,
+      "answerer": {
+        "username": "我爱喝可乐",
+        "uid": "122508"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t本拉登宣传对此次恐怖袭击负责。美国总统小布什对此发布了强烈谴责\t\t</div>",
+      "date": "2024-03-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734270",
+      "is_folded": true,
+      "answerer": {
+        "username": "qinwenze",
+        "uid": "118632"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-03-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

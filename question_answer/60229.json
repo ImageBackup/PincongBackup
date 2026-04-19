@@ -1,0 +1,91 @@
+{
+  "parent_type": "question",
+  "parent_id": "60229",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "673713",
+      "is_folded": false,
+      "answerer": {
+        "username": "Factor",
+        "uid": "112457"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t请问大大小小的GPT都有哪些？请把知道的尽量列举。<br/>\n我目前用的是Open AI ChatGPT 3.5, Bing AI, Google Bard.<br/>\n日本的WISDOM X，只有日语，而且这个参数很小，提问方式很不灵活。<br/>\n百度的文心一言申请验证，还没通过，就算通过以后也不会常用，因为有前面的更强大。<br/>\n还有其它吗？\t\t</div>",
+      "date": "2023-07-25",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1194385",
+          "replier": {
+            "username": "擇路",
+            "uid": "19415"
+          },
+          "date": "2023-07-25",
+          "content": "还有cloude  google-palm 其实还是GPT-4最好用"
+        },
+        {
+          "id": "1194386",
+          "replier": {
+            "username": "擇路",
+            "uid": "19415"
+          },
+          "date": "2023-07-25",
+          "content": "打错了  claude"
+        }
+      ]
+    },
+    {
+      "id": "673718",
+      "is_folded": false,
+      "answerer": {
+        "username": "Step1568",
+        "uid": "113995"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tChatGPT 3.5/4 感觉日常应该足够用了，之后还有 Plugin 功能推出，应该是最领先的 GPT 了吧。。\t\t</div>",
+      "date": "2023-07-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673720",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tchatgpt和new bing各有千秋,bard的智能明显还差点。<br/>\nchatgpt胜在答案准确，会员版还有各种官方插件可用。而new bing胜在答案个性化，还有超过chatgpt的输出图片功能。bard的目前的主要好处就是，他和匪的关系比较疏远，但功能明显还是差一些。\t\t</div>",
+      "date": "2023-07-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "676322",
+      "is_folded": false,
+      "answerer": {
+        "username": "Heisenberger",
+        "uid": "20114"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t感觉都差不多，只能说一些似是而非，自相矛盾的话。\t\t</div>",
+      "date": "2023-08-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "676324",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t3.5我感觉变得比最早弱智了 现在各种乱编答案 都不敢随便问问题了 问了也还要再去自己查 突然觉得语言模型可能也就这样了\t\t</div>",
+      "date": "2023-08-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

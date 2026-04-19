@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "67019",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "745185",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该是火力发电站，长三角的电力主要由火力发电站供给。\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "745186",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有没有二氧化硫和氮氧化物的分布图<br/>\n<br/>\n还有总悬浮颗粒物，就是Pm2.5\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

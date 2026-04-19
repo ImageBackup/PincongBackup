@@ -1,0 +1,64 @@
+{
+  "question_id": "52627",
+  "category_id": "4",
+  "title": "安卓刷机党请进，不知能否通过面具模块等方式来注入app以实现改写健康码颜色、24小时核酸颜色等效果？",
+  "meta_description": "安卓刷机党请进，不知能否通过面具模块等方式来注入app以实现改写健康码颜色、24小时核酸颜色等效果？ - 因为不想关联我的品葱账号和Github账号，就拿小号发帖了。  如题，伪造健康码的手段之一。[url=https://github.com/ilovexjp/health-code-index]现成的健康码模拟项目[/url]虽然能伪装，但毕竟跟不上官方的...",
+  "meta_keywords": "安卓,刷机,请进,不知,能否,面具,模块,方式,注入,app,实现,改写,健康,颜色,24小时,核酸,效果",
+  "tags": [
+    {
+      "id": "955",
+      "name": "大数据"
+    },
+    {
+      "id": "2891",
+      "name": "安卓"
+    },
+    {
+      "id": "5262",
+      "name": "武汉肺炎"
+    },
+    {
+      "id": "7950",
+      "name": "健康码"
+    }
+  ],
+  "author": {
+    "username": "多多良小伞",
+    "uid": "91394"
+  },
+  "view_count": 9330,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t因为不想关联我的品葱账号和Github账号，就拿小号发帖了。<br/>\n<br/>\n如题，伪造健康码的手段之一。<a href=\"url/link/aHR0cHM6Ly9naXRodWIuY29tL2lsb3ZleGpwL2hlYWx0aC1jb2RlLWluZGV4\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://github.com/ilovexjp/health-code-index\">现成的健康码模拟项目</a>虽然能伪装，但毕竟跟不上官方的更新速度。<br/>\n<br/>\n而如果用Magisk把手机root，编写并安装xposed模块对应用程序执行注入。把控制码颜色、控制XX小时核酸颜色相关的地方劫持，强制输出为绿色，因为是拿真正的APP做的，因此就不用担心露馅了。<br/>\n然后再屏蔽自动更新检测，就无需担心软件强行升级导致模块失效。<br/>\n除了扫场所码这一点无法伪造。<br/>\n<br/>\n缺点就是上手门槛高，毕竟不是每个人都会解bl刷机刷twrp的。<s>以及苹果不能用。</s><br/>\n<br/>\n不知这种方法是否可行？欢迎安卓开发的大佬分享人生经验。\t\t\t\t\t\t\t</div>",
+  "date": "2022-11-13",
+  "agree_count": 6,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1025857",
+      "replier": {
+        "username": "wjjy1989",
+        "uid": "100884"
+      },
+      "date": "2022-11-13",
+      "content": "苹果要怎么办呢"
+    },
+    {
+      "id": "1025880",
+      "replier": {
+        "username": "ober",
+        "uid": "98194"
+      },
+      "date": "2022-11-13",
+      "content": "@wjjy1989:没办法。说不好听的，苹果是先中共一步剥夺了用户的一些自由，先入为主，使得后到的中共挤进来插手有障碍。"
+    },
+    {
+      "id": "1025920",
+      "replier": {
+        "username": "多多良小伞",
+        "uid": "91394"
+      },
+      "date": "2022-11-13",
+      "content": "@wjjy1989:苹果就是主打的封闭和安全，可玩性不高。想玩安卓的话几百块收一个二手高通CPU的手机也能搞，联发科比较难刷机，玩的人少。"
+    }
+  ],
+  "answer_count": 9
+}

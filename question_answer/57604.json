@@ -1,0 +1,170 @@
+{
+  "parent_type": "question",
+  "parent_id": "57604",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "647863",
+      "is_folded": false,
+      "answerer": {
+        "username": "梁振英",
+        "uid": "100153"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你的中學成績<br/>\n把你高中的成績表和高考成績翻譯做英文便可以了\t\t</div>",
+      "date": "2023-04-13",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1169940",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-04-13",
+          "content": "卧草，跟百度上查到的一样。可是哪有人会保存这个嘛"
+        },
+        {
+          "id": "1169994",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-04-13",
+          "content": "@屠支太君:去学校教务处问，他们会给你做翻译，加盖公章。这都是正常文件流程，司空见惯，除非学校是野鸡。"
+        },
+        {
+          "id": "1170004",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-04-13",
+          "content": "@李瑞环:教务处会保存这些东西多久？我15年就毕业了。"
+        },
+        {
+          "id": "1170018",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-04-13",
+          "content": "@屠支太君:我95年毕业的也有啊，你打个电话问问不就行了吗，品葱又不知道你是哪个学校的"
+        },
+        {
+          "id": "1170056",
+          "replier": {
+            "username": "arsingsoa",
+            "uid": "101392"
+          },
+          "date": "2023-04-13",
+          "content": "@屠支太君: 重新开盖章啊 小地方或者出国的话都是自己写成绩的"
+        }
+      ]
+    },
+    {
+      "id": "647872",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tTranscript，一份记录了高中每门课成绩的统计表，包含这门课修的时间，自己的成绩（一些学校会附平均成绩），和成绩分级表（如学分划分，总分多少，成绩分档等）。一般要求学校对学校直接发送文档/信件，或（通过学生）使用经过认证的PDF文档。<br/>\n<br/>\n不过墙里中学系统和成绩应该不是这样统计呈现的。可以问申请过的人或中介等。\t\t</div>",
+      "date": "2023-04-13",
+      "agree_count": 1,
+      "discussion_count": 10,
+      "discussions": [
+        {
+          "id": "1169953",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-04-13",
+          "content": "还有这么多门道？我记得我那时只会在学期结束时发个成绩单之类的东西"
+        },
+        {
+          "id": "1169956",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2023-04-13",
+          "content": "@屠支太君: 北美高中是这样，基本是简易的大学模式，其他不了解。"
+        },
+        {
+          "id": "1169957",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-13",
+          "content": "我都是开纸质的，有大学教务处公章\n我没申请过外国本科，都是申请研究生"
+        },
+        {
+          "id": "1169960",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-04-13",
+          "content": "@一Watcher一:卧草，西班牙居然也要这个😫"
+        },
+        {
+          "id": "1169961",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-04-13",
+          "content": "我猜我那所普通高中根本不会记录这些东西，能证明的不就只有成绩单吗"
+        },
+        {
+          "id": "1169996",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-04-13",
+          "content": "@屠支太君:你学校不是野鸡的话应该有，去教务处问一下，别瞎猜。"
+        },
+        {
+          "id": "1170055",
+          "replier": {
+            "username": "arsingsoa",
+            "uid": "101392"
+          },
+          "date": "2023-04-13",
+          "content": "transcript 就是成绩单 哪里会写成绩怎么划分 用了多长时间 那是syllabus或课程介绍里写的 一般要大学阶段的 高中成绩无非就是看分数就行了"
+        },
+        {
+          "id": "1170110",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2023-04-14",
+          "content": "@arsingsoa: 有没有可能你的学校没有不代表别的学校没有。凡是有换算分值的（非百分比的）没有成绩划分表难道靠猜是4分制还是5分制？"
+        },
+        {
+          "id": "1170122",
+          "replier": {
+            "username": "arsingsoa",
+            "uid": "101392"
+          },
+          "date": "2023-04-14",
+          "content": "@一Watcher一: 你倒是发一个来看看来 我欧美澳新中 高中成绩单都见过 你来一个火星的单纯transcript 还写清楚每门课分怎么算的 有多少课时的  transcript写这么详细那你这个高中课程介绍跟syllabus写的是论文？"
+        },
+        {
+          "id": "1170123",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2023-04-14",
+          "content": "@arsingsoa: 我只能说你要么没见过校对校Official transcript，要么高中不是学分+GPA制，要么没见过Course syllabus。一张表格总共两页纸，让你理解得像长文一样。你开心就好。"
+        }
+      ]
+    }
+  ]
+}

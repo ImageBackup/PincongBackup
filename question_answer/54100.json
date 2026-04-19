@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "54100",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "608823",
+      "is_folded": false,
+      "answerer": {
+        "username": "荣耀归于上帝",
+        "uid": "14555"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本其实不看重血脉吧，只看重家名。<br/>\n<br/>\n至少，很多战国时代日本大名，过继个孩子，改姓继承家名。\t\t</div>",
+      "date": "2022-12-10",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1134390",
+          "replier": {
+            "username": "毛邓习全面战争",
+            "uid": "99727"
+          },
+          "date": "2022-12-10",
+          "content": "天皇例外，不惜近亲结婚"
+        },
+        {
+          "id": "1134391",
+          "replier": {
+            "username": "荣耀归于上帝",
+            "uid": "14555"
+          },
+          "date": "2022-12-10",
+          "content": "@毛邓习全面战争: 近亲结婚如果是表亲，那是中华文化圈的传统吧。不过确实没听说过天皇有过继非近亲的。"
+        }
+      ]
+    }
+  ]
+}

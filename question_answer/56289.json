@@ -1,0 +1,186 @@
+{
+  "parent_type": "question",
+  "parent_id": "56289",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "633266",
+      "is_folded": false,
+      "answerer": {
+        "username": "yogafire",
+        "uid": "3317"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t因为避免歧义<br/>\n<br/>\n没错，“老祖宗”就有兆这个词了，但是到底指多少是乱七八糟的<br/>\n<br/>\n中国古代的数字表达本来就非常不严谨，<br/>\n<br/>\n”按黄帝为法，数有十等。及其用也，乃有三焉。　　十等者，谓“亿、兆、京、垓、秭、穰、沟、涧、正、载”也。　　三等者，谓“上、中、下”也。　　<br/>\n下数者，十十变之。若言十万曰亿，十亿曰兆，十兆曰京也。　　<br/>\n中数者，万万变之。若言万万曰亿，万亿曰兆，万兆曰京也。　　<br/>\n上数者，数穷则变。若言万万曰亿，亿亿曰兆、兆兆曰京也。“<br/>\n<b>                               </b>    --《五经算数》<br/>\n<br/>\n这一段请仔细看懂。根据这一段<br/>\n兆在作为“下数“的时候指的是当代所说的百万（即10^6）<br/>\n兆在作为“中数“的时候指的是当代所说的万亿（即10^12）<br/>\n兆在作为“上数“的时候指的是当代所说的亿亿（即10^16）<br/>\n所以兆可以指三个不同量级的数字。<br/>\n<br/>\n”凡大数之法，万万曰亿，万万亿曰兆，万万兆曰京，万万京曰垓，万万垓曰秭，万万秭曰穰，万万穰曰沟，万万沟曰涧，万万涧曰正，万万正曰载。”<br/>\n                                        --《孙子算经》<br/>\n按照《孙子算经》，兆指的是当代所说的亿亿（即10^16），注意虽然这里的兆也是指“亿亿”，等同于五经算术里的“上数”的兆，但是你仔细往后看就发现它的系统又和五经算术里的上中下任何一个系统都不一样。<br/>\n<br/>\n说到底，古代本来用到万以上的大数的机会就很少，中国人又习惯拿大数进行虚指，这就导致了亿（含）以上的数字单位其实更多的是一种语言上的“看我有这些词能表达那么大的单位多么了不起啊”的装逼用词，用来虚指的机会要远远大于实际表达一个具体的数。类似玛雅人的纪年法<br/>\n<br/>\n说到近代和当代，<br/>\n按照中国民国初期的普遍用法，兆指一百万，在中国大陆当前的IT和相关行业被普遍用来翻译mega这个指百万的前缀,比如兆赫兹指的是百万赫兹，一千k是一兆存储。<br/>\n但是在中国之外的汉字文化圈却并不如此。日韩台确实常用兆指一万亿，但是越南却用“兆”（Triệu）表示一百万。在我经常去买春的越南城市，一般越南人讲钱的时候只要不到一百万就会省略掉三个零，比如4万越盾，按照越南的写法是40.000，日常沟通他们就讲40，40万就是讲400，但是一旦到了百万，他们就开始用（Triệu），比如4百万就是 4 Triệu<br/>\n<br/>\n所以兆这个词在中国歧义很大，除非是在台湾这样已经有兆=一万亿共识的地方，否则为了避免歧义能不用确实还是不要用。\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2023-02-22",
+      "agree_count": 12,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1156221",
+          "replier": {
+            "username": "事已至此先吃饭吧",
+            "uid": "102283"
+          },
+          "date": "2023-02-22",
+          "content": "感谢科普，第一次完整了解古代的数字表达。"
+        },
+        {
+          "id": "1170165",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-14",
+          "content": "台湾的兆等于一万亿？那mega是怎么写的？"
+        },
+        {
+          "id": "1170174",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-04-14",
+          "content": "@rowlandheights:百万"
+        },
+        {
+          "id": "1170183",
+          "replier": {
+            "username": "colloid",
+            "uid": "21016"
+          },
+          "date": "2023-04-14",
+          "content": "mega就是說百萬啊"
+        }
+      ]
+    },
+    {
+      "id": "633264",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t万亿和trillion一样，比较精确，没有二义性。<br/>\n<br/>\n兆字在中国和越南非常遗憾地被用来翻译mega，大概是当时的人觉得百万已经很大了，感觉像一兆一样。不过不管当时的人怎么想的吧，用一个兆字来代替百万两个字，大概是觉得自己聪明的不得了。<br/>\n<br/>\n我理解台湾人用百万字元这种词汇，面对中国的兆字节，心理上会有优势。但我冒昧的说一句，两者只是五十步笑百步的区别。日本的片假名算是二十步。这些都是半吊子。<br/>\n<br/>\n我华主席真正称赞的，是印度的做法，直接就是megabytes拉丁写法英文念法三哥口音。谈科技就用英语，根本不会考虑印地语怎么说。这样过两三代，英语主流化，降低沟通成本。新加坡虽然也有汉语包袱，但他们抛弃汉语决心更强。什么语言都非要翻译成本国语言，是东亚文化的傻逼之处，英文就算resume（瑞肃穆）本来就有这单词，照样拿resume（来苏米）甚至把重音号都去掉了，完全不会考虑什么英语的优越性。这才是现代语言应该有的样子和气度。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 4,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1156328",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-02-22",
+          "content": "我第一次聽說mb還有中文譯名的"
+        },
+        {
+          "id": "1156467",
+          "replier": {
+            "username": "bxbxbxbxbx",
+            "uid": "80948"
+          },
+          "date": "2023-02-23",
+          "content": "@NZRdlClr5: 正是叫法应该是 百萬位元組\n千位元組\tkB\n百萬位元組\tMB\n吉位元組\tGB\n兆位元組\tTB\n拍位元組\tPB\n艾位元組\tEB\n皆位元組\tZB\n佑位元組\tYB"
+        },
+        {
+          "id": "1170166",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-14",
+          "content": "resume两个词读音不一样的，去除重音号就成了多音词"
+        }
+      ]
+    },
+    {
+      "id": "633272",
+      "is_folded": false,
+      "answerer": {
+        "username": "屮尼玛",
+        "uid": "78795"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得是习惯了吧。这种词本来就不怎么用。<br/>\n现在的trillion，“万亿”也不是它本来的意思了，它本来是百万的三次方（tri- + million.）的意思，也就是1后面18个0；<br/>\n后来美国习惯用1000为单位计数（1000，一千的平方是百万，一千的三次方是十亿），trillion就有了千的四次方（万亿）这个意思，也就是1后面12个0.\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633655",
+      "is_folded": false,
+      "answerer": {
+        "username": "树上的男爵",
+        "uid": "46321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t个万亿，义务教育时期就是这么教的，没什么问题啊。就像美国人说习惯说英语了，大概率不会说英语\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633677",
+      "is_folded": false,
+      "answerer": {
+        "username": "麦克",
+        "uid": "30378"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很多<mark>支那</mark>小脑残都以为兆是百万，为了有效洗脑而照顾它们的\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648075",
+      "is_folded": false,
+      "answerer": {
+        "username": "MasonQian",
+        "uid": "15361"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t億和兆就是中文萬以上的單位<br/>\n但自古就有兩種用法<br/>\n一個是代表十萬和百萬<br/>\n另一個是代表萬萬和萬億<br/>\n查康熙字典都可以查到<br/>\n現代中國是一個特別需要大數字的國家<br/>\n但不知為什麼<br/>\n億用了萬萬的用法<br/>\n兆卻用了百萬的用法<br/>\n非常怪異\t\t</div>",
+      "date": "2023-04-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633267",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t万亿就是简单的说法。在日本和台湾叫“兆”。<br/>\n<br/>\n兆在国际单位上的意思是百万，在极个别地区也可能表示十的十六次方，这个用法很不统一，要看具体语境。如果说要区分不用兆，也是说得通的。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633330",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t古代资源匮乏，数字到了万就相当了不得，所以对千万以上的数字一直没有一个准确一致的表达式，于是乎在民国时间还有四万万同胞的说法。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1170168",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-14",
+          "content": "这个倒不是，当局是愿意精确统计人口的（涉及税收），但是清末中央政府控制力下降，没法统计，所以四万万同胞喊了几十年，中共统一大陆，1953年一看，将近六亿人。"
+        }
+      ]
+    }
+  ]
+}

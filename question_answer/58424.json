@@ -1,0 +1,66 @@
+{
+  "parent_type": "question",
+  "parent_id": "58424",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "656118",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t历史总是出乎意料的 俄罗斯被重挫 结果是隔壁<mark>支那</mark>倒台了\t\t</div>",
+      "date": "2023-05-17",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1178141",
+          "replier": {
+            "username": "pincong360",
+            "uid": "17793"
+          },
+          "date": "2023-05-17",
+          "content": "传武们说的隔山打牛？"
+        }
+      ]
+    },
+    {
+      "id": "656152",
+      "is_folded": false,
+      "answerer": {
+        "username": "同人志",
+        "uid": "22020"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t按照某人的解释<br/>\n萨达姆发动科威特战争本身就是苏联无力控制的表现\t\t</div>",
+      "date": "2023-05-17",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "656122",
+      "is_folded": false,
+      "answerer": {
+        "username": "Onioner",
+        "uid": "1105"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有意思的是海湾战争以后，萨达姆王朝反而没有马上倒台。要是没有911和小布什政府的决策，说不定萨达姆已经传位给自己儿子孙子了。\t\t</div>",
+      "date": "2023-05-17",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1178142",
+          "replier": {
+            "username": "总是忘记账号密码",
+            "uid": "107684"
+          },
+          "date": "2023-05-17",
+          "content": "已删除"
+        }
+      ]
+    }
+  ]
+}

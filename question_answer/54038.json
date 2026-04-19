@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "54038",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "608537",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t標準或者中等就可以，最高級別會禁用Javascript可能會影響頁面裏部分圖片和内容加載\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134254",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "ok"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "66544",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "740308",
+      "is_folded": false,
+      "answerer": {
+        "username": "Toma2018",
+        "uid": "124318"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t剛看完演講稿<br/>\n水平拿來在你蔥口嗨的確可以<br/>\n想白嫖國會裡面的老妖怪可不行\t\t</div>",
+      "date": "2024-04-12",
+      "agree_count": -2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1256893",
+          "replier": {
+            "username": "六嬸",
+            "uid": "85411"
+          },
+          "date": "2024-04-12",
+          "content": "演讲不是用来忽悠老妖怪的，属于勾兑好了用演讲来挑明，锦上添花"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "parent_type": "question",
+  "parent_id": "62479",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "696831",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个问题槽点太多都让人无力吐槽了。现在速度最快的计算机芯片的频率是9GHz，每秒钟可以进行(9x10^9)次运算，用它来把所有的key组合试一遍需要 (1^77)/(9x10^9) ≈ (1.1x10^67)秒 ≈ (3.5x10^59)年。全世界每年制造的计算机芯片数量大约是 (1x10^12)，就算每个芯片都能跑9GHz而且全部都用来干这个，也需要 (3.5x10^47)年。而宇宙诞生至今的年龄只有 (1.38x10^10)年……\t\t</div>",
+      "date": "2023-10-13",
+      "agree_count": 11,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1216449",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-10-14",
+          "content": "@useforpc:挖弱密码的矿"
+        },
+        {
+          "id": "1216707",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-10-14",
+          "content": "@useforpc:那你也去跑啊，现成的字典到处都是。跟弱智一样，你自己乘一下不就知道了。"
+        }
+      ]
+    },
+    {
+      "id": "696824",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为哈希函数 你来反贼论坛问这种问题还是挺有创意\t\t</div>",
+      "date": "2023-10-13",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "696922",
+      "is_folded": false,
+      "answerer": {
+        "username": "佐助",
+        "uid": "467"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t任何随机生成的东西，重复率都非常低，甚至可以忽略。<br/>\n<br/>\n你随意把一个竹片一扳为二，断口就是世上独一无二的。<br/>\n不管你多么用心，都制造不出另一个能完全吻合的断口。<br/>\n<br/>\n就比如指纹，只要人在胚胎期受到些微的扰动，指纹就会大幅改变。<br/>\n一旦形成以后，指纹却是终身不变的。<br/>\n世上几乎不可能存在两个指纹相同的人。<br/>\n不单是指纹，就连你身上任何一小块皮肤，或树叶、树皮，在放大镜下看都有独一无二的纹理。<br/>\n<br/>\n包括我写下的这段话，也是独一无二的。<br/>\n如果碰巧被世上另一个人早就写出来了，这是绝对不可能的。\t\t</div>",
+      "date": "2023-10-14",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1216529",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2023-10-14",
+          "content": "因为字数够多所以组合数够多，被重复的概率就小"
+        }
+      ]
+    },
+    {
+      "id": "697698",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t知乎有詐騙犯賣啥天啟密鈅碰撞器，就是說能隨機hack進錢包偷錢，别人問他，成功率如此高，能賺錢，為啥向陌生人販賣，你自己賺夠不就行了\t\t</div>",
+      "date": "2023-10-17",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

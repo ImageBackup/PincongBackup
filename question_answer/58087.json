@@ -1,0 +1,261 @@
+{
+  "parent_type": "question",
+  "parent_id": "58087",
+  "answer_count": 13,
+  "answers": [
+    {
+      "id": "652939",
+      "is_folded": false,
+      "answerer": {
+        "username": "民主信仰者",
+        "uid": "653"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t移動支付啊...，有一堆坑而不自知。<br/>\n<br/>\n1.被盜用。<br/>\n手機這玩意，說穿了就是小型化的PC（個人電腦），而且使用門檻極低，不需要理解什麼軟硬體知識，有手就能用。<br/>\n而理所當然，這麼低的使用門檻，自然就會導致大量缺少基本安全知識的使用者，帳戶被盜用就是時間的問題，更狠一點的連身分都盜用。<br/>\n<br/>\n2.遺失、故障或沒電。<br/>\n如果完全數位化不用現金，手機要是遺失、故障或沒電，請問要怎麼辦？<br/>\n這可不是沒發生過，而且要是支付端出事也就算了，了不起十幾二十幾個人沒辦法買車票，沒辦法回家罷了；如果是接收端出事呢？到時候便是成千上萬的人回不了家喔，而且這還只是買車票而已，更慘一點的情況呢？<br/>\n<br/>\n3.大規模的國家攻擊。<br/>\n直白點講就是戰爭時，這一類資料中心極其容易成為敵方攻擊目標。<br/>\n通過非物理方式攻擊還罷了，資料還有機會救回來，不至於導致金融秩序崩潰；若是通過物理方式攻擊呢？來上十幾顆飛彈，想救回資料就不可能了，金融秩序崩潰後打都不用打，中國自己就會求和。<br/>\n<hr/><br/>\n直白點講，從使用者到國家層面，到處是風險。<br/>\n然後又因為慶豐大帝的好大喜功，讓這種風險進一步加劇。\t\t</div>",
+      "date": "2023-05-05",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652942",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你说的是扫码支付吗？国外不流行的主要原因是扫码太麻烦，吃完饭买完东西之后本来拿出卡来接触一下就好了，你还要打开app扫码，一点也不方便。Apple pay就简化成掏出手机双击侧键，用户相对多了一点，但终究还是不如tap卡方便。<br/>\n<br/>\n当然有人说出门不愿意带钱包，但手机比装信用卡的包可大多了，更何况卡包也可以贴在手机后面。所以根本原因还是国外人们觉得扫码是脱裤子放屁多此一举😄\t\t</div>",
+      "date": "2023-05-05",
+      "agree_count": 9,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1175135",
+          "replier": {
+            "username": "darksoul1",
+            "uid": "88306"
+          },
+          "date": "2023-05-05",
+          "content": "没错，信用卡比手机支付方便多了。"
+        },
+        {
+          "id": "1175160",
+          "replier": {
+            "username": "S700N",
+            "uid": "75716"
+          },
+          "date": "2023-05-05",
+          "content": "但是手机是必需品，肯定要带的啊，如果能少带一个钱包那真的轻松不少。"
+        },
+        {
+          "id": "1175202",
+          "replier": {
+            "username": "不吃蔥",
+            "uid": "39352"
+          },
+          "date": "2023-05-06",
+          "content": "手機錢包方便，比如各商家會員卡，我現在都是電子卡放在ios的錢包。一個手機可以添加n張卡片。甚至不用手機呢，像手錶，輕輕鬆鬆按一按貼一貼。"
+        },
+        {
+          "id": "1175442",
+          "replier": {
+            "username": "小魔女",
+            "uid": "92406"
+          },
+          "date": "2023-05-06",
+          "content": "@S700N:手机当然不是必需品，现在有智能手表和眼镜"
+        }
+      ]
+    },
+    {
+      "id": "653207",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t隐患在于会把你变成编户齐民，并且让你丢掉隐私。此外，它非常不方便，需要打开重重应用页面，我认为用现金和信用卡比它好多了。<br/>\n中国人为了方便去送出自己的人脸图片、设备信息、生活轨迹和尊严，结果连方便都没得到，纯粹就是被宰的牲口，还在那沾沾自喜。\t\t</div>",
+      "date": "2023-05-06",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653093",
+      "is_folded": false,
+      "answerer": {
+        "username": "Genzo",
+        "uid": "52806"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tMobile payment 在外國當然也有用, 只是他們用的是Apple Pay Google Pay, 人家跑的是NFC, 不是又落後又慢的的QR code 而言.\t\t</div>",
+      "date": "2023-05-06",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653018",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t唯一的风险就是赔付？<br/>\n<br/>\n比如洼地过去出现过商家的支付码被替换的事情<br/>\n<br/>\n从技术上来说 盗刷信用卡反而比盗刷手机支付更容易 盗刷手机支付几乎不可能<br/>\n<br/>\n但是我从来没听说过洼地有手机支付被盗刷后的补救措施<br/>\n比如美国信用卡盗刷是用户不负责任的\t\t</div>",
+      "date": "2023-05-06",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653006",
+      "is_folded": false,
+      "answerer": {
+        "username": "不吃蔥",
+        "uid": "39352"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最大風險是系統技術故障。<br/>\n<br/>\n雖然我個人沒有遇到過，但我用的銀行有故障過。有一天我打開銀行app，發現服務故障了。那天新聞播報很多消費者在購物時遇到了麻煩。<br/>\n<br/>\n還好那天我沒有在超市買東西，不然一購物車刷完了傻在收銀櫃檯豈不是尷尬死了。我可是從來不帶現金的啊。\t\t</div>",
+      "date": "2023-05-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653016",
+      "is_folded": false,
+      "answerer": {
+        "username": "tq0826u",
+        "uid": "106782"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t数据跟踪，消费习惯被分析，进而进行潜意识操控，广告针对推送等手段<br/>\n在无声无息中把你变成任人操纵的木偶\t\t</div>",
+      "date": "2023-05-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652961",
+      "is_folded": false,
+      "answerer": {
+        "username": "通商宽衣颐使气指",
+        "uid": "74980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一个大停电直接完蛋，包括共享单车外卖快递和绝大部分的公共交通也会被泼鸡\t\t</div>",
+      "date": "2023-05-05",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1175159",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-05",
+          "content": "讲道理，国外的信用卡支付如果停电也完蛋。其实停电了你用现金也未必能买到东西，正规点的店面没法记账。"
+        }
+      ]
+    },
+    {
+      "id": "652941",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 如有法治社會和配套的隱私法規就不怕隱私收割機們了, 但這些在匪患區都沒有, 個人資料甚至自己都不知道的消費習慣等等的, 全暴露在獨裁者與其奴才面前. 給我個紅頂商人不上套 AI 把大數據一分析, 照方抓藥來經濟收割我們的理由吧.<br/>\n<br/>\n_ _ 但我更擔心的是把處理加工成信息甚至是知識的資料, 打包流出或賣給電信詐騙等惡人, 不知道又要有多少人失去活命錢了. 有 AI 技術加持的程式設計師還不普遍的情況下, 若先是 AI 增強的惡人先普遍起來的話, 那就得承認科技悲觀論有那麽一點道理了.\t\t</div>",
+      "date": "2023-05-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653201",
+      "is_folded": false,
+      "answerer": {
+        "username": "ZhangWWCP",
+        "uid": "107850"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该是极端情况的全城停电，这是无现金社会的弊端。因为到时候只能以物换物或者现金\t\t</div>",
+      "date": "2023-05-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652946",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t信用卡或加密貨幣（虛擬貨幣）用作移動支付，我感覺並沒有任何問題。還有apple pay<br/>\n<br/>\n沒網絡的地方信用卡可以壓卡交易<br/>\n<br/>\n1BTC=1億 satoshi（聰）=USD$29,570.8<br/>\n1聰 satoshi = 10⁻⁸ BTC=0.0002959 USD<br/>\n<br/>\nBTC最小單位是0.00000001，相應地1BTC是100,000,000個最小單位<br/>\n<br/>\n鏈主要是ERC TRC OMNI LN 四種<br/>\n<br/>\n註：EtheReum Chain以太坊鏈<br/>\nTRon Chain<br/>\nLightNing<br/>\n<br/>\n<a href=\"url/link/aHR0cHM6Ly93d3cuaGVsbG9idGMuY29tL2QvZmlsZS8yMDE5MDUvMjFkNjA5ZTA3NDVkZmFjMjk3NTUzZWVhM2NmNDY4YzAuanBn\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.hellobtc.com/d/file/201905/21d609e0745dfac297553eea3cf468c0.jpg\">https://www.hellobtc.com/d/file/201905/21d609e0745dfac297553eea3cf468c0.jpg</a> </div>",
+      "date": "2023-05-05",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1175300",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-06",
+          "content": "我不认为会有主流大国支持使用加密货币支付，除非中国这样自己发行的数字货币。一个国家的本币发行是政府的权力，是主权的象征，不可能让渡给第三方。"
+        }
+      ]
+    },
+    {
+      "id": "653202",
+      "is_folded": false,
+      "answerer": {
+        "username": "精神病院",
+        "uid": "77159"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t聽到中人遊客說外國移動支付落後，在中國都不用帶錢包時，我摸一摸我的Apple Watch，笑而不語，因為我連手機也沒有帶。<br/>\n<br/>\n畢竟他們連什麼是，apple pay 也不知道，\t\t</div>",
+      "date": "2023-05-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652955",
+      "is_folded": false,
+      "answerer": {
+        "username": "朝鲜第一书记",
+        "uid": "110069"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t全球移动支付比例处于上升趋势<br/>\n<br/>\n2020年，全球有28亿人使用移动支付。预计2025年会增长到48亿<br/>\n<br/>\n2021年，美国使用移动支付的人约为1.01亿，占拥有手机人口的43.2%，比上一年增加了9.64%。<br/>\n<br/>\n中国的移动支付普及这么快，跟支付宝和微信的垄断地位有很大关系。双方打了五年的推广战。推广移动支付关键的一点还是要获得商户的支持，谁的条件优惠，对商户的吸引力越大。支付宝和微信有足够的实力去补贴商户，还有庞大的用户群做支撑。当时也有其他的参与者，但取得的份额可忽略不及。有的现在还在运营，比如电信的翼支付。<br/>\n<br/>\n<br/>\n移动支付有风险，所有的支付方式都有风险。金融行业的风险因为牵涉面广，出事了往往有连锁反应。银行体系的风险更大，大家依然会用。相比之下，移动支付的体系风险要小很多。\t\t</div>",
+      "date": "2023-05-05",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1175158",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-05",
+          "content": "中国移动支付普及快还有个重要原因就是中国的金融发展几乎跳过了信用卡和支票，国外这两者更普及，所以没有替代成移动支付的动力"
+        },
+        {
+          "id": "1175163",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-05-05",
+          "content": "@天下无贼: 外國虛擬幣是合法的"
+        },
+        {
+          "id": "1175164",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-05",
+          "content": "已删除"
+        }
+      ]
+    }
+  ]
+}

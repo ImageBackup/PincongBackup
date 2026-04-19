@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "55532",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "624395",
+      "is_folded": false,
+      "answerer": {
+        "username": "超级使用者",
+        "uid": "107034"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不能开VPN上墙内网站吗？如果要冲塔还能保护隐私。\t\t</div>",
+      "date": "2023-01-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "624398",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可能与套餐有关系<br/>\n流量分为通用流量和定向流量<br/>\n什么微信、抖音、头条走的是定向流量，定向流量大概率被限速了<br/>\nVPN不能被ISP识别流量特征的，走的是通用流量\t\t</div>",
+      "date": "2023-01-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "624400",
+      "is_folded": false,
+      "answerer": {
+        "username": "L的第三声",
+        "uid": "48818"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用完规定流量就开始限速了呗，国内运营商不都这样\t\t</div>",
+      "date": "2023-01-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

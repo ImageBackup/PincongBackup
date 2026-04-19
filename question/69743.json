@@ -1,0 +1,92 @@
+{
+  "question_id": "69743",
+  "category_id": "14",
+  "title": "为什么，問下呆過美日或者現在人在外國的各位，115在外面能用不？",
+  "meta_description": "为什么，問下呆過美日或者現在人在外國的各位，115在外面能用不？ - 我用日本IP上115一直無法加載完畢！ 有機場的確沒問題，就是流量浪費 VPN好像沒有中國IP",
+  "meta_keywords": "問下,呆過,美日,在外,115,在外面,用不",
+  "tags": [
+    {
+      "id": "32",
+      "name": "日本"
+    },
+    {
+      "id": "312",
+      "name": "美國"
+    }
+  ],
+  "author": {
+    "username": "ggkking",
+    "uid": "133399"
+  },
+  "view_count": 2164,
+  "date": "2024-08-31",
+  "agree_count": 2,
+  "discussion_count": 7,
+  "discussions": [
+    {
+      "id": "1065749",
+      "replier": {
+        "username": "colloid",
+        "uid": "21016"
+      },
+      "date": "2024-08-31",
+      "content": "台灣可以用啊"
+    },
+    {
+      "id": "1065782",
+      "replier": {
+        "username": "ggkking",
+        "uid": "133399"
+      },
+      "date": "2024-09-01",
+      "content": "@colloid:台灣可以？我之前看PPT好像不行，速度怎麽？"
+    },
+    {
+      "id": "1065783",
+      "replier": {
+        "username": "colloid",
+        "uid": "21016"
+      },
+      "date": "2024-09-01",
+      "content": "@ggkking:我主要是用115抓BT，基本秒抓，傳到自己的硬碟，深夜速度幾乎達到hinet網路。"
+    },
+    {
+      "id": "1065830",
+      "replier": {
+        "username": "ggkking",
+        "uid": "133399"
+      },
+      "date": "2024-09-01",
+      "content": "@colloid:你是用台灣手機號注冊115嗎？我沒台灣IP，試不了，奇怪香港美國都無法上115，台灣可以？要是這樣，我也不想搞什麽IP回國"
+    },
+    {
+      "id": "1065834",
+      "replier": {
+        "username": "colloid",
+        "uid": "21016"
+      },
+      "date": "2024-09-02",
+      "content": "@ggkking:我忘了是不是用台灣手機註冊，但我覺得八成是，我記得登入時是可以用選台灣 香港等手機號碼登入，但我都把它改成帳號密碼登入。"
+    },
+    {
+      "id": "1065835",
+      "replier": {
+        "username": "一剑",
+        "uid": "84505"
+      },
+      "date": "2024-09-02",
+      "content": "新加坡可以用"
+    },
+    {
+      "id": "1065853",
+      "replier": {
+        "username": "ggkking",
+        "uid": "133399"
+      },
+      "date": "2024-09-02",
+      "content": "香港居然用不了115，不知説明什麽！還沒收復？"
+    }
+  ],
+  "answer_count": 0,
+  "content": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t我用日本IP上115一直無法加載完畢！<br/>\n有機場的確沒問題，就是流量浪費<br/>\nVPN好像沒有中國IP\t\t\t\t\t\t\t</div>"
+}

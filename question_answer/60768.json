@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "60768",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "679949",
+      "is_folded": false,
+      "answerer": {
+        "username": "庆丰帝卧槽尼玛",
+        "uid": "114327"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGoogle直接买个微博号就行<br/>\n紫薯布丁紫薯布丁紫薯布丁\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1200160",
+          "replier": {
+            "username": "庆丰帝卧槽尼玛",
+            "uid": "114327"
+          },
+          "date": "2023-08-16",
+          "content": "@bnjkko:加油"
+        }
+      ]
+    }
+  ]
+}

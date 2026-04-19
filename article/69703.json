@@ -1,0 +1,22 @@
+{
+  "article_id": "69703",
+  "category_id": "4",
+  "title": "转发：Can Johnny Build a Protocol……",
+  "meta_description": "转发：Can Johnny Build a Protocol…… - Can Johnny Build a Protocol? Co-ordinating developer and user intentions for privacy-enhanced secure messaging protocols  by Kse...",
+  "meta_keywords": "转发,johnny,build,protocol",
+  "tags": [
+    {
+      "id": "1682",
+      "name": "论文"
+    }
+  ],
+  "author": {
+    "username": "Streptopelia",
+    "uid": "115196"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\tCan Johnny Build a Protocol? Co-ordinating developer and user intentions for privacy-enhanced secure messaging protocols<br/>\n<br/>\r\nby Ksenia Ermoshina, Harry Halpin and Francesca Musiani<br/>\n<br/>\n<b>Abstract</b><br/>\n<br/>\r\nAs secure messaging protocols face increasingly widespread deployment, differences between what developers “believe” about user needs and the actual needs of real-existing users could have an impact on the design of future technologies. In the domain of secure messaging, the sometimes subtle choices made by protocol designers tend to elude the understanding of users, including high-risk activists. We’ll overview some common protocol design questions facing developers of secure messaging protocols and test the competing understandings of these questions using STS-inspired interviews with the designers of popular secure messaging protocols ranging from older protocols like PGP and XMPP+OTR to newer unstandardized protocols used in Signal and Briar. Far from taking users as a homogeneous and undifferentiated mass, we distinguish between the low-risk users that appear in most usability studies (such as university students in the USA and Europe) and high-risk activist userbases in countries such as Ukraine and Egypt where securing messages can be a matter of life or death.<br/>\n<br/>\r\nslides: <br/>\n<pre>https://nextleap.eu/res/Ermoshina_EuroUSEC_final.pdf</pre><br/>\r\npaper:<br/>\n<pre>https://www.ndss-symposium.org/wp-content/uploads/2018/03/eurousec2017_16_Ermoshina_paper.pdf</pre> </div>",
+  "view_count": 1944,
+  "date": "2024-03-06",
+  "agree_count": 0,
+  "comment_count": 0
+}

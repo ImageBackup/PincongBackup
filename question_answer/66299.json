@@ -1,0 +1,80 @@
+{
+  "parent_type": "question",
+  "parent_id": "66299",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "737715",
+      "is_folded": false,
+      "answerer": {
+        "username": "MSE5076",
+        "uid": "117946"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我看了好几遍没看懂你想表达什么，也没理解为什么你会被气到。你被气到是因为他半个小时没回你还是回了个“慎独”？\t\t</div>",
+      "date": "2024-04-01",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1254339",
+          "replier": {
+            "username": "dickweini",
+            "uid": "124673"
+          },
+          "date": "2024-04-01",
+          "content": "既然是慎独，那就时刻要做好自己，即使没人关注的时候也要注意自己的行为。但是此人在回答上述两句话的时候活动还在进行，所以也就不存在他所说的慎独。当然这样说似乎是有些矫枉过正，我也应该反思一下，谢谢您！"
+        },
+        {
+          "id": "1254393",
+          "replier": {
+            "username": "葱花蛋汤",
+            "uid": "117702"
+          },
+          "date": "2024-04-02",
+          "content": "他有在时刻做好自己啊，他理解的是，你让他看手机，反正是自己的自由。他表示我不要这自由，我自己自律开会不看手机。你应该是觉得他TM开个煞笔到极点的会还装逼不玩手机不回我信息长达半个小时，说他两句居然敢回嘴装逼自己自律，忍不了，实在忍不了。是这个意思吗"
+        },
+        {
+          "id": "1254506",
+          "replier": {
+            "username": "dickweini",
+            "uid": "124673"
+          },
+          "date": "2024-04-02",
+          "content": "@葱花蛋汤:我认为既然是“不敢”那就是迫于某种压力，而不是发自内心的真正慎独，但是毕竟人家也是做到了没在看手机。你的说法是正确的，谢谢你，我也该反思一下自己的情绪和想法。"
+        },
+        {
+          "id": "1254564",
+          "replier": {
+            "username": "葱花蛋汤",
+            "uid": "117702"
+          },
+          "date": "2024-04-02",
+          "content": "@dickweini:我觉得你也不要太那啥，你也没有错。这种臭屁的老\n支人\n确实很多很傻逼的，内心一个个都觉得自己牛逼的很，都tm恨不得觉得自己是完人，玩自我感动，从来不反思反审自己的劣根性。"
+        }
+      ]
+    },
+    {
+      "id": "737654",
+      "is_folded": true,
+      "answerer": {
+        "username": "我是猪我没有尾巴",
+        "uid": "126540"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-04-01",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1254303",
+          "replier": {
+            "username": "dickweini",
+            "uid": "124673"
+          },
+          "date": "2024-04-01",
+          "content": "我认为将自己的行为合理化，甚至以一个褒扬的词汇升华化是不可取的。"
+        }
+      ]
+    }
+  ]
+}

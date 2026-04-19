@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "61752",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "688886",
+      "is_folded": false,
+      "answerer": {
+        "username": "昏君",
+        "uid": "116661"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t监控保存时间一般规定如下：一般小区的是7天；一般娱乐场所是15天；金融行业是26天；银行3个月到半年。治安监控存贮录像的时间大概在2周到2个月之间，如果时间太长，成本比较高，所以一般都在1个月左右\t\t</div>",
+      "date": "2023-09-13",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1208252",
+          "replier": {
+            "username": "我自由了",
+            "uid": "94510"
+          },
+          "date": "2023-09-14",
+          "content": "感谢回复！"
+        }
+      ]
+    }
+  ]
+}

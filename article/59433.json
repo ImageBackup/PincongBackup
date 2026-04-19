@@ -1,0 +1,26 @@
+{
+  "article_id": "59433",
+  "category_id": "4",
+  "title": "长江存储NAND颗粒翻车，半年内已有多人中招",
+  "meta_description": "长江存储NAND颗粒翻车，半年内已有多人中招 - 早在2022年11月就已经有人发过售后过程的记录：  《生活简测 篇一：记录致钛 1TB M.2固态硬盘挂掉、售后、换货体验，体验一回“数据无价”！》 https://post.smzdm.com/p/a60w0g20/ 从SSD照片来看，型号是TiPlu...",
+  "meta_keywords": "长江,存储,nand,颗粒,翻车,年内,多人,中招",
+  "tags": [
+    {
+      "id": "6157",
+      "name": "长江存储"
+    },
+    {
+      "id": "104823",
+      "name": "固态硬盘"
+    }
+  ],
+  "author": {
+    "username": "workingpaper",
+    "uid": "21337"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t早在2022年11月就已经有人发过售后过程的记录：<br/>\n<br/>\r\n《生活简测 篇一：记录致钛 1TB M.2固态硬盘挂掉、售后、换货体验，体验一回“数据无价”！》<br/>\r\nhttps://post.smzdm.com/p/a60w0g20/<br/>\r\n从SSD照片来看，型号是TiPlus5000（SSD左上角就写着）<br/>\n<br/>\n<br/>\r\n到了今年1月份，又有人发提问：<br/>\n<br/>\r\n《致钛5000掉盘有办法恢复么？》<br/>\r\nhttps://www.chiphell.com/thread-2482950-1-1.html<br/>\n<br/>\n<br/>\r\n到了4月4日，又多了一位受害者：<br/>\n<br/>\r\n《我可能中奖了;致钛出现了 0e 然后 esxi 虚拟机全线瘫痪,实现了 all in boom》<br/>\r\nhttps://www.v2etwitter.com/t/929866<br/>\n<br/>\n<br/>\r\n接下来就有内部人士对外爆料并有多人转载，确认是NAND颗粒有缺陷，受影响的就是Ti Pro 7000、Ti Plus 5000：<br/>\n<br/>\r\n《给你们发点东西 长江存储X2-9060 128层NAND出现问题》<br/>\r\nhttps://quan.ithome.com/content/sharedetail?id=241385<br/>\n<br/>\r\n《提醒：长江存储 x2-9060 NAND 有 0e 问题》<br/>\r\nhttps://v2etwitter.com/t/929925<br/>\n<br/>\r\n其中一个帖子说新型号不受影响，但我并不认为就此可以放心。<br/>\n<br/>\n<br/>\r\n事情还没完，最近一周再次有人丢失数据：<br/>\n<br/>\r\n《3 个月 NAS 硬盘已损毁，长江存储的 ssd 这么不禁用么？》<br/>\r\nhttps://www.v2etwitter.com/t/945920<br/>\n<br/>\r\n《致钛 TiPlus 5000 数据丢失， 0E 暴涨》<br/>\r\nhttps://www.v2etwitter.com/t/946092<br/>\n<br/>\n<br/>\r\n然而墙内那无脑狂热的民族主义助推之下，上个月（2023年5月22日）依旧有人推荐购买故障品牌的故障型号：<br/>\n<br/>\r\n《用了长江存储颗粒的SSD：完全不必怀疑》<br/>\r\nhttps://news.mydrivers.com/1/911/911436.htm<br/>\r\n这篇文章竟然推荐用户购买TiPlus5000（没错，就是前面提到的故障型号）<br/>\n<br/>\n<br/>\r\n长江存储的SSD便宜是便宜，不过呢，大家都知道一句话：便宜没好货，好货不便宜。<br/>\r\n我相信没人会喜欢翻车概率高的产品。<br/>\n<br/>\r\n小提示：“致钛”是长江存储的旗下品牌。换句话说，长江存储连自家的成品是翻车重灾区。\t\t\t\t\t\t\t</div>",
+  "view_count": 15969,
+  "date": "2023-06-08",
+  "agree_count": 21,
+  "comment_count": 30
+}

@@ -1,0 +1,34 @@
+{
+  "question_id": "41715",
+  "category_id": "4",
+  "title": "为什么说 mint 比 ubuntu 好？",
+  "meta_description": "为什么说 mint 比 ubuntu 好？ - 大佬们可以用小白能够听的懂话来说说吗？谢谢。",
+  "meta_keywords": "mint,ubuntu",
+  "tags": [
+    {
+      "id": "1837",
+      "name": "Linux"
+    }
+  ],
+  "author": {
+    "username": "自由说话",
+    "uid": "42339"
+  },
+  "view_count": 16743,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t大佬们可以用小白能够听的懂话来说说吗？谢谢。\t\t\t\t\t\t\t</div>",
+  "date": "2021-09-05",
+  "agree_count": 3,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1000423",
+      "replier": {
+        "username": "Walking_Deader",
+        "uid": "34091"
+      },
+      "date": "2021-09-11",
+      "content": "mint 有很多自动配置的功能，不用折腾，直接用来工作。"
+    }
+  ],
+  "answer_count": 20
+}

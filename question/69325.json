@@ -1,0 +1,65 @@
+{
+  "question_id": "69325",
+  "category_id": "6",
+  "title": "在网络辩论中，如何辨别某个帖子是否属于情绪化的言论？",
+  "meta_description": "在网络辩论中，如何辨别某个帖子是否属于情绪化的言论？ - 看似简单，还真不容易回答。  情绪化的言论有哪些特征？ 判定言论是否情绪化有什么标准没有？  大致估计一下，品葱的帖子约有多少属于情绪化的言论？ 有没有可能开发一个程序，能一键屏蔽所有情绪化发言，这么一来，看品葱就和看杂志一样了。",
+  "meta_keywords": "网络,辩论,辨别,帖子,是否,属于,情绪化,言论",
+  "tags": [
+    {
+      "id": "723",
+      "name": "辩论礼仪"
+    },
+    {
+      "id": "109780",
+      "name": "情绪化"
+    }
+  ],
+  "author": {
+    "username": "佐助",
+    "uid": "467"
+  },
+  "view_count": 1752,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t看似简单，还真不容易回答。<br/>\n<br/>\n情绪化的言论有哪些特征？<br/>\n判定言论是否情绪化有什么标准没有？<br/>\n<br/>\n大致估计一下，品葱的帖子约有多少属于情绪化的言论？<br/>\n有没有可能开发一个程序，能一键屏蔽所有情绪化发言，这么一来，看品葱就和看杂志一样了。\t\t\t\t\t\t\t</div>",
+  "date": "2024-08-13",
+  "agree_count": 1,
+  "discussion_count": 4,
+  "discussions": [
+    {
+      "id": "1064393",
+      "replier": {
+        "username": "lbow",
+        "uid": "53236"
+      },
+      "date": "2024-08-13",
+      "content": "有請反駁金字塔\nhttps://zh.wikipedia.org/zh-tw/%E5%8F%8D%E9%A7%81#/media/File:Graham's_Hierarchy_of_Disagreement-en.svg"
+    },
+    {
+      "id": "1064394",
+      "replier": {
+        "username": "lbow",
+        "uid": "53236"
+      },
+      "date": "2024-08-13",
+      "content": "contradiction以下的全是情緒化發言"
+    },
+    {
+      "id": "1064395",
+      "replier": {
+        "username": "佐助",
+        "uid": "467"
+      },
+      "date": "2024-08-13",
+      "content": "@lbow:比如“某某人群应该被全部杀掉”，算不算情绪化语言呢？它位于反驳金字塔的第几层？"
+    },
+    {
+      "id": "1064396",
+      "replier": {
+        "username": "lbow",
+        "uid": "53236"
+      },
+      "date": "2024-08-13",
+      "content": "@佐助: 中文版\nhttps://phiphicake.blogspot.com/2012/01/paul-graham.html\n基本上是辱罵了"
+    }
+  ],
+  "answer_count": 8
+}

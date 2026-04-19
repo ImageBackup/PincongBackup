@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "53721",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "605021",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t毒谁？毒中国人？那早早不检测不防疫不就好了？还用得着投毒？早点在德尔塔的时候放弃防疫，中国人死个几百万不在话下\t\t</div>",
+      "date": "2022-12-02",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1131335",
+          "replier": {
+            "username": "塞尔吉奥爱德华兹",
+            "uid": "77679"
+          },
+          "date": "2022-12-02",
+          "content": "他的意思是释放新的病毒，这样欧美的旧疫苗就没用了"
+        },
+        {
+          "id": "1131507",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-02",
+          "content": "@塞尔吉奥爱德华兹: 你确定？\n我认为投毒大有可行性。到时候又是变异，高风险。又可以摸黑放松管控。——————这怎么也看不出和国外相关"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "parent_type": "question",
+  "parent_id": "53859",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "606463",
+      "is_folded": false,
+      "answerer": {
+        "username": "盐一辉",
+        "uid": "18399"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你都能上品葱了，还不会翻墙去别的地方看吗？BBC英国ip就是免费看的\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1132441",
+          "replier": {
+            "username": "极权之下无产权",
+            "uid": "19340"
+          },
+          "date": "2022-12-05",
+          "content": "她是想问中国会不会管"
+        },
+        {
+          "id": "1132442",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-05",
+          "content": "世界杯版权是收费的，我油管上找了找都是文字直播，有免费视频直播给我下地址呗"
+        }
+      ]
+    },
+    {
+      "id": "606461",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t直播是中国时间5号23点啊，不是6号啊，不能看直播吗？\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132438",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-05",
+          "content": "我说的下半场"
+        }
+      ]
+    }
+  ]
+}

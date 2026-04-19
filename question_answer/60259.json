@@ -1,0 +1,190 @@
+{
+  "parent_type": "question",
+  "parent_id": "60259",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "674218",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我个人不太认为是假的，或者至少韩国科学家发现的LK99就算没有超导性 ，但至少是一种容易制取的抗磁材料。<br/>\n因为这种材料制取起来太容易了通过将氧化铅 (II) (PbO) 和硫酸铅 (II) (Pb(SO4)) 粉末 50%/50% 混合，然后在725 °C（998 K；1,337 °F）下加热24小时生成黄铅矿。<br/>\nPbO + Pb(SO4) → Pb2(SO4)O<br/>\n磷化亚铜 (Cu3P) 是通过将铜(Cu) 和磷(P) 粉末在密封管中在 10 -5托真空下度混合并以550 °C（820 K；1,000 °F）加热48小时就能得到 LK99。<br/>\n这个制取过程高中化学实验室都能搞定，而且常温常压下就能实现超导也非常容易证伪。一般造假都会搞极其稀有的材料和极端验证环境，这样其他人复现不成功才容易找借口。<br/>\n几位韩国科学家这么容易就宣布合成超导材料，只有两种可能，第一种是世纪大发现，他们就是二十一世纪的爱迪生。第二种是他们傻的冒泡，拿冥币去超市骗售货员，买东西。造假造这么容易识破的。<br/>\n真心祝愿人类科技能有所突破。\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 17,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673990",
+      "is_folded": false,
+      "answerer": {
+        "username": "养老不能靠政府",
+        "uid": "48556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t凡是简中圈大肆炒作，外文热度不高的新闻，往往都是墙人在自嗨。上回美国哪位民科搞了个超导大新闻，也是在简中圈大肆发酵，最后又各种热火朝天的辟谣反转，营造出一种美国科学研究天天弄虚作假的氛围，然而墙外基本没人当回事。而且就算是真的室温超导也要看材料合成和高压维持成本能否支持规模化应用，可能强国人就是喜欢这种四两拨千斤水变油弯道超车的科学幻想吧。<br/>\n<br/>\n这次要小心贵匪下水道宣传部门故伎重施。\t\t</div>",
+      "date": "2023-07-26",
+      "agree_count": 12,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1195008",
+          "replier": {
+            "username": "逗比之天",
+            "uid": "90515"
+          },
+          "date": "2023-07-27",
+          "content": "这么说让我想到前两天一个新闻。新闻宣称，以色列发现了可以“诱导癌细胞自杀”的新治疗方法。国内在大肆宣传，可外网就像没听说过似的，完全找不到可以对照的新闻。\n我怀疑这是个假新闻"
+        }
+      ]
+    },
+    {
+      "id": "674282",
+      "is_folded": false,
+      "answerer": {
+        "username": "ibaba",
+        "uid": "53805"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t未細究先猜<br/>\n可能是真的，但沒有或幾乎不具現實（商業）意義：大力強調常溫常壓超導的背後，很可能有未特別標明的重大乃至於不適合商業化大規模運用的缺陷<br/>\n<br/>\n至於原因，就只是常識推論而已<br/>\n有商業價值，或者謂能對科技造成翻天覆地影響的，不像是會以這種「發了篇論文，然後沒有了？」的形式出現\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "674253",
+      "is_folded": false,
+      "answerer": {
+        "username": "多事之秋",
+        "uid": "18335"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t按照發表的實驗條件，最快今晚或者明天就會有其他實驗室出結果，到時候是馬是驢就清楚了。\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673968",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看过程和之前美国科学家搞的那个一模一样<br/>\n<br/>\n撤稿之类的细节都一样<br/>\n<br/>\nhttps://www.sciencenews.org/article/physics-first-room-temperature-superconductor-discovery<br/>\n<br/>\n我感觉像是重现或改进了美国科学家的实验(依然意义重大)<br/>\n<br/>\n也可能是中国宣传部门胡乱翻译的<br/>\n<br/>\n有兴趣的可以把原文拿来我帮各位审核一下\t\t</div>",
+      "date": "2023-07-26",
+      "agree_count": 0,
+      "discussion_count": 9,
+      "discussions": [
+        {
+          "id": "1195016",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-07-27",
+          "content": "您太忙了，先把之前美国激光核聚变的事儿审完再说吧"
+        },
+        {
+          "id": "1195017",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-07-27",
+          "content": "颠覆共产党是很好的消遣不碍事"
+        },
+        {
+          "id": "1195021",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-07-27",
+          "content": "论一本正经的胡说八道"
+        },
+        {
+          "id": "1195022",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-07-27",
+          "content": "小同志还来打配合.  那句话有出处的, 你可以查查"
+        },
+        {
+          "id": "1195026",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-07-27",
+          "content": "@fb_china_today: 看过程和之前美国科学家搞的那个一模一样\n撤稿之类的细节都一样\n有个屁的出处，卧姿集硕德？两眼一睁一闭就开始吹牛逼了，上知天文下知地理，其实一窍不通"
+        },
+        {
+          "id": "1195027",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-07-27",
+          "content": "这就是论在野的习近平"
+        },
+        {
+          "id": "1195029",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-07-27",
+          "content": "@elsaanna:出处去问天下无贼 他还知道核聚变那个出处"
+        },
+        {
+          "id": "1195030",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-07-27",
+          "content": "@fb_china_today:你这个帖子就是狗屁不通，没一句对的，你和无贼的问题你们自己咬去吧，别扯上别人。"
+        },
+        {
+          "id": "1195031",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-07-27",
+          "content": "@elsaanna: 小同志还急眼了 要不你和他通过领导去协商个策略再来"
+        }
+      ]
+    },
+    {
+      "id": "674251",
+      "is_folded": false,
+      "answerer": {
+        "username": "一等列兵",
+        "uid": "112236"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t世界一成不变是正常，巨大变化是惊喜，从农耕时代到工业时代堪称是一个飞跃，但是下个时代离得还很远。<br/>\n<br/>\n一百年前的欧洲人穿越到今天除了一开始有点震惊，他不会有天翻地覆变化，伦敦巴黎罗马还是老样子，仅仅是汽车更漂亮更快了，飞机更豪华，电视电话更精致。<br/>\n<br/>\n最近50年的科学发展停滞不前，如今仍然采用火力发电、石油、核裂变等，可控核聚变看不到希望。运输仍然是上个世纪的汽车、火车、轮船、飞机。\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "674240",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不太可能是真的。也可能是被扭曲的新闻。从报道的媒体还有信息来源看都非常的地摊。\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

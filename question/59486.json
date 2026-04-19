@@ -1,0 +1,34 @@
+{
+  "question_id": "59486",
+  "category_id": "5",
+  "title": "如何看待习近平语音合成器？",
+  "meta_description": "如何看待习近平语音合成器？ - 在网络上有一个习近平语音合成器，合成的效果还不错，可以以假乱真了，这个可以用来做什么呢 下载链接：https://hub.docker.com/r/xijinping615/xi-jinping-tts",
+  "meta_keywords": "看待,语音,合成器",
+  "tags": [
+    {
+      "id": "136",
+      "name": "习近平"
+    }
+  ],
+  "author": {
+    "username": "比特肥肥",
+    "uid": "112512"
+  },
+  "view_count": 7243,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t在网络上有一个习近平语音合成器，合成的效果还不错，可以以假乱真了，这个可以用来做什么呢<br/>\n下载链接：https://hub.docker.com/r/xijinping615/xi-jinping-tts\t\t\t\t\t\t\t</div>",
+  "date": "2023-06-30",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1041669",
+      "replier": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "date": "2023-06-30",
+      "content": "是蜜罐吗"
+    }
+  ],
+  "answer_count": 7
+}

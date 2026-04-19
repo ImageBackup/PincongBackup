@@ -1,0 +1,640 @@
+{
+  "parent_type": "question",
+  "parent_id": "55933",
+  "answer_count": 35,
+  "answers": [
+    {
+      "id": "629218",
+      "is_folded": false,
+      "answerer": {
+        "username": "pingcong813",
+        "uid": "92708"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这些大型语言模型的基础结构都是transformer,唯一不同的是采用了各种风格不同的残差结构方便训练。其训练范式也各有不同。例如chart-GPt的兄弟论文就提到，采用一个辅助模型在强化学习的范式中自动给它做fine-tune .<br/>\n<br/>\n其次，chart-Gpt背后的原型其实是Gpt-3.5，一个两年前就发布的模型。OpenAi的员工自曝原本是打算使用最新的GPT-4，然而在圣诞节突然被通知要求立刻上马chart-GPT<br/>\n<br/>\n国内几家企业，据说目前能做到效果略强于GPT-2 ,但GPT-2的参数是15亿，而GPT-3是1700亿。更不谈马上会发布的GPT-4<br/>\n<br/>\n这类大型模型的训练成本及其昂贵，GPT-3其实在预训练的过程中错误的使用了一个下游训练集。但是出于训练成本的原因，只能将错就错。<br/>\n<br/>\nprompt-language model或者zero-shot的模型意义在于，它真的有可能颠覆搜索引擎。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 32,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1152678",
+          "replier": {
+            "username": "mafffffty",
+            "uid": "102006"
+          },
+          "date": "2023-02-08",
+          "content": "终于看到了内行发言。本质上还是训练成本的问题，高端卡禁运前国内在chatbot方面其实是能跟上一线水平的，因为基本上就是堆资源，堆语料库，加上一些不痛不痒的结构、训练方法的改动。但这两年不知道国内还有几家大公司愿意这样烧钱的"
+        },
+        {
+          "id": "1152722",
+          "replier": {
+            "username": "梅莺毒",
+            "uid": "105602"
+          },
+          "date": "2023-02-08",
+          "content": "@mafffffty:永远被人家现金流吊打本金。中国在科技问题的思维还是落后就要挨打，所以总是不惜一切代价。结果就是民间资本无法积累，匪共败家无度。越往后越捉襟见肘。"
+        },
+        {
+          "id": "1152973",
+          "replier": {
+            "username": "mafffffty",
+            "uid": "102006"
+          },
+          "date": "2023-02-09",
+          "content": "@pincon00723:你没看懂我说的啥意思吧？首先gpt2的网络架构本来就开源，gpt2那个时期（18，19年左右）拼的就是transformer层数+语料库大小。当时方法上倒是（几乎）全世界都是在gpt或者bert类架构下面捣鼓，像斯坦福的Squad之类的数据集准确率排行榜上常年也能看到中国企业、高校，因为当年国内大厂是真舍得烧钱的（你可以去了解一下光是训练一个Bert-small需要啥资源）。这两年不说架构上的创新，仅仅是还愿意这样烧钱的大厂已经寥寥无几了"
+        },
+        {
+          "id": "1152998",
+          "replier": {
+            "username": "mafffffty",
+            "uid": "102006"
+          },
+          "date": "2023-02-09",
+          "content": "@pincon00723:我哪一句话提了中国现在有对标gpt3.5的模型了？"
+        }
+      ]
+    },
+    {
+      "id": "629202",
+      "is_folded": false,
+      "answerer": {
+        "username": "base64",
+        "uid": "35183"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国内那帮垃圾公司做这个东西简直不敢想象<br/>\n即使做出来了<br/>\n那肯定全篇都是敏感词怎么屏蔽啊<br/>\n那肯定全篇都是广告怎么用啊<br/>\n<br/>\n中国人工智能主要研究怎么抓人维稳<br/>\n比如人脸识别、语音识别、图片识别、文字识别<br/>\n全被用在抓人维稳上了\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 30,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629172",
+      "is_folded": false,
+      "answerer": {
+        "username": "我真的不知道",
+        "uid": "73219"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tchatgpt的海量学习能力和高速自我迭代能力是建立在Nvidia的核弹级AI学习芯片H100上的（OpenAI 的数据中心服务器上采用大量H100芯片），正是因为H100芯片在做深度学习时拥有每秒4000万亿次8位浮点运算（FP８）的恐怖能力，使其学习能力碾压其它所有公司的AI芯片！而拜登已经对中国禁运H100芯片和其前辈A100芯片，中国靠国产10年内绝无可能做出类似H100性能的芯片！没有了硬件支持，中国软件公司绝无可能搞出比美chatgpt那样的产品！而chatgpt的一个厉害之处就在于它完全不受语言的限制，即使用简体或繁体中文，它也一样能写出中文专业水平的文章，所以国内AI公司的中文优势荡然无存。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 27,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1152626",
+          "replier": {
+            "username": "宇宙之外",
+            "uid": "105018"
+          },
+          "date": "2023-02-08",
+          "content": "现在只有中国的那些科技公司在跟进，欧洲日韩都没动静，这是为何"
+        },
+        {
+          "id": "1152630",
+          "replier": {
+            "username": "我真的不知道",
+            "uid": "73219"
+          },
+          "date": "2023-02-08",
+          "content": "@宇宙之外:因为只有中国的公司敢打嘴炮。"
+        },
+        {
+          "id": "1152639",
+          "replier": {
+            "username": "kxy",
+            "uid": "99835"
+          },
+          "date": "2023-02-08",
+          "content": "然而老黄专门定制了a800卖中国，只砍了200Gb的nvlink带宽。"
+        },
+        {
+          "id": "1152643",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-02-08",
+          "content": "分布式训练了解一下，单个性能不行数量来凑，除了更费电效果差不多"
+        },
+        {
+          "id": "1152653",
+          "replier": {
+            "username": "我真的不知道",
+            "uid": "73219"
+          },
+          "date": "2023-02-08",
+          "content": "@elsaanna：我做人工智能的，你说的典型不是业内人士。"
+        },
+        {
+          "id": "1152751",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-02-08",
+          "content": "@elsaanna: 沒有 nvlink 湊不了，或者說訓練速度會遠遠落後"
+        }
+      ]
+    },
+    {
+      "id": "629215",
+      "is_folded": false,
+      "answerer": {
+        "username": "禁评的ICU病房",
+        "uid": "85376"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t几年前ai热的时候，我所在公司也做了一个项目，你们猜最后做出了什么东西，是一个问答页面。it在后台录入常见问题和答案，用户提问，反馈录好的答案，就类似现在很多app内置的智能机器人客服。<br/>\n对他们来说，这就叫ai\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 20,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629235",
+      "is_folded": false,
+      "answerer": {
+        "username": "HenkGao",
+        "uid": "7121"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t任何爆发的新技术，都会吸引中国公司蜂拥模仿。<br/>\n一方面，外国公司帮忙试错，说明这条路行得通，跟就完了。<br/>\n另一方面，外国公司反正也进不来，中国搞个山寨版也不怕没生意，顶多要跟同行内卷。<br/>\n<br/>\n归根结底，还是中国这个创新环境太糟糕，知识产权无保护、私人财产无保护。任何中小公司花大价钱大力气搞创新，最后都会被资本巨鳄拷走，被对方靠海量的人力财力打垮。<br/>\n<br/>\n腾讯不知道搞垮了多少小游戏、小软件。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 13,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629300",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvNWRlMTQ1OGZlYmJiMjRhODhhYzYyLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/5de1458febbb24a88ac62.png\"><img alt=\"https://telegra.ph/file/5de1458febbb24a88ac62.png\" loading=\"lazy\" src=\"https://telegra.ph/file/5de1458febbb24a88ac62.png\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-02-08",
+      "agree_count": 8,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1152724",
+          "replier": {
+            "username": "cris_x",
+            "uid": "96109"
+          },
+          "date": "2023-02-08",
+          "content": "只要训练语料里不给任何反党言论，chatgpt就不会生成任何反党言论，我刚刚在chatgpt里询问了中国大陆上线的chatgpt是否和北美一样，得到的回答是出于政治和法律因素，chatgpt中国大陆版用的训练语料不一样，我估摸这个语料库是被和谐过的"
+        },
+        {
+          "id": "1152726",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-02-08",
+          "content": "@cris_x: 反党言论是在不断演化的，今天的「无害」言论明天没准就变反党言论了。碰到这种情况机器人就得重新训练，这个成本可不见得低。"
+        },
+        {
+          "id": "1152855",
+          "replier": {
+            "username": "cris_x",
+            "uid": "96109"
+          },
+          "date": "2023-02-09",
+          "content": "@Meltdown:重新训练一个可能成本比较高，但是在decoder层后面加一个去除bias就好了，这个成本不算高，只是加了这一层之后还要表现得像原来那样智能就相当困难了"
+        }
+      ]
+    },
+    {
+      "id": "629180",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墙内别跟进了，跟进了之后训练样本用的简体中文范本，训练ＡＩ就跟喂屎一样，结果也好不了，<br/>\n<br/>\nhttps://chinadigitaltimes.net/chinese/692763.html<br/>\n<br/>\n<blockquote>2月7日，推特用户 @BoraBora 测试发现，分别使用简体、繁体询问ChatGPT（由OpenAI开发的人工智能聊天机器人程序）“习近平是独裁者吗？”会得到完全不同的答案，简中的回复为正面、繁中的回复为负面，原因未知。有网友质疑“难道AI也懂政治”，不过也有网友认为这可能与训练数据集、提问者喜好有关（并非每个人提相同问题都会得到相同的回答）。</blockquote><br/>\n<br/>\n真是种瓜得瓜，种豆得豆，德匹下，神仙也救不了，\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 10,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629167",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国研发的那种gpt有智商吗？估计还不如主席台上那个包子聪明呢\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 7,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1152621",
+          "replier": {
+            "username": "宇宙之外",
+            "uid": "105018"
+          },
+          "date": "2023-02-08",
+          "content": "不知道，反正百度，阿里，腾讯，科大讯飞这些，都说已经研究很久了，很快就能发布"
+        },
+        {
+          "id": "1152937",
+          "replier": {
+            "username": "大美利坚总统拜登",
+            "uid": "21731"
+          },
+          "date": "2023-02-09",
+          "content": "可能还是能比包子聪明一点的，毕竟一千多本书文本全输进去也不费多少事。"
+        }
+      ]
+    },
+    {
+      "id": "629237",
+      "is_folded": false,
+      "answerer": {
+        "username": "hitachi",
+        "uid": "102389"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看好又是另一个泡沫，类似新能源那种<br/>\n一没晶片二没言论自由，根本搞不起AI，没言论自由连正常智商的人都变傻，何况机器<br/>\n看看微软，之前必应吃了工信部的罚单，现在搞chatGPT搜索建议都不跟大陆玩了，谷歌就聪明，一早就知道自己干的核心业务和审查是绝对不兼容的（虽然它的聊天机器人还没出现啦）\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629188",
+      "is_folded": false,
+      "answerer": {
+        "username": "nanako",
+        "uid": "48303"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t反正墙内绝大部分人也用不了chatgpt，市场还是他们的，所以随便怎么吹牛都可以\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629210",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGoogle也跟进了，除了名字bard之外也没公布什么东西。<br/>\n<br/>\n上下文相关对话式机器学习肯定有很多人在做，openai抢先发表，占了先发优势，但并不代表技术是独此一家的。<br/>\n<br/>\n从百度搜索之类的经验看，中国的东西质量一般都要低一两个水平。不出意外对话式AI也是如此。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629176",
+      "is_folded": false,
+      "answerer": {
+        "username": "无敌旋风腿",
+        "uid": "90403"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谁跟进了？是百度还是腾越？或者是抖音？<br/>\n<br/>\n我怎么一家都没看见，知道的话麻烦告知一下。<br/>\n<br/>\n试用了国内几个AI生成器，蠢得跟猪一样，稍微说两句就只会回复牛头不对马嘴的轱辘话了。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1152628",
+          "replier": {
+            "username": "宇宙之外",
+            "uid": "105018"
+          },
+          "date": "2023-02-08",
+          "content": "都在研发中，不久就发布。今天新闻看到了很多这方面消息，有百度，阿里巴巴，腾讯，360，科大讯飞等都在研发"
+        },
+        {
+          "id": "1152694",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-02-08",
+          "content": "@宇宙之外:不弄出点这些消息，怎么稳住投资者的钱？"
+        }
+      ]
+    },
+    {
+      "id": "629209",
+      "is_folded": false,
+      "answerer": {
+        "username": "希伯来",
+        "uid": "95270"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自然就是，资本主义国家有的东西,我们也要有<br/>\n，必须“《拥有自主知识产权》，《打破外国垄断》，这样子大搞民族主义大旗<br/>\n不过实际做出来的东西是什么样的就不得而知了<br/>\n比如c919最近不就翻车了，还有鸿蒙系统也被扒出是安卓套壳。<br/>\n但你必须承认狆国还是有一定技术实力的，虽然一直靠着抄袭起家，但抄袭的东西打败正版也不是没有例子，比如盾构机和高铁\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152740",
+          "replier": {
+            "username": "HAVOC",
+            "uid": "90709"
+          },
+          "date": "2023-02-08",
+          "content": "对，包括光伏，液晶显示器，电池，中共都走在世界比较领先的位置了，所以我才说，中共是很可怕的，近10年开始发展的新兴领域中共并没有落后美国太多"
+        }
+      ]
+    },
+    {
+      "id": "629214",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t等出来了试试就知到<br/>\n<br/>\n现在把广告当新闻的小同志太急切了\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629206",
+      "is_folded": false,
+      "answerer": {
+        "username": "矫枉必须过正",
+        "uid": "36965"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我刚刚新建了一个文件夹，也在跟近了。这意味着美国不管怎么创新，我都能很快跟上，更是充分说明美国的新技术和我的技术已经拉不开代差了。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629233",
+      "is_folded": false,
+      "answerer": {
+        "username": "团购高手",
+        "uid": "32507"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t吹牛谁不会啊，就墙内那输入的训练材料水平，再来二十年都未必追得上chatgpt。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629234",
+      "is_folded": false,
+      "answerer": {
+        "username": "yhdlg2",
+        "uid": "107264"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是的，中国目前的制度下做不出来的。<br/>\n楼上老哥从技术层面分析了。<br/>\n我从政治层面分析一下，这种玩意儿一定要靠私营企业才能搞出来，<br/>\n估计国内有这个潜力的只有华为和阿里的达摩院，<br/>\n别的基本没有机会。<br/>\n但是目前国内的政治环境，即使做出来也会随时充公，<br/>\n那么企业就算做出来也不会商业化，只会自己藏着。<br/>\n那么中国不可能赶上。<br/>\n你放心。<br/>\n现在放出来的绝对都是李鬼，相信我。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1153010",
+          "replier": {
+            "username": "闭上你的枸嘴",
+            "uid": "107480"
+          },
+          "date": "2023-02-09",
+          "content": "华为阿里？？？抄袭的能力吗？？？？"
+        }
+      ]
+    },
+    {
+      "id": "629505",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还有人记得十几年前，国产车就说已跟进日本发动机技术吗？<br/>\n<br/>\n而且这两年，根据比亚迪晓云发动机和长城发动机的自称，比多数日本同行产品效率更高。所以应该已经吊打燃油市场了吧\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629544",
+      "is_folded": false,
+      "answerer": {
+        "username": "一個東方人",
+        "uid": "95125"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t支國公司的ai去除違禁詞還會說出一句完整的通順的話嗎？你可以問它習近平一次幾秒但絕對得不到答案。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629565",
+      "is_folded": false,
+      "answerer": {
+        "username": "TIAN_KUAI_HUO",
+        "uid": "88301"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t\"投入\"和\"成功\"是两回事，中国烂尾的项目可多了，啥雄安新区、大炼芯......<br/>\n<br/>\n真要说投入，台湾还投入过足球哩\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629569",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这就是开源的好处，很多编程技术都基于开源模型，因此复制他人成果变得极其容易，如果大家都不开源交流，中国至今可能连鸟铳都造不出来，一年四季的历法都是不准的\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629572",
+      "is_folded": false,
+      "answerer": {
+        "username": "Drwinnie2",
+        "uid": "80598"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tWhy? Because the copy is the nature of Chinses high tech companies. There already have been Chinese versions of Google, Quaro, Wiki, Paypal, Boston Dynamics and a lot more. It makes so much sense to have Chinese version of ChatGPT.\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629332",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t换个问题，如果美国ChatGPT没出来，中国互联网公司照什么抄呢？\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629345",
+      "is_folded": false,
+      "answerer": {
+        "username": "DEMfreedom",
+        "uid": "103265"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国的企业家没有葱友想的那么差劲，中国的私企其实挺厉害的，不然中国的gdp做不了这么大。中国最垃圾的是国企，国企是不可能研究出来ai的。自由市场下发展国企，做大国企是愚蠢至极的\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "630115",
+      "is_folded": false,
+      "answerer": {
+        "username": "q496403495",
+        "uid": "107930"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中共只会抄 模仿 山寨国 <br/>\n再说了  源码拿来改一下就是自己原创\t\t</div>",
+      "date": "2023-02-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629611",
+      "is_folded": false,
+      "answerer": {
+        "username": "大美利坚总统拜登",
+        "uid": "21731"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tChatgpt 已经被中国人玩坏了，我用中文要求它以胡锡进的口吻探讨一下中国间谍在美国的活动，结果给我一堆什么根据xx规则，xx道德不能回答你的问题，还教育我要尊重网络多元文化。。。我再问间谍行为是多元文化的一部分吗？它直接死机了。<br/>\n换了英文让它分析中国在美国的间谍行为，马上洋洋洒洒给我好几段。<br/>\n这。。。真的有智能!! 🙄🙄🙄\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629615",
+      "is_folded": false,
+      "answerer": {
+        "username": "维尼熊吃包子",
+        "uid": "96600"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个不就是一个智能软件吗？本质上就是小度的威力加强版，初级机器人而已\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "630154",
+      "is_folded": false,
+      "answerer": {
+        "username": "麦克",
+        "uid": "30378"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t得往里喂东西啊，简中环境里都这么恶心，能搞出什么好东西？粉红AI啊？\t\t</div>",
+      "date": "2023-02-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629179",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 技術上來說是伐倒的樹容易砍, 但仿製、抄襲和逆向工程不解決沒有研發體制的問題. 不用擔心烏龜追兔子的這種龜兔競速, 關鍵技術保密好就可以的.<br/>\n<br/>\n共匪離麥哈頓與臭鼬工程還遠呢, 抓好間諜吧.\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629195",
+      "is_folded": false,
+      "answerer": {
+        "username": "加油拆那",
+        "uid": "6207"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t深层一点的我不了解，但是科大讯飞和百度都是有负责人工智能开发的部门的，那些人也是经常会参加一些行业先驱的发布会什么的，毕竟单纯软件技术来讲，差距不会像鸿沟一样，硬件就难说了，只能拾人牙慧\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "630251",
+      "is_folded": false,
+      "answerer": {
+        "username": "shit_jin_pig",
+        "uid": "96072"
+      },
+      "contents": "<div class=\"markitup-box\">\n<mark>支那</mark>匪企这次也就只能跟风乱吠，chatgpt的成型动用了相当于1万张A100的算力，A100前段时间正好在对支禁运的清单上，怎么跟进？\t\t</div>",
+      "date": "2023-02-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629485",
+      "is_folded": false,
+      "answerer": {
+        "username": "半场",
+        "uid": "105808"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t聊天机器人🤖，支国很多APP在10多年前就有了，像QQ，有个系统机器人，可以添加跟它聊天，不会不回复你。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "630012",
+      "is_folded": false,
+      "answerer": {
+        "username": "余日",
+        "uid": "56308"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t去年一年小实习生帮我完成了报告的五成，就是套路部分。大三小女孩，不是一般优秀。就是这个软件做的事。\t\t</div>",
+      "date": "2023-02-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629205",
+      "is_folded": true,
+      "answerer": {
+        "username": "pincon00723",
+        "uid": "84581"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-02-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629175",
+      "is_folded": true,
+      "answerer": {
+        "username": "youdianyong",
+        "uid": "99846"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

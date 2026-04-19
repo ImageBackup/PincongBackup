@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "58402",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "658456",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墙国法律不允许开设这种东西，墙国的外汇只能在指定的金融机构进行兑换，这种限制下没法开展外汇保证金交易，只能在特殊的金融区域（例如搞一些自贸区）来进行。<br/>\n<br/>\n至于你说外国的交易平台中国不墙，那是因为你没有啥正常渠道把钱汇到这些外国交易平台，你如果试图电汇，当局可以说收款方是金融机构，你没有QDII证件不能汇；当然碰到宽松的时候也就睁只眼闭只眼了。\t\t</div>",
+      "date": "2023-05-28",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655880",
+      "is_folded": false,
+      "answerer": {
+        "username": "大音无声",
+        "uid": "108194"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不去直接禁止，<br/>\n是爲了養肥再殺豬<br/>\n這就叫做不鼓勵也不禁止<br/>\n鼓勵了就等於承認自由買賣外匯，自己打臉了\t\t</div>",
+      "date": "2023-05-17",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "658460",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就和数字货币交易平台一样，出入金都要通过平台，平台背后老板是东南亚诈骗犯，东南亚诈骗犯的后台是各省公安，所以实际上在外汇平台做，你的钱在国家手里，国家要吞掉你的钱，只要让平台倒闭跑路就行了。<br/>\n<br/>\n而数字货币交易平台之所以要整顿，是因为这种平台除了出金，还是可以提取数字货币的，提走了数字货币，钱就流出中国的控制范围了。换言之，如果你在外汇交易平台用银联卡入金，赚了钱可以提取到你在香港或者纽约的银行账户里，那平台肯定会被屏蔽。\t\t</div>",
+      "date": "2023-05-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655866",
+      "is_folded": false,
+      "answerer": {
+        "username": "wct888",
+        "uid": "73678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你忘了牆国是有外匯管制的嗎？<br/>\n連正常的自由買賣外匯都不允許，怎會允許外匯保證金業務？\t\t</div>",
+      "date": "2023-05-17",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1180497",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-05-28",
+          "content": "自由买卖外汇不允许，但是你还是可以在指定的金融机构交易外汇的。"
+        }
+      ]
+    }
+  ]
+}

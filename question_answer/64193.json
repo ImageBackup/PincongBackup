@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "64193",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "715379",
+      "is_folded": false,
+      "answerer": {
+        "username": "凯末尔",
+        "uid": "90881"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还有除夕除恶习，习近平在一年中最害怕的一天。\t\t</div>",
+      "date": "2023-12-25",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "715383",
+      "is_folded": false,
+      "answerer": {
+        "username": "恐虐神选蔡奇",
+        "uid": "118452"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t苏联解体也是圣诞节这天，今后圣诞节还有可能是习包子的祭日\t\t</div>",
+      "date": "2023-12-25",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "715382",
+      "is_folded": false,
+      "answerer": {
+        "username": "叼大大",
+        "uid": "29277"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t姑且不说他认识不认识齐奥塞斯库，他能不能读对都是个问题\t\t</div>",
+      "date": "2023-12-25",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1234391",
+          "replier": {
+            "username": "凯末尔",
+            "uid": "90881"
+          },
+          "date": "2023-12-25",
+          "content": "虽然应该读不对但他知道这种跟自己命运高度相关的事。"
+        }
+      ]
+    },
+    {
+      "id": "715391",
+      "is_folded": true,
+      "answerer": {
+        "username": "易中天评袁绍",
+        "uid": "120762"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-12-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

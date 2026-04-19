@@ -1,0 +1,34 @@
+{
+  "question_id": "66325",
+  "category_id": "4",
+  "title": "玩坏ChatGPT如此容易？AI究竟发展到什么程度了？",
+  "meta_description": "玩坏ChatGPT如此容易？AI究竟发展到什么程度了？ - ChatGPT官网已经免费免注册了都知道了吧？ 没想到我用两问就让它抽了 第三回合已经彻底坏了  如果 A>C 且 B>C，问A+B是否有可能<C? ChatGPT回答[s]正常[/s]错误 *差点被糊弄了 谢谢ExceptionRule...",
+  "meta_keywords": "玩坏,chatgpt,容易,ai,究竟,展到,程度",
+  "tags": [
+    {
+      "id": "240",
+      "name": "人工智能"
+    }
+  ],
+  "author": {
+    "username": "Kakapo",
+    "uid": "74488"
+  },
+  "view_count": 4853,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tChatGPT官网已经免费免注册了都知道了吧？<br/>\n没想到我用两问就让它抽了<br/>\n第三回合已经彻底坏了<br/>\n<br/>\n如果 A&gt;C 且 B&gt;C，问A+B是否有可能&lt;C?<br/>\nChatGPT回答<s>正常</s>错误<br/>\n*差点被糊弄了 谢谢ExceptionRules指出<br/>\n<br/>\n我坚持 A+B 可能 &lt;C，请重新思考<br/>\nChatGPT立刻改了答案，并且犯了5&gt;8, 7&gt;8两个抽风的错误<br/>\n<br/>\n我指出错误 5&gt;8?<br/>\nChatGPT再次道歉，说换个例子，6&gt;8<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9aY2V4aHYzLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/Zcexhv3.png\"><img alt=\"https://i.imgur.com/Zcexhv3.png\" loading=\"lazy\" src=\"https://i.imgur.com/Zcexhv3.png\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9nUlFKeElBLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/gRQJxIA.png\"><img alt=\"https://i.imgur.com/gRQJxIA.png\" loading=\"lazy\" src=\"https://i.imgur.com/gRQJxIA.png\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9HMWcxMWhGLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/G1g11hF.png\"><img alt=\"https://i.imgur.com/G1g11hF.png\" loading=\"lazy\" src=\"https://i.imgur.com/G1g11hF.png\" style=\"max-width:100%\"/></a><br/>\n<br/>\n我还试过时政和哲学问题<br/>\n一样可以用类似的蛮不讲理让它抽<br/>\n不过我一直认为数学和逻辑应该是不会的<br/>\n结果<br/>\n<br/>\n有没有熟悉这方面的葱友简单介绍一下为什么会这样？\t\t\t\t\t\t\t</div>",
+  "date": "2024-04-02",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1057894",
+      "replier": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "date": "2024-04-03",
+      "content": "🤦目前LLM就是这样的，你要逻辑得去用interactive theorem prover。"
+    }
+  ],
+  "answer_count": 15
+}

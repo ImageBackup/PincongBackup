@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "58804",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "659716",
+      "is_folded": false,
+      "answerer": {
+        "username": "daxuesheng",
+        "uid": "14137"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t硬盘虽然有固件，但是是在它主控内部运行的，如果要在系统CPU上运行要进行它需要提供一个OpROM，这个在主板BIOS界面里都能看到。<br/>\n<br/>\n你在一个干净的系统是开Secure Boot和磁盘加密以后再插入国产SSD它是没有办法在系统CPU上作孽而不被发现的。\t\t</div>",
+      "date": "2023-06-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659709",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t扫描用户文件之后怎么传到ccp的服务器上进行审查？<br/>\n<br/>\n操作系统启动时，操作系统接管设备控制权，所有动作都会被记录。<br/>\n<br/>\n操作系统未启动时，硬盘主控无法调用网络传输设备，不能向外传输数据。\t\t</div>",
+      "date": "2023-06-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

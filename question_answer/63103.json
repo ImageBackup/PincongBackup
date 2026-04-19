@@ -1,0 +1,87 @@
+{
+  "parent_type": "question",
+  "parent_id": "63103",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "703527",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没人在乎你三五万美元那点钱，别自己吓自己了。<br/>\n<br/>\n个人账户根本就不可能往境外汇出多于五万美元等值的现汇。\t\t</div>",
+      "date": "2023-11-05",
+      "agree_count": 4,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1223135",
+          "replier": {
+            "username": "shina人没道德",
+            "uid": "117915"
+          },
+          "date": "2023-11-05",
+          "content": "是几个账户往我的海外账户汇款"
+        },
+        {
+          "id": "1223136",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-11-05",
+          "content": "@shina人没道德:看汇款方式，swift电汇应该只需要银行和账号之类，不需要地址信息。名字还是免不了的。\n另外不要在论坛寻求金融法律专业信息，大家都是胡说八道而已，要我说，你赶快把钱全转出过，买个菲律宾SRRV，人先出国定居，然后再说。"
+        },
+        {
+          "id": "1223137",
+          "replier": {
+            "username": "shina人没道德",
+            "uid": "117915"
+          },
+          "date": "2023-11-05",
+          "content": "@华国锋:就是Swift 如果收款账户填写假的姓名地址会怎么样"
+        }
+      ]
+    },
+    {
+      "id": "703579",
+      "is_folded": false,
+      "answerer": {
+        "username": "我真的不知道",
+        "uid": "73219"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t收款人资料当然不能填虚假信息，否则钱落不了地的。\t\t</div>",
+      "date": "2023-11-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703582",
+      "is_folded": false,
+      "answerer": {
+        "username": "RobotRepublic",
+        "uid": "101437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没汇款过？收款人姓名账号地址都得对得上才会给你入账，除非你当时开户就是拿的假身份文件，留的假姓名假地址假信息。\t\t</div>",
+      "date": "2023-11-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703586",
+      "is_folded": false,
+      "answerer": {
+        "username": "a2112112",
+        "uid": "79932"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你填虚假信息，如果被反洗钱查到，新加坡账户可能会被冻结，到时候更麻烦，难道你是中介代开的汇丰？如果是的话，感觉风险更大\t\t</div>",
+      "date": "2023-11-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

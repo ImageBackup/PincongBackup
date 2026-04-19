@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "53645",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "604390",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t习近平已经尽力帮助你了，现在申请新护照已经很困难了。\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "604393",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t他死了，这就是最大的好事。<br/>\n<br/>\n难不成你觉得是坏事？\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

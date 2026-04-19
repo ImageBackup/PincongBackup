@@ -1,0 +1,175 @@
+{
+  "parent_type": "question",
+  "parent_id": "65130",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "725595",
+      "is_folded": false,
+      "answerer": {
+        "username": "grantyang",
+        "uid": "6190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你源程序里直接用Console Class 向电脑物理屏幕输出字符，使得整个程序不是一个GUI Application, 所以向屏幕输出字符每行的右端都受屏幕最多每行可承受的字符个数限制了。若某一行欲输出多于屏幕每行字符最大个数，则程序输出混乱。而且你这个程序显示的字符与MS Windows 操作系统下的其它Windows 程序都不配合（此程序的显示会直接在整个屏幕表面出现，无视屏幕上的各个浮动Windows程序）。你最好用C#中 Windows Forms 之类的Class 而不用简单的Console Class 去输出字符，这样做成一个GUI 程序，你的所有显示字符都出现在一个用户可用鼠标拖移缩扩的浮动Window里面，就不会出现右端字符个数太多时显示混乱问题了。<br/>\n<br/>\n之所以当前在1980X1080屏幕分辨率下你这Console Application 输出正常是因为此分辨率下屏幕每行可显示字符比较多。一到小于1980X1080分辨率的屏幕下，每行可容纳的字符个数少了，程序输出就混乱了。<br/>\n<br/>\n另一方法即是写成HTML 网页应用而不是MS Windows 下的应用，则Browser 自动调整你的字符输出的溢出网页右边沿问题（一般是自动scale entire line)。\t\t</div>",
+      "date": "2024-02-04",
+      "agree_count": 8,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1243258",
+          "replier": {
+            "username": "爱新觉罗柱间",
+            "uid": "122291"
+          },
+          "date": "2024-02-04",
+          "content": "已删除"
+        },
+        {
+          "id": "1243259",
+          "replier": {
+            "username": "爱新觉罗柱间",
+            "uid": "122291"
+          },
+          "date": "2024-02-04",
+          "content": "实不相瞒我是为了玩八字算命自学的编程，其实是菜鸟，所以你说的越是专业我就越是不知道要做什么哎。"
+        },
+        {
+          "id": "1243262",
+          "replier": {
+            "username": "爱新觉罗柱间",
+            "uid": "122291"
+          },
+          "date": "2024-02-04",
+          "content": "最好能帮我改好了发上去我好下载"
+        },
+        {
+          "id": "1243384",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-02-04",
+          "content": "@爱新觉罗柱间:伸手党越来越肆无忌惮了"
+        },
+        {
+          "id": "1243750",
+          "replier": {
+            "username": "grantyang",
+            "uid": "6190"
+          },
+          "date": "2024-02-06",
+          "content": "@爱新觉罗柱间:一个最简单的改法：你在你程序最前端测试当时屏幕分辨率，若大于等于1920X1080，则继续运行。否则则测试本机是否可将分辨率设置为1920X1080，不行就发警告然后退出，行则自动将屏幕设成1920X1080, 然后运行程序其它部分。程序完结时，可再把屏幕分辨率设回初始时状态。"
+        },
+        {
+          "id": "1243756",
+          "replier": {
+            "username": "爱新觉罗柱间",
+            "uid": "122291"
+          },
+          "date": "2024-02-06",
+          "content": "@grantyang:好的我试试，这是个好办法。"
+        }
+      ]
+    },
+    {
+      "id": "725685",
+      "is_folded": false,
+      "answerer": {
+        "username": "Cyberspace",
+        "uid": "36028"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你的源代码 <a href=\"url/link/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2R1amluZ2xvbmcyMDI0L0JhWmlQYWlQYW5Hb25nSnUvbWFpbi9CYVppRnVadUdvbmdKdS9Gb3JtMS5jcw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://raw.githubusercontent.com/dujinglong2024/BaZiPaiPanGongJu/main/BaZiFuZuGongJu/Form1.cs\">https://raw.githubusercontent.com/dujinglong2024/BaZiPaiPanGongJu/main/BaZiFuZuGongJu/Form1.cs</a><br/>\n<br/>\n全是硬编码啊\t\t</div>",
+      "date": "2024-02-04",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1243383",
+          "replier": {
+            "username": "爱新觉罗柱间",
+            "uid": "122291"
+          },
+          "date": "2024-02-04",
+          "content": "什么是硬编码？"
+        },
+        {
+          "id": "1243690",
+          "replier": {
+            "username": "Cyberspace",
+            "uid": "36028"
+          },
+          "date": "2024-02-05",
+          "content": "string 甲木 = \"甲木的性质及其宜忌\\r\\n\\r\\n　　《滴天髓》说：「甲木参天，脱胎要火，春不容金，秋不容土;火炽乘龙，水荡骑虎，地润天和，植立千古」。这就是说，甲木是参天大树，如欲甲木繁荣茂盛，便须阳光来照耀培育，或将其砍伐作为燃料，以充分发挥木材的潜在功能。春天木旺金绝，故而春木比较不怕金的克伐;秋天土行衰败，故而秋木比较不怕土来盗气。倘四柱火旺，地支要有湿土（乘辰龙）以供其盘根;倘四柱水旺，地支要有强木（骑寅虎）以固其本;如果八字干支能够生化得宜，则甲木必可长久繁茂发荣，不会轻易枯萎或腐烂。\\r\\n\\r\\n　　《醉醒子》说：「甲木天干作首排，原无枝叶与根芽，欲存天地千年久，直向沙泥万丈埋;断就栋梁金得用，化成灰炭火为灾，蠢然块物无机事，一任春秋自往来」。此说与《滴天髓》所说大同小异，唯一不同者，乃前者将甲木譬之为繁茂大树，后者则譬之为栋梁之材。\\r\\n\\r\\n　　《三命通会》说：「甲木属阳，乃栋梁之材，喜生秋冬，遇申子月为吉;柱见庚辛，譬如斧凿之论，主利名，运行申酉辰戌丑未乡，大能发越，见辛官尤妙。忌寅午戌合局及透丁火伤官，乃辛苦劳力，做事无成之命，运逢亦不顺;若合局丁透，柱有辰戊丑未，干上露戊己，再行财运，伤官生财却一发大福」。\\r\\n\\r\\n　　《穷通宝鉴》说：「春月甲木，渐有生长之象。初春犹有余寒，当以火温暖，别有舒畅之美，水多变克，有损精神，重见生旺，必用庚金瓯釜，可成栋梁。春末阳壮水渴，藉水资扶，则花繁叶茂;初春无火，增之以水，则阴浓气弱，根损枝枯，亦不华秀，是以水火二物，要得时相济为美」。又说：「四月甲木退气，丙火司权，先癸后丁。五、六月甲木，木性虚焦，一理共推，五月先癸后丁，庚金次之，六月三伏（三伏乃指由夏至后第三个庚日算起，每十天为一伏，计共三十天，故叫三伏）生寒，丁火退气，先丁后庚，无癸亦可;或五月乏癸，用丁亦可，要运行北地为佳」。又说：三秋甲木，木性枯槁，金土乘旺，先丁后庚，丁庚两全，将甲造为战戟;七月甲堪为戟，非丁不能造庚，非庚不能造甲，丁庚两透，科甲定然;庚禄居申，杀印相生，运行金水，身伴明君。或庚透无丁，一富而已。主为人操心太重，不能坐享;或丁透庚藏，亦主青衿小富;或庚多无丁，残疾病人，若为僧道，灾厄可免」。又说：「十月甲木，庚丁为要，丙火次之，忌壬水泛身，须戊土制之。十一月甲木，木性生寒，丁先庚后，丙火佐癸;癸水司权，为火金之病;庚丁两透，支见巳寅，科甲有准，风水不及，选拔有之;若癸透伤丁，年戊己辅救，残疾之人;或壬水重出，丁火全无者，庸人也！得丙方妙。十二月甲木，天气寒冻，木性极寒，无生发之象，先用庚劈甲，方引丁火，始得木火有通明之象，故丁次之;庚丁两透，科甲恩封;庚透丁藏，小贵;丁透庚藏，小富贵;无庚者，贫贱;无丁者，寒儒」。\\r\\n\";"
+        },
+        {
+          "id": "1243691",
+          "replier": {
+            "username": "Cyberspace",
+            "uid": "36028"
+          },
+          "date": "2024-02-05",
+          "content": "不应该是存放在数据库里的吗"
+        }
+      ]
+    },
+    {
+      "id": "725563",
+      "is_folded": false,
+      "answerer": {
+        "username": "ymmv",
+        "uid": "122797"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这种程序的问题可以问问chatGPT，很快能找到解决方法\t\t</div>",
+      "date": "2024-02-03",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1243264",
+          "replier": {
+            "username": "爱新觉罗柱间",
+            "uid": "122291"
+          },
+          "date": "2024-02-04",
+          "content": "我试过了不行"
+        }
+      ]
+    },
+    {
+      "id": "725588",
+      "is_folded": false,
+      "answerer": {
+        "username": "cybermage",
+        "uid": "29130"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t粗略看了一下，感觉楼主不如做个网页版，这样既有排版又能让人免安装使用。<br/>\n<br/>\n另外JS和HTML在网上有大把教程，应该比 .NET 生态更好学。\t\t</div>",
+      "date": "2024-02-04",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1243260",
+          "replier": {
+            "username": "爱新觉罗柱间",
+            "uid": "122291"
+          },
+          "date": "2024-02-04",
+          "content": "实不相瞒我是为了玩八字算命自学的编程，所以你说的越是专业我就越是不知道要做什么哎。"
+        }
+      ]
+    },
+    {
+      "id": "725786",
+      "is_folded": false,
+      "answerer": {
+        "username": "爱新觉罗柱间",
+        "uid": "122291"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我不是专业的程序员，我就只会最初级入门的。所以才要求助\t\t</div>",
+      "date": "2024-02-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

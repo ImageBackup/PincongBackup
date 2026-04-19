@@ -1,0 +1,265 @@
+{
+  "parent_type": "question",
+  "parent_id": "65679",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "731154",
+      "is_folded": false,
+      "answerer": {
+        "username": "grantyang",
+        "uid": "6190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就是建立一个《<b>中国共产党罪行录</b>》之类的百科全书式的历史+时事网站，文章/视频/图像/音频内容可以时间/种类（屠杀/监禁/迫害/造谣…)/关键词/事件名/人员名称（如彭立发/柴松/白纸运动/维权律师）等不同方式排序查找。内容随时间进展持续更新，比如新冠发生，则紧跟加入时事记录共匪最新罪行。希望先以当前及现代罪行入手。<br/>\n其实建这个共匪罪行录，可以目前就挂在《品葱》下面，品葱不是已经有“葱轮TV” 之类的分枝吗，可以先开一个诸如“中国共产党罪行录” 的新分支，允许已知验证过的反共葱友作为开发者参与修改增添内容，罪行录内用个简单的数据库如微软sql server之类作后台索引，大家捐点经费。@Nederland @admin。<br/>\n参看我2015年的帖子《<a href=\"url/link/aHR0cHM6Ly9ibG9nLndlbnh1ZWNpdHkuY29tL215YmxvZy82NzU5OC8yMDE1MDIvMTQ1MTAuaHRtbA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://blog.wenxuecity.com/myblog/67598/201502/14510.html\">中华蒙难碑”：在中国共产党独裁暴政下惨死蒙难者纪念碑</a>》<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9XM05uZjZ2LmpwZWc\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/W3Nnf6v.jpeg\"><img alt=\"https://i.imgur.com/W3Nnf6v.jpeg\" loading=\"lazy\" src=\"https://i.imgur.com/W3Nnf6v.jpeg\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2024-03-01",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731146",
+      "is_folded": false,
+      "answerer": {
+        "username": "Antonov一500",
+        "uid": "73460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实你直接看维基百科就可以了，每篇文章底部的列表里各种事件....\t\t</div>",
+      "date": "2024-03-01",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731399",
+      "is_folded": false,
+      "answerer": {
+        "username": "罗夏不妥协",
+        "uid": "83084"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国数字时代：https://chinadigitaltimes.net/chinese/这里有收集许多历史事件。以供参考。\t\t</div>",
+      "date": "2024-03-02",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731412",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a href=\"https://pincong.rocks/article/66887\" title=\"https://pincong.rocks/article/66887\">https://pincong.rocks/article/66887</a><br/>\n<br/>\n\"中国民间档案馆”网站在近期上线，这个网站希望能讲述中国一般民众所不知道的故事 – 被北京当局掩盖的重大历史。网站上所提供的史料，包含了大跃进所引发的饥荒、文化大革命的暴力清洗与权力斗争、1989年六四事件在天安门广场的屠杀等等。<br/>\n<br/>\n“档案馆”透过提供电影、期刊、书籍等资料，让希望探询历史真相的中国民众能透过翻墙软件浏览网页，获取大量、整理过的系统性信息。\t\t</div>",
+      "date": "2024-03-02",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731151",
+      "is_folded": false,
+      "answerer": {
+        "username": "知不知所以然",
+        "uid": "123451"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这是个好提议，可以按时候顺序在网上抓取整理，让专业人员来做个表，按图索骥。\t\t</div>",
+      "date": "2024-03-01",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731140",
+      "is_folded": false,
+      "answerer": {
+        "username": "rampage",
+        "uid": "123646"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不知道，但是我可以出点力，别让我写javascript就行，我写的js文件没一个能运行\t\t</div>",
+      "date": "2024-02-29",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1248373",
+          "replier": {
+            "username": "grantyang",
+            "uid": "6190"
+          },
+          "date": "2024-03-01",
+          "content": "好，full stack developer, 希望你多在网页编程技术上出力"
+        },
+        {
+          "id": "1248622",
+          "replier": {
+            "username": "rampage",
+            "uid": "123646"
+          },
+          "date": "2024-03-03",
+          "content": "@grantyang:用github吗"
+        },
+        {
+          "id": "1248625",
+          "replier": {
+            "username": "grantyang",
+            "uid": "6190"
+          },
+          "date": "2024-03-03",
+          "content": "@rampage: 我以前编程序时用过。现在退休了，多年没看过了，当然有需要会再去用的。"
+        }
+      ]
+    },
+    {
+      "id": "731405",
+      "is_folded": false,
+      "answerer": {
+        "username": "Unknownalamo1",
+        "uid": "121991"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t個人更主張共產黨荼毒人民記念館<br/>\n<br/>\n<b>北 上 廣 香港 各設一個，最好是各省皆有</b><br/>\n<br/>\n<b>共產黨在匪國成為非法組織，並寫入憲法。</b> </div>",
+      "date": "2024-03-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731165",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这里的问题是，谁掌握话语权，如果对同一个历史事件出现不同的解读或者观点发生分歧的时候， 怎样进行选择？ 这个就像区块链的分支，总会有人去追随不同的分支。而分支如果过于凌乱，就丧失你所需要的系统性； 如果强行不进行分支，进行选择的权威性应该如何赋予， 赋予给谁； 如果你作为管理员来做决策，那么这个网站就是传达你个人意志和观点，别人也就逐渐丧失兴趣了。 <br/>\n<br/>\n其实你所说的想法，就是wikipedia， 不要重复造轮子。\t\t</div>",
+      "date": "2024-03-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731168",
+      "is_folded": false,
+      "answerer": {
+        "username": "只观看不发言",
+        "uid": "125223"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我是全栈开发（偏前端）从业人员，可以提供技术支持。\t\t</div>",
+      "date": "2024-03-01",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1248372",
+          "replier": {
+            "username": "grantyang",
+            "uid": "6190"
+          },
+          "date": "2024-03-01",
+          "content": "不错，full stack developer, 希望多出主意贡献开发网页反共技艺"
+        },
+        {
+          "id": "1248461",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-03-02",
+          "content": "全栈开发当前最流行的技术栈搭配都有啥"
+        },
+        {
+          "id": "1248463",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-03-02",
+          "content": "@grantyang: 我可以贡献点数据分析和算法的活"
+        },
+        {
+          "id": "1248564",
+          "replier": {
+            "username": "grantyang",
+            "uid": "6190"
+          },
+          "date": "2024-03-02",
+          "content": "@AAPLTSLA: 好，后台与前台配合编程，共匪罪行录开发不缺技术天才高手，应该能搞出生动深刻引人驻足观看的现实历史互动存档网站，共匪灭亡历史性国际公审法庭上得到多方引用内容"
+        }
+      ]
+    },
+    {
+      "id": "731401",
+      "is_folded": false,
+      "answerer": {
+        "username": "西游记",
+        "uid": "114375"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是有必要，是非常有必要。光是3年疫情非正常死亡的案例居然没有人做记录和统计。\t\t</div>",
+      "date": "2024-03-02",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731413",
+      "is_folded": false,
+      "answerer": {
+        "username": "罗比",
+        "uid": "26792"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t法轮功应该收集了不少，会有公布于众的那一天\t\t</div>",
+      "date": "2024-03-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731213",
+      "is_folded": true,
+      "answerer": {
+        "username": "pomaiiiypmdo",
+        "uid": "89132"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t和谐历史档案馆，收集从大跃进到文革期间的官方文件档案，目前已整理文件已有六亿字。   https://banned-historical-archives.github.io/\t\t</div>",
+      "date": "2024-03-01",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1248502",
+          "replier": {
+            "username": "小熊维尼",
+            "uid": "2791"
+          },
+          "date": "2024-03-02",
+          "content": "腊肉粉蛆也来宣传啦。所谓的官方文件就是刊登亩产万斤的文件，这些屎也有玩意收集，真是天下奇观。"
+        },
+        {
+          "id": "1248503",
+          "replier": {
+            "username": "小熊维尼",
+            "uid": "2791"
+          },
+          "date": "2024-03-02",
+          "content": "就这还有玩意点赞，还是高声望大号，看来粉蛆们越来越不掩饰了。"
+        },
+        {
+          "id": "1248517",
+          "replier": {
+            "username": "满舰饰榛子",
+            "uid": "120791"
+          },
+          "date": "2024-03-02",
+          "content": "哈人，点进去一看原来是腊畜给腊肉洗地的网站"
+        },
+        {
+          "id": "1248566",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-03-02",
+          "content": "@满舰饰榛子:别尬黑，我们这叫“两个相互否定”，用怀仁堂政变之后中共的文件去否定腊肉，再用腊粉收集的文件去否定二共"
+        }
+      ]
+    }
+  ]
+}

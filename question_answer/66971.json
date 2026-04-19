@@ -1,0 +1,79 @@
+{
+  "parent_type": "question",
+  "parent_id": "66971",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "744745",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一般这种公司会有两套Cookie: A Cookie 来追踪登录前, B Bookie 来追踪登录后<br/>\n<br/>\n你有特殊的安全需要完全禁用Cookie就可以<br/>\n<br/>\n党国小同志访问不了YouTube的cookie, 你可以大胆的去看文昭李老师<br/>\n<br/>\n当然党国黑客会其他的方法.... 颠覆势力都在紧密收集资料, 有机会可以慢慢介绍\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1261922",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2024-05-01",
+          "content": "和其他回复差不多测试小同志的反应"
+        }
+      ]
+    },
+    {
+      "id": "745129",
+      "is_folded": false,
+      "answerer": {
+        "username": "iski_jiefang",
+        "uid": "128409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只能相信谷歌，把一些跟踪设置关闭，因为谷歌大可以通过ip地址追踪，再说chrome也是谷歌的，你可能在上面登录了账号，谷歌能跟踪用户的手段太多了。<br/>\n如果实在在意，就用Tor浏览器吧，也是很快的，但其实没必要。\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744742",
+      "is_folded": true,
+      "answerer": {
+        "username": "chibi123",
+        "uid": "120926"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-05-01",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1261991",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2024-05-02",
+          "content": "可能是cookie"
+        }
+      ]
+    },
+    {
+      "id": "744851",
+      "is_folded": true,
+      "answerer": {
+        "username": "Sechi",
+        "uid": "126729"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-05-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

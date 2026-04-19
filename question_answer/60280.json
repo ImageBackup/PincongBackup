@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "60280",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "674186",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我这话放在这，实验结果没法重现。不信过一个月再来看。\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "674167",
+      "is_folded": false,
+      "answerer": {
+        "username": "王师北定",
+        "uid": "13675"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t支乎上炒得火热，但是外网没什么热度，谨慎乐观看待吧。\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "65850",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "733090",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你觉得内容不好，自己更改就行。我自己也改过不少次类似的东西，一般没人死盯着跟你撕逼。<br/>\n<br/>\n如果撕逼失败再来抱怨也不迟。你什么都没做，想让别人替你做事，就没有美国精神了。\t\t</div>",
+      "date": "2024-03-09",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1250166",
+          "replier": {
+            "username": "嘎嘎咕咕香烟皮古",
+            "uid": "117953"
+          },
+          "date": "2024-03-09",
+          "content": "只是想听听吐槽，并无他意"
+        }
+      ]
+    },
+    {
+      "id": "733085",
+      "is_folded": false,
+      "answerer": {
+        "username": "嘎嘎咕咕香烟皮古",
+        "uid": "117953"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还有相关渔船被撞沉事件也不知道多少比例是主动挑衅碰瓷才撞沉的\t\t</div>",
+      "date": "2024-03-09",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "parent_type": "question",
+  "parent_id": "61867",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "690174",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中國拼音是按照讀音硬湊上去的h，所以應該不會存在吃音。方言裡很多字根本就不是普通話裡對應的字，很多是古老得方言使用者都不知道怎麼寫的字<br/>\n<br/>\n我也不是很懂語言演變的歷史，但我有學德語，德語的R音困擾我多時。我只能按英語R發，因為德語R音我實在發不來。要是R聽上去沒有發音，that would make my life MUCH easier.<br/>\n可惜，按照我德語老師（德國人）的說法，德語幾乎都不吃音，除非外來語，而且就我目前學的程度來看他說得對<br/>\n據說英語是混了法語的德語，這解釋了為什麼英語有時會吃音，恐怕是學法語學壞了。唉，那法國小人……\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1209461",
+          "replier": {
+            "username": "Raphaelbrazil",
+            "uid": "101202"
+          },
+          "date": "2023-09-19",
+          "content": "德语的R直接发喝的音就可以。"
+        },
+        {
+          "id": "1209462",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-09-19",
+          "content": "哈哈，可能我接收的感觉不一样，不过别人说我发这个音是准的。我这里有一个课本上不教的方法来发德语R（小舌音），你将中文的“是”的元音转化为辅音，你就得到它了。如同把i当成辅音，你得到y。"
+        },
+        {
+          "id": "1209464",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-09-19",
+          "content": "@Raphaelbrazil:有的只是單純的喝，有的比喝還要加一個感覺像顫音或者捲舌音一樣的，我聽得來學不來\n@Nederland:…………我完全無法理解🤦"
+        }
+      ]
+    },
+    {
+      "id": "690191",
+      "is_folded": false,
+      "answerer": {
+        "username": "斯嘉丽",
+        "uid": "53254"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t拼音里的h[x]和印欧语的h[h]是两个不同的音，拼音的h只是借用了字母h而已，实际读音同俄语字母X，转写作kh。<br/>\n拼音中的字母拼写法和实际读音不是一回事。<br/>\nh这个字母不光是在法语，在其它罗曼语（意大利，葡萄牙，西班牙等）都不发音，这是因为他们的来源拉丁语里这个字母就不发音了，而这时候德语还不存在。<br/>\n古日耳曼语中的r念的是大舌音。<br/>\n法国有些方言中r也仍然是念大舌音。<br/>\n至于方言中会语音同魏，这是变成了零声母w。不是哑音。\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690261",
+      "is_folded": false,
+      "answerer": {
+        "username": "VyYxpU5oCezbWr",
+        "uid": "111251"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t德文中有三個音，對中國人來說音近『喝』：R, H, CH<br/>\n所以我想H脫落應該與此類『音近』無關，可能與拉丁系語言get不到『送氣音』相關 (『送氣』相當於輔音連住H一併發音)\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

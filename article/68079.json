@@ -1,0 +1,22 @@
+{
+  "article_id": "68079",
+  "category_id": "4",
+  "title": "简单介绍一下如何翻墙。",
+  "meta_description": "简单介绍一下如何翻墙。 - 首先翻墙主要有客户端代理，网关代理，和路由代理。 首先是客户端代理，安卓及windows客户端： 1.clash客户端  买个一元机场之类的直连机场，一年十几块钱。 2.singbox客户端。 同clash  3.warp+ 白嫖cloudflare资源。...",
+  "meta_keywords": "简单,介绍,一下,翻墙",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    }
+  ],
+  "author": {
+    "username": "陈敏尔",
+    "uid": "78296"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t首先翻墙主要有客户端代理，网关代理，和路由代理。<br/>\r\n首先是客户端代理，安卓及windows客户端：<br/>\r\n1.clash客户端 <br/>\r\n买个一元机场之类的直连机场，一年十几块钱。<br/>\r\n2.singbox客户端。<br/>\r\n同clash <br/>\r\n3.warp+<br/>\r\n白嫖cloudflare资源。<br/>\r\n4.轮子等一系列公司提供的VPN之类的。<br/>\r\n至于什么ss，ssr，reality，hysteria，trjon协议，都不需要考虑，现在靠机场节点谋生的太多了，去telegram随便看看测评就行。<br/>\r\n其中clash+机场应该是最好的选择。<br/>\n<br/>\r\n然后ios客户端：<br/>\r\n注册外区Apple store的id，购买shadow rocket，stash，loon，quantumult之类的客户端软件（本质上和clash差不多）<br/>\r\n免费的有singbox客户端 。<br/>\r\n然后也可以白嫖warp+ 。<br/>\n<br/>\r\n最后路由器实现透明代理的话,可以把路由器刷成openwrt系统，装passwall之类的插件，也可以原版固件，能开ssh的话，直接运行sshsingbox之类的脚本，网上有教程，一看就会。\t\t\t\t\t\t\t</div>",
+  "view_count": 7024,
+  "date": "2024-01-20",
+  "agree_count": 4,
+  "comment_count": 6
+}

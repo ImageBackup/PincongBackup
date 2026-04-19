@@ -1,0 +1,48 @@
+{
+  "parent_type": "question",
+  "parent_id": "66900",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "744184",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t@一只鹿兒<br/>\n<br/>\n这帖子谁转到站务区的？为什么一个新号带有类似钓鱼性质的提问会被转到站务区？<br/>\n我这边看不到操作记录\t\t</div>",
+      "date": "2024-04-29",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1261369",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2024-04-29",
+          "content": "是不是直接发到站务区的呢?"
+        },
+        {
+          "id": "1261379",
+          "replier": {
+            "username": "OrphenOfKos",
+            "uid": "73371"
+          },
+          "date": "2024-04-29",
+          "content": "@takesipon:20声望以下上不能发的"
+        },
+        {
+          "id": "1262222",
+          "replier": {
+            "username": "习马户艹彭又鸟",
+            "uid": "117789"
+          },
+          "date": "2024-05-03",
+          "content": "@OrphenOfKos:你蔥被共匪攻擊得還少嗎?萬一哪天共匪入侵了你們的服務器,竊取了用戶資料怎麼辦?編程隨想那麼牛逼的人都被抓了,我們只是關心一下品蔥的安全措施有問題嗎?"
+        }
+      ]
+    }
+  ]
+}

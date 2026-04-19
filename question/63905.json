@@ -1,0 +1,87 @@
+{
+  "question_id": "63905",
+  "category_id": "6",
+  "title": "问问葱里的程序员们，写多少行代码才算是高手？",
+  "meta_description": "问问葱里的程序员们，写多少行代码才算是高手？ - 本人最近在进行一些算法模型的开发，但是遇到一些工程化的工作问题需要去解决，实在是头痛。  由于本人不是科班程序员出身，对一些技术栈确实第一次接触，比如FASTAPI，K8s, docker etc., 有点艰难。  虽然也对后端开发有一些兴趣，但是比较犹豫...",
+  "meta_keywords": "问问,葱里,程序员,代码,算是,高手",
+  "tags": [
+    {
+      "id": "1823",
+      "name": "代码"
+    },
+    {
+      "id": "107106",
+      "name": "量化开发"
+    },
+    {
+      "id": "107107",
+      "name": "技术栈"
+    }
+  ],
+  "author": {
+    "username": "AAPLTSLA",
+    "uid": "31122"
+  },
+  "view_count": 4967,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t本人最近在进行一些算法模型的开发，但是遇到一些工程化的工作问题需要去解决，实在是头痛。<br/>\n<br/>\n由于本人不是科班程序员出身，对一些技术栈确实第一次接触，比如FASTAPI，K8s, docker etc., 有点艰难。<br/>\n<br/>\n虽然也对后端开发有一些兴趣，但是比较犹豫在这一条道上花费精力和时间。 <br/>\n<br/>\n想要问下在这方面，达到多少行代码经验，才算够用了呢。<br/>\n<br/>\n纯技术讨论，感兴趣的葱油来聊聊。\t\t\t\t\t\t\t</div>",
+  "date": "2023-12-12",
+  "agree_count": 2,
+  "discussion_count": 6,
+  "discussions": [
+    {
+      "id": "1051980",
+      "replier": {
+        "username": "N2o小熊",
+        "uid": "26074"
+      },
+      "date": "2023-12-12",
+      "content": "如果只用一种语言，不妨试试学一门新语言"
+    },
+    {
+      "id": "1051984",
+      "replier": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "date": "2023-12-12",
+      "content": "@N2o小熊: 现在Python, C++和R，偶尔写一点VBA。 有什么推荐咩，Go?"
+    },
+    {
+      "id": "1051991",
+      "replier": {
+        "username": "lbow",
+        "uid": "53236"
+      },
+      "date": "2023-12-12",
+      "content": "行數就跟比吃鹽一樣完全沒意義。你還不如去技術論壇提出你想要解決的問題去問用哪個語言比較適合處理"
+    },
+    {
+      "id": "1052014",
+      "replier": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "date": "2023-12-13",
+      "content": "@AAPLTSLA:建议学Rust"
+    },
+    {
+      "id": "1052017",
+      "replier": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "date": "2023-12-13",
+      "content": "@takesipon: Good !"
+    },
+    {
+      "id": "1052053",
+      "replier": {
+        "username": "习下李上2022",
+        "uid": "97085"
+      },
+      "date": "2023-12-14",
+      "content": "初级🧑‍💻代码行数有点意义。到了高水平程度，看的是天赋。有的人就是比其他人强很多，不需要理由。"
+    }
+  ],
+  "answer_count": 16
+}

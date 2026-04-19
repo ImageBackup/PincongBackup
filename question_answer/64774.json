@@ -1,0 +1,260 @@
+{
+  "parent_type": "question",
+  "parent_id": "64774",
+  "answer_count": 13,
+  "answers": [
+    {
+      "id": "721997",
+      "is_folded": false,
+      "answerer": {
+        "username": "保定农专",
+        "uid": "1090"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t翻墙不需要理科头脑的……<br/>\n<br/>\n你七年前的手机就已经可以翻了，怎么会现在翻不了呢？<br/>\n<br/>\n你说你是常住边远乡村的农民，但是看你描述的文字和自我介绍，你的教育程度并不欠缺，资产至少也是自给自足，无敌的人应该是说你还是孑然一身吗？那经济开销也不大，就算是乡村，去县城也有数码店，你去配个台式机，或者你买个笔记本，店员或者电子数码维修人员大多数是会弄的。<br/>\n<br/>\n另外也不是非要VPN，Windows端浏览器插件就已经解决大多数问题了，可以满足你翻查资料、视频、邮件的功能需求了。<br/>\n<br/>\n如果这些都不能奏效，那你身边的发小朋友们，有没有在外企工作的，或者从事计算机相关门类工作的，如果牠们过年回老家，请牠们帮你装载一个VPN或者插件什么的应该不难。<br/>\n<br/>\n我猜想你说的难，会不会是现在墙越来越高，而VPN是一门生意，许多梯子、插件都是需要注册会员、缴纳年费的，其实就算花钱也没什么，这类花费不可能超过你一年的电话通信费的。\t\t</div>",
+      "date": "2024-01-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "721686",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>新款的国行电脑和手机越来越厉害了，会自动阻止安装VPN 程序。</blockquote><br/>\n建议给电脑装上linux，手机刷不了的话，下次买手机记得选能刷的。<br/>\n<br/>\n<blockquote>墙内VPN是违禁词，搜索啥也搜不出来。 ... 别人说GitHub上有很多，可是GitHub也被墙，根本打不开。</blockquote><br/>\n你可以用searx搜索，虽然配置要花一点时间。我顺便表演一下用jsdelivr访问github上的文件:<br/>\n<pre>https://github.com/searxng/searx-instances/blob/master/searxinstances/instances.yml<br/>\n-&gt;<br/>\nhttps://fastly.jsdelivr.net/gh/searxng/searx-instances/searxinstances/instances.yml<br/>\n或者<br/>\nhttps://testingcf.jsdelivr.net/gh/searxng/searx-instances/searxinstances/instances.yml</pre><br/>\n里面应该有你能访问的实例。<br/>\n你还可以去 https://ntc.party 之类的外国论坛逛逛，部署几种不依赖服务器的绕过技术 (这类技术无法绕过 IP-blocking) 之后你找工具应该就比较轻松了。\t\t</div>",
+      "date": "2024-01-20",
+      "agree_count": 4,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1240105",
+          "replier": {
+            "username": "weibao",
+            "uid": "41372"
+          },
+          "date": "2024-01-20",
+          "content": "一眼懂技术的，\n有时间可以发文章在站内科普吗？\n比如如何使用ｓｅａｒｘｎｇ，\n你签名里面的ｆｒｅｅｍａｉｌ那个也很吸引人，\n多谢下分享，"
+        },
+        {
+          "id": "1240106",
+          "replier": {
+            "username": "白衣黑旗除共军",
+            "uid": "103874"
+          },
+          "date": "2024-01-20",
+          "content": "没技术的人咋办"
+        },
+        {
+          "id": "1240763",
+          "replier": {
+            "username": "坠吼的",
+            "uid": "75280"
+          },
+          "date": "2024-01-24",
+          "content": "这对于他们来说太高级了，根本不会弄的。"
+        }
+      ]
+    },
+    {
+      "id": "721688",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t翻墙问题是一个典型的先有鸡还是先有蛋的问题和困境，如果你在墙内关的时间越久，你将越来越难以独立翻墙，除非有别人帮助你。而那些一直在翻墙的，翻的越久，也对翻墙技术越发敏感和善于跟进。\t\t</div>",
+      "date": "2024-01-20",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "721691",
+      "is_folded": false,
+      "answerer": {
+        "username": "青色希望",
+        "uid": "122296"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t电脑应该是可以装Tor浏览器的，可以这个手机下载tor浏览器的文件再送到电脑上，Tor浏览器+webtunnel网桥，品葱有教程：https://pincong.rocks/article/67272 （这里面第二步和第三步界面上稍微有变化但应该摸索一下就找到啦）\t\t</div>",
+      "date": "2024-01-20",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1240280",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-01-21",
+          "content": "在中国其实只要用加密DNS和拆分client hello就可以打开 *.torproject.org 了，\nhttps://f-droid.org/en/packages/com.celzero.bravedns/\n在DNS and Firewall模式 (默认) 下就会拆分client hello。"
+        }
+      ]
+    },
+    {
+      "id": "721760",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t法轮功团队有发布过一键翻墙的懒人工具<br/>\n例如ChromeGo和Alvin9999这两个项目<br/>\n只要注意经常翻墙留意新版发布，更新就不大容易失联<br/>\n另外，Tor浏览器这种一键翻墙工具也是必备，万一失联还能通过meek-azure网桥出墙<br/>\nTor浏览器的手机移动端功能较弱，电脑PC端功能相对完善<br/>\n选择运营商也是一门学问，最好是联通和电信<br/>\n如果有能力破解周边WI-FI，那是最好的\t\t</div>",
+      "date": "2024-01-20",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "721721",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t他们不需要翻墙，不要让他们学会翻墙。<br/>\n首先，一个人良知没有彻底泯灭，你让他翻墙看世界的真相和普世价值，他才能逐渐接受 。<br/>\n如果他良知完全泯灭了，那他翻墙之后只会利用墙外的先进技术去欺压身边的底层人。<br/>\n<br/>\n<br/>\n可以宣传翻墙，但不是每个人都有资格去翻墙，你可以定点找个坚持底线的人教他，而不是教畜生\t\t</div>",
+      "date": "2024-01-20",
+      "agree_count": 4,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1240471",
+          "replier": {
+            "username": "第三帝国主席",
+            "uid": "90772"
+          },
+          "date": "2024-01-22",
+          "content": "有没有可能，楼主在说自己"
+        },
+        {
+          "id": "1240481",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2024-01-22",
+          "content": "已删除"
+        },
+        {
+          "id": "1240622",
+          "replier": {
+            "username": "盼望台湾民不聊生",
+            "uid": "122003"
+          },
+          "date": "2024-01-23",
+          "content": "@幸福中国: 他说的是楼主，你是层主。不要激动哈"
+        },
+        {
+          "id": "1240693",
+          "replier": {
+            "username": "第三帝国主席",
+            "uid": "90772"
+          },
+          "date": "2024-01-23",
+          "content": "@幸福中国:你或许应该提高一下理解能力"
+        },
+        {
+          "id": "1240697",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2024-01-24",
+          "content": "@第三帝国主席:没看清楚说的是楼主"
+        }
+      ]
+    },
+    {
+      "id": "722452",
+      "is_folded": false,
+      "answerer": {
+        "username": "盼望台湾民不聊生",
+        "uid": "122003"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看这个帖子好心酸。确实如此，想要学会递归，你要先学会递归...\t\t</div>",
+      "date": "2024-01-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "721962",
+      "is_folded": false,
+      "answerer": {
+        "username": "乾爆維尼",
+        "uid": "101942"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t去买二手美版iPhone，注册美区ID 用国际信用卡购买海外vpn\t\t</div>",
+      "date": "2024-01-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "721974",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这帖子肯定是转发的，翻不了墙怎么上品葱<br/>\n<br/>\n确实中国国内的环境太恶劣了，将来美国制裁中国一个禁用x86和arm，中国全变成信创国产机器，国产操作系统国产机器，根本不能刷机重装系统，我操真的无敌墙了，堪比北朝鲜红星操作系统\t\t</div>",
+      "date": "2024-01-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "721726",
+      "is_folded": false,
+      "answerer": {
+        "username": "neverdie",
+        "uid": "53720"
+      },
+      "contents": "<div class=\"markitup-box\">\n<pre>手机上的迷雾通早就不能用了。</pre><br/>\n你葱迷雾通不是收费的吗？用不了给退费不？\t\t</div>",
+      "date": "2024-01-20",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "722238",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tgithub有免费的梯子 ，  搜 vpn ss。看看哪个最近更新，用的人多就下哪个。\t\t</div>",
+      "date": "2024-01-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "721788",
+      "is_folded": false,
+      "answerer": {
+        "username": "Muaie",
+        "uid": "119915"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国人可不傻 聪明着呢 城镇化那么多年了，现在乡村十多二十岁的小年轻 哪个不会刷抖音 搞直播？这种精神鸦的应用什么内容没有？Vpn 是敏感词 加速器他们有啊 美区tiktok帐号都会注册，翻墙看东西那是小儿科了！别当他们善男信女\t\t</div>",
+      "date": "2024-01-20",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "722414",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无痔",
+        "uid": "122454"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t实在不行的话可以去二手市场用现金买个进口收音机听美国之音\t\t</div>",
+      "date": "2024-01-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

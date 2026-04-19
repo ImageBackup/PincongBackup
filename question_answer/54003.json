@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "54003",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "607942",
+      "is_folded": false,
+      "answerer": {
+        "username": "byteinsight",
+        "uid": "836"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t他们是算的Die with算法，从疫情开始到现在，欧美都是Die With算法。<br/>\n什么意思就是，一个人死了，查covid, 阳性，好，算进covid统计。这种算法基本上就是bullshit。举个例子，新西兰去年有个人被枪杀了，然后因为查出阳性，被计入covid死亡。<br/>\n<br/>\n那么有多少人是真的是得了covid直接致死的呢？CDC自己的数据是5%，这还是Delta时期。Omicron时期连关心的人都没有了。<br/>\n<br/>\n所以按照这个标准死个几百万好正常。假设传开，病程15天，假设一年之内50%人口都被感染了至少一次，那么在15天窗口内感染的都是阳性概率就是 0.5*15/365=0.02 (2%)、每年中国都要正常死2000万以上的人，那么按照Die With标准算一年就要死<br/>\n<br/>\n20000000 * 2%  = 40万人<br/>\n<br/>\n就算这2000万人里面没有一个是真的因为covid死的，按照这个算法都可以得到40万人死亡。那么流行个几年那不就是上百万了吗？<br/>\n<br/>\n所以就是bullshit。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607938",
+      "is_folded": false,
+      "answerer": {
+        "username": "xuhongv",
+        "uid": "104899"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国不是有反疫苗接种的运动吗，<br/>\n说安东尼·福奇(Anthony Fauci)参与了反特朗普阴谋，说盖茨，声称是他创造了病毒，并试图从中获利，<br/>\n<br/>\n美国新冠死了100多万，有大部分是不打疫苗的。 <br/>\n和mRNA疫苗效果关系不大\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607933",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为美国很多人是死在原始毒株、阿尔法、和德尔塔毒株下的。中国一直扛到了Omicron才开放，致死率已经下降很多了。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

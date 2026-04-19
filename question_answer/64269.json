@@ -1,0 +1,522 @@
+{
+  "parent_type": "question",
+  "parent_id": "64269",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "716163",
+      "is_folded": false,
+      "answerer": {
+        "username": "cybermage",
+        "uid": "29130"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t明明有更安全的邮件服务，为什么非要用 gmail 呢？<br/>\n<br/>\n俺推荐 protonmail，它是瑞士的服务提供商，有tor入口。而且<b>注册时不需要手机号</b>。<br/>\n<br/>\n<hr/><br/>\n<br/>\nEdit：从安全性来讲， protonmail 主要比 Gmail 好在两点：<br/>\n<ol><li>protonmail 不需要手机号，就可以在源头上解决由手机号引起的泄露问题。</li><li>protonmail 会对你的邮件内容进行加密，只有你的密码可以解密。所以如果protonmail的邮件储存服务器被黑客攻破，黑客也无法获得你的邮件原文。但需要注意的是，你的邮件在刚刚进入protonmail服务器的时候是没有加密的。因为从其他平台发给protonmail的邮件没有自带加密，而protonmail需要在自己的服务器上先加密再储存。也就是说，如果有黑客在这一部分安装了后门，理论上是可以窃取你的邮件内容的。只不过比直接窃取邮件数据库会难很多。</li></ol><br/>\n<br/>\n从安全事件上来讲，Gmail 和 protonmail 都有黑点。<br/>\n<ul><li>2000年代左右Gmail曾经发生过数据泄露。由中共支持的黑客窃取过在Gmail上存储的社会运动人员的邮件。</li><li>Protonmail曾经按照法国的法律将法国本土的社会运动人员（连接protonmail时）的IP地址提供给法国政府。但没有提供他们的邮件内容，因为protonmail自己也没法解密。</li></ul><br/>\n<br/>\n总的来说，Protonmail的安全性比Gmail高是毋庸置疑的。但用户对这两个服务提供商的安全性是否满意是一个主观的问题。有的人连Protonmail都不满意，那可以自建服务器，然后用GPG端对端加密邮件。有的人觉得Gmail就够安全了。<br/>\n<br/>\n<hr/><br/>\n<br/>\nEdit: 看来有人对俺提供的这个选项不是很满意。在<a href=\"url/link/aHR0cHM6Ly93d3cucHJpdmFjeXRvb2xzLmlvL3ByaXZhY3ktZW1haWw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.privacytools.io/privacy-email\">PrivacyTools</a>里有一个“对隐私友好的邮箱提供商”的列表。大家也可以去看一下其他的选项。\t\t</div>",
+      "date": "2023-12-29",
+      "agree_count": 17,
+      "discussion_count": 21,
+      "discussions": [
+        {
+          "id": "1235166",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-29",
+          "content": "我也知道这个，我有这个账号。"
+        },
+        {
+          "id": "1235168",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2023-12-29",
+          "content": "@lyyzandy:俺可能误解了您提问的目的。如果您只是想找一个更安全的提供商，那protonmail显然更好。但如果您不想换服务商，而是想说服自己Gmail“足够好”的话，那您也可以接着用Gmail。俺觉得这几年来Gmail的安全性应该也提高了不少。\n另外，俺更新了一下自己的回答，详细阐述了一下为什么Protonmail更安全。"
+        },
+        {
+          "id": "1235180",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2023-12-29",
+          "content": "确定推荐Protonmail?Protonmail跟华为的事情这么快就忘了?再说Protonmail是华人创建的,我还是不信任的"
+        },
+        {
+          "id": "1235216",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2023-12-29",
+          "content": "@cuz:跟华为的什么事情？如果您只是指登陆华为的商店的话，俺不认为这有怎么问题。"
+        },
+        {
+          "id": "1235231",
+          "replier": {
+            "username": "daxuesheng",
+            "uid": "14137"
+          },
+          "date": "2023-12-29",
+          "content": "你不相信华人的话为什么到这里来问问题，把大家当猴耍吗？"
+        },
+        {
+          "id": "1235241",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-30",
+          "content": "@daxuesheng:问问题的人是我，不相信华人的人是@cuz 我和他是两个人，你能分清吗？"
+        },
+        {
+          "id": "1235242",
+          "replier": {
+            "username": "東亞病夫",
+            "uid": "119542"
+          },
+          "date": "2023-12-30",
+          "content": "@cybermage:你可以在网路上 看一下 APP 上架华为商店的要求"
+        },
+        {
+          "id": "1235247",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2023-12-30",
+          "content": "@東亞病夫:有什么要求？不如您说说？"
+        },
+        {
+          "id": "1235337",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2023-12-30",
+          "content": "@lyyzandy:他甚至向我回复的。能一下子搞错三个人也是人才w"
+        },
+        {
+          "id": "1235561",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2023-12-31",
+          "content": "@cybermage:华人高管+刚好又辟谣(华为)这件事,我就对这家公司持观望态度,我不可能因为他高管辟谣就放弃自己的安全,使用他们的产品 .."
+        },
+        {
+          "id": "1235652",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2023-12-31",
+          "content": "@cuz:哦，那您开心就好"
+        },
+        {
+          "id": "1235751",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2024-01-01",
+          "content": "@cybermage:来到品葱就不要那么支好吗?我只是阐述我怀疑的观点.楼主从来强调的是安全.怎么,对你心目中的像神一样的产品被质疑,立刻漏出支性:\"你开心就好\"?从这点看你对产品的评价心中造神大于理论依据"
+        },
+        {
+          "id": "1235753",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2024-01-01",
+          "content": "@cuz:请不要这么气急败坏地给人贴标签。您怎么选择是您自己的事情。不必强迫他人接受您的观点。"
+        },
+        {
+          "id": "1235755",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2024-01-01",
+          "content": "@cuz:另外，俺不认为您的“逢华必反论”有什么讨论的价值，所以您和俺没有讨论的共同基础。您可以继续骂俺，但俺不会再回复了。您开心就好。"
+        },
+        {
+          "id": "1235784",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2024-01-01",
+          "content": "@cybermage:第一我没有气急败坏,讨论也是拿出强有力的论证.贴标签?恰恰说的是阁下吧,\"你开心就好\"恰恰反应了你对于我提出的观点的软弱回应,且站不住脚.另外“逢华必反论”是阁下给我贴的标签吧?所谓\"逢华必反论'不如让阁下反思一下,为什么华人不受信任?另外发生华为+华人的事件情况下,还推荐是何居心?Protonmail曾经按照法国的法律将法国本土的社会运动人员（连接protonmail时）的IP地址提供给法国政府。那么有一天会不会提供给中共政府IP?"
+        },
+        {
+          "id": "1235785",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2024-01-01",
+          "content": "@cybermage:作为对你“逢华必反论”,我要狠狠打你脸,我作为pronton曾今用户,直到遇到华为这挡事我才停止使用.所以看来贴标签的是阁下.我说的你支性是基于你拿不出合理的反驳我的理由,\":并发出令人做呕的回应:\"哦，那您开心就好 \"的一种回应."
+        },
+        {
+          "id": "1235787",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2024-01-01",
+          "content": "@cybermage:你回不回应不是你说了算,我有的是时间跟你磨.另外考虑新开一贴,为什么华人(本来华人名声就臭)+发生华为那挡事+为政府提供运动人员Ip(哪天也向中共提供)的情况下还推荐这个产品?是何居心?顺便叫管理人员评评理,别人发生安全问题你能不能负责?"
+        },
+        {
+          "id": "1235789",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2024-01-01",
+          "content": "作为pronton的强力推荐者,我停止使用,且不再推荐身边人用这个,是因为华人高官+发生华为那挡事+为政府提供运动人员Ip,身边人不用这邮箱一定不会出问题,但是像你这样推荐品葱人士(高危)用,别人的安全你能负责?就凭高管的一篇澄清文章换所有人的安全?还是基于对于你的信任(你认为没问题?)放心使用这产品"
+        },
+        {
+          "id": "1235791",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2024-01-01",
+          "content": "@cybermage:\"哦，那您开心就好 \"就置你推荐使用的人的安全不顾?"
+        },
+        {
+          "id": "1235792",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2024-01-01",
+          "content": "@cybermage:你推荐别的或许还行,偏偏推荐发生一些事情的产品,别人提出质疑,你却草草了事\"开心就好\",如何让人信任?"
+        },
+        {
+          "id": "1235911",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2024-01-02",
+          "content": "对这里回复的后续感兴趣的同学，欢迎移步俺的另一篇回答：\nhttps://pincong.rocks/question/item_id-717033"
+        }
+      ]
+    },
+    {
+      "id": "716198",
+      "is_folded": false,
+      "answerer": {
+        "username": "Francisco17",
+        "uid": "118248"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你都用+86手机号注册了，意味着你一定肉身在墙内。<br/>\n既然如此，就不存在绝对的“安全”，你能做的，只是让自己不要成为被针对的对象而已。<br/>\n如果真的想办你，就算你有program think的技术，又如此注意防护，也逃不掉的。\t\t</div>",
+      "date": "2023-12-29",
+      "agree_count": 8,
+      "discussion_count": 9,
+      "discussions": [
+        {
+          "id": "1235210",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-12-29",
+          "content": "编程随想是自己不注意社工，不是技术问题\n心理问题罢了"
+        },
+        {
+          "id": "1235239",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-30",
+          "content": "@rowlandheights:他这样的人，为什么会不注意社工呢？我很不理解。"
+        },
+        {
+          "id": "1235243",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2023-12-30",
+          "content": "@lyyzandy:他在自己创办博客的早期没有注意社工，留下了证据。后来再注意也晚了。"
+        },
+        {
+          "id": "1235244",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-30",
+          "content": "@cybermage:他后来应该改网名。"
+        },
+        {
+          "id": "1235291",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2023-12-30",
+          "content": "@lyyzandy:确实。这就是他犯下的低级错误。"
+        },
+        {
+          "id": "1235351",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-12-30",
+          "content": "@lyyzandy:改网名是自欺欺人，要重建一个匿名身份，所有的东西都要从头攒起\n作为一个对自己博客进行SEO非常贪慕虚名的人，你这是要他的命"
+        },
+        {
+          "id": "1235462",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-31",
+          "content": "@rowlandheights:我们从回头的角度来讲，我觉得付出这个代价是有必要的。编程随想也没有从他的名声中获得多少利益吧？"
+        },
+        {
+          "id": "1235545",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-12-31",
+          "content": "@lyyzandy:“贪慕虚名”\n我也不藏着掖着了，我在知乎上是大答主，微博也有几十万粉，但是因为中国环境不利，我愿意舍弃这一切到品葱当一棵无人知道的小葱。"
+        },
+        {
+          "id": "1235578",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-31",
+          "content": "@rowlandheights:你来品葱和你继续在知乎、微博当大V又不矛盾。"
+        }
+      ]
+    },
+    {
+      "id": "716973",
+      "is_folded": false,
+      "answerer": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t做补充：<br/>\n<br/>\n手机号来注册Google账户即使后面消除手机号那么你也要当作已经暴露，三巨头会对这些验证码做筛选打标。<br/>\n<br/>\n如果你使用了 +86 以及香港\\澳门的手机号,请尝试购买海外的实体SIM卡,我个人推荐使用支持ESIM手机并使用ESIM卡.<br/>\n<br/>\n另外有说使用电报(telegram)交流的,如果你使用了以上手机号注册,那么根据我对国内纸飞机平台的了解（监控TG的系统）依然会被查到，我还是要科普session和建议办海外卡，澳门和香港的基本也在CCP的控制下了。<br/>\n<br/>\nTG使用的+86的短信服务供应商也不安全。<br/>\n<br/>\n且TG并不安全，只要我拿到你的设备，无论手机还是电脑（只要我能访问硬盘或者我的木马可以），使用破解程序以后你任何的聊天记录+频道都一览无余，这一点我从2020年就可以做到。<br/>\n<br/>\n你加入的频道会有BOT会持续的跟踪.<br/>\n<br/>\nPS: 中共都不需要特别安插间谍到公司,只需要收买内部员工即可获得你的信息.<br/>\n<br/>\n即使你开了 高级保护计划 如果肉身在墙内,作用也相当有限.<br/>\n<br/>\n只要你暴露太多信息，从Google收集你的信息来看，找你也是时间问题，只是值得不值得。<br/>\n<br/>\n总结：建议使用Proton mail，纵使有IP泄露的可能，也的看你VPN供应商出不出卖你，你再加一层Tor基本上无敌好吧？对绝大部分人来说是安全的。\t\t</div>",
+      "date": "2024-01-01",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1235816",
+          "replier": {
+            "username": "Deceiving4271",
+            "uid": "117645"
+          },
+          "date": "2024-01-01",
+          "content": "少说废话顶我上去。"
+        }
+      ]
+    },
+    {
+      "id": "716239",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tgoogle会收集你的信息, 但是相比较gmail出安全问题, 保护你的客户端可能更重要.<br/>\n比如<br/>\n密码泄漏<br/>\n手机安全<br/>\n电脑安全<br/>\n<br/>\n除了protonmail, 还有一款叫Tutanota Mail也可以, 只是你几个月老不登陆它就删了你的账户\t\t</div>",
+      "date": "2023-12-29",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1235237",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-30",
+          "content": "只用浏览器访问……"
+        }
+      ]
+    },
+    {
+      "id": "716311",
+      "is_folded": false,
+      "answerer": {
+        "username": "佳山",
+        "uid": "106021"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t得看你是什么级别。如果你是秦刚、李尚福那样的级别，绝对有危险。因为你讨论的机密内容，对后台来说是没有机密的。人家知道这是条可以拿去换钱的肥鱼，管理层不动这个脑筋，员工也会。<br/>\n如果你是普通网友，那放心，哪怕你在国内网站的电邮里发牢骚、骂习包，也不会有事。人家要抓的是传播。私人邮件小虾米，人家没那个兴趣。\t\t</div>",
+      "date": "2023-12-30",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1235461",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-31",
+          "content": "你说的有道理。不过我很好奇的是，后台怎么知道每个账号所对应的人的身份呢？秦刚难道邮件名会设为QinGang@gmail.com吗？"
+        },
+        {
+          "id": "1235546",
+          "replier": {
+            "username": "佳山",
+            "uid": "106021"
+          },
+          "date": "2023-12-31",
+          "content": "@lyyzandy: 秦刚李尚福当然不会那么蠢。但是，电邮平台可是有信息分析软件的，能从海量邮件中挑出可能有价值的内容。有经验的员工再人工筛选一下，就能知道哪份对话值得深度观察。\n几个来回下来，人家就分析出当事人大致是哪个方面的大鱼，有什么相关方会愿意出大钱买这信息。\n不要相信什么“承诺”。贩毒那么大的风险尚且屡禁不止，何况这种低风险、高回报的买卖。"
+        }
+      ]
+    },
+    {
+      "id": "716157",
+      "is_folded": false,
+      "answerer": {
+        "username": "Punchit",
+        "uid": "79254"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不会，google的业务重心不在中国，不太可能和共匪勾结<br/>\n<br/>\n国内手机号注册，不放心可以开高级保护计划<br/>\n<br/>\nhttps://landing.google.com/intl/zh-CN/advancedprotection/\t\t</div>",
+      "date": "2023-12-29",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716296",
+      "is_folded": false,
+      "answerer": {
+        "username": "東亞病夫",
+        "uid": "119542"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGmail 不安全 尤其是里面有诸多 华裔员工<br/>\n<br/>\n不要使用大陆手机号 包括香港 澳门 注册海外服务\t\t</div>",
+      "date": "2023-12-30",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1235248",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-30",
+          "content": "内部员工能看到邮件内容吗？"
+        }
+      ]
+    },
+    {
+      "id": "716304",
+      "is_folded": false,
+      "answerer": {
+        "username": "矫枉必须过正",
+        "uid": "36965"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tgmail风险不大，但是中国手机号是有风险的。你应该选择非中共能够掌控的东西进行操作比较稳妥。\t\t</div>",
+      "date": "2023-12-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716281",
+      "is_folded": false,
+      "answerer": {
+        "username": "习近平的裤子",
+        "uid": "100552"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的建议是，不要用小众的provider，你不知道什么时候就出大事了。Google至少明面上的历史安全问题没有。<br/>\n比较要注意的是客户端和网络小心劫持，用户名和密码小心被社工<br/>\n手机号的话，注册成功之后请修改掉二次验证或者取消手机号能找回密码\t\t</div>",
+      "date": "2023-12-29",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716206",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别自己吓唬自己。大家都知道我老李吧，上个月回国三十天，屁事没有。哪那么多人查手机什么的。\t\t</div>",
+      "date": "2023-12-29",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1235203",
+          "replier": {
+            "username": "RobotRepublic",
+            "uid": "101437"
+          },
+          "date": "2023-12-29",
+          "content": "人轻言微，谁鸟我们啊"
+        },
+        {
+          "id": "1235208",
+          "replier": {
+            "username": "心理不稳定的韭菜",
+            "uid": "75115"
+          },
+          "date": "2023-12-29",
+          "content": "@Leviathan_die:@Leviathan_die: 确实没人鸟。除非在国内搞串联"
+        }
+      ]
+    },
+    {
+      "id": "716253",
+      "is_folded": false,
+      "answerer": {
+        "username": "吴说区块链",
+        "uid": "120972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你可以使用电报这些软件交流，可以阅后即焚，更安全。\t\t</div>",
+      "date": "2023-12-29",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1235236",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-30",
+          "content": "电报可以“阅后即焚”？"
+        },
+        {
+          "id": "1235777",
+          "replier": {
+            "username": "吴说区块链",
+            "uid": "120972"
+          },
+          "date": "2024-01-01",
+          "content": "@lyyzandy:电报可以设置自动删除消息"
+        }
+      ]
+    },
+    {
+      "id": "716652",
+      "is_folded": true,
+      "answerer": {
+        "username": "cuz",
+        "uid": "86506"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-12-31",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

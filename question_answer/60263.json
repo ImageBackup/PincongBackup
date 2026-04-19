@@ -1,0 +1,59 @@
+{
+  "parent_type": "question",
+  "parent_id": "60263",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "673995",
+      "is_folded": false,
+      "answerer": {
+        "username": "我就随便起个名字",
+        "uid": "73221"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t据我理解，不管什么卡，都要通过应用程序发送数据，所以只要手机应用是干净的非墙内的，应该不会有什么大问题，除非手机硬件有隐藏机关。但位置信息和手机硬件信息是一定会暴露的。<br/>\n前些年，我的墙外手机墙外卡用漫游流量在墙内是可以无墙随意浏览的，现在不知道什么情况。<br/>\n现在我把墙内卡装在一个单独的非智能手机里，收验证码的时候才开机。\t\t</div>",
+      "date": "2023-07-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673991",
+      "is_folded": false,
+      "answerer": {
+        "username": "shangeliaozai",
+        "uid": "114046"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t个人经验猜测不会，但设备位置及活动轨迹应该会。\t\t</div>",
+      "date": "2023-07-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "674023",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国政府只能看到你的地理位置<br/>\n<br/>\n你是杜达耶夫就危险\t\t</div>",
+      "date": "2023-07-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "674025",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你如果用微信看b站<br/>\nSiM卡都不用<br/>\n<br/>\n安全考虑不要用任何中国的软件<br/>\n最好准备另一部手机\t\t</div>",
+      "date": "2023-07-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

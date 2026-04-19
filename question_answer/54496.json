@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "54496",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "612824",
+      "is_folded": false,
+      "answerer": {
+        "username": "开门查水表",
+        "uid": "54821"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这尼玛是12月的问题？如果是2月24问的我还能理解，这都300天了，还有这种问题？\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612765",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不可能占领全境，没那个资源去占领，只要不占领全境，泽连当然就还是总统\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612698",
+      "is_folded": true,
+      "answerer": {
+        "username": "baozi3311",
+        "uid": "99088"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\t品葱现在这么无聊吗？历史从来就不允许假设，干嘛还这么多人意淫？？？<br/>\n<br/>\n你问一句撸管舒服还是飞机杯舒服，都比这有意义\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137417",
+          "replier": {
+            "username": "种族社会共产主义",
+            "uid": "102603"
+          },
+          "date": "2022-12-21",
+          "content": "不管在哪个国家都有学者会进行假设思考，怎么就不容假设了？"
+        }
+      ]
+    }
+  ]
+}

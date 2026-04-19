@@ -1,0 +1,88 @@
+{
+  "parent_type": "question",
+  "parent_id": "54509",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "612838",
+      "is_folded": false,
+      "answerer": {
+        "username": "卡卡里",
+        "uid": "31999"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就算科普也不見得管用，還可能回你「這裡不是外國而是中國。」「你別瞎對國家政策指手畫腳。」「吃黨飯砸黨鍋就是在說你這種人。」什麼的。<br/>\n<br/>\n而且如果他們真的一片讚揚，那大概是因為他們認為，這不是他們應該得到的，而是國家大發慈悲賞賜給他們的。\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 10,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1137462",
+          "replier": {
+            "username": "中華民國光復大陸",
+            "uid": "23743"
+          },
+          "date": "2022-12-22",
+          "content": "对支国人真的绝望了，现在才发发几片退烧药，就有一大帮人集体唱赞歌。而很多人早就发烧好多天抢不到药了。"
+        },
+        {
+          "id": "1137463",
+          "replier": {
+            "username": "卡卡里",
+            "uid": "31999"
+          },
+          "date": "2022-12-22",
+          "content": "@中華民國光復大陸:拍拍，說不定唱贊歌的人更多是宣傳啊，我也有看一下中國的微博，就我看到的幾個留言也並沒有對此贊揚。\n所以不要太過絕望。  //"
+        }
+      ]
+    },
+    {
+      "id": "612863",
+      "is_folded": false,
+      "answerer": {
+        "username": "驗證碼說我不是人",
+        "uid": "47200"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因為雪中送炭比錦上添花更能獲得讚，而這些年就是個人造大雪景\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612864",
+      "is_folded": false,
+      "answerer": {
+        "username": "九韶",
+        "uid": "105619"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很简单，因为提出异议的都被封了。。。怎么可能会让你有机会泼冷水\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612836",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t要和不免费发药的社区比。  国外没意义,因为护照已经禁了\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137461",
+          "replier": {
+            "username": "中華民國光復大陸",
+            "uid": "23743"
+          },
+          "date": "2022-12-22",
+          "content": "我认为这是一个冲塔的好观点。几片布洛芬免费，支国人就感恩戴德。别国特效药都可以免费。"
+        }
+      ]
+    }
+  ]
+}

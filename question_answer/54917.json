@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "54917",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "617493",
+      "is_folded": false,
+      "answerer": {
+        "username": "user_3883829",
+        "uid": "105997"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可能是中國的新法律，以前不需勾選其實只不過是採取默認接受制。歐盟的GDPR其實差不多，甚至更煩，因為適用於網站上。\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617513",
+      "is_folded": false,
+      "answerer": {
+        "username": "无敌旋风腿",
+        "uid": "90403"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前不是一直都有吗，也不是现在才开始的吧。<br/>\n<br/>\n就是那些个乱七八糟的规则基本上不会有人去看。\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1141256",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2023-01-05",
+          "content": "以前手机上我记得不需要勾选就可以登录，现在不勾选无法登录"
+        }
+      ]
+    }
+  ]
+}

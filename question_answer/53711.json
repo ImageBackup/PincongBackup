@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "53711",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "604933",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该是拿到了包子许可，暂时退让一下，先避避风头。后续情况有待继续观察，暂时无法判定是换肩。\t\t</div>",
+      "date": "2022-12-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "604949",
+      "is_folded": true,
+      "answerer": {
+        "username": "看客",
+        "uid": "96406"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2022-12-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

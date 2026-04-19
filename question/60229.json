@@ -1,0 +1,61 @@
+{
+  "question_id": "60229",
+  "category_id": "4",
+  "title": "目前大大小小的gpt大家应该用过好多 感觉哪家的最好呢？",
+  "meta_description": "目前大大小小的gpt大家应该用过好多 感觉哪家的最好呢？ - 就我个人感觉用来用去还是openai的 而且还是3.5 虽然微软那个bing说是基于4.0开发的 但是感觉实际使用起来还不如隔壁3.5  其次在用这些gpt的时候我开始杜绝使用中文了 因为同样的问题使用英文所得到的信息 无论是质量还是数量都碾压中文",
+  "meta_keywords": "目前,大大,gpt,大家,应该,用过,好多,感觉,哪家,最好",
+  "tags": [
+    {
+      "id": "104134",
+      "name": "GPT"
+    }
+  ],
+  "author": {
+    "username": "OrphenOfKos",
+    "uid": "73371"
+  },
+  "view_count": 7980,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t就我个人感觉用来用去还是openai的 而且还是3.5<br/>\n虽然微软那个bing说是基于4.0开发的 但是感觉实际使用起来还不如隔壁3.5<br/>\n<br/>\n其次在用这些gpt的时候我开始杜绝使用中文了 因为同样的问题使用英文所得到的信息 无论是质量还是数量都碾压中文\t\t\t\t\t\t\t</div>",
+  "date": "2023-07-25",
+  "agree_count": 0,
+  "discussion_count": 4,
+  "discussions": [
+    {
+      "id": "1043355",
+      "replier": {
+        "username": "永遠的零",
+        "uid": "107997"
+      },
+      "date": "2023-07-25",
+      "content": "最近让chatgpt帮我算一下天数、就是有多少天，一直出错，不知道为什么。其他都正常"
+    },
+    {
+      "id": "1043357",
+      "replier": {
+        "username": "擇路",
+        "uid": "19415"
+      },
+      "date": "2023-07-25",
+      "content": "@永遠的零:大模型的算术能力很差"
+    },
+    {
+      "id": "1044016",
+      "replier": {
+        "username": "一個東方人",
+        "uid": "95125"
+      },
+      "date": "2023-08-04",
+      "content": "Chatgpt hands down"
+    },
+    {
+      "id": "1044017",
+      "replier": {
+        "username": "一個東方人",
+        "uid": "95125"
+      },
+      "date": "2023-08-04",
+      "content": "@擇路:類似的問題在gpt 4已經不存在了。"
+    }
+  ],
+  "answer_count": 5
+}

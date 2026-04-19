@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "59315",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "664864",
+      "is_folded": false,
+      "answerer": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只有问题回复才会有20字限制，文章评论和问题评论都无此限制。\t\t</div>",
+      "date": "2023-06-23",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1186605",
+          "replier": {
+            "username": "Hermione",
+            "uid": "10918"
+          },
+          "date": "2023-06-23",
+          "content": "為什麼有字數限制？能否取消？沒記錯文章評論有50字限制"
+        }
+      ]
+    }
+  ]
+}

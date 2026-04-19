@@ -1,0 +1,78 @@
+{
+  "parent_type": "question",
+  "parent_id": "58515",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "657024",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为镁光制造的内存中国已经有厂商可以制造了，可以平替，高通产品国内造不了，所以不敢制裁，这不是很简单。\t\t</div>",
+      "date": "2023-05-21",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657025",
+      "is_folded": false,
+      "answerer": {
+        "username": "wct888",
+        "uid": "73678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t欺善怕惡吧，美光市佔率低，替代品又易找。<br/>\n禁高通的話，死的應該是一大批手機廠。\t\t</div>",
+      "date": "2023-05-21",
+      "agree_count": 5,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1179043",
+          "replier": {
+            "username": "绝不换肩",
+            "uid": "50844"
+          },
+          "date": "2023-05-21",
+          "content": "不会的。有联发科神一样的存在。专业布局低端解决方案。"
+        },
+        {
+          "id": "1179050",
+          "replier": {
+            "username": "wct888",
+            "uid": "73678"
+          },
+          "date": "2023-05-21",
+          "content": "那高端市場就不要了些？高端的利潤是低端可比嗎？"
+        }
+      ]
+    },
+    {
+      "id": "657023",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好想看土鳖对AMD下手，全面抵制。<br/>\n刚刚买了Rx 6XXX GPU，太拉垮了。<br/>\n😹😹😹😹\t\t</div>",
+      "date": "2023-05-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657413",
+      "is_folded": true,
+      "answerer": {
+        "username": "番茄三號",
+        "uid": "111700"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-05-23",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

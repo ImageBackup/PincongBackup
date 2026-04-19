@@ -1,0 +1,26 @@
+{
+  "article_id": "66884",
+  "category_id": "4",
+  "title": "分享链接时请注意身份安全",
+  "meta_description": "分享链接时请注意身份安全 - 俺不止一次看到论坛上有人直接使用YouTube的分享功能来分享链接，格式为 youtu.be/xxxxx?si=yyyyyy。请注意这里的 si=yyyyy 部分是链接发布者的身份信息，需要手动删掉。  如果您对链接的组成部分不甚了解，推荐使用一些链接清理...",
+  "meta_keywords": "分享,链接,请注意,身份,安全",
+  "tags": [
+    {
+      "id": "156",
+      "name": "隐私安全"
+    },
+    {
+      "id": "1993",
+      "name": "匿名"
+    }
+  ],
+  "author": {
+    "username": "cybermage",
+    "uid": "29130"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t俺不止一次看到论坛上有人直接使用YouTube的分享功能来分享链接，格式为 youtu.be/xxxxx?si=yyyyyy。请注意这里的 si=yyyyy 部分是链接发布者的身份信息，需要手动删掉。<br/>\n<br/>\r\n如果您对链接的组成部分不甚了解，推荐使用一些链接清理工具来处理一下。比如 <a href=\"url/link/aHR0cHM6Ly9saW5rY2xlYW5lci5hcHAv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://linkcleaner.app/\">Link cleaner</a>。俺测试过，这个工具可以用来清理YouTube和b站的分享链接。\t\t\t\t\t\t\t</div>",
+  "view_count": 6885,
+  "date": "2023-12-16",
+  "agree_count": 10,
+  "comment_count": 7
+}

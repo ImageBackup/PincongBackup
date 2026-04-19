@@ -1,0 +1,111 @@
+{
+  "parent_type": "question",
+  "parent_id": "57493",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "646765",
+      "is_folded": false,
+      "answerer": {
+        "username": "中共中央总加速师",
+        "uid": "43639"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1 不要用国行手机，主要是安全原因。当然现在就算不考虑安全因素，国行手机翻墙也越来越困难了。<br/>\n2 不要在手机里装中国APP。当然是安全原因。<br/>\n3 不要用中资机场/VPN。迷雾通就挺好。\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646720",
+      "is_folded": false,
+      "answerer": {
+        "username": "冬天的野火也不弱",
+        "uid": "104693"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t品葱主页的右上角已经告诉你了啊，就是用迷雾通，这就是最简单的翻墙的方法。\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646717",
+      "is_folded": false,
+      "answerer": {
+        "username": "吃瓜瓜和瓜皮",
+        "uid": "93859"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我是在家放了一个刷了openwrt的旁路由，把父母2.4g频段的wifi设置为了旁路由，5g正常。因为我现在不常在家，即便旁路由挂了，也可以非常方便的让他们正常使用wifi。不过安全性没有考虑\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646721",
+      "is_folded": false,
+      "answerer": {
+        "username": "约定的世界岛",
+        "uid": "2101"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有软路由openwrt的经验最好，就在前面加一台<br/>\n没有仅用电脑一台做跳板，手机里修改代理<br/>\n另外，不愿意接受同时使用2个手机？为啥一定要手机<br/>\n可以买一台平板专门用做翻墙app看视频\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646747",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t再买个其他手机 虽然我不喜欢苹果 但是在国内要翻墙最好还是用非国产的手机<br/>\n不需要最新 11都可以了 反正只是拿来翻墙的\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646752",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t安卓环境下，用迷雾通，将不走代理的APP从应用列表中排除\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646760",
+      "is_folded": false,
+      "answerer": {
+        "username": "水浅茶清",
+        "uid": "2333"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t路由器代理翻墙。安全性没保障，但是只要不发言对老人基本没啥影响。\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646809",
+      "is_folded": true,
+      "answerer": {
+        "username": "斩首习近平",
+        "uid": "52179"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\t你爸妈是粉红，上网估计只会看油管，也不会写评论，就算用装着反诈和学习的华为再加上实名注册，我匪也不会找上你爸妈。醒醒吧，从字里行间就能看出来，你现在精神状况有点问题<br/>\n<br/>\n补充:  我喜欢推理游戏，回答完你这个问题，再去看了你的主页，果然你是抑郁症患者，被我猜中了。你问有没有抑郁症社群，这个问题我认为很有价值，品葱里深度 轻度抑郁症太多了，甚至包括我本人在内，但是品葱却没有一个抑郁症互助的主题。反共有时候离我们很遥远，抑郁症互助虽然没反共那么高大上，但也不失为一件善事，我们可以考虑单独开一个帖子，在里面交流互助\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

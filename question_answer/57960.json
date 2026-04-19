@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "57960",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "651774",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://en.wikipedia.org/wiki/Kobo_eReader#Market_share<br/>\n<br/>\n在大家拿最受欢迎的ｋｏｂｏ，可以装ｋｏｒｅａｄｅｒ，感觉比ｋｉｎｄｌｅ好大约一百万倍，<br/>\n<br/>\nhttps://www.mobileread.com/forums/forumdisplay.php?f=223<br/>\n<br/>\n我是从ｋｉｎｄｌｅ　ｔｏｕｃｈ　３ｇ开始用起的，<br/>\n<br/>\n简单粗暴对比可以看作是苹果闭源（ｋｉｎｄｌｅ）ｖｓ谷歌开源（ｋｏｂｏ）\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651778",
+      "is_folded": false,
+      "answerer": {
+        "username": "徐谷雨",
+        "uid": "95064"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tKindle最重要的是他背后那个自助出版的去中心化市场，可以说是彻底颠覆了传统出版业以出版社为中心的模式。相比之下阅读器只能算是末端产品了。\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

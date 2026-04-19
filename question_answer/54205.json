@@ -1,0 +1,76 @@
+{
+  "parent_type": "question",
+  "parent_id": "54205",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "609757",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t遇到以下情况才需要怀疑你的机场：<br/>\n1. 如果机场要求你安装“证书”，那么机场一定有问题。<br/>\n2. 如果访问网站时，浏览器曾经警告过你“证书安全”问题，但是你自己选择忽略了，那机场很可能有问题。<br/>\n3. 如果网站技术落后，网址是http://开头，而不是https://开头，那机场也有嫌疑。<br/>\n<br/>\n如果不是以上情况，那应该是以下情况：<br/>\n1. 你电脑上还是有木马。<br/>\n2. 你的电脑上曾经有木马，它记下了你的账号，而且你还没有及时修改密码。无论你电脑后来有没有清干净，木马都已经偷完收工了。\t\t</div>",
+      "date": "2022-12-12",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134953",
+          "replier": {
+            "username": "pz221",
+            "uid": "51046"
+          },
+          "date": "2022-12-12",
+          "content": "那看来还是木马的问题"
+        }
+      ]
+    },
+    {
+      "id": "609718",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t機場節點有被釣魚的可能，如果有其它機場可以更換測試一下。另外多説一句你這電腦環境還上品葱已經很危險了\t\t</div>",
+      "date": "2022-12-12",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134929",
+          "replier": {
+            "username": "pz221",
+            "uid": "51046"
+          },
+          "date": "2022-12-12",
+          "content": "我已经换了自建节点了"
+        }
+      ]
+    },
+    {
+      "id": "609742",
+      "is_folded": false,
+      "answerer": {
+        "username": "TIAN_KUAI_HUO",
+        "uid": "88301"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不知道带个TOR有没有用？<br/>\n<br/>\n(我不太确定，若有误欢迎打脸)\t\t</div>",
+      "date": "2022-12-12",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134944",
+          "replier": {
+            "username": "pz221",
+            "uid": "51046"
+          },
+          "date": "2022-12-12",
+          "content": "应该有用，因为tor本身就是加密通信协议"
+        }
+      ]
+    }
+  ]
+}

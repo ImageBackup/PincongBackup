@@ -1,0 +1,150 @@
+{
+  "parent_type": "question",
+  "parent_id": "53931",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "607124",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一去掉水印背景那天我就想说<br/>\n<br/>\n是不是在声援白纸运动，白色背景就是白纸，<br/>\n<br/>\n后来忍住没发问题，\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 12,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607141",
+      "is_folded": false,
+      "answerer": {
+        "username": "codywang",
+        "uid": "93639"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t建议管理人员应该把品葱改页面的原因公开一下，不要学习伪中央搞密室决策。\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 13,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133089",
+          "replier": {
+            "username": "嘉然今天吃铁拳",
+            "uid": "80209"
+          },
+          "date": "2022-12-06",
+          "content": "河南拔智齿"
+        }
+      ]
+    },
+    {
+      "id": "607126",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t方便截图？有的东西我想截图发给朋友看 但因为水印一次都没发过\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 12,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1133071",
+          "replier": {
+            "username": "weibao",
+            "uid": "41372"
+          },
+          "date": "2022-12-06",
+          "content": "打开浏览器开发工具，ｉｎｓｐｅｃｔ选取背景图片，然后ｃｓｓ里面那个打勾去掉就可以无水印，嫌麻烦可以直接禁用ｊａｖａｓｃｒｉｐｔ功能，"
+        },
+        {
+          "id": "1133273",
+          "replier": {
+            "username": "herojust41day",
+            "uid": "103552"
+          },
+          "date": "2022-12-07",
+          "content": "留个眼"
+        }
+      ]
+    },
+    {
+      "id": "607125",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你要是不把这件事说出来，我都注意不到水印已经消失了。\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607175",
+      "is_folded": false,
+      "answerer": {
+        "username": "反清复明2017",
+        "uid": "73211"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没水印看着更清爽些。<br/>\n原先有水印，整个视觉效果显得很脏。\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607131",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t個人猜測一是爲了方便截圖處理，二是對外降低網站識別度，算是一種僞裝？\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133126",
+          "replier": {
+            "username": "不可接触者",
+            "uid": "50310"
+          },
+          "date": "2022-12-06",
+          "content": "你为什么会得出这样的结论"
+        }
+      ]
+    },
+    {
+      "id": "607168",
+      "is_folded": false,
+      "answerer": {
+        "username": "敏感词滚蛋",
+        "uid": "101666"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是改了吗？我还以为是时有时无呢，以前看的时候怕被人看到大大的品葱水印，没了就不用担心了，挺好。\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607294",
+      "is_folded": false,
+      "answerer": {
+        "username": "习帝",
+        "uid": "73472"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还有个问题是，点开一个帖子，再返回，页面回到首页了；不像以前回到点开帖子的那一页\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

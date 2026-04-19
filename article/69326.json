@@ -1,0 +1,22 @@
+{
+  "article_id": "69326",
+  "category_id": "18",
+  "title": "Anonymity Trilemma: Strong Anonymity, Low Bandwidth Overhead, Low Latency --- Choose Two",
+  "meta_description": "Anonymity Trilemma: Strong Anonymity, Low Bandwidth Overhead, Low Latency --- Choose Two - Anonymity Trilemma: Strong Anonymity, Low Bandwidth Overhead, Low Latency — Choose Two ([url=https://www.freehaven.net/anonbib/c...",
+  "meta_keywords": "anonymity,trilemma,strong,low,bandwidth,overhead,latency,---,choose",
+  "tags": [
+    {
+      "id": "1682",
+      "name": "论文"
+    }
+  ],
+  "author": {
+    "username": "Streptopelia",
+    "uid": "115196"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\tAnonymity Trilemma: Strong Anonymity, Low Bandwidth Overhead, Low Latency — Choose Two (<a href=\"url/link/aHR0cHM6Ly93d3cuZnJlZWhhdmVuLm5ldC9hbm9uYmliL2NhY2hlL3RyaWxlbW1hLW9ha2xhbmQyMDE4LnBkZg\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.freehaven.net/anonbib/cache/trilemma-oakland2018.pdf\">PDF</a>)<br/>\n<br/>\r\nby <a href=\"url/link/aHR0cHM6Ly9kZWRhczExMS5naXRodWIuaW8vYWJvdXQv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://dedas111.github.io/about/\">Debajyoti Das</a>, <a href=\"url/link/aHR0cDovL3d3dy5pbmZzZWMuY3MudW5pLXNhYXJsYW5kLmRlL35tZWlzZXIv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"http://www.infsec.cs.uni-saarland.de/~meiser/\">Sebastian Meiser</a>, <a href=\"url/link/aHR0cDovL3d3dy5pbmZzZWMuY3MudW5pLXNhYXJsYW5kLmRlL35tb2hhbW1hZGkv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"http://www.infsec.cs.uni-saarland.de/~mohammadi/\">Esfandiar Mohammadi</a>, and <a href=\"url/link/aHR0cDovL3Blb3BsZS5tbWNpLnVuaS1zYWFybGFuZC5kZS9.YW5pa2V0Lw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"http://people.mmci.uni-saarland.de/~aniket/\">Aniket Kate</a>.<br/>\n<br/>\r\nIn the Proceedings of the 39th IEEE Symposium on Security and Privacy (S&amp;P 2018), San Francisco, California, USA, May 2018.<br/>\n<br/>\n<br/>\n<br/>\n<b>Abstract</b><br/>\n<br/>\n<br/>\n<br/>\r\nThis work investigates the fundamental constraints of anonymous communication (AC) protocols. We analyze the relationship between bandwidth overhead, latency overhead, and sender anonymity or recipient anonymity against a global passive (network-level) adversary. We confirm the trilemma that an AC protocol can only achieve two out of the following three properties: strong anonymity (i.e., anonymity up to a negligible chance), low bandwidth overhead, and low latency overhead.<br/>\n<br/>\r\nWe further study anonymity against a stronger global passive adversary that can additionally passively compromise some of the AC protocol nodes. For a given number of compromised nodes, we derive as a necessary constraint a relationship between bandwidth and latency overhead whose violation make it impossible for an AC protocol to achieve strong anonymity. We analyze prominent AC protocols from the literature and depict to which extent those satisfy our necessary constraints. Our fundamental necessary constraints offer a guideline not only for improving existing AC systems but also for designing novel AC protocols with non-traditional bandwidth and latency overhead choices.\t\t\t\t\t\t\t</div>",
+  "view_count": 5471,
+  "date": "2024-02-23",
+  "agree_count": 1,
+  "comment_count": 0
+}

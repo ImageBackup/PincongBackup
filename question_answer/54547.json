@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "54547",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "613570",
+      "is_folded": false,
+      "answerer": {
+        "username": "可习不是尼",
+        "uid": "105724"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你说的是“存在”还是“大部分”？<br/>\n说存在肯定是有的，但是来个全民公投，我可以保证绝对没有地方会超过半数，上海也不例外。原因是不管在哪里，只要随便挑一批人出来，粉红是绝大多数。\t\t</div>",
+      "date": "2022-12-24",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137998",
+          "replier": {
+            "username": "千凌",
+            "uid": "27417"
+          },
+          "date": "2022-12-24",
+          "content": "我觉得搞个某某联邦共和国都比去复国靠谱，一句话，反清复明真的是要复活明朝吗？"
+        }
+      ]
+    },
+    {
+      "id": "613522",
+      "is_folded": false,
+      "answerer": {
+        "username": "千凌",
+        "uid": "27417"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没有，没有，没有，新的朝代也不会再叫这个名字，这一页还是翻过去吧，和台湾一样，大陆新一代的人对中华民国也没啥感情了\t\t</div>",
+      "date": "2022-12-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

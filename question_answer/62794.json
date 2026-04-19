@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "62794",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "700498",
+      "is_folded": false,
+      "answerer": {
+        "username": "观云先生",
+        "uid": "73140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t无需应对。不是有句话很流行么？<br/>\n“尊重他人命运，放下助人情节。”\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700587",
+      "is_folded": false,
+      "answerer": {
+        "username": "嗯你說得對",
+        "uid": "108001"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t聖母？<br/>\n俾佢滾<br/>\n<br/>\n字數？？？？？？？？殭屍講什麼都會接受你的內地你懂不懂\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700480",
+      "is_folded": true,
+      "answerer": {
+        "username": "大西洋海风",
+        "uid": "118293"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-10-26",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1220112",
+          "replier": {
+            "username": "a小调回旋曲",
+            "uid": "114265"
+          },
+          "date": "2023-10-26",
+          "content": "一切为了孩子活的算是有目标的，他起码能自信说出自己努力是为了下一代。就是没有孩子的，根本人生没有目的和意义，回答不出自己为什么而活，但是一定要去赚钱和买车房，甚至说不出来是为了孩子，就是为了服从而服从。"
+        },
+        {
+          "id": "1220113",
+          "replier": {
+            "username": "a小调回旋曲",
+            "uid": "114265"
+          },
+          "date": "2023-10-26",
+          "content": "不谈政治本来是可以理解的，但是不能理解的是漠视人类精神需求，包括自由和自我实现需求"
+        }
+      ]
+    }
+  ]
+}

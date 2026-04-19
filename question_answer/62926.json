@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "62926",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "701750",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t随便搜一搜就知道了，譬如最近CNBC对他的采访：<br/>\n<br/>\nBuffett dismissed bitcoin as a \"gambling token\" in an interview with CNBC, saying bitcoin \"doesn't have any intrinsic value ... but that doesn't stop people from wanting to play the roulette wheel.\"\t\t</div>",
+      "date": "2023-10-29",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1221465",
+          "replier": {
+            "username": "梁家驴996",
+            "uid": "117499"
+          },
+          "date": "2023-10-29",
+          "content": "收到，感谢回复。😊"
+        }
+      ]
+    },
+    {
+      "id": "701748",
+      "is_folded": true,
+      "answerer": {
+        "username": "梁家驴996",
+        "uid": "117499"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-10-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "65382",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "728103",
+      "is_folded": false,
+      "answerer": {
+        "username": "欽定匪軍經商",
+        "uid": "102983"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t為什麼東北人在日本奴役下過得更好，在大陸外省人管理下卻是一坨屎？和河南一樣文明全面落後？\t\t</div>",
+      "date": "2024-02-15",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "728095",
+      "is_folded": true,
+      "answerer": {
+        "username": "我爱喝可乐",
+        "uid": "122508"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-02-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

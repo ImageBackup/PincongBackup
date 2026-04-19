@@ -1,0 +1,425 @@
+{
+  "parent_type": "question",
+  "parent_id": "56847",
+  "answer_count": 9,
+  "answers": [
+    {
+      "id": "639557",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t首先办理港澳通行证，然后到香港的银行开户，再到香港加密货币交易所开户，将加密货币存入，转成港币存入香港的银行。然后在香港的银行兑换加元。<br/>\n<br/>\n如果香港的银行可以开GIC存款证明就直接开，否则汇回国内比较麻烦。汇丰有全球汇款，中国银行有中银快汇，其他银行只能通过电汇的方式，费用高且入账需要提供证明材料。<br/>\n<br/>\n如果不想麻烦，可以在telegram直接找经纪商线下出售加密货币，换取现钞存入银行，然后在国内购汇。<br/>\n<br/>\n即使加拿大银行的学生GIC项目支持PayPal汇款，你也得先去加拿大银行当面开立自己的银行账户吧。\t\t</div>",
+      "date": "2023-03-13",
+      "agree_count": 5,
+      "discussion_count": 26,
+      "discussions": [
+        {
+          "id": "1162293",
+          "replier": {
+            "username": "diiow",
+            "uid": "105179"
+          },
+          "date": "2023-03-13",
+          "content": "以留学移民的名义是可以直接在中国开立加国账户的，只不过这个账户是锁定状态，只能存不能取用，需要人到加国后才能激活。"
+        },
+        {
+          "id": "1162295",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-13",
+          "content": "已删除"
+        },
+        {
+          "id": "1162296",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-13",
+          "content": "@周瀚坤: 是的，您说得对，是我错把申请学生GIC误解成开户了，还是有所不同的——GIC需要我人到加拿大后才能有GIC所在银行账户，如果没有银行账户就无法绑定PayPal——我这样理解对吗？"
+        },
+        {
+          "id": "1162302",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-13",
+          "content": "@diiow:请问加拿大哪家银行可以支持人在国内的在线开户呢？您说的“只能存”包括接受非本人名义的汇款吗？如果这样的话，就不需要通过PayPal关联转账了，因为可以卖加密货币给加拿大的买家，让他直接汇加元到这家新开户的银行账户。"
+        },
+        {
+          "id": "1162305",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2023-03-13",
+          "content": "@periodspell:加拿大银行在国内都只有办事处，没有分行。部分加拿大银行支持律师见证开户，可以向银行或加拿大当地律师询问。"
+        },
+        {
+          "id": "1162308",
+          "replier": {
+            "username": "diiow",
+            "uid": "105179"
+          },
+          "date": "2023-03-13",
+          "content": "@periodspell: 可以非本人名义汇款。具体情况还是给加国银行在中国办事处打电话吧。"
+        },
+        {
+          "id": "1162309",
+          "replier": {
+            "username": "diiow",
+            "uid": "105179"
+          },
+          "date": "2023-03-13",
+          "content": "@periodspell: 加国的几个最大的银行，例如蒙特利尔银行、皇家银行、新斯科舍银行等等,都支持在中国开户，填表格把护照学校offer通过邮件发过去就可以了，全程都是在中国办事处的人处理。"
+        },
+        {
+          "id": "1162332",
+          "replier": {
+            "username": "王思蒜",
+            "uid": "11755"
+          },
+          "date": "2023-03-13",
+          "content": "@periodspell: 加拿大很多银行官网都有这个项目，你可以参考CIBC\nhttps://www.cibc.com/en/special-offers/international-student-gic.html"
+        },
+        {
+          "id": "1162732",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-14",
+          "content": "@王思蒜:问过CIBC了，不支持GIC只能用Bank Wire，不能用PayPal"
+        },
+        {
+          "id": "1162852",
+          "replier": {
+            "username": "王思蒜",
+            "uid": "11755"
+          },
+          "date": "2023-03-15",
+          "content": "@periodspell:加密货币我不知道。但是GIC一定是可以在境外办。前提是你需要有学校offer才可以办，之前发你的链接应该有详细介绍。"
+        },
+        {
+          "id": "1162884",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-15",
+          "content": "@王思蒜:这里链接看过了，人在国内没有没有人民币，只有PayPal账户里有美元怎么办呢？"
+        },
+        {
+          "id": "1162916",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-15",
+          "content": "@周瀚坤:我觉得还是香港的银行和交易所开户比较可行，正好去香港把保险退保获得，这样就可以获得一笔跟学费相当的存款，GIC就用加密货币的交易获得，请问您推荐哪家交易所呢？币安这种全球性的交易所不行吗？"
+        },
+        {
+          "id": "1162923",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2023-03-15",
+          "content": "@periodspell:如在香港开户，建议使用香港本地持牌交易所。"
+        },
+        {
+          "id": "1162924",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2023-03-15",
+          "content": "@periodspell:paypal里的美元只能找私人对敲，转给你人民币，或者让paypal通过寄支票给你的方式进行提现，如果在国内提现，银行仍会问你收入来源和证明材料。"
+        },
+        {
+          "id": "1162999",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-15",
+          "content": "@周瀚坤: 谢谢，实在太感谢了，希望能顺利。"
+        },
+        {
+          "id": "1163235",
+          "replier": {
+            "username": "王思蒜",
+            "uid": "11755"
+          },
+          "date": "2023-03-15",
+          "content": "@periodspell: 可以试试USD换成CNY再试～祝你好运啊，早日到你心仪的国家。"
+        },
+        {
+          "id": "1164932",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-21",
+          "content": "请问@周瀚坤:请问一下，TG上怎么找支持线下交易的中介商呢？如何保证安全呢？我是指，交易场所的安全性，太偏僻的野外和对方家里这么多现金肯定不安全，宾馆的话又怕有监控和开房记录。"
+        },
+        {
+          "id": "1206567",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-08",
+          "content": "香港銀行不接受加密貨幣"
+        },
+        {
+          "id": "1209889",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2023-09-20",
+          "content": "@四邑漁農牧工商總會:香港钟表店，洗衣房，大街小巷到处都是加密货币兑换机。你非要把加密货币存进银行户口吗？"
+        },
+        {
+          "id": "1209891",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-20",
+          "content": "@周瀚坤:你拿着一堆現鈔，怎帶出境，也入不了銀行戶口，除非現金買隻錶之類"
+        },
+        {
+          "id": "1209893",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-20",
+          "content": "@周瀚坤:錶行接不接受現金買隻高級腕錶也很難說"
+        },
+        {
+          "id": "1209894",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2023-09-20",
+          "content": "@四邑漁農牧工商總會:我猜你只走深圳陆路口岸和西九龙这种深港边境口岸，不然无法解释你怎么会有一堆现钞怎带出境这种困惑。不知道入不了银行户口又是何解，如果超过100万，最多是要你现场去存，不能线上过数而已。"
+        },
+        {
+          "id": "1209896",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2023-09-20",
+          "content": "@四邑漁農牧工商總會:你大概没有仔细看钟表行门口的加密货币标志。人家做的就是加密货币买卖中介，和币安，火币是一样的。买卖钟表只是副业。"
+        },
+        {
+          "id": "1209898",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-20",
+          "content": "@周瀚坤:\nhttps://www.customs.gov.hk/tc/service-enforcement-information/passenger-clearance/currency-bearer-negotiable-instruments/index.html\n申報及披露規定\n根據香港法例第629章《實體貨幣及不記名可轉讓票據跨境流動條例》（「《條例》」），經《條例》附表1所列的指明管制站抵達香港的人士，如管有大量（即總值高於12萬港元）的貨幣及不記名可轉讓票據（「現金類物品」），須使用紅綠通道系統下的紅通道向海關人員作出書面申報。\n在指明管制站以外地方抵達香港的人士（例如乘搭客輪經船隻碇泊處抵達香港的乘客及船員）或即將離開香港的人士，如在海關人員的要求下，須披露是否管有大量現金類物品；如有的話，須作出書面申報。\n如成人知道其陪同的幼年人（即未滿16歲的人士）管有大量現金類物品，該成人須為該幼年人申報或披露。\n「現金類物品申報表」可於各管制站的海關入境大堂紅通道索取，或於海關網頁下載。附已填妥的申報表樣本以作參考。"
+        },
+        {
+          "id": "1209899",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-20",
+          "content": "@周瀚坤: 你把錢存入别人戶口，錢是别人的，你把錢存入自己戶口，首先你得有戶口，香港開立銀行戶口不容易，然後再解釋你存入大量現金，現金的來源"
+        },
+        {
+          "id": "1210170",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2023-09-21",
+          "content": "@四邑漁農牧工商總會:你见过香港入境处启动过包裹货物扫描仪吗？你在香港开户被拒绝过吗？为什么你有这么多奇怪的顾虑？"
+        }
+      ]
+    },
+    {
+      "id": "639542",
+      "is_folded": false,
+      "answerer": {
+        "username": "diiow",
+        "uid": "105179"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t银行肯定不认加密货币，你只能把加密货币变现然后以加币的形式存在银行账户里了。\t\t</div>",
+      "date": "2023-03-13",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1162283",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-13",
+          "content": "请问您人在加拿大吗？你知道哪个加拿大银行的学生GIC项目支持PayPal汇款的吗？"
+        },
+        {
+          "id": "1162292",
+          "replier": {
+            "username": "diiow",
+            "uid": "105179"
+          },
+          "date": "2023-03-13",
+          "content": "GIC就是开个在加国能用账户然后往里打钱而已，理论上讲你是通过银行汇款还是paypal汇款没区别。加国的几个主要银行在中国都有办事处（我猜你也不打算用中国银行），你网上搜一下联系方式然后打电话具体咨询一下就知道了。"
+        }
+      ]
+    },
+    {
+      "id": "640188",
+      "is_folded": false,
+      "answerer": {
+        "username": "ilovejp",
+        "uid": "27315"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t刚刚问了下大佬，他说让我去DBS银行就行，有加密货币业务\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1163120",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-15",
+          "content": "谢谢大大佬和大佬，DBS在内地没分行吧？要去新加坡吗？还是去香港就可以开户了呢？"
+        },
+        {
+          "id": "1163237",
+          "replier": {
+            "username": "ilovejp",
+            "uid": "27315"
+          },
+          "date": "2023-03-15",
+          "content": "@periodspell: 我搜了一下DBS银行在大陆有业务，你问一问他们银行人员，说明来意"
+        }
+      ]
+    },
+    {
+      "id": "640235",
+      "is_folded": false,
+      "answerer": {
+        "username": "google_staff",
+        "uid": "91533"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要你能把钱存入加拿大银行卡就行啊, 你小红书发个帖子, 很多加拿大银行工作的女生用. 我就拿了5.2%的利率.\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640054",
+      "is_folded": false,
+      "answerer": {
+        "username": "GOP2024",
+        "uid": "109488"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t加拿大政府对加密货币的限制蛮多的，还有额度限制，建议你找加拿大的线下兑换处联系，把问题说清楚看看能不能办理！<br/>\n你人在国内是很难顺利的完成这个操作的，最好是本人去一趟加拿大，面对面谈更便利的！<br/>\n重点是最近银行暴雷以及USDC出问题（虽然已经恢复了），这些问题影响很大的，我好几年没回洼地了，所以不太清楚国内的情况了\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640167",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我了解的GIC都是银行直汇加币，PayPal付款理论上应该也可以，但具体可以打电话问问银行。RBC和TD都是有加拿大号码的中文专线的。\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1163121",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-15",
+          "content": "已删除"
+        },
+        {
+          "id": "1163122",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-03-15",
+          "content": "PayPal是无法给非本人的银行账户转账的，所以必须要先开户，但是人在国内还没有入镜加拿大可以在RBC和TD开户，即便可以开户能出入资金吗？"
+        },
+        {
+          "id": "1163128",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2023-03-15",
+          "content": "@periodspell: 年头太久我已经忘了当时开户的细节了。我当年是先换汇加币，在加境内开户，然后汇款的；不知道现在有无更新，但我个人假设不能在境外开户，因为当年开户没有记错的话需现场录指纹。\n已开户且账号无任何问题的情况下，出入资金不受个人所在地影响，但第一次异地/外币操作很可能会被自动冻结账号，打电话过去确认本人操作即可。\n具体建议Google具体银行Call center问。无账户也可打询问开户。"
+        }
+      ]
+    },
+    {
+      "id": "690626",
+      "is_folded": false,
+      "answerer": {
+        "username": "frank_young",
+        "uid": "116988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你既然有钱，那就很好办，用你父母的钱做存款证明，等到了墙外，去墙外交易所很安全的把你的加密货币换成法币还给你父母就可以了。\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "639541",
+      "is_folded": false,
+      "answerer": {
+        "username": "一剑",
+        "uid": "84505"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很难啊，你得变现，普遍的交易所都没办法开出资金来源证明\t\t</div>",
+      "date": "2023-03-13",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640047",
+      "is_folded": true,
+      "answerer": {
+        "username": "王思蒜",
+        "uid": "11755"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-03-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "parent_type": "question",
+  "parent_id": "58589",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "657843",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t实话总是不经意说漏嘴的。<br/>\n<br/>\n这些事情跟普通人关系不大。但是，如果你还算个中产，而且还没润，从上面对话可以看出：<br/>\n1. 你的社保最终会被挪用。<br/>\n2. 如果你在小银行（例如本地的城商行）有存款和理财，它们最终会打水漂。<br/>\n3. 如果你开了企业，而且还有一定的规模，你的企业迟早要去无偿支援财政。<br/>\n4. 如果你跟政府或地方国企打交道，那么欠款直接当作坏账处理就行了。虽然欠钱不是最近的事，但是他们不打算还了，因为他们就算想还，也找不到能拿来还债的钱。\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 5,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1179815",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-05-24",
+          "content": "大银行的理财一样暴雷啊"
+        },
+        {
+          "id": "1179817",
+          "replier": {
+            "username": "对不起伤害了你",
+            "uid": "104840"
+          },
+          "date": "2023-05-24",
+          "content": "@Vinobianco:是的，国内所有的理财都是镰刀"
+        }
+      ]
+    },
+    {
+      "id": "657840",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t上次看到贵州要钱的消息还是遵义政府要求茅台接盘遵义高速公路\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657844",
+      "is_folded": false,
+      "answerer": {
+        "username": "铁木祯",
+        "uid": "110680"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t上海靠外贸，内陆靠上海<br/>\n上海：我承受太多。<br/>\n<br/>\n紫薯紫薯紫薯紫薯\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657841",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t无所谓了。现在主要问题是收入枯竭。<br/>\n<br/>\n竭泽而渔。杀鸡取卵\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

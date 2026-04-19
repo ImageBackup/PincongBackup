@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "62262",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "694275",
+      "is_folded": false,
+      "answerer": {
+        "username": "观云先生",
+        "uid": "73140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以试试cloudflare warp，我这能用，还是免费的，不过据一些人说他们不能用，也不知道怎么回事。总之不妨一试\t\t</div>",
+      "date": "2023-10-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "694274",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也想用chatgpt，有什么无脑傻瓜式的一键接入的方法吗\t\t</div>",
+      "date": "2023-10-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "694276",
+      "is_folded": false,
+      "answerer": {
+        "username": "台湾国的周杰伦",
+        "uid": "114126"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用clash，官方认证<br/>\n10月3日，B站中科院物理所，直播诺贝尔物理学奖颁奖现场，下面出现了翻墙软件Clash（vpn）。<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvYTdjMWI4NmQwZDIxMTEzNTAyZmUwLnBuZz93aWR0aD00ODImaGVpZ2h0PTMwMA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/a7c1b86d0d21113502fe0.png?width=482&amp;height=300\"><img alt=\"https://telegra.ph/file/a7c1b86d0d21113502fe0.png?width=482&amp;height=300\" loading=\"lazy\" src=\"https://telegra.ph/file/a7c1b86d0d21113502fe0.png?width=482&amp;height=300\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-10-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

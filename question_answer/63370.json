@@ -1,0 +1,62 @@
+{
+  "parent_type": "question",
+  "parent_id": "63370",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "706288",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t该出手了。现在买入是千载难逢的好时机，错过这一次机会，以后你起码要后悔十年。\t\t</div>",
+      "date": "2023-11-18",
+      "agree_count": 8,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1226134",
+          "replier": {
+            "username": "Hermione",
+            "uid": "10918"
+          },
+          "date": "2023-11-18",
+          "content": "那你呢？你打算買入多少房？"
+        }
+      ]
+    },
+    {
+      "id": "706338",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你想知道，親自入手買入一套不就得了，變成業主就能親身體驗\t\t</div>",
+      "date": "2023-11-18",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1226192",
+          "replier": {
+            "username": "Hermione",
+            "uid": "10918"
+          },
+          "date": "2023-11-18",
+          "content": "我沒有錢啊，不如你借給我？"
+        },
+        {
+          "id": "1226193",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-18",
+          "content": "@Hermione:八按有吧，二成首期"
+        }
+      ]
+    }
+  ]
+}

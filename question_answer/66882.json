@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "66882",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "743824",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t确认账号对应的人, 在实名的情况下这是对的.<br/>\n可品葱根本没有实名注册, 连邮箱都没有收集.<br/>\n<br/>\n那么锁定你的方式无非就是:<br/>\n    1. 你在其他平台暴露了自己, 被上门抓捕, 且通过电脑浏览器历史记录直接抓住你就是 \"吾王陛下\"<br/>\n    2. 你在品葱累计泄露了大量个人真实信息, 被精准定位<br/>\n    3. 使用蜜罐节点, 抓住你在使用品葱, 并不需要知道你是 \"吾王陛下\"<br/>\n    4. 你把手机怼黑皮脸上访问品葱<br/>\n    5. 你成为了重点关照人物, 会使用对付编程随想的方式对付你, 只为抓住你<br/>\n<br/>\n而共享账号的缺陷是:<br/>\n    1. 他人看到你这个账号不知道背后是谁. 你应该已经想到了, 这其实就是匿名帐号, 会打消他人回复你的动力, 阻碍交流<br/>\n    2. 容易被有心人士破坏, 大家心里也清楚<br/>\n <br/>\n相关RFC<br/>\n    <a href=\"https://pincong.rocks/article/2254\" title=\"https://pincong.rocks/article/2254\">https://pincong.rocks/article/2254</a><br/>\n<br/>\n    <a href=\"https://pincong.rocks/article/2216\" title=\"https://pincong.rocks/article/2216\">https://pincong.rocks/article/2216</a> </div>",
+      "date": "2024-04-27",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "743822",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你可以装成胡锡进 他常用的帐号密码可以私信交流<br/>\n<br/>\n既幽默又可以让党国同志消耗资源\t\t</div>",
+      "date": "2024-04-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "743821",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在没有任何可以认证的确切威胁之前，请不要认为自己被监视。否则你会弄巧成拙。<br/>\n<br/>\n同时再次提醒各位反贼：<br/>\n<br/>\n<br/>\n<b>怕别反，反别怕。</b><br/>\n<br/>\n<b>查个水表，就急得删除一切，你有一个最好的选择，那就是加入小粉红。</b><br/>\n<br/>\n<br/>\n如果你分享的密码是真的，那你很快将可能被封禁。除非你尽快修改。\t\t</div>",
+      "date": "2024-04-27",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1260962",
+          "replier": {
+            "username": "吾王陛下",
+            "uid": "127454"
+          },
+          "date": "2024-04-27",
+          "content": "陛下二世驾到，已夺舍  密码被我改了"
+        }
+      ]
+    }
+  ]
+}

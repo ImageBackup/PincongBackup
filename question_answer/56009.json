@@ -1,0 +1,354 @@
+{
+  "parent_type": "question",
+  "parent_id": "56009",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "633243",
+      "is_folded": false,
+      "answerer": {
+        "username": "匀迁乎",
+        "uid": "90687"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的做法：<br/>\n1.client要定期换ip，重启路由器wan口/手机切下飞行模式<br/>\n2.dns记得分流，不然gfw会发现你经常解析了个国外域名然后访问了另一个ip<br/>\n3.严格基于ip分流，走代理访问墙内网站特征太明显了<br/>\n4.大流量下载戴套走cdn<br/>\n5.关闭ssh端口，基于代理本地访问或者用vps商家控制面板<br/>\n6.伪装网站用真实项目，我搞了个tesla mate<br/>\n<br/>\n刚发成讨论了，这ui啥时候能改改...\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156412",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-23",
+          "content": "第一条可以，但是认真起来就会发现这些IP是一个人，因为运营商有日志；\n第二条，查询国外DNS是加密的，否则墙会污染结果，造成翻墙了也打不开网站的情况，它只知道你试图向国外DNS服务器加密查询，如果用DoH加密，则连查询都看不出来，只以为你在浏览网站。\n第三条同意，\n第四条同意，\n第五条同意，ssh不在公网暴露可以减少很多爆破。\n第六条同意，网站越丰富越好，表面上看起来是个正经网站，实际上也能翻墙。"
+        }
+      ]
+    },
+    {
+      "id": "632998",
+      "is_folded": false,
+      "answerer": {
+        "username": "acdak",
+        "uid": "5824"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tv2ray-agent脚本<br/>\n<br/>\n落地鸡装xray或者trojan<br/>\n传输协议8选一，总之必须要tls，伪装成正常https网页流量。<br/>\nVLESS+TCP+TLS<br/>\nVLESS+TCP+xtls-rprx-direct<br/>\nVLESS+gRPC+TLS【支持CDN、IPv6、延迟低】<br/>\nVLESS+WS+TLS【支持CDN、IPv6】<br/>\nTrojan+TCP+TLS【推荐】<br/>\nTrojan+TCP+xtls-rprx-direct<br/>\nTrojan+gRPC+TLS【支持CDN、IPv6、延迟低】<br/>\nVMess+WS+TLS【支持CDN、IPv6】<br/>\n<br/>\n中转入口出口分开买，嫌麻烦买现成的流量中转服务，隧道加密过墙，配置好以后可以无视落地鸡被墙\t\t</div>",
+      "date": "2023-02-21",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1156003",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-21",
+          "content": "流量转发我看到很多都实名的，两台VPS就行，先买一台配置好代理，然后用代理SSH连接第二台落地即可，怕被商家关联就去找网上的免费节点，第三台落地，谁都不知道是谁。"
+        },
+        {
+          "id": "1156174",
+          "replier": {
+            "username": "acdak",
+            "uid": "5824"
+          },
+          "date": "2023-02-22",
+          "content": "@肖战嗦习维尼牛子:大把匿名的，不过都是小商家"
+        }
+      ]
+    },
+    {
+      "id": "633577",
+      "is_folded": false,
+      "answerer": {
+        "username": "duck2go",
+        "uid": "108354"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t- [SS/V2翻墙机场黑榜，慢慢整理](https://pincong.rocks/article/16830)<br/>\n<br/>\n- [中国翻墙软件黑名单-持续更新](https://10beasts.net/china-fanqiang-tools-blacklist/#bai_jing_jia_su_qi_fan_qiang_gong_ju_pao_lu)\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156414",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-23",
+          "content": "卧槽，第二个连接里面有几个我也用过的vpn，赶紧删号，自从前些年会用vps了，就再没买过vpn。"
+        }
+      ]
+    },
+    {
+      "id": "630282",
+      "is_folded": false,
+      "answerer": {
+        "username": "duke2237",
+        "uid": "96609"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没遇到过，不过之前有个机器丢包率突然一直很高，就放弃了\t\t</div>",
+      "date": "2023-02-12",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1153819",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-13",
+          "content": "“突然”和“一直”矛盾吧，丢包高可能是绕路了，比如访问香港，有可能绕美国，自然就卡了。"
+        },
+        {
+          "id": "1155370",
+          "replier": {
+            "username": "duke2237",
+            "uid": "96609"
+          },
+          "date": "2023-02-19",
+          "content": "@肖战嗦习维尼牛子:就是突然变高了，再也没有下来过😂"
+        }
+      ]
+    },
+    {
+      "id": "630287",
+      "is_folded": false,
+      "answerer": {
+        "username": "水浅茶清",
+        "uid": "2333"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t搬瓦工，流量大概到了几百M就会记小黑本，早晨5点封端口。\t\t</div>",
+      "date": "2023-02-12",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1153820",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-13",
+          "content": "可以透露下用了什么协议吗？是否在装了国产软件的手机上导入了节点信息？"
+        },
+        {
+          "id": "1154152",
+          "replier": {
+            "username": "水浅茶清",
+            "uid": "2333"
+          },
+          "date": "2023-02-14",
+          "content": "@肖战嗦习维尼牛子:什么协议都没用，跟客户端也没关系。就是有流量就封端口。"
+        }
+      ]
+    },
+    {
+      "id": "630288",
+      "is_folded": false,
+      "answerer": {
+        "username": "加油拆那",
+        "uid": "6207"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t之前用搬瓦工搭配shadowsocks被封过好几次，有时候是端口有时候是ip，感觉这个说不准，大多数人翻墙还用的那种vpn\t\t</div>",
+      "date": "2023-02-12",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1153821",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-13",
+          "content": "ss早被识别了，但是看到被封的有很多v2ray，Trojan。\nvpn倒是还好，勉强可以连上。"
+        }
+      ]
+    },
+    {
+      "id": "630337",
+      "is_folded": false,
+      "answerer": {
+        "username": "wget",
+        "uid": "51008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t个人认为部分机房/供应商其实可能无关协议, 而是整个网段都被gfw重点关照了, 流量大了或是特殊时期就会直接阵亡, 我现在都不碰搬瓦工之类的在翻墙这个用途上已经用烂的厂家的, 另外我拿到一台vps的都是会用自己的镜像重装系统的\t\t</div>",
+      "date": "2023-02-12",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1153757",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-12",
+          "content": "我也用热门机房，但是没出现过这个问题，或许是个例？但是我的流量并不小。"
+        }
+      ]
+    },
+    {
+      "id": "632406",
+      "is_folded": false,
+      "answerer": {
+        "username": "Cthulhu统一地球",
+        "uid": "15192"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t要不你开个机场试试？之前我机场用ss时候被墙的可快了\t\t</div>",
+      "date": "2023-02-19",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156035",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-21",
+          "content": "机场无数人连一个IP，还大流量下载，客户把订阅导入到国产手机里，系统一抓一个准。"
+        }
+      ]
+    },
+    {
+      "id": "632417",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 這看網絡環境的, 前幾天幫北京律師樓的客戶遠程翻墻, 北京聯通的光纖心想這還不小菜一碟, 結果就沒一個匿名梯子能穩定的. 甚至某人的備用繳費梯子也不行, 他(她)的律所或有幫過維權律師被重點關照也説不定.<br/>\n<br/>\n_ _ 南方網絡好很多, 北方尤其是黃河以北地區的網絡垃圾的要死. 機房同樣, 以前做項目的時候也是南方機房一個電話就能解決問題還有之後的回復, 北方那個光環新網能把人氣死. 好大的官威啊, 這也不行那也不行. <br/>\n<br/>\n_ _ 境外機房要考慮地區, 海纜直通價格別最低, 大家都愛買便宜的容易被針對. 跑來品蔥喊的大多不是機場用戶就是機場廠長, 網警也不是傻子天南海北多地都連一個境外機房, 偵測程序一個勁的跳警告消息, 想摸魚也沒的摸.<br/>\n<br/>\n最近在考慮用境内云中轉到境外云, 但目前想法還不成熟.\t\t</div>",
+      "date": "2023-02-19",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1156002",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-21",
+          "content": "现在的机场都是中转的，国内访问的通常都是中国移动广东的机房，然后走专线或者是什么方式过墙，到境外VPS落地。直连只适合自己用，用的人多了难免被墙。"
+        },
+        {
+          "id": "1156133",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-02-22",
+          "content": "@肖战嗦习维尼牛子: 如果共匪咬牙不要外匯了, 我確有可能也翻不出來了."
+        }
+      ]
+    },
+    {
+      "id": "633240",
+      "is_folded": false,
+      "answerer": {
+        "username": "gg8964114514",
+        "uid": "108154"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t封过一次，搬瓦工，用v2ray协议，用到一半不用了，换买得vpn了，结果半月之后发现连不上了，ssh也被阻断了。。。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "630765",
+      "is_folded": false,
+      "answerer": {
+        "username": "USFUXXALL_II",
+        "uid": "74211"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有没有比较冷门但服务还行的VPS平台推荐么？ 我也不想用vultr了，整个网段都被网飞ban了，全流量代理也没法看。\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1155648",
+          "replier": {
+            "username": "ypPscEzbo",
+            "uid": "102254"
+          },
+          "date": "2023-02-20",
+          "content": "vmiss不错，一个月17rmb，ip也干净，cloudcone就算了，印度阿三的智商税"
+        },
+        {
+          "id": "1156004",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-21",
+          "content": "冷门的有，就是很贵，想看流媒体搞个家宽IP代理就行。\nvultr也不便宜，咬咬牙加钱能上更好的。"
+        },
+        {
+          "id": "1156030",
+          "replier": {
+            "username": "USFUXXALL_II",
+            "uid": "74211"
+          },
+          "date": "2023-02-21",
+          "content": "@肖战嗦习维尼牛子:感谢指点，我改天试试"
+        },
+        {
+          "id": "1156031",
+          "replier": {
+            "username": "USFUXXALL_II",
+            "uid": "74211"
+          },
+          "date": "2023-02-21",
+          "content": "@ypPscEzbo:我去租一台试试，谢谢指点啊"
+        }
+      ]
+    },
+    {
+      "id": "633084",
+      "is_folded": false,
+      "answerer": {
+        "username": "小韭菜盒子",
+        "uid": "107451"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没搞过VPS，只会用VPN，暴雪、熊猫，蓝灯都用过，总是要跑路，各位大佬知道opwpvpn吗？听说比较稳定，还是免费的，想换成这个，求指点\t\t</div>",
+      "date": "2023-02-21",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1156212",
+          "replier": {
+            "username": "duck2go",
+            "uid": "108354"
+          },
+          "date": "2023-02-22",
+          "content": "官网都不是https，可能钓鱼"
+        },
+        {
+          "id": "1156362",
+          "replier": {
+            "username": "heidike",
+            "uid": "107298"
+          },
+          "date": "2023-02-22",
+          "content": "@duck2go:无处不在的共猪钓鱼，大哥还有其他鉴别方法吗？"
+        },
+        {
+          "id": "1156416",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-23",
+          "content": "疑似钓鱼。官网下方的连接都是做样子，里面没东西，比如“关于我们”。\nhttps://web.archive.org/web/20230000000000\n*/\nhttps://www.opwpvpn.net/\n显示2023年以前没有任何存档，估计是新商家，小心些。"
+        }
+      ]
+    }
+  ]
+}

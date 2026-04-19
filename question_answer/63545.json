@@ -1,0 +1,106 @@
+{
+  "parent_type": "question",
+  "parent_id": "63545",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "708180",
+      "is_folded": false,
+      "answerer": {
+        "username": "月光",
+        "uid": "89273"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t先聲明我不曉得加州實際的制度如何。<br/>\n<br/>\n不過大部份這種民主國家的民選首長副手都沒什麼實權，<br/>\n有多少權力完全是看正職願意讓出多少而定，<br/>\n所以就算正副二人不同黨也不影響施政。\t\t</div>",
+      "date": "2023-11-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708134",
+      "is_folded": false,
+      "answerer": {
+        "username": "yeuoneo",
+        "uid": "11686"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t觉得州长和副州长分开竞选是较早的做法，就像美国总统和副总统以前也是分开选举一样。\t\t</div>",
+      "date": "2023-11-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708143",
+      "is_folded": false,
+      "answerer": {
+        "username": "总得说两句",
+        "uid": "112835"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t加利福尼亚是深蓝州，共和党很难涉足。最近的一次共和党州长，就是施瓦辛格了。\t\t</div>",
+      "date": "2023-11-26",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1228279",
+          "replier": {
+            "username": "Guelph",
+            "uid": "119408"
+          },
+          "date": "2023-11-26",
+          "content": "如果是摇摆州，就可能出现民主党是州长，共和党是副州长"
+        },
+        {
+          "id": "1228340",
+          "replier": {
+            "username": "yeuoneo",
+            "uid": "11686"
+          },
+          "date": "2023-11-26",
+          "content": "@Guelph:  目前北卡州是这种情况，州长民主党，副州长共和党。路易斯安那州本来也是这种情况，但明年就不是了。"
+        }
+      ]
+    },
+    {
+      "id": "708120",
+      "is_folded": true,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t加州的选民喜欢这样搞，你管得着吗？本洞建议你还是先搞到加州的选民权，再来考虑这些事情。\t\t</div>",
+      "date": "2023-11-26",
+      "agree_count": -1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1228234",
+          "replier": {
+            "username": "Guelph",
+            "uid": "119408"
+          },
+          "date": "2023-11-26",
+          "content": "已删除"
+        },
+        {
+          "id": "1228237",
+          "replier": {
+            "username": "屠支大佐毛遮洞",
+            "uid": "107972"
+          },
+          "date": "2023-11-26",
+          "content": "@Guelph:本洞之前的回复对于加州以外的美籍人士同样适用"
+        },
+        {
+          "id": "1228243",
+          "replier": {
+            "username": "yeuoneo",
+            "uid": "11686"
+          },
+          "date": "2023-11-26",
+          "content": "这种纯粹呛人的回答有什么意义？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "question_id": "69955",
+  "category_id": "4",
+  "title": "请问13代14代的intel笔记本cpu有问题吗？",
+  "meta_description": "请问13代14代的intel笔记本cpu有问题吗？ - 最近打算搞台笔记本，听说13代14代intel的cpu台式版本的有蓝屏问题，有人说是intel电压给的太高，后续能刷bios解决。还有人说是intel的工艺出了问题，cpu有氧化问题。 我想问13代14代intel的i7和i9的笔记本端也就是hx结尾的型号...",
+  "meta_keywords": "请问,13代,14代,intel,笔记本,cpu",
+  "tags": [
+    {
+      "id": "100734",
+      "name": "英特尔"
+    },
+    {
+      "id": "102299",
+      "name": "笔记本"
+    },
+    {
+      "id": "106459",
+      "name": "Intel"
+    },
+    {
+      "id": "109991",
+      "name": "cpu"
+    }
+  ],
+  "author": {
+    "username": "自由与革命",
+    "uid": "52678"
+  },
+  "view_count": 4542,
+  "date": "2024-09-10",
+  "agree_count": 1,
+  "discussion_count": 10,
+  "discussions": [
+    {
+      "id": "1066255",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2024-09-10",
+      "content": "amd真香\n如果你不跑x86应用程序的话大可搞个arm本"
+    },
+    {
+      "id": "1066256",
+      "replier": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "date": "2024-09-10",
+      "content": "@rowlandheights:amd适配性怎么样？我听说可能有的软件兼容性会有点问题？最近有点手痒，想下几个游戏玩玩，就想稳定点用电脑，实在是不想折腾了。"
+    },
+    {
+      "id": "1066257",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2024-09-10",
+      "content": "@自由与革命: 除了个别软件以外没听说适配性问题，你看看你常用的生产力工具，有没有人抱怨AMD有问题，没有就大胆用AMD吧"
+    },
+    {
+      "id": "1066258",
+      "replier": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "date": "2024-09-10",
+      "content": "已删除"
+    },
+    {
+      "id": "1066259",
+      "replier": {
+        "username": "cn2024",
+        "uid": "134826"
+      },
+      "date": "2024-09-10",
+      "content": "转AMD没必要。\n新款我没有，旧款我有AMD 5600X 和 Intel 11400\n前者是台式机搭一个3050，后者是笔记本3070\n我几乎不打游戏不怎么用到显卡，都是在写代码\n我认为intel比amd要强，推荐Intel吧\n不过买笔记本一定要留意bios里面的高级选项能不能用\n有些笔记本把bios高级选项给屏蔽了，千万要注意"
+    },
+    {
+      "id": "1066260",
+      "replier": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "date": "2024-09-10",
+      "content": "@rowlandheights:请问intel的ultra系列cpu怎么样？"
+    },
+    {
+      "id": "1066261",
+      "replier": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "date": "2024-09-10",
+      "content": "@cn2024:听说今年13代14代intel cpu暴雷了，真心有点怕，请问暴雷的批次到底包不包括笔记本？我听有的人说，因为hx系列是台式的k系列改的，所以如果k系列有问题hx可能也有问题。"
+    },
+    {
+      "id": "1066262",
+      "replier": {
+        "username": "v50看实力",
+        "uid": "127380"
+      },
+      "date": "2024-09-10",
+      "content": "真有钱v🐀🐀50吃顿肯德基"
+    },
+    {
+      "id": "1066263",
+      "replier": {
+        "username": "cn2024",
+        "uid": "134826"
+      },
+      "date": "2024-09-10",
+      "content": "@自由与革命: 选自己喜欢的吧~ 已经有个回复说得很明确了。大部分问题都是超频超出来的"
+    },
+    {
+      "id": "1066265",
+      "replier": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "date": "2024-09-10",
+      "content": "@v50看实力:第一次被人觉得玩个电脑算有钱（笑）。\n我以前听人说大富玩表，小富玩车，屌丝玩电脑。大富大贵不敢想，还是祝您早日拥有一个自己的最新90系显卡。"
+    }
+  ],
+  "answer_count": 3,
+  "content": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t最近打算搞台笔记本，听说13代14代intel的cpu台式版本的有蓝屏问题，有人说是intel电压给的太高，后续能刷bios解决。还有人说是intel的工艺出了问题，cpu有氧化问题。<br/>\n我想问13代14代intel的i7和i9的笔记本端也就是hx结尾的型号有问题吗？如果有问题intel的ultra处理器怎么样，还是说转战amd会更好？\t\t\t\t\t\t\t</div>"
+}

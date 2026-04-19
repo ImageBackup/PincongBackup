@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "60893",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "680133",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不错的建议<br/>\n<br/>\n不过颠覆共产党还是要有专业人事研究这个<br/>\n<br/>\n普通人可以跳过直接去天安门\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1199986",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-08-15",
+          "content": "在不知道该支持谁的情况下去天安门，俗称炮灰"
+        },
+        {
+          "id": "1199988",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-08-15",
+          "content": "去看升旗也行, 没让你去颜色革命\n(万一就机会顺手我也不反对)"
+        }
+      ]
+    }
+  ]
+}

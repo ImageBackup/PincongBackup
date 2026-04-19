@@ -1,0 +1,305 @@
+{
+  "parent_type": "question",
+  "parent_id": "65945",
+  "answer_count": 17,
+  "answers": [
+    {
+      "id": "734040",
+      "is_folded": false,
+      "answerer": {
+        "username": "cybermage",
+        "uid": "29130"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t写文章是否有条理跟语言无关，因为有条理的文章结构总是相似的，无论什么语言都差不多。<br/>\n<br/>\n就俺自己来说，提高自己语言条理性最好的方法就是模仿ChatGPT的说话方式。只要跟它交流一下，您就明白清晰的表达方式是什么样了。不必非要使用付费的gpt4，gpt3.5也可以。<br/>\n<br/>\n俺自己总结的经验就是多分段落。每一段讲一件事，每段之间有空行。这样方便阅读。另外，每一段最好采用“总分”或者“分总”结构。至少在开头或者结尾概括一下这一段的中心思想。<br/>\n<br/>\n此外，把关键词标注出来也是一个提高文章清晰性的好办法。编程随想喜欢使用【方括号】来标注关键字，而ChatGPT喜欢<b>加粗</b>。这些都是好办法。<br/>\n<br/>\n跑题一下，墙国的语文教育做的很糟糕的一点就是过分强调“散文”之类的抒发情绪的文章的阅读，而对“科技文章”和“议论文”的阅读理解较少。这让很多学生根本接触不到有条理的行文方法。这可能也是墙国人表达水平低的原因之一。\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1251419",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2024-03-17",
+          "content": "不会吧，没ChatGPT之前你就不会好好写文章了？"
+        },
+        {
+          "id": "1251436",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2024-03-17",
+          "content": "@李瑞环:模仿ChatGPT提高了俺的表达能力，这不代表在使用ChatGPT之前俺的表达能力写不了文章。您理顺这里的逻辑了吗？"
+        }
+      ]
+    },
+    {
+      "id": "734409",
+      "is_folded": false,
+      "answerer": {
+        "username": "熱帶魚",
+        "uid": "120269"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t我覺得你可以嘗試改變一下你現有的語句結構。例如你這個標題就有很大的優化空間。<br/>\n<br/>\n<br/>\n請問我發現我發文字毫無邏輯，還是說中文毫無邏輯？<br/>\n<br/>\n<br/>\n「請問」這個結構，後面一般是直接連接問題。<br/>\n請問你現在有空嗎？請問機場的路怎麼走？請問中文有沒有邏輯？等等。<br/>\n<br/>\n但是你在後面還在說明條件，並不是一個直接的問題。如果要補充情況，那麼「請問」後面應該補充標點符號。<br/>\n<br/>\n<br/>\n「我發現我發文字毫無邏輯」，這裡面的狀態描述並不清晰。<br/>\n<br/>\n一種理解是，我發現我發<i>的</i>文字毫無邏輯。<br/>\n另一種理解是，我發現我發文字<i>時</i>毫無邏輯。<br/>\n<br/>\n如果是前一種理解，這是我發的「文字」毫無邏輯。而另一種理解，則是「我」沒有邏輯。兩者的對象是不同的。只要補充一個字，內容就會變得更清晰。<br/>\n<br/>\n<br/>\n「還是說中文毫無邏輯？」<br/>\n<br/>\n如果是「我」沒有邏輯，那麼當然就是「我」沒有邏輯了。但是你接下來導向的是，會不會是這種文字本身的問題，是否是使用這種文字會導致邏輯無法形成。如果你用「中文毫無邏輯」這種描述，那麼中間會失去大量的信息。並非「中文沒有邏輯」，而是「中文會使使用者形成邏輯」。這兩者是不同的。你可以考慮使用「使用中文無法形成邏輯」這種說法。<br/>\n<br/>\n但是，這就和「……，還是……？」這種表達衝突。因為「我發文字時毫無邏輯」和「中文導致我沒有邏輯」的關係是共同的。並非中文導致我沒有邏輯，我發文字時就能有邏輯。也或者並非中文導致我沒有邏輯，我發的文字發文就能有邏輯。這是一個必然的導向。這不是「……，還是……？」這種二選一的關係。如果要成立，那麼你還需要把「我」作為條件加進去。「我發現我的文字發文毫無邏輯。到底是我，還是中文毫無邏輯？」這樣才通順，否則「還是」這個用法是異常的。<br/>\n<br/>\n<br/>\n我提供一個建議。「請問我發現我發文字毫無邏輯，還是說中文毫無邏輯？」<br/>\n<br/>\n可以修改為<br/>\n「我發現我發的文字毫無邏輯。請問這是否是中文的問題？」<br/>\n「我發現我發的文字毫無邏輯。請問這是我還是中文的問題？」<br/>\n「請問，我發現我發的文字毫無邏輯，這是我還是中文的原因？」<br/>\n<br/>\n如果你的思路是以<br/>\n「如果我不是用中文去發，我的文字就能有邏輯。」<br/>\n從而得出<br/>\n「請問，這是『我發的文字毫無邏輯』，還是『中文毫無邏輯』」<br/>\n這種思維對於我來說，雖然能夠理解，但是會覺得很奇怪。因為你過去發的文字已經是既成的事實。現在即使證明這種毫無邏輯是中文導致的，這也不會改變你過去的文字毫無邏輯的事實。如果你要用「中文毫無邏輯」去證明「我發的文字有邏輯」，那麼這將會是【超時空打擊】。這是一種潛在的意識，企圖抹殺過去，尋找一個原因去證明，自己過去的錯誤是不存在的。這是中共的慣用把戲。你可能已經被這種思維感染了。用「請問我發現我發文字毫無邏輯，還是說中文毫無邏輯？」這種問題的方式。只要證明是「中文毫無邏輯」，那麼「我發的文字」就有邏輯了。<br/>\n<br/>\n我對此感到困惑。\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2024-03-16",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1251279",
+          "replier": {
+            "username": "白衣黑旗除共军",
+            "uid": "103874"
+          },
+          "date": "2024-03-16",
+          "content": "在品葱发问题必须以请问或者为什么开头哈哈"
+        }
+      ]
+    },
+    {
+      "id": "734050",
+      "is_folded": false,
+      "answerer": {
+        "username": "okamiyu",
+        "uid": "81756"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你的问题。<br/>\n<br/>\n<b>你们比如看平时我发的内容都是</b><br/>\n这句话是有问题的，我们知道你想表达什么所以不计较而已，<br/>\n<br/>\n就像很多外国人对待外语不熟练的国人的一样。<br/>\n他们知道你想说什么也就不纠结你表达的问题。<br/>\n你能怪是外语的逻辑性差吗，只能说你外语的水平差<br/>\n母语同理。\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1251008",
+          "replier": {
+            "username": "白衣黑旗除共军",
+            "uid": "103874"
+          },
+          "date": "2024-03-14",
+          "content": "你们是我的家人"
+        }
+      ]
+    },
+    {
+      "id": "734041",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t承认自己是学渣这么难吗？自己语文没学好，能怪到中文头上？\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734057",
+      "is_folded": false,
+      "answerer": {
+        "username": "衝浪TV",
+        "uid": "124941"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中文本身是門劣等垃圾語言,但還有中共對這門語言的新語化污染,中文這門幾乎語言完美代表了<mark>支那</mark>這個民族,本身就深受幾千年封建帝制文化背景毒害,好不容易到了近代,又被一個外來的中共馬列主義政權殖民了\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734053",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中文本身就是垃圾，什么都表达不清楚，字词意思暧昧，无逻辑，容易产生误会\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734104",
+      "is_folded": false,
+      "answerer": {
+        "username": "重新出發",
+        "uid": "121832"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前老師跟我們講過一個笑話：<br/>\n男孩寫情書給心儀的女孩，那個女孩看到第一句話就拒絕男孩了。第一句話是：我是個性開放的男生。那女的解讀錯了<br/>\n中文最大的問題是容易讓人玩諧音諧義，且同一句話不同語序能解讀出不同意思。我認為造成這樣結果的原因其中之一就是方便統治者玩文字遊戲，春秋的所謂微言大義不就是這樣嗎？<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvNjk2M2Y1MTM3Yzk2ZmJlMWI4YmFmLmpwZz93aWR0aD0xMDE4JmhlaWdodD03MDM\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/6963f5137c96fbe1b8baf.jpg?width=1018&amp;height=703\"><img alt=\"https://telegra.ph/file/6963f5137c96fbe1b8baf.jpg?width=1018&amp;height=703\" loading=\"lazy\" src=\"https://telegra.ph/file/6963f5137c96fbe1b8baf.jpg?width=1018&amp;height=703\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2024-03-14",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1251004",
+          "replier": {
+            "username": "gwenqwer",
+            "uid": "120196"
+          },
+          "date": "2024-03-14",
+          "content": "日文谐音梗更多。。。这个取决于大家是不是喜欢这种冷笑话。"
+        },
+        {
+          "id": "1251009",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2024-03-14",
+          "content": "需要一台独立的服务器"
+        }
+      ]
+    },
+    {
+      "id": "734036",
+      "is_folded": false,
+      "answerer": {
+        "username": "rampage",
+        "uid": "123646"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一般發文字毫無邏輯的都不是文字的問題，而是人本身沒有邏輯\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734116",
+      "is_folded": false,
+      "answerer": {
+        "username": "黑桃花树",
+        "uid": "125825"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你还是发英文贴吧 我也能看懂，中文你没在大陆生活过 你讲不明白的 大陆和台湾交流都有代沟别说你了\t\t</div>",
+      "date": "2024-03-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734385",
+      "is_folded": false,
+      "answerer": {
+        "username": "华夏共和国",
+        "uid": "120258"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t两方面都有。逻辑像自由民主一样，都是西方的产物，中国自己是没有的，只能去西方搬运。学了逻辑会好一点。\t\t</div>",
+      "date": "2024-03-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734420",
+      "is_folded": false,
+      "answerer": {
+        "username": "总得说两句",
+        "uid": "112835"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可能是你的文字太口语化了。<br/>\n在这也不是发表什么论文，能看懂就行吧。大家能看懂就说明总体逻辑还行。<br/>\n这里毕竟是汉语论坛，你发英文还有意义吗？那些让你改用英文在这发帖的，那才叫“没逻辑”。\t\t</div>",
+      "date": "2024-03-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734525",
+      "is_folded": false,
+      "answerer": {
+        "username": "長生劍白玉京",
+        "uid": "114596"
+      },
+      "contents": "<div class=\"markitup-box\">\n<ul><li>有时候看到自己或者别人回复的那种断句不同、意思也不同的话，我都要结合语境想一下，别人说的到底是这个意思，还是那个意思，我想表达的意思别人又是否能理解到。</li><li>但是一句话不同意思却都是符合语境的，搞的我每次回复前都要考虑一下，回复完还要担心回复得对不对。</li><li>聊天好累。也可能是我聊天少，不会聊天，反应慢吧</li></ul> </div>",
+      "date": "2024-03-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734034",
+      "is_folded": false,
+      "answerer": {
+        "username": "sjb111",
+        "uid": "125704"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就遵循正常的主谓宾逻辑就好了，也没必要太认真哦，中英文都差不多，都可以\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734526",
+      "is_folded": false,
+      "answerer": {
+        "username": "L的第三声",
+        "uid": "48818"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国很多人语言表达都有问题，其实跟语文课也有关，还是中国教育的问题。\t\t</div>",
+      "date": "2024-03-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734032",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我上品蔥主要是上來玩和打發時間，我感覺上來品蔥沒必要太認真\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734064",
+      "is_folded": false,
+      "answerer": {
+        "username": "amidate",
+        "uid": "114605"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tz之前在网上看到过一篇关于各国语言进化的过程，每个国家的语言都有他独有的特点跟进化逻辑。中文从象形文字开始，日语是唐代引进了汉字在与本土的语言结合形成了现在的。还有希腊语的进化，传入其他国家被当地吸收进化，形成另一种文字。<br/>\n<br/>\n我觉得一种文字形成了这么久，每个人都能运用它去说，还是需要去了解每种文字本身的含义，才会表达更准确。综上，确实是需要练习的，应该是个人的问题\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1250967",
+          "replier": {
+            "username": "重新出發",
+            "uid": "121832"
+          },
+          "date": "2024-03-14",
+          "content": "有道理。中文如果有可能造成誤會的說法，可以設法讓想表達的更完善"
+        },
+        {
+          "id": "1250989",
+          "replier": {
+            "username": "amidate",
+            "uid": "114605"
+          },
+          "date": "2024-03-14",
+          "content": "@重新出發:是的，我以前也有过表述不清楚，后来多经历了一些工作，已经转变了很多了"
+        }
+      ]
+    },
+    {
+      "id": "734039",
+      "is_folded": true,
+      "answerer": {
+        "username": "fjsjxj",
+        "uid": "125748"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-03-13",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

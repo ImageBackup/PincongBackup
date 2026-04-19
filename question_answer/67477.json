@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "67477",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "749584",
+      "is_folded": false,
+      "answerer": {
+        "username": "兰直礼橙英",
+        "uid": "129203"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t做不到。现代互联网设计上是高度去中心化的，并不存在一个发号施令的根节点。要想彻底阻断中国和世界其他地方的互联网，什么卫星手段都没用，最好的方法是让所有和中国有物理连接的国家切断和中国的连线，除了海底光缆日韩东南亚俄罗斯xxx斯坦之类的都要配合才行。软一点的办法也有，那就是叫所有国家拒绝路由来自中国的ip地址的包裹。但这都需要数十个国家的配合。可以看一下 <a href=\"url/link/aHR0cHM6Ly93d3cuc3VibWFyaW5lY2FibGVtYXAuY29tLw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.submarinecablemap.com/\">海底光缆地图</a> 就知道互联网的连接有多密集了。<br/>\n顺带一提，中国人，或者说非程序员群体总对互联网的健壮性缺乏一些了解，他们总能从一些道听途说的概念（根服务器、IP协议、无线协议如wifi/XG等）看到危险或者大赢特赢。有的时候真的很无语。\t\t</div>",
+      "date": "2024-05-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749565",
+      "is_folded": false,
+      "answerer": {
+        "username": "Toma2018",
+        "uid": "124318"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那可能比物理圖支還要麻煩<br/>\n建議還是直接來吧\t\t</div>",
+      "date": "2024-05-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

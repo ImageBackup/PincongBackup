@@ -1,0 +1,147 @@
+{
+  "parent_type": "question",
+  "parent_id": "60599",
+  "answer_count": 10,
+  "answers": [
+    {
+      "id": "677129",
+      "is_folded": false,
+      "answerer": {
+        "username": "lmm949",
+        "uid": "40814"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t包子那天开会把你架出去你怎么想的啊涛子，阿三大苏打大苏打大苏打撒旦\t\t</div>",
+      "date": "2023-08-07",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677186",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最轻量级的不就是wireguard，记得用IPV6模式，紫薯补丁紫薯补丁紫薯补丁紫薯补丁\t\t</div>",
+      "date": "2023-08-07",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677167",
+      "is_folded": false,
+      "answerer": {
+        "username": "近平摔进悬崖",
+        "uid": "113146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t您对习包子的淳淳教诲依然回绕我们心间：胖娃啊，你爹要是还活着，看到你把你胡叔叔扔出去不得把你打死啊\t\t</div>",
+      "date": "2023-08-07",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677124",
+      "is_folded": false,
+      "answerer": {
+        "username": "Dainslef",
+        "uid": "17714"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t絕大多數歐美大廠VPN均會支援Linux系統，部署操作很簡單。<br/>\n<br/>\n諸如，<br/>\nNordVPN：https://nordvpn.com/download/linux<br/>\nExpressVPN：https://www.expressvpn.com/vpn-software/vpn-linux<br/>\n<br/>\n不過這些大廠的VPN並非專為翻牆設計，相對而言穩定性欠佳。<br/>\n<br/>\n有條件的話還是推薦Clash搭配自建服務器。\t\t</div>",
+      "date": "2023-08-07",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1197214",
+          "replier": {
+            "username": "realm",
+            "uid": "18971"
+          },
+          "date": "2023-08-07",
+          "content": "NordVPN万年黑，特别垃圾。\n用了几个月，还是靠推特上的客服私信给可用的拨号服务器地址才用了几个月。\n浪费了几百块钱。"
+        }
+      ]
+    },
+    {
+      "id": "677214",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t试试protonvpn，在大陆没法用，但是香港也许可以。都不用装软件，直接配置成openvpn就可以了。\t\t</div>",
+      "date": "2023-08-07",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677248",
+      "is_folded": false,
+      "answerer": {
+        "username": "忧乐为天下",
+        "uid": "23699"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://www.pincong.rocks/article/58958<br/>\n<br/>\n<br/>\n五、Linux系统的电脑（请用谷歌浏览器或火狐打开。打不开尝试刷新或换时段登陆。）：<br/>\n<br/>\nhttps://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95\t\t</div>",
+      "date": "2023-08-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677245",
+      "is_folded": false,
+      "answerer": {
+        "username": "ange001",
+        "uid": "74420"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t紫薯補丁，<br/>\nclash v2ray x ray. ssr. 很多～～只要你有機場號就行。工具多得很～～～～～～～～紫薯補丁\t\t</div>",
+      "date": "2023-08-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "681749",
+      "is_folded": false,
+      "answerer": {
+        "username": "ypPscEzbo",
+        "uid": "102254"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tclash core就行，开源安全可以自己编译，如果要切换节点可以加上clash-dashboard(yacd也可以)\t\t</div>",
+      "date": "2023-08-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677187",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a href=\"url/link/aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5qcnpoZW5nLnN1cGVydnBuZnJlZQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://play.google.com/store/apps/details?id=com.jrzheng.supervpnfree\">https://play.google.com/store/apps/details?id=com.jrzheng.supervpnfree</a> </div>",
+      "date": "2023-08-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677230",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t【cloudflare WARP】<a href=\"url/link/aHR0cHM6Ly8xLjEuMS4xLw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://1.1.1.1/\">https://1.1.1.1/</a><br/>\n<br/>\nlinux下的ss、V2ray、clash、sing-box一类的机场翻墙工具比较丰富，节点什么的，可以从网上提取<br/>\n<a href=\"url/link/aHR0cHM6Ly9naXRodWIuY29tL2ZyZWVmcS9mcmVl\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://github.com/freefq/free\">https://github.com/freefq/free</a><br/>\n<a href=\"url/link/aHR0cHM6Ly9naXRodWIuY29tL1Bhd2Ryb2lkL1NoYWRvd1NoYXJl\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://github.com/Pawdroid/ShadowShare\">https://github.com/Pawdroid/ShadowShare</a> </div>",
+      "date": "2023-08-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

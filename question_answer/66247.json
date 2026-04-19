@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "66247",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "737270",
+      "is_folded": false,
+      "answerer": {
+        "username": "Citoyen",
+        "uid": "125726"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你能制裁个啥？你是习近平还是七个大大？<br/>\n没有西方秩序输入，贵支在八十年代就开始流民战争了<br/>\n一个乞丐刚了顿饱饭就想跟富豪平起平坐，真是搞笑\t\t</div>",
+      "date": "2024-03-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "737271",
+      "is_folded": true,
+      "answerer": {
+        "username": "民人",
+        "uid": "108220"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-03-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

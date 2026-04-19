@@ -1,0 +1,136 @@
+{
+  "parent_type": "question",
+  "parent_id": "68123",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "756078",
+      "is_folded": false,
+      "answerer": {
+        "username": "宋钟基",
+        "uid": "131021"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t品牌方面，AOC,三星都可以<br/>\n参数方面，4K,HDR 600至1000。<br/>\n不要买网红或明星推荐的。<br/>\nHDR的亮度低于500都是SDR级别。\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "756075",
+      "is_folded": false,
+      "answerer": {
+        "username": "图拉丁大神",
+        "uid": "131208"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看你用途，办公就是戴尔U系列，游戏的话看看AOC爱攻即可\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "756087",
+      "is_folded": false,
+      "answerer": {
+        "username": "GGboy886",
+        "uid": "131032"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tx显示屏想要便宜就买Skyworth，然后AOC，三星，华硕。如果你本机分辨率是2560x1920直接买2k\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "756100",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t当然还是那几个老牌子<br/>\n俺是用的AOC<br/>\n<br/>\n需不需要HDR看自己 不要选择HDR400的显示器<br/>\n有预算可以上miniLED\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1273020",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-06-25",
+          "content": "打游戏多少寸比较好"
+        },
+        {
+          "id": "1273021",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2024-06-25",
+          "content": "@洼地后觉:27"
+        }
+      ]
+    },
+    {
+      "id": "756102",
+      "is_folded": false,
+      "answerer": {
+        "username": "當反賊才能進步",
+        "uid": "122992"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t買 OLED<br/>\n顏色漂亮<br/>\n低亮度時.不色偏<br/>\n也不傷眼力<br/>\n<br/>\nLED背光的<br/>\n真的很刺眼\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "756105",
+      "is_folded": false,
+      "answerer": {
+        "username": "Okabe2024",
+        "uid": "126440"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tSceptre或NEC、LG、eizo、viewsonic、packard bell、hp、dell、gateway、acer、asus都可以。若不讲就一定要IPS还有画质与刷新率的话eizo跟gateway是好选择的\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "756300",
+      "is_folded": false,
+      "answerer": {
+        "username": "疯狂宇宙的今麦郎",
+        "uid": "116959"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t首选三星，LG，明基<br/>\n其次就是二线主流，要结合参数看，刷新率，分辨率，什么屏之类的，显示器这种感受差异比较大，使用频率高的，建议买好点\t\t</div>",
+      "date": "2024-06-25",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1273023",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-06-25",
+          "content": "你一般用多少寸的"
+        },
+        {
+          "id": "1273024",
+          "replier": {
+            "username": "疯狂宇宙的今麦郎",
+            "uid": "116959"
+          },
+          "date": "2024-06-25",
+          "content": "@洼地后觉:两块27寸"
+        }
+      ]
+    }
+  ]
+}

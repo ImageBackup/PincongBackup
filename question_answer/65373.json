@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "65373",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "728161",
+      "is_folded": false,
+      "answerer": {
+        "username": "秋暮林影溪",
+        "uid": "123042"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不发最新的问题 我说这个可能不安全 就是这样 没有别的\t\t</div>",
+      "date": "2024-02-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "728163",
+      "is_folded": false,
+      "answerer": {
+        "username": "知不知所以然",
+        "uid": "123451"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t要深究的话，国歌也也辱中国共产党，中国鬼子天天唱也不觉得恶心。\t\t</div>",
+      "date": "2024-02-16",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1245738",
+          "replier": {
+            "username": "秋暮林影溪",
+            "uid": "123042"
+          },
+          "date": "2024-02-16",
+          "content": "国歌毕竟代表PRC 国际歌有些不同"
+        }
+      ]
+    },
+    {
+      "id": "728293",
+      "is_folded": true,
+      "answerer": {
+        "username": "Abele",
+        "uid": "123394"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t法语版的很多人都听不懂吧，效果不太明显，建议还是中文版。\t\t</div>",
+      "date": "2024-02-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

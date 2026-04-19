@@ -1,0 +1,117 @@
+{
+  "parent_type": "question",
+  "parent_id": "53945",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "607312",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t删除了其实数据并没有消失，<br/>\n而是只是打上了允许写入标记，下次写新数据的时候写到这一区块的时候新数据写入就会覆盖原数据。<br/>\n<br/>\n恢复文件其实就是查看了文件分配表，然后去对应区块把数据读出来而已。\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607323",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t简单的解释<br/>\n硬盘或者ssd是记录数据的硬件<br/>\n上面的数据是按照一种叫文件系统的规则来安排<br/>\n你可以把它想象成图书馆,分为索引和书籍两种数据<br/>\n删除为了速度一般都是把索引删掉这样只要扫描图书馆还是可以找到这本书<br/>\n<br/>\n这种恢复技术很简单, 党国吓唬你们的噱头, 更高明的党国也未必知道(从武汉病毒所基因测序仪上面搞到数据就厉害的多)<br/>\n<br/>\n防范有很多办法, 低级格式化太古老你未必肯用, 简单的把硬盘删掉以后塞满别的数据就基本无法恢复(好像图书馆换了库存)\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607315",
+      "is_folded": false,
+      "answerer": {
+        "username": "Jero",
+        "uid": "4525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t信息永远不会被消灭掉,但是你可以通过破坏载体,致使信息恢复为可用状态的成本高到无法接受<br/>\n<br/>\n一般的数据恢复就是信息写到硬盘上,只是简单删除,删除了文件的索引,没有用无意义的东西覆写<br/>\n<br/>\n你把硬盘覆盖写入几次,然后砸掉硬盘,就没办法恢复了<br/>\n<br/>\n这太麻烦了,所以记得要对信息加密,与其关心紧急状态下怎么销毁不如好好考虑下怎么加密<br/>\n有很多加密软件开源的你可以试试\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607320",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 任何存儲被覆蓋都是無法恢復的, 能恢復的都是沒做覆蓋. 目前最佳做法除了物理破壞介質, 就是隨機填充的程序或 APP. 強加密且妥善保管密鑰只供一方訪問, 對別人足夠長期限無意義值得提倡.<br/>\n<br/>\n信息論角度: 狀態改變必然伴隨能量轉移, 可以認爲信息不滅. 但能否被訪問和人是否能訪問就是另一件事了.\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607598",
+      "is_folded": false,
+      "answerer": {
+        "username": "一個東方人",
+        "uid": "95125"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t把硬盘放微波炉里是最安全的销毁方法，没有任何取证手段能从中恢复数据，而且这种方法是紧急情况下速度最快的。<br/>\n要是存储设备在物理销毁前就被收缴了，也可以提前编程在解密失败时触发数据擦除，用DoD 5250.22M标准将数据覆写三遍，中国应该没有技术恢复元数据，可以被视为够安全了。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1133429",
+          "replier": {
+            "username": "efswefewfwg",
+            "uid": "90065"
+          },
+          "date": "2022-12-07",
+          "content": "金属制的东西你放微波炉里面。 。 。"
+        },
+        {
+          "id": "1133430",
+          "replier": {
+            "username": "一個東方人",
+            "uid": "95125"
+          },
+          "date": "2022-12-07",
+          "content": "@efswefewfwg:从未见过由全金属包裹的电脑或硬盘。"
+        }
+      ]
+    },
+    {
+      "id": "607313",
+      "is_folded": false,
+      "answerer": {
+        "username": "tunashaha",
+        "uid": "104836"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要硬盘不是物理损坏，都是可以恢复的，无非就是看数据的价值大小判断\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607319",
+      "is_folded": false,
+      "answerer": {
+        "username": "efswefewfwg",
+        "uid": "90065"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有看过硬盘资讯救援的服务吧　<br/>\n其实硬盘资料删掉是有可能逆向复原的<br/>\n就好像情报部门把碎纸机裁切的碎纸给拼回去一样<br/>\n所以要回收硬盘的时候通常得用专门软件擦写好几次才能删的干净<br/>\n当然最好的办法就是对物质本身进行销毁<br/>\n就如同纸质文件，烧掉扔马桶冲掉才是最好的销毁方式\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

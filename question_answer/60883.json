@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "60883",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "680012",
+      "is_folded": false,
+      "answerer": {
+        "username": "yoggpincong",
+        "uid": "29056"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怕不是自己查一下移民局官网，都比这小破留言板来的快。<br/>\n起码CA的IRCC，每种签证要求写的很明确，申请系统必须材料都有对应的上传栏\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1199861",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-08-15",
+          "content": "不是移民，是留学，下载申请表的领事馆页面也没写怎么提交"
+        }
+      ]
+    },
+    {
+      "id": "680036",
+      "is_folded": false,
+      "answerer": {
+        "username": "top1357",
+        "uid": "52402"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一通電話就能解決，直接問對方就好，真的不難真的不難\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

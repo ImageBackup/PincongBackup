@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "61279",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "683956",
+      "is_folded": false,
+      "answerer": {
+        "username": "莉莉粒粒",
+        "uid": "115726"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大概率是VPN的問題，我掛VPN用小號上推也會這樣，通常通過一下驗證就好了。推特沒有給你解除suspension的選項嗎？\t\t</div>",
+      "date": "2023-08-28",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "683969",
+      "is_folded": false,
+      "answerer": {
+        "username": "重庆强",
+        "uid": "111825"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我注册脸书也这样。被封了好几个号。前几天又试了，突然注册成功了，不知道为什么。推特也一样。很神奇。应该是翻墙软件的原因\t\t</div>",
+      "date": "2023-08-28",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

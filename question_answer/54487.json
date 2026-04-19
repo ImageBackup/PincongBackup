@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "54487",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "612806",
+      "is_folded": false,
+      "answerer": {
+        "username": "fairprice",
+        "uid": "99531"
+      },
+      "contents": "<div class=\"markitup-box\">\n<b>简单回答：服务器的数据会一直保留，查不查要看你是不是值得被查</b><br/>\n<br/>\n以2017年前的逻辑，号码回收实质是一种登录冻结，而非彻底的删除、释放，所以数据默认会一直保留着，只不过腾讯不配合的话，没有人能够访问。另外，非会员保留最近7天的聊天记录，会员可以保留数月或数年的记录，但这是以你与某个人最后一次聊天的时间来计算的，而空间、邮箱等的数据会被一直完整封存<br/>\n<br/>\n欧洲GDPR对于个人数据是规定了被遗忘权的，也就是说帐号被注销或删除，相应的物理数据也要被完全删除，如果发现哪个公司违规了，可以去起诉他们。但在中国，虽然也有数据安全相关的法律法律，哎…\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1137516",
+          "replier": {
+            "username": "不要吃饭要核酸",
+            "uid": "101528"
+          },
+          "date": "2022-12-22",
+          "content": "用户那么多应该不会永久保留吧？我想。虽然硬盘不算贵。"
+        },
+        {
+          "id": "1137550",
+          "replier": {
+            "username": "fairprice",
+            "uid": "99531"
+          },
+          "date": "2022-12-22",
+          "content": "@不要吃饭要核酸: 中国没有有效的规定，所以不能从法的层面讨论应不应该；技术层面，就是因为用户多，边际成本没那么显著，它才不介意多一个用户还是少一个用户呢；况且按10亿用户、平均每人100MB存储来计算，也不过90多PB，这点存储空间相对于日增量PB级的各种事务数据而言根本不算什么"
+        }
+      ]
+    },
+    {
+      "id": "612647",
+      "is_folded": false,
+      "answerer": {
+        "username": "习DarkDark",
+        "uid": "99138"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你发的色图不会保留 (节哀)<br/>\n<br/>\n文字聊天记录不好说 我倾向于不保留 (如果你不是重点监控对象)\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612825",
+      "is_folded": false,
+      "answerer": {
+        "username": "开门查水表",
+        "uid": "54821"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t聊天记录保存5年也差不多了吧，再久也没啥意义啊。<br/>\n党国要搞你，还用得着聊天记录吗？\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

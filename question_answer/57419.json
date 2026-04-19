@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "57419",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "646005",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t手机随时会跪，还是用TF卡比较好。物理结构越简单就越灵活😄\t\t</div>",
+      "date": "2023-04-06",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649293",
+      "is_folded": false,
+      "answerer": {
+        "username": "whdi2311",
+        "uid": "11796"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t冷钱包从开始就不能触网，最好是usb导入安装包，建议国外品牌非国行版android手机\t\t</div>",
+      "date": "2023-04-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "645995",
+      "is_folded": false,
+      "answerer": {
+        "username": "大棒槌",
+        "uid": "96114"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以呀，你用muun或者trust应该都不错。但是一定要备份，密钥除了手机，也要手写下来，放在别的地方，不然以后因为什么原因手机g了，你还有个备选方案\t\t</div>",
+      "date": "2023-04-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

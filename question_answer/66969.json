@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "66969",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "744696",
+      "is_folded": false,
+      "answerer": {
+        "username": "Punchit",
+        "uid": "79254"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t知道一个，轮系媒体新唐人电视台，新闻五人行https://www.ntdtv.com/b5/programs/ntd-five\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1261871",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2024-05-01",
+          "content": "这节目每次都是这五个人吧，不换嘉宾的吧？！"
+        }
+      ]
+    }
+  ]
+}

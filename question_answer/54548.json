@@ -1,0 +1,107 @@
+{
+  "parent_type": "question",
+  "parent_id": "54548",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "613128",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你再办张招商的信用卡，如果招商的能支付，那就是建行信用卡垃圾。如果招商也支付不了，那就是steam账号被风控了。<br/>\n<br/>\n存款放四大行没问题，但是信用卡就别用四大行的了。\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "613129",
+      "is_folded": false,
+      "answerer": {
+        "username": "xpking2",
+        "uid": "103042"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t現在steam在註冊地區購買的付款方式都是限制在該地區以內的<br/>\n這也是多虧了阿根廷雞人巴西雞人這些年一直破壞制度把規則玩壞的結果<br/>\n那怕是現在雞人黑卡盜刷國際飛人還不夠猖狂嗎<br/>\n還要怎麼寬鬆\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137654",
+          "replier": {
+            "username": "vsgsyahaha",
+            "uid": "91274"
+          },
+          "date": "2022-12-22",
+          "content": "是信用卡发卡商拒绝，不是steam拒绝，谢谢。"
+        }
+      ]
+    },
+    {
+      "id": "613141",
+      "is_folded": false,
+      "answerer": {
+        "username": "總加速濕",
+        "uid": "73156"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tsteam严禁跨区，跨高价区虽然没那么严格，但支付渠道也是受限的，国内的visa卡一搬是不行的。稍微学习一下挂卡，非促销期间还能8折余额\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137665",
+          "replier": {
+            "username": "vsgsyahaha",
+            "uid": "91274"
+          },
+          "date": "2022-12-22",
+          "content": "这张卡之前已经在台区买了几千块游戏了，不是steam的问题，steam支付已经通过了，是被银行拒绝的。"
+        }
+      ]
+    },
+    {
+      "id": "613160",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t高价区：美区、日区<br/>\n<br/>\n偏高价区：台区、港区、欧区<br/>\n<br/>\n低价区：大陆区<br/>\n<br/>\n最低价区：阿根廷和俄区。<br/>\n<br/>\n跨区支付不支持国内信用卡，微信支付仅限港区和国区。<br/>\n<br/>\n台区仅支持信用卡和贝宝。<br/>\n<br/>\n建议可以考虑转港区，支持微信支付，且大部分游戏不锁区。唯一缺点是价格偏高（你别想着什么便宜都占了好不，国区遭整也和一堆人转阿区有关系）<br/>\n<br/>\n俄区受到制裁后，大厂游戏全部锁了。<br/>\n<br/>\n<br/>\n国区主要锁黄油和政治题材游戏<br/>\n<br/>\n第三方游戏cs teon仅限美区（良心版csol）<br/>\n<br/>\n港区大部分游戏都不锁，价格比台区贵一些。<br/>\n<br/>\n日区对血腥暴力要求略严，审查很重，不推荐。<br/>\n<br/>\n韩区锁含有兽交的黄油。\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1137708",
+          "replier": {
+            "username": "vsgsyahaha",
+            "uid": "91274"
+          },
+          "date": "2022-12-23",
+          "content": "想着占便宜，会从国区到台区？？？？？"
+        },
+        {
+          "id": "1137713",
+          "replier": {
+            "username": "王匪沪宁",
+            "uid": "13988"
+          },
+          "date": "2022-12-23",
+          "content": "@vsgsyahaha: 既然不占便宜，那就建议转港区，台区需要的信用卡可能随政治变化起伏，你说你之前买了几千，但万一现在中国被制裁之内的有可能导致买不了，可以建议转港区，港区游戏和台区一模一样，还支持微信支付"
+        },
+        {
+          "id": "1137714",
+          "replier": {
+            "username": "王匪沪宁",
+            "uid": "13988"
+          },
+          "date": "2022-12-23",
+          "content": "@vsgsyahaha: 很多占便宜指又要贪低价、又要贪不锁区，还要支付方便，这不可能的。"
+        }
+      ]
+    }
+  ]
+}

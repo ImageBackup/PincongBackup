@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "67437",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "749209",
+      "is_folded": false,
+      "answerer": {
+        "username": "欽定匪軍經商",
+        "uid": "102983"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t也還沒有那個程度，因為臺灣實際上還有法院大法官的制衡，以及街頭上的群眾，沒那麼容易讓藍白匪諜為所欲為。只是藍白匪諜的程序搞得太惡心了，動作太大了，所有東西都不讓討論就硬搞，導致最後一天通過前都還沒人知道完整法案是什麼，這樣完全沒有程序正義可言，以後還有人相信牠們口中說的程序正義，公開透明嗎?這是部分臺灣民眾憤懣的原因。\t\t</div>",
+      "date": "2024-05-22",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749210",
+      "is_folded": true,
+      "answerer": {
+        "username": "justin_lee",
+        "uid": "28794"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-05-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "question_id": "67187",
+  "category_id": "4",
+  "title": "如何确保整个Windows虚拟机经过代理？",
+  "meta_description": "如何确保整个Windows虚拟机经过代理？ - 大概就是，我用vmware组装了一个win10虚拟机，如何才能让里面所有流量经过一个socks代理而不被绕过。这对于反贼来说是个要紧的问题，请各位认真回答，越详细越好",
+  "meta_keywords": "确保,整个,windows,虚拟机,代理",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "1086",
+      "name": "网络安全"
+    },
+    {
+      "id": "1993",
+      "name": "匿名"
+    }
+  ],
+  "author": {
+    "username": "iski_jiefang",
+    "uid": "128409"
+  },
+  "view_count": 6871,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t大概就是，我用vmware组装了一个win10虚拟机，如何才能让里面所有流量经过一个socks代理而不被绕过。这对于反贼来说是个要紧的问题，请各位认真回答，越详细越好\t\t\t\t\t\t\t</div>",
+  "date": "2024-05-10",
+  "agree_count": 3,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1060182",
+      "replier": {
+        "username": "iski_jiefang",
+        "uid": "128409"
+      },
+      "date": "2024-05-10",
+      "content": "补充，这个socks代理在主机或者其他NAT内网的设备上。"
+    },
+    {
+      "id": "1060201",
+      "replier": {
+        "username": "gratesque",
+        "uid": "23931"
+      },
+      "date": "2024-05-11",
+      "content": "认真读读 vmware 的说明书，关于网络那部分。当然，那需要有计算机网络的基本知识和能力，看你的用词，应该算是知晓。\n读不懂？\n那你需要的是英语，不是自以为是的「安全技术」。\n安全从来不是技术问题。"
+    }
+  ],
+  "answer_count": 10
+}

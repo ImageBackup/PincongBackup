@@ -1,0 +1,48 @@
+{
+  "parent_type": "question",
+  "parent_id": "63392",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "706498",
+      "is_folded": false,
+      "answerer": {
+        "username": "矢作萌夏",
+        "uid": "29415"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t拼音学习的不应该是越南语那种标法么，欧陆语言就没有中文这种绝对音调的。<br/>\n<br/>\n而且越南人聊天也经常不打声调。声调这玩意儿标起来太烦了，看上下文即可。不过越南的店铺名称和地名还是正规标的。\t\t</div>",
+      "date": "2023-11-19",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1226320",
+          "replier": {
+            "username": "游客",
+            "uid": "103299"
+          },
+          "date": "2023-11-19",
+          "content": "像欧陆语言一样把accent symbol加上，没说发音规则一样"
+        },
+        {
+          "id": "1226321",
+          "replier": {
+            "username": "游客",
+            "uid": "103299"
+          },
+          "date": "2023-11-19",
+          "content": "一样指的是加accent symbol这个行为，不是指发音规则"
+        },
+        {
+          "id": "1226322",
+          "replier": {
+            "username": "游客",
+            "uid": "103299"
+          },
+          "date": "2023-11-19",
+          "content": "昂撒人硬套拼音，\n支那人\n硬融英语，怎么说都是挺荒唐的，不如越猴"
+        }
+      ]
+    }
+  ]
+}

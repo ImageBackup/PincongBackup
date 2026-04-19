@@ -1,0 +1,38 @@
+{
+  "article_id": "57634",
+  "category_id": "4",
+  "title": "【安全上网】借助obfs4在墙内使用tor，安全稳妥翻墙",
+  "meta_description": "【安全上网】借助obfs4在墙内使用tor，安全稳妥翻墙 - [b][url=https://torproject.org/censorship/connecting-from-china/index.html]How to circumvent the Great Firewall and connect to T...",
+  "meta_keywords": "安全,上网,借助,obfs4,墙内,使用,tor,稳妥,翻墙",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "249",
+      "name": "安全上网"
+    },
+    {
+      "id": "470",
+      "name": "vpn"
+    },
+    {
+      "id": "1174",
+      "name": "Tor"
+    },
+    {
+      "id": "9360",
+      "name": "翻墙软件"
+    }
+  ],
+  "author": {
+    "username": "kamome",
+    "uid": "95534"
+  },
+  "contents": "<div class=\"content markitup-box\">\n<b><a href=\"url/link/aHR0cHM6Ly90b3Jwcm9qZWN0Lm9yZy9jZW5zb3JzaGlwL2Nvbm5lY3RpbmctZnJvbS1jaGluYS9pbmRleC5odG1s\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://torproject.org/censorship/connecting-from-china/index.html\">How to circumvent the Great Firewall and connect to Tor from China?</a></b><br/>\n<br/>\n<b>前面都是废话，干货在结尾</b><br/>\n<br/>\r\n使用Tor和Tor Browser的好处不必多说，可是这种好东西，tg可是不会轻易让你用得上的。<br/>\r\n要在国内连上Tor，大致是以下三种思路：<br/>\n<ul><li>前置代理/VPN+Tor</li></ul><br/>\n<ul><li>snowflake</li></ul><br/>\n<ul><li>obfs4</li></ul><br/>\r\n其中前置代理法操作麻烦（很可能还需借助网桥），snowflake速度奇慢还不一定连得上。<br/>\r\n而obfs4则是综合速度、安全和稳定的方法<br/>\n<br/>\r\n不过在中国，获取到能用的obfs4网桥的方法也有些特殊：<br/>\n<ul><li>硬核极客自行墙外搭建</li></ul><br/>\n<ul><li>获取【隐蔽的】obfs4网桥</li></ul><br/>\r\n咱要是没那功夫折腾，用现成的网桥就可以了：<br/>\r\n用Gmail发送一封主题为<b>private bridge cn</b>的邮件(内容空着)，到<b>frontdesk@torproject.org</b>。几个小时内会有人工回复，把里面附带的网桥地址复制到Tor Browser的配置页面里就可以了<br/>\n<br/>\r\n屡试不爽<br/>\n<br/>\n<br/>\r\n5月12日更新：<br/>\r\n有朋友指出我给的邮箱地址于官网不符，已经修改，感谢各位细心指正<br/>\r\n另外，至于为什么要用gmail，用电邮获取网桥是要求gmail或者riseup的。不过这个方法与常规方法不同，所以用protonmail、onionmail之类的匿名邮箱应该也可行。不过我没试过。\t\t\t\t\t\t\t</div>",
+  "view_count": 12997,
+  "date": "2023-04-28",
+  "agree_count": 6,
+  "comment_count": 15
+}

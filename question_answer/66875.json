@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "66875",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "743767",
+      "is_folded": false,
+      "answerer": {
+        "username": "okamiyu",
+        "uid": "81756"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我推荐<br/>\n金田一少年の事件簿 File32: 剣持警部の殺人<br/>\n也是讲类似事情的，根据真实事件改编。<br/>\n而且也动画化了。\t\t</div>",
+      "date": "2024-04-27",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1260909",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-04-27",
+          "content": "谢谢推荐"
+        }
+      ]
+    }
+  ]
+}

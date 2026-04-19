@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "63016",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "702552",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tBecause the modern antisemitism derives from pseudosciences of eugenics and racial theory, and those who worked it out just put the Jews under the umbrella term \"semite\" so as to better defame them.\t\t</div>",
+      "date": "2023-11-01",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1222201",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-11-01",
+          "content": "的确如你所说，这个名词的由来在于欧洲社会的构建。\n但把”阿拉伯世界“的反犹叫做antisemitism我认为挺荒谬的。黎凡特人并没有参与反犹叙事和优生学的构建，而且像黎巴嫩基督徒和叙利亚&黎巴嫩的德鲁兹人更是闪米特中的闪米特，迦南中的迦南，把这种行为描述为antisemite不就等于自己反自己的。"
+        }
+      ]
+    },
+    {
+      "id": "702793",
+      "is_folded": false,
+      "answerer": {
+        "username": "決不再做奴隸",
+        "uid": "19469"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在現實中，不同族裔之間天然地存在偏見。如果直接反對anti-Jewish prejudices, 那更難得到中間派的支持。而anti-semitism是西元19世紀的基督教歐洲興起一場政治運動，以德國的Antisemites League為代表，其著作包括«Victory of Jewry over Germandom»。那一政治運動主張動用武力打擊猶太裔移民，令中間派十分反感，因此最適合拿出來講。\t\t</div>",
+      "date": "2023-11-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

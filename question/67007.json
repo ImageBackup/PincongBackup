@@ -1,0 +1,43 @@
+{
+  "question_id": "67007",
+  "category_id": "8",
+  "title": "",
+  "meta_description": "发起RFC需要多少声望？ - 如题，@admin",
+  "meta_keywords": "发起,rfc,需要,声望",
+  "tags": [
+    {
+      "id": "451",
+      "name": "站务"
+    }
+  ],
+  "author": {
+    "username": "新用户12555",
+    "uid": "127142"
+  },
+  "view_count": 3087,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2024-05-03",
+  "agree_count": 0,
+  "discussion_count": 4,
+  "discussions": [
+    {
+      "id": "1059800",
+      "replier": {
+        "username": "久念",
+        "uid": "125666"
+      },
+      "date": "2024-05-04",
+      "content": "RFC是啥"
+    },
+    {
+      "id": "1062509",
+      "replier": {
+        "username": "skosko",
+        "uid": "108801"
+      },
+      "date": "2024-07-02",
+      "content": "加个discord吗。。。"
+    }
+  ],
+  "answer_count": 1
+}

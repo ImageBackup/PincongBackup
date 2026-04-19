@@ -1,0 +1,155 @@
+{
+  "parent_type": "question",
+  "parent_id": "55951",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "629436",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1. SS、SSR、无TLS保护的Vmess这些协议，因为用户数量多，协议特征明显，墙已经能自动识别出来和封锁了。<br/>\n2. 目前稳定性比较好的方式，无论用哪种协议，最外层要有TLS（HTTPS）作为保护，将其伪装成正常流量。<br/>\n以下未证实：对于重点地区，重点时段，墙可能会把凡是自己不认识的流量都给封掉。这就是开了混淆也会被封的原因。<br/>\n3. 对于GitHub这种重要网站，墙的封锁策略是让连接变差，造成一种网络不稳定的假象，让用户自己放弃使用。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 13,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152838",
+          "replier": {
+            "username": "pz221",
+            "uid": "51046"
+          },
+          "date": "2023-02-09",
+          "content": "谢谢大佬了，感觉已经没有便宜又稳的协议了，最近听说Naiveproxy也会被封。。。。"
+        }
+      ]
+    },
+    {
+      "id": "629426",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 由於近期觀察到 GFW 多次調試, 我猜它在測試預案. 各地反抗事件應在四處開花的階段, 隨時會在網絡空間降下縫隙難覓的竹幕. 各位和我一樣住在匪區的人要下載好所需資料, 世界各地都有專制獨裁會斷網好久的前例了, 共匪亦不會例外.\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 16,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629525",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t肯定不是人工，现在公务员都降薪了，哪有钱请人，就是根据你访问的特点，用各种逻辑判断，确定了就封，嫌疑大的定期干扰一下\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "820457",
+      "is_folded": false,
+      "answerer": {
+        "username": "约定的世界岛",
+        "uid": "2101"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tgfw是事后的流量分析，先收集数据，每天整点统一封锁，全加密类已经稳封了，没什么特别要求的一键搭建anytls这种脚本就行了<br/>\n<u><a href=\"url/link/aHR0cHM6Ly95b3V0dS5iZS93SzdwUjBTYnRkbw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://youtu.be/wK7pR0Sbtdo\">https://youtu.be/wK7pR0Sbtdo</a></u> </div>",
+      "date": "2025-07-11",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1334515",
+          "replier": {
+            "username": "N2o小熊",
+            "uid": "26074"
+          },
+          "date": "2025-07-11",
+          "content": "已删除"
+        },
+        {
+          "id": "1334516",
+          "replier": {
+            "username": "约定的世界岛",
+            "uid": "2101"
+          },
+          "date": "2025-07-11",
+          "content": "@N2o小熊:你是数据量小没被封，但gfw有能力，知名论文【中国的防火长城是如何检测和封锁完全加密流量的】"
+        },
+        {
+          "id": "1334528",
+          "replier": {
+            "username": "N2o小熊",
+            "uid": "26074"
+          },
+          "date": "2025-07-11",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "629926",
+      "is_folded": false,
+      "answerer": {
+        "username": "lily654378",
+        "uid": "84569"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t今年1月份我自建的机场也不行了，IP能ping通，域名解析也没问题，就是连不上，只好临时买了个机场去看教程，现在架的VLESS+TLS，但是比VMESS+WS慢\t\t</div>",
+      "date": "2023-02-11",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629496",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自建应该很稳啊。<br/>\n应该随时把BT下载挂着。混淆一下信号。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1152909",
+          "replier": {
+            "username": "对不起伤害了你",
+            "uid": "104840"
+          },
+          "date": "2023-02-09",
+          "content": "自建也要看机房和翻墙协议，如果在搬瓦工那种重点机房，使用ss那种墙已经能识别出来的协议，被封只是分分钟的事情。"
+        },
+        {
+          "id": "1153415",
+          "replier": {
+            "username": "pz221",
+            "uid": "51046"
+          },
+          "date": "2023-02-11",
+          "content": "@对不起伤害了你:QAQ"
+        }
+      ]
+    },
+    {
+      "id": "821954",
+      "is_folded": false,
+      "answerer": {
+        "username": "xibaozi1953",
+        "uid": "146769"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t推荐你下载这个VPN，永久免费，如果链接无法直接打开,请复制并粘贴到浏览器中打开.<br/>\n👉 https://ipfs.io/ipns/k51qzi5uqu5dgr5f93y812ungff8y9evtkntr9gi2ctc0ze8o3ncs6vj2szer2/#/?r=Ncr7mNdZaPhzipzfgztvFS8nT2xSXoxcZf6PNggpqq6LCZbU9uEpLTgrmbtM9VdC7rokWLPZRNQRDc5SRHf8p896nqj47drGwWvDai7fQBNKWngCszu3H8bhx8wZUgp3hRAsmmhVLBjf2dRZbi6SvhTNLd6k2txVrF1q4CX6MaYUw5neF6K6Gajcpa9DXu9xzQMoR8wKYAuoby9bWkcyu7R8fgKccz4iiTtuXpvWRUarHhCLoXrojhzC48e5Sv5DNuk1Spm3bxVxsbwWLE3zHYhZBxy8WYJSfcwaZdTqcv2QBPsT1ZmuzSE1QBhed9neCfyd1SZy896sdZtHdeLqj8Emd8Ch13KcULgDBG7YWt9heSTtjqmB8KfqFQMkkSFmLkREWJ1NxosB9swXFJJZF7heZbdEwJzu19EpbR29v2RKWhoskswaCKV6BBr8joXXuhmeASfYkF27tGURVav8aVndKiq1F1R8kDwdiHFoyijYKpEZK3Ju6utGcEoddYSunzLbizCnNw6Hgovqq1hTDWmnycxSk2Dhvo52NV29t5Kz68uNh78sJckzTLYFmu478iW9BMG6ijLp4H8GLaHyRkte8s496kHTdtJGvLgkpFtovMoVEi28UixuSt3RFZmmrwb9Ld322NEjrN7EoWy7CGoiHA3MRoNk1FeaLdnjDRX9JWTxTZ1Bv8aDhJdrJUij252cXzYuMmYo3sfunSn6r1MmJ9N1PnGsXgtWR48vS4rYLkSyLLKins6nAfLgv\t\t</div>",
+      "date": "2025-07-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "63865",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "712700",
+      "is_folded": false,
+      "answerer": {
+        "username": "冬天的野火也不弱",
+        "uid": "104693"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就是防火长城又升级了啊，迷雾通的作者也说了，他暂时没什么好办法。\t\t</div>",
+      "date": "2023-12-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712725",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你可以管中窥豹品葱有多少五毛小同志，他们不会回复这种问题，别说迷雾通不更新，我看品葱现在就是无人管理的状态。\t\t</div>",
+      "date": "2023-12-14",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1232400",
+          "replier": {
+            "username": "白衣黑旗除共军",
+            "uid": "103874"
+          },
+          "date": "2023-12-14",
+          "content": "xianchifanba"
+        }
+      ]
+    }
+  ]
+}

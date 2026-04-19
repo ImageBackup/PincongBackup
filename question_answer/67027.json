@@ -1,0 +1,264 @@
+{
+  "parent_type": "question",
+  "parent_id": "67027",
+  "answer_count": 9,
+  "answers": [
+    {
+      "id": "745254",
+      "is_folded": false,
+      "answerer": {
+        "username": "grantyang",
+        "uid": "6190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t估计你可自运行一建立在自家电脑上的web server, 然后将网址私下传递给这些同仁，每人注册入网。你的web server 上的网页可以拒绝搜索引擎如百度歌谷等的扫描: 这个网上有些介绍，即“How to exclude web page from search engine searching &amp; indexing” 之类。<br/>\n建议在内网分享我搜集的共匪禁文禁影视：<a href=\"url/link/aHR0cDovL2ZyYWdyYW50Zmxvd2Vycy5uZXQvI2RvY3VtZW50MQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"http://fragrantflowers.net/#document1\">http://fragrantflowers.net/#document1</a>，其中内容浏览者可自由下载。\t\t</div>",
+      "date": "2024-05-04",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "745226",
+      "is_folded": false,
+      "answerer": {
+        "username": "学做地球人",
+        "uid": "92067"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t会员在家里在外地，都能访问这个网站。<br/>\n↑<br/>\n这个要求基本就叫外网了哦<br/>\n<br/>\n你是想用自己的家庭宽带提供服务吗 可以先搭一个网盘之类从自用开始看看效果<br/>\n首先要确定自己能获得公网ip 然后在光猫上打通端口<br/>\n内部对应的可以用硬件nas 或者一些开源网盘比如nextcloud 甚至老式的ftp FileZilla<br/>\n但是安全方面我就不太懂了 其实这才是最复杂的 尤其是牵涉到土共\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "745229",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t容易是容易，但是几千名用户想不泄露消息几乎不可能\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 1,
+      "discussion_count": 9,
+      "discussions": [
+        {
+          "id": "1262478",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-05-03",
+          "content": "主要是谈正事，偶尔夹杂点私货"
+        },
+        {
+          "id": "1262481",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-05-04",
+          "content": "@佐助:你这么有信心几千人都不出卖你？我没这个信息"
+        },
+        {
+          "id": "1262486",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-05-04",
+          "content": "@天下无贼:先从培养感情，熟悉联络开始。反共的事不着急，以后再说。\n你能把观念一致的一群人，在线下团结起来，本身就很有价值了。"
+        },
+        {
+          "id": "1262494",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-05-04",
+          "content": "@佐助: 只能祝你好运，我自问做不到和几千人培养感情熟悉联络……\n技术上实现挺容易的，你搜一下“FRP 内网穿透”，买一个便宜的外网服务器当FRP Server，然后任何一台内网机器都可以当真正的服务器，提供服务，那台外网FRP Server一年千把块钱的配置也就够用了，然后加入的会员，告诉他们用FRP连接就行了，FRP各个平台都有client。这个方案就真正“不公开”，拿不到配置的用户完全不知道怎么连上，外网服务器可以只开一个特殊的端口，不用备案，黑客扫描一般也扫不出什么"
+        },
+        {
+          "id": "1262497",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-05-04",
+          "content": "@天下无贼:非常感谢。我去了解一下"
+        },
+        {
+          "id": "1262501",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-05-04",
+          "content": "@天下无贼: 为啥这么多人喜欢FRP？完全无法理解。\n用NAT穿透节约流量的话会暴露源站IP，还不如租只会限制最大带宽的，不计流量的VPS；\n直接转发又不如一些知名的反向代理（如nginx、apache、haproxy），用SSH访问内网的功能也没啥厉害的，openssh也有，openssh修漏洞还更快。\n[code]\nhttps://community.torproject.org/relay/community-resources/good-bad-isps/\n[/code]\ntor的社区列出了很多ISP，你可以在这个页面搜一下\"unmetered\"。"
+        },
+        {
+          "id": "1262503",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-05-04",
+          "content": "@Streptopelia: 最大的好处就是“不公开”\n你在公网服务器上架个服务，挡不住天天扫描的那些垃圾广告商和骗子"
+        },
+        {
+          "id": "1262505",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-05-04",
+          "content": "@天下无贼: 你的回复里哪里提到\"不公开\"了？FRP服务器一样可以被扫描到，你如果觉得尝试登录SSH的日志很烦，可以换非标准端口，或者不允许IPv4登录，靠IPv6更大的地址空间来缓解，一大堆方法可以用。"
+        },
+        {
+          "id": "1262507",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-05-04",
+          "content": "@Streptopelia: 楼主的要求是“不公开”啊。FRP首先端口不是固定的，其实扫到了最多是扫宕了，只要密码够复杂，目前还没听说可以破掉吧？\n说这些都扯远了，关键还是楼主的要求是“不公开”"
+        }
+      ]
+    },
+    {
+      "id": "745235",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t理论上搞个企业版的谷歌账号就可以？<br/>\n或者企业版的微软也可以\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1262484",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-05-04",
+          "content": "你这个靠谱，花钱多吗？"
+        }
+      ]
+    },
+    {
+      "id": "745246",
+      "is_folded": false,
+      "answerer": {
+        "username": "新用户8964",
+        "uid": "128400"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不如换个思路。如何让几千号人使用匿名的去中心化聊天软件。可以自己照抄开源代码然后包装一下发给会员下载然后全部使用迷雾通。完全实现言论自由。没人能监控你们了。哪怕全使用telegram匪共想查到你们的具体信息也得花8964年。更谈不上监控聊天记录。\t\t</div>",
+      "date": "2024-05-04",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1262487",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-05-04",
+          "content": "我不是想搞聊天群，然后成天争议对线，是想搞一个学术流派，看论文、写论文、分享论文。"
+        },
+        {
+          "id": "1262488",
+          "replier": {
+            "username": "新用户8964",
+            "uid": "128400"
+          },
+          "date": "2024-05-04",
+          "content": "@佐助:那你完全可以用telelgram。安全程度对于小白来说够用了（只要你不自曝和用手机号实名上网的话）直接注册一个频道。然后附属一个讨论群。也可以达到不受限制的目的。"
+        }
+      ]
+    },
+    {
+      "id": "745277",
+      "is_folded": false,
+      "answerer": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t原来有个东西叫Zeronet，现在不能用了。<br/>\n<br/>\n在国内搭建这么个网站<br/>\n<br/>\n抛开法律风险，钱，工具不谈——<br/>\n<br/>\n你首先要知道的是：<br/>\n<br/>\n你提供的服务是国内的。<br/>\n<br/>\n你在国内搭你人就没了。<br/>\n<br/>\n资料也不要放到国内网盘。\t\t</div>",
+      "date": "2024-05-04",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1262510",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-05-04",
+          "content": "一开始不反共，先搞个普通的学术交流的地方"
+        },
+        {
+          "id": "1262511",
+          "replier": {
+            "username": "Deceiving4271",
+            "uid": "117645"
+          },
+          "date": "2024-05-04",
+          "content": "建议用NextCloud。"
+        }
+      ]
+    },
+    {
+      "id": "745265",
+      "is_folded": false,
+      "answerer": {
+        "username": "維民而止",
+        "uid": "24916"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t建網我認為是想得過於簡單. 如果在境內建立, 即使全部用戶也做好保密, 那只要一個用戶被國安注意, 順藤摸瓜下, 網站很易被查。<br/>\n用家用寬頻服務及NAS更是要使用家庭IP, 有什麼事, 可能就全家出事了<br/>\n如果要有一定安全, 使用可靠VPN是必需, 而國內VPN是否可用...我相信大家心裡有數, 如果用國外VPN, 那倒不如再直接用國外雲端，情況有如下載資源時用國內雲+提取碼。但當中又可能要考慮安全付費之類\t\t</div>",
+      "date": "2024-05-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1262515",
+          "replier": {
+            "username": "att",
+            "uid": "48379"
+          },
+          "date": "2024-05-04",
+          "content": "这个可以采纳."
+        }
+      ]
+    },
+    {
+      "id": "745248",
+      "is_folded": false,
+      "answerer": {
+        "username": "mwgrdgcd",
+        "uid": "122009"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t家用网络附加存储(NAS) 硬盘解决方案，这个是比较不错的方式，做下来万八千的就可以。安全性加密程度这个就不知道了。要你自己去看看。\t\t</div>",
+      "date": "2024-05-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "745283",
+      "is_folded": false,
+      "answerer": {
+        "username": "att",
+        "uid": "48379"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国外vps一台,vpn一套 , 再开发一套你说的网站,应该不贵,安全性跟翻墙vpn一样\t\t</div>",
+      "date": "2024-05-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

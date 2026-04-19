@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "65488",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "729237",
+      "is_folded": false,
+      "answerer": {
+        "username": "Markus",
+        "uid": "52258"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t神经毒素novichok在尸体内能留存数日。不给尸体是为了等过几天毒素自行消退，好不留证据给验尸官。\t\t</div>",
+      "date": "2024-02-20",
+      "agree_count": 6,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1246541",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-02-20",
+          "content": "不能直接火化了吗"
+        },
+        {
+          "id": "1246571",
+          "replier": {
+            "username": "屠支大佐毛遮洞",
+            "uid": "107972"
+          },
+          "date": "2024-02-20",
+          "content": "@rowlandheights:人家是文明人，至少对你支来说。"
+        }
+      ]
+    },
+    {
+      "id": "729272",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t啥叫做专业？不是使用自用型号防空导弹打下马来西亚航空客机就兴高采烈发到网上炫耀战果；不是烧掉自用型号步兵战车就满世界宣传找到了全面入侵乌克兰的借口。这就叫专业。\t\t</div>",
+      "date": "2024-02-20",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

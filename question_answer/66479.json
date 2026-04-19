@@ -1,0 +1,343 @@
+{
+  "parent_type": "question",
+  "parent_id": "66479",
+  "answer_count": 14,
+  "answers": [
+    {
+      "id": "740356",
+      "is_folded": false,
+      "answerer": {
+        "username": "老民警",
+        "uid": "127556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t注册推特时挑了一个老实的拘留人员，扣押他手机注册的，用到现在没事，机主本人一直不知道。\t\t</div>",
+      "date": "2024-04-12",
+      "agree_count": 8,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1257568",
+          "replier": {
+            "username": "魁北克大山",
+            "uid": "127269"
+          },
+          "date": "2024-04-14",
+          "content": "你真机智"
+        },
+        {
+          "id": "1257584",
+          "replier": {
+            "username": "怒笑先生",
+            "uid": "103257"
+          },
+          "date": "2024-04-14",
+          "content": "还是黑皮坏啊"
+        },
+        {
+          "id": "1257846",
+          "replier": {
+            "username": "Abele",
+            "uid": "123394"
+          },
+          "date": "2024-04-15",
+          "content": "还得是你啊"
+        },
+        {
+          "id": "1259409",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2024-04-21",
+          "content": "有权就是不一样"
+        }
+      ]
+    },
+    {
+      "id": "739575",
+      "is_folded": false,
+      "answerer": {
+        "username": "bobobo",
+        "uid": "127236"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t马斯克在上海有软肋，所以推特的安全性是不可靠的\t\t</div>",
+      "date": "2024-04-09",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1257569",
+          "replier": {
+            "username": "魁北克大山",
+            "uid": "127269"
+          },
+          "date": "2024-04-14",
+          "content": "小心为妙"
+        }
+      ]
+    },
+    {
+      "id": "739570",
+      "is_folded": false,
+      "answerer": {
+        "username": "政法王建国",
+        "uid": "127240"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t马斯克家大业大，不敢得罪地球上最大的专制集团。\t\t</div>",
+      "date": "2024-04-09",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1257570",
+          "replier": {
+            "username": "魁北克大山",
+            "uid": "127269"
+          },
+          "date": "2024-04-14",
+          "content": "马斯克应该不怕他吧"
+        }
+      ]
+    },
+    {
+      "id": "739593",
+      "is_folded": false,
+      "answerer": {
+        "username": "我先杠路了",
+        "uid": "124740"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要使用境内手机和邮箱注册账号，经常更换vpn线路，慎点链接。\t\t</div>",
+      "date": "2024-04-09",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1257571",
+          "replier": {
+            "username": "魁北克大山",
+            "uid": "127269"
+          },
+          "date": "2024-04-14",
+          "content": "打一枪换一个地方 哈哈哈"
+        }
+      ]
+    },
+    {
+      "id": "740665",
+      "is_folded": false,
+      "answerer": {
+        "username": "emisha",
+        "uid": "117515"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t去测试一下你vpn的dns方面的安全性（例如去ipleak.net，测试结果不能有中国的dns），这是网络的问题，有问题的话用虚拟机也没戏，最好的办法是用dot/doh，当然墙国对于海外的dot/doh也基本上都封了，自己的服务器就自己搭一个，否则就自己换vpn。\t\t</div>",
+      "date": "2024-04-14",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1257565",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-04-14",
+          "content": "不要老说什么\"海外的DoH/DoT服务器基本上都被封了\"，你可以马上测一下，把 https://[2606:4700:4700::1111]/dns-query 填进浏览器里，中国封很多DoH/DoT服务器都是检测SNI，不发SNI它就没反应了。"
+        },
+        {
+          "id": "1257572",
+          "replier": {
+            "username": "魁北克大山",
+            "uid": "127269"
+          },
+          "date": "2024-04-14",
+          "content": "太专业的一般网友搞不明白"
+        }
+      ]
+    },
+    {
+      "id": "740518",
+      "is_folded": false,
+      "answerer": {
+        "username": "pkgpzbd",
+        "uid": "127578"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一般对于收到的链接默认是有恶意的，而偶然遇到的链接默认是有风险的。其次就是虚拟机机全局和VPN的安全性，编程随想一直建议最好是免费的正派的VPN。\t\t</div>",
+      "date": "2024-04-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "739546",
+      "is_folded": false,
+      "answerer": {
+        "username": "大腿兽",
+        "uid": "117579"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的推特账号都无缘无故被封了，本来我他妈就是用来看看新闻的，看看世界上发生的事，这就给我封了\t\t</div>",
+      "date": "2024-04-09",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1256934",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2024-04-12",
+          "content": "你VPN不干净，机场不纯，上一切账号之前都要检测一下"
+        },
+        {
+          "id": "1256935",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2024-04-12",
+          "content": "必须要安装webRTC反追踪插件"
+        },
+        {
+          "id": "1257847",
+          "replier": {
+            "username": "Abele",
+            "uid": "123394"
+          },
+          "date": "2024-04-15",
+          "content": "VPN不干净就会这样"
+        }
+      ]
+    },
+    {
+      "id": "739564",
+      "is_folded": false,
+      "answerer": {
+        "username": "Abele",
+        "uid": "123394"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是的我也看到这条新闻了，大家一定要注意保护自己的信息安全\t\t</div>",
+      "date": "2024-04-09",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1257575",
+          "replier": {
+            "username": "魁北克大山",
+            "uid": "127269"
+          },
+          "date": "2024-04-14",
+          "content": "嗯嗯 ，害人之心不能有防人之心不可无"
+        }
+      ]
+    },
+    {
+      "id": "739579",
+      "is_folded": false,
+      "answerer": {
+        "username": "爱喝可乐阿",
+        "uid": "122479"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t马斯克家大业大，但也要收到控制的，他的数据库也是向世界开发这的。\t\t</div>",
+      "date": "2024-04-09",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1257848",
+          "replier": {
+            "username": "Abele",
+            "uid": "123394"
+          },
+          "date": "2024-04-15",
+          "content": "都不安全"
+        }
+      ]
+    },
+    {
+      "id": "740867",
+      "is_folded": false,
+      "answerer": {
+        "username": "诡计多端的粉",
+        "uid": "127428"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t關注了一陣子鍵政俠，整的像看反復鞭尸大清，果斷關注幾波每日大賽。\t\t</div>",
+      "date": "2024-04-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742926",
+      "is_folded": false,
+      "answerer": {
+        "username": "fpyy0nsn",
+        "uid": "127983"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t他不会收到验证码啥的么？并且你自己一次也不需要验证码吗？\t\t</div>",
+      "date": "2024-04-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741190",
+      "is_folded": false,
+      "answerer": {
+        "username": "献忠元年",
+        "uid": "127107"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一起來搭建一個獻忠云，做一個獻忠VPN吧，供大家免費使用。\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "740821",
+      "is_folded": true,
+      "answerer": {
+        "username": "freedooo",
+        "uid": "127295"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-04-14",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1257590",
+          "replier": {
+            "username": "魁北克大山",
+            "uid": "127269"
+          },
+          "date": "2024-04-14",
+          "content": "他们都是贼喊抓贼"
+        }
+      ]
+    },
+    {
+      "id": "739555",
+      "is_folded": true,
+      "answerer": {
+        "username": "justin_lee",
+        "uid": "28794"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-04-09",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1257574",
+          "replier": {
+            "username": "魁北克大山",
+            "uid": "127269"
+          },
+          "date": "2024-04-14",
+          "content": "每个人的爱好不一样，高兴就好"
+        }
+      ]
+    }
+  ]
+}

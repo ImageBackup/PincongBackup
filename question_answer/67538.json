@@ -1,0 +1,183 @@
+{
+  "parent_type": "question",
+  "parent_id": "67538",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "750105",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t聊天内容是安全的，wechat没有权限读取电报的聊天记录，更何况电报聊天记录也是加密存储的，wechat拿不到密码没法读<br/>\n<br/>\n但是电报和whatsapp可以把截图下载到公共目录下，这时候wechat可以扫描公共目录得到你的截图内容\t\t</div>",
+      "date": "2024-05-26",
+      "agree_count": 8,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1270469",
+          "replier": {
+            "username": "iamwanghuning",
+            "uid": "109571"
+          },
+          "date": "2024-06-10",
+          "content": "所以我從來不開相冊權限給微信，只開部分照片。我要在微信發的才給微信權限"
+        }
+      ]
+    },
+    {
+      "id": "750127",
+      "is_folded": false,
+      "answerer": {
+        "username": "N2o小熊",
+        "uid": "26074"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t虽然不容易被微信窃取，但是有可能被苹果窃取。iOS有较好的应用隔离，应用不容易窃取其它应用的数据（但需注意其它回复中说的截图等）。但是苹果的通知推送服务可能是一个安全隐患，因为通知数据经过苹果的服务器。如果注重隐私，可能关闭通知比较好。<br/>\n<br/>\n另外，手机本身就不适合注重隐私的应用，手机上经常有为了便携性而牺牲隐私的设计。如果对隐私要求更高，用电脑（比如Linux）比较好。\t\t</div>",
+      "date": "2024-05-26",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "750138",
+      "is_folded": false,
+      "answerer": {
+        "username": "grantyang",
+        "uid": "6190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t微信像任何其App 应用软件一样，无法偷窃自身之外的其它App 的保密内容如通讯邮件交谈内容等等。\t\t</div>",
+      "date": "2024-05-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "750142",
+      "is_folded": false,
+      "answerer": {
+        "username": "观云先生",
+        "uid": "73140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不建议使用苹果手机翻墙。<br/>\n<br/>\nios不是开源系统，开放性也差，被苹果一家公司牢牢拽在手里。<br/>\n这使得你的使用痕迹和习惯不论如何都无法避免被苹果“知根知底”。<br/>\n而苹果这家公司会不会、有没有通共，大家心里有数。<br/>\n<br/>\n所以建议最好用水货android机翻墙，并且这台手机上不要安装任何沦陷区的app<br/>\n这样相对来说就安全多了。\t\t</div>",
+      "date": "2024-05-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "750106",
+      "is_folded": false,
+      "answerer": {
+        "username": "品oscillate",
+        "uid": "129028"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\twechat的聊天记录不发敏感内容一般不会被盯上，而wechat的通话记录会随时被监视\t\t</div>",
+      "date": "2024-05-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "750110",
+      "is_folded": false,
+      "answerer": {
+        "username": "kittan",
+        "uid": "127009"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最稳妥的是分开设备使用，物理隔绝是最安全的。然后要注意保护个人信息不被收集，哪些app不想让习产党窥视，就别使用+86手机号和任何形式的实名制注册。还要注意网络环境，尽量绕开中国运营商接入互联网，基本就没问题了。\t\t</div>",
+      "date": "2024-05-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "750129",
+      "is_folded": false,
+      "answerer": {
+        "username": "daxuesheng",
+        "uid": "14137"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不可避免的还有苹果系统有0day漏洞被微信利用获得系统级别的权限，但是这个一旦败露可能会导致微信像TikTok一样被西方禁用，我觉得除非你认为你可能成为国安的目标，要不然是不会的。不过搞个物理隔离不花几个钱，又万无一失。\t\t</div>",
+      "date": "2024-05-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "750131",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还不至于 如果软件能做成这个地步 早就被禁了\t\t</div>",
+      "date": "2024-05-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "753230",
+      "is_folded": false,
+      "answerer": {
+        "username": "汪汪是哈P1",
+        "uid": "125428"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t放心好啦 电报是用的MTProto加密协议 wechat是获取不到聊天数据的就算获取了也是乱码毫无作用\t\t</div>",
+      "date": "2024-06-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "753377",
+      "is_folded": false,
+      "answerer": {
+        "username": "ASD1234",
+        "uid": "26668"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不安全 不建议安装 微信的获得的权限太高了  要想电报 那就别安装任何中国的软件\t\t</div>",
+      "date": "2024-06-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "753193",
+      "is_folded": false,
+      "answerer": {
+        "username": "fdshafdsahg",
+        "uid": "130366"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t苹果我个人觉得还是可以信任的<br/>\n<br/>\n比微软好<br/>\n<br/>\n我宁愿相信微软 跟  中共 有 一个腿子<br/>\n<br/>\n也不觉得 苹果 跟 中共 有安全方面的合作<br/>\n<br/>\n微软是真正的狗腿子\t\t</div>",
+      "date": "2024-06-10",
+      "agree_count": -1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1270554",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-06-11",
+          "content": "苹果微软大哥不笑二哥\n你还是优先选google\n但是其实吧，google内部的中国工作人员也可以帮中国政府做事，所以你鸡蛋不要放一个篮子里"
+        }
+      ]
+    },
+    {
+      "id": "750128",
+      "is_folded": true,
+      "answerer": {
+        "username": "bj64",
+        "uid": "129258"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-05-26",
+      "agree_count": 9,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "parent_type": "question",
+  "parent_id": "56297",
+  "answer_count": 30,
+  "answers": [
+    {
+      "id": "633649",
+      "is_folded": false,
+      "answerer": {
+        "username": "Markus",
+        "uid": "52258"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t统计数据不完全等同于事实。因为统计数据从采样到分析每个阶段都包含了内定的假设。很多时候这些假设本身就暗含了偏见。而且统计数据仅仅只是相关性，没有因果。但是人在看统计数据的时候，或主动或被动都会觉得里面暗含因果关系。<br/>\n<br/>\n举个例子，美国对近几十年的杀人犯进行了统计，发现杀人犯里面双鱼座的比例比其他所有星座高两三倍。这个统计数据能说明什么问题？对双鱼座人士要加倍防范因为他们更容易杀人？<br/>\n<br/>\n同理，你在统计犯罪率的时候，以肤色作为参照是否合理？肤色是不是和是家庭收入或者失业率有很高的相干性？除非你把和肤色相关性很高的其他参数全部从数据里去相干，然后还得出同样的结论，要不然黑人犯罪率高这个数据本身就存在很大的bias。\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633589",
+      "is_folded": false,
+      "answerer": {
+        "username": "BreakingWave",
+        "uid": "50441"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t继续举加拿大的例子（我觉得我已经快成品葱加拿大科普用户了）<br/>\n<br/>\n加拿大仇恨言论（Hate propoganda）是违反刑法（Criminal Code）的犯罪行为，但是刑法中也提供了一些豁免：<br/>\n<br/>\n(3) No person shall be convicted of an offence under subsection (2)<br/>\n<br/>\n(a) if he establishes that the statements communicated were true;<br/>\n<br/>\n(b) if, in good faith, the person expressed or attempted to establish by an argument an opinion on a religious subject or an opinion based on a belief in a religious text;<br/>\n<br/>\n(c) if the statements were relevant to any subject of public interest, the discussion of which was for the public benefit, and if on reasonable grounds he believed them to be true; or<br/>\n<br/>\n(d) if, in good faith, he intended to point out, for the purpose of removal, matters producing or tending to produce feelings of hatred toward an identifiable group in Canada.<br/>\n<br/>\n懒得全文翻译了，人话就是如果这个人说的言论1. 是真的 或者 2. 是宗教场合下由于宗教教条引起的 或者 3. 如果ta觉得自己说的是真的，而且觉得是为了公众利益进行的讨论 或者 4. 是为了防止对某一群体的仇恨而说出的，那这个言论即使符合仇恨言论的定义也不算犯罪。<br/>\n<br/>\n所以至少法律上来说，如果只是单纯说事实，不能算歧视。当然在中文互联网上大家都是以输出情绪为主，单纯输出事实不参杂个人观点或者情绪的很少吧……\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 6,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1156721",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-02-24",
+          "content": "歡迎你尊敬的科普人, 無論來自哪裏~"
+        },
+        {
+          "id": "1156764",
+          "replier": {
+            "username": "習近平有幾隻鳥",
+            "uid": "11938"
+          },
+          "date": "2023-02-24",
+          "content": "感谢回答，但是我提问中问的是道德意义上的歧视。"
+        },
+        {
+          "id": "1156770",
+          "replier": {
+            "username": "BreakingWave",
+            "uid": "50441"
+          },
+          "date": "2023-02-24",
+          "content": "@習近平有幾隻鳥:是的，但是法律基于道德，如果一个法律如此规定，那也可以理解为社会的道德底线至少也在类似的位置上。"
+        },
+        {
+          "id": "1156772",
+          "replier": {
+            "username": "BreakingWave",
+            "uid": "50441"
+          },
+          "date": "2023-02-24",
+          "content": "@習近平有幾隻鳥:我个人是支持单纯陈述事实不算种族歧视的。比我更“进步”一些的人士可能有的会认为有一些事实说出来还是要分清楚场合方式方法，不然有指桑骂槐弦外之音的问题。右派（比如保守党党魁选举时候的Leslyn Lewis）也会经常说“大家应该支持言论自由不讨论问题怎么能解决”，但是这个如果过于极端也会变成极右排除异己乱说话的借口。所以我个人觉得还是应该找一个合适的中间点，或者对什么是“事实”什么是“观点”进行一个明确的定义和教育（这边小学生就会学习，反倒是中文使用区港澳台新马我不知道，但是中国大陆从小都没有这样的教育）"
+        }
+      ]
+    },
+    {
+      "id": "633437",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 得能證明啊, 凴感覺的話我感覺是人就是騙子, 這不就反人類了嘛? 完全可以不説某地騙子多, 某地人數占 10%, 詐騙犯占 15%, 詐騙件數占縂詐騙案件的 20%. 某地騙子多每個人不都會這樣說了?<br/>\n<br/>\n[表象]<br/>\n<br/>\n_ _ 雖然我推薦實話實説, 但是人都知道, 誰沒説過謊呢? 不以坑害對方爲目的小謊言, 我看人是離不開的. 善意小謊言我建議人多說, 這是語言藝術和社交潤滑劑. 我最早是個杠頭, 以前經常會説 \"我覺得你這樣就醜\", 流失了無數有緣人, 年長些就乖了 \"我覺得你這樣不好看, 那樣就好看了\" 我心裏還是 \"我覺得你這樣就醜\".<br/>\n<br/>\n_ _ 人嘛, 百分之 90% 的誠實度. 嗯, 既然帖主頗有我最早的風範, 我也來捅馬蜂窩. 我去過鄭州感覺騙子是不少, 但不如我平常感覺上福建的多, 可是商業上我的行業還是覺得四川的多. 但是北上廣深的騙子厲害, 無論是日常還是商業上的都厲害, 所以我會在一綫城市的時候更加小心. 然後能騙到我錢的是東北騙子~<br/>\n<br/>\n_ _ 也可以說秘訣就是一黑就黑三個或以上吧, wiki/奈及利亞騙徒 尼日利亞騙子都上維基了. 我卻從來不覺的這個國家騙子多, 感覺是不准的數據説話. 人以外的隨便黑誰, 沒人喊歧視或偏見, 當然我身爲人說狗狗笨也沒人說我種族主義和對狗狗有偏見.<br/>\n<br/>\n[根源]<br/>\n<br/>\n_ _ 歧視、偏見和冷漠之所以在當今如此被注重, 要看到背後的野蠻與文明較量. 對人群體性的歧視、偏見和冷漠往往伴隨者殺戮和招致殺戮. 兩次世界大戰都證明了這些, 例如 \"我管你們呢, 我按規矩辦事\"、\"都不好過我也不好過, 落在誰身上誰受著\", 雖然冷漠是最次要的一級在較爲極限的情況下足以激起殺戮了.<br/>\n<br/>\n_ _ 我是希望人能文明到一種境界, 武力只是宣誓保衛自己的決心, 至少不已殺傷別人為目的. 可惜人普遍沒有文明到這個程度, 不説別人我年輕時就鬥毆打人無算. 但是我對人文明到這一讓歧視、偏見和冷漠失去意義的境界有信心, 很多動物無論在食物還是配偶競爭的時候都不會殺戮, 甚至有通過[文明]的儀式來競爭. 如果人類自認爲是萬物的靈長, 那麽就要兌現它.<br/>\n<br/>\n_ _ 我們從遠古走來, 從因爲一條魚兩個人就做減法, 到如今避免歧視、偏見和冷漠, 未來人必將文明到放棄殺戮. 如今導致人大宗殺戮的就是奴役, 我戰勝了本能的殺欲, 希望文明人能做到.\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633586",
+      "is_folded": false,
+      "answerer": {
+        "username": "Darthkahaoki",
+        "uid": "94024"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我说句政治不正确的话, 歧视本来就是很自然的现象,事实上没有任何人能摆脱对自己不了解的东西的偏见,以及客观上的数据事实, 很多人说不要对pornstar有偏见,但轮到自己老婆女儿要出演这玩意你看你有没有偏见。所谓歧视就是人的预防机制而已, 难道你看到老虎就跑你是歧视老虎吗？<br/>\n<br/>\n我不喜欢吃苹果就是不喜欢, 我不喜欢黑人那就不喜欢, 但我不会妨碍别人吃苹果, 单个黑人站在我面前我也不会区别对待他这就够了,少在影视剧和游戏里塞政治正确来恶心人。也别限制人们说话的权利。按照现在白左的标准, 大部分国家的网络环境都是充满歧视恶臭不堪的。<br/>\n<br/>\n数据统计90%多的日本人讨厌中国人, 但现实中该干嘛就干嘛对中国人也没啥限制和区别对待,这根本就谈不上是什么歧视。 如果要打着歧视的口号净化网络环境审查言论那必然会丧失言论自由。就在17,18年之前墙内都是可以随便辱华的现在你能想象吗? 言论自由就是这么一步步丧失。<br/>\n<br/>\n现在最在乎歧视的都是各自种族的底层人, 也就是吃福利,上街打砸抢烧,对社会没有任何价值的那帮人。一个普通白人歧视习近平, 习近平会鸟他吗？你去歧视几亿身家的NBA黑人球员人家在乎你吗？这种人就是你恰好说中了它的本质它才会恼羞成怒气急败坏。真正的黑人精英反倒不会在乎这些事情, 还会客观给你讲黑人本身就有的一些不足之处。真正促进种族间的友谊。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 6,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1156402",
+          "replier": {
+            "username": "langjiaom",
+            "uid": "103699"
+          },
+          "date": "2023-02-22",
+          "content": "现实中哪可能像你说的一样该干嘛就干嘛呢"
+        },
+        {
+          "id": "1156405",
+          "replier": {
+            "username": "Darthkahaoki",
+            "uid": "94024"
+          },
+          "date": "2023-02-22",
+          "content": "已删除"
+        },
+        {
+          "id": "1156408",
+          "replier": {
+            "username": "Darthkahaoki",
+            "uid": "94024"
+          },
+          "date": "2023-02-23",
+          "content": "@langjiaom:日本人歧视中国人有几个日本人看到中国人就打了？ 主流媒体天天说白人歧视黑人, 怎么上街打砸抢烧的都是黑人呢？很多这种莫名其妙的问题都是被金融和科技阶层精英左派精心炮制的挟裹底层黑人来实现自己利益最大化的手段, 跟文革没有任何区别, 文革斗来斗去都不敢斗毛泽东, 底层黑人白人互斗都不敢斗白左精英。"
+        },
+        {
+          "id": "1156442",
+          "replier": {
+            "username": "milala",
+            "uid": "80511"
+          },
+          "date": "2023-02-23",
+          "content": "确实是的，很多刻板印象其实就来自旧时的事实，要消灭歧视首先还是要把自己做好，而不是一边干着坏事，一边喊着被歧视了。"
+        },
+        {
+          "id": "1156445",
+          "replier": {
+            "username": "langjiaom",
+            "uid": "103699"
+          },
+          "date": "2023-02-23",
+          "content": "@Darthkahaoki:动机不100%纯净等于100%不纯净，不100%斗倒等于100%不斗倒，和小粉红批斗废青是否同一逻辑？"
+        }
+      ]
+    },
+    {
+      "id": "633416",
+      "is_folded": false,
+      "answerer": {
+        "username": "nononsense",
+        "uid": "96701"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想提供一個觀點，就是許多看似嚴謹、客觀的定義都有含糊的地方。<br/>\n<br/>\n以樓主的例子來講:<br/>\n騙子的定義是什麼？(需要被法院宣判詐騙嗎？有人報案就算有騙子嗎？證據不足怎麼辦？按哪國的法律？說謊算騙子嗎？騙色算嗎？舉例，喬碧蘿算不算？)<br/>\n犯罪的定義是什麼？(抽大麻算嗎？賣淫算嗎？金融犯罪呢？某些宗教認為的原罪又需要計算嗎？)<br/>\n犯罪率得多高才是高？(1%? 10%? 50%?)<br/>\n什麼是黑人？(一滴血也算嗎？來自所有地方的黑人都算還是只算美國黑人？按膚色深淺區分嗎？)<br/>\n為什麼要算犯罪率？(白人主導的石油公司排放那麼多溫室氣體不犯法但惡性影響也很大，為什麼不拿來比較？)<br/>\n<br/>\n不是想抬槓。我只是想指出，任何模糊的概念都會有人提出異議。就算你嚴格定義了你所提出的某個事實，你憑什麼用你的定義來給每個詞語下定義呢？你要如何服眾？假如你選用某個定義然後邏輯推導出一個結論，但如果你選用另一個定義則會推導出另一個結論，那你憑甚麼覺得你說的就是事實？不同的事實，背後的含義也不一樣。<br/>\n<br/>\n比如說，上海中學生在PISA的表現冠絕全球。你可能也會反駁，美國的中學沒那麼卷、比較重視經驗、快樂……<br/>\n<br/>\n你如何將各種事實整合、傳釋，這方面其實也很重要。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633593",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t事实性陈述当然可以被界定为种族歧视, 不要被\"事实\"两个字影响而认为说的是事实, <b>而且哪怕是事实, 依然可以是歧视</b>.<br/>\n这类陈述当且仅当概念十分清晰(群体?个人?模型?本质?外在?), 而且有意进行具有合法性的步骤贯穿整个推导过程, 才能不算歧视.<br/>\n不同的学科具有不同的合法性, 数学要求完全的逻辑严密, 物理等现实学科只需要符合假说--演绎即可. 伦理学是关注实际个人的学科, 其严谨性应尽可能高, 至少要和法学达到一样的水平. 而任何涉及种族和身份的判断, 都需要经过伦理学的考察, 但网民喜欢用十分简单粗暴和概念混淆的推导和阐述来表达相关观点, 这也是为什么\"事实陈述\"往往不具有合法性.<br/>\n<br/>\n加黑部分的例子: 你说一个事实上的小偷是小偷, 理由是\"他今天吃了早餐\", 那么这一判断是不具有合法性的, 属于歧视, 你只是刚好撞对了结论而已.\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 2,
+      "discussion_count": 16,
+      "discussions": [
+        {
+          "id": "1156410",
+          "replier": {
+            "username": "charactr",
+            "uid": "108340"
+          },
+          "date": "2023-02-23",
+          "content": "已删除"
+        },
+        {
+          "id": "1156413",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-02-23",
+          "content": "@charactr:我们假设这里有一个绝对正确的道德系统, 只能信仰, 无需也不能证明, 内容是基于广义财产权和健康权的人权, 慈善价值和免于被错误审判."
+        },
+        {
+          "id": "1156415",
+          "replier": {
+            "username": "charactr",
+            "uid": "108340"
+          },
+          "date": "2023-02-23",
+          "content": "已删除"
+        },
+        {
+          "id": "1156418",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-02-23",
+          "content": "@charactr:它会非常庞大, 如果展开来说, 所以我概括为\"基于广义财产权和健康权的人权, 慈善价值和免于被错误审判的权利\", 里面每个单独的语句我都检验过它的完备性,明确性和自洽性."
+        },
+        {
+          "id": "1156419",
+          "replier": {
+            "username": "charactr",
+            "uid": "108340"
+          },
+          "date": "2023-02-23",
+          "content": "已删除"
+        },
+        {
+          "id": "1156421",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-02-23",
+          "content": "@charactr:一个应用示例: 如果一个人破坏或直接剥夺他人财产, 那么他会被认定为罪恶的. 而如果对这个人这种性质的罪恶认定的理由是不蕴含破坏或剥夺他人财产的, 那么这个人遭到了错误审判, 如果我们基于审判结果给予他惩罚, 那么我们是有罪的和值得惩罚的."
+        },
+        {
+          "id": "1156422",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-02-23",
+          "content": "@charactr:自创的, 这种东西只能信仰"
+        },
+        {
+          "id": "1156423",
+          "replier": {
+            "username": "charactr",
+            "uid": "108340"
+          },
+          "date": "2023-02-23",
+          "content": "已删除"
+        },
+        {
+          "id": "1156424",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-02-23",
+          "content": "@哥德尔的学生: 所有罪恶的产生还需要主体是一个不受条件反射或暴力强迫的自由意志, 在蕴含\"对方没有这样的权利\"的语句的思想的指导下, 完成该动作."
+        },
+        {
+          "id": "1156427",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-02-23",
+          "content": "@charactr: 你叫什么是无所谓的, 而我要提醒你一件事, 那就是\"信仰\"指的是承认一系列参数的运行规则, 换句话说事实的函数延拓就是\"信仰\", 不像是你已经在黑板写下了\"3\"然后问\"黑板上有什么\"."
+        },
+        {
+          "id": "1156430",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-02-23",
+          "content": "@charactr: 还有, 我生平最讨厌哲学家, 我也从来不认为自己在讨论哲学. 伦理学就是伦理学, 语言学就是语言学."
+        },
+        {
+          "id": "1156433",
+          "replier": {
+            "username": "charactr",
+            "uid": "108340"
+          },
+          "date": "2023-02-23",
+          "content": "已删除"
+        },
+        {
+          "id": "1156435",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-02-23",
+          "content": "@charactr: 我的关于伦理学的信仰是非常庞大的, 所以我只是展示一个局部的现象在这个真命题系统的内部. 上述例子已经是prescriptive了, 而descriptive, 我不仅是描述不同的真理观念会导致什么, 它也会被我放在prescriptive的框架下加以审判, 换句话说我总是展示自己的信仰为真."
+        },
+        {
+          "id": "1156478",
+          "replier": {
+            "username": "极权之下无产权",
+            "uid": "19340"
+          },
+          "date": "2023-02-23",
+          "content": "\"女生里有不少是绿茶婊\"，这句算歧视吗？"
+        },
+        {
+          "id": "1156567",
+          "replier": {
+            "username": "charactr",
+            "uid": "108340"
+          },
+          "date": "2023-02-24",
+          "content": "已删除"
+        },
+        {
+          "id": "1156723",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-02-24",
+          "content": "_ _ 高端了, 可惜很多人看不懂. 唉, 為多數人不理解一根鋼管橫看是棍, 俯視是環而憂慮啊. 事實也有不同角度這麽簡單的事都不知道的人, 以後我要稱呼他(她)們看不懂鋼管者啦~"
+        }
+      ]
+    },
+    {
+      "id": "633454",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有沒有依據、有沒有上下文<br/>\n比方說<br/>\n『眾所周知黑人犯罪率高，因為黑人就是野蠻的未開化人種』是歧視<br/>\n『按照官方數據看來，過去幾年A國的犯罪裡，有高達一半是黑人所為，是各族群之首。其中有八成是在麵包店裡偷麵包這類貧困犯罪，說明A國實施平等政策多年成效依然不佳』就不是歧視<br/>\n『河南人騙子多，我去河南好幾次，次次被騙』不是歧視<br/>\n『河南人騙子多，我看你是河南人，你一定也很會騙』就是\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 12,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633395",
+      "is_folded": false,
+      "answerer": {
+        "username": "negi",
+        "uid": "74403"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t歧视的意思是区别对待，陈述一个事实跟你如何对待其他个体没有任何联系，所以不算歧视。但如果你说根据某个陈述区别对待个体，比如“荷兰人骗子多，所以我办公室那个荷兰人是傻逼”，这就是歧视。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633533",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t事实性陈述不会被法律定为种族歧视，但是法律并不能限制百姓对你社会性死亡，像哈佛校长和jk罗琳，法院并没有判处那些话是不当言论，但是本人依然受到了很大影响。这就好像你当着一个200斤的胖子说他200斤，当着一个残疾人说他残疾，这是实话，但是你还是很讨厌\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633430",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t问题是如何认定事实？比如说，完全可以弄一个草台班子研究所出台任何你想要的结论，这就是事实了？\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633721",
+      "is_folded": false,
+      "answerer": {
+        "username": "rockroll",
+        "uid": "103904"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t比如发生一起凶杀案，凶手是女人，凶手是河南人，凶手是同性恋，凶手是黑人，凶手离婚了 ，凶手是警察，可能都是对的，但表达的意思完全不同。<br/>\n<br/>\n记得有一次抓了个嫖客，还上央视了： “大V也不能逍遥法外”，想表达什么很清楚了。<br/>\n<br/>\n还有一个例子就是国内如果电动车着火，如果是特斯拉一定会报品牌。如果不是特斯拉则不会说具体厂家。<br/>\n所以即使你说的是事实，也可能只是选择性的事实，更容易误导别人\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633472",
+      "is_folded": false,
+      "answerer": {
+        "username": "梅莺毒",
+        "uid": "105602"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t歧视的意思是区别对待，你爱怎么区别对待不是你的个人权利吗。你爱萝卜就是歧视白菜。随便歧视，你又不是搞种族屠杀。<br/>\n<br/>\n你之所以会因为某些特征歧视人，比如满脸横肉的，满嘴正能量的，这显然是一种保护机制，凡是告诉你不许歧视的，就属于侵权。你歧视错了，倒霉的是自己。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633725",
+      "is_folded": false,
+      "answerer": {
+        "username": "聽一聽品一品",
+        "uid": "107955"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t黑人，亞裔這些都是想象共同體上的概念。<br/>\n<br/>\n我拿美妝舉個例子。做粉底液／提亮是很費力不討好的，嬌蘭,MUF最近出了新系列的提亮液，大約二三十個色號，其中有一半多是適合南亞、拉美以及非洲人群使用的，唯獨沒有給碳黑區分冷暖度。於是評論區罵聲一片，說黑人的色號還是不夠。了解彩妝的知道，粉底液是要有覆蓋梯度的，特別黝黑的人，用中性調的深色粉底就可以，再區分冷暖意義不大。反而是淺些膚色的人會出現泛紅，泛黃的問題，因此要研發更多的C, N, W色號。黑人想當然地把所有用不了的色號（包括適合印度人、拉美人，東亞人的色號）通通標籤為Shades for whites, 美妝公司在搞歧視，於是怒不可遏， 整個世界仿佛只有基於膚色的族群對立，這種對立甚至干擾到了正常商業活動運作。我們真的需要100種粉底色號麼？\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633573",
+      "is_folded": false,
+      "answerer": {
+        "username": "langjiaom",
+        "uid": "103699"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t关系到说话的人是否话中有话<br/>\n1. 黑人犯罪率高。<br/>\n2. 黑人犯罪率高（，你也是黑人，所以你也是个罪犯）。<br/>\n虽然只看字面意思，当然是不算种族歧视，但现实中要结合上下文（如是否在互相指责，或者只是融洽地讨论）、对话双方（如说话人是否有种族歧视先例）等隐藏因素分析，自然公说公有理，婆说婆有理\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633722",
+      "is_folded": false,
+      "answerer": {
+        "username": "HumanRights",
+        "uid": "107590"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t开办集中营涉及种族歧视第一位吧<br/>\n<br/>\n再教育营，再教育营，准确点\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633576",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t拿出数据来证明你的论证, 最好能说明其原因. <br/>\n全国发生多少起诈骗案件, 涉案人员中河南人/黑人占比多少, 这些诈骗河南人/黑人又占河南人/黑人总数的百分比. <br/>\n其他地区的也要统计下. 最好还能统计出这些犯罪人员的动机如何. <br/>\n是否还有其他的维度可以进行分析, 性别, 年龄, 出身背景, 家教等等.<br/>\n如果做不到这些, 那就是歧视.\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1156477",
+          "replier": {
+            "username": "极权之下无产权",
+            "uid": "19340"
+          },
+          "date": "2023-02-23",
+          "content": "在日常交流中，一般不可能在说话之前先调查研究论证一番吧"
+        },
+        {
+          "id": "1156486",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-02-23",
+          "content": "@极权之下无产权:那就在日常交流中就不要对一个群体下定义啊."
+        },
+        {
+          "id": "1156643",
+          "replier": {
+            "username": "wget",
+            "uid": "51008"
+          },
+          "date": "2023-02-24",
+          "content": "@极权之下无产权:那你这就是口嗨歧视"
+        },
+        {
+          "id": "1156835",
+          "replier": {
+            "username": "极权之下无产权",
+            "uid": "19340"
+          },
+          "date": "2023-02-25",
+          "content": "@wget: 没关系，我不是官方人员"
+        },
+        {
+          "id": "1156836",
+          "replier": {
+            "username": "极权之下无产权",
+            "uid": "19340"
+          },
+          "date": "2023-02-25",
+          "content": "@用七毛骨灰做夜壶: 随便说说，听者也别太在意了"
+        }
+      ]
+    },
+    {
+      "id": "633403",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\td大多数这种情况都是根据 跟你讨论的对方来判断的<br/>\n很多时候都是“我以为他在种族歧”<br/>\n<br/>\n如果双方在讨论话题的时候不觉得被冒犯 那就不是<br/>\n<br/>\n这种非常唯心的东西 主要还是看对话双方的主观<br/>\n不过我遇到的很多情况都是单方觉得是就是 无论另一方是否真的主观有种族歧视之嫌\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633398",
+      "is_folded": false,
+      "answerer": {
+        "username": "椰奶咖啡",
+        "uid": "87984"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只陈述事实不算，陈述是中性的，歧视是带有主观恶意的，不过有时候确实不容易分辨，特别是只用文字表达的时候，比如举的这2个例子，如果是河南人和黑人看了这2句话，很大可能认为这是歧视。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633394",
+      "is_folded": false,
+      "answerer": {
+        "username": "c2h4",
+        "uid": "101813"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t啥也别说了干了这碗胡辣汤~来世都做荷兰人！没啥好歧视的，你看<mark>支那</mark>狗咬狗有没有感到不适的，黑人互称nigga他们脸红吗\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633396",
+      "is_folded": false,
+      "answerer": {
+        "username": "millsmoores",
+        "uid": "92431"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t即使你的陈述不是事实，陈述本身不构成歧视。<br/>\n<br/>\n即使你的陈述是事实，你根据这个陈述采取对其他人群体的行动，仍然构成歧视。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633417",
+      "is_folded": false,
+      "answerer": {
+        "username": "pingcong813",
+        "uid": "92708"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t学习下介词逻辑，谓语逻辑。<br/>\n<br/>\n我认为符合这类数理逻辑的话语很难界定为歧视。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156400",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-02-22",
+          "content": "问题是他们选用的概念本身都是动词模糊的, 谓语形成的集合处在一种混沌状态"
+        }
+      ]
+    },
+    {
+      "id": "633429",
+      "is_folded": false,
+      "answerer": {
+        "username": "斩首习近平",
+        "uid": "52179"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你用绝对标准看这个问题，不可能会有任何答案，每个人的标准都是完全不同的，“我想即社会共识”是荒唐想法<br/>\n<br/>\n宗教 种族 地域 跨性别这些问题，无论你说什么话都有人会说你是歧视，这才是社会的本质<br/>\n<br/>\n我急需一把枪防身，又追求人类的高度自由，但是持枪权没有开放。同时多数同胞是没有素质的贱畜，开放持枪他们只会乱射。那这可怎么办？<br/>\n<br/>\n我只能去黑市买一把枪，或者接受乱射的生活，我只能决定自己，决定不了他人<br/>\n<br/>\n人类个体和人类社会是有强烈冲突的，这是基因决定，人类的基因适应了几百万年的小种群生活。国家概念才有万年历史，全球化更是突然降临的，我们的基因并不能解释囊括所有大洲 几十亿人类个体的社会<br/>\n<br/>\n你会发现野人部落即使吃人肉，他们内心却很安定。文明社会有超高的生产力，很多人却表现的要么很极端要么很迷茫<br/>\n<br/>\n这个适应过程应该要有个几千年 几万年，现在确实是一个冲突的年代\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633465",
+      "is_folded": false,
+      "answerer": {
+        "username": "神爱共产",
+        "uid": "108395"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以，因为属于编造事实。这不是靠界定得出的。而比如全国人都抱有的共识，南方人狡黠，江浙沪恶毒。就属于事实，因为是对群体性现象做出的总结。不要把不相干的词用在自己文章里\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "634017",
+      "is_folded": false,
+      "answerer": {
+        "username": "木舟",
+        "uid": "75492"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t事情很复杂的，不能一概而论<br/>\n比如说，白人的犯罪普遍是高智商犯罪，利用医生和律师执照对公司或个人进行欺诈，或是在政府内部利用职能滥权进行贪污。<br/>\n这种犯罪即使发生了，一般人也不会把它跟黑人进行的犯罪（凶杀，抢劫）联系在一起。<br/>\n虽然实际上，他们这些行为导致的生命财产损失很多时候都要大于一个拿着枪当了几十年gangster的黑人。\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633778",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahaha111",
+        "uid": "107824"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怎么不算呢 即使是事实性陈述 “河南人骗子多”这句话本身就带有一种地域歧视 只是没有被法律认定而已\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633560",
+      "is_folded": false,
+      "answerer": {
+        "username": "雷锋2021",
+        "uid": "73296"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t河南骗子多，这句话是歧视。哪的骗子少，福建和浙江的骗子少吗。单独提出河南就是歧视。<br/>\n歧视无处不在，敢于歧视，也要敢于面对质疑，不做两面人，一面歧视，一面不承认歧视。<br/>\n<br/>\n另外一种情况，当你身处河南火车站，或刚放下电话，说河南骗子多，福建骗子多，这是事实，是你刚经历过的事实。 同样，你喊投资不过山海关，这就是胡逼咧。因为投资也没有留在河北或去了湖北湖南。<br/>\n<br/>\n西方国家有些歧视要承担后果，比如公开歧视黑人同性恋。公司歧视孕期妇女。<br/>\n西方文化对黑人的保护是否过头？只要认识到中国是歧视最严重的地区，每个人都是染毒者。东亚人是政治正确的受益者，就不好老鼠上桌，乱评价高大上的东西。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633565",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以这样说和形成这样的看法，而且也没办法避免这种主观印象的形成，但是这个很容易演化到歧视。在法律上来说则必须就个体而论，不能以群体论。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633570",
+      "is_folded": false,
+      "answerer": {
+        "username": "习惯近乎躺平",
+        "uid": "89436"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t举个例子,假如在孩子满月酒上,有一个人说这孩子早晚得死.虽然这是事实性陈述,但话说出口时还是要做好被打击的准备.\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633735",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛屠支",
+        "uid": "99977"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t天下左逼是一家。你陈述事实共左说你辱华，同样你陈述事实白左说你辱少数群体。感谢西方的民主制度，若是白左获得像共产党一样的权力，必将以反黑反lgbtqwertyuiop等罪名将正常发言讲真话的人逮捕。\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633423",
+      "is_folded": true,
+      "answerer": {
+        "username": "charactr",
+        "uid": "108340"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-02-22",
+      "agree_count": -1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1156311",
+          "replier": {
+            "username": "charactr",
+            "uid": "108340"
+          },
+          "date": "2023-02-22",
+          "content": "已删除"
+        },
+        {
+          "id": "1156320",
+          "replier": {
+            "username": "millsmoores",
+            "uid": "92431"
+          },
+          "date": "2023-02-22",
+          "content": "为什么理性就不能歧视，难道歧视都是非理性行为？"
+        },
+        {
+          "id": "1156333",
+          "replier": {
+            "username": "charactr",
+            "uid": "108340"
+          },
+          "date": "2023-02-22",
+          "content": "@millsmoores:你不懂理性。人有权追求自己的快乐吗，这就是理性。假设雇主没有时间深入了解求职者，种族就是一个考虑因素。如果我被拒绝，我就说good for him, he made the right decision, 我不会说他歧视我。"
+        }
+      ]
+    }
+  ]
+}

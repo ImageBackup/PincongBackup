@@ -1,0 +1,36 @@
+{
+  "question_id": "52556",
+  "category_id": "4",
+  "title": "Cloudflare WARP作为二重代理方案是否足够安全？",
+  "meta_description": "Cloudflare WARP作为二重代理方案是否足够安全？ - 给自己的代理服务器安装WARP后，可以实现出站流量走warp，隐藏vps的真实ip，同时也避免了被不信任的IDC（比如中国人开的那些）得知浏览反共网站的事实。 然而，针对WARP，我有几点疑问： CloudFlare是否可信？通过它的服务来发表、浏览言论，...",
+  "meta_keywords": "cloudflare,warp,二重,代理,方案,是否,足够,安全",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "199",
+      "name": "安全"
+    },
+    {
+      "id": "470",
+      "name": "vpn"
+    },
+    {
+      "id": "3308",
+      "name": "CloudFlare"
+    }
+  ],
+  "author": {
+    "username": "clearlove_8964",
+    "uid": "101818"
+  },
+  "view_count": 6509,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t给自己的代理服务器安装WARP后，可以实现出站流量走warp，隐藏vps的真实ip，同时也避免了被不信任的IDC（比如中国人开的那些）得知浏览反共网站的事实。<br/>\n然而，针对WARP，我有几点疑问：<br/>\nCloudFlare是否可信？通过它的服务来发表、浏览言论，是否有源IP被记录的可能？<br/>\nWARP的一键脚本是否可信？例如https://github.com/fscarmen/warp，我技术有限，虽然作者提供的脚本很好用，我也很感谢作者，但防人之心不可无。<br/>\n它的速度已经比Tor快得多。然而只有两层代理，且网桥（也就是自己的服务器）IP固定，这种安全性是否足以替代Tor？\t\t\t\t\t\t\t</div>",
+  "date": "2022-11-11",
+  "agree_count": 0,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 1
+}

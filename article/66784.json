@@ -1,0 +1,30 @@
+{
+  "article_id": "66784",
+  "category_id": "4",
+  "title": "逻辑透镜第二版：直接生成提示词，用于检测逻辑漏洞和诡辩（油猴脚本版）",
+  "meta_description": "逻辑透镜第二版：直接生成提示词，用于检测逻辑漏洞和诡辩（油猴脚本版） - [url=https://pincong.rocks/article/66641]书接上文[/url]，俺这次把逻辑透镜转换成了一个油猴脚本，这样使用起来应该会更方便一些。  你可以从这个地址安装： [url=https://greasyfork.org/...",
+  "meta_keywords": "逻辑,透镜,第二,直接,生成,提示,用于,检测,漏洞,诡辩,油猴脚,本版",
+  "tags": [
+    {
+      "id": "1913",
+      "name": "诡辩"
+    },
+    {
+      "id": "6349",
+      "name": "逻辑谬误"
+    },
+    {
+      "id": "104134",
+      "name": "GPT"
+    }
+  ],
+  "author": {
+    "username": "cybermage",
+    "uid": "29130"
+  },
+  "contents": "<div class=\"content markitup-box\">\n<a href=\"https://pincong.rocks/article/66641\" title=\"https://pincong.rocks/article/66641\">书接上文</a>，俺这次把逻辑透镜转换成了一个油猴脚本，这样使用起来应该会更方便一些。<br/>\n<br/>\r\n你可以从这个地址安装： <a href=\"url/link/aHR0cHM6Ly9ncmVhc3lmb3JrLm9yZy96aC1DTi9zY3JpcHRzLzQ4MjEwNS0lRTklODAlQkIlRTglQkUlOTElRTklODAlOEYlRTklOTUlOUM\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://greasyfork.org/zh-CN/scripts/482105-%E9%80%BB%E8%BE%91%E9%80%8F%E9%95%9C\">https://greasyfork.org/zh-CN/scripts/482105-%E9%80%BB%E8%BE%91%E9%80%8F%E9%95%9C</a><br/>\r\n关于如何使用油猴脚本，参见这个教程：<a href=\"url/link/aHR0cHM6Ly9ncmVhc3lmb3JrLm9yZy96aC1DTg\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://greasyfork.org/zh-CN\">https://greasyfork.org/zh-CN</a><br/>\n<br/>\n<b>简介</b><br/>\r\n本脚本可以从品葱页面生成大语言模型的提示词，用来寻找文章及其回复的逻辑漏洞和诡辩。这个脚本生成的提示词标出了作者和和时间，便于大语言模型生成更准确的结果。理论上，这个提示词可以用在任何大语言模型上，但是在 GPT-4 上有更好的结果。此外，如果文章过长，可能会超出模型的上下文窗口，导致无法生成结果。<br/>\n<br/>\n<b>本脚本使用教程：</b><br/>\r\n1. 打开任意的文章页面（本脚本目前只能在文章上使用）<br/>\r\n2. 在顶部的“关注”按钮旁边可以找到“逻辑透镜”的按钮。<br/>\r\n3. 点击按钮，脚本将自动生成提示词并跳转到 ChatGPT 页面<br/>\r\n4. <b>手动粘贴</b>提示词，回车即可让 ChatGPT 生成结果。<br/>\r\n4a. 如果粘贴之后什么都没有，请回到点击按钮的页面，看一下浏览器有没有请求访问剪贴板的权限。请允许这个权限，然后再试一次。<br/>\r\n5. 如果您认为 GPT 的回答有问题（比如分不清楚哪些观点是哪些人提出的），请尝试以下步骤：<br/>\r\n5a. 重新生成结果<br/>\r\n5b. 让GPT审视自己的回答（比如使用提示词：“请重新审视自己的回答，它真的合理吗？”）<br/>\n<br/>\n<b>安全提示</b><br/>\n<u>建议使用官方网站，因为第三方的GPT转发工具可能有后门。如果执意使用第三方网站，请在隔离的环境下进行：隐藏自己的IP地址；使用网页版，而不是安装到手机或PC上；在注册账号时避免使用真实姓名、手机号或者非匿名邮箱（建议在隐藏IP地址的情况下使用 protonmail）。</u><br/>\n<br/>\n<b>额外的安全选项</b><br/>\n<br/>\r\n在交流完毕后，建议删除聊天记录，或者直接关闭“在线同步聊天记录”选项：<br/>\n<u><a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvY2E3MjhmYWRhZDA5Y2ZkMmE1MGMzLnBuZz93aWR0aD02OTImaGVpZ2h0PTQzNg\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/ca728fadad09cfd2a50c3.png?width=692&amp;height=436\"><img alt=\"https://telegra.ph/file/ca728fadad09cfd2a50c3.png?width=692&amp;height=436\" loading=\"lazy\" src=\"https://telegra.ph/file/ca728fadad09cfd2a50c3.png?width=692&amp;height=436\" style=\"max-width:100%\"/></a></u><br/>\n<br/>\n<b>特别感谢</b><br/>\n<br/>\r\n@TomHolland1996 提供的新提示词 （原文： <a href=\"https://pincong.rocks/article/item_id-1148045\" title=\"https://pincong.rocks/article/item_id-1148045\">https://pincong.rocks/article/item_id-1148045</a> ）\t\t\t\t\t\t\t</div>",
+  "view_count": 7958,
+  "date": "2023-12-13",
+  "agree_count": 3,
+  "comment_count": 6
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "55921",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "629348",
+      "is_folded": false,
+      "answerer": {
+        "username": "习易冷",
+        "uid": "107526"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我没用过这个，我用的是狗急，虽然要收费，但是还挺稳的，电脑也可以用\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629035",
+      "is_folded": true,
+      "answerer": {
+        "username": "Classwarfare",
+        "uid": "107529"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\t目前在用这个http://www.opwpvpn.net/ ，用了一段时间了，没有出现啥问题，感觉还不错。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

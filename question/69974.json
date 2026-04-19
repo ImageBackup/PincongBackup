@@ -1,0 +1,24 @@
+{
+  "question_id": "69974",
+  "category_id": "8",
+  "title": "品葱发帖能否支持通过邮箱发帖呢？",
+  "meta_description": "品葱发帖能否支持通过邮箱发帖呢？ - 比如，提供一个固定的邮箱给大家 post.pincong@gmail.com 发帖的大致步骤是        用户将需要发表的内容写在文本文件内 mypost.md       然后用zip加密 密码就使用品葱内给用户生成的3个月有效的临时发帖密码。   ...",
+  "meta_keywords": "品葱,发帖,能否,支持,邮箱",
+  "tags": [
+    {
+      "id": "854",
+      "name": "建议"
+    }
+  ],
+  "author": {
+    "username": "pcest666",
+    "uid": "134689"
+  },
+  "view_count": 268,
+  "date": "2024-09-12",
+  "agree_count": 0,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 0,
+  "content": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t比如，提供一个固定的邮箱给大家 post.pincong@gmail.com<br/>\n发帖的大致步骤是<br/>\n<br/>\n      用户将需要发表的内容写在文本文件内 mypost.md<br/>\n      然后用zip加密 密码就使用品葱内给用户生成的3个月有效的临时发帖密码。<br/>\n      然后将zip文件作为附件，设置特定格式的标题和正文，发到邮箱，即可完成发帖。<br/>\n<br/>\n这个邮件发帖的功能的作用是，用户可以通过命令行完成发帖。不需要操作tor浏览器的图形界面。在很多使用代理翻墙和远程主机的网络环境中便于操作。\t\t\t\t\t\t\t</div>"
+}

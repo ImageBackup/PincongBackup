@@ -1,0 +1,104 @@
+{
+  "parent_type": "question",
+  "parent_id": "62673",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "699041",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从英国power vr那里授权<br/>\n然后把设计让台积电代工<br/>\n<br/>\n骗中国人钱的高级打磨\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699042",
+      "is_folded": false,
+      "answerer": {
+        "username": "共同赴狱",
+        "uid": "76174"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t摩尔用的powerVR的方案，PowerVR也是个老厂，虽然比NA差得远，但也有不错实力的，最近这家老厂被中资收购了，这可能是收购前研发出的最新架构。<br/>\n摩尔做的事其实和海思差不多，麒麟芯片的CPU、GPU架构都是ARM的，华为只是把它们封装到了一起，当然能做到一起并正常运行也不是一件容易的事情，但这比设计架构是容易多了，而且只干这些封装的活是涨不了架构设计经验的，也就是说，永远都要等着人家给饭吃，没有什么发展潜力。\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699044",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t摩尔线程买的power Vr的技术。<br/>\nPower VR在二十年前是响当当的。<br/>\n<br/>\n搭载Power VR的设备有PS2， iPad<br/>\n个个都是生产上亿的设备。<br/>\n与英伟达，ATI竞争失败以后，还在嵌入式市场有一些份额。<br/>\n<br/>\n在现在，就只能打酱油了。没有CUDA，Amd面对老黄都只能干瞪眼。<br/>\n技术大概落后10年左右。<br/>\n摩尔线程的GPU，200＋W的功耗，效能相当于Gtx1060<br/>\n一年前看过油管老美科技博主做的评测。好像是长头发的那个\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699045",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t习近平同志及粉蛆们心心念念的弯道超车、遥遥领先原来只是别有用心的人捡洋垃圾。\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699167",
+      "is_folded": false,
+      "answerer": {
+        "username": "wget",
+        "uid": "51008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tPower VR放在当年还是有名头的, 现在就不行了, 至少远远不如两大厂\t\t</div>",
+      "date": "2023-10-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699039",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t什么gpu？<br/>\n经常听说cpu，不过垃圾而已<br/>\n第一次听说gpu，细说<br/>\n<br/>\n紫薯布丁\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1218689",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-10-21",
+          "content": "顯卡上面的繪圖晶片，玩高畫質遊戲大作需要的。因為是向量計算，後來被拿來算AI，當成AI芯片用，這方面比CPU那種線性計算快幾萬倍。"
+        },
+        {
+          "id": "1218738",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2023-10-22",
+          "content": "@MasonQian:我当然知道gpu就是显卡，这些年拿来ai计算等等应用，我不知道中共国还有gpu这件事"
+        }
+      ]
+    }
+  ]
+}

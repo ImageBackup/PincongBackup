@@ -1,0 +1,240 @@
+{
+  "parent_type": "question",
+  "parent_id": "55949",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "629408",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不可能，为了潜在的百亿估值的项目，让自己的千亿业务受到法律威胁，没有人会干出这种傻事。<br/>\n<br/>\nGoogle的问题是所有大企业的问题，迭代速度太慢。所以大公司有资源但还是喜欢收购，比如openai。bard是Google自己搞的，所以慢很多，但现在还没看到demo，没法比较。报道没什么意思，等有beta再说。<br/>\n<br/>\n另外全角英文真难看。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 15,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1152821",
+          "replier": {
+            "username": "願榮光重歸香港",
+            "uid": "73805"
+          },
+          "date": "2023-02-09",
+          "content": "全角英文真難看+1"
+        },
+        {
+          "id": "1152835",
+          "replier": {
+            "username": "theX",
+            "uid": "42399"
+          },
+          "date": "2023-02-09",
+          "content": "全角英文真難看+1"
+        }
+      ]
+    },
+    {
+      "id": "629445",
+      "is_folded": false,
+      "answerer": {
+        "username": "矫枉必须过正",
+        "uid": "36965"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你的问题我问了ChatGPT，这是它给出的回答。<br/>\n<br/>\n微软旗下的 ChatGPT 和谷歌旗下的 BERT 实际上是不同类型的 AI 模型，每个模型都有其特定的优势和功能。因此，说其中一个模型比另一个模型更强大是不妥当的。<br/>\n<br/>\nChatGPT 是一种自然语言生成模型，专门用于回答用户提出的问题，生成可读性较高的文本。它是基于 OpenAI 的大型语言生成模型 GPT-3 训练的。<br/>\n<br/>\nBERT 则是一种自然语言处理模型，其主要功能是深入理解语句的语义。它可以用于分类、推理和问答任务等。<br/>\n<br/>\n总的来说，如果你需要生成可读性较高的文本，那么 ChatGPT 可能是一个更好的选择；如果你需要在文本中进行深入语义分析，那么 BERT 则是一个更好的选择。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 13,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152823",
+          "replier": {
+            "username": "weibao",
+            "uid": "41372"
+          },
+          "date": "2023-02-09",
+          "content": "多谢科普，"
+        }
+      ]
+    },
+    {
+      "id": "629410",
+      "is_folded": false,
+      "answerer": {
+        "username": "矢作萌夏",
+        "uid": "29415"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t为什么你拉丁字母是全角啊 你是日本人吗？\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1152839",
+          "replier": {
+            "username": "關文虎",
+            "uid": "91325"
+          },
+          "date": "2023-02-09",
+          "content": "已删除"
+        },
+        {
+          "id": "1152840",
+          "replier": {
+            "username": "關文虎",
+            "uid": "91325"
+          },
+          "date": "2023-02-09",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "629510",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那个常识性的问题本身就很冷门，完全不是什么硬伤。 你可以argue 第一个进入太空的人是谁， 这个可能会有不同的答案，假如对太空的概念定义有所不同。  还有第一个登上珠峰的人是谁，最近几年的研究结论，倾向于很有可能是马洛里。<br/>\n<br/>\n<br/>\n还有就是 人也会犯错。人工智能是模仿人的智能形式，犯错也是可以理解的。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629440",
+      "is_folded": false,
+      "answerer": {
+        "username": "半场",
+        "uid": "105808"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谷歌英文搜索的检索能力其实比不上毛子的Yandex，不是开玩笑。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629508",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用的人多所以收集了许多数据来改进<br/>\n<br/>\n这个的确别人很难竞争\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629412",
+      "is_folded": false,
+      "answerer": {
+        "username": "郝明珠",
+        "uid": "107313"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谷歌若是开放手机注册限制，起码大陆的几千万人都会成为用户，无论键政还是骑墙，还是黑产都可以成为谷粉。<br/>\n他为什么不？\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1152814",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-02-09",
+          "content": "你在说什么？我刚注册了一个Google邮箱，不用手机。\n如果你说注册Google voice，那玩意运营是要花钱的。。几千万中国账号是为了增加负资产吗"
+        },
+        {
+          "id": "1152815",
+          "replier": {
+            "username": "郝明珠",
+            "uid": "107313"
+          },
+          "date": "2023-02-09",
+          "content": "@李瑞环:我注册不了，你送我一个帐号呗。"
+        }
+      ]
+    },
+    {
+      "id": "629414",
+      "is_folded": false,
+      "answerer": {
+        "username": "隐匿之影",
+        "uid": "103339"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t也许是样本的规模不一样，微软在很多专制国家都可以获得素材，不像谷歌那样有价值观和立场的限\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629448",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 估計是之前微軟在世界各地機房建設上投的狠的緣故吧, 爲了在雲計算上追上先發者, 在 Azure 機房建設上下了大本. 當時手機錯過云也錯過的話就沒有新增長點了, 應該是感受到生存危機了帶啦的優勢吧. 微軟有很大意願在 AI 上領跑這點比 Mate 強, 踏實吃技術飯多好多穩當, 趕上潮流就成飛豬了.\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629450",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你居然认为操作系统不如搜索引擎熟悉用户习惯？？？怎么敢的，要知道很多国家可以封禁谷歌，但绝对不敢弃用微软，论用户粘度和垄断地位，谷歌算个鸡儿啊，本来安卓有机会搞一搞，可惜开源化以后很难往里面开后门还不被发现\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629470",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谷歌的AI理论上比chatgpt更先进，只不过谷歌一直在测试项目，没有发布。<br/>\n<br/>\nchatgpt为了赚钱现在就发布了，微软注资后也跟着炒作。谷歌一看你们不讲武德，来骗，来偷袭，也让自家AI发布了，不过目前仍然是内测阶段。<br/>\n<br/>\n谷歌的AI在内部测试中甚至让测试人员感到害怕，该名员工曝光以后被谷歌开除了，这件事发生在chatgpt爆火之前。按照chatgpt的表现看，谷歌员工的爆料应该是真的，因为理论上它比chatgpt更厉害。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152929",
+          "replier": {
+            "username": "大美利坚总统拜登",
+            "uid": "21731"
+          },
+          "date": "2023-02-09",
+          "content": "很盼望Google的AI聊天机器人上线，据被开的员工所说，他们的AI已经有自我意识，那聊起来不就感觉跟真人一样?比较讨厌问chatgpt什么问题它总要先声明一下: 作为AI语言生成器，我不。。。但是。。。特别扫兴 - 我难道不知道吗？需要你回答每个问题前强调一遍?!\n不过有自我意识的AI可能有伦理问题。。。"
+        }
+      ]
+    },
+    {
+      "id": "629487",
+      "is_folded": false,
+      "answerer": {
+        "username": "eleven_day",
+        "uid": "43504"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t同样的数据集，如何预处理，特征工程怎么做，训练集与测试集的划分，采取什么策略与算法，共同影响最终训练出的模型。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

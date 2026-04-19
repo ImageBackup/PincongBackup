@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "55174",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "620450",
+      "is_folded": false,
+      "answerer": {
+        "username": "minigun",
+        "uid": "29460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t鸭子测试：如果它看起来像鸭子、游泳像鸭子、叫声像鸭子，那么它可能就是只鸭子。\t\t</div>",
+      "date": "2023-01-13",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1144322",
+          "replier": {
+            "username": "Ligur",
+            "uid": "6591"
+          },
+          "date": "2023-01-13",
+          "content": "难绷，全世界东亚人被黑得最惨的一次"
+        }
+      ]
+    },
+    {
+      "id": "620480",
+      "is_folded": false,
+      "answerer": {
+        "username": "半场",
+        "uid": "105808"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t白皮也是这么认为的，前几年偷渡英国死掉的几十越南人因为长得一张黄皮脸，就说是中国人。\t\t</div>",
+      "date": "2023-01-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "620487",
+      "is_folded": false,
+      "answerer": {
+        "username": "tuyouyou",
+        "uid": "101697"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只会猜测对方的国籍，怎会认为是同类？同一家公司里也是各种心机勾心斗角，怎会轻易把你当同类？有变态同化欲的是毒菜和评论员。一言堂、禁止评论、24小时洗脑、威逼利诱、道德绑架，无一不展现毒菜的变态同化欲。\t\t</div>",
+      "date": "2023-01-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

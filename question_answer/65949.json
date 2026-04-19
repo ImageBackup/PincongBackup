@@ -1,0 +1,59 @@
+{
+  "parent_type": "question",
+  "parent_id": "65949",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "734134",
+      "is_folded": false,
+      "answerer": {
+        "username": "tipsss",
+        "uid": "126110"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tsage poe可以试试。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。\t\t</div>",
+      "date": "2024-03-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734143",
+      "is_folded": false,
+      "answerer": {
+        "username": "注册新用户2",
+        "uid": "121936"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一般能看到的chatgpt 是3.5和4<br/>\n两个版本回答同一个问题的答案完全不一样。<br/>\n应该是不同的语言模型训练出来的\t\t</div>",
+      "date": "2024-03-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734144",
+      "is_folded": false,
+      "answerer": {
+        "username": "宅科村老英雄",
+        "uid": "125875"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t來美國就沒這個問題了，chatgpt對我來説屬於日常軟件。\t\t</div>",
+      "date": "2024-03-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734131",
+      "is_folded": true,
+      "answerer": {
+        "username": "qinwenze",
+        "uid": "118632"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-03-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

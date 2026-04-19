@@ -1,0 +1,88 @@
+{
+  "parent_type": "question",
+  "parent_id": "62241",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "694053",
+      "is_folded": false,
+      "answerer": {
+        "username": "plus05",
+        "uid": "117133"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个网站好讨厌，开了VPN，打开好多网站都会出现他们的验证码，包括品葱也被他们的验证码拦住了。<br/>\n严重怀疑他们是给自己域名刷流量。\t\t</div>",
+      "date": "2023-10-03",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1213244",
+          "replier": {
+            "username": "习近平的裤子",
+            "uid": "100552"
+          },
+          "date": "2023-10-03",
+          "content": "这是站长手动开启的功能"
+        },
+        {
+          "id": "1237093",
+          "replier": {
+            "username": "iknownothing",
+            "uid": "121367"
+          },
+          "date": "2024-01-06",
+          "content": "不是的，验证是为了防止DDoS攻击。而攻击者使用VPN的IP进行攻击的可能性大，所以使用VPN时更可能遇到验证"
+        }
+      ]
+    },
+    {
+      "id": "694072",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没鸟用, 和app一样, 搞白名单就行了.<br/>\n目前没被墙的网站,就算你能直接打开,速度也很慢,根本没法用. 这么算总共不能上的网站可不止20%, 对于广大不懂英语的人, 根本没有感觉.\t\t</div>",
+      "date": "2023-10-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "694059",
+      "is_folded": false,
+      "answerer": {
+        "username": "sysut",
+        "uid": "99533"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t简单说一下，就是使用这个标准后，访问cf的网站除了cf官方和网站所有者都不能知道你访问了那个网站。    目前gfw已经做出了回应，有一部分的节点已经被ban了   帖个知乎荒原：*Encrypted Client Hello (ECH)* 是 Encrypted SNI 的后继者，它加密了用于协商 TLS 握手的服务器名称指示 (SNI)。<br/>\n<br/>\n这意味着，每当用户访问 Cloudflare 上启用了 ECH 的网站时，除了用户、Cloudflare 和网站所有者之外，*没有人能够确定访问了哪个网站*。<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nCloudflare 目前已经强制为所有免费计划的用户默认启用了ECH，且无法手动关闭。对于GFW来说，加密的SNI意味着，**GFW将不再能够通过域名劫持来阻止大陆用户访问国际互联网**，仅剩的手段是IP封禁和DNS污染。<br/>\n<br/>\n<br/>\n<br/>\n要么阻断所有ECH流量（其效果将等同于**封禁整个Cloudflare网络，这意味着所有使用Cloudflare的网站将会被全数封锁。**然而，**Cloudflare 服务了全球约 20% 的互联网流量，贸然封禁它带来的后果是不可估量的**）；要么耗费大量资源，维护一个黑名单IP列表；要么**对出境网络实施彻底的白名单制度**。<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nECH的未来尚不明朗，但我们仍将***拭目以待***。<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\n<br/>\n<br/>\n<br/>\n在关闭 GFW 和屏蔽 20% 互联网，中国政府选择了后者。<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\n<br/>\n<br/>\n<br/>\n2023/10/3 19:17<br/>\n<br/>\n<br/>\n<br/>\n- 目前部分CloudFlare网络已被屏蔽，包括但不限于：<br/>\n<br/>\n- CloudFlare 洛杉矶节点<br/>\n<br/>\n- CloudFlare 部分边缘网络<br/>\n<br/>\n- CloudFlare CN<br/>\n<br/>\n- CloudFlare Dash Src<br/>\n<br/>\n- 1.1.1.1<br/>\n<br/>\n- 部分地区的 warp+<br/>\n<br/>\n- *.pages.dev<br/>\n<br/>\n- *.workers.dev<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\n<br/>\n<br/>\n<br/>\n19:21 Update<br/>\n<br/>\n<br/>\n<br/>\n- api.mojang.com<br/>\n<br/>\n- **api.qq.com** (笑)<br/>\n<br/>\n- api.openai.com<br/>\n<br/>\n- awaish.link<br/>\n<br/>\n- github.com<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\n<br/>\n<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvYTgxYThhYWE2ZGE4ZmJjZjY2ZjU1LmpwZz93aWR0aD03MjAmaGVpZ2h0PTY5OA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/a81a8aaa6da8fbcf66f55.jpg?width=720&amp;height=698\"><img alt=\"https://telegra.ph/file/a81a8aaa6da8fbcf66f55.jpg?width=720&amp;height=698\" loading=\"lazy\" src=\"https://telegra.ph/file/a81a8aaa6da8fbcf66f55.jpg?width=720&amp;height=698\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-10-03",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1213243",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-10-03",
+          "content": "oh，大概明白了，cloudflares類似CDN"
+        }
+      ]
+    },
+    {
+      "id": "694070",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从arm的指令集到HTTPS协议<br/>\n新的技术更新会把中国排除在外(多半习主席主动)<br/>\n<br/>\n日子久了华为手机就和拉达汽车差不多 淘汰速度要快许多\t\t</div>",
+      "date": "2023-10-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

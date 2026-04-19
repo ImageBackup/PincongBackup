@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "65793",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "732389",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我2010左右自學倉頡，網上看教程，背碼表，一個下午基本學會，兩三天熟練，一週很熟，二週更熟\t\t</div>",
+      "date": "2024-03-06",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1249546",
+          "replier": {
+            "username": "可莉",
+            "uid": "125449"
+          },
+          "date": "2024-03-06",
+          "content": "还要背碼表吗？敢接好难搞啊，最不喜歡背書了"
+        },
+        {
+          "id": "1249550",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-06",
+          "content": "@可莉: 拆字"
+        }
+      ]
+    }
+  ]
+}

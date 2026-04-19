@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "57520",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "646947",
+      "is_folded": false,
+      "answerer": {
+        "username": "deatholder2",
+        "uid": "74314"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t接cnn圣旨，确定为真<br/>\nhttps://twitter.com/AlternatNews/status/1645339011056107520?t=rjlURCNkXdDOfICDLmLpWQ&amp;s=19\t\t</div>",
+      "date": "2023-04-10",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1169181",
+          "replier": {
+            "username": "Cheney",
+            "uid": "92254"
+          },
+          "date": "2023-04-10",
+          "content": "cnn信的過，這件事應該是真的，可是洩露出來的情報有多少是造假的還不清楚"
+        }
+      ]
+    },
+    {
+      "id": "646955",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t真的假的都有, 真假都可以误导吓唬宣传<br/>\n<br/>\n比如德国入侵苏联以前把飞机掉下来真情报被苏联获得, 但是他们以为是假的<br/>\n<br/>\n美国虚虚实实也是兵家常事\t\t</div>",
+      "date": "2023-04-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

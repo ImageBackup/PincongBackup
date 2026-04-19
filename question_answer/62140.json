@@ -1,0 +1,89 @@
+{
+  "parent_type": "question",
+  "parent_id": "62140",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "693088",
+      "is_folded": false,
+      "answerer": {
+        "username": "庆丰包子的梦帝",
+        "uid": "1283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国区的苹果app商店还有梯子vpn？不都是钓鱼vpn吗？用这个不等于找死嘛？\t\t</div>",
+      "date": "2023-09-29",
+      "agree_count": 8,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1212273",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-09-30",
+          "content": "我的安卓也有但是我都是在谷歌上面下载的，不敢从官方商店下载"
+        }
+      ]
+    },
+    {
+      "id": "693086",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你不用中国区app store，备案就跟你一点关系也没有。<br/>\n<br/>\n如果你用中国区AppStore，那来品葱这么多年，不是白来了😄\t\t</div>",
+      "date": "2023-09-29",
+      "agree_count": 6,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1212275",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-09-30",
+          "content": "想知道以后还可以翻墙不主要是"
+        }
+      ]
+    },
+    {
+      "id": "693089",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t安卓和android很不同<br/>\n。。。。。。。。。。。。。。。。。\t\t</div>",
+      "date": "2023-09-29",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1212274",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-09-30",
+          "content": "没用过苹果"
+        }
+      ]
+    },
+    {
+      "id": "693282",
+      "is_folded": false,
+      "answerer": {
+        "username": "Mrsun",
+        "uid": "116205"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t目前还可以通过非国区Apple ID来解决<br/>\n如果下一步要求苹果限制中国大陆内的设备登录非中国大陆地区的ID时，那就更难了。\t\t</div>",
+      "date": "2023-09-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

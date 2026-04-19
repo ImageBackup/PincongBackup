@@ -1,0 +1,38 @@
+{
+  "question_id": "52379",
+  "category_id": "1",
+  "title": "为什么说在品葱发图片有可能被发现身份？",
+  "meta_description": "为什么说在品葱发图片有可能被发现身份？ - 这是啥道理？品葱不是不记录用户IP的吗？",
+  "meta_keywords": "品葱发,图片,被发现,身份",
+  "tags": [
+    {
+      "id": "11219",
+      "name": "图片"
+    },
+    {
+      "id": "100119",
+      "name": "为什么"
+    }
+  ],
+  "author": {
+    "username": "心情不好",
+    "uid": "82447"
+  },
+  "view_count": 7122,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t这是啥道理？品葱不是不记录用户IP的吗？\t\t\t\t\t\t\t</div>",
+  "date": "2022-11-06",
+  "agree_count": 2,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1025381",
+      "replier": {
+        "username": "hansenboiger",
+        "uid": "93136"
+      },
+      "date": "2022-11-07",
+      "content": "发现微信是一个问题很大的程序，我在电脑上如果用网页浏览商品后，再上微信，在微信的朋友圈有个广告推送，就是我在网页上浏览的这个商品，不知有没有一样的人？"
+    }
+  ],
+  "answer_count": 11
+}

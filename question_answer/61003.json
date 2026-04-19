@@ -1,0 +1,57 @@
+{
+  "parent_type": "question",
+  "parent_id": "61003",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "681180",
+      "is_folded": false,
+      "answerer": {
+        "username": "zsy2023",
+        "uid": "92543"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还有做字体版权申请的，一旦发现有人用了一些字体，就会成被告，要求索赔。\t\t</div>",
+      "date": "2023-08-19",
+      "agree_count": 2,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1200954",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2023-08-19",
+          "content": "字体的风险容易规避，一律用开源字体好了。但图片可是防不胜防。"
+        },
+        {
+          "id": "1200957",
+          "replier": {
+            "username": "zsy2023",
+            "uid": "92543"
+          },
+          "date": "2023-08-19",
+          "content": "@佐助:音乐版权大都是不做商业用途，只是个人娱乐，都不收费。如果真是较真玩版权的话，腾讯产品那么多，能玩的更狠。\n视觉中国这破逼企业，也就在中国能钻法律空子。"
+        },
+        {
+          "id": "1200959",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2023-08-19",
+          "content": "@zsy2023:如果我将来做印刷品，一律使用linux那个droid sans字体，还有宋体黑体，应该没风险吧。\n微软雅黑和各种兰亭黑，听说都是付费字体，一旦商用就要当被告。\n我想找一种能商用的免费的无衬线的中文字体，还挺不容易的。\n音乐也是，如果我保留曲调，把歌词改成自己的，然后去演出买票，不知道是否会当被告。"
+        },
+        {
+          "id": "1200997",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-08-19",
+          "content": "@佐助:曲调有版权的"
+        }
+      ]
+    }
+  ]
+}

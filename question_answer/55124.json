@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "55124",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "619905",
+      "is_folded": false,
+      "answerer": {
+        "username": "博彩网站",
+        "uid": "106499"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tChatGPT只是个 代码引擎。<br/>\n<br/>\n你要 问代码怎么 造反，  会不会有点 问道于盲\t\t</div>",
+      "date": "2023-01-12",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1143619",
+          "replier": {
+            "username": "dom78",
+            "uid": "99031"
+          },
+          "date": "2023-01-12",
+          "content": "已删除"
+        }
+      ]
+    }
+  ]
+}

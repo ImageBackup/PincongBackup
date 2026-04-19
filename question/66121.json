@@ -1,0 +1,28 @@
+{
+  "question_id": "66121",
+  "category_id": "4",
+  "title": "tor浏览器无法支持插件，可以让它支持么？",
+  "meta_description": "tor浏览器无法支持插件，可以让它支持么？ - 想用tor的洋葱网络功能，同时也想用一堆其他的插件，能否让tor浏览器像普通浏览器在访问onion的同时运行插件？   找到办法了 https://medium.com/@jasonjayjacobs/using-the-tor-bundle-on-win...",
+  "meta_keywords": "tor,浏览器,无法,支持,插件",
+  "tags": [
+    {
+      "id": "1174",
+      "name": "Tor"
+    },
+    {
+      "id": "8869",
+      "name": "浏览器"
+    }
+  ],
+  "author": {
+    "username": "jerry123123123",
+    "uid": "117745"
+  },
+  "view_count": 3609,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t想用tor的洋葱网络功能，同时也想用一堆其他的插件，能否让tor浏览器像普通浏览器在访问onion的同时运行插件？<br/>\n<br/>\n<br/>\n找到办法了<br/>\nhttps://medium.com/@jasonjayjacobs/using-the-tor-bundle-on-windows-for-complete-traffic-proxying-658f995f75e4\t\t\t\t\t\t\t</div>",
+  "date": "2024-03-23",
+  "agree_count": 0,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 4
+}

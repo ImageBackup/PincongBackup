@@ -1,0 +1,108 @@
+{
+  "parent_type": "question",
+  "parent_id": "63850",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "711582",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好像是編程隨想阮xx在github上搞了個趙家人關係圖，然後就牆了<br/>\n<br/>\n<a href=\"url/link/aHR0cHM6Ly9naXRodWIuY29tL3Byb2dyYW10aGluay96aGFv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://github.com/programthink/zhao\">https://github.com/programthink/zhao</a><br/>\nGitHub - programthink/zhao: 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵\t\t</div>",
+      "date": "2023-12-10",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "711578",
+      "is_folded": false,
+      "answerer": {
+        "username": "neverdie",
+        "uid": "53720"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t也不一定，有时候同一时刻，GH里有的repositories能打开，有的被墙\t\t</div>",
+      "date": "2023-12-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "711723",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墻内直連訪問的話狀態很不穩定，可能會受你當地運營商部署情況影響。沒記錯的話病毒起的那一年就有很多碼農反應網站直連登不上了，這事情當時在墻内還有一陣不小的波瀾\t\t</div>",
+      "date": "2023-12-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712048",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怎么做到的呢? 按理说用了https, 除了域名可以被看到, 网页的路径是被加密的.\t\t</div>",
+      "date": "2023-12-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "711569",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t三四年前到还能正常打开<br/>\n后面就开始间歇性阻断了,每隔一段时间有一个短暂窗口期能访问\t\t</div>",
+      "date": "2023-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "711572",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t习近平同志只懂《毛泽东选集》，不懂上网，但凡威胁龙椅安全，她都是全面打压。\t\t</div>",
+      "date": "2023-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "711674",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGitHub是微软投资的，好像带了黑科技，不是整个 GitHub 被墙，而是某些页面被墙\t\t</div>",
+      "date": "2023-12-10",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1231783",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-12-11",
+          "content": "不是墙，是github为了符合中国政府管理，规定中国ip不能访问某些敏感repo\n比如编程随想的zhao在中国ip用户那里是看不到的，翻墙就能看到"
+        }
+      ]
+    }
+  ]
+}

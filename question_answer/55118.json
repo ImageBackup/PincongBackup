@@ -1,0 +1,53 @@
+{
+  "parent_type": "question",
+  "parent_id": "55118",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "619976",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t经与史不错<br/>\n<br/>\n我全读过, 比七棱八角看网页转载强\t\t</div>",
+      "date": "2023-01-12",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1143804",
+          "replier": {
+            "username": "tdgvujg",
+            "uid": "1293"
+          },
+          "date": "2023-01-12",
+          "content": "阿姨早期的作品经典"
+        }
+      ]
+    },
+    {
+      "id": "619821",
+      "is_folded": false,
+      "answerer": {
+        "username": "theX",
+        "uid": "42399"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t民国纪事本末吧。最经典的作品。不过适合配合其他的民国作品观看。\t\t</div>",
+      "date": "2023-01-12",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1143501",
+          "replier": {
+            "username": "tdgvujg",
+            "uid": "1293"
+          },
+          "date": "2023-01-12",
+          "content": "哦哦请问是哪个版本的啊"
+        }
+      ]
+    }
+  ]
+}

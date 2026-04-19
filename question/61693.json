@@ -1,0 +1,54 @@
+{
+  "question_id": "61693",
+  "category_id": "4",
+  "title": "如何评价Google计划推出的网络环境完整性接口？能搞成吗？",
+  "meta_description": "如何评价Google计划推出的网络环境完整性接口？能搞成吗？ - Google准备在Chrome上搞网络环境完整性接口，这将使得Google能够对用户端进行审查。 Google声称该机制有助于提升网络安全，防范恶意行为。但是反对者认为这将使得用户和网站进一步为Google所掌控。 目前Mozilla，Brave，FSF都...",
+  "meta_keywords": "评价,google,计划,推出,网络,环境,完整性,接口,搞成",
+  "tags": [
+    {
+      "id": "57",
+      "name": "互联网"
+    },
+    {
+      "id": "332",
+      "name": "谷歌"
+    },
+    {
+      "id": "501",
+      "name": "Google"
+    },
+    {
+      "id": "1086",
+      "name": "网络安全"
+    },
+    {
+      "id": "1547",
+      "name": "网络审查"
+    },
+    {
+      "id": "8869",
+      "name": "浏览器"
+    }
+  ],
+  "author": {
+    "username": "wasaminn",
+    "uid": "56907"
+  },
+  "view_count": 6754,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tGoogle准备在Chrome上搞网络环境完整性接口，这将使得Google能够对用户端进行审查。<br/>\nGoogle声称该机制有助于提升网络安全，防范恶意行为。但是反对者认为这将使得用户和网站进一步为Google所掌控。<br/>\n目前Mozilla，Brave，FSF都明确表示反对网络环境完整性检查。<br/>\n如何评价Google的这一操作，他们能搞成吗？\t\t\t\t\t\t\t</div>",
+  "date": "2023-09-11",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1046815",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2023-09-11",
+      "content": "google全家桶的又一块砖而已"
+    }
+  ],
+  "answer_count": 4
+}

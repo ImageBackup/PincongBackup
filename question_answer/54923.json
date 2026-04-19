@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "54923",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "618041",
+      "is_folded": false,
+      "answerer": {
+        "username": "subzero",
+        "uid": "102901"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGenetic-engineered bioweapon (isn't what the CCP is doing right now btw?)\t\t</div>",
+      "date": "2023-01-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617573",
+      "is_folded": false,
+      "answerer": {
+        "username": "流羽年华",
+        "uid": "100894"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t来，你从我开始。我第一个把你弄死。<br/>\n整天屠之屠之<br/>\n<br/>\n脑子有病。\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": -1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1141370",
+          "replier": {
+            "username": "我爱蛋炒饭",
+            "uid": "102807"
+          },
+          "date": "2023-01-05",
+          "content": "有病照样操你祖宗十八辈。操你妈逼"
+        },
+        {
+          "id": "1141515",
+          "replier": {
+            "username": "开香槟",
+            "uid": "90212"
+          },
+          "date": "2023-01-06",
+          "content": "@我爱蛋炒饭:引流葱轮TV\nhttps://h.pincong.rocks/"
+        }
+      ]
+    }
+  ]
+}

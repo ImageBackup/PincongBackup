@@ -1,0 +1,489 @@
+{
+  "parent_type": "question",
+  "parent_id": "68111",
+  "answer_count": 14,
+  "answers": [
+    {
+      "id": "756160",
+      "is_folded": false,
+      "answerer": {
+        "username": "adt",
+        "uid": "27926"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t首先，中文裏對的「謂語」的理解和英語不同，所涵蓋的句子成分明顯擴大。有一種説法稱，在句子中，非主語部分可歸爲謂語部分（<a href=\"url/link/aHR0cHM6Ly91cGdyYWRlaGsuY29tL2Jsb2cvZGV0YWlsL2NoaW5lc2UtZ3JhbW1hci1zdHJ1Y3R1cmU\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://upgradehk.com/blog/detail/chinese-grammar-structure\">來源</a>）。例如：<br/>\n<blockquote>哥哥（主語）在喝可樂（謂語部分）。</blockquote><br/>\n雖然這並不是最嚴謹的定義，且句子成分還應繼續細分，但題主所描述的現象，即：<br/>\n<blockquote>中文会将人物的动作和状语放在一起作为概念的整体</blockquote><br/>\n比較準確地把握了中文主謂句裏謂語的特點。謂語部分有一個融合起來的整體含義，且謂詞（verb, 中文語法中稱爲述語）本身並不能單獨完整表達意思。關於這一點如有疑問，可參考輔仁大學中文系劉雅芬所編的講義『小心，別踩到我北方的腳！———從語言思維談漢語語法的特色』。本回答也主要依據該講義（因網址太長，見文末參考資料）。<br/>\n<br/>\n另外，題主最後提到的：<br/>\n<blockquote>选择组合整体的顺序不同会导致句子的意思很不一样。 </blockquote><br/>\n也是一個非常有價值的觀察點。『漢語狀語的語序研究及其類型學意義』（潘國英，2010）一書在大量實際語料的收集、整理和分析的基礎上，考察了現代漢語、古代漢語、英語和方言，還包括書面語和口語等各種語言的語序排列情況，特別是通過現代漢語狀語和古代漢語狀語的不同排列順序，普通話狀語和方言狀語的不同排列順序的比較，顯現出了漢語語序類型上的特點。在該書「現代漢語狀語的語義序列總貌」一章中，作者將漢語中的狀語分成如下四個層級，並逐級分析成章：<br/>\n　　1.第一層級劃分︰外圍性狀語與內在性狀語<br/>\n　　2.第二層級劃分︰認定性狀語和描寫性狀語<br/>\n　　3.第三層級劃分︰情狀性狀語和動狀性狀語<br/>\n　　4.第四層級劃分︰方式性狀語和特征性狀語 <br/>\n<br/>\n<br/>\n在下面的漢語語法語序示意中，我們可以注意到，句子成分表裏沒有出現「謂語」這個詞。在主謂句中，除了主語之外的句子成分即「謂語」，並且可以細分為狀語、述語、補語等。其中，述語是最接近英語中的verb，是謂語部分的成分之一，用來描述主語的動作，說明主語的陳述對象在做什麼，相當於句子中的動詞，如喝可樂中的「喝」。<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9PbnNUMDNQLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/OnsT03P.png\"><img alt=\"https://i.imgur.com/OnsT03P.png\" loading=\"lazy\" src=\"https://i.imgur.com/OnsT03P.png\" style=\"max-width:100%\"/></a><br/>\n<br/>\n為幫助解答題主的問題，我們應注意劉雅芬的講義中的以下幾點：<br/>\n<ul><li>漢語為孤立語，沒有形態變化，其主要的語法手段有二：<b>虛詞、語序</b>。</li><li>漢語詞與詞之間的語法關係一般通過固定的語序(word order)來表示，如主語在前，謂語在後。有時候利用主題，來強調目前討論的話題。</li><li>漢語句子成分跟詞類不完全對應。這個特點對於理解中文謂語——不是英語句中的verb——很重要</li></ul><br/>\n<br/>\n瞭解以上概念和框架之後，我們進一步討論狀語的順序對句子意思的影響。取題主的例句二：<br/>\n<br/>\n<blockquote>李华今天在图书馆里玩着手机浪费时间</blockquote><br/>\n<br/>\n浪費這個詞説明對李華的强烈批評態度。那麽我們可以考慮，在以下幾個句子中説話者具體要著重批評什麽：<br/>\n<br/>\n今天，李華在圖書館裏玩著手機浪費時間。<br/>\n今天，李華玩著手機在圖書館裏浪費時間。<br/>\n今天，李華在圖書館裏玩著手機，浪費時間。<br/>\n<br/>\n李華今天在圖書館裏玩著手機浪費時間。<br/>\n李華今天還在圖書館裏玩著手機浪費時間。<br/>\n李華今天又在圖書館裏玩著手機浪費時間。<br/>\n<br/>\n關於這個狀語語序的問題，有一個重要的因素需要注意：中心詞。狀語和中心詞的距離可能影響句子的意思。簡體中文來源：https://archive.ph/cPZZl（本來源中的例句内容為中共宣傳口徑）。以下為相關重點：<br/>\n<br/>\n<ul><li>所谓“多项状语”，是指一个句子中具有两个或两个以上的不同语法意义的状语，这些状语从不同的语法意义上对中心语进行修饰或限制。</li><li>其排列顺序大致是：条件状语、时间状语、处所状语、语气状语、肯定状语、范围状语、否定状语、意愿状语、数量状语、程度状语、状态状语、性质状语、对象状语等。</li><li>多项（多层）状语的排列顺序，原则上是取决于谓语内部的逻辑关系和表意需要。其排列顺序原则上是：同中心语逻辑关系越密切的，就越靠近中心语。因此，一些状语，主要是程度状语、范围状语、否定状语、状态状语、对象状语等，在语序上具有一定的灵活性，而且处在不同的位置上会导致句义的变化。</li><li>多重状语按照语法规则和语言习惯，它们的排列顺序一般是：离中心词最远的应该是表示时间的或表示原因、目的的词语；接着是形容词或一般副词；再次是表示地点或方向的词语；离中心词最近的是表示状态的形容词。即：条件＋时间＋处所＋范围或否定＋程度＋情态＋对象＋中心词。</li></ul><br/>\n<br/>\n最簡單的例子：這話完全不對。這話不完全對。範圍和否定狀語的排序導致兩句話的意思完全不同。<br/>\n<br/>\n再舉一例：<br/>\n<br/>\nA. 爲了使更多的人獲得啓蒙，必須把更多西方古典自由主義著作在沒有政治審查和閹割的情況下翻譯成中文出版發行。<br/>\n<br/>\nB. 爲了使更多的人獲得啓蒙，必須在沒有政治審查和閹割的情況下把更多西方古典自由主義著作翻譯成中文出版發行。<br/>\n<br/>\n按照上面的語序建議，B似乎更通順。這是因爲著作和中心詞翻譯的關係更加直接。但如果我想强調的是擴大翻譯的著作數量，我會選擇A。而如果既要通順又要完成强調，另一種風格是這樣的：<br/>\n<br/>\nC. 爲了使更多的人獲得啓蒙，必須把更多西方古典自由主義著作翻譯成中文出版發行。但只要政治審查和閹割還存在，一切都是空談！<br/>\n<br/>\n僅以此例對這個問題做一個不甚完美的總結：題主觀察正確。具體使用方式靈活，并非永遠不變。<br/>\n<br/>\n參考資料：<br/>\n<br/>\n劉雅芬，『小心，別踩到我北方的腳！———從語言思維談漢語語法的特色』，輔仁大學中文系，https://icpjtpcxy.weebly.com/uploads/9/2/0/1/92010504/1.%E5%B0%8F%E5%BF%83%EF%BC%8C%E5%88%A5%E8%B8%A9%E5%88%B0%E6%88%91%E5%8C%97%E6%96%B9%E7%9A%84%E8%85%B3%EF%BC%81%E2%94%80%E5%BE%9E%E8%AA%9E%E8%A8%80%E6%80%9D%E7%B6%AD%E8%AB%87%E6%BC%A2%E8%AA%9E%E8%AA%9E%E6%B3%95%E7%9A%84%E7%89%B9%E8%89%B2%E7%B2%BE%E7%B0%A1%E7%89%881.pdf<br/>\n<br/>\n潘國英，『漢語狀語語序研究及其類型學意義』，中國社會科學出版社，2010，https://www.books.com.tw/products/CN10378806<br/>\n<br/>\n補充資料：<br/>\n<br/>\n因時間有限，我在上文中未能盡述漢語狀語語序在謂語部分中的重要性和相關研究。下面補充三條：<br/>\n<br/>\n曾静涵, \"多项状语语序的类型学考察与认知分析\", 2015-09-17, https://archive.today/ZDEaT<br/>\n<br/>\n\"状语修饰谓语，主要反映谓语的特征，谓语表达一个事件核心，因此状语则是事件中的不同特征角色，如方位状语说明动作发生方向、情状状语说明动作情态。状语的特征角色和谓语的事件核心共同构成一个事件域框架（Event-domain Cognitive Model）。\"<br/>\n<br/>\n谌孙福, \"英汉多重状语共现语序的认知对比研究\", 2022-03-22, https://archive.today/eElJu<br/>\n<br/>\n\"汉语多重状语共现语序遵循象似性原则(The principle of iconicity)，即句法结构与句子意义之间存在紧密联系。象似性原则衍生于符号学领域提出的“象似符”概念，后又拓展到认知语言学领域，成为该学派否认传统语言学形式—意义“任意观”的有力工具[10]。\"<br/>\n<br/>\n由事件域框架和象似符等概念，上述兩篇論文都支持漢語狀語語序影響句子涵義和狀謂一體的理解方式。<br/>\n<br/>\nChinese Adverbial. https://www.vaia.com/en-us/explanations/chinese/chinese-grammar/chinese-adverbial/<br/>\n<br/>\n\"In certain expressive or poetic instances, these rules might be deliberately altered to draw emphasis or artistic expression. For instance, placing the place adverbial at the beginning of a sentence can foreground the setting, casting a mood or highlighting the importance of the location in the narrative context. Such flexibility in sentence structure demonstrates the adaptability and expressiveness of the Chinese language.\"<br/>\n<br/>\n\"This arrangement [typical adverbial sequence] ensures that the listener or reader can mentally picture the scene or understand the action as it's being described, highlighting the importance of adverbials in conveying detailed and precise meanings.\"\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2024-06-24",
+      "agree_count": 20,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1272909",
+          "replier": {
+            "username": "Kakapo",
+            "uid": "74488"
+          },
+          "date": "2024-06-24",
+          "content": "Orz...竟然有专门研究汉语状语语序的书\n好久不见a前辈带参考文献的长文了  别来无恙\n补充不了任何知识点\n只能来玩玩语序题\n1）今天，李華在圖書館裏玩著手機浪費時間。\n重点批评玩着手机浪费时间\n2）今天，李華玩著手機在圖書館裏浪費時間。\n重点批评在图书馆里浪费时间\n3）今天，李華在圖書館裏玩著手機，浪費時間。\n重点批评在图书馆里玩着手机\n浪费时间四个字不属于主句\n俗话叫找补\n找补往往是中文里人身攻击的地方\n有可能会危害主句的正确性如\n今天，李華在圖書館裏玩著手機，吃饱了撑的\n4）李華今天在圖書館裏玩著手機浪費時間。\n跟1）差不多时间状语在这里没有什么特别涵义\n5）李華今天還在圖書館裏玩著手機浪費時間。\n还字说明时间已经不多了可能快考试了\n今天就比上一句有了更实质的意义\n6）李華今天又在圖書館裏玩著手機浪費時間。\n又字说明是屡犯\n虚词和语序对语义确实是最重要的\n╰(*´︶`*)╯♡ 谢谢提供刘雅芬的那个讲义"
+        },
+        {
+          "id": "1272916",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-06-24",
+          "content": "Thank you, this is very helpful😊"
+        },
+        {
+          "id": "1272918",
+          "replier": {
+            "username": "adt",
+            "uid": "27926"
+          },
+          "date": "2024-06-24",
+          "content": "@Nederland: You're very welcome! It is a dissertation-worthy question. Books were written about this topic, as shown in the reference."
+        },
+        {
+          "id": "1273077",
+          "replier": {
+            "username": "adt",
+            "uid": "27926"
+          },
+          "date": "2024-06-25",
+          "content": "@Nederland:  因時間有限，我在上文中未能盡述漢語狀語語序在謂語部分中的重要性和相關研究。下面補充三條：\n曾静涵, \"多项状语语序的类型学考察与认知分析\", 2015-09-17,\nhttps://archive.today/ZDEaT\n\"状语修饰谓语，主要反映谓语的特征，谓语表达一个事件核心，因此状语则是事件中的不同特征角色，如方位状语说明动作发生方向、情状状语说明动作情态。状语的特征角色和谓语的事件核心共同构成一个事件域框架（Event-domain Cognitive Model）。\"\n谌孙福, \"英汉多重状语共现语序的认知对比研究\", 2022-03-22,\nhttps://archive.today/eElJu\n\"汉语多重状语共现语序遵循象似性原则(The principle of iconicity)，即句法结构与句子意义之间存在紧密联系。象似性原则衍生于符号学领域提出的“象似符”概念，后又拓展到认知语言学领域，成为该学派否认传统语言学形式—意义“任意观”的有力工具[10]。\"\n由事件域框架和象似符等概念，上述兩篇論文都支持漢語狀語語序影響句子涵義和狀謂一體的理解方式。\nChinese Adverbial.\nhttps://www.vaia.com/en-us/explanations/chinese/chinese-grammar/chinese-adverbial/\n\"In certain expressive or poetic instances, these rules might be deliberately altered to draw emphasis or artistic expression. For instance, placing the place adverbial at the beginning of a sentence can foreground the setting, casting a mood or highlighting the importance of the location in the narrative context. Such flexibility in sentence structure demonstrates the adaptability and expressiveness of the Chinese language.\"\n\"This arrangement [typical adverbial sequence] ensures that the listener or reader can mentally picture the scene or understand the action as it's being described, highlighting the importance of adverbials in conveying detailed and precise meanings.\"\n上述英文網站是一個互動的漢語語法學習資源。如果您比較習慣用英語學習漢語語法，不妨一試。希望能對您有所幫助。"
+        },
+        {
+          "id": "1273263",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-06-26",
+          "content": "@adt:Thank you again for providing extra material to view, and I've read relevant essays especially those you recommended these days, I believe they're comprehensively good and knowledge wise constructive."
+        }
+      ]
+    },
+    {
+      "id": "756191",
+      "is_folded": false,
+      "answerer": {
+        "username": "Kakapo",
+        "uid": "74488"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从小被中共语文教育荼毒的人大概还记得<br/>\n有些形容词的顺序是要背的不能动的<br/>\n比如说共党是伟光正<br/>\n为什么不是正伟光<br/>\n因为伟大光荣正确是他们认定的唯一正确顺序<br/>\n讲文化大革命的时候<br/>\n背邓《关于建国以来党的若干历史问题的决议》<br/>\n那里头也有好多定语状语的顺序是不能改的<br/>\n（十一届三中全会）【坚决批判了“两个凡是”的错误方针，充分肯定了必须完整地、准确地掌握毛泽东思想的科学体系；高度评价了关于真理标准问题的讨论，确定了解放思想、开动脑筋、实事求是、团结一致向前看的指导方针】<br/>\n<br/>\n上面AAPLTSLA大的解释我是不太赞同的<br/>\n可能是英语解释我理解不到？<br/>\n【In modern Chinese, it becomes unpopular to place the adverbials in preceding position, such as \"在北京， 我们下雨时游览了故宫\", but rather, \"我们在北京下雨时游览了故宫\". 】<br/>\n这个应该是有问题的<br/>\n【我们在北京下雨时游览了故宫】可能产生歧义<br/>\n所以应该算病句<br/>\n[我们] (在北京)(下雨时)游览了&lt;故宫&gt;<br/>\n[我们] (在北京下雨时)游览了&lt;故宫&gt;<br/>\n是两个涵义不同的句子<br/>\n(在北京下雨时)如果被作为一个整体理解<br/>\n那么我们和故宫的位置就不明确了<br/>\n同样的句子可以是我们在游览台北故宫<br/>\n时间是在北京下雨时<br/>\n这么讲可能有点杠但语文老师是会这么判的<br/>\n正确的句子可以是<br/>\n在北京，我们下雨时游览了故宫<br/>\n我们下雨时游览了北京故宫<br/>\n我们下雨时在北京游览了故宫\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 12,
+      "discussion_count": 9,
+      "discussions": [
+        {
+          "id": "1272964",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-06-25",
+          "content": "最后一段有提到一个原则， 就是谓语中心词， 整个句子中\"游览\" 是核心词汇， 一切状语成分都是“游览”的修饰成分， 状语之间的关系和位置，并无特定含义，  “在北京游览” “下雨时游览”，单独看没有任何问题，“在北京下雨时游览”，“下雨时在北京游览”， 在汉语中也并无歧义。 你所说的歧义 “在北京下雨时”， 实际上是强行将两者作为单独的语义去理解， 实际上这两个状语，如果“游览”这个谓语中心词的角度理解， 不就不会有歧义了。"
+        },
+        {
+          "id": "1272982",
+          "replier": {
+            "username": "逃离裘庄",
+            "uid": "91053"
+          },
+          "date": "2024-06-25",
+          "content": "已删除"
+        },
+        {
+          "id": "1272983",
+          "replier": {
+            "username": "逃离裘庄",
+            "uid": "91053"
+          },
+          "date": "2024-06-25",
+          "content": "@AAPLTSLA: 你说“状语之间的关系和位置，并无特定含义”的根据是什么？高赞回答的两个参考资料都说状语语序是会影响意思的。"
+        },
+        {
+          "id": "1272986",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-06-25",
+          "content": "@逃离裘庄: 第一 没必要过分迷信所谓高赞，就算是知乎，绝大多数为业余选手， 切莫人云亦云； 第二 可以参见汉硕教材 由黄伯荣、廖序东主编的《现代汉语》第四章中， 关于多重状语的描述：壮中短语整体加上状语，形成多层状语... 状语的位置，一般放在主语后面... 可以有两种位置的状语， 放在句首时常常有一些特别的作用： 照顾上下文的连接； 状语较长、较多，放在句首可以使主语和谓语中心靠近，使句子结构紧凑。"
+        },
+        {
+          "id": "1272987",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-06-25",
+          "content": "@逃离裘庄: 我不是汉语专业出身， 只是对语言学感兴趣，有一些粗浅的理解，我也在回复最后注明 just some personal thoughts， 高赞不代表就是真理， critical thinking； 就像你对我的回复，提出具体质疑进行argue，这就很好。 顶烦的就是墙内露出来的那帮评论党， 动不动就一副引战的架势， 自己的观点没有，到处粘贴复制。"
+        },
+        {
+          "id": "1272988",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-06-25",
+          "content": "@逃离裘庄: 就你所说的高赞而言， “關於這個狀語語序的問題，有一個重要的因素需要注意：中心詞。” ， 也提到了中心词这个概念， 我在回复中也强调了“中心词”的作用。 作为一个句子的主旨(substance)， 我的观点是，修饰性状语的位置，并不影响其作用。 关于高赞回答中，   “狀語和中心詞的距離可能影響句子的意思”， 其中也提到了“可能”。 从我自己对汉语的理解看，我倾向于认为， 状语和中心词的距离，并不影响句子含义。  还有，我想强调一点，我原文章想要argue的点，本是楼主认为状语和谓语，形成一个作为概念的整体， 我是在argue这个点。 你所argue的点，是我认为状语位置不影响句子含义，这是另外一个topic。"
+        },
+        {
+          "id": "1272989",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-06-25",
+          "content": "@逃离裘庄: 再次重申， 只提出opinion，有硬伤有瑕疵，自动把自己置于某种权威地位，却并不提出相应的argument，对于这种墙内引战风格的cheap comment，我连回复的兴趣都没有。 这点，你做的就不错，能提出自己的观点进行argue，值得鼓励。"
+        },
+        {
+          "id": "1273078",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-06-25",
+          "content": "@逃离裘庄: 实际上这个回复错了，我是在说 Kakapo 葱油，对于问题的认真分析和讨论。"
+        },
+        {
+          "id": "1273096",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-06-25",
+          "content": "那个例子我可以写成并列句：\n北京下雨，我们游览了故宫\n因为是“北京”，故宫没有歧义，不会有人认为是台北故宫"
+        }
+      ]
+    },
+    {
+      "id": "756357",
+      "is_folded": false,
+      "answerer": {
+        "username": "一支伴姐",
+        "uid": "131266"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t拿五年高考三年模拟来显摆的那位，您勒收收味儿洗洗睡吧！您勒确定<mark>支那</mark>中高考是教人说人话？呐，既然点了，咱就给上一盘儿，大家品品，细品。。。<br/>\n<br/>\n2020中考复习<br/>\n<blockquote>词序不当<br/>\n<br/>\n造成词序不当的原因一般有：没有遵循时空、逻辑顺序；介词位置不当；关联词位置不当等。<br/>\n<br/>\n<b>例：学生、领导和老师昨天都参加了开学典礼。</b><br/>\n<br/>\n主语的词序不当，应该改为“领导、老师和学生”或者“学生、老师和领导”，由大到小或者由小到大都行，但是不能乱。</blockquote><br/>\n这叫词序不当？这TMD不是培养奴性是啥？<br/>\n<br/>\n<blockquote>多层状语语序不当<br/>\n<br/>\n复杂状语排列顺序大致为：①表目的或原因的介宾短语；②表时间的名词或 介宾短语；③表处所的名词或介宾短语；④表范围或频率的副词；⑤表情态或程 度的词；⑥表对象的介宾短语。<br/>\n<br/>\n<b>例：在休息室里许多老师昨天都同他热情地交谈。</b><br/>\n<br/>\n正确的顺序应为：许多老师昨天（时间）在休息室里（处所）都（范围）热<br/>\n<br/>\n情地（情态）同他（对象）交谈。</blockquote><br/>\n这个语序是有问题，但谁说正确顺序只有一个？那个正确顺序真的顺吗？被这种条条框框养出来的考生能学会自由表达？<br/>\n昨天在休息室里许多老师都同他热情地交谈。行不行？<br/>\n昨天许多老师都在休息室里同他热情地交谈。行不行？<br/>\n<br/>\n<blockquote>状语多余<br/>\n<br/>\n例：<b>高校贫困生问题短时间内不可能很快得到解决。</b><br/>\n<br/>\n“短时间内”就是“很快”的意思，说重复了。</blockquote><br/>\n你可以说这是病句，但这种病句你国官媒天天都说，就是要用多重状语绕晕你让你情绪稳定！<br/>\n再说了，短时间内可以指近期，很快得到解决是指解决效率，能不能理解成近期内解决效率上不去呀？能不能？<br/>\n<br/>\n2024高考复习<br/>\n<blockquote>9、并列词语或短语顺序不当<br/>\n<br/>\n一个分句中有并列的词语或短语，这些并列词语或短语之间有时间、空间、范围大小、情感变化过程等关系，如果顺序不当，就会造成不合逻辑、失去照应等问题。<br/>\n<br/>\n<b>例：一种观念只有被人们普遍接受、理解和掌握并转化为整个社会的群体意识，才能成为人们自觉遵守和奉行的准则。</b><br/>\n<br/>\n答案语序不当。并列短语“接受、理解和掌握”应改为“理解、接受和掌握”。</blockquote><br/>\n还是和事实不符的逻辑。你共制定规则难道等人理解、接受和掌握？要咱说，接受、理解和掌握才是符合现实的，这个所谓的病句准确形容了你国现状。<br/>\n<br/>\n<blockquote>2、修饰语与中心语搭配不当<br/>\n<br/>\n<b>例：央视《大国工匠》系列节目反响巨大，工匠们精益求精、无私奉献的精神引发了人们广泛而热烈地讨论和思考。<br/>\n</b><br/>\n<br/>\n答案搭配不当。修饰语“广泛而热烈”与中心语“思考”不搭配。</blockquote><br/>\n大外宣的酸味儿就不说了，思考为什么不能广泛而热烈地进行？咱一说起你共的造粪机这思考就很热烈！哈哈哈哈<br/>\n<br/>\n差不多先这样吧。想整明白中文，别跟中考高考较劲，那玩意就是洗脑工具，统一思想的造粪机，说着就恶心，呸！\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2024-06-25",
+      "agree_count": 8,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1273084",
+          "replier": {
+            "username": "Konnichiwa",
+            "uid": "74660"
+          },
+          "date": "2024-06-25",
+          "content": "同情你，哈哈哈！讲模拟题的时候把自己绕晕最后摔书的语文老师也不在少数。。。"
+        },
+        {
+          "id": "1273095",
+          "replier": {
+            "username": "一支伴姐",
+            "uid": "131266"
+          },
+          "date": "2024-06-25",
+          "content": "@Konnichiwa:  现在小孩儿语文好的比思政好的更没救"
+        },
+        {
+          "id": "1290802",
+          "replier": {
+            "username": "fairprice",
+            "uid": "99531"
+          },
+          "date": "2024-09-18",
+          "content": "小学的时候因为有个同学造句写的是“战士们被敌人打败了，XXXXXX”，被语文老师批评了大半节课"
+        }
+      ]
+    },
+    {
+      "id": "756329",
+      "is_folded": false,
+      "answerer": {
+        "username": "逃离裘庄",
+        "uid": "91053"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t~~~~  <b>我读书少，您莫骗我</b>  ~~~~<br/>\n<br/>\n本来对这种自己不擅长的话题我不想多说，<br/>\n但领教了上面那位说英文的讨论态度和汉语表达，<br/>\n觉得还是得说两句。<br/>\n这叫不问不知道，一问吓一跳。<br/>\n<br/>\n我一开始只是觉得这个英文回复好像和顶上带参考资料的结论不一样，<br/>\n我没认真搞过汉语语法，不知道该信谁，<br/>\n但这位说英文的教师爷一下子回了我四条讨论，<br/>\n是在那个质疑他的回答底下 https://pincong.rocks/question/item_id-756191#<br/>\n<br/>\n看完真是万马奔腾 ||| 先上图<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9DWU5pYWRmLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/CYNiadf.png\"><img alt=\"https://i.imgur.com/CYNiadf.png\" loading=\"lazy\" src=\"https://i.imgur.com/CYNiadf.png\" style=\"max-width:100%\"/></a><br/>\n<br/>\n续上图<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9EWlVHT1FGLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/DZUGOQF.png\"><img alt=\"https://i.imgur.com/DZUGOQF.png\" loading=\"lazy\" src=\"https://i.imgur.com/DZUGOQF.png\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<br/>\n首先，<br/>\n我提出质疑的时候说的是：<br/>\n“<b>高赞回答的两个参考资料</b>  都说  状语语序是会影响意思的。 ”<br/>\n这话的主语是“两个参考资料”，<br/>\n动词前面的“都”也表示主语是两个或两个以上的东西。<br/>\n“高赞回答”只是主语的定语，<br/>\n是定位到哪里去找那两个参考资料的辅助信息。<br/>\n<br/>\n结果这位英文大佬给我的回复上来就教育我莫要迷信高赞。<br/>\n这是几个意思？<br/>\n是大佬认为我是因为另外一条回答是高赞才提出的质疑吗？<br/>\n还是大佬认为参考资料不好驳，而网络高赞是个方便的抓手呢？<br/>\n我读书少，您莫骗我~<br/>\n<br/>\n<br/>\n第二，<br/>\n大佬在“狀語和中心詞的距離<b>可能</b>影響句子的意思”这句话上做文章，<br/>\n认为这个“可能”代表那个答主不确定，<br/>\n而自己确定状语和中心词距离和意思没关系。<br/>\n呵呵，还好“可能”这个词我熟。<br/>\n中文“可能”的首要意思是可以实现，表达英语中不确定的“也许”是次要意思。<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9RZXV2ZTE0LnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/Qeuve14.png\"><img alt=\"https://i.imgur.com/Qeuve14.png\" loading=\"lazy\" src=\"https://i.imgur.com/Qeuve14.png\" style=\"max-width:100%\"/></a><br/>\n<br/>\n那顶楼里有例子和讲义说明中心词距离导致的涵义变化，大佬您呢？<br/>\n汉硕教材里那的几句话只是一个粗略的规则，<br/>\n随便搜“汉语 状语 语序”这三个关键词网上到处都能拷到，<br/>\n并没有涉及到问题的核心。<br/>\n而顶楼是给出了能读出来的例子，<br/>\n也能感觉到说话人就是带着不同的意思。<br/>\n还有楼上有人编排了和晶哥喝茶的段子，又好玩又说明问题，<br/>\n那么大佬，您的证据呢？<br/>\n我读书少，您莫骗我~~<br/>\n<br/>\n<br/>\n第三，<br/>\n大佬坚持认为状语语序不影响意思，却没有给出直接证据。<br/>\n反而说这与主楼的问题无关，是“另外一个topic。 ”<br/>\n大佬，这个topic啥意思？多大的范围和相关性叫一个topic啊？<br/>\n<br/>\n<b>没错，楼主问的是状谓整体。</b><br/>\n那如果状语语序能够改变句子传达的谓词，是不是状谓整体的一个佐证？<br/>\n有些状语语序的变换，可能让读者理解到不同的句子主干，<br/>\n这能不能说明状语语序和状谓整体关系紧密得一起分析？<br/>\n这事儿，百度百科和知乎还真有类似回答，<br/>\n虽然汁味有点重，但至少没您这么武断：<br/>\nhttps://zhidao.baidu.com/question/479375965.html<br/>\nhttps://www.zhihu.com/question/435070821<br/>\n<br/>\n最后，<br/>\n真心谢谢您表扬我讨论态度好，<br/>\n我不但受不起，<br/>\n而且觉得这种评价降低了您回答的档次和可信度。<br/>\n王匪沪宁贴过一个讨论层次图，<br/>\n在态度上做文章，层次太低。<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvMzM0ODkzMjFiZTg2YjExZmZkN2E1LnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/33489321be86b11ffd7a5.png\"><img alt=\"https://telegra.ph/file/33489321be86b11ffd7a5.png\" loading=\"lazy\" src=\"https://telegra.ph/file/33489321be86b11ffd7a5.png\" style=\"max-width:100%\"/></a><br/>\n我读书少，您莫骗我~~~\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2024-06-25",
+      "agree_count": 5,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1273073",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-06-25",
+          "content": "好的，你可以保持你的观点，我仍然坚持我的看法： 多重状语并不和谓语组成整体结构，而是并列修饰谓语中心词， 所以其位置不影响语义。"
+        },
+        {
+          "id": "1273076",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-06-25",
+          "content": "@AAPLTSLA: 仍然要感谢你坚持不懈讨论的精神！ 受益颇多！"
+        },
+        {
+          "id": "1273079",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-06-25",
+          "content": "实际上之前关于讨论态度的问题， 我回复错了，其实在说 Kakapo 葱油，对于问题的认真分析和讨论。并不是逃离裘庄 葱油， 如有不严谨和疏漏之处，在此致歉！无意引战！"
+        }
+      ]
+    },
+    {
+      "id": "756374",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t帖主所说现象不但存在, 在华夏语和华夏文中是较普遍现象.<br/>\n奴役不但在政治里也在语言中, 无论是要拆解奴役,<br/>\n<br/>\n还是要在将来建立自由民主政治, 两者都需要研究一下华语华文.<br/>\n通常单音节对应单字, 却又不是严格对应, 华夏语与华夏文有不同.<br/>\n<br/>\n语言与国家的关系紧密, 而语言受文字框定.<br/>\n因为可以用比语言冗长的文字来更精确描述事情,<br/>\n所以语言实际中有被书面文字框定的现象.<br/>\n<br/>\n例如仅说出 \"有朋自远方来\" 后续典故与长文就能补进现场对话上下文意之中了.<br/>\n是的, 不但混用上下文无关/相关语义处理, 还会在对话中调用各种库和数据.<br/>\n&lt;-程序开发者专用意义难明的一句.<br/>\n<br/>\n语言本该是用来交流或指代事物, 如: \"哪里有水?\" \"这个方向走两百步.\",<br/>\n却可受记录媒介反向影响, 甚至可做狗哨政治, 是个可以行善与作恶的便利工具.<br/>\n<br/>\n建议要驱逐奴役与共匪的人, 在语言、文字和政治上胜过共匪.<br/>\n应多向华夏文创作职业人士 -- 作家们请教, 或许还有诗人.<br/>\n<br/>\n#碎碎念, 抱怨自己~<br/>\n<br/>\n每种文字都具有 wiki/卢恩字母 同等的魔力, 虽然爱听故事或传奇, 可我对文学表达毫无能力和兴趣,<br/>\n仅用几种语言表层的东西就不受文字框定. 形象与抽象之间地带是什么呢? 或许艺术家知道. <br/>\n<br/>\n不如甩我几张图表算啦~ 确实, 能用来骂架的就是母语啦~<br/>\n<br/>\n噢哧, 还要写揭 Manner 咖啡事件中算法之恶的文, 就停止胡言乱语啦~<br/>\n质量差劲的文字, 或许因为太过差劲能激发谁的灵感吧.<br/>\n知道语言与文字重要, 可咱无能为力呀.\t\t</div>",
+      "date": "2024-06-25",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "756195",
+      "is_folded": false,
+      "answerer": {
+        "username": "October",
+        "uid": "76256"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t顺序不一样的话会被解读成不一样的. 不信黑皮问话的时候, 你的用词顺序绝对有可能被分析, 导致不一样的后果...<br/>\n<br/>\n你十二点在哪儿？<br/>\n--我在学校里和王老师说话 (应该算正常)<br/>\n--我和王老师在学校里说话 (听上去就不那么直接回答问题了, 有强调王老师是证人的意思)<br/>\n<br/>\n你今天见过王老师吗? (假设王老师有麻烦, 你在配合调查)<br/>\n--我十二点钟在学校里和他说过话 (细节有点多, 刻意?)<br/>\n--我在学校里和他说过话 (这个好像比较正常, 但强调了地方, 要是王死在学校外面了, 这儿就重要了)<br/>\n--我和他在学校里说过话 (这个应该是最轻描淡写的)\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 11,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1272957",
+          "replier": {
+            "username": "Konnichiwa",
+            "uid": "74660"
+          },
+          "date": "2024-06-25",
+          "content": "这才应该是顶楼！中文哪儿有语法，只有说法。。。"
+        }
+      ]
+    },
+    {
+      "id": "756157",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\tIn Chinese linguistics, it is not uncommon to find combinations of actions and adverbials into a single unit. However, it does not mean that the combination is treated as an integral element while new adverbials are added on top to modify it. <br/>\n<br/>\nAs an instance, in the sentence \"我十二点钟在学校里和王老师说话\",  the two prepositional phrases  \"at twelve o'clock\" and \"at school\" can both be considered as adverbials modifying the action \"speak\". <br/>\n<br/>\nIn modern Chinese, it becomes unpopular to place the adverbials in preceding position, such as \"在北京， 我们下雨时游览了故宫\", but rather, \"我们在北京下雨时游览了故宫\". Following the same rule, the time preposition \"下雨时\" could be also swapped into the preceding position: \"下雨时，我们在北京游览了故宫\"，which makes exactly the same meaning as the previous structure. If the prepositional phrases could be freely extracted and repositioned, it might be misleading to argue that the combination is integral.  This example is a close mirror of \"我十二点钟在学校里和王老师说话\". As seen from above cases, it might be more reasonable to posit that the two adverbials are both modifying the action of the sentence. <br/>\n<br/>\nSimilar to English linguistics, sentences in Chinese language have the so-called predicate verb (谓语中心词), which is the crucial part of a sentence conveying the substance. In the two originally provided examples, \"浪费\" and \"说话\" could be considered as the substance, which has the most significance, the rest complements could be interpreted as adverbials to make the sentence complete. <br/>\n<br/>\nJust some personal thoughts, FYI.\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2024-06-24",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1272965",
+          "replier": {
+            "username": "Konnichiwa",
+            "uid": "74660"
+          },
+          "date": "2024-06-25",
+          "content": "呦吼？？想开启互踩模式啊？您请便！品葱赞望都换不成现金。。。咱就挑明一点，您这回答内容有硬伤已经被指出了，英语语法也有瑕疵。我被您踩的那条回复只有官宣实据，并没任何事实错误。您开心就好，赫赫赫赫"
+        },
+        {
+          "id": "1272966",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-06-25",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "756143",
+      "is_folded": false,
+      "answerer": {
+        "username": "okamiyu",
+        "uid": "81756"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>我十二点钟在学校里和王老师说话</blockquote><br/>\n中文一般的语序是<br/>\n我和王老师十二点钟在学校说话。<br/>\n主语+时间地点+动作<br/>\n<br/>\n<blockquote>李华今天在图书馆里玩着手机浪费时间</blockquote><br/>\n中文一般说法是<br/>\n李华今天在图书馆通过玩手机来打发时间。<br/>\n浪费是一个非常消极的词汇，<br/>\n中文一般不会自己给自己用。\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1272917",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-06-24",
+          "content": "Thank you, it's practical."
+        }
+      ]
+    },
+    {
+      "id": "756146",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你这问题可以尝试发布到HiNative上去问问台湾人<br/>\n<br/>\n说来惭愧,俺不知道什么是状语<br/>\n<br/>\n日常中我会发现中文对于语法其实没有很强的要求<br/>\n的地得乱用感觉都没差<br/>\n而语且序混乱, 都不响影阅读\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1272905",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-06-24",
+          "content": "因为这是你的母语。至于状语是什么，小学就学过。"
+        }
+      ]
+    },
+    {
+      "id": "756346",
+      "is_folded": false,
+      "answerer": {
+        "username": "神州陆沉",
+        "uid": "89962"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要从49年以后在后清的任何出版物学习中文。美国很多对中文感兴趣的都是去台湾学中文。\t\t</div>",
+      "date": "2024-06-25",
+      "agree_count": 4,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1273097",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-06-25",
+          "content": "很多外国人学得还真是后清中文\n后清中文实用性更高"
+        },
+        {
+          "id": "1273122",
+          "replier": {
+            "username": "神州陆沉",
+            "uid": "89962"
+          },
+          "date": "2024-06-25",
+          "content": "@rowlandheights:其实就是人傻钱多"
+        },
+        {
+          "id": "1273130",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-06-25",
+          "content": "@神州陆沉:省钱也是学后清中文"
+        },
+        {
+          "id": "1273133",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-06-25",
+          "content": "我的一位美国女性朋友，六十多岁了，她当年在美军学中文学得就是后清的中文，为啥呢，因为后清是假想敌啊，美军教的当然是实用技能"
+        }
+      ]
+    },
+    {
+      "id": "756239",
+      "is_folded": false,
+      "answerer": {
+        "username": "什么是保留词",
+        "uid": "131236"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t第一次听说中文有语法这玩意儿。。。老外学中文能理解。中国人掰扯语法就是扯淡了。一个连基本逻辑都没的原始代码系统，编语法骗鬼骗经费?\t\t</div>",
+      "date": "2024-06-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "756262",
+      "is_folded": false,
+      "answerer": {
+        "username": "RobotRepublic",
+        "uid": "101437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要学中文，不要学中文，不要学中文。都说到这份上了，各位听听劝吧。\t\t</div>",
+      "date": "2024-06-25",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1273067",
+          "replier": {
+            "username": "Konnichiwa",
+            "uid": "74660"
+          },
+          "date": "2024-06-25",
+          "content": "知己知彼百战不殆。跟共匪装文明的外宣造粪机打仗，还真得懂深点它们的鸟语，不然容易进沟。。。"
+        }
+      ]
+    },
+    {
+      "id": "756350",
+      "is_folded": false,
+      "answerer": {
+        "username": "習近平有幾隻鳥",
+        "uid": "11938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t并不是这样的。 建议题主复习一下高中语文。<br/>\n<br/>\n中文里的状语的位置是有严格规则的。<br/>\n<ul><li>一般来说，时间状语会出现在地点状语的前面。</li></ul><br/>\n“我十二点钟在酒吧喝酒”永远不可能写成“我在酒吧十二点钟喝酒”（除非你想强调“十二点钟”）。<br/>\n<ul><li>题主举的例子也并非是把“某个部分看成一个整体”</li></ul><br/>\n建议：复习高中语文，拿两本五年高考三年模拟做一下。\t\t</div>",
+      "date": "2024-06-25",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1273092",
+          "replier": {
+            "username": "Konnichiwa",
+            "uid": "74660"
+          },
+          "date": "2024-06-25",
+          "content": "题主不是中国人，倒是无可厚非。但上面某个用英文长篇大论的硬伤就很明显了。但凡有点语文基础就不能说出“我们在北京下雨时游览了故宫”。连基本的时间状语该放什么位置都整不清楚还在那儿硬拗。。。"
+        }
+      ]
+    },
+    {
+      "id": "756271",
+      "is_folded": false,
+      "answerer": {
+        "username": "poilkj520",
+        "uid": "131190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日常生活不用在乎这个吧，平时讲话都要注意这些都不想讲话了，多累啊，一般也就写文章之类的才有用到吧\t\t</div>",
+      "date": "2024-06-25",
+      "agree_count": -1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1284499",
+          "replier": {
+            "username": "黑暗中的一缕阳光",
+            "uid": "131322"
+          },
+          "date": "2024-08-17",
+          "content": "嗯哼"
+        }
+      ]
+    }
+  ]
+}

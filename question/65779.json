@@ -1,0 +1,47 @@
+{
+  "question_id": "65779",
+  "category_id": "10",
+  "title": "如果在tg中交流敏感话题，会有什么风险？",
+  "meta_description": "如果在tg中交流敏感话题，会有什么风险？ - 如果两个人在tg上交流敏感话题，可能存在什么风险吗？比如消息是否会被截获？（先假设不考虑监控成本问题）",
+  "meta_keywords": "tg,交流,敏感,话题,风险",
+  "tags": [
+    {
+      "id": "199",
+      "name": "安全"
+    },
+    {
+      "id": "3513",
+      "name": "telegram"
+    }
+  ],
+  "author": {
+    "username": "lyyzandy",
+    "uid": "16137"
+  },
+  "view_count": 3157,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t如果两个人在tg上交流敏感话题，可能存在什么风险吗？比如消息是否会被截获？（先假设不考虑监控成本问题）\t\t\t\t\t\t\t</div>",
+  "date": "2024-03-05",
+  "agree_count": 0,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1056526",
+      "replier": {
+        "username": "iamwanghuning",
+        "uid": "109571"
+      },
+      "date": "2024-03-05",
+      "content": "用whatsapp，先學習一下End to End encryption概念；不然就用TG secret chat"
+    },
+    {
+      "id": "1056564",
+      "replier": {
+        "username": "春日玫瑰旅店",
+        "uid": "124904"
+      },
+      "date": "2024-03-06",
+      "content": "最好别，如果你没用自己的手机号注册还好"
+    }
+  ],
+  "answer_count": 7
+}

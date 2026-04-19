@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "57829",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "650468",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tXP和windows2003时代用过，占用系统资源低，很安静，查杀率高<br/>\n手机版版本没用过，不做评价\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650486",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很好用啊，虽然现在大部分时间已经不用「晕到死」Ｗｉｎｄｏｗｓ了，<br/>\n<br/>\nｍａｃ没必要用防毒软件吧，用个好点的防火墙就好了，比如ｌｕｌｕ，<br/>\n<br/>\n或者收费的ｌｉｔｔｌｅ　ｓｎｉｔｃｈ，<br/>\n<br/>\nｌｉｎｕｘ下有ｕｆｗ，足矣，<br/>\n<br/>\n要说厉害还是ｆｒｅｅｂｓｄ之类的最好，\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "61274",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "683844",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这是抓代购的，掐断海淘的路子呢，不知是忧还是喜\t\t</div>",
+      "date": "2023-08-28",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1203583",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2023-08-28",
+          "content": "所谓的抓代购，也许别有用心，反正一举两得"
+        }
+      ]
+    },
+    {
+      "id": "683850",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t刚出去旅游一圈，来回没有发现这个现象，当然这是我的个案，当不得准，可能我也确实长的不像飞碟\t\t</div>",
+      "date": "2023-08-28",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

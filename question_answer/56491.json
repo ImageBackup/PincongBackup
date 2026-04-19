@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "56491",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "635563",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t通用解决方案：<br/>\n向语言AI询问提示词，然后输入绘画AI。<br/>\n<br/>\n已经有人把ChatGPT和DallE结合起来用了。\t\t</div>",
+      "date": "2023-03-01",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1158582",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-03-01",
+          "content": "也就是用反向解析吧？但是关于面部的细节好像没办法识别，虽然有表情的tag，但是没有捏脸的办法"
+        },
+        {
+          "id": "1159071",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-03-03",
+          "content": "AI明星隊來畫色色圖XD"
+        }
+      ]
+    },
+    {
+      "id": "635586",
+      "is_folded": false,
+      "answerer": {
+        "username": "boeing797",
+        "uid": "2145"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墙内讨论挺多的，b站秋叶有整合教程，可以去看看\t\t</div>",
+      "date": "2023-03-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

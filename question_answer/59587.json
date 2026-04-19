@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "59587",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "667339",
+      "is_folded": false,
+      "answerer": {
+        "username": "weweweee",
+        "uid": "14939"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是这个原因，是因为关心无用，你关心也不会改变什么，所以中国人自然而然的就会政治冷感。\t\t</div>",
+      "date": "2023-07-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "667367",
+      "is_folded": false,
+      "answerer": {
+        "username": "在润了",
+        "uid": "112284"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是，纯粹是因为在<mark>支那</mark>政治话题太敏感了，大家不敢关心而已。\t\t</div>",
+      "date": "2023-07-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

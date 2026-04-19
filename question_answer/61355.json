@@ -1,0 +1,79 @@
+{
+  "parent_type": "question",
+  "parent_id": "61355",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "684644",
+      "is_folded": false,
+      "answerer": {
+        "username": "xiaotouming",
+        "uid": "89115"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t便宜的大约400RMB一晚，再贵一些的也有。你下个中国旅行软件就好，至少语言通付款方便。\t\t</div>",
+      "date": "2023-08-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684648",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tbooking.com<br/>\nhotels.com<br/>\ntrivago<br/>\nagoda\t\t</div>",
+      "date": "2023-08-30",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1204192",
+          "replier": {
+            "username": "madanne",
+            "uid": "90026"
+          },
+          "date": "2023-08-30",
+          "content": "多谢"
+        }
+      ]
+    },
+    {
+      "id": "684660",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t东亚东南亚玩 Klook 非常好用<br/>\nTripAdvisor 定local trip也不错<br/>\n紫薯紫薯紫薯紫薯紫薯\t\t</div>",
+      "date": "2023-08-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684662",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这么有钱住五星级，却来一个免费键政论坛问怎么住旅店<br/>\n<br/>\n我认为楼主的某些底层逻辑需要完善一下\t\t</div>",
+      "date": "2023-08-30",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1204193",
+          "replier": {
+            "username": "madanne",
+            "uid": "90026"
+          },
+          "date": "2023-08-30",
+          "content": "也不是纯键政论坛吧，至少我获得不少键政以外的知识和信息"
+        }
+      ]
+    }
+  ]
+}

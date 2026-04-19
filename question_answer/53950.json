@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "53950",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "607376",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果哪位官员因为放开被提拔大概更有说服力<br/>\n<br/>\n不然那位总理因为上海封城得到提拔的示范效应其他党员同志是不敢放手去放开的。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1133261",
+          "replier": {
+            "username": "爱娴",
+            "uid": "96773"
+          },
+          "date": "2022-12-07",
+          "content": "那位总理早已经内定了，上海封不封都是会被提拔"
+        },
+        {
+          "id": "1133269",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2022-12-07",
+          "content": "封了依然提拔效果差不多"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "53908",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "606927",
+      "is_folded": false,
+      "answerer": {
+        "username": "不可接触者",
+        "uid": "50310"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这些事都开始管了，早晚亲自指导你怎么上厕所擦屁股，怎么吃饭端碗\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606928",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t当然不可行了。民选议员，议会立法，先定宪法，再定这些次级法律。你自己发个规定，算什么玩意，独裁吗。\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "61893",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "721951",
+      "is_folded": false,
+      "answerer": {
+        "username": "居居居局猪投透头",
+        "uid": "122401"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t管理员您好，现在可以帮我吗@admin<br/>\n紫薯紫薯紫薯紫薯\t\t</div>",
+      "date": "2024-01-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "693658",
+      "is_folded": true,
+      "answerer": {
+        "username": "dhjopl",
+        "uid": "117343"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-10-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

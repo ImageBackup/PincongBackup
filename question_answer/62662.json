@@ -1,0 +1,463 @@
+{
+  "parent_type": "question",
+  "parent_id": "62662",
+  "answer_count": 19,
+  "answers": [
+    {
+      "id": "699425",
+      "is_folded": false,
+      "answerer": {
+        "username": "畜平首寄",
+        "uid": "111902"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t针对迷雾通，我以下的话有失偏颇。<br/>\n<b>迷雾通即使免费版，抗干扰能力也是很强的。</b><br/>\n在某些自建服务器丢包严重的网络环境中，迷雾通依然可以保持工作。<br/>\n<br/>\n迷雾通的连通性，的确比市面上常见的V2Ray，Trojan协议要好。<br/>\n这点已经多次验证过，可以无视具体的网络环境，连通率极高。<br/>\n<br/>\n<b>我为我的浅薄，向迷雾通的作者表示道歉。</b><br/>\n<br/>\n迷雾通免费版作为毫无门槛（无限制注册帐号）的工具，<br/>\n应该是人手一份的常备救灾百宝箱。<br/>\n它虽然不快，但总是可以稳定工作。<br/>\n----------<br/>\n<br/>\n买任何成品VPN，本身就是在给中共盖高墙交税。<br/>\n<br/>\n就算牛逼到天顶星的翻墙技术，它也需要IP地址，<br/>\n你猜中共为什么允许这个VPN的IP地址通信？<br/>\n<br/>\n还不是因为这个VPN给中共交了好处费。<br/>\n<br/>\n你看微软验证服务器，什么敏感内容都没有，就是一个单纯的工具型响应服务器，<br/>\n只是用来登录微软服务而已，<br/>\n这都被中共墙的服服帖帖。<br/>\n<br/>\n为啥付费VPN可以跑几十兆下载速度，心里没B数？<br/>\n<br/>\n自建教程：<br/>\n<br/>\n1. 找个KVM服务器运营商，首选南美，东南亚，东欧，不要考虑香港，澳门。<br/>\n2. 部署Linux系统，发行版本选自己喜欢的。<br/>\n3. 使用SSH客户端，连上KVM服务器的Linux系统，把端口22修改为自己的私密端口，规避国际网络扫描。<br/>\n4. 在GitHub找Trojan一键安装脚本，无需懂Linux命令，复制粘贴按回车即可。<br/>\n5. 按照脚本提示，除了几个选项，其余都是全自动的。<br/>\n6. 脚本完成后，自动给出连接信息，将信息保存，填入电脑或手机或路由器代理软件的代理设置中。<br/>\n7. 点击代理连接，搞掂。<br/>\n<br/>\n比起一个月动辄几十元的收费VPN，自建简直不要钱一样，一年顶多一百多块解决战斗。<br/>\n<br/>\n不需要多高的配置，延迟也许不能打竞技游戏，但流畅看4K油管是完全没问题的！\t\t</div>",
+      "date": "2023-10-22",
+      "agree_count": 7,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1226944",
+          "replier": {
+            "username": "clevoT",
+            "uid": "51830"
+          },
+          "date": "2023-11-21",
+          "content": "一键脚本不要用！不要用！ 不要用！"
+        }
+      ]
+    },
+    {
+      "id": "706949",
+      "is_folded": false,
+      "answerer": {
+        "username": "冬天的野火也不弱",
+        "uid": "104693"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t这是因为防火长城升级了啊，迷雾通的开发者已经解释原因了，下面是迷雾通作者nullchinchilla发表的文章，已经解释这个问题了。<br/>\n<br/>\n<br/>\n关于 GFW 封锁迷雾通 UDP 的一些笔记（文章作者nullchinchilla）<br/>\n<br/>\n迷雾通（Geph）为其底层协议 sosistab2 使用了两种不同的底层传输方式：<br/>\n<br/>\nObfsUDP，一种带有类似 ScrambleSuit 握手过程的混淆 UDP 传输协议<br/>\nObfsTLS，一种混淆的 TLS 传输协议。<br/>\n一些特别敏锐的迷雾通用户可能已经注意到，过去一年左右的时间里，中国的防火长城（GFW）已经开始封锁 ObfsUDP 流量。这种封锁并不是立即发生的：一旦新的桥接服务器上线，通常需要几个小时 ObfsUDP 流量才会被封锁。实际上，这并没有引起太大的问题，因为通常迷雾通的桥接服务器每隔几个小时就会更新一次。<br/>\n<br/>\n但是由于 ObfsUDP 设计上非常难以被识别为迷雾通流量，这意味着这是一个相当严重的问题。肯定存在着某种设计上的疏忽，因为 GFW 在几个小时的时间后，显然可以相当准确地识别出 obfsudp 流量。（ObfsTLS 流量没有受到干扰，所以这种攻击显然不是通过发现桥接地址来进行的）<br/>\n<br/>\n在过去的几周里，我花了不少时间研究防火长城是如何封锁 ObfsUDP 的。我还没有太多的结论可以分享，但我计划逐步在这个帖子中记录我的研究过程。<br/>\n<br/>\nObfsUDP 工作原理概述<br/>\n在我们讨论防火长城如何封锁 ObfsUDP 的任何理论之前，了解 ObfsUDP 的工作原理是有帮助的，可以在规范中找到更多细节。以下是一些重要的点：<br/>\n<br/>\nObfsUDP 服务器（如迷雾通桥接）有独特的公钥。正常的客户端知道这个公钥，但我们假设 GFW 不知道。<br/>\n在与服务器通信之前，客户端必须与服务器执行一个四次握手过程，该过程使用 Diffie-Hellman (X25519) 来建立一个独特的会话密钥。因为会话密钥是独特的，客户端无法相互窥探，不像 ShadowSocks 那样的协议。<br/>\n握手之后，应用流量用会话密钥，使用 ChaCha20-Poly1305 算法加密。<br/>\n总体目标是使所有数据包内容看起来均匀随机：<br/>\n我们假设 ChaCha20-Poly1305 对于不知道密钥的人来说，产生的输出看起来是随机的。<br/>\n握手数据包有额外的加密层，使用cookie加密，这是一个从公钥派生的对称密钥。<br/>\n握手之后，所有数据包都被会话密钥加密。<br/>\n两种攻击及其防御<br/>\n现在，ObfsUDP 总体上试图防御两种类型的攻击：<br/>\n<br/>\n被动检测：给定一个网络上所有数据包的记录，其中一些是 ObfsUDP，必须很难从前者中挑选出后者。否则，GFW 可以通过简单地识别其数据包并封锁它们来轻易封锁 ObfsUDP。<br/>\n我们通过使所有数据包看起来均匀随机来防御这一点。<br/>\n主动探测：给定一个怀疑是 ObfsUDP 的服务器，以及所有往来该服务器的数据包记录，必须很难发送假流量并引发确认流量是 ObfsUDP 的响应。<br/>\n由于攻击者无法伪造任何将被有效加密的数据包（无论是使用 cookie 还是会话密钥），因此「凭空」的探测是行不通的。<br/>\n通过复制之前捕获的合法数据包进行探测：通过一个复杂的防重放机制进行防御，该机制记录在规范中。<br/>\n当前观察<br/>\n目前为止，这里有一些观察：<br/>\n<br/>\n封锁似乎需要一定量的流量才会发生。很难让只有一个人在中国使用的 ObfsUDP 服务器被封锁——尽管有时在连续几天的大量使用后会发生这种情况。但是当面对一个小型生产迷雾通桥接（大约 100 Mbps 连续几个小时）的流量水平时，封锁会很快发生。<br/>\n调整 ObfsUDP 中对包大小的混淆似乎不会影响封锁，表明数据包大小很可能不是 GFW 针对的特征。<br/>\n抓获数据包的记录后，没有发现看起来像重放的数据包——即来自不同 IP 地址、时间分隔的包含相同内容的数据包。少数重复的数据包非常接近且不频繁，似乎是某种网络故障的结果。<br/>\n不过，我正在准备一些更有针对性的实验。一旦我有了更多数据，我会在这里回复更多帖子。\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2023-11-21",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699142",
+      "is_folded": false,
+      "answerer": {
+        "username": "sweatdog",
+        "uid": "43098"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不好用的也不只是迷雾通。其他的地域不清楚，我这块地方现在的情况感觉上是，GFW检测出翻墙流量，或者是强加密的流量，就立刻切断连接，数分钟内几乎任何国际流量都被切断。我现在找不到任何一个稳定的翻墙方法，而且出于我已经完全不使用墙内的粪坑局域网，使用网络的无时无刻都遭遇干扰，内心的仇恨也是每天都在上涨。\t\t</div>",
+      "date": "2023-10-22",
+      "agree_count": 11,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1218746",
+          "replier": {
+            "username": "南非好望角",
+            "uid": "118056"
+          },
+          "date": "2023-10-22",
+          "content": "墙内时政无法看。因为情绪和断章取义取代了事实描述。也就是说没有了新闻工作者。只有宣传五毛和拉仇恨。"
+        }
+      ]
+    },
+    {
+      "id": "698918",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷霧通去年就不好用，不能玩遊戲，下載很慢<br/>\n梯子跑路太普遍了，不論多少錢\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "698902",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷雾通自从去年11月份左右稳定性就开始不行了<br/>\n搞的是,迷雾通自己的论坛讨论的人寥寥无几<br/>\n<br/>\n服务器列表看着都是绿的,那是因为都连不上,连上了也没法用<br/>\n动辄上万延迟,实际就是100%丢包,等待重连<br/>\n144P听个响都听不了\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699050",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我下载的迷雾通早就用不了了。现在这个梯子几个月前被中共大规模攻击过一次，要知道铁拳只有一次和无数次，这个梯子估计也快要步Nord后尘了，到那时我会彻底和墙外失联了\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1218747",
+          "replier": {
+            "username": "南非好望角",
+            "uid": "118056"
+          },
+          "date": "2023-10-22",
+          "content": "墙内用必应或者搜狗可以看到大量猎豹系列加速器。不过要你实名手机号注册。我也注册过。没事。百度下试试？可能是钓鱼也可能是有背景的人开的。也可能暗中收集谁翻墙然后秋后算账。不过连接很稳定。"
+        }
+      ]
+    },
+    {
+      "id": "699172",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t总的来说，我看衰大部分公开贩售的翻墙服务。<br/>\n<br/>\n道理很简单，“资源不够”，技术再先进，也是要用一台服务器来中转访问服务，除非你和cloudflare一样财大气粗，可以购买很多的服务器，否则只购买数台服务器的话，只要让“相关部门”知道，他们花几十几百（再贵你也卖不出去了）买个套餐，就能探测到你使用的服务器的地址，管你用多先进的技术，直接封IP就得了，封完你换，再买再封，毕竟你一台服务器要服务很多客户，光靠几个客户付费不可能覆盖整个服务器的成本，早晚会被封完。\t\t</div>",
+      "date": "2023-10-22",
+      "agree_count": 1,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1218978",
+          "replier": {
+            "username": "粉红个个该诛",
+            "uid": "114291"
+          },
+          "date": "2023-10-22",
+          "content": "就你这智商，纯种\n支那猪\n一个。"
+        },
+        {
+          "id": "1220161",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-10-26",
+          "content": "说白了就是很多vps服务商的ip池巨大，换ip不要钱"
+        },
+        {
+          "id": "1220207",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-10-26",
+          "content": "@rowlandheights:是，巨大IP池是要钱嗒"
+        },
+        {
+          "id": "1220209",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-10-26",
+          "content": "@天下无贼:租的人又不要钱\n你要知道，他这个ip池要钱，但是随便从里面拿一个ip给你并不需要多少钱，因为ip可以轮换可以回收。"
+        },
+        {
+          "id": "1220212",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-10-26",
+          "content": "@rowlandheights:哦，你说运营商啊，那很快IP池就全被封了，搬瓦工不就是吗？"
+        },
+        {
+          "id": "1220215",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-10-26",
+          "content": "@天下无贼:搬瓦工也没封干净，虽然翻墙用的ip池里的ip不少被封了，但是墙国GFW也有规则，违规使用的ip一段时间内没有违规流量就解封。"
+        }
+      ]
+    },
+    {
+      "id": "700550",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t无论多先进技术的翻墙服务，只要服务器ip资源不够，在国家级力量面前，迟早被封死<br/>\ntor的网桥的都被封得差不多了，只有伪装成微软网站的meek还能用<br/>\n现在唯一还能坚挺的就只有cloudflare<br/>\n套一个cloudflare CDN，可以防止被封\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1220163",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2023-10-26",
+          "content": "9月的时候，snowflake不能用了是因为 cdn.sstatic.net 迁移到cloudflare了，不能用来域前置了。tor browser更新换成“foursquare.com”了\n[quote]\nhttps://gitlab.torproject.org/tpo/applications/tor-browser/-/issues/42120\n[/quote]"
+        }
+      ]
+    },
+    {
+      "id": "699150",
+      "is_folded": false,
+      "answerer": {
+        "username": "MrJerry",
+        "uid": "96142"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t感覺還不如賽風。賽風能連上的時候速度還可以。\t\t</div>",
+      "date": "2023-10-22",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1218745",
+          "replier": {
+            "username": "南非好望角",
+            "uid": "118056"
+          },
+          "date": "2023-10-22",
+          "content": "赛风去年就不容易连接了。"
+        },
+        {
+          "id": "1220160",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-10-26",
+          "content": "墙内能直连赛风，那简直是奇迹，我都是挂在迷雾通后面做二级代理的"
+        },
+        {
+          "id": "1220165",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2023-10-26",
+          "content": "@客观评价习近平: 主要是赛风那个自动找策略的功能太玄学了，手动改配置写死是能用的，部署它的Psiphon Tunnel Core也能用，但是自动就不行。"
+        }
+      ]
+    },
+    {
+      "id": "699195",
+      "is_folded": false,
+      "answerer": {
+        "username": "尤里X",
+        "uid": "50565"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这么说根据楼上所说，我们毕竟是在翻墙，而墙是肯定不会让我们随便翻的，我的迷雾通这几个月也是相当不好用。\t\t</div>",
+      "date": "2023-10-22",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1218775",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2023-10-22",
+          "content": "其他梯子就正常的多"
+        }
+      ]
+    },
+    {
+      "id": "706898",
+      "is_folded": false,
+      "answerer": {
+        "username": "台湾国的周杰伦",
+        "uid": "114126"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也充了迷雾通一个月会员，刚开始还好最近一直出问题，还有人pua我，说我问题多，我花钱买的，为什么不能提问题。\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "706936",
+      "is_folded": false,
+      "answerer": {
+        "username": "Didadu",
+        "uid": "118212"
+      },
+      "contents": "<div class=\"markitup-box\">\n<mark>支那人</mark>做的东西都这样，做到一定程度就会忘本\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700552",
+      "is_folded": false,
+      "answerer": {
+        "username": "PC2077",
+        "uid": "114210"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t请问KVM服务器在哪里租比较好，小白一个，请教下如何搭建\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1226945",
+          "replier": {
+            "username": "clevoT",
+            "uid": "51830"
+          },
+          "date": "2023-11-21",
+          "content": "已删除"
+        },
+        {
+          "id": "1226946",
+          "replier": {
+            "username": "clevoT",
+            "uid": "51830"
+          },
+          "date": "2023-11-21",
+          "content": "搬瓦工/racknerd，随便搜搜，教程很多，有一点注意不要用一键搭建脚本！"
+        }
+      ]
+    },
+    {
+      "id": "699019",
+      "is_folded": false,
+      "answerer": {
+        "username": "南非好望角",
+        "uid": "118056"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷雾通可能是升级不够。反正下载后九月份以来突然无法登陆，无法响应。不知道为啥？\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700563",
+      "is_folded": false,
+      "answerer": {
+        "username": "迅捷斥候",
+        "uid": "118224"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tiOS端更是难用的要命，我买了一年的迷雾通，这一年来就没有好用的时候<br/>\n延迟莫名其妙就1000ms+，下载速度甚至达不到1mbps，Twitter上图片都不能丝滑加载，YouTube连个720p都看不了<br/>\n而且开发者似乎对论坛和软件也疏于管理？\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1226919",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-11-21",
+          "content": "不知道，可能是力不从心或者是躺平圈烂钱"
+        }
+      ]
+    },
+    {
+      "id": "700600",
+      "is_folded": false,
+      "answerer": {
+        "username": "kdxbt",
+        "uid": "1986"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要用什么VPN，自己在cloudflare搭建几个反代节点，体验吊打大多数机场。\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1226886",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-11-21",
+          "content": "怎么弄"
+        }
+      ]
+    },
+    {
+      "id": "698889",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不知道了，我之前买的佛跳墙，现在叫极光的才叫坑，感觉已经跑路了<br/>\n<br/>\n有没有可能是同一帮人圈一波钱就跑路，然后又做APP又圈钱\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1218539",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-10-21",
+          "content": "你这些都是蜜罐钓鱼的吧,都是老王翻版"
+        },
+        {
+          "id": "1218543",
+          "replier": {
+            "username": "霖玲淋",
+            "uid": "96704"
+          },
+          "date": "2023-10-21",
+          "content": "@takesipon:这人应该是晶，他以前发过不少钓鱼贴，现在连佛跳墙这种匪碟工具都拿来说了"
+        },
+        {
+          "id": "1218778",
+          "replier": {
+            "username": "春姑来啦",
+            "uid": "117957"
+          },
+          "date": "2023-10-22",
+          "content": "恭喜。 有人给你换工作啦"
+        },
+        {
+          "id": "1220162",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-10-26",
+          "content": "不要信中国卖家，只用开源软件要好很多"
+        }
+      ]
+    },
+    {
+      "id": "700630",
+      "is_folded": true,
+      "answerer": {
+        "username": "希望未来更好",
+        "uid": "13577"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "706907",
+      "is_folded": true,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t为啥最近这种帖子那么多？迷雾通得罪人了还是咋的？\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

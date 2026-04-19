@@ -1,0 +1,59 @@
+{
+  "parent_type": "question",
+  "parent_id": "57630",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "648971",
+      "is_folded": false,
+      "answerer": {
+        "username": "flicker_free",
+        "uid": "98663"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t所谓云原生的目的是快速部署、弹性扩容缩容、服务器资源整合利用，“没有故障”是不可能的，这次腾讯的事故据说是广州电信数据中心机房空调故障，估计是散热废了然后服务器过热宕机。<br/>\n<br/>\n挖掘机挖断光缆、空调不制冷、员工故意搞破坏、软件触发未知bug这些意外，根本避免不了也无法预知。<br/>\n<br/>\n而且再怎么云原生，现在看上去也是后端服务器集群集中、中心化，其实都是变得更集中、更节省服务器和数据中心资源，而不是真的像“云”那么分散。<br/>\n<br/>\n好比说5年前需要10台服务器、放在5个数据中心才能满足业务处理，而现在1台服务器的性能就满足了，那么作为企业，会怎么做？找两个数据中心，一个里面放1台，工作模式为主备或互备即可。那么这时候如果把这两个数据中心都炸了，结果就可想而知。<br/>\n<br/>\n过去需要炸5个数据中心，现在只需要炸2个，省下3个炸弹可以炸其它的地方。\t\t</div>",
+      "date": "2023-04-18",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648205",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t对技术进行改造升级，不代表就不会出现故障吧。把马车升级到汽车，绝对是一种进步，但谁家的汽车也不是不出故障，虽然技术的升级可能也包括了稳定性的升级，但是也许有的故障是伴随着更强的性能出现的，就像马车永远不会出现火花塞积碳一样。\t\t</div>",
+      "date": "2023-04-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648202",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t重要的是核心数据库部分，前端挂就挂了，没关系的。AWS也不是没有down的时候。\t\t</div>",
+      "date": "2023-04-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648958",
+      "is_folded": false,
+      "answerer": {
+        "username": "duck2go",
+        "uid": "108354"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t即便多中心，也是根据用户进行sharding，在单个用户的视角，服务端肯定是中心化的，因为支付这种场景只能做成中心化的，除非容忍延迟（比如区块链）\t\t</div>",
+      "date": "2023-04-18",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

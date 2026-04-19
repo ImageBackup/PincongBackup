@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "66278",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "737504",
+      "is_folded": false,
+      "answerer": {
+        "username": "MSE5076",
+        "uid": "117946"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t暴力机关收暴力人，除了洗脑还能用来当炮灰，死不足惜\t\t</div>",
+      "date": "2024-03-31",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1254084",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-03-31",
+          "content": "penal corps"
+        }
+      ]
+    },
+    {
+      "id": "737481",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t主要功能是洗脑，而不是军事训练。很多底层小混混是没有思想，自己乱搞。\t\t</div>",
+      "date": "2024-03-31",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

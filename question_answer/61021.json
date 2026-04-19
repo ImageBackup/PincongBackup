@@ -1,0 +1,287 @@
+{
+  "parent_type": "question",
+  "parent_id": "61021",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "681503",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tvery easy, 找本英文版经济学教材从头到尾看一遍，下载个test bank把习题也顺带做了，推荐International Economics by Krugman, Obstfeld &amp; Melitz 11th edition, 随便找找，网上有免费pdf版本。 Blanchard 的 Macroeconomics, 还有Mishkin的Economics of Banking 都是非常不错的入门教材。<br/>\n<br/>\n如果你微积分还过关，推荐Microeconomics Theory and Applications with Calculus 4th edition by Perloff, 将微观经济学中的理论解释的非常清晰，并且会帮助你熟悉一些基本的经济学建模方法，比如兰格朗日乘数法，几乎应用在所有的均衡求解模型中，相当有助于从数理层面去理解经济学本质。\t\t</div>",
+      "date": "2023-08-20",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1201385",
+          "replier": {
+            "username": "读书宇",
+            "uid": "110787"
+          },
+          "date": "2023-08-20",
+          "content": "这几本书感觉专业性很强 大概中级水平❓ 答主是econ专业的么"
+        },
+        {
+          "id": "1201437",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-08-20",
+          "content": "@读书宇: 我推荐的基本都是入门级教材，是商学院MBA课程或者大一大二学生会用到的书，会从基本概念讲起，由浅入深，你只要有基本的数学概念，就可以看懂。  中级(intermediate) 经济学的内容，开始会有大量的微积分均衡模型。  本人是quantitative finance专业，在学校学了一些微观和宏观，之前做analyst的时候，又自学了一些经济学的分支。"
+        },
+        {
+          "id": "1202370",
+          "replier": {
+            "username": "读书宇",
+            "uid": "110787"
+          },
+          "date": "2023-08-23",
+          "content": "@AAPLTSLA:好的谢谢你"
+        }
+      ]
+    },
+    {
+      "id": "681264",
+      "is_folded": false,
+      "answerer": {
+        "username": "S700N",
+        "uid": "75716"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t油管超过千万观看的科普视频：<br/>\n<a href=\"url/link/aHR0cHM6Ly95b3V0dS5iZS9yRlY3d2RFWC1Nbw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://youtu.be/rFV7wdEX-Mo\">经济机器是怎样运行的 (时长30分钟) Ray Dalio</a> </div>",
+      "date": "2023-08-19",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "681533",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t对于匪区 我想说的是经济是政治的延续<br/>\n<br/>\n贵支不是宪政体制<br/>\n这种情况下的经济问题不能按照西方那种宪政体制下经济问题做解释\t\t</div>",
+      "date": "2023-08-20",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "681440",
+      "is_folded": false,
+      "answerer": {
+        "username": "小小小",
+        "uid": "84906"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t《第一本经济学》非常浅显易懂，基础知识有了，再看其他就很简单了，这本书还解释了为什么计划经济不可取，DK出版的经济学大百科也可以看看，青少年都能看懂，稍微掌握点经济学只是，就知道马哲就是个笑话，还有你可以看看编程随想推荐过的那些\t\t</div>",
+      "date": "2023-08-20",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1201312",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-08-20",
+          "content": "謝謝，了解一下"
+        }
+      ]
+    },
+    {
+      "id": "681497",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 速通經濟的教程不好找, 我覺得利率、複利、成本、風險等概念是經濟學入門基礎, 衍生的 NPV(精現值) IRR(內部收益率)等等直接能比較投資項目的好壞.<br/>\n<br/>\n_ _ 其實我挺建議經濟類播主, 在收費區弄一套投資基礎速通且通俗的課程爲我這邊巨量沒上過商業課的人開蒙的.<br/>\n<br/>\n_ _ 學術上博弈論及其直接推論(囚徒、海盜分金等)-&gt;帕雷托最優-...-&gt;納什均衡直至現實正在運行的以摩爾定律應用爲標誌的經濟. 議題可大可小, 而我是個攻城獅性格的人, 比起想的深廣更着急這麼好的智慧結晶爲啥人不去用來解決苦難呢?<br/>\n<br/>\n經濟學原理 經濟學系 林明仁<br/>\nhttp://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/102S116<br/>\n<br/>\n我覺得上述臺大公開課是個好的開始<br/>\n<br/>\nMoneyXYZ | 政經孫老師 | 小Lin说 | 小翠時政財經 | 小林财经时政<br/>\n<br/>\n這些國普語播主也是長期看的\t\t</div>",
+      "date": "2023-08-20",
+      "agree_count": 0,
+      "discussion_count": 10,
+      "discussions": [
+        {
+          "id": "1201331",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-08-20",
+          "content": "NPV IRR 这些是企业金融的capital budgeting相关框架， 利率 复利 是核心金融学的基础概念，并不严格属于经济学范畴。  题主问的是经济学，当然是从微观经济学/宏观经济学作为入门，熟悉掌握经济学基本的分析工具和理论模型。 之后在学学发展经济学， Solow Growth Model, Ricardian Model， 还有帕累托Pareto Efficiency。 再之后学学国际经济(金融)学， 熟悉下汇率系统，PPP, CIRP, UIRP, 以及一些远期汇率的期望模型。    经济学从头至尾贯穿两个概念： supply and demand, 你会在各个模型中看到这两个概念的延申。"
+        },
+        {
+          "id": "1201335",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-08-20",
+          "content": "@AAPLTSLA:\n_ _ 嗯, 我同意你的意見. 或許帖主只是爲了理論而不是爲了實際去經營, 我這套過於項目導向, 不是研究路線."
+        },
+        {
+          "id": "1201340",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-08-20",
+          "content": "@ismynewmail: 同意。 不过我真的不赞成通过youtube频道，或者其他自媒体频道去学习，效率非常低，而且并无法训练自己的逻辑思考能力。   读教科书是相对高效的方法。"
+        },
+        {
+          "id": "1201351",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-08-20",
+          "content": "@AAPLTSLA:\n_ _ 是的, 支持如有可能掌握一門真學識, 既能擺脫一些愚昧, 又能通過範式了解科學的道理~ 懂得經濟, 人就能避過一些明顯的圈套, 這些圈套通常還是哪種最大的坑.\n_ _ 有的道理非常不易理解, 其實我倒是支持你做節目, 就一些困難概念做講解, 例如複利的威力等.\n_ _ 我和身邊多數人講解海盜分金, 最後揭曉時很多人都會要求我再多說幾次, 我也把舊奴役權利鬥爭掛在海盜分金上一併講, 來便於人理解. 確實東亞大陸人與現代文明是被拉開距離了."
+        },
+        {
+          "id": "1201360",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-08-20",
+          "content": "@ismynewmail: 谢谢！ 我会考虑你得建议！"
+        },
+        {
+          "id": "1201361",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-08-20",
+          "content": "@ismynewmail: 复利是贯穿于整个金融理论体系的概念，在复利的概念之上构建出来的利率结构(term structure) 才是真正观察经济走向的利器！ 谢谢你得建议，我会认真考虑！"
+        },
+        {
+          "id": "1201370",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-08-20",
+          "content": "@AAPLTSLA:\n_ _ 太客氣了, 我是覺得你在知識上比我更有探索精神, 適合將一些難以自學的概念展現一下, 只做難點適當演繹就好別佔用過多的時間.\n_ _ 最早我也懷疑資本主義的是不是必要的, 先是通過利率知道了資金的時間價值也就明白了機會成本, 而在計算複利的指數級暴漲中我確實感到震撼, 人竟然有辦法如此快速的創造財富只受物理限制, 雖然所有的人都富裕是不可能的, 但好人不虞窮困匱乏是可以做到的.\n_ _ 知識的中立性也讓我看到, 那些用大耳洞、九出十三歸等使人背負近乎無法還清債務的人是有多麼惡. 這需要法律來管, 但在特權社會法只是裝飾, 誰都面臨罪惡的威脅, 真是民主憲政唯一道路了.\n如您所見, 在一些事情上我只是定性不定量, 長於實務拙於深想廣思~"
+        },
+        {
+          "id": "1201440",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-08-20",
+          "content": "@ismynewmail: 定性和定量是两个观察世界的方法。 本人从事量化相关工作，职业使然，对数字和模型天然敏感和感兴趣。  定性分析很容易掉入思维偏差(biases), 因为这种分析更多的是基于直觉(intuition)， 而不是量化的“科学范式” (这个是不是台湾的说法），实际上经济学的很多模型，从量化层面看，会得到很多反常识的结论。此外，在严苛的学术环境下，写一篇定性分析的论文难度要远高于一篇定量分析的论文。"
+        },
+        {
+          "id": "1201441",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-08-20",
+          "content": "@ismynewmail: yeah, 利率是一个很大的topic， 当你理解了time value of money之后，再深入到与利率相关的一系列衍生话题后，会获得相当多的insight。  我建议你理解了复利和时间价值之后，可以再去了解下各类资产价格和利率的关系，以及利率的变动对经济活动的影响，这两个方面知道观察中国乃至西方的市场都非常有价值。"
+        },
+        {
+          "id": "1201451",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-08-21",
+          "content": "@AAPLTSLA:\n是的, 之前有在提過問\n比亞迪藏車爛尾樓二層, 是否車企會是第二個崩潰行業? - 新·品葱\nhttps://pincong.rocks/question/57139\n其中: \"只是想知道資產貶值在車企發生的有多劇烈...\"\n除一些特殊情況外, 如發生廣泛資產價值縮水, 尤其是多數人清楚共匪的經濟壓力(主要是國際投行界), 可判定要衰退. 或者說高概率發生衰退.\n_ _ 唉, 民衆的勞作就這樣被專制獨裁浪費了. 我覺得做研究的話自由國度真是不錯數據一查就有, 連統計方法都給出了. 不同的方法實際偏離度也方便研究者掌握, 心裏能有個底. 共匪這個破\"黑盒經濟\"搞得我那裏都吃不準, 人都快成摸水晶球的啦, 真想罵死它~"
+        }
+      ]
+    },
+    {
+      "id": "681504",
+      "is_folded": false,
+      "answerer": {
+        "username": "pedestrian",
+        "uid": "14111"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可汗学院里有经济学课程，我自己在里面学微积分感觉不错\t\t</div>",
+      "date": "2023-08-20",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1201346",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-08-20",
+          "content": "可汗学院不错！"
+        }
+      ]
+    },
+    {
+      "id": "681524",
+      "is_folded": false,
+      "answerer": {
+        "username": "zsy2023",
+        "uid": "92543"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t兴趣产生动力，你看证券大厅里的大爷大妈们，长期呆的，聊起各种经济信息，都头头是道的。\t\t</div>",
+      "date": "2023-08-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "681263",
+      "is_folded": false,
+      "answerer": {
+        "username": "小仙女爱汤猪",
+        "uid": "106911"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看你收入而言，我认为并不需要你多么深入去了解，毕竟大多数人都是打工人，领正常人的工资收入去生活，学得越多反而容易引起不必要的欲望和麻烦，很多东西往往都是大道至简。<br/>\n<br/>\n<br/>\n像不少人金融入门就是从【穷爸爸富爸爸】这本书开始的，人家就很简练，如果不是非富即贵，让你不要买一些完全没必要的东西，先降低消费的欲望。<br/>\n<br/>\n<b>但有些人看了就觉得没屌用，它又不教你赚钱，学了有屁用。</b><br/>\n<br/>\n<br/>\n而像金融的本质，我看到有个ytb就说的很好，一句话就总结了，金融的本质其实就是借未来的钱<br/>\n<br/>\n<br/>\n有时候他们说得也确实很拗口，列举一堆数据一堆表格，看似高大上但压根不知道他在说什么\t\t</div>",
+      "date": "2023-08-19",
+      "agree_count": -1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1201078",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-08-19",
+          "content": "嗯嗯"
+        },
+        {
+          "id": "1201332",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-08-20",
+          "content": "很多商学院推荐的金融学入门书籍 《漫步华尔街》"
+        },
+        {
+          "id": "1201333",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-08-20",
+          "content": "“而像金融的本质，我看到有个ytb就说的很好，一句话就总结了，金融的本质其实就是借未来的钱”   I can only partially agree with the argument.  金融的本质是efficient allocation of capital, 也就是资本的最优利用。 金融行业的整体角色，可以理解为一个broker掮客， 他们的掮客只能不光是帮助市场进行利润return的交换, 还包括risk风险的交换。"
+        },
+        {
+          "id": "1202373",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-08-23",
+          "content": "首先經濟和金融不一樣，經濟是關於大環境的學問，金融是小環境裡如何理財\n然後，窮人也可以有興趣啊？！"
+        }
+      ]
+    }
+  ]
+}

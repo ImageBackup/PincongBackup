@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "59972",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "671147",
+      "is_folded": false,
+      "answerer": {
+        "username": "隐匿之影",
+        "uid": "103339"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不懂技术最好不要随便开口，这不是宣传问题，技术的每个细节都是务实的。\t\t</div>",
+      "date": "2023-07-16",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "671144",
+      "is_folded": false,
+      "answerer": {
+        "username": "Gladiator",
+        "uid": "111926"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t\"创始人感慨：Linux 后续无人\" 他何時在哪裡這麼說過？是否可以給出出處？\t\t</div>",
+      "date": "2023-07-16",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1191983",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-07-16",
+          "content": "楼主的ID已经告诉你了。"
+        }
+      ]
+    },
+    {
+      "id": "671149",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大家都觉得，所谓“国产”，无非是找个开源的系统，换个logo，再说是自主知识产权，骗取政府经费，看起来应该很容易。其实这种看法是不准确的，因为说服政府部门买你家的换皮系统，而不是其他公司的换皮系统，也是需要下一番功夫的。\t\t</div>",
+      "date": "2023-07-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

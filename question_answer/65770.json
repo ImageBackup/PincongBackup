@@ -1,0 +1,59 @@
+{
+  "parent_type": "question",
+  "parent_id": "65770",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "732113",
+      "is_folded": false,
+      "answerer": {
+        "username": "pcpcppc",
+        "uid": "115762"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t过滤视频比过滤文本更难吧。如果都是自动的，需要的资源不一样。\t\t</div>",
+      "date": "2024-03-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732111",
+      "is_folded": false,
+      "answerer": {
+        "username": "xing",
+        "uid": "123353"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这当然是因为技术人员监测评论文字更快啦，视频处理监测需要人工审查，但文字监测可以自动检测拉。\t\t</div>",
+      "date": "2024-03-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732119",
+      "is_folded": false,
+      "answerer": {
+        "username": "doublea4548",
+        "uid": "119592"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI监控大量视频需要巨额算力，监控文字需要的算力小的多，而且监控视频的出错率也非常高。\t\t</div>",
+      "date": "2024-03-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732132",
+      "is_folded": false,
+      "answerer": {
+        "username": "通商宽衣颐使气指",
+        "uid": "74980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t审核也是工作也要讲效率，抖音b站这种大平台审核几个小时没回应或者删除没有问题的投稿是会被用户骂到爆的。从几个小时的视频里面每帧找坦克人维尼熊领导会怀疑审核员在摸鱼，和百分之百的加班相比，大部分审核员会选择冒险通过\t\t</div>",
+      "date": "2024-03-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

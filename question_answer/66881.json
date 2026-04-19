@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "66881",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "743830",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如何发图的步骤：<br/>\n输入网址telegra.ph并访问<br/>\n上传你要发在品葱的图片在那里<br/>\n复制图片链接<br/>\n在品葱发图片的功能那里粘贴链接，并点击“Insert”\t\t</div>",
+      "date": "2024-04-27",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1260966",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-27",
+          "content": "@新用户12555:因为我不是站方人员，新手贴是admin账号发的（我可以用admin号的名义进行回复和文章评论，但不能发帖）"
+        },
+        {
+          "id": "1260967",
+          "replier": {
+            "username": "admin",
+            "uid": "1"
+          },
+          "date": "2024-04-27",
+          "content": "@新用户12555:举个例子，这就是一个回复"
+        }
+      ]
+    }
+  ]
+}

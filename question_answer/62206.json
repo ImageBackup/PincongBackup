@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "62206",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "694033",
+      "is_folded": false,
+      "answerer": {
+        "username": "Ira",
+        "uid": "54229"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t瑞典不知道，隔壁芬兰今年it情况不好，ng没有工作很多，裁的人也没有消化。去一亩三分地问比较好\t\t</div>",
+      "date": "2023-10-03",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "694023",
+      "is_folded": false,
+      "answerer": {
+        "username": "蘑菇蘑菇",
+        "uid": "98870"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tIt行业的工作好像挺容易找的<br/>\n<br/>\n这个起薪很低很低了\t\t</div>",
+      "date": "2023-10-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

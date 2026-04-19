@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "56805",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "639077",
+      "is_folded": false,
+      "answerer": {
+        "username": "ilovejp",
+        "uid": "27315"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你上的网站不用这些机构签发的证书就没问题。不过最好还是把他删了\t\t</div>",
+      "date": "2023-03-11",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "639071",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tMozilla CA https://curl.se/docs/caextract.html<br/>\n<br/>\n_ _ 證書可以用上面鏈接中的, 值得一説的是 360/CNNIC/百度/沃通等基於 CA 的潛在攻擊的可能性被技術界阻止了. 但使用匪患區產的設備很可能自帶共匪證書, 有空就重測和報告一下結果吧. 香港郵政的證書是需要撤銷的, 它是被港共政府控制的.\t\t</div>",
+      "date": "2023-03-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "639079",
+      "is_folded": false,
+      "answerer": {
+        "username": "hilodfulaidien",
+        "uid": "90565"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t台湾有什么免费杀毒软件么。由反共组织来确保安全性的那种。\t\t</div>",
+      "date": "2023-03-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

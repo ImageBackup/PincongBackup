@@ -1,0 +1,201 @@
+{
+  "parent_type": "question",
+  "parent_id": "57116",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "642480",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t觉得你真的很无知，这玩意不占数据库多少空间的（文字性内容几乎可以忽略不计），一个汉字如果使用 UTF-8 编码存储占据 3 Bytes，使用 UTF-16 或者 GBK 编码占据 2 Bytes，所以腾讯如果是把所有人的所有聊天记录只文字部分的话是非常轻松的。但是一些没经过降低质量处理的图片和视频，才是真正占空间的大头。所以前几年，腾讯这狗东西在不通知用户的情况下，把 QQ 空间偷偷摸摸的把用户的空间相册里的图片，全部给把分辨率给缩小了（为了节省他们服务器的硬盘空间）。所以如果你有比较重要的数据和资料，就别指望国内这些平台能靠谱了，他们随时随地能做出关闭空间什么的事情。\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 12,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1165426",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-03-24",
+          "content": "看我简介，肯定无知啊，不懂就问嘛"
+        },
+        {
+          "id": "1165427",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-03-24",
+          "content": "@D级人员24601:还有被抓的都是一些在推特上发布反共和辱包内容的比较多的人。你如果自是在国内论坛发表一些反动言论，肯定屁事没有，没人有闲工夫去抓你。因为这种普通老百姓没事抱怨几句的事情也太多了，又没什么影响力。那可能抓得过来呢。"
+        }
+      ]
+    },
+    {
+      "id": "642481",
+      "is_folded": false,
+      "answerer": {
+        "username": "牛云",
+        "uid": "107978"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国内互联网产品的注销账户并不会直接删除数据，而是将账户信息在数据库中打上“是否已注销”的标记，然后在获取数据的时候过滤掉已注销的数据。就算全中国人每人注册十个账号，总共也才140亿条数据，相对于国内互联网厂商的数据存储能力来说，并不会造成过大的负担。\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642509",
+      "is_folded": false,
+      "answerer": {
+        "username": "wget",
+        "uid": "51008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t注销只是在你看来的, 墙内甚至墙外哪家公司会去删数据, 不光不会删还会妥善备份保存呢\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642504",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t重新注册一个新身份不碍事，再加上网站本身比较安全，根本不会查到你什么东西。品葱就很好。<br/>\n<br/>\n互联网公司都有存档，注销也不会删除你的数据。你以前有什么反动言论，全看想不想搞你。目前政审不会去查发言记录，以后不好说。现在政权不稳定，要防止有反骨的人进入体制。\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642523",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t总有一双眼睛盯着你网上一言一行（这个我相信）<br/>\n总有一块硬盘记录你网上蛛丝马迹（这个我相信）<br/>\n总有一个时刻追究你网上违规行为（这个我不大同意）\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642477",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t个人观点：与其成天提心吊胆研究这个，不如早点研究肉身润\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1165434",
+          "replier": {
+            "username": "Nineteen84",
+            "uid": "77269"
+          },
+          "date": "2023-03-24",
+          "content": "完全支持，留在洼地根本就是给共产党增加经济增加税收增加人头数字。"
+        },
+        {
+          "id": "1165524",
+          "replier": {
+            "username": "支纳粹畜喜提飞弹",
+            "uid": "109641"
+          },
+          "date": "2023-03-24",
+          "content": "人家不能问  问两句就是提心吊胆了？？？ 你这个个逗比狗。哈哈哈哈哈哈哈哈"
+        }
+      ]
+    },
+    {
+      "id": "642478",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t网民早期的网站账号可能有过使用生日、姓名、电话等关联本人信息的风险，是不是只要取一个保证有生之年从未使用过的网名和毫无特征的密码就可以堵住国安通过挖坟挖到我的这条路？<br/>\n<br/>\n<br/>\n<br/>\n只要用一个完全没关联的账号就找不到你 任意一条信息有关联都可以人肉出来\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642511",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你如果号召更多的人去发反动言论<br/>\n党国就没精力管你了, 建议尝试<br/>\n<br/>\n如果真的说了非常危险言论<br/>\n不妨干脆豁出去上四通桥(至少国际关注比较安全)\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642659",
+      "is_folded": false,
+      "answerer": {
+        "username": "中纪委书记",
+        "uid": "25990"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t关键是编程谁想这种级别防护的。<br/>\n是怎么做到国内账号信息和谷歌旗下网站信息能有关联的。<br/>\n<br/>\n除非他故意这么干 <br/>\n<br/>\n<br/>\n<br/>\n补丁不定不顶。。…。。。。。。。。\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642485",
+      "is_folded": false,
+      "answerer": {
+        "username": "neverdie",
+        "uid": "53720"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t鳖警没事挖你干啥，把习明泽开盒了才能享受牛腾宇的待遇，想触发鳖警找你，起码也得最近微信上骂个习包子草泥马之类的。挖贴吧N年前的反贼言论去找某个人，那鳖国监狱都不够关了，鳖警贱，但也没那么闲，就是些N年前的文字，还没啥传播量，那袁腾飞N年前狂骂毛滴虫，鳖党，粉蛆，讥讽江蛤蟆，老逼涛，当年传的满大街都是的视频都在那摆着呢，先比他传播更广更反动再说吧\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642530",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很多年前听过一个事说某网站关闭之后把设备都卖了，然后有一块硬盘上有用户的全部信息，被买到的人发现了。\t\t</div>",
+      "date": "2023-03-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642500",
+      "is_folded": true,
+      "answerer": {
+        "username": "机器猫博士",
+        "uid": "105067"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-03-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

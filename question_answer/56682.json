@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "56682",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "637952",
+      "is_folded": false,
+      "answerer": {
+        "username": "Classic",
+        "uid": "98603"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t比特币好，比特币近一年来的波动率并没有比美指高很多，U存在爆雷风险。\t\t</div>",
+      "date": "2023-03-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "637912",
+      "is_folded": false,
+      "answerer": {
+        "username": "大葱蘸酱2",
+        "uid": "109122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t比特币风险太高了吧，看你个人偏好了，求稳定还是美金\t\t</div>",
+      "date": "2023-03-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "637915",
+      "is_folded": false,
+      "answerer": {
+        "username": "arsingsoa",
+        "uid": "101392"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t什么叫哪个好 原理一样的东西 货币不同<br/>\n比特币有炒家波动太大  USDT 约等于美金了\t\t</div>",
+      "date": "2023-03-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "parent_type": "question",
+  "parent_id": "58461",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "659454",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t电丸科技ak之流的低端人口显然是装逼十分娴熟低端人口斗低端人口的翻墙技术，还假装不懂，假如习近平同志会上外网，根本不翻墙。\t\t</div>",
+      "date": "2023-06-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "656572",
+      "is_folded": false,
+      "answerer": {
+        "username": "kamome",
+        "uid": "95534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没必要执着于VPN。机场更好用。<br/>\n<br/>\n这里就不作推荐了，免得引起广告/钓鱼的嫌疑；百度搜一搜都可以找到一些有名的机场。<br/>\n除了要订阅机场的服务以外，iOS还得额外花钱（美区商店，用充值卡）买客户端（小火箭或圈X）。不过这个是一劳永逸的，以后想换服务商都没问题。<br/>\n<br/>\nYouTube上也有国人Youtuber做视频教学翻墙知识的，好像叫什么“电玩科技”。讲的还蛮不错，可以去了解一下。<br/>\n<br/>\n当然，不论哪种翻墙方式，直接上葱都是危险的。建议学会使用Tor Browser，并且要了解一些基本的信息安全常识。\t\t</div>",
+      "date": "2023-05-19",
+      "agree_count": 3,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1178561",
+          "replier": {
+            "username": "永遠的零",
+            "uid": "107997"
+          },
+          "date": "2023-05-19",
+          "content": "现在比较少发表反贼言论了，危险性倒还好。主要是拿来抢外网的工作，就是感觉vpn比较简单。自建听上去就很麻烦"
+        },
+        {
+          "id": "1179113",
+          "replier": {
+            "username": "kamome",
+            "uid": "95534"
+          },
+          "date": "2023-05-22",
+          "content": "@永遠的零:不一定自建呀，用机场"
+        },
+        {
+          "id": "1179222",
+          "replier": {
+            "username": "厉害了冲国人",
+            "uid": "96938"
+          },
+          "date": "2023-05-22",
+          "content": "電玩科技那個就別推薦了，幾個長篇下來對大多數普通用戶來説基本都是“廢話”，直接教人怎麽建機場用機場VPN之類的都是遮遮掩掩，吸了幾十萬粉以後再沒講過一點核心技術東西"
+        },
+        {
+          "id": "1181232",
+          "replier": {
+            "username": "Aleph_Aia",
+            "uid": "111450"
+          },
+          "date": "2023-05-31",
+          "content": "ios上tor好像没法用shadowrocket代理，网桥又没法用"
+        }
+      ]
+    },
+    {
+      "id": "656554",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t冲浪鲨，司法管辖区在荷兰（不是英属维尔京群岛，<a href=\"url/link/aHR0cHM6Ly93d3cud2Vic2l0ZXJhdGluZy5jb20vemgtQ04vdnBuL3N1cmZzaGFyay1yZXZpZXcv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.websiterating.com/zh-CN/vpn/surfshark-review/\">一些网上的介绍</a>是错的。Express在英属维尔京，Nord在巴拿马，Surfshark在荷兰，我都问过）的VPN，虽然很年轻也很便宜，但已经可以和老牌的VPN同台竞争了\t\t</div>",
+      "date": "2023-05-19",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1178516",
+          "replier": {
+            "username": "永遠的零",
+            "uid": "107997"
+          },
+          "date": "2023-05-19",
+          "content": "谢谢，我试试"
+        },
+        {
+          "id": "1178537",
+          "replier": {
+            "username": "庆丰包子的梦帝",
+            "uid": "1283"
+          },
+          "date": "2023-05-19",
+          "content": "主要是要稳定，这些国际大厂安全保障没啥问题，就是在中国基本上封杀了"
+        },
+        {
+          "id": "1178539",
+          "replier": {
+            "username": "penima",
+            "uid": "13424"
+          },
+          "date": "2023-05-19",
+          "content": "之前我问过一次有些回答说墙内不稳"
+        },
+        {
+          "id": "1178551",
+          "replier": {
+            "username": "永遠的零",
+            "uid": "107997"
+          },
+          "date": "2023-05-19",
+          "content": "@庆丰包子的梦帝:看来是这样了，没一个能用"
+        },
+        {
+          "id": "1178552",
+          "replier": {
+            "username": "永遠的零",
+            "uid": "107997"
+          },
+          "date": "2023-05-19",
+          "content": "@penima:看app的用户评价貌似不是很稳，翻墙的环境真是越来越差"
+        }
+      ]
+    },
+    {
+      "id": "656568",
+      "is_folded": false,
+      "answerer": {
+        "username": "lily654378",
+        "uid": "84569"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用过泡泡云，目前自建机场，用过泡泡云，目前自建机场，\t\t</div>",
+      "date": "2023-05-19",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1178550",
+          "replier": {
+            "username": "永遠的零",
+            "uid": "107997"
+          },
+          "date": "2023-05-19",
+          "content": "···听到“自建”一词就头晕了，感觉很难"
+        },
+        {
+          "id": "1179172",
+          "replier": {
+            "username": "ppp111",
+            "uid": "25425"
+          },
+          "date": "2023-05-22",
+          "content": "跑路云了"
+        }
+      ]
+    },
+    {
+      "id": "656574",
+      "is_folded": false,
+      "answerer": {
+        "username": "他公平",
+        "uid": "111618"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自己架个吧，电脑端手机端都能用，速度、安全、便宜全都有。话说迷雾通有IOS版了吧\t\t</div>",
+      "date": "2023-05-19",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1178559",
+          "replier": {
+            "username": "永遠的零",
+            "uid": "107997"
+          },
+          "date": "2023-05-19",
+          "content": "没找到，大概是没有，或者叫其他名字..."
+        }
+      ]
+    },
+    {
+      "id": "657088",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\twireguard等传统VPN在IPV6的表现目前还挺不错的，你要不是尝试使用IPV6来访问VPN吧，目前我党还没太大余力在IPV6这里整活。然后备个shadowrocket 小火箭，尴尬的时候可以找个机场中转下。\t\t</div>",
+      "date": "2023-05-22",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1179205",
+          "replier": {
+            "username": "永遠的零",
+            "uid": "107997"
+          },
+          "date": "2023-05-22",
+          "content": "感谢！"
+        }
+      ]
+    },
+    {
+      "id": "656592",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷雾通BETA版本测试名额已满，如果中途有用户退出，可以加入<br/>\nhttps://testflight.apple.com/join/Ai6YTLmC<br/>\n由于平台限制，iOS 版目前没有以下功能：<br/>\n    应用例外<br/>\n    监听所有网络<br/>\n    通知页面<br/>\n<br/>\n机场类工具：<br/>\nShadowrocket<br/>\nOneClick<br/>\n<br/>\nFair，这个是无界开发的<br/>\n<br/>\nskyfire VPN，这个似乎有法轮功背景\t\t</div>",
+      "date": "2023-05-19",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1179204",
+          "replier": {
+            "username": "永遠的零",
+            "uid": "107997"
+          },
+          "date": "2023-05-22",
+          "content": "谢谢！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "article_id": "66011",
+  "category_id": "4",
+  "title": "看见还有葱友用别的地方的高价限速不稳定难用的vpn",
+  "meta_description": "看见还有葱友用别的地方的高价限速不稳定难用的vpn - 100人民币/年不限速的vpn，还没有限制，自己搭一个就行，又稳定又不怕跑路，有了一技之长后，之后再遇见跑路的情况，也可以拿来应急。   原理很简单，就是购买一个外国的轻量服务器，然后搭建vpn服务端    首先来看我主用的服务器配置 [img]https...",
+  "meta_keywords": "看见,葱友,地方,高价,限速,不稳定,vpn",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "470",
+      "name": "vpn"
+    },
+    {
+      "id": "9360",
+      "name": "翻墙软件"
+    }
+  ],
+  "author": {
+    "username": "WSQUX",
+    "uid": "116491"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t100人民币/年不限速的vpn，还没有限制，自己搭一个就行，又稳定又不怕跑路，有了一技之长后，之后再遇见跑路的情况，也可以拿来应急。<br/>\r\n  原理很简单，就是购买一个外国的轻量服务器，然后搭建vpn服务端<br/>\n<br/>\r\n  首先来看我主用的服务器配置<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvODQ3OTYzZjE0MDEwMWZlNzI3NGYxLnBuZz93aWR0aD04NzImaGVpZ2h0PTg0\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/847963f140101fe7274f1.png?width=872&amp;height=84\"><img alt=\"https://telegra.ph/file/847963f140101fe7274f1.png?width=872&amp;height=84\" loading=\"lazy\" src=\"https://telegra.ph/file/847963f140101fe7274f1.png?width=872&amp;height=84\" style=\"max-width:100%\"/></a><br/>\r\n  其实1c0.5G 3t流量就完全够了，但是现在活动的最低配置是2c1g，我是在周年促销的时候买的1c0.5G套餐，1年9.9刀，这是支持支付宝的，很方便<br/>\r\n  购买时建议刷入ubuntu 18以上的系统，这样服务器内核就自带bbr了（一种google发明的加速方式)<br/>\r\n  购买后记住公网ip地址（格式为*.*.*.*，例25.172.32.235），下载Termius，也就是要远程控制的程序，windows自带的cmd也是可以的<br/>\r\n  我比较喜欢Termius的交互，但是为了方便大众，我还是先用cmd做演示<br/>\r\n  进入cmd后输入ssh 25.172.32.235 -lroot（格式为ssh ip -l用户名）<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvYzU1YTE1MjRlMjA1MDljNDJiNjRkLnBuZz93aWR0aD02NTkmaGVpZ2h0PTkw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/c55a1524e20509c42b64d.png?width=659&amp;height=90\"><img alt=\"https://telegra.ph/file/c55a1524e20509c42b64d.png?width=659&amp;height=90\" loading=\"lazy\" src=\"https://telegra.ph/file/c55a1524e20509c42b64d.png?width=659&amp;height=90\" style=\"max-width:100%\"/></a><br/>\r\n如果提示Are you sure you want to continue connecting，那就说明你确定在这个秘钥链接里登录吗，输入小写的yes后会提示让你输入密码<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvY2MyYjBjOGEzNDU1YjNhNWYwOTk1LnBuZz93aWR0aD03NDQmaGVpZ2h0PTExNQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/cc2b0c8a3455b3a5f0995.png?width=744&amp;height=115\"><img alt=\"https://telegra.ph/file/cc2b0c8a3455b3a5f0995.png?width=744&amp;height=115\" loading=\"lazy\" src=\"https://telegra.ph/file/cc2b0c8a3455b3a5f0995.png?width=744&amp;height=115\" style=\"max-width:100%\"/></a><br/>\r\n一般密码会在创建服务器时告诉你，或者发进你的邮箱里面，输入后就可以进去了<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvZTJiZjE0OWYxZTE3Y2YyZTU4ZmI4LnBuZz93aWR0aD00NTQmaGVpZ2h0PTMy\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/e2bf149f1e17cf2e58fb8.png?width=454&amp;height=32\"><img alt=\"https://telegra.ph/file/e2bf149f1e17cf2e58fb8.png?width=454&amp;height=32\" loading=\"lazy\" src=\"https://telegra.ph/file/e2bf149f1e17cf2e58fb8.png?width=454&amp;height=32\" style=\"max-width:100%\"/></a><br/>\r\n出现上面这个界面就是成了<br/>\r\n先输入更新指令更新下（apt update &amp;&amp; sudo apt upgrade -y）然后回车就开始自动更新了<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvODc4NTU2YWQ2YzY3NGJhY2M3NzYzLnBuZz93aWR0aD04MjMmaGVpZ2h0PTM2NQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/878556ad6c674bacc7763.png?width=823&amp;height=365\"><img alt=\"https://telegra.ph/file/878556ad6c674bacc7763.png?width=823&amp;height=365\" loading=\"lazy\" src=\"https://telegra.ph/file/878556ad6c674bacc7763.png?width=823&amp;height=365\" style=\"max-width:100%\"/></a><br/>\r\n更新后，这个服务器环境就完成了，接下来，开始搭建vpn<br/>\r\n  这次教程选择的是v2ray，很有名气的<br/>\r\n  我也比较懒，选择的是github上的开源项目，可以一键搭建<br/>\r\n  输入（bash &lt;(wget -qO- -o- https://git.io/v2ray.sh)）回车，没问题的话，就会出现下面的内容（已经安装过了就直接搬github的图片了）<br/>\r\n  <a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvODE1Mzk1NzljZjJkYzljMDFjODViLnBuZz93aWR0aD02ODYmaGVpZ2h0PTQ0Mg\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/81539579cf2dc9c01c85b.png?width=686&amp;height=442\"><img alt=\"https://telegra.ph/file/81539579cf2dc9c01c85b.png?width=686&amp;height=442\" loading=\"lazy\" src=\"https://telegra.ph/file/81539579cf2dc9c01c85b.png?width=686&amp;height=442\" style=\"max-width:100%\"/></a><br/>\r\n  将url里面的内容复制，保存好，不要暴露在外，包括微信，qq等程序<br/>\r\n  接着下载v2ray程序（https://www.v2ray.com/）这是官网地址，进去后下载就行，将链接放进程序里，更新就行了，如果你用的是clash，那么就可以转换成clash链接，（https://v2rayse.com/node-convert/）这个是clash链接，建议用clash，因为自带规则代理，很舒服的<br/>\r\n  过内私人搭建vpn最最最重要的是，不要互传，尤其是陌生人，因为这个订阅地址会暴露你所购买的服务器的ip地址的，顺藤摸瓜就能抓到你，而且容易把你ip墙了，不是亲信，不要互传，不要互传，不要互传\t\t\t\t\t\t\t</div>",
+  "view_count": 17108,
+  "date": "2023-11-18",
+  "agree_count": 13,
+  "comment_count": 29
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "54153",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "609300",
+      "is_folded": false,
+      "answerer": {
+        "username": "游客",
+        "uid": "103299"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一种暴力机器。你没有就得屈服于有的人。<br/>\n除了靠这个升官发财的，韭菜的自我高潮不过是军国主义背景下对自我定位的幻想提升，就像天天意淫开高达的儿童一样\t\t</div>",
+      "date": "2022-12-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609296",
+      "is_folded": true,
+      "answerer": {
+        "username": "机器猫博士",
+        "uid": "105067"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2022-12-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

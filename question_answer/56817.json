@@ -1,0 +1,96 @@
+{
+  "parent_type": "question",
+  "parent_id": "56817",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "639181",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI无法给你烧饭烧菜，无法给你修墙修桌椅，更无法帮你照顾孩子\t\t</div>",
+      "date": "2023-03-12",
+      "agree_count": 3,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1161860",
+          "replier": {
+            "username": "永远健康",
+            "uid": "73165"
+          },
+          "date": "2023-03-12",
+          "content": "所以说是制造业吗"
+        },
+        {
+          "id": "1161865",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-03-12",
+          "content": "@永远健康:不啊，明显是服务业啊，比如照顾孩子、护理老人。护工虐待老人可以追责，机器人出bug把老人不小心撞死了谁负责？"
+        },
+        {
+          "id": "1161917",
+          "replier": {
+            "username": "蝇鹅大博弈",
+            "uid": "106748"
+          },
+          "date": "2023-03-12",
+          "content": "@springwood:设计生产AI机器人的公司需要负责"
+        },
+        {
+          "id": "1161972",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-03-12",
+          "content": "@蝇鹅大博弈:公司一定說是使用不當，再說哪個老人會真的按說明書使用電器的"
+        }
+      ]
+    },
+    {
+      "id": "639221",
+      "is_folded": false,
+      "answerer": {
+        "username": "NamelessHeart",
+        "uid": "74218"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI只能帮你干脑力活，费体力的还得人来，除非有AI民用机器人\t\t</div>",
+      "date": "2023-03-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "639185",
+      "is_folded": false,
+      "answerer": {
+        "username": "HenkGao",
+        "uid": "7121"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想要安稳过日子小康生活，选择熟练技术工种，水管工、建筑工、厨师、教师都行<br/>\n想要小富，选择医生、律师<br/>\n想要暴富，必须追逐资本热钱，10年前的程序员算是\t\t</div>",
+      "date": "2023-03-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "639228",
+      "is_folded": false,
+      "answerer": {
+        "username": "c2h4",
+        "uid": "101813"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t收废品回收站再生能源，红娘皮条客杀手，移民洗钱律师，纹身咖啡调酒营养师dj，居家旅馆，街头卖艺早点铺大排档，乐器制造钢琴调音师，极限运动策划，植树造林，儿童成人玩具，中国调料中国台湾国旗，残疾人用品残疾专卖自杀用品\t\t</div>",
+      "date": "2023-03-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

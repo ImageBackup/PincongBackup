@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "59231",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "663925",
+      "is_folded": false,
+      "answerer": {
+        "username": "李洛",
+        "uid": "54572"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为学中国人…真的很多东西就是学中国人如上答一样 支化了\t\t</div>",
+      "date": "2023-06-19",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663931",
+      "is_folded": false,
+      "answerer": {
+        "username": "黑皮卒",
+        "uid": "73675"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t严重怀疑是墙内产品经理做的。不知道订阅会否好很多，现在没有新内容，而且自家广告特别频繁。\t\t</div>",
+      "date": "2023-06-19",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1185457",
+          "replier": {
+            "username": "中華聯邦共和國",
+            "uid": "20514"
+          },
+          "date": "2023-06-20",
+          "content": "订阅对课程没影响，是多了错题重练之类，同样的题目重复做了几十次了，想错都难。"
+        },
+        {
+          "id": "1185491",
+          "replier": {
+            "username": "黑皮卒",
+            "uid": "73675"
+          },
+          "date": "2023-06-20",
+          "content": "@中華聯邦共和國:明白了，谢谢告知"
+        }
+      ]
+    }
+  ]
+}

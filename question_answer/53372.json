@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "53372",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "601870",
+      "is_folded": false,
+      "answerer": {
+        "username": "齊心大筆人人插",
+        "uid": "98803"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那就不是我熬死他是他熬死我了，还能怎么看，润\t\t</div>",
+      "date": "2022-11-28",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1129179",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2022-11-28",
+          "content": "齐心大笔都成化石了"
+        },
+        {
+          "id": "1129182",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2022-11-28",
+          "content": "齐心奶奶这是打算在活过恁丈夫之后，再活过恁的儿子吗"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "62795",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "700481",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t新疆是軍管<br/>\n。。。。。。。。。。。。。。\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700493",
+      "is_folded": true,
+      "answerer": {
+        "username": "大西洋海风",
+        "uid": "118293"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

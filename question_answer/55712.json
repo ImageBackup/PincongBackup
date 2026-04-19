@@ -1,0 +1,71 @@
+{
+  "parent_type": "question",
+  "parent_id": "55712",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "626369",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t损失钱这种说法应该是站在人矿的角度，<br/>\n<br/>\n站在赵家人的角度来说，赚得盆满钵满，<br/>\n<br/>\n哪里有什么损失，不用上班躺着钱进账，\t\t</div>",
+      "date": "2023-01-31",
+      "agree_count": 5,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1149923",
+          "replier": {
+            "username": "糖醋和里脊",
+            "uid": "51788"
+          },
+          "date": "2023-01-31",
+          "content": "同意  对权贵来说那完全就是赚钱   所以穷的越穷  富的越富"
+        },
+        {
+          "id": "1149935",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-01-31",
+          "content": "@糖醋和里脊:财政收入下降了权贵门的🎂自然就也小了"
+        }
+      ]
+    },
+    {
+      "id": "626368",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你也太高估中国经济规模了，这样会面临另一个尴尬：就不能批评中国经济数字作假了。\t\t</div>",
+      "date": "2023-01-31",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1149917",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-01-31",
+          "content": "我觉得经济数字造假那个倒不是很大"
+        },
+        {
+          "id": "1149919",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-01-31",
+          "content": "不单单是GDP，财政也损失了很多啊，疫情导致很多工厂不开工"
+        }
+      ]
+    }
+  ]
+}

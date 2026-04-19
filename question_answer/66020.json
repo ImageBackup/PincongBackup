@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "66020",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "735018",
+      "is_folded": false,
+      "answerer": {
+        "username": "有一说一",
+        "uid": "77887"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t至少8个H100模组，每个模组30万美金，个人几个人能用的\t\t</div>",
+      "date": "2024-03-19",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1251700",
+          "replier": {
+            "username": "小学生博士",
+            "uid": "97717"
+          },
+          "date": "2024-03-19",
+          "content": "滞那的公司能用，华为，百度，然后向只那人收费"
+        }
+      ]
+    }
+  ]
+}

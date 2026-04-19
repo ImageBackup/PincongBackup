@@ -1,0 +1,78 @@
+{
+  "parent_type": "question",
+  "parent_id": "66656",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "741557",
+      "is_folded": false,
+      "answerer": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t网站正在遭受大规模攻击，已经持续数小时，与以往攻击不同自动防御没有生效，正在解决。\t\t</div>",
+      "date": "2024-04-17",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741665",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t打拳灌水之后又想爆破品葱，我也怀疑是否有什么阴谋\t\t</div>",
+      "date": "2024-04-18",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741556",
+      "is_folded": false,
+      "answerer": {
+        "username": "Antonov一500",
+        "uid": "73460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tDDOS<br/>\n<br/>\n我好奇最近又要發生什麼事情了麼？ 俄國開始攻擊基輔了麼？ 還是有什麼別的事情，或者就是他們要邀功了\t\t</div>",
+      "date": "2024-04-17",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1258356",
+          "replier": {
+            "username": "rampage",
+            "uid": "123646"
+          },
+          "date": "2024-04-17",
+          "content": "猜到是ddos，但是没想到真的有攻击的。"
+        },
+        {
+          "id": "1258393",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-04-17",
+          "content": "@rampage:本站一直受攻擊，只不過平時不會導致網站癱瘓而已"
+        }
+      ]
+    },
+    {
+      "id": "754061",
+      "is_folded": false,
+      "answerer": {
+        "username": "sunshushu90",
+        "uid": "128791"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我想到俩个字，中国红客。我感觉这次攻击不像是来自境外，而是来自中国境内的政府当局或其正式和非正式的组织\t\t</div>",
+      "date": "2024-06-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

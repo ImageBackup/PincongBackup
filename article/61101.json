@@ -1,0 +1,22 @@
+{
+  "article_id": "61101",
+  "category_id": "1",
+  "title": "中國政府 資助 CUDA 兼容 GPU 初創公司與 Nvidia 競爭",
+  "meta_description": "中國政府 資助 CUDA 兼容 GPU 初創公司與 Nvidia 競爭 - [img]https://telegra.ph/file/b512e129f907600946f44.jpg?width=1179&height=734[/img]  登林科技是一家成立於 2017 年的上海計算 GPU 開發商，最近獲得了中國互聯...",
+  "meta_keywords": "中國,政府,資助,cuda,兼容,gpu,初創,公司,nvidia,競爭",
+  "tags": [
+    {
+      "id": "3518",
+      "name": "时事热点"
+    }
+  ],
+  "author": {
+    "username": "dogpcs",
+    "uid": "74069"
+  },
+  "contents": "<div class=\"content markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvYjUxMmUxMjlmOTA3NjAwOTQ2ZjQ0LmpwZz93aWR0aD0xMTc5JmhlaWdodD03MzQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/b512e129f907600946f44.jpg?width=1179&amp;height=734\"><img alt=\"https://telegra.ph/file/b512e129f907600946f44.jpg?width=1179&amp;height=734\" loading=\"lazy\" src=\"https://telegra.ph/file/b512e129f907600946f44.jpg?width=1179&amp;height=734\" style=\"max-width:100%\"/></a><br/>\n<br/>\r\n登林科技是一家成立於 2017 年的上海計算 GPU 開發商，最近獲得了中國互聯網投資基金的資助，該基金是由中國國家互聯網信息辦公室和財政部發起的合資企業。據稱，該 GPU 具有“與 CUDA/OpenCL 等編程模型兼容的計算架構” ，使其能夠很好地與 Nvidia 競爭，但同時也可能利用 Nvidia 最大的競爭優勢——CUDA 來對抗它。Jon Peddie Research<br/>\n<br/>\r\n報導稱，這筆投資資金將推進登林全系列產品的研發，加速其下一代 Goldwasser GPU 的量產和商業化 。<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvMTczYTEzMjc1MmYzNGUyNTg2ZDM4LnBuZz93aWR0aD04MzcmaGVpZ2h0PTQxMw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/173a132752f34e2586d38.png?width=837&amp;height=413\"><img alt=\"https://telegra.ph/file/173a132752f34e2586d38.png?width=837&amp;height=413\" loading=\"lazy\" src=\"https://telegra.ph/file/173a132752f34e2586d38.png?width=837&amp;height=413\" style=\"max-width:100%\"/></a><br/>\r\n登林的產品線，包括其旗艦產品Goldwasser，主要針對人工智能應用而設計。此前，該公司表示 GPU 還可用於遊戲。該公司聲稱Goldwasser是第一個成功執行大規模商業應用的中國企業GPU。  <br/>\n<br/>\r\n登林科技<br/>\n<br/>\r\n（圖片來源：登林科技/JPR）<br/>\r\n據 JPR 稱，Goldwasser GPU 的特點之一是 Denglin 的 GPU+ 架構，可實現軟件定義的片上異構計算技術。報告稱，最有趣的部分是 Goldwasser 聲稱與 Nvidia 的 CUDA 等編程模型直接兼容。（這裡有更多關於直接 CUDA 兼容性的說法。）因此，政府的融資可以利用競爭對手 Nvidia 的 CUDA 框架進行計算。當然，登林是否會製造出足夠有競爭力的芯片來結束英偉達在 AI GPU 市場的主導地位還有待觀察，但它確實有這樣的雄心。<br/>\n<br/>\r\n據 JPR 稱，Goldwasser GPU 的特點之一是 Denglin 的 GPU+ 架構，可實現軟件定義的片上異構計算技術。報告稱，最有趣的部分是 Goldwasser 聲稱與 Nvidia 的 CUDA 等編程模型直接兼容。（這裡有更多關於直接 CUDA 兼容性的說法。）因此，政府的融資可以利用競爭對手 Nvidia 的 CUDA 框架進行計算。當然，登林是否會製造出足夠有競爭力的芯片來結束英偉達在 AI GPU 市場的主導地位還有待觀察，但它確實有這樣的雄心。<br/>\n<br/>\n<br/>\r\nJPR 援引印度 Verified Market Research 的數據顯示，2021 年全球 GPU 市場價值為 334.7 億美元，預計到 2030 年將達到 4773.7 億美元，2021 年至 2030 年復合年增長率為 34.4%。這一增長主要是由專業軟件用戶、遊戲玩家和電子競技愛好者不斷增長的需求推動的。與此同時，人工智能已經成為這個市場的重要貢獻者。<br/>\n<br/>\r\nGoldwasser 是擁擠的中國 GPU 初創公司中的又一個參與者，Biren等其他公司在最近幾個月引起了轟動。然而，憑藉所謂的 CUDA 兼容性和中國政府的新資金，這家新公司似乎準備產生更直接的影響。\t\t\t\t\t\t\t</div>",
+  "view_count": 1620,
+  "date": "2023-07-15",
+  "agree_count": 1,
+  "comment_count": 3
+}

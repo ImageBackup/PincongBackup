@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "54628",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "614083",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我不是专业干这个的。但是我记得以前折腾手机的时候，用监管权限的软件扫描，中国版的微信要几百个位置，Google Play版本的微信要200多，而差不多功能的国外软件只要不到20个位置。<br/>\n<br/>\n从那之后我再也不用中国的软件，除了微信，和国内亲人联系用的，只好用Google Play版本的了。\t\t</div>",
+      "date": "2022-12-25",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "614111",
+      "is_folded": false,
+      "answerer": {
+        "username": "libra",
+        "uid": "8076"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t抛开各种阴谋论，我看原因其实挺简单。<br/>\n<br/>\n因为国内的软件工程基本没有，大家都是裱糊匠，把各种功能包凑一起打个包给你用，不做任何优化 。而且，为了体现自己的工作量，有些工程师甚至故意往里面塞垃圾。反正那些领导也不懂代码，他们就知道看代码量和软件体积。<br/>\n<br/>\n更多情况，是原始的开发人员离职了，后面来的就自己重新实现一套前面的功能，反正也看不懂也不想看，这样不断累积，最后系统就越来越大，越来越垃圾。<br/>\n<br/>\n说白了，中国就没有啥高科技，也没有人愿意去钻研技术。国内的所谓大厂里面的工程师，也不过是一群想当官而不可得的，或者熬成了小领导的官迷。\t\t</div>",
+      "date": "2022-12-25",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "614080",
+      "is_folded": false,
+      "answerer": {
+        "username": "远野",
+        "uid": "87726"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t微信这种墙内app就是毒瘤，消耗系统资源堪比3A大作。而且这年头在墙内64gb肯定不够用的，128都不太够，建议256起步，512gb/1tb一步到位为佳\t\t</div>",
+      "date": "2022-12-25",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "parent_type": "question",
+  "parent_id": "54315",
+  "answer_count": 15,
+  "answers": [
+    {
+      "id": "610927",
+      "is_folded": false,
+      "answerer": {
+        "username": "鬼岛",
+        "uid": "74015"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t+86还想不实名<br/>\n除非你是习近平<br/>\n或者警察和官员 红二三代\t\t</div>",
+      "date": "2022-12-15",
+      "agree_count": 14,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1136044",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2022-12-16",
+          "content": "+86不实名非物联网卡的比较少，+86实名但不是自己的名字这种情况就很多。换个思路。"
+        }
+      ]
+    },
+    {
+      "id": "610935",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下旡贼",
+        "uid": "36074"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我这里主要提及一下微信，微信的定位功能不是用GPS定位，是通过信号基站定位，非常精确<br/>\n<br/>\n要干什么过于招摇要提防微信，其它用基站定位的暂时不清楚，给你们提个醒\t\t</div>",
+      "date": "2022-12-15",
+      "agree_count": 9,
+      "discussion_count": 10,
+      "discussions": [
+        {
+          "id": "1135905",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2022-12-15",
+          "content": "GPS定位和基站定位本来就是一回事，而且都是OS级别的API。你这么懂，给我们讲讲微信用的是什么API调用基站信息的？iOS和Android都很容易通过反编译查看系统调用的。"
+        },
+        {
+          "id": "1135973",
+          "replier": {
+            "username": "ASD1234",
+            "uid": "26668"
+          },
+          "date": "2022-12-15",
+          "content": "基站定位不那么精确 肯定是GPS+定位结合"
+        },
+        {
+          "id": "1135975",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2022-12-15",
+          "content": "GPS定位精度5米，基站定位精度200米。"
+        },
+        {
+          "id": "1135977",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2022-12-15",
+          "content": "@华国锋:Android有provider标识，告诉你是GPS还是network"
+        },
+        {
+          "id": "1135983",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2022-12-15",
+          "content": "@华国锋:自己用GPS伪装试一下不就知道了，没用的"
+        },
+        {
+          "id": "1135984",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2022-12-15",
+          "content": "@周瀚坤:自己用GPS伪装试一下不就知道了，没用的"
+        },
+        {
+          "id": "1135986",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2022-12-15",
+          "content": "@ASD1234:用GPS伪装试一下不就知道了，没用的 ，QQ就能伪装，但微信就伪装不了"
+        },
+        {
+          "id": "1136157",
+          "replier": {
+            "username": "Shit进瓶",
+            "uid": "93874"
+          },
+          "date": "2022-12-16",
+          "content": "@a1161aa:你要不要看看你在说什么？微信朋友圈虚拟定位，全球“旅游”的人还少吗？"
+        },
+        {
+          "id": "1136169",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2022-12-16",
+          "content": "@Shit进瓶: 你要不要自己查一下试一下怎么弄的？刚学的句子就这么急着拿来用？还是监狱要业绩了？"
+        },
+        {
+          "id": "1136170",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2022-12-16",
+          "content": "@Shit进瓶:你爹我就是特地查过、问过相关工作人员的，倒是你脑子不动一下动手查一下也不会在这里抖机灵"
+        }
+      ]
+    },
+    {
+      "id": "610933",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 外國人還多的時, 他(她)們離開時電話卡對我們來説就算沒實名的, 但設備也要注意, 自己購買和曾插過與身份有聯係 SIM 卡的設備也要注意. 電話卡和設備都要與自身無聯係才不可追查.<br/>\n<br/>\n_ _ 偶爾會有小店和報亭會賣不用登記身份証號的靚號, 因會有舉報等這些來源通常是長不了的. 誰家有人逝世或可出錢收購逝者身份證拿來購買電話卡.<br/>\n<br/>\n還有不推薦的使用小特權找三大移動通信供應商内部人士要一些卡.\t\t</div>",
+      "date": "2022-12-15",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610948",
+      "is_folded": false,
+      "answerer": {
+        "username": "一根禾苗",
+        "uid": "73612"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t曾经户口、身份证失效多年没有补办，手机号码被移动公司系统检测出来实名有问题限制使用，去营业厅办理才解除（虽然当时身份证还是过期状态）。以此看，不实名是不可能的。但是同时使用的还有联通的卡未出现此问题。\t\t</div>",
+      "date": "2022-12-15",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611036",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t长期稳定使用的： 办死人卡，得有熟人。或者telegram上面找专门做灰产的，运气好可以搞到长期稳定卡。最终取决于熟人是否可靠。<br/>\n<br/>\n短暂使用用过就扔： 花钱找人办。比如去城中村麻将馆树块牌子，小额贷款，200元，SIM卡抵押。<br/>\n<br/>\n长期稳定没熟人： 只能办非+86卡。\t\t</div>",
+      "date": "2022-12-15",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611028",
+      "is_folded": false,
+      "answerer": {
+        "username": "workingpaper",
+        "uid": "21337"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实可以搜索下v2ex的相关讨论，非常多，例如本周就有一个相关的讨论贴：<br/>\n<br/>\nhttps://www.v2etwitter.com/t/901397\t\t</div>",
+      "date": "2022-12-15",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610951",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墙内不太清楚，但是泰国可以买泰国匿名临时电话卡。落地泰国到处可见这种给游客的临时电话卡，在墙内也可以通过一些旅行社或导游购买。<br/>\n<br/>\n没有试过在墙内使用，也不知道墙内能不能接到注册短信或电话，但很便宜可以试试。\t\t</div>",
+      "date": "2022-12-15",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611030",
+      "is_folded": false,
+      "answerer": {
+        "username": "叶子的寂寞",
+        "uid": "101118"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t要请教做电信诈骗的组织 可以去了解一下具体情况.还有就是买香港的电话卡\t\t</div>",
+      "date": "2022-12-15",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1136180",
+          "replier": {
+            "username": "swift",
+            "uid": "89191"
+          },
+          "date": "2022-12-16",
+          "content": "对啊,我也觉得是,而且无论哪国的,搞诈骗的都能弄到无数电话号码,连服务号,匿名号这种都可以搞到"
+        },
+        {
+          "id": "1136193",
+          "replier": {
+            "username": "希望未来更好",
+            "uid": "13577"
+          },
+          "date": "2022-12-16",
+          "content": "香港电话卡明年三月都要实名了"
+        }
+      ]
+    },
+    {
+      "id": "611040",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tSim卡交易犯法，最近刚收到运营商短信<br/>\n<br/>\n<br/>\n为什么凑二十字凑二十字凑二十字凑二十字\t\t</div>",
+      "date": "2022-12-15",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1136043",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2022-12-16",
+          "content": "卖过少量SIM卡，也就是封号"
+        }
+      ]
+    },
+    {
+      "id": "612616",
+      "is_folded": false,
+      "answerer": {
+        "username": "山大长沙曾思佳",
+        "uid": "83748"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你可以买东南亚电话卡用，据说实惠好用不过我没试过\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612617",
+      "is_folded": false,
+      "answerer": {
+        "username": "中華聯邦共和國",
+        "uid": "20514"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不建议用实体卡，因为这样仍然要通过中国的电信网络，找你还不简单。<br/>\n建议用非实名的互联网虚拟电话卡。<br/>\n<br/>\n你实在想用实体卡就在knowroaming官网买吧，免月租。\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611399",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠岁静屠粉红屠支",
+        "uid": "101471"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t黑卡嘛，2020年往前微信朋友圈有中介代理，300一个，2021年断卡行动以后他就不卖了\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611250",
+      "is_folded": false,
+      "answerer": {
+        "username": "lily654378",
+        "uid": "84569"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在电话卡都要视频认证的了，现在电话卡都要视频认证的了，\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137828",
+          "replier": {
+            "username": "山大长沙曾思佳",
+            "uid": "83748"
+          },
+          "date": "2022-12-23",
+          "content": "什么是视频认证"
+        }
+      ]
+    },
+    {
+      "id": "611033",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以换个思路，既然所有电话卡都要实名，那么只要那个名字跟你没有任何关系就行了。现在盗取个人信息非常容易，问题就是怎样让办电话卡的人不会怀疑你提供的个人信息。\t\t</div>",
+      "date": "2022-12-15",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1135974",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2022-12-15",
+          "content": "激活需要身份证人脸试别。"
+        }
+      ]
+    },
+    {
+      "id": "612638",
+      "is_folded": true,
+      "answerer": {
+        "username": "喜欢吃包子",
+        "uid": "103320"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

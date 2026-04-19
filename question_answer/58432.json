@@ -1,0 +1,142 @@
+{
+  "parent_type": "question",
+  "parent_id": "58432",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "656230",
+      "is_folded": false,
+      "answerer": {
+        "username": "yuta08",
+        "uid": "47016"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t微軟產品的生命週期就是出生、修漏洞、終止服務如此無限循環。現在真正安全的作業系統是win2000、Win98這種久遠到沒有駭客在鑽研或是年輕一輩聽都沒聽過的作業系統版本<br/>\n<br/>\n所以不存在任何安全的現役微軟作業系統，怕的話就是只能做好防護\t\t</div>",
+      "date": "2023-05-18",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1178623",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2023-05-20",
+          "content": "win2000、Win98确实已经没有黑客在钻研了，因为微软已经放弃了对这些系统的支持（也放弃了修漏洞），骇客只需要利用已有的漏洞就可以攻陷它们，这些漏洞甚至都是公开的。"
+        }
+      ]
+    },
+    {
+      "id": "656227",
+      "is_folded": false,
+      "answerer": {
+        "username": "wce3f2xi",
+        "uid": "49662"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用了win11一年了，从来没见过一个系统自带广告。<br/>\n<br/>\n你说的广告很多是从哪来的？\t\t</div>",
+      "date": "2023-05-18",
+      "agree_count": 4,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1178271",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2023-05-18",
+          "content": "系统自带的天气、新闻等开始菜单的，我认为这个算广告吧"
+        },
+        {
+          "id": "1178304",
+          "replier": {
+            "username": "wce3f2xi",
+            "uid": "49662"
+          },
+          "date": "2023-05-18",
+          "content": "@cuz:似乎我的win11没有天气，新闻等这种东西。也许你也可以关掉。"
+        },
+        {
+          "id": "1178634",
+          "replier": {
+            "username": "小春日和",
+            "uid": "95566"
+          },
+          "date": "2023-05-20",
+          "content": "那個win10也有哦，不想看關掉就好"
+        }
+      ]
+    },
+    {
+      "id": "656359",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t键政最好在虚拟机中进行，宿主机使用linux<br/>\n这样比较安全，相当于白名单的防火墙<br/>\n<a href=\"url/link/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1xczFaeW16ZXlrSSZwcD15Z1VQNkptYTVvdWY1cHk2NlpxVTU2YTc\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=qs1ZymzeykI&amp;pp=ygUP6Jma5ouf5py66ZqU56a7\">https://www.youtube.com/watch?v=qs1ZymzeykI&amp;pp=ygUP6Jma5ouf5py66ZqU56a7</a> </div>",
+      "date": "2023-05-18",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "656342",
+      "is_folded": false,
+      "answerer": {
+        "username": "极权之下无产权",
+        "uid": "19340"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还在用win7<br/>\n<br/>\ngvvvvvgvggssxr4gc4tbytgvv45gvggg4rrff4rfffccfr4rfffftt\t\t</div>",
+      "date": "2023-05-18",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "656268",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用Win11半年。昨天崩溃了<br/>\n还好用启动盘救了回来。<br/>\n<br/>\n还是熟悉的颜色，蓝屏\t\t</div>",
+      "date": "2023-05-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "656301",
+      "is_folded": true,
+      "answerer": {
+        "username": "snowingnight",
+        "uid": "53957"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-05-18",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1178294",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2023-05-18",
+          "content": "其实这些我不太关心，我比较关心的主要是微软会不会给阿共提供或泄露我的信息"
+        },
+        {
+          "id": "1178614",
+          "replier": {
+            "username": "snowingnight",
+            "uid": "53957"
+          },
+          "date": "2023-05-19",
+          "content": "已删除"
+        }
+      ]
+    }
+  ]
+}

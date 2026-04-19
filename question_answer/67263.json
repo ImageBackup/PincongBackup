@@ -1,0 +1,245 @@
+{
+  "parent_type": "question",
+  "parent_id": "67263",
+  "answer_count": 9,
+  "answers": [
+    {
+      "id": "747581",
+      "is_folded": false,
+      "answerer": {
+        "username": "korcory",
+        "uid": "126906"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t支国差距不是一点半点，sora出来之后就已经拉大了，支国AI底层模型全是用的美国的系统，差距只会越来越大。<br/>\n<br/>\n差距主要在两点。一是训练大模型所需的数据不足，支国政府人为设置的“防火墙”，国际海量数据无法自由进入中国，可用来训练大模型的数据显著少于美国同行。再加上支国的信息审查制度，自产的数据质量受损，用这些数据训练出来的大模型自然质量低。<br/>\n<br/>\n二是芯片不行。 支国几十个大模型，超过一半的模型的芯片都要依赖英伟达，英伟达在过去一年中，为了绕过美国政府对华禁芯管制，向支国出售多款“特供”产品，这些“低配版”芯片根本无法弥补算力不足。\t\t</div>",
+      "date": "2024-05-13",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "747608",
+      "is_folded": false,
+      "answerer": {
+        "username": "赵客胡缨",
+        "uid": "97803"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国AI：利用AI封禁各类图文影音。<br/>\n  <br/>\nRest of World AI：利用AI分析理解人类交流中的情感表达，如何用语言完美的欺骗人类。（没开玩笑，我们行里去年有个律师用AI写了个诉讼文件上交法庭，结果里面引用的六个判例全是AI自己编的，甚至按把真实的法官名字都编进去了，都以假乱真到从低级律师到高级律师都没分辨出来。）<br/>\n  <br/>\n冷笑话：当有一天世界其他地方AI已经征服统治了全人类，中国AI还在兢兢业业搜索习近平的各类维尼熊图片并且给与禁封……\t\t</div>",
+      "date": "2024-05-14",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "747574",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这里我得说 恐怕类似的竞争还是你支能获得胜利<br/>\n<br/>\n就是应用问题是在国外没法解决的事情 要么偷着干 明着干 用AI完全代替人工 无论是保险业的规范还是政府规范都不太可能通的过<br/>\n<br/>\n但是你支就没这个问题 比如言论审查这方面 你支的AI并不需要100%的精准 99% 乃至80%精准 20%的误杀都是在可以接受的范围<br/>\n至于其他的什么自动驾驶 撞死了在你支也是可以通过其他方面来掩盖的<br/>\n<br/>\n说白了就是可以进行活体实验的社会 比不能进行活体实验的社会在类似的应有研发上更有优势<br/>\n所谓的低人权优势\t\t</div>",
+      "date": "2024-05-13",
+      "agree_count": 4,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1265031",
+          "replier": {
+            "username": "flyfighter",
+            "uid": "97040"
+          },
+          "date": "2024-05-14",
+          "content": "低精度应用也不是胜利啊，只是单纯草菅人命而已，这种东西也只能在洼地流通，一出口就全露馅了"
+        },
+        {
+          "id": "1265182",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2024-05-14",
+          "content": "未必吧 医疗实验在你支也是随便做 也没见洼地医疗技术有多先进 基本还都是用国外的"
+        },
+        {
+          "id": "1265184",
+          "replier": {
+            "username": "OrphenOfKos",
+            "uid": "73371"
+          },
+          "date": "2024-05-14",
+          "content": "@加速师本人:还是看对谁 比如欧美方面极有道德争议的干细胞疗法在您支肯定就没问题 亦或是其他摘器官一类的东西\n当然上述的针对群体肯定不是平民\n但是就审查等方面来说 您枝并不会在意肃反扩大化的问题\n而ai 至少我认为在欧美永久无法达到那个允许运用的程度"
+        },
+        {
+          "id": "1265185",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-05-14",
+          "content": "@OrphenOfKos:问题是人家的ai本来也不是用来肃反的啊\n再说了，你说中国封杀涉政言论不怕误杀\n那西洋人在封杀广告和侵权言论的时候也不怕误杀啊，你被误杀了可以要求人工review，人工review之后认为你是误杀就给你手工放行了"
+        }
+      ]
+    },
+    {
+      "id": "747583",
+      "is_folded": false,
+      "answerer": {
+        "username": "linksheng1991",
+        "uid": "127493"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t确实很强！<br/>\n再看朋友圈OpenAI ChatGPT号贩子以及蠢蠢欲动开始意淫怎么骗钱了。\t\t</div>",
+      "date": "2024-05-13",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "747587",
+      "is_folded": false,
+      "answerer": {
+        "username": "Dk2s",
+        "uid": "30315"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t等到AI和機器人結合的更緊密技術更先進<br/>\n<br/>\n那就是生產力的巨大躍進 , 連工作的存在和意義都會改變<br/>\n<br/>\n先進國家就是靠機器人取代幾乎所有工作 , 無法取代的工作譬如製造機器人的芯片和電機, <br/>\n和機器人保養維修 ,另外先進國武裝機器人和軍事AI早就遍布世界駐軍 , <br/>\n先進國憲法規定每個公民都能擁有替自己工作的機器人是基本人權 ,             <br/>\n <br/>\n<br/>\n落後國有人權的, 就充當先進國機器人的工作地點 , 讓外國機器人在本國種田開礦啥的<br/>\n, <br/>\n落後國若是低人權的 , 專注賣器官 , 給先進國當人體實驗地 , 各種小白鼠 , 數據收集場等等<br/>\n或是出租土地,充作各種有害廢棄物掩埋場 , 武器試驗地 <br/>\n<br/>\n2100年後大致上就是這樣\t\t</div>",
+      "date": "2024-05-13",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1265183",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2024-05-14",
+          "content": "很可怕 但是确实如此"
+        }
+      ]
+    },
+    {
+      "id": "747571",
+      "is_folded": false,
+      "answerer": {
+        "username": "团购高手",
+        "uid": "32507"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以我个人观点而已，gpt-4o已经能初步理解、并表现出人类情感，可以完全胜任很多只有有情感和自我意识的人类才能承担的角色。理解人类情感之前被认为是AI最难做到的事之一。openai的AGI之路看起来是一片坦途。\t\t</div>",
+      "date": "2024-05-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "747604",
+      "is_folded": false,
+      "answerer": {
+        "username": "baudouin",
+        "uid": "128758"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国搞ai是要先讲党性的，这不能说那不能说，先要弄明白哪些不能说，这ai的脑壳比人都头疼。。。\t\t</div>",
+      "date": "2024-05-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "747573",
+      "is_folded": false,
+      "answerer": {
+        "username": "雙加不好的鴨語者",
+        "uid": "22079"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t現在AI的發展一日千里，真的是驚人，在軍事上的應用也在開始。<br/>\n的確，像是針對AI的干擾也有研究實驗，像是突然間遊戲中的對手突然失靈，那實驗的AI因為未見過對手出問題的狀況，而跟著一起失靈。<br/>\n<br/>\n但是AI在模擬戰爭的表現，是遠超人類，當然那是理想情況下的表現。現實瞬息萬變，AI在未試過的狀況，應該都會出問題。<br/>\n<br/>\n而美軍在軍用AI<b>模擬中</b>，曾發生操作員否決攻擊指令，<b>而AI為了達成任務而直接攻擊操作員</b>。<br/>\n美軍馬上修正不能攻擊操作員，<b>AI決定攻擊通訊系統</b>，讓自己獨立執行任務。<br/>\n<br/>\n雖說，讓AI完全獨立執行任務，理論上今天就可以，但未有足夠的準備。<br/>\n但要是無人軍隊的法規和準備成熟，那是完全改變了戰爭的方式。\t\t</div>",
+      "date": "2024-05-13",
+      "agree_count": 0,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1265008",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2024-05-14",
+          "content": "你这来源是哪"
+        },
+        {
+          "id": "1265012",
+          "replier": {
+            "username": "雙加不好的鴨語者",
+            "uid": "22079"
+          },
+          "date": "2024-05-14",
+          "content": "@李瑞环:\n上報\nhttps://www.upmedia.mg/news_info.php?Type=3&SerialNo=174157"
+        },
+        {
+          "id": "1265016",
+          "replier": {
+            "username": "nyny",
+            "uid": "115318"
+          },
+          "date": "2024-05-14",
+          "content": "@雙加不好的鴨語者: 這些媒體啊....就喜歡說一半不說一半搞個大新聞 看看衛報版本\nhttps://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test\n當然到底是媒體斷章取義還是美軍說謊就由大家自行判斷"
+        },
+        {
+          "id": "1265018",
+          "replier": {
+            "username": "雙加不好的鴨語者",
+            "uid": "22079"
+          },
+          "date": "2024-05-14",
+          "content": "@nyny:沒有人死，是模擬戰場"
+        },
+        {
+          "id": "1265020",
+          "replier": {
+            "username": "nyny",
+            "uid": "115318"
+          },
+          "date": "2024-05-14",
+          "content": "@雙加不好的鴨語者: 不是這裏，是後面美國空軍發言人(Ann Stefanek) 澄清沒有進行這種模擬，衛報有寫入報章很多媒體沒有，這些媒體斷章取義，應該全部如實報到由讀者自行判斷。"
+        },
+        {
+          "id": "1265021",
+          "replier": {
+            "username": "雙加不好的鴨語者",
+            "uid": "22079"
+          },
+          "date": "2024-05-14",
+          "content": "@nyny:抱歉"
+        },
+        {
+          "id": "1265023",
+          "replier": {
+            "username": "nyny",
+            "uid": "115318"
+          },
+          "date": "2024-05-14",
+          "content": "@雙加不好的鴨語者: 沒關係，是喜歡搞大新聞的媒體太多"
+        }
+      ]
+    },
+    {
+      "id": "747728",
+      "is_folded": false,
+      "answerer": {
+        "username": "长城汽车倒闭了吗",
+        "uid": "124857"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想法很美好，现实很残酷，匪国的网络技术和ai（尽管都是偷的）处于世界第一梯队，与美国没有明显代差，而且本来制造业爆硬件又有优势，如果两者结合是很棘手的，这也是美国为什么急着禁止高端显卡和芯片制程出口\t\t</div>",
+      "date": "2024-05-14",
+      "agree_count": -1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1265186",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-05-14",
+          "content": "匪国的优势不是硬件，不是软件，而是没节操\n开源软件加进口硬件就敢跟美帝叫板，先进制程自己都不会，难道准备用美帝几十倍的能耗把东西算出来？何况美帝页岩油气革命之后能源也比桂枝便宜啊"
+        }
+      ]
+    }
+  ]
+}

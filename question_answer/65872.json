@@ -1,0 +1,66 @@
+{
+  "parent_type": "question",
+  "parent_id": "65872",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "733289",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以后品葱要增加多一个投诉就是“劣质愚蠢问题”\t\t</div>",
+      "date": "2024-03-10",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1250396",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-03-11",
+          "content": "我同意"
+        }
+      ]
+    },
+    {
+      "id": "733277",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t什么叫“加货币面值”？你是说原来钞票最高面值是100元，贸然推出面额1000元的大额纸钞吗？\t\t</div>",
+      "date": "2024-03-10",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1250393",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-03-11",
+          "content": "@肆意醉飲思緒清: 不会。\n原因：预期有自我实现的可能。\n举例：现代银行都经不起挤兑，财务状况再健康的银行也经不起挤兑（这个原理如果不知道我就不解释了，自己去查），而且银行最怕的就是“挤兑谣言”，比如有谣言说A银行要破产了，大家赶紧去取款，晚了就取不出来了，如果放任这个谣言传播不管，最后大家都去取钱，就真的造成了挤兑，银行就真的破产了，这就是“预期的自我实现”。\n所以没有任何银行闲的蛋疼没事放这种谣言给自己找乐子。\n同样的，一个国家如果宣布推出大面额钞票，其实就在暗示“我的货币购买力贬值很厉害，被迫要推出大面额钞票了”，大家受到这样的暗示，就更要抛售手中的货币去换取美元日元等其他国家的货币，那么就造成挤兑效应，这个暗示就自我实现了。\n所以结论：没有任何国家会这么蛋疼贸然推出更大面额的纸钞"
+        }
+      ]
+    },
+    {
+      "id": "733286",
+      "is_folded": false,
+      "answerer": {
+        "username": "我的要求不算高",
+        "uid": "125856"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不会，因为欧元有500的面额，唯一负面结果是很多人不会辨别真伪所以不收。泰铢有1000面额，约等于200人民币，由于面额比较低，流通性还行，没有造成负面影响。\t\t</div>",
+      "date": "2024-03-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

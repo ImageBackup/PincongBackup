@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "54781",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "615931",
+      "is_folded": false,
+      "answerer": {
+        "username": "蛋卷已退葱",
+        "uid": "103239"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可怕，苹果吃便便。为钱为市场丧良心。<br/>\n<br/>\n<br/>\n苹果吃便便吃便便\t\t</div>",
+      "date": "2022-12-31",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "615923",
+      "is_folded": false,
+      "answerer": {
+        "username": "S700N",
+        "uid": "75716"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://blog.cryptographyengineering.com/2019/10/13/dear-apple-safe-browsing-might-not-be-that-safe/<br/>\n<br/>\n首先，这个功能使用的是差分哈希对比技术，安全浏览服务提供商是无法把你的IP地址和你浏览的网址记录关联起来的，而且这个功能也是可以关闭的。<br/>\n<br/>\n其次，正常网站被误报为欺诈网站这种事，Google也经常干，做网站的都懂。<br/>\n<br/>\n最后，将香港视同中国，现在也是美国法律的要求。\t\t</div>",
+      "date": "2022-12-31",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1139892",
+          "replier": {
+            "username": "irwzk",
+            "uid": "34021"
+          },
+          "date": "2022-12-31",
+          "content": "请问，Apple条款中的这句话是什么意思？““Google（和對於使用區域設定為中國大陸或香港的使用者：騰訊）可能也會記錄你的IP位址。””\nhttps://www.apple.com/tw/legal/privacy/data/zh-tw/safari/\n还有，你说“将香港视同中国，现在也是美国法律的要求”。难不成美国政府与法律现在是鼓励苹果与谷歌这些商业公司将香港用户的数据传送给中国大陆吗？？？搞笑呢！"
+        },
+        {
+          "id": "1139893",
+          "replier": {
+            "username": "irwzk",
+            "uid": "34021"
+          },
+          "date": "2022-12-31",
+          "content": "你要造谣之前也打个草稿，美国的行政命令要求将香港的货物标记为中国，这与美国公司在香港进行独立的商业活动有半毛钱的关系吗？美国通过的《香港人权与民主法案》是咋说的你自己去看清楚！"
+        }
+      ]
+    }
+  ]
+}

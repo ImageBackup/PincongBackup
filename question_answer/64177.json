@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "64177",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "715251",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t陶杰說中英談判，一邊談一邊吐痰，蔚為奇觀\t\t</div>",
+      "date": "2023-12-25",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "715245",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那只痰盂也很有名<br/>\n<br/>\n香港喜剧片还出现过 不了解的年轻中国人可以找来看看\t\t</div>",
+      "date": "2023-12-25",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1234330",
+          "replier": {
+            "username": "闽越国民",
+            "uid": "52852"
+          },
+          "date": "2023-12-25",
+          "content": "什么痰盂仙人"
+        }
+      ]
+    },
+    {
+      "id": "715254",
+      "is_folded": true,
+      "answerer": {
+        "username": "cvc543",
+        "uid": "120292"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-12-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

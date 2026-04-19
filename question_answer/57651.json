@@ -1,0 +1,301 @@
+{
+  "parent_type": "question",
+  "parent_id": "57651",
+  "answer_count": 14,
+  "answers": [
+    {
+      "id": "648401",
+      "is_folded": false,
+      "answerer": {
+        "username": "假行僧",
+        "uid": "41163"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这正是自由选择得到保障的结果<br/>\n他们不想隐私被谷歌利用，那就找替代<br/>\n搜索领域也是，duckduckgo搜索也正是因为对隐私保护的需求而生的<br/>\n我用过一点感觉搜索结果质量不如google，但是他们为了保护自己的隐私愿意付出这个代价，我虽然也对谷歌某些做法有微词，但也没到值得我用一个体验并不那么好的替代品的地步，那这样大家并行不悖不是很好吗<br/>\n全家桶也是一样嘛\t\t</div>",
+      "date": "2023-04-15",
+      "agree_count": 12,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1170543",
+          "replier": {
+            "username": "消失的密码",
+            "uid": "94620"
+          },
+          "date": "2023-04-15",
+          "content": "Duck duck 这个好用吗？"
+        },
+        {
+          "id": "1170545",
+          "replier": {
+            "username": "假行僧",
+            "uid": "41163"
+          },
+          "date": "2023-04-15",
+          "content": "@消失的密码:我觉得搜索结果的质量一般，比google或bing还是有差距，但是对注重隐私的确实是个好选择"
+        },
+        {
+          "id": "1170669",
+          "replier": {
+            "username": "ji3g4z04wj06",
+            "uid": "77840"
+          },
+          "date": "2023-04-16",
+          "content": "duckduckgo我用至少五年了,用久就習慣了,但也只能防君子不防小人"
+        }
+      ]
+    },
+    {
+      "id": "648716",
+      "is_folded": false,
+      "answerer": {
+        "username": "fish",
+        "uid": "42265"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这正好反映了文化背景的不同。<br/>\n<br/>\n我非必要是不使用墙内软件的，原因就是墙内软件的入侵性太强，不尊重甚至忽视使用者意愿。自动弹跳视窗，广告，诱导你再下载其他软件，怎么也关不掉的视窗，没经过Google, Windows审查，可能内建木马，等等等。<br/>\n<br/>\n但墙内厂商似乎已经习惯了这么做，似乎他们的客户也不怎么反对。<br/>\n<br/>\n而谷歌&amp; 苹果每次的版本更新，在隐私权部分都加强了规范(至少对app开发商而言)，越来越多的限制，越来越尊重使用者意愿，不能随意发送通知，能访问的档案范围越来越小，不能随意背景执行，这些限制，让谷歌&amp; 苹果架上的app越来越安全，越来越注重隐私。<br/>\n<br/>\n然而还是有一群人，对谷歌本身搜集他们的个人隐私感到不满意。这群人对隐私有极致的要求，大部分有工程背景，也就是题主说到的去谷歌化运动的这群人。目前而言仍是需要专业技术的，所以人数也是偏少。<br/>\n<br/>\n如果把西方人对于隐私权的要求画成光谱，那么这群人就是在光谱的最边边了。<br/>\n<br/>\n在我看来，这也反映了东西方文化上，对于隐私权与人权的重视程度。在东方人眼中，这群不在极权下生活，仍对隐私极度要求的人，似乎是没那么必要了。\t\t</div>",
+      "date": "2023-04-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648450",
+      "is_folded": false,
+      "answerer": {
+        "username": "S700N",
+        "uid": "75716"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很有必要。<br/>\n<br/>\n因为谷歌和微软苹果等其它巨头不一样，它本质上是一家广告公司，其商业模式就是用免费产品吸引用户，然后把用户数据卖给广告客户。\t\t</div>",
+      "date": "2023-04-15",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648405",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谷歌是一个广告公司，广告公司出的系统自然是倾向于收集用户隐私以便于精准推送广告。<br/>\n<br/>\n安卓系统真要做的干净，为何不像苹果、黑莓等那样设计系统呢？根本就是谷歌不想而已。<br/>\n<br/>\n也别觉得谷歌多干净，拼多多等墙内app用了很多安卓系统内部的窃取隐私推送广告，这些机制谷歌不可能不知道，但为什么不改呢？\t\t</div>",
+      "date": "2023-04-15",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1170515",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-15",
+          "content": "说的苹果就尊重隐私似的"
+        },
+        {
+          "id": "1170524",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-04-15",
+          "content": "@rowlandheights:确实不怎么样，但比Google强多了"
+        },
+        {
+          "id": "1170556",
+          "replier": {
+            "username": "S700N",
+            "uid": "75716"
+          },
+          "date": "2023-04-15",
+          "content": "拼多多那是利用系统漏洞开发了个病毒，拿这个黑谷歌过分了啊。"
+        },
+        {
+          "id": "1170611",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-04-16",
+          "content": "@S700N:有漏洞为啥故意不修？Google有全世界最优秀的程序员，技术能力还不如世界洼地的拼多多吗？为啥拼多多在iphone上找不到类似的漏洞？"
+        },
+        {
+          "id": "1170614",
+          "replier": {
+            "username": "S700N",
+            "uid": "75716"
+          },
+          "date": "2023-04-16",
+          "content": "@elsaanna: 并没有故意不修。只不过由于安卓的碎片化，很难迅速推送给最终用户。今天的复杂系统安全漏洞是必然的，只能通过及时的安全更新来实现相对的安全，这是一个动态博弈的过程。拼多多没有在iOS上这么做更可能是因为技术之外的原因，而不是找不到漏洞。"
+        }
+      ]
+    },
+    {
+      "id": "648506",
+      "is_folded": false,
+      "answerer": {
+        "username": "mhbkq466",
+        "uid": "51704"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这问题很简单啊,任何人都不能保证 谷歌 永远保持'中立善良',更何况它是中立善良吗? 这种未雨绸缪是好事.<br/>\n这是一种良性循环,用第三方的参与来做对比,来去观察,甚至反过来促使谷歌改进自己的产品,这是一种进步意识,你不能阻止人们想去追求'更好的东西',即便这个'更好的东西'现在还不够好.<br/>\n咱只是因为大粪池没这种环境,导致了眼光狭隘,觉着他们这些人是不知足,但就是因为他们不知足才能有这些领域的发展.\t\t</div>",
+      "date": "2023-04-16",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648511",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 谷歌是跨國隱私收割機之一, 同時是 Alphabeta 跨國財團的重要品牌. 這次就不深入揭露了不然每次都會很冗長, 僅説一個它會草率殺死用戶依賴的多個產品, 這足夠人去選擇功能替代品了.<br/>\n<br/>\n_ _ 對於形成數字霸權的巨物人們要有足夠的監督, 共匪這種拒絕監督的流氓沒資格監督任何群體或事務, 它這種流氓應首先被從討論場中踢出去.\t\t</div>",
+      "date": "2023-04-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648404",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t笑话。安卓就是谷歌的产品，安卓手机去谷歌化就等于安卓手机去安卓化。当然，真要去安卓化也不是不行，比如苹果化、塞班化、微软化、黑莓化、乌班图化…\t\t</div>",
+      "date": "2023-04-15",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1170516",
+          "replier": {
+            "username": "假行僧",
+            "uid": "41163"
+          },
+          "date": "2023-04-15",
+          "content": "对，但是如果我没记错，谷歌全家桶是闭源的，对隐私的收集和使用跟开源的AOSP不同，这里去谷歌化的意思应该只是避开谷歌全家桶"
+        },
+        {
+          "id": "1170527",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-15",
+          "content": "AOSP衍生系统\n最大的问题是很多安卓程序不是对着aosp进行编译的，而是对着aosp+google套件编译的\n于是你还得反向出google套件，写一个开源的库兼容google 套件"
+        },
+        {
+          "id": "1170557",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-15",
+          "content": "是你的产品也不影响别人不想用你的收费产品。AOSP开源了，人家可以随便用，用户没有义务必需要捆绑谷歌套件。当然如果谷歌觉得不爽可以不再开源安卓。"
+        }
+      ]
+    },
+    {
+      "id": "648426",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGFW也挡不住谷歌爬虫，要么像普京大帝不用，要么像习近平同志不会，否则，别提去谷歌化。\t\t</div>",
+      "date": "2023-04-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648429",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t为什么要跟中国比？只要作恶没超过中国就都应该忍耐是吗？<br/>\n<br/>\n完全可以一边呼吁禁止中国APP，比如美国讨论的禁用TikTok，一边同时讨论是否应该约束中国以外的垄断企业作恶，两者根本也不矛盾啊\t\t</div>",
+      "date": "2023-04-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648456",
+      "is_folded": false,
+      "answerer": {
+        "username": "漢室不可興復",
+        "uid": "48003"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t“第一反應就像吃不飽飯的難民看到有人指責麥當勞肯德基不健康一樣”<br/>\n<br/>\n应该说是快饿死的难民看到有任指责烤战俘牛排致癌一样\t\t</div>",
+      "date": "2023-04-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648502",
+      "is_folded": false,
+      "answerer": {
+        "username": "baozi3311",
+        "uid": "99088"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t未来的 Fuchsia OS 会慢慢取代安卓，我也很看好这个操作系统\t\t</div>",
+      "date": "2023-04-16",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1170650",
+          "replier": {
+            "username": "wget",
+            "uid": "51008"
+          },
+          "date": "2023-04-16",
+          "content": "你这连linux都不是了, 只是更严重的谷歌化吧"
+        }
+      ]
+    },
+    {
+      "id": "648775",
+      "is_folded": false,
+      "answerer": {
+        "username": "cornerx",
+        "uid": "108787"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谷歌搜索早就废了，英文搜索质量远比不上Yandex，当然中国的几个搜索更垃圾。\t\t</div>",
+      "date": "2023-04-17",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648551",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t非常必要，安卓市场占有率过高，实质垄断。后果都不用说了，不然也不用反垄断法。<br/>\n一些干过的坏事：<br/>\n偷linux，但是故意不遵守协议<br/>\n假开源，牢牢掌握代码，内嵌自己的私货<br/>\n偷java api，宁愿钱给律师不给甲骨文码农<br/>\n搜丁字裤，回头开会做presentation，网页上就给你显示个丁字裤广告<br/>\ncookie搜集信息跟踪用户<br/>\n隐私就不说了，gmail内部有人可以看，为的是提高广告效率<br/>\n。。。。<br/>\n<br/>\n去掉google就是让安卓回归开源，让社区重新掌控。可惜目前还很麻烦，主要是手机的硬件太多样了。\t\t</div>",
+      "date": "2023-04-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648615",
+      "is_folded": false,
+      "answerer": {
+        "username": "第三帝国主席",
+        "uid": "90772"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为Google为了做广告赚钱收集用户隐私，不过重不重要取决于个人。有的人不以为然，毕竟这些隐私信息也就从程序里过一趟，估计不会有一个活人看到。但是有的人不想，所要去Google化\t\t</div>",
+      "date": "2023-04-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

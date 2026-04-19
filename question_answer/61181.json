@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "61181",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "683209",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t-h是舒化韻尾，台語三字經第一個字和最後一個字韻尾很弱<br/>\n<br/>\n古漢語和藏緬語有爸沒伯，伯霸博系列的促音是後起的，應該是一三等間的長短對立 pˤa pa<br/>\n<br/>\n類似父增生了個伯（霸、博），母 mo / 女na 增生了個娘，本質是一二等和三等對立，一二等短音促音容易多了個 -g 尾<br/>\n<br/>\n再舉個例子 如和若 na—nag\t\t</div>",
+      "date": "2023-08-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682965",
+      "is_folded": false,
+      "answerer": {
+        "username": "斯嘉丽",
+        "uid": "53254"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t德语，以前这么写的<br/>\n紫薯布丁紫薯布丁紫薯布丁紫薯布丁\t\t</div>",
+      "date": "2023-08-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "683254",
+      "is_folded": false,
+      "answerer": {
+        "username": "問心",
+        "uid": "43432"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tTaipeh就是台北的台語念法<br/>\n<br/>\n我們用的台羅拼音寫法是Tâi-pak\t\t</div>",
+      "date": "2023-08-26",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1203042",
+          "replier": {
+            "username": "Tymosa",
+            "uid": "115186"
+          },
+          "date": "2023-08-26",
+          "content": "哦，感谢台湾朋友的回答，我也是在查询“台北府”的英文百科时偶然发现它的英文翻译是Taipeh Prefecture，Taipeh与Taipei这个词有点不一样，而我在韦氏词典网站上又查不到这个词，所以发这个问题来问问，谢谢您的回答。"
+        }
+      ]
+    },
+    {
+      "id": "682948",
+      "is_folded": true,
+      "answerer": {
+        "username": "theo2021",
+        "uid": "113723"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t每天都問些傻問題<br/>\n<br/>\n北京 Peking 來源是什麼<br/>\n青島 Tsingtao 來源是什麼<br/>\n香港 hongkong 來源是什麼<br/>\n西藏 Tibet 來源是什麼<br/>\n廣州 Canton 來源是什麼\t\t</div>",
+      "date": "2023-08-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

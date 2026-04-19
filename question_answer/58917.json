@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "58917",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "660768",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为用户是人，大公司的股东也是人。双方地位虽然不对等，但是因为存在用户协议，合同大过天，用户签了协议就要受到平台的制约。<br/>\n<br/>\n你设计任何系统，都是你觉得公平而已，实际上各方利益永远都是在博弈之中。用户被封账号，一般合同里都会规定平台有权力封账号，没义务disclose细节，打官司容易，赢官司不可能。\t\t</div>",
+      "date": "2023-06-06",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "660780",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为你用的免费服务，白嫖无人权<br/>\n<br/>\n如果是vip花了一堆钱，被企业随意封号冻结，那性质就严重多了\t\t</div>",
+      "date": "2023-06-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

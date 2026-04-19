@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "55213",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "620838",
+      "is_folded": false,
+      "answerer": {
+        "username": "minigun",
+        "uid": "29460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大好，让他们反着文明世界价值观跑的越远越好\t\t</div>",
+      "date": "2023-01-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "620839",
+      "is_folded": false,
+      "answerer": {
+        "username": "搞事啊",
+        "uid": "953"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没什么好看待的，跟几年前的入关学一样，成不了气候。\t\t</div>",
+      "date": "2023-01-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

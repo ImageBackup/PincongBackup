@@ -1,0 +1,89 @@
+{
+  "parent_type": "question",
+  "parent_id": "66122",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "735997",
+      "is_folded": false,
+      "answerer": {
+        "username": "Surge",
+        "uid": "19471"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国会参议院和众议院的网站提供了详细的资料，包括但不限于：委员会的种类，委员会主席，副主席（资深委员），委员会当前成员。<br/>\n<br/>\nhttps://www.senate.gov/committees/index.htm<br/>\n<br/>\nhttps://www.house.gov/committees<br/>\n<br/>\n尽可能的向民众公开信息和决策流程，便于选民监督是民主政府的最大优点之一。\t\t</div>",
+      "date": "2024-03-23",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1252770",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-03-23",
+          "content": "非常感谢，这个很有用"
+        }
+      ]
+    },
+    {
+      "id": "735994",
+      "is_folded": false,
+      "answerer": {
+        "username": "神州陆沉",
+        "uid": "89962"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国国会的日常会议都有直播。你看cspn 频道大概可以估计一下每次参加会议的人数。<br/>\n<br/>\n好奇你关心这么具体的事情干什么\t\t</div>",
+      "date": "2024-03-23",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1252706",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-03-23",
+          "content": "不懂就问嘛。你懂的多，你就多说点，让我长长见识"
+        },
+        {
+          "id": "1252707",
+          "replier": {
+            "username": "神州陆沉",
+            "uid": "89962"
+          },
+          "date": "2024-03-23",
+          "content": "@佐助:我也不知道。就是原来经常看那个频道。每次人数都参差不齐。也没有正式的仪式。但是讨论问题的时候都很认真。"
+        },
+        {
+          "id": "1252708",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-03-23",
+          "content": "@神州陆沉:委员会和国会不一样。\n委员会的会议也有直播吗？预算委员会内部讨论什么，他们会直播吗？"
+        },
+        {
+          "id": "1252709",
+          "replier": {
+            "username": "神州陆沉",
+            "uid": "89962"
+          },
+          "date": "2024-03-23",
+          "content": "只要是花纳税人钱的，理论上都要政务公开。我记不清具体有没有委员会的直播，但是印象中有很小规模的会议直播。具体你去那个频道看看，都有公开的日程。"
+        },
+        {
+          "id": "1252710",
+          "replier": {
+            "username": "神州陆沉",
+            "uid": "89962"
+          },
+          "date": "2024-03-23",
+          "content": "https://www.c-span.org/networks/"
+        }
+      ]
+    }
+  ]
+}

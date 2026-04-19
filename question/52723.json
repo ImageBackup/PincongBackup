@@ -1,0 +1,52 @@
+{
+  "question_id": "52723",
+  "category_id": "8",
+  "title": "品葱是不是可以开个人的专栏？",
+  "meta_description": "品葱是不是可以开个人的专栏？ - 有一些文章，可以写到自己的专栏里。形成个人文集。 比如我想一个系列小说，如果发到坛子里，就没有连续性了。但如果发到个人文集里，如果能够再加上关注这样的功能，就能够把整个文集串起来了。 品葱似乎不提供这样的功能么？",
+  "meta_keywords": "品葱,是不是,开个,专栏",
+  "tags": [
+    {
+      "id": "153",
+      "name": "品葱"
+    }
+  ],
+  "author": {
+    "username": "lyyzandy",
+    "uid": "16137"
+  },
+  "view_count": 348,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t有一些文章，可以写到自己的专栏里。形成个人文集。<br/>\n比如我想一个系列小说，如果发到坛子里，就没有连续性了。但如果发到个人文集里，如果能够再加上关注这样的功能，就能够把整个文集串起来了。<br/>\n品葱似乎不提供这样的功能么？\t\t\t\t\t\t\t</div>",
+  "date": "2022-11-15",
+  "agree_count": 0,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1026136",
+      "replier": {
+        "username": "決不再做奴隸",
+        "uid": "19469"
+      },
+      "date": "2022-11-16",
+      "content": "您可以模仿胡耀棒的連載小說？您也可以每篇文章末尾加個帶鏈接的目錄？"
+    },
+    {
+      "id": "1026144",
+      "replier": {
+        "username": "lyyzandy",
+        "uid": "16137"
+      },
+      "date": "2022-11-16",
+      "content": "@決不再做奴隸:不会用……"
+    },
+    {
+      "id": "1026164",
+      "replier": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "date": "2022-11-16",
+      "content": "加个新标签即可"
+    }
+  ],
+  "answer_count": 0
+}

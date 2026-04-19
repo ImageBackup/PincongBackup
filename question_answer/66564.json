@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "66564",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "740558",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t西方的大学教育，提倡critical thinking， 批判性思维。但是不代表要你成为一个杠精。  你当然有权利质疑牛顿运动三定律，前提是，你能提出来切实的理论进行反驳。 你先要掌握一套理论体系，才可能提出来有建设性的批判性。  <br/>\n<br/>\n在政治经济等领域的很多理论，不依赖于严苛的数学论证。 因此，这些领域，很容易就观察到后来者在不断的批判前人的现象，推动理论体系进行迭代和发展。  <br/>\n<br/>\n以我比较熟悉的经济学为例，其发展不正是从亚当斯密为代表的古典主义， 到凯恩斯和哈耶克的时代，后面的新古典主义，芝加哥学派， 不都是建立在批判前人的基础上。如果这些时代的代表人物，都无脑的信奉前人的理论，经济学可能还停留在柏拉图的时代。<br/>\n<br/>\n尽信书不如无书。 我的理解 : critical thinking ≠ cynicism ≠ ignorance\t\t</div>",
+      "date": "2024-04-13",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "740545",
+      "is_folded": false,
+      "answerer": {
+        "username": "久念",
+        "uid": "125666"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在学校就是工厂模式，他们要求所有产品一模一样听话，一模一样的想法，然后还要你自己说的付费，最后延迟劳动力上市的目的，最终受益的都是他们，因为这么多年买了白纸一张，学历贬值\t\t</div>",
+      "date": "2024-04-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "740556",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你总要有点自我判断吧。比如有限元分析，确定受力结构，决定结构设计会不会倒塌。这种理论你当然可以质疑，承重墙不让砸你非要砸，那当然是随你大小便。反正楼塌了又砸不到我头上。\t\t</div>",
+      "date": "2024-04-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

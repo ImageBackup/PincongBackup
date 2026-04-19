@@ -1,0 +1,22 @@
+{
+  "article_id": "53397",
+  "category_id": "4",
+  "title": "请教下，想找个看乳滑书籍和小说的epub阅读器，在github上开了源，但却是中国人写的阅读器可以考虑吗",
+  "meta_description": "请教下，想找个看乳滑书籍和小说的epub阅读器，在github上开了源，但却是中国人写的阅读器可以考虑吗 - 就是这个 https://koodo.960960.xyz/zh 这是他的github网页 https://github.com/troyeguo/koodo-reader 看reddit上推荐reader的帖子这个被挺多人提到的，当然那些是不是中国水军就...",
+  "meta_keywords": "请教,找个,看乳,书籍,epub,阅读,github,却是,中国人,考虑",
+  "tags": [
+    {
+      "id": "1485",
+      "name": "github"
+    }
+  ],
+  "author": {
+    "username": "Gaibian",
+    "uid": "3480"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t就是这个<br/>\r\nhttps://koodo.960960.xyz/zh<br/>\r\n这是他的github网页<br/>\r\nhttps://github.com/troyeguo/koodo-reader<br/>\r\n看reddit上推荐reader的帖子这个被挺多人提到的，当然那些是不是中国水军就不知道了<br/>\n<br/>\r\n但是该软件也有一些令人生疑的地方<br/>\r\n比如在这个issue里有人提到该软件存在联网行为，会使用百度统计<br/>\r\nhttps://github.com/troyeguo/koodo-reader/issues/185<br/>\r\n作者则称该功能在官网的帮助文档有隐私说明，是可以关闭的<br/>\n<br/>\r\n我查看了一下，作者帮助文档确实提到了以下几点<br/>\r\n数据全部保存在本地，作者声称自己没有资金搭建账号系统及在云端存储用户的数据<br/>\r\n软件如果配合第三方网盘（不知道什么意思）可以实现云同步的效果，但软件本身貌似没有云端功能<br/>\r\n作者声称除了域名，其它功能都是借用第三方的免费服务（难道是指内置的搜索引擎和翻译功能吗？）<br/>\r\n作者声称软件启动时会向谷歌服务器发送一次startup，向作者自己的网站发送检查更新的请求，除此之外不会记录和发送用户的私人数据（但电脑小白如我也不知道怎么证明作者有没有说谎）<br/>\r\n作者声称自己用谷歌统计收集匿名数据（可那个issue里却说是百度统计？）是为了了解软件的活动量和地域分布，用户可以选择自己关闭统计上传<br/>\n<br/>\r\n罗嗦了一大通（我绝不是打广告），主要是想问问有没有懂行的葱油能帮忙看一看。网上各种阅读器有的功能太少，有的功能又太杂，这个看着还成，可我又担心会不会是给自己电脑里安个木马监控什么的。有懂行葱油给个建议吗？谢谢\t\t\t\t\t\t\t</div>",
+  "view_count": 6631,
+  "date": "2023-01-06",
+  "agree_count": 2,
+  "comment_count": 16
+}

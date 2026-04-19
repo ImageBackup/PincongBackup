@@ -1,0 +1,118 @@
+{
+  "parent_type": "question",
+  "parent_id": "60678",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "677915",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这得要由网络工程的大佬来回答了<br/>\n<br/>\n个人看法,俺不是这方面的专家<br/>\n俺认为想要把个人电脑的访问也给通过这种方式屏蔽掉,应该是不大可能<br/>\n这种针对移动端APP的屏蔽,可能是通过支产手机内置的某些东西来实现的<br/>\n并不通过网络流量解包(DPI)来判断是否需要阻断,因为这需要的算力实在太大,俺认为根本做不到<br/>\n<br/>\n如果直接一刀切,封锁所有的HTTPS通信,如果想要使用HTTPS,就得安装特供根证书<br/>\n俺不知道这个想法可不可行,也许根本就是错误的<br/>\n如果能,那就麻烦了\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677975",
+      "is_folded": false,
+      "answerer": {
+        "username": "比特肥",
+        "uid": "114682"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t电脑下软件都随便下，也不是手机必须应用市场，这个区别很大。电脑可以网络白名单，程序不能白名单。\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "677902",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tPC端根本限不住，除非弄白名单或物理断网<br/>\n真到了那一天，恐怕要弄卫星上网了\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677967",
+      "is_folded": false,
+      "answerer": {
+        "username": "驱蚊花露水",
+        "uid": "9818"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你只需要浏览器就可以访问电脑端，不需要安装。\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "677985",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t低端人口有啥资格使用电脑及手机？向宇宙大元帅金正恩看齐，动用国家暴力机器肃清潜伏在局域网内的反封建社会主义的反革命暴徒。\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1197988",
+          "replier": {
+            "username": "通商宽衣颐使气指",
+            "uid": "74980"
+          },
+          "date": "2023-08-09",
+          "content": "低端人口要用手机下载学习强国学习伟大领袖的思想"
+        }
+      ]
+    },
+    {
+      "id": "678012",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大陆的网友现在就该一门心思搞星链，其他各种手段都只是权宜之计而已\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1198206",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2023-08-10",
+          "content": "以后买个射频大功率三极管都要到公安局备案"
+        }
+      ]
+    },
+    {
+      "id": "678337",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t考虑网民的知识水平, 大部分都是用手机<br/>\n<br/>\n对党国主要麻烦是人太多管不过来(反贼要注意这点加以利用)<br/>\n<br/>\n一旦大部分放弃翻墙, 党国就可以把资源集中在个半用电脑的<br/>\n<br/>\n所以为了自己, 要推动更多中国人去颠覆共产党, 人越多你们越安全\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

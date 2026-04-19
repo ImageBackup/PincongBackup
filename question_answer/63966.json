@@ -1,0 +1,71 @@
+{
+  "parent_type": "question",
+  "parent_id": "63966",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "712910",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很有可能是的，我希望技术人员能修复它。<br/>\n字数字数字数\t\t</div>",
+      "date": "2023-12-15",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1232578",
+          "replier": {
+            "username": "penima",
+            "uid": "13424"
+          },
+          "date": "2023-12-15",
+          "content": "我以为管理员就可以直接编辑了😥"
+        },
+        {
+          "id": "1232579",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-12-15",
+          "content": "@penima:这几天的搬运工作，就交到我身上吧"
+        },
+        {
+          "id": "1232630",
+          "replier": {
+            "username": "penima",
+            "uid": "13424"
+          },
+          "date": "2023-12-15",
+          "content": "@Nederland:不好意思发现之前完全没叙述明白，我是指图中圈的URL应该换成新的了，标题那个?是否?是要邀请人不得不发成提问"
+        }
+      ]
+    },
+    {
+      "id": "712955",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://www.reddit.com/r/hanren/<br/>\n<br/>\n帖子都在 reddit那边改了url而已<br/>\n字数字数字数\t\t</div>",
+      "date": "2023-12-15",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1232631",
+          "replier": {
+            "username": "penima",
+            "uid": "13424"
+          },
+          "date": "2023-12-15",
+          "content": "不好意思发现之前完全没叙述明白，我是指图中圈的URL应该换成新的了，标题那个?是否?是要邀请人不得不发成提问"
+        }
+      ]
+    }
+  ]
+}

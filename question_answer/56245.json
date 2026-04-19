@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "56245",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "632638",
+      "is_folded": false,
+      "answerer": {
+        "username": "半场",
+        "uid": "105808"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t交流多，正常，好像明朝就已经开始了，郑成功就是日本小妾生的。\t\t</div>",
+      "date": "2023-02-20",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "632798",
+      "is_folded": false,
+      "answerer": {
+        "username": "陳家梁子",
+        "uid": "74631"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t双方家庭经济收入是一个因素。两国国民的自身定位更重要。虽然甲午日本战胜了中国，但在普通日本人的心中，中国还是天朝上国，能嫁给中国人也算高攀了。\t\t</div>",
+      "date": "2023-02-20",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1232682",
+          "replier": {
+            "username": "国家主席刘德华",
+            "uid": "112103"
+          },
+          "date": "2023-12-16",
+          "content": "才不是，她们很鄙夷中国人"
+        }
+      ]
+    }
+  ]
+}

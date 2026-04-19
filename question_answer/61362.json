@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "61362",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "684747",
+      "is_folded": false,
+      "answerer": {
+        "username": "Germany2014",
+        "uid": "105134"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t核潜艇这么大的事应该很难隐瞒<br/>\n就算海底 <br/>\n长期不在港口 卫星能发现\t\t</div>",
+      "date": "2023-08-31",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684751",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你这浓眉大眼的也开始造谣传谣了嘛<br/>\n<br/>\n谣言就是遥遥领先的预言\t\t</div>",
+      "date": "2023-08-31",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684724",
+      "is_folded": false,
+      "answerer": {
+        "username": "大修",
+        "uid": "26911"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就那個三無消息來源<br/>\n<br/>\n不就是一眼 假的,騙傻子的\t\t</div>",
+      "date": "2023-08-31",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1204231",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-08-31",
+          "content": "https://upload.hkgolden.media/comment/x1yubedf.xv1yh15srt4.qdlshoofg53.m5s.jpg"
+        },
+        {
+          "id": "1204235",
+          "replier": {
+            "username": "大修",
+            "uid": "26911"
+          },
+          "date": "2023-08-31",
+          "content": "@四邑漁農牧工商總會: 對呀,這就三無消息,也不看看這\"石鳴社\"是甚麼東西"
+        }
+      ]
+    }
+  ]
+}

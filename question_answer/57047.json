@@ -1,0 +1,328 @@
+{
+  "parent_type": "question",
+  "parent_id": "57047",
+  "answer_count": 9,
+  "answers": [
+    {
+      "id": "641764",
+      "is_folded": false,
+      "answerer": {
+        "username": "麦子二百斤",
+        "uid": "50895"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谷歌中文输入法<br/>\niOS自带的中文输入法<br/>\n台湾出的中文输入法也行（如仓颉）<br/>\n似乎香港在中文打字方面没开发什么软件？<br/>\n以前我学习粤语的时候问了几个香港朋友，用的基本上都是中国大陆/台湾的输入法、语音输入等等，很少有人用粤拼输入。\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 8,
+      "discussion_count": 10,
+      "discussions": [
+        {
+          "id": "1164800",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2023-03-21",
+          "content": "请问谷歌中文输入法就是这个吗？\nhttps://www.google.com/intl/zh-CN/inputtools"
+        },
+        {
+          "id": "1164803",
+          "replier": {
+            "username": "麦子二百斤",
+            "uid": "50895"
+          },
+          "date": "2023-03-21",
+          "content": "@平疫禁人忍民领袖:对"
+        },
+        {
+          "id": "1164988",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-03-22",
+          "content": "@平疫禁人忍民领袖:应用商店里面叫gboard"
+        },
+        {
+          "id": "1164990",
+          "replier": {
+            "username": "yuta08",
+            "uid": "47016"
+          },
+          "date": "2023-03-22",
+          "content": "倉頡是基於繁體中文的拆字，對習慣簡體的中國人應該是不適合的。都有打算學倉詰了，不如就學注音吧，在粉紅多的圈子裡還可以當密碼用。ㄒ一ㄠv ㄈㄣv ㄏㄨㄥ/ ㄎㄢ\\ ㄅㄨ\\ ㄉㄨㄥv"
+        },
+        {
+          "id": "1165047",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2023-03-22",
+          "content": "@yuta08:你好，方便能提供下仓颉输入法电脑端的官网下载地址吗？我不胜感谢"
+        },
+        {
+          "id": "1165049",
+          "replier": {
+            "username": "yuta08",
+            "uid": "47016"
+          },
+          "date": "2023-03-22",
+          "content": "@平疫禁人忍民领袖:我沒辦法提供，以Windows 10作業系統來說，語言選擇中文(繁體 台灣),選新增鍵盤，就有微軟倉詰可以選(以及速成、大易、行列、注音等)，所以我們並不需要特別去下載倉詰輸入法"
+        },
+        {
+          "id": "1165050",
+          "replier": {
+            "username": "yuta08",
+            "uid": "47016"
+          },
+          "date": "2023-03-22",
+          "content": "@yuta08:就如同我前面說的，倉詰是基於繁體中文的拆字根輸入，對於習慣簡體中文的人來說會有一定的難度，入門門檻會比繁體中文使用者高不少"
+        },
+        {
+          "id": "1165056",
+          "replier": {
+            "username": "VyYxpU5cCezbWr",
+            "uid": "86892"
+          },
+          "date": "2023-03-22",
+          "content": "@yuta08:\n倉頡輸入存在『拆碼不同』問題，有相當漢字在不同版本倉頡中拆碼完全不同\n如『捏』字，傳統拆碼實際對應字為『揑』(拆成『扌臼工)，但有新版本拆碼為『手日土』"
+        },
+        {
+          "id": "1165057",
+          "replier": {
+            "username": "VyYxpU5cCezbWr",
+            "uid": "86892"
+          },
+          "date": "2023-03-22",
+          "content": "@平疫禁人忍民领袖: 除系統自帶倉頡，記得以前有個『倉頡之友』論壇可提供下戴"
+        },
+        {
+          "id": "1165058",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2023-03-22",
+          "content": "@VyYxpU5cCezbWr:谢谢！"
+        }
+      ]
+    },
+    {
+      "id": "641743",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tBSD 上有<br/>\nzh-FreeWnn-server - Japanese/Chinese/Korean input method (Chinese server)<br/>\nzh-scim-pinyin - SCIM Chinese Smart Pinyin input method<br/>\n<br/>\nLinux 上有<br/>\nfreewnn-cserver -- Chinese input system<br/>\nuim - Universal Input Method - main binary package<br/>\nibus-pinyin - Pinyin engine for IBus<br/>\nibus-rime - Rime Input Method Engine for IBus<br/>\nibus-sunpinyin - sunpinyin engine for ibus<br/>\nibus-zhuyin - IBus Traditional ZhuYin Input Method<br/>\nscim-pinyin - smart pinyin IM engine for SCIM platform<br/>\n<br/>\nM$ win 上有<br/>\n小狼毫輸入法 Weasel GPLv3 强制開源許可證 https://github.com/rime/weasel<br/>\n系統自帶輸入法取消云和網絡等功能.<br/>\n<br/>\n_ _ 以上期待你的測試和反饋, 我大多是在控制台下工作. 拼音爲主注音還在學, 崇文、五筆和電報輸入法我都是不會的.\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 6,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1164962",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2023-03-22",
+          "content": "谢谢你的细致回复，但是这些目前来说对于我来说还是硬核了一点，也许有一天我会用上的！"
+        },
+        {
+          "id": "1164963",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-03-22",
+          "content": "@平疫禁人忍民领袖: 客氣了, 由於不清楚你的需求就盡量列上了. 如有好用的也希望你介紹~"
+        }
+      ]
+    },
+    {
+      "id": "641876",
+      "is_folded": false,
+      "answerer": {
+        "username": "泼涛汹涌",
+        "uid": "74052"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t任何输入法都可以，只要关闭联网权限就行，你不会连这个都不会吧？\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1164912",
+          "replier": {
+            "username": "吃包子的庆丰皇帝",
+            "uid": "108921"
+          },
+          "date": "2023-03-21",
+          "content": "已删除"
+        },
+        {
+          "id": "1165054",
+          "replier": {
+            "username": "GreekMyth",
+            "uid": "79633"
+          },
+          "date": "2023-03-22",
+          "content": "即使关闭联网也不安全 , 它可以先在本地存储, 之后一旦上网再发到公安局"
+        }
+      ]
+    },
+    {
+      "id": "641827",
+      "is_folded": false,
+      "answerer": {
+        "username": "steven380",
+        "uid": "34431"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是监控，中国的输入法把你每一个按键都会上传。完全透明。\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642132",
+      "is_folded": false,
+      "answerer": {
+        "username": "GreekMyth",
+        "uid": "79633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要用中文输入法, 即使关闭联网也不安全 , 输入法它可以先在本地存储, 之后一旦上网再发到公安局<br/>\n<br/>\n用匿名模式 Chrome : Go to <br/>\n<br/>\nhttps://www.google.com.hk<br/>\n<br/>\n输入拼音:<br/>\n<br/>\n<br/>\nbuyaoyong<br/>\n<br/>\n全部<br/>\n地图图片视频新闻更多<br/>\n工具<br/>\n找到约 1,280 条结果 （用时 0.38 秒） <br/>\n您是不是要找：<br/>\n不要用\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1165053",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2023-03-22",
+          "content": "这种方式打完一篇文章一天都没了啊..."
+        }
+      ]
+    },
+    {
+      "id": "642138",
+      "is_folded": false,
+      "answerer": {
+        "username": "president",
+        "uid": "7609"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一些个人开发的 单机不联网输入法，我用的就是这种。或者用google的输入法\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642010",
+      "is_folded": false,
+      "answerer": {
+        "username": "第三新索多玛",
+        "uid": "728"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那当然是rime。<br/>\n这玩意素以设置复杂著称。但是要跟你匪作对就不能不支付代价。rime的优点在于一切都要你自己来控制，它的设计初衷是用来满足那些爱好折腾的人士，但是对于反贼而言，一切自己控制也就意味着数据不会被上传。很多win98 winxp时代的老输入法也能做到这一点，但它们又不好用，而rime在设置完成之后手感是不比搜狗之类差的，只会更适合你自己。<br/>\n<br/>\n不要害怕未知的技术，编程随想推荐的那些虚拟机、磁盘加密之类的东西都是需要学习的，这就是当反贼的代价。\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641781",
+      "is_folded": false,
+      "answerer": {
+        "username": "benrock",
+        "uid": "7429"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t系统自带的输入法都可以用吧。你都信这个系统了（不管是windos/linux还是手机），它自带的输入法你不信也不行啊。\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 0,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1164839",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2023-03-21",
+          "content": "国产手机自带输入法绝对不安全，建议手机也换谷歌输入法"
+        },
+        {
+          "id": "1164851",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-21",
+          "content": "@cuz:那不是输入法问题，那是手机系统问题，建议刷机"
+        },
+        {
+          "id": "1164858",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2023-03-21",
+          "content": "@rowlandheights:输入法问题也是一点，国产系统输入法是定制的，还是会上传的"
+        },
+        {
+          "id": "1164861",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-21",
+          "content": "@cuz:先把手机系统重装了，再来装非国产输入法"
+        },
+        {
+          "id": "1165055",
+          "replier": {
+            "username": "GreekMyth",
+            "uid": "79633"
+          },
+          "date": "2023-03-22",
+          "content": "You have to be super Paranoid!"
+        }
+      ]
+    },
+    {
+      "id": "641843",
+      "is_folded": true,
+      "answerer": {
+        "username": "huanghaigen",
+        "uid": "109718"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<p class=\"aw-small-text\">**该用户被封禁，内容已自动替换**</p>劉仲敬的理論用來顛覆共產黨政權有什麼欠缺之處？<br/>\n<br/>\nhttps://pincong.rocks/question/item_id-450108<br/>\n過於路徑依賴。<br/>\n<br/>\n阿姨的諸夏不是解決共產黨，而是解決大洪水的。<br/>\n在劉的理論裏，共產黨不用推翻，到時間它自己就會死。<br/>\n<br/>\n只是共產黨死了之後，中國依然沒有辦法實現民主，因爲中國人缺乏結社、憲政和法治的能力。<br/>\n所以中國立刻會陷入無政府主義狀態（大洪水），絕大部分人會在缺乏政府的保護下在很短的時間内死亡并且斷子絕孫。（互害社會）<br/>\n<br/>\n這種情況在中國古代已經發生過很多次，是歷史事實，并且世界上所有國家改朝換代，只有中國死人最多，可以在幾十年之内，通過内戰屠殺，消滅一半以上人口。（德配下）<br/>\n<br/>\n劉把這種獨特的現象總結爲：中國人沒有組織國家秩序的能力。（世界文明窪地）<br/>\n他們都必須像寄生蟲一樣，寄生在一個獨裁者身上才能活，否則就會死去。（費拉無產階級）<br/>\n<br/>\n那麽，中國人想要提高文明水平，實現民主文明，第一個需要提高的，就是組織國家秩序的能力。<br/>\n<br/>\n所以劉給出一個解決無政府狀態的方案，就是諸夏。大家都去嘗試著建國，不要統一。<br/>\n<br/>\n這樣的好處是：<br/>\n1、可以充分鍛煉各個小國家内人的結社，組織能力。提高“德性”<br/>\n2、就算這些小國也是個獨裁國家，推翻一個小獨裁者更容易。<br/>\n<br/>\n總之，就是重走一邊歐洲各個民族國家在現代民主化之前的狀態，才能最終產生出現代民主文明。<br/>\n<br/>\n==========================================<br/>\n<br/>\n劉的理論問題在於路徑依賴。<br/>\n<br/>\n説白了，就是他認爲一個文明不能跨越式發展。<br/>\n<br/>\n中國人不經過歐洲中世紀那麽幾百年的分分合合，民族國家互相勾心鬥角，頻繁戰爭，是不可能有現代文明意識的。當然 ，經歷完這個過程，“中國人”也就如同“羅馬人”一樣，已經消失于歷史之中了。<br/>\n<br/>\n很多學者認爲，文明是可以跨越式發展的，中國人無需經過這幾百年的鍛煉，也能直接學習現成的民主國家的經驗，在中共死亡之後，實現民主化，成爲一個現代國家。<br/>\n比如王劍就是這麽認爲的，他經常跟觀衆互動時說，你怎麽知道中共亡了，天下就一定要大亂呢？你怎麽知道中國人就沒有能力和意願實現民主化呢？<br/>\n<br/>\n=======================================<br/>\n<br/>\n我認爲，諸夏有一個問題是，大洪水意味著其他國家不會插手。<br/>\n<br/>\n但是美國、日本、俄國和印度看到中共下臺的時候，居然不會插手扶植代理人是很難想象的。<br/>\n就算以劉的馬基雅維利主義的角度看，美俄是一定會插手扶植代理人的。<br/>\n<br/>\n諸夏戰爭最後一定就是看誰背後的大腿粗，但是美國不可能會扶植兩個代理人，因爲這樣并不划算。<br/>\n這造成一個結果就是，諸夏就算有，存在的時間不會很長，而且也不會如同劉那樣期望的向歐洲中世紀那樣自然發展。<br/>\n<br/>\n而是擁有美歐日裝備的某個軍閥會議最快速度解決掉其他所有的國家，不等你民族發明完成就已經一統江山。\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2023-03-21",
+      "agree_count": -7,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1164872",
+          "replier": {
+            "username": "ddc635",
+            "uid": "103171"
+          },
+          "date": "2023-03-21",
+          "content": "粉红请回墙内"
+        },
+        {
+          "id": "1164873",
+          "replier": {
+            "username": "kane888",
+            "uid": "31952"
+          },
+          "date": "2023-03-21",
+          "content": "五毛你全家蒸发了是吧，草拟全家啊傻逼臭猪五毛，砍死你个傻逼"
+        }
+      ]
+    }
+  ]
+}

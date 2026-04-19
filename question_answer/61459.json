@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "61459",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "685575",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以。有广告。你说的“中国广告商”是什么？<br/>\n<br/>\n大陆的企业吗？这个好像还真没有，当然不包括tiktok、temu这种，他们推广的并不是墙内的抖音和拼多多。\t\t</div>",
+      "date": "2023-09-03",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1205033",
+          "replier": {
+            "username": "感謝習近平",
+            "uid": "100154"
+          },
+          "date": "2023-09-03",
+          "content": "比如我舉例 王老吉可以在yt廣告給中國民眾嗎"
+        },
+        {
+          "id": "1205040",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-03",
+          "content": "@感謝習近平: 没有，我没有看见过这种“厂商是大陆，产品也在大陆销售”的广告。"
+        }
+      ]
+    },
+    {
+      "id": "685581",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t應該不行吧，牆民VPN IP是日本，推送廣告也是日本的廣告\t\t</div>",
+      "date": "2023-09-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

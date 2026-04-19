@@ -1,0 +1,89 @@
+{
+  "parent_type": "question",
+  "parent_id": "54478",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "612574",
+      "is_folded": false,
+      "answerer": {
+        "username": "仲长若谷",
+        "uid": "13710"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你把信息告诉我 我给你订机票<br/>\n<br/>\n我们都等着你回来共产呢\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1137244",
+          "replier": {
+            "username": "翡翠大弟",
+            "uid": "100086"
+          },
+          "date": "2022-12-21",
+          "content": "李强说, 让我主导供销社, 把内循环搞起来."
+        },
+        {
+          "id": "1137247",
+          "replier": {
+            "username": "仲长若谷",
+            "uid": "13710"
+          },
+          "date": "2022-12-21",
+          "content": "@翡翠大弟:李强的位子让给你都行 你先赶紧回来 日本那边核泄露太厉害"
+        },
+        {
+          "id": "1137250",
+          "replier": {
+            "username": "翡翠大弟",
+            "uid": "100086"
+          },
+          "date": "2022-12-21",
+          "content": "@仲长若谷: 总理要是可以在东京wfh的话, 我立马接"
+        }
+      ]
+    },
+    {
+      "id": "612576",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t马老板也要下周回国么？<br/>\n<br/>\n字数不定字数不定字数不定\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1137245",
+          "replier": {
+            "username": "翡翠大弟",
+            "uid": "100086"
+          },
+          "date": "2022-12-21",
+          "content": "不确定, 怕回去就福报了. 包帝的话, 他自己都不信."
+        },
+        {
+          "id": "1137256",
+          "replier": {
+            "username": "pincong360",
+            "uid": "17793"
+          },
+          "date": "2022-12-21",
+          "content": "@翡翠大弟: 那就学学贾老板，下周回国，但是没说哪个下周回国。"
+        },
+        {
+          "id": "1137257",
+          "replier": {
+            "username": "翡翠大弟",
+            "uid": "100086"
+          },
+          "date": "2022-12-21",
+          "content": "@pincong360: 昨天跟李强说, 我在考察福岛转基因咸水小龙虾的配种技术. 秘书找了很多其他可以学的, 这两年不成问题."
+        }
+      ]
+    }
+  ]
+}

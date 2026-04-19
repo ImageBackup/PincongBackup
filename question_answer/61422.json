@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "61422",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "685245",
+      "is_folded": false,
+      "answerer": {
+        "username": "大皇子丁薛祥",
+        "uid": "115825"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没有，我跟极其可信的内部人士再三确认了，他非常明确的告诉我，胡主席的身体健康现在没有任何问题，要死也是别人，我有万分把握，你们看看我的消息准不准！\t\t</div>",
+      "date": "2023-09-02",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1204727",
+          "replier": {
+            "username": "强碱中和",
+            "uid": "111371"
+          },
+          "date": "2023-09-02",
+          "content": "你的情报是对的，胡本人确实没有任何问题。"
+        }
+      ]
+    }
+  ]
+}

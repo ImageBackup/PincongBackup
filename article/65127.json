@@ -1,0 +1,34 @@
+{
+  "article_id": "65127",
+  "category_id": "8",
+  "title": "【RFC-153】将站务主题帖的强制收容限制在站务服务上",
+  "meta_description": "【RFC-153】将站务主题帖的强制收容限制在站务服务上 - [b]变更内容[/b]：新增一个分区名叫站务B区，原站务区改名为站务A区保留当前所有主题帖，但今后，只有封禁法庭、新的RFC提案和对具体管理员活动的讨论、账号找回应当强制放在站务A区，总而言之，站务A区强制归纳且仅强制归纳立法、投诉（包括个人账号安全相关申...",
+  "meta_keywords": "rfc-153,站务,主题,强制,收容,限制,服务",
+  "tags": [
+    {
+      "id": "451",
+      "name": "站务"
+    },
+    {
+      "id": "937",
+      "name": "RFC"
+    },
+    {
+      "id": "106650",
+      "name": "强制转移"
+    },
+    {
+      "id": "106651",
+      "name": "站务区"
+    }
+  ],
+  "author": {
+    "username": "Nederland",
+    "uid": "73269"
+  },
+  "contents": "<div class=\"content markitup-box\">\n<b>变更内容</b>：新增一个分区名叫站务B区，原站务区改名为站务A区保留当前所有主题帖，但今后，只有封禁法庭、新的RFC提案和对具体管理员活动的讨论、账号找回应当强制放在站务A区，总而言之，站务A区强制归纳且仅强制归纳立法、投诉（包括个人账号安全相关申诉）、司法的直接应用。如果有人发表对品葱功能的体验感、对网军入侵的警示、对用户文明用语的建议这些其它类型的帖子，虽然以品葱为主题，但不涉及站务服务，他们可以选择发在站务A区或B区，不同点在于B区的内容是主区可见的。站务A区、B区都继承原站务区需要20声望才能发主题帖。此为参考模板，不见得词汇名称等细节都要一致。<br/>\n<b>变更理由</b>：近日，有冲浪区葱油评论，站务区的被浏览概率远远低于主区，甚至出现原本放在主区的高热度帖子在转入站务区后无人问津的现象，其中主要原因是访问站务区麻烦和传送链接不显眼。私底下来说，欧美时政、站务、法轮功等主区不可见的分区被视作和水区别无两样，@艳阳Sunny 、@Sulaiman_Gu @jgh73de6 @珍珠小丸子 等诸多用户都曾为自己的发帖强制移出主区无法获得足够的注意而表达不满。<br/>\r\n我在最近阅读了RFC列表（<a href=\"https://pincong.rocks/article/784\" title=\"https://pincong.rocks/article/784\">https://pincong.rocks/article/784</a>）及其未收录部分共计152个有编号条目，确信没有阻止变更的过往判例，而站务区帖子不可见的出处应是2020年3月28日的这个公告（<a href=\"https://pincong.rocks/article/16862\" title=\"https://pincong.rocks/article/16862\">https://pincong.rocks/article/16862</a>），其使用理由为：<br/>\n<blockquote>近期疫情波动导致大家都有些情绪化，为防止因为站务再大吵一番后退出</blockquote><br/>\r\n现在Covid疫情已经过去很久，且当时新品葱开站尚不足2年（至今已有5年），该前提有严重的过时性，而且就在该公告发出后，站务服务陆续新增了功能“申请双向屏蔽”（<a href=\"https://pincong.rocks/question/id-22360\" title=\"https://pincong.rocks/question/id-22360\">https://pincong.rocks/question/id-22360</a>）、“话题屏蔽功能”（<a href=\"https://pincong.rocks/article/44762\" title=\"https://pincong.rocks/article/44762\">https://pincong.rocks/article/44762</a>）、“集中讨论分区话题索引”（<a href=\"https://pincong.rocks/article/20732\" title=\"https://pincong.rocks/article/20732\">https://pincong.rocks/article/20732</a>）等等，而且经历了大量审判、弹劾的积累实践，品葱目前处理争议对线的能力已经今非昔比，没有必要再担心任何争吵的规模扩大及用户因此退出论坛。实际上，就在不久前，都有几次站务对线扩大化得到阻止并正常行使其功能的实践（例如Genzo诉天下无贼案，有专门的技术讨论贴处理争议内部的事情，减少两人直接冲突）。<br/>\r\n用户退出论坛的现象一直都在发生，但是总结其原因，主要是个人安全的担忧和对主区内容讨论的不感兴趣，少数因为站务而退出的例子，乃是当事某方不服站方或管理员决定引起，哪怕截止至上文2020年公告发布前也是如此。而且，对于站务冲突当事方，我们不可能为了避免影响其心情就不通知ta，ta若是对注定的判决不服这也不是将站务移出主区能改变的，唯一将这些纷争拿出主区的理由就是防止干扰正常发帖秩序。<br/>\r\n对于被设想发到站务B区的帖子类型，与某些管理员的估计（<a href=\"https://pincong.rocks/article/item_id-976652\" title=\"https://pincong.rocks/article/item_id-976652\">https://pincong.rocks/article/item_id-976652</a>）恰恰相反，不少都能引起大众共鸣并吸引大量的回复、关注，至少在强制转移至站务区前如此，近期的例子有<a href=\"https://pincong.rocks/question/62500\" title=\"https://pincong.rocks/question/62500\">https://pincong.rocks/question/62500</a>，<a href=\"https://pincong.rocks/question/62266\" title=\"https://pincong.rocks/question/62266\">https://pincong.rocks/question/62266</a>，<a href=\"https://pincong.rocks/question/61850\" title=\"https://pincong.rocks/question/61850\">https://pincong.rocks/question/61850</a>。如果开放这类帖子的主区讨论，可以增加大众和站方的亲近感和网络民主的体验感，不至于提到“品葱”这个名字就要让自己的主题帖被区别对待：让我们将心比心，在站务区已经非常普遍被认为隐蔽的常识下，设想非管理员用户看到两种不同的对待方式，感受如何？就算这类帖子讨论低迷，未能增进主区讨论的效率，我们也有“防止讨论低迷”的理由在转水操作的选项中，它应当此时生效；就算针对同一事件有重复讨论，我们也有话题合并功能，使得正常的发帖秩序不会受到影响。这一类型的帖子既不干预正式的站务处理、投票进程，也让我们更有可能看到多数用户的诉求和感受，即便站方希望单方面推行新的制度，参考主区也会更具代表性，更别提会让更多人产生了解投票机制和习惯法的兴趣，让更多人有智力因素的资质参与网上民主，而当更多有资质的人进行民主决策，决策结果的说服力和权威性将会大大提升。在此，我正式发起投票，进行品葱站务区强制收容功能的修改。<br/>\n<b>投票、替代方案讨论时间</b>：截止至美东时间2023年11月4日6：00AM<br/>\n<br/>\n<b>特邀用户</b>：@艳阳Sunny @眼镜娘阿锅 @OrphenOfKos @一只鹿兒 @萨格尔王掀翻池塘 @NZRdlClr5 @Meltdown @grantyang @fb_china_today @萨格尔王吃冰棒 @zsy2023 @红白蓝 @十字军征支大佐 @明日香 @ismynewmail @天下无贼 <br/>\r\n已经到来的用户可以邀请更多用户参与讨论和投票，多多益善。<b>如果想明确投票，需文字标识；如不打算明确投票或还没想好，可以随意对相关话题发表评论或不评论</b>，谢谢你们的支持。\t\t\t\t\t\t\t</div>",
+  "view_count": 830,
+  "date": "2023-10-26",
+  "agree_count": 3,
+  "comment_count": 5
+}

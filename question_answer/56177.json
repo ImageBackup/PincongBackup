@@ -1,0 +1,75 @@
+{
+  "parent_type": "question",
+  "parent_id": "56177",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "632057",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a href=\"url/link/aHR0cHM6Ly93d3cueW91dHViZS5jb20vYy9pbmFudXRzaGVsbC92aWRlb3M\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.youtube.com/c/inanutshell/videos\">https://www.youtube.com/c/inanutshell/videos</a><br/>\n<br/>\n这频道主打科普,很有名的.<br/>\n<br/>\n俺从Pikamee直播看的\t\t</div>",
+      "date": "2023-02-18",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1155228",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-02-18",
+          "content": "啊, 這個頻道的美術風格很讚啊, 收藏了~多謝分享"
+        }
+      ]
+    },
+    {
+      "id": "631951",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tTED 啊, 當然它有前瞻性太多或成問題事情, 哪些是真正未來要自行分辨.\t\t</div>",
+      "date": "2023-02-18",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1155128",
+          "replier": {
+            "username": "种族社会共产主义",
+            "uid": "102603"
+          },
+          "date": "2023-02-18",
+          "content": "已删除"
+        },
+        {
+          "id": "1155129",
+          "replier": {
+            "username": "种族社会共产主义",
+            "uid": "102603"
+          },
+          "date": "2023-02-18",
+          "content": "好"
+        }
+      ]
+    },
+    {
+      "id": "632093",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t油管，麻省理工公开课。<br/>\n<br/>\n但是我认为碎片化的学习是没有用的。<br/>\n先学数学，然后物理，然后专业基础课，然后专业课。<br/>\n😸😸😸\t\t</div>",
+      "date": "2023-02-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

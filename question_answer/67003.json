@@ -1,0 +1,178 @@
+{
+  "parent_type": "question",
+  "parent_id": "67003",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "745078",
+      "is_folded": false,
+      "answerer": {
+        "username": "新用户8964",
+        "uid": "128400"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t建议使用外区商店里大牌VPN就行（敏感活动另说。日常翻墙水平足以让黑皮查8964年）\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "745071",
+      "is_folded": false,
+      "answerer": {
+        "username": "Freehand4252",
+        "uid": "128351"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tsurge:很贵，开发者喝过茶。<br/>\nsing-box:免费，但可能需要自己写配置文件。\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "745077",
+      "is_folded": false,
+      "answerer": {
+        "username": "剑心",
+        "uid": "2533"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t貌似基本都是国人开发的，只有这里才有那么大的需求……<br/>\n国外的用warp+吧，大名鼎鼎的cloudflare出品，有白嫖免费的永久流量（26PB，根本用不完），跨平台（win，mac，ios，安卓），油管上一堆白嫖教程，以及如何优选ip（部分地区默认ip可能连不上，必须优选ip）。有了这个，谁还会去买小机场啊？<br/>\nhttps://one.one.one.one/\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 2,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1262280",
+          "replier": {
+            "username": "att",
+            "uid": "48379"
+          },
+          "date": "2024-05-03",
+          "content": "这个容易被封吗"
+        },
+        {
+          "id": "1262284",
+          "replier": {
+            "username": "剑心",
+            "uid": "2533"
+          },
+          "date": "2024-05-03",
+          "content": "@att:我都用了一年了，还没事"
+        },
+        {
+          "id": "1262289",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-05-03",
+          "content": "你说的这玩意\n之前就用过，真的连不上网啊"
+        },
+        {
+          "id": "1262299",
+          "replier": {
+            "username": "剑心",
+            "uid": "2533"
+          },
+          "date": "2024-05-03",
+          "content": "@洼地先知:优选ip了吗？"
+        },
+        {
+          "id": "1262301",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-05-03",
+          "content": "@剑心:没\n直接连\n俺还是觉得tor最靠谱, 任何时候都能练得上"
+        },
+        {
+          "id": "1262457",
+          "replier": {
+            "username": "att",
+            "uid": "48379"
+          },
+          "date": "2024-05-03",
+          "content": "@剑心:好像出来不久,时间长了不知道会不会被封"
+        }
+      ]
+    },
+    {
+      "id": "745072",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tiphone翻墙会被抓吗，我一直不敢用苹果系统翻墙。不是说数据都在云上贵州吗。\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1262272",
+          "replier": {
+            "username": "新用户8964",
+            "uid": "128400"
+          },
+          "date": "2024-05-03",
+          "content": "云端数据在云上贵州"
+        },
+        {
+          "id": "1262288",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-05-03",
+          "content": "你注册美国账号，就不会在贵州了"
+        }
+      ]
+    },
+    {
+      "id": "745082",
+      "is_folded": false,
+      "answerer": {
+        "username": "mingzhu",
+        "uid": "115453"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小火箭支持的协议多<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvZTlkMDhlYTgzOWM0Y2U5ZjcxMGYzLmpwZz93aWR0aD01MTImaGVpZ2h0PTUxMg\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/e9d08ea839c4ce9f710f3.jpg?width=512&amp;height=512\"><img alt=\"https://telegra.ph/file/e9d08ea839c4ce9f710f3.jpg?width=512&amp;height=512\" loading=\"lazy\" src=\"https://telegra.ph/file/e9d08ea839c4ce9f710f3.jpg?width=512&amp;height=512\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2024-05-03",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1262287",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-05-03",
+          "content": "开发者是老中\n你敢信？\n哪天出卖你"
+        },
+        {
+          "id": "1262431",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-05-03",
+          "content": "shadowsocks v2ray不都是老中开发的么，而且都被喝茶了"
+        }
+      ]
+    },
+    {
+      "id": "745182",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得买能刷的Android手机比较省钱，能用的软件也更多。\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

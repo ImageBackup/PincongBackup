@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "64649",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "720530",
+      "is_folded": false,
+      "answerer": {
+        "username": "MonikaX",
+        "uid": "97524"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这么说吧，政策变动的挺大的，而且对于每个国家的每个地区也不太一样。举个例子：<br/>\n<ol><li>美国（某些州）：美国的年检政策因州而异，一些州要求进行年度或两年一次的车辆检查，但其他州则没有此要求。例如，得克萨斯州在某些情况下不要求车辆年检。</li><li>加拿大：加拿大的年检政策由各省和地区管理，一些地区要求进行定期年检，而其他地区则没有此要求。例如，萨斯喀彻温省的某些地区不需要车辆年检。</li><li>澳大利亚：澳大利亚的年检要求因州而异，一些州要求车辆进行年度检查，但其他州则没有此要求。例如，维多利亚州的某些车辆在特定条件下不需要年检。</li></ol> </div>",
+      "date": "2024-01-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "720532",
+      "is_folded": false,
+      "answerer": {
+        "username": "grantyang",
+        "uid": "6190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我在澳洲NSW省（包括悉尼），这里新车（出厂车）头五年不需年检（无pink slip需求）。其实需要的年检也比较松弛：基本就是看看轮胎，车灯，引擎等非常基本的状况，几分钟时间。年检花费A$42。\t\t</div>",
+      "date": "2024-01-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

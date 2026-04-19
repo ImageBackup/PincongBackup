@@ -1,0 +1,138 @@
+{
+  "parent_type": "question",
+  "parent_id": "60716",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "678268",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t安全<br/>\n注册应该还是不需要手机号,<br/>\n聊天支持markdown,聊天记录任意设备随意拉取,软件占用空间只有300MB,老手机使用也非常流畅<br/>\n在俺眼里是最理想的聊天软件<br/>\n<br/>\n不知道为什么更多人会去使用一个要手机号的TG来组建群聊\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1198353",
+          "replier": {
+            "username": "Aeona",
+            "uid": "97806"
+          },
+          "date": "2023-08-10",
+          "content": "我也理解不了，可能是因为傻子太多了"
+        }
+      ]
+    },
+    {
+      "id": "678304",
+      "is_folded": false,
+      "answerer": {
+        "username": "打土共分兰兰",
+        "uid": "89718"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tdiscord有腾讯的投资，但主要是财务投资，客户资料泄漏这种级别一般不会发生，发生的话所有社交平台都有这个风险<br/>\n<br/>\nnotion居然是华人背景，还是少放点敏感资料吧\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1198407",
+          "replier": {
+            "username": "小土豆",
+            "uid": "80532"
+          },
+          "date": "2023-08-10",
+          "content": "Notion是写note的那个软件吗？文件存在云端的软件都危险。"
+        },
+        {
+          "id": "1198428",
+          "replier": {
+            "username": "香蕉南波灣",
+            "uid": "45307"
+          },
+          "date": "2023-08-10",
+          "content": "Notion早幾年就有人發現自己的文章會被刪除了，中資就是這麼危險。"
+        },
+        {
+          "id": "1198429",
+          "replier": {
+            "username": "香蕉南波灣",
+            "uid": "45307"
+          },
+          "date": "2023-08-10",
+          "content": "https://dwye.dev/post/notion-privacy-concerns/\n找到了，還在用Notion的我一率視為科技笨蛋"
+        }
+      ]
+    },
+    {
+      "id": "678423",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没有端到端加密，现在让你聊得欢，将来黑客都能让你拉清单。\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678267",
+      "is_folded": false,
+      "answerer": {
+        "username": "Sandbag2885",
+        "uid": "98436"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t任何平台都应该做好个资泄露的准备，所以境内外账号的身份隔离一定要做好。<br/>\n<br/>\n你想问的可能是Discord与中共的背景关系，这个完全不清楚，看后面的朋友吧。\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678323",
+      "is_folded": true,
+      "answerer": {
+        "username": "funnyTaiwan",
+        "uid": "113385"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t沒有用,基本上你現在上品蔥已經被監測到了<br/>\nVPN在怎麼擋只要當地的電信業者改一小段代碼強制抓取你就會被抓\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": -3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1198349",
+          "replier": {
+            "username": "top1357",
+            "uid": "52402"
+          },
+          "date": "2023-08-10",
+          "content": "隨便，抓了還不用去上班呢"
+        },
+        {
+          "id": "1198350",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-08-10",
+          "content": "改一小段代码就能抓?\n你以为搁这玩游戏呢?把那些开发加密/混淆协议的开发者当猴子是吗?"
+        },
+        {
+          "id": "1198402",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-10",
+          "content": "绷不住了，学一点实在的知识吧，vpn的流量是加密过的，有些vpn还是随机加密的，都不知道你用vpn干了什么。。。"
+        }
+      ]
+    }
+  ]
+}

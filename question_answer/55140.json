@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "55140",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "620042",
+      "is_folded": false,
+      "answerer": {
+        "username": "总钻风",
+        "uid": "103468"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是哪家公司？叫什么名字？孙子沈本来就是个大外宣，又是北京官二代，正常\t\t</div>",
+      "date": "2023-01-12",
+      "agree_count": -2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1143870",
+          "replier": {
+            "username": "ibaba",
+            "uid": "53805"
+          },
+          "date": "2023-01-12",
+          "content": "「大外宣」還真是張口就來啊，你當這裡這麼好呼攏？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "parent_type": "question",
+  "parent_id": "61693",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "688307",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGoogle本质是广告商，所谓网络完整性可以帮助他们确定用户画像并投放广告。chrome是自家的，他们要搞自己的产品，没什么搞不成一说。<br/>\n<br/>\n你应该问的是，这么搞了之后，Chrome占有率会不会下降。我倾向于会，不过我本人大概不会在意。因为我会用DNS来阻挡广告。不过我建议如果可能的话，请找到适合你的替代产品，比如Firefox。<br/>\n<br/>\n我自己试过edge，Mac版还行，Windows版非常垃圾，很令人意外。Safari资源占用年年说有突破，我年年试用都有问题。chromium是我用起来感觉最顺手的。\t\t</div>",
+      "date": "2023-09-11",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1207715",
+          "replier": {
+            "username": "hydraxten",
+            "uid": "78237"
+          },
+          "date": "2023-09-11",
+          "content": "我不是内行，但DNS难道不属于这个网络完整性的一部分吗"
+        },
+        {
+          "id": "1207716",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-09-11",
+          "content": "@hydraxten:我也没看，不行就放弃呗，chromium无限接近chrome。"
+        },
+        {
+          "id": "1207718",
+          "replier": {
+            "username": "hydraxten",
+            "uid": "78237"
+          },
+          "date": "2023-09-11",
+          "content": "有消息称chromium也要应用这个体系，这是谷歌自己的开源项目"
+        }
+      ]
+    },
+    {
+      "id": "688306",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t牆外的流量漸漸被封閉的apps而不是開放的https + 域名 + 瀏覽器蠶食，不明白的人想像下，人們接觸的是instagram + telegram + twitter + FB + wts，而不是chrome + google + 網站\t\t</div>",
+      "date": "2023-09-11",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688322",
+      "is_folded": false,
+      "answerer": {
+        "username": "hydraxten",
+        "uid": "78237"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我不完全是内行<br/>\n假设这个功能落实了，网站本身会不会要求你遵循这个网络完整性要求才允许访问，出于网站自己确保访问者在授权的框架内访问的目的，这样一来开源浏览器也没意义了，这可能也是为什么mozilla这样搞开源的公司要反对，可能长远发展并不是用户转向开源浏览器那么简单\t\t</div>",
+      "date": "2023-09-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688320",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t连安卓都有人刷ROM，chrome都不用这么费事，直接转firefox，当然也可以用ungoogled chromium。<br/>\n乔布斯干的坏事，本来网络倾向于web开放，被iphone app给整回去了，google看到手机端这么容易搞垄断，把魔爪掏回web。<br/>\n软件业和国会都需要培养一代新人，一帮坏老头。\t\t</div>",
+      "date": "2023-09-11",
+      "agree_count": -1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1207717",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-09-11",
+          "content": "你可能不知道，乔布斯一开始是希望推web app的，2007年初代iPhone没有sdk, 苹果准备了一大堆web app文档和开发工具。倒是android 从2006年或者更之前就有SDK了。\n但是黑客搞出了非官方iPhone sdk, 苹果就花了一年，弄出来特别基本的sdk。从根本上说，app就是Windows上的exe，按理说应该先有app才有web才对。而且web app拉胯了十年，直到几年前web app网站才稍微能看，但直到现在，用户体验还是被app完爆。\nweb技术说白了就是一堆临时的东西拼凑起来的玩意，javascript这种漏洞百出的语言都被使用了这么多年，成为标准，真不知道乔布斯当年哪儿来的勇气看好web，结果被现实打脸。"
+        }
+      ]
+    }
+  ]
+}

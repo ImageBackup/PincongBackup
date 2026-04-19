@@ -1,0 +1,78 @@
+{
+  "parent_type": "question",
+  "parent_id": "55938",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "629276",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国医生和药店要做测试确认阳性后才给药，而且还有年龄限制，没法冒领——唐人街的无良医生除外。即使能弄到，这属于拿美国纳税人的钱去补贴墙国洼地——而且还只是备用而不是必需，少不了要有葱油喷你。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 5,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1152720",
+          "replier": {
+            "username": "neptunemars",
+            "uid": "51212"
+          },
+          "date": "2023-02-08",
+          "content": "哈哈喷就喷吧。家人健康重要"
+        },
+        {
+          "id": "1152723",
+          "replier": {
+            "username": "pc0609",
+            "uid": "81836"
+          },
+          "date": "2023-02-08",
+          "content": "张文宏说是发病后黄金72小时用药期，所以备用也是必须的吧。等核酸查出阳性，可能已经是发病后的2-3天了"
+        }
+      ]
+    },
+    {
+      "id": "629292",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 既然是處方藥就算了吧, 如有合法途徑入手點給家人吧. 美國納稅人沒義務補貼我們啊, 我住的地方上街一看只有少數人不帶口罩. 唉, 家鄉蠢人多有勇氣的人少啊.\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629277",
+      "is_folded": false,
+      "answerer": {
+        "username": "半场",
+        "uid": "105808"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国内已经全民免疫了，无需开任何药，现在街上咳嗽的也没了，过年前逛街到处都是咳嗽声。<br/>\n感觉放烟花爆竹就是最大的神药，能驱邪。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629310",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没普及，但是网上好像很好买到，因为这一波过峰太快，大家感染的时间差不多，现在身边几乎没有正阳的了，全是阳过的，人性使然，现在买药的人很少<br/>\n<br/>\n带回来主要看成本，低于国内售价（大概2200人民币）就有意义，毕竟第二波早晚来，高了就没意义，回国再买都行\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

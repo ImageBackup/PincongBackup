@@ -1,0 +1,52 @@
+{
+  "question_id": "58881",
+  "category_id": "8",
+  "title": "修改头衔有任何限制吗？",
+  "meta_description": "修改头衔有任何限制吗？ - @打倒匪帮 希望得到这样一个头衔，但是其他管理员在我添加后修改了回去。请问习惯上品葱的头衔有什么规则吗？我没有在规则的帖子中找到它",
+  "meta_keywords": "修改,头衔,限制",
+  "tags": [
+    {
+      "id": "102959",
+      "name": "头衔"
+    }
+  ],
+  "author": {
+    "username": "Nederland",
+    "uid": "73269"
+  },
+  "view_count": 370,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t@打倒匪帮 希望得到这样一个头衔，但是其他管理员在我添加后修改了回去。请问习惯上品葱的头衔有什么规则吗？我没有在规则的帖子中找到它\t\t\t\t\t\t\t</div>",
+  "date": "2023-06-05",
+  "agree_count": 1,
+  "discussion_count": 4,
+  "discussions": [
+    {
+      "id": "1040126",
+      "replier": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "date": "2023-06-05",
+      "content": "@某人临时小号"
+    },
+    {
+      "id": "1040175",
+      "replier": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "date": "2023-06-06",
+      "content": "原则上需要多位管理员同意，否则不加头衔。"
+    },
+    {
+      "id": "1040176",
+      "replier": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "date": "2023-06-06",
+      "content": "@admin:谢谢回答，我以前不知道。\n@打倒匪帮 解释来了"
+    }
+  ],
+  "answer_count": 0
+}

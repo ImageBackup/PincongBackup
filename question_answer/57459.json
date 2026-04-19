@@ -1,0 +1,82 @@
+{
+  "parent_type": "question",
+  "parent_id": "57459",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "646997",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t值得鼓励,其实我们都是编程随想<br/>\n<br/>\n党国的大麻烦开始了\t\t</div>",
+      "date": "2023-04-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646998",
+      "is_folded": false,
+      "answerer": {
+        "username": "penima",
+        "uid": "13424"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t品葱的磨刀石说可能也寄了<br/>\nhttps://pincong.rocks/people/%E7%A3%A8%E5%88%80%E7%9F%B3%E8%AF%B4\t\t</div>",
+      "date": "2023-04-10",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1169234",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-04-10",
+          "content": "他人不是在国外吗"
+        }
+      ]
+    },
+    {
+      "id": "646995",
+      "is_folded": false,
+      "answerer": {
+        "username": "小小小",
+        "uid": "84906"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前有个人写习总日记的也挺逗，但是也断更了，更惨的是博客旧文全没了\t\t</div>",
+      "date": "2023-04-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "647018",
+      "is_folded": false,
+      "answerer": {
+        "username": "格列佛",
+        "uid": "110316"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t留记，很好的科普文，足够打那个 为什么会有人类江湖骗子作者的狗脸了，几万名科学家几百年的 实证对比统计的科学成果，那个江湖骗子一张破逼烂嘴 就轻而易举的否定了，真的欠挨袁世凯的子弹。\t\t</div>",
+      "date": "2023-04-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646336",
+      "is_folded": true,
+      "answerer": {
+        "username": "同人志",
+        "uid": "22020"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-04-08",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

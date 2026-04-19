@@ -1,0 +1,100 @@
+{
+  "parent_type": "question",
+  "parent_id": "61165",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "682736",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t加州批准自动驾驶的出租车在三番上路才两周，已经发生好几次事故了。现在正面临强烈的反弹。<br/>\n<br/>\n这波自动驾驶的热潮主要是深度学习推动的，但是各种证据表明单靠深度学习不足以实现Level 4的自动驾驶，还需要进一步的技术突破才行。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 4,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1202617",
+          "replier": {
+            "username": "感謝習近平",
+            "uid": "100154"
+          },
+          "date": "2023-08-24",
+          "content": "那個好像是Gm的公司 wymo還可以"
+        },
+        {
+          "id": "1202623",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-08-24",
+          "content": "自动驾驶遇到修路立刻傻眼"
+        },
+        {
+          "id": "1202657",
+          "replier": {
+            "username": "反华分子",
+            "uid": "92367"
+          },
+          "date": "2023-08-24",
+          "content": "@Meltdown 请教一下 美帝现役的14艘俄亥俄潜艇潜艇 一艘携带的W88弹头能毁灭中国所有的沿海发达城市吗 这样做会不会很爽 如果中国报复发射巨浪2 美军又能在第一岛链内击沉中国的战略核潜艇吗 或者等它发射了巨浪再拦截"
+        }
+      ]
+    },
+    {
+      "id": "682734",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t前两天刚出过事<br/>\nTesla都不提自动驾驶了 现在坐自动驾驶的就是小白鼠\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682757",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t芯片被美帝卡脖子，别说自动驾驶了，中国就是吹上天的数字威权主义都处于崩溃的边缘。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682792",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国的自动驾驶算法公开了吗？算法所需要的数据公开了码？<br/>\n<br/>\n如果没公开，中国哪来的自动驾驶？\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682740",
+      "is_folded": false,
+      "answerer": {
+        "username": "小米辣",
+        "uid": "115819"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自动驾驶啥时候能成熟，我打算上路了，自动到啥程度算是自动驾驶？\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

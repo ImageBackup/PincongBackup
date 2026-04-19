@@ -1,0 +1,22 @@
+{
+  "article_id": "57871",
+  "category_id": "4",
+  "title": "quic大法好",
+  "meta_description": "quic大法好 - ipv6+quic，doh解决了dns污染问题 发现youtube虽然页面是http/2，但是视频是http/3，也就是直联  部分网站比如Facebook、v2ex都是支持quic，也就是可以直联 其中比较奇怪的是品葱，插件指示器显示是http/3，也能...",
+  "meta_keywords": "quic,大法",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    }
+  ],
+  "author": {
+    "username": "bitcoins",
+    "uid": "89936"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\tipv6+quic，doh解决了dns污染问题<br/>\r\n发现youtube虽然页面是http/2，但是视频是http/3，也就是直联<br/>\n<br/>\r\n部分网站比如Facebook、v2ex都是支持quic，也就是可以直联<br/>\r\n其中比较奇怪的是品葱，插件指示器显示是http/3，也能载入人机验证，但是一直卡在转圈<br/>\n<br/>\r\n按道理，cloudflare的quic验证通过了，品葱也用的cloudflare技术，理论上应该可以顺利访问的\t\t\t\t\t\t\t</div>",
+  "view_count": 4928,
+  "date": "2023-05-05",
+  "agree_count": 1,
+  "comment_count": 1
+}

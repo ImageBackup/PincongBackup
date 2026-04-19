@@ -1,0 +1,59 @@
+{
+  "parent_type": "question",
+  "parent_id": "60742",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "678482",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t目前来看我觉得也不是很现实。因为网络和 APP 是独立的。任何一个 APP 都可以发起网络的请求，而不需要表明自己是什么 APP，网络服务并不关心你是什么 APP 发出的请求。如果要建立这么个审核制度，相当于修改了原来的网络服务的内容。\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678483",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有，买国外的SIM卡或esim卡，就是费用贵、速度慢，忍忍吧，凑合着还能用\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678492",
+      "is_folded": false,
+      "answerer": {
+        "username": "upnext",
+        "uid": "108011"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>&gt;&gt;而不需要表明自己是什么 APP，网络服务并不关心你是什么 APP 发出的请求</blockquote><br/>\n他说的是app安装阶段，<br/>\n类似你在电脑上安装软件，<br/>\n <b>windows安全中心，会弹出一个警告框，”数字证书无效，该软件可能对系统产生安全威胁，确定运行吗“</b><br/>\n然后你强制运行，微软也会让这个软件安装。<br/>\n<br/>\n知乎上看到的解释，app如果需要证书和备案以后，会在安装阶段，进行联网检查证书，<br/>\n检查不通过，反诈中心会不让你执行下一步安装， 而不会向微软这么人性化，你非要不听警告，他也让你运行来路不明的软件。\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678826",
+      "is_folded": false,
+      "answerer": {
+        "username": "chatbox",
+        "uid": "114783"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t单纯的翻墙，可以由路由器或局域网内其他设备提供。<br/>\n这个方案的提出者本身就是个外行，小米屏蔽安装也只是基于该公司能想到的方案来应付上级要求。<br/>\n小米手机和华为步步高不一样，可以刷系统。刷了系统，你想装什么，小米都拦不了你\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

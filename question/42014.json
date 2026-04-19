@@ -1,0 +1,38 @@
+{
+  "question_id": "42014",
+  "category_id": "4",
+  "title": "有个问题我想不通：为什么不直接改变疫苗的mRNA序列来对付变种病毒？",
+  "meta_description": "有个问题我想不通：为什么不直接改变疫苗的mRNA序列来对付变种病毒？ - mRNA疫苗是由病毒的一段mRNA序列（新冠是S蛋白）制成的，目前市面上的疫苗全是基于武汉原始株的序列，所以无法对于Delta变种  但是现在给病毒测序是很快的，Delta变种的mRNA全长序列早就有了，为什么不直接把序列替换进疫苗里面呢？临床试验样本量也...",
+  "meta_keywords": "问题,想不通,直接,改变,疫苗,mrna,序列,对付,变种,病毒",
+  "tags": [
+    {
+      "id": "851",
+      "name": "疫苗"
+    },
+    {
+      "id": "5689",
+      "name": "病毒"
+    }
+  ],
+  "author": {
+    "username": "springwood",
+    "uid": "55321"
+  },
+  "view_count": 9234,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tmRNA疫苗是由病毒的一段mRNA序列（新冠是S蛋白）制成的，目前市面上的疫苗全是基于武汉原始株的序列，所以无法对于Delta变种<br/>\n<br/>\n但是现在给病毒测序是很快的，Delta变种的mRNA全长序列早就有了，为什么不直接把序列替换进疫苗里面呢？临床试验样本量也足够，每天新增病例都是海量数字。\t\t\t\t\t\t\t</div>",
+  "date": "2021-09-23",
+  "agree_count": 1,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1001150",
+      "replier": {
+        "username": "庸俗不堪",
+        "uid": "11730"
+      },
+      "date": "2021-09-23",
+      "content": "哈哈，直接替换序列，种疫苗就成了种病毒。"
+    }
+  ],
+  "answer_count": 13
+}

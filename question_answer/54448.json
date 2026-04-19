@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "54448",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "612579",
+      "is_folded": false,
+      "answerer": {
+        "username": "通商宽衣颐使气指",
+        "uid": "74980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\ttor的原理就是多次切换ip确保用户不被追踪，经常切换ip的账号twitter会识别为机器人\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

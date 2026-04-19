@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "62552",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "697679",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不說話？最近數個網警發帖你沒看着是吧<br/>\n？？？？？？？？？？？？？？\t\t</div>",
+      "date": "2023-10-17",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697753",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAdmin看到我这条回复，麻烦把我账号注销了，直接改成已删除已注销那种，谢谢\t\t</div>",
+      "date": "2023-10-17",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

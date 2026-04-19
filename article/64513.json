@@ -1,0 +1,30 @@
+{
+  "article_id": "64513",
+  "category_id": "6",
+  "title": "我向美国Intel 公司销售电路板与软件",
+  "meta_description": "我向美国Intel 公司销售电路板与软件 - 大约在2010年，美国Intel公司在Arizona 总部的技术人员与我先是通过电子邮件，随后直接通电话联系，希望我的公司（其实只有我自己和太太）为他们在一块我当时销售的视频捕捉/压缩/解压 PCI 电路板上，开发一个满足他们特殊应用要求的软件。从其具体要...",
+  "meta_keywords": "我向,美国,intel,公司,销售,电路板,软件",
+  "tags": [
+    {
+      "id": "106457",
+      "name": "PCI"
+    },
+    {
+      "id": "106458",
+      "name": "电路板"
+    },
+    {
+      "id": "106459",
+      "name": "Intel"
+    }
+  ],
+  "author": {
+    "username": "grantyang",
+    "uid": "6190"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t大约在2010年，美国Intel公司在Arizona 总部的技术人员与我先是通过电子邮件，随后直接通电话联系，希望我的公司（其实只有我自己和太太）为他们在一块我当时销售的视频捕捉/压缩/解压 PCI 电路板上，开发一个满足他们特殊应用要求的软件。从其具体要求上看，我估计对方是要将这个电路板使用在芯片设计过程中矫正某类光源的对准与移动应用。具体应用内容对方没有说，我也没有问。双方签署了开发协议与IP保密条件，开发出来的软件特有功能版权归Intel，我方不得泄露与转让等等。我大约开价3万澳元，6星期的开发时间。其实我自己估计只需少于一半时间就可编好调好软件。<br/>\n<br/>\r\n这是一块我从台湾OEM厂家买来的PCI 电脑插件板，我在生产厂商的基础软件上编写了应用软件及可供应用商再开发的软件开发包SDK，作为搭配软件分别向市场销售。如今网上还有某些残留的该SDK的说明书：<a href=\"url/link/aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL21hbnVhbHppbGxhLWlkLTU4MjA1OTgvcGFnZS8yL21vZGUvMnVw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://archive.org/details/manualzilla-id-5820598/page/2/mode/2up\">https://archive.org/details/manualzilla-id-5820598/page/2/mode/2up</a>。板子加应用软件我们售价澳元$700，二次开发包SDK售价$5500。Intel 之所以找我购买，一是因为我可以方便地为他们开发特殊需要的软件功能作为已有应用软件的扩展附加部分，一是该卡在对输入视频实时压缩录制时，又可同时解压输出模拟视频至电视屏幕 —— 这是一个当时各视频压缩板很少有的功能。我估计Intel 的芯片设计工程师们需要供几个人同时在大电视屏幕上观看某种光源对微小电路器件的操作过程。<br/>\n<br/>\r\n在决定购买我的软件开发与更多PCI板子之前，Intel 已经购买了一两片板子做测试用。双方签协定时，Intel 的人提出要我的公司提供企业的整体年销售金额，大概是想知道我的公司的规模吧？我当时就回邮件拒绝了，说我是私人公司，对外无提供企业经营数据的义务。对方此后也就再未提及此事。<br/>\n<br/>\r\n几星期后我按Intel提供的要求编好了板子应用程序的附加功能，还专门为他们增加了一章应用使用说明，加在原有的应用手册里，但只提供给Intel 购买的板子，不对外公开。软件调试过程对方在试用时也提了一些反馈意见，双方合作挺顺利的。<br/>\n<br/>\r\n软件完成后，Intel 还特别要求我将一块销售给他们的电路板装在一台崭新的电脑里，由他们出钱购买及付航空运费，直接运到Arizona Intel 办公室去了。这主要是因为，一般PCI插件板容易产生与主机板不兼容现象，导致软硬件工作不稳定，他们估计希望有一台我安装配置合适的样机做参考，当时我们用的台式PC使用微软的Windows XP 操作系统，主板是使用Intel 的Pentium CPU。我就按较好的硬件配置给他们装了一台PC，空运到美国去了，临装箱运出前，还特别注意把电脑电源的电压选择播到了110伏特（澳洲是220伏）。<br/>\n<br/>\r\n随后Intel 在Arizona 的办公室陆陆续续又购买了一些这块PCI 板，同时其在哥斯达黎加Costa Rica 及 马来西亚的工厂也陆续购买了一些卡，当然每次都附带我专门编写的软件功能。这样一直持续了有8，9 年的时间。后来由于这块PCI卡的台湾厂商不愿提供Windows 7 的硬件驱动程序，使得该板无法在Windows 7 下运行，才最终作罢。除了最初软件开发外，前前后后Intel 三个不同地理分部大约购买了四十块左右该PCI板。<br/>\n<br/>\r\n现在回想起来Intel 这次购买PCI 卡并未向我索取该硬件的FCC 电磁波辐射标准通过证书，不知是否因为购买的产品只用于他们公司内部使用？ 后来美国Lockheed Martin 澳洲分部向我批量购买同一PCI板子（用于他们自己内部员工视频传送）时，就索要了FCC的证书，幸好台湾生产商有，我就给洛马的采购工程师传过去了。<br/>\n<br/>\r\n参看：<a href=\"https://pincong.rocks/article/64724\" title=\"https://pincong.rocks/article/64724\"><b>在十字路口录制撞车事故现场视频</b></a><br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9wV1NsZVpoLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/pWSleZh.jpg\"><img alt=\"https://i.imgur.com/pWSleZh.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/pWSleZh.jpg\" style=\"max-width:100%\"/></a> </div>",
+  "view_count": 2142,
+  "date": "2023-10-06",
+  "agree_count": 7,
+  "comment_count": 4
+}

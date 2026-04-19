@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "57465",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "646495",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国的刑事案件，不论是审结还是正在审理的，负责案件的警局/检察官办公室/法院通常都能查到。\t\t</div>",
+      "date": "2023-04-08",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

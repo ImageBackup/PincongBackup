@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "57947",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "652020",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我个人认为绝大多数墙人的思想是“等明君”，所谓的换一个人就好了。鼓励他们想象认知范围以外的东西不太可能。\t\t</div>",
+      "date": "2023-05-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652028",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t公民也該出&lt;未來民衆國&gt;小冊子! 不拘政治主張, 只要是想要張有效選票的人, 圖文都歡迎.\t\t</div>",
+      "date": "2023-05-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652003",
+      "is_folded": true,
+      "answerer": {
+        "username": "arnaka",
+        "uid": "94816"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-05-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

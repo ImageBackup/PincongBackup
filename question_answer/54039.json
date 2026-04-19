@@ -1,0 +1,417 @@
+{
+  "parent_type": "question",
+  "parent_id": "54039",
+  "answer_count": 15,
+  "answers": [
+    {
+      "id": "608676",
+      "is_folded": false,
+      "answerer": {
+        "username": "Markus",
+        "uid": "52258"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t简单点说，现在的人工智能就不具备复刻人类大脑运算的软硬件基础，所以当然对现在的AI来说，人类觉得很难得事情它可以很轻松完成，而人类觉得很轻松的事情在它看来无比困难。人类造的科技，和上帝造人从一开始的动机就是不一样的。工具属性是与人类能力互补，而不是重新实现一遍人类的funciton。<br/>\n<br/>\n人造的科技到目前为止都是工具。既然是工具，那主要的目的就有两个：1.实现人类不能实现的事情 （extend ability），2.让人类能实现的事情能更容易，更快地实现 （increase efficiency）。目前的AI是在计算机硅基集成电路上运行的，从集成电路到电脑算法发展至今也全部都是工具。所以在工具逻辑基础上发展出来的现今人工智能也就摆脱不了工具属性的束缚。当然能像上帝一样造人是人类的其中一个远大追求之一，但是上帝造人并不需要人来给他创造利益，而人类造AI是需要能创造利益的。这个动机上的差别是工具思维的一个原因之一，而在人类目前的社会经济文化体系下，是比较难以摆脱的。<br/>\n<br/>\n就说人脑神经元信号传递和处理机制，人脑的神经元传递信息是采用的一种非常复杂的电信号转变成化学信号，从化学信号再转变成电信号的方式。稍微详细一点说，就是每个神经元内部都是电信号，但是到了synapses突触的位置，电信号会控制神经元去释放不同的化学分子结构，比如多巴胺。这些多巴胺传递到下一个神经元的突触位置，被下一个神经元吸收之后，会激活神经元内部不同的电信号传递到下一个突触，再触发下一轮的化学分子释放。这个信号传递和处理方式就和目前的集成电路南辕北辙。底层不同，上层肯定也很难相同。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608733",
+      "is_folded": false,
+      "answerer": {
+        "username": "how",
+        "uid": "86741"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t老哥好（当然您比我大多了），我就是研究robotic manipulation的在读博士生，研究方向是 task and motion planning。不知道能不能想办法加个联系方式（知道不能在这里透露个人信息），日后可以向您请教问题。因为我刚入门，我的一些愚见如下。<br/>\n      机械结构理论上可以做复杂的操作（算法不行，所以做不到），但硬要说其实跟人还是有差距。我觉得，主要在传感系统特别是在皮肤触觉上。人体表面有皮肤，可以感知接触，滑移等等触觉而机器人没有，只能在个别位置加装力传感器，感知到的信息就比人少多多多多了。（我知道有那种柔性电子传感器，可以感知触觉甚至滑移，但目前还不实用，感知能力、安装覆盖范围远远不如人的皮肤）。其余结构例如电机、减速器、连杆等都很成熟了。<br/>\n      就算没有人的皮肤系统，仅有几个六维力传感器，外加RGB-D，激光雷达，双目等等视觉传感器，（也可以加听觉，嗅觉）理论上硬件能满足的任务也非常非常多，但是受制于软件（相当于人的灵魂）目前啥也做不到，因此最大的限制是在软件算法上。<br/>\n     我不确定ChatGPT能否经过图灵测试（我看了好多，说不行，能看出是bot,说话的方式太正经，也就是没有人的感情性)达到之前的弱人工智能标准（或许标准应该修改了）。但是我觉得，这个ChatGPT没有自我意识（aware），它只是一个NLP算法，仅仅能达到自主（autonomous）处理文本数据。人与动物其实都是属于强人工智能，最重要的是，人是首先认知世界，探索世界，形成认知之后进行推理。ChatGPT尽管能写出很强的文字，但它并不认知这个世界，也不能进行推理。它做不到已知推理-》未知，甚至连假设都做不出来（当然能实现已知推理已知或者部分已知，就很厉害了，openAI还是很牛逼的）。所以ChatGPT在模型训练好后也只能干一件事情，干不了其他的（下棋啊 自动导航啊等等），它对这个物理世界没有任何认知。<br/>\n      robotic manipulation需要在物理世界中进行操作，直接与物理世界交互。也就是说，想要做好这个事情，就需要认知这个物理世界，然后进行推理。认知世界这已经到了强人工智能的范围了，其难度就已经远远超过NLP了。我们可以参考人，刚出生的婴儿，需要经过起码三年的学习观察，才能认知这个世界。（人的记忆很少有前三年的，有科学表明这是一种进化过程中，人类产生的自我保护手段，把认知世界时期的混乱记忆删除，只保留结果）。那么机器人想要像人一样在现实世界进行认知、推理、再到manipulation，这只能靠强人工智能了，其难度已经比NLP高出一个级别。<br/>\n      ChatGPT是NLP，也不能代表虚拟智能。（将XXXGPT接入互联网，它也变不成终结者中的天网，因为它没有自我意识）。当然我们研究robotic manipulation可以像研究NLP一样，让robot专精于一件事，即使没有自我意识，也能达到弱人工智能的状态，例如自动驾驶。让manipulator在结构或者半结构化的环境，仅仅只做一件事（就像ChatGPT仅仅从事自然语言处理那样，只做这一件事），我觉得还是能替换不少非常简单的人类劳动力的。（例如送餐 送快递 流水线上抓单个零件 组装 与工人共融就做一道工序等）\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2022-12-09",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1134410",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-10",
+          "content": "你这回答一看就是专业的，比其他动不动就提波士顿动力狗的强多了。关于传感器这个你说的很对，现在机器人是远远不如人的各种sensor复杂精确。但是仅凭现有的视觉、encoder和力传感器，人通过远程操作这些机器人同样能完成复杂的任务。所以关键的确就在算法上。物理操作不确定性太多而且数据维度太大还是time dependent，更需要实时的力控制，比如拧螺丝时候螺丝口有点豁了，这时候就需要非同寻常的精细的力控制，不同的螺丝口豁的程度千差万别。人对于各种没见过的东西试几次就能迅速找到感觉。而机器人只根据预设的算法、已有的数据，根本达不到这种能力。我以前一个同事就在研究一种“筷子机器人”。他就是想刨去复杂的机械手的设计和kinematics，把重点放在manipulation的智能控制算法上，因为只要有像人一样的智慧，用两根简单的筷子都能做很多复杂的操作。"
+        },
+        {
+          "id": "1134414",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-10",
+          "content": "现在的manipulation的研究，全都是task specific的，只干一件事，而且即使这样还必须加很多限制条件，否则各种没见过的不确定性会让算法成为垃圾。而且据我在工业界的观察：这些物理层面带AI的contact-rich manipulation算法根本没有任何能应用的，全都只是paper而已。"
+        },
+        {
+          "id": "1134416",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2022-12-10",
+          "content": "这玩意儿绝对不可能过图灵测试啊，而且说实话它的人类语言输出都是依靠英译，而且词汇和语法组织都只是依靠谷歌翻译。谷歌翻译没有词库的语言他都没法处理，这里我想喷谷歌的就是维吾尔语都有5年了，居然到现在都不支持藏语…."
+        }
+      ]
+    },
+    {
+      "id": "608356",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS92bEw0OW50LnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/vlL49nt.png\"><img alt=\"https://i.imgur.com/vlL49nt.png\" loading=\"lazy\" src=\"https://i.imgur.com/vlL49nt.png\" style=\"max-width:100%\"/></a><br/>\n<br/>\nIn the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608331",
+      "is_folded": false,
+      "answerer": {
+        "username": "jsfdhjdshghg",
+        "uid": "73263"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t纯粹就是一个数据量的问题，机器人领域没有那么多数据，或者说压根没办法收集数据。reinforcement learning本质是在设定的环境和规则内产生数据，但这种数据是有限而且非常难以generalizable的，需要各种可能的环境下生成这些action的数据才能解决这个问题。这些环境无法枚举，只能经历过不停试错才能得到。<br/>\n<br/>\nNLP反而没有这些问题，因为可以直接把明网的页面全扒下来学习。chatGPT就是一个学习了全部互联网知识的模型，但它仍然不是active agent，无法自我探索。深度学习一直都是拼算力资源和数据的学科，一切深度学习的研究都是因为算力和数据不够。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 6,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1133985",
+          "replier": {
+            "username": "powerrrrr",
+            "uid": "93715"
+          },
+          "date": "2022-12-08",
+          "content": "原理还是以前的原理，东西还是以前的东西，优化了一些细节。。当然最重要的是——力大砖飞，大力出奇迹"
+        },
+        {
+          "id": "1133986",
+          "replier": {
+            "username": "jsfdhjdshghg",
+            "uid": "73263"
+          },
+          "date": "2022-12-08",
+          "content": "@powerrrrr:原理早就知道了，只要节点够多人工神经网络可以拟合任意函数，这就说明堆数据和算力的方式有用，但这种方式终究是做不出真AI的，只能在NLP这种超大数据量的问题上跑一跑，没数据还是学不来，除非这些数据里本身包含了人类已知的所有能力，包括如何叠衣服"
+        },
+        {
+          "id": "1133998",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-08",
+          "content": "机器人物理控制的数据其实也非常多了，但是根本达不到任何智能级别的控制。因为物理数据的维度巨大而且跟时间相关，实际情况还有太多不同的不确定性。最重要的是物理操作需要极高的精确性，不能容忍哪怕千分之一的失误。而虚拟智能只要大部分情况下给出一个make sense的答案就可以了。至于你说的那个节点足够多就可以拟合任何东西这个基本定理，早就是上个世纪的产物了，是一个存在性定理，相当于没说一样，并不是具体实现的方法。我倒是觉得物理智能需要像生物进化那样的算法，模拟亿万年生物的演化和人类的进化才有可能实现。"
+        }
+      ]
+    },
+    {
+      "id": "608329",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t实际能见到的，就是饭店里的送菜机器人。<br/>\n<br/>\nAI在虚拟领域里各种的神奇，现实上又没什么用。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608284",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人類疊衣服也需要練習，你又不是出生就會疊衣服的<br/>\n5歲小孩可能連疊衣服都歪歪扭扭，3歲可能連控制蠟筆的能力都沒有<br/>\n你現在做的很輕鬆的事情，你以前也練習過<br/>\n不像解數學題，想一想就行了\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 4,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1133943",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-08",
+          "content": "Reinforcement learning让机器人学习各种task 这种事情学术界工业界早就玩烂了，大量的paper。结果还是一坨屎啥都不行。我就是搞这行的，再清楚不过了"
+        },
+        {
+          "id": "1133945",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-08",
+          "content": "解数学题不学不练你能想一想就解出来？这个chatgpt也是用reinforcement learning学习的"
+        },
+        {
+          "id": "1133953",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2022-12-08",
+          "content": "@UAV: Reinforcement learning我也玩過\n人類解數學題要練習，是因為沒有理解。理解了以後就想一想的事啊？\n說話也是一樣的，你學會說話那會時間不也寫字歪歪扭扭"
+        },
+        {
+          "id": "1134013",
+          "replier": {
+            "username": "ooo0o0000",
+            "uid": "31045"
+          },
+          "date": "2022-12-08",
+          "content": "人类的婴儿是因为头部过大，不得不在基本能力发育完整之前出生，所以出生之后缺乏独立行动能力。你看其他哺乳动物就不是如此，出生几分钟之内就能如同成年个体一样行动。"
+        },
+        {
+          "id": "1134318",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2022-12-09",
+          "content": "@ooo0o0000:這真的要看，一般而言羚羊斑馬這種食物會比較早熟，貓狗這種獵食者一個月大時也搖搖晃晃的。一個月大走路搖搖晃晃的小奶貓超可愛\n生物因為自然演化天生適應物理上的行動，而且本來進步速度就比AI快，就算這樣也是很難的。你看阿法狗那種AI練習多少局才能和人打？"
+        }
+      ]
+    },
+    {
+      "id": "608366",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谁说物理智能不行的，看看Boston dynamic的机器狗和机器人，很多动作和真人真狗别无二致。<br/>\n物理智能不流行主要是由于成本，高精度电机和精密机械元件的成本降不下来，所以只有专业行业才有使用，而且容易军事化这点也让各国政府的管制保守，影响了行业的发展。<br/>\n<br/>\n虚拟智能由于光刻工艺降低成本很容易，并且更偏向娱乐业受监管也少。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1134092",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-09",
+          "content": "波士顿动力那个严格来讲不叫物理智能，因为那里面几乎没有AI算法，只是运动层面的控制。我之前上课就经常给学生这样讲：像波士顿动力做的机器人叫locomotion（移动），难度比机械手的manipulation（操作）低了好几个量级。你可以这样想：地球上所有动物都会locomotion（有的会飞有的会跑有的会游），但是只有人会manipulation。因为会制造和使用工具是人区别于动物的本质，这也是机器人最大的挑战。"
+        },
+        {
+          "id": "1134268",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2022-12-09",
+          "content": "@UAV:哪里来的移动不需要智能的观点？不是自己专精的领域就不要随意诋毁。从动物界看，人类的小脑并没有比动物发达。"
+        },
+        {
+          "id": "1134288",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-09",
+          "content": "@elsaanna:我自己就是搞机器人的，各种locomotion和manipulation的机器人都做过，还是国际著名杂志的编委美国nsf相关的panel都呆过很多次了。还什么这不是我专精的领域不要随意诋毁？？locomotion需要的智能比manipulation低太多这是学术界公认的事实"
+        }
+      ]
+    },
+    {
+      "id": "608383",
+      "is_folded": false,
+      "answerer": {
+        "username": "老帅哥",
+        "uid": "52496"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t科技看似在帮助人类<br/>\n可是实际上人类的机能却退化了<br/>\n对比野生动物的体能，人类基本就是废物<br/>\n甚至对比几百年前的人类，体能都是下降的<br/>\n现在的人工智能，可以预见未来将让人类的智力也退化<br/>\n估计以后人类就剩下一张吃饭的嘴和性生活的器官，维持这两个最后的欲望\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134259",
+          "replier": {
+            "username": "大美利坚总统拜登",
+            "uid": "21731"
+          },
+          "date": "2022-12-09",
+          "content": "难道不是一颗大脑泡在营养液里?食色什么的，给大脑细胞一个刺激就能满足。"
+        }
+      ]
+    },
+    {
+      "id": "608289",
+      "is_folded": false,
+      "answerer": {
+        "username": "习近平会连任吗",
+        "uid": "73202"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你让数学天才口算一下微分几何的最终解，你看他能不能口算出来，ai本身就是计算机的范畴，跟机器人没有可比性。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1133947",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-08",
+          "content": "学术界和工业界早就把ai的各种学习算法用到机器人的物理操作上了，毕竟都是跟learning有关。可惜效果不行。因为物理操作需要在各种未知不确定性的情况下达到极高的精确性，不能容忍哪怕千分之一的失误。而虚拟智能大部分时候能给出还凑合的答案就行了"
+        },
+        {
+          "id": "1133949",
+          "replier": {
+            "username": "习近平会连任吗",
+            "uid": "73202"
+          },
+          "date": "2022-12-08",
+          "content": "@UAV:最终肯定是要结合的，谁也想要一个电影里的机器人管家，但是目前科技就这个水平。"
+        }
+      ]
+    },
+    {
+      "id": "608372",
+      "is_folded": false,
+      "answerer": {
+        "username": "StreamBuffer",
+        "uid": "104937"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t感覺相當於一個搜索引擎，不能實現第二層的業務邏輯，暫時還替代不了程序員<br/>\n<br/>\n對中文不是很友好\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608353",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t叠衣服那个已经有机器了，https://www.designboom.com/technology/foldimate-folding-clothes-machine-01-07-2019/\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1134015",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-08",
+          "content": "这是简单的机器，就跟洗碗机一样，不是机器人。而且它也根本没法把洗衣机和烘干机里缠成一团的衣服摘开，这种活才是必不可少的"
+        },
+        {
+          "id": "1134302",
+          "replier": {
+            "username": "zhengyi",
+            "uid": "1766"
+          },
+          "date": "2022-12-09",
+          "content": "我记得这个叠衣服机器人能花一整天时间"
+        }
+      ]
+    },
+    {
+      "id": "608379",
+      "is_folded": false,
+      "answerer": {
+        "username": "我送近平上西天",
+        "uid": "13149"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因為認知科學中大腦中的邏輯思考功能是最易解釋出來的，因為多數人即使沒有學過認知科學也可以講出自己整個思考的思路<br/>\n<br/>\n一些被動的無意識的功能次之，例如人面識別 物件識別，一個沒有學過認知科學無法講出自己的大腦是如何認得出人面<br/>\n<br/>\n<br/>\n再往下到小腦（也就是你說物理層面的動作）的東西更複雜。因為關係到人類腦部以外的身體部分，但是機器人的身體物理結構和人類根本不同。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608382",
+      "is_folded": false,
+      "answerer": {
+        "username": "约定的世界岛",
+        "uid": "2101"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人造物 不可能 智能， 计算机也没有自由意志，半导体芯片，生物的大脑都一样没法 智能 <br/>\n<br/>\n机器翻译再向前多进步一点，看个日综或漫画不用求字幕组就行了\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608296",
+      "is_folded": true,
+      "answerer": {
+        "username": "做点什么吧",
+        "uid": "103484"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2022-12-08",
+      "agree_count": 9,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1133957",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-08",
+          "content": "跟机械工程没有太大关系。如果让人远程遥控操纵机械手，那么现在的技术完全可以实现打扫厕所，叠衣服之类的家务，只不过比人亲自干要慢。但是让同样的一台机器人自己做就完全抓瞎，什么都做不出来。因此机械方面是没问题的，差的就是智能"
+        },
+        {
+          "id": "1134025",
+          "replier": {
+            "username": "做点什么吧",
+            "uid": "103484"
+          },
+          "date": "2022-12-08",
+          "content": "已删除"
+        },
+        {
+          "id": "1134088",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2022-12-09",
+          "content": "@做点什么吧:工业机器人上个世纪就成熟了。因为几乎没有智能，走的都是预设好的轨迹，因为工厂生产线上几乎没有不确定性。因此工业机器人只是简单的运动控制技术，不在我讨论的“机器人”范围内。而人类日常生活中不确定性太复杂了，无法使用工业机器人那样预设的轨迹。"
+        },
+        {
+          "id": "1134124",
+          "replier": {
+            "username": "做点什么吧",
+            "uid": "103484"
+          },
+          "date": "2022-12-09",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "629563",
+      "is_folded": true,
+      "answerer": {
+        "username": "Wingtoo",
+        "uid": "78584"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

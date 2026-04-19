@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "59184",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "663407",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我就问一句：网易注册用户账号是否都要绑定+86手机号，如果绑定了那和裸奔有啥区别。<br/>\n<br/>\n据我所知小红书是不用绑定 +86手机号的，境外不实名的手机号也可以，反而还安全\t\t</div>",
+      "date": "2023-06-17",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1184905",
+          "replier": {
+            "username": "一口毒奶",
+            "uid": "12413"
+          },
+          "date": "2023-06-17",
+          "content": "如果只看不评论是不需要绑定手机号的，好像点赞也不需要绑定。"
+        }
+      ]
+    }
+  ]
+}

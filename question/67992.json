@@ -1,0 +1,123 @@
+{
+  "question_id": "67992",
+  "category_id": "7",
+  "title": "美国实行联邦制，是不是美国各州也实行联邦制？",
+  "meta_description": "美国实行联邦制，是不是美国各州也实行联邦制？ - 如果是，请帮我找出文件。英语我看不懂但是我可以用ChatGPT。我自己在谷歌上没查到资料",
+  "meta_keywords": "美国,实行,联邦制,是不是,各州",
+  "tags": [
+    {
+      "id": "253",
+      "name": "姨学"
+    },
+    {
+      "id": "692",
+      "name": "分裂"
+    },
+    {
+      "id": "1340",
+      "name": "联邦制"
+    }
+  ],
+  "author": {
+    "username": "shijiaqing",
+    "uid": "80186"
+  },
+  "view_count": 2266,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t如果是，请帮我找出文件。英语我看不懂但是我可以用ChatGPT。我自己在谷歌上没查到资料\t\t\t\t\t\t\t</div>",
+  "date": "2024-06-18",
+  "agree_count": 0,
+  "discussion_count": 10,
+  "discussions": [
+    {
+      "id": "1061738",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2024-06-18",
+      "content": "不是，州本身并非联邦制。"
+    },
+    {
+      "id": "1061739",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2024-06-18",
+      "content": "更具体的说，各州自身的法律差异极大，除了共同遵守联邦宪法和联邦法律以外并无任何共同点。\n比如法律体系，美国路易斯安那州和加拿大魁北克省用的是罗马法系，而美国和加拿大其他州省都是英美普通法系。这是因为路易斯安那州和魁北克省的法国统治残留。\n比如美国的总统选举，内布拉斯加和缅因州对于选举人产生的方法就和其他州不同，不是州范围内赢家通吃，而是在联邦众议员选区内以及全州范围内分别按赢家通吃法选出选举人。\n换句话说，虽然州并非联邦制，但是通过州法律的设计，可以实现出等效于联邦制的效果。"
+    },
+    {
+      "id": "1061740",
+      "replier": {
+        "username": "shijiaqing",
+        "uid": "80186"
+      },
+      "date": "2024-06-18",
+      "content": "@rowlandheights:请解释最后一段话"
+    },
+    {
+      "id": "1061741",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2024-06-18",
+      "content": "@shijiaqing:比如州宪法可以这样写\n本州所有议员由州内各郡选出\n本州政府成员由各郡选出\n总之可以类比联邦和州的关系，映射到州和郡的关系上"
+    },
+    {
+      "id": "1061742",
+      "replier": {
+        "username": "shijiaqing",
+        "uid": "80186"
+      },
+      "date": "2024-06-18",
+      "content": "@rowlandheights:类似是不是部分郡也可以实行联邦制，映射到郡和市的关系，然后部分市也实行联邦制，映射到市和县的关系"
+    },
+    {
+      "id": "1061743",
+      "replier": {
+        "username": "shijiaqing",
+        "uid": "80186"
+      },
+      "date": "2024-06-18",
+      "content": "@rowlandheights:那请问为什么州没办法自称联邦制呢"
+    },
+    {
+      "id": "1061744",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2024-06-18",
+      "content": "@shijiaqing:这你就不懂了，美帝是联邦州郡三级，郡=县，郡>市\n当然也有相反的情况，比如某些郡实现了郡市合一，郡=市，纽约五都，市>郡，纽约市的五个郡实际上已经失去了政治实体，合体为纽约市政厅。"
+    },
+    {
+      "id": "1061746",
+      "replier": {
+        "username": "shijiaqing",
+        "uid": "80186"
+      },
+      "date": "2024-06-18",
+      "content": "@rowlandheights:请问美国有比市还小的行政单位吗"
+    },
+    {
+      "id": "1061748",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2024-06-18",
+      "content": "@shijiaqing:有town, village等等小的行政单位\n但是这些行政单位都不固定的，只有联邦郡县三级是固定的，而且郡下属的地区不一定都有市，有市也不一定能管郡的很多地区。\n不要拿天朝的四级制度套美帝的三级制度，会错配的，美帝的郡介于天朝的地级市和县级行政区划之间。总体上偏向于县级行政区的面积。中美面积相仿，中国有三千多个县级行政区，美国有三千多个郡级行政单位。"
+    },
+    {
+      "id": "1061752",
+      "replier": {
+        "username": "shijiaqing",
+        "uid": "80186"
+      },
+      "date": "2024-06-18",
+      "content": "@rowlandheights:3Q"
+    }
+  ],
+  "answer_count": 7
+}

@@ -1,0 +1,101 @@
+{
+  "parent_type": "question",
+  "parent_id": "59590",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "667382",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t马斯克早说他羡慕微信了，不过推特这样做美国人也不告他吗？\t\t</div>",
+      "date": "2023-07-03",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "667424",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t马斯克真是个“天才”！自从国会山事件后，几年的瞎搞删帖封号控评都没有搞垮推特，自从马斯克买下推特后，先大裁员，再搞会员和限流，这才瞎搞几天推特看上去就快完蛋了。<br/>\n我觉得这只能解释为马斯克和推特有仇，买下推特就是打算橄榄这个平台，否则实在解释不了他的行为。\t\t</div>",
+      "date": "2023-07-03",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "667370",
+      "is_folded": false,
+      "answerer": {
+        "username": "黄鹤楼",
+        "uid": "100751"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谷歌作恶不少，我希望它早点挂。谷歌一直替DS屏蔽特定内容，妥妥的白左，沼泽地马仔。\t\t</div>",
+      "date": "2023-07-03",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1189040",
+          "replier": {
+            "username": "愛自由愛民主",
+            "uid": "74235"
+          },
+          "date": "2023-07-03",
+          "content": "你是黨工部來的吧。比起百度作惡的數，谷歌算的了什麼？"
+        }
+      ]
+    },
+    {
+      "id": "669445",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t马斯克访问完中国之后突然开窍了。是不是习总给他灌输了正能量\t\t</div>",
+      "date": "2023-07-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "667390",
+      "is_folded": false,
+      "answerer": {
+        "username": "愛自由愛民主",
+        "uid": "74235"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t馬斯克自己說過的：防止惡意爬蟲海量抓取推特用戶信息。這位貼主難道是只會用下半身思考問題嗎？\t\t</div>",
+      "date": "2023-07-03",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1189087",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-07-03",
+          "content": "不让抓取信息，那我一个外人怎么知道推特上发生了什么"
+        },
+        {
+          "id": "1190682",
+          "replier": {
+            "username": "愛自由愛民主",
+            "uid": "74235"
+          },
+          "date": "2023-07-10",
+          "content": "@rowlandheights:你就不會用關鍵詞搜索嗎？"
+        }
+      ]
+    }
+  ]
+}

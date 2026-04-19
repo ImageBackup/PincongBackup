@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "65258",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "726838",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t老外的医学水平你当开玩笑的，一解刨必然知道怎么回事，毒死梅西对共产党没什么好处，何必干这种事呢？\t\t</div>",
+      "date": "2024-02-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "726837",
+      "is_folded": true,
+      "answerer": {
+        "username": "雨落",
+        "uid": "117639"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

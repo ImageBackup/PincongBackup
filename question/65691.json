@@ -1,0 +1,137 @@
+{
+  "question_id": "65691",
+  "category_id": "4",
+  "title": "有匿名邮箱推荐么？",
+  "meta_description": "有匿名邮箱推荐么？ - 请问下葱油们，是否有匿名邮箱推荐？最好是有多方面加密的，但也要易用，打算把国内的邮箱全部换成加密匿名邮箱了。",
+  "meta_keywords": "匿名,邮箱,推荐",
+  "tags": [
+    {
+      "id": "1019",
+      "name": "邮箱"
+    },
+    {
+      "id": "1993",
+      "name": "匿名"
+    }
+  ],
+  "author": {
+    "username": "爱喝可乐阿",
+    "uid": "122479"
+  },
+  "view_count": 7379,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t请问下葱油们，是否有匿名邮箱推荐？最好是有多方面加密的，但也要易用，打算把国内的邮箱全部换成加密匿名邮箱了。\t\t\t\t\t\t\t</div>",
+  "date": "2024-03-01",
+  "agree_count": 3,
+  "discussion_count": 12,
+  "discussions": [
+    {
+      "id": "1056324",
+      "replier": {
+        "username": "lyyzandy",
+        "uid": "16137"
+      },
+      "date": "2024-03-02",
+      "content": "protonmail"
+    },
+    {
+      "id": "1056326",
+      "replier": {
+        "username": "WildYak8964",
+        "uid": "121713"
+      },
+      "date": "2024-03-02",
+      "content": "protonmail也可以，只不过我用的tutanota也是一款完全匿名且免费的（前提是你不升级的情况下）"
+    },
+    {
+      "id": "1056443",
+      "replier": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "date": "2024-03-04",
+      "content": "@WildYak8964:我的tutamail已经被封了好几个了"
+    },
+    {
+      "id": "1056460",
+      "replier": {
+        "username": "WildYak8964",
+        "uid": "121713"
+      },
+      "date": "2024-03-04",
+      "content": "@pctrk7915:还会被封吗？是因为什么？没买升级？"
+    },
+    {
+      "id": "1056462",
+      "replier": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "date": "2024-03-04",
+      "content": "@WildYak8964:已经彻底没有账户了，买不了，只接受外币"
+    },
+    {
+      "id": "1056507",
+      "replier": {
+        "username": "WildYak8964",
+        "uid": "121713"
+      },
+      "date": "2024-03-05",
+      "content": "@pctrk7915:我用了很久还没被封过"
+    },
+    {
+      "id": "1056767",
+      "replier": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "date": "2024-03-11",
+      "content": "@WildYak8964:今天注册，又封，都不知道得罪谁了？！"
+    },
+    {
+      "id": "1056770",
+      "replier": {
+        "username": "WildYak8964",
+        "uid": "121713"
+      },
+      "date": "2024-03-11",
+      "content": "@pctrk7915:啊？不行的话你换一个吧，换Protonmail试一试吧，我的tutanota没有一点问题诶🙁"
+    },
+    {
+      "id": "1056771",
+      "replier": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "date": "2024-03-11",
+      "content": "@WildYak8964:Protonmail有3个了，不过好像不好用，其匿名性不如tutamail"
+    },
+    {
+      "id": "1056780",
+      "replier": {
+        "username": "WildYak8964",
+        "uid": "121713"
+      },
+      "date": "2024-03-11",
+      "content": "@pctrk7915:你是什么客户端？我用的tutanota分别是安卓和Windows PC 没出过任何问题啊😲"
+    },
+    {
+      "id": "1056799",
+      "replier": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "date": "2024-03-11",
+      "content": "@WildYak8964:网页版的，在Chrome上使用"
+    },
+    {
+      "id": "1056849",
+      "replier": {
+        "username": "WildYak8964",
+        "uid": "121713"
+      },
+      "date": "2024-03-12",
+      "content": "@pctrk7915:可能和你的VPN有关系，建议下载，PC桌面端。我就是下载的实体应用，把密码牢记在脑子里，就行了"
+    }
+  ],
+  "answer_count": 7
+}

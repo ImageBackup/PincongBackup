@@ -1,0 +1,89 @@
+{
+  "parent_type": "question",
+  "parent_id": "67565",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "750398",
+      "is_folded": false,
+      "answerer": {
+        "username": "rampage",
+        "uid": "123646"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t火基本上都是红色的，冬天自然需要火，而红色看起来让人感觉温暖。<br/>\n超人还穿红内裤呢。\t\t</div>",
+      "date": "2024-05-27",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1267903",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2024-05-27",
+          "content": "啊火焰不大部分还是黄色只有外焰是红色吗"
+        }
+      ]
+    },
+    {
+      "id": "750403",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个问题应该让波兰人回答：圣诞节的代表色一般是绿色、红色和白色，其中前两种颜色象征着Yule（中文好像叫常绿树？）的针叶和果实的颜色，白色象征着冬天的雪。\t\t</div>",
+      "date": "2024-05-27",
+      "agree_count": 0,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1267915",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2024-05-27",
+          "content": "那基督教世界的三色也都是来源于\nYule吗"
+        },
+        {
+          "id": "1267917",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-05-27",
+          "content": "@平疫禁人忍民领袖:不好意思，可以解释一下这个问题吗？"
+        },
+        {
+          "id": "1267919",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2024-05-28",
+          "content": "@Nederland:就是比方说西欧圣诞节的代表色也是像波兰一样来源于Yule这种树和冰雪吗？"
+        },
+        {
+          "id": "1267920",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-05-28",
+          "content": "@平疫禁人忍民领袖:我搜索了一下，你说的这个概念应当是部分人的解读，西方的大众是不了解的（谈到黑色不好，白色好，这部分应该是所有文化共有的吧，我猜？就像在中国应该也是），而且圣经里面对颜色的比喻是很多的，不是就这三种哦。"
+        },
+        {
+          "id": "1267921",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-05-28",
+          "content": "@平疫禁人忍民领袖:Yes，西欧和波兰的文化是连续的，很多传统是一样的。"
+        }
+      ]
+    }
+  ]
+}

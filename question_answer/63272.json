@@ -1,0 +1,93 @@
+{
+  "parent_type": "question",
+  "parent_id": "63272",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "706036",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tdocker hub上面有，有Web UI的。<br/>\nhttps://hub.docker.com/r/xijinping615/xi-jinping-tts<br/>\n<br/>\ndocker:<br/>\n<pre>运行<br/>\ndocker run --rm -it -p 8501:8501 xijinping615/xi-jinping-tts</pre><br/>\n<br/>\npodman:<br/>\n<pre>podman run -it -p 8501:8501 --rm \\<br/>\n--network 'slirp4netns:allow_host_loopback=true,outbound_addr=127.0.0.1,enable_ipv6=false' \\<br/>\ndocker.io/xijinping615/xi-jinping-tts</pre><br/>\n<br/>\n启动之后在浏览器里打开 http://127.0.0.1:8501/<br/>\n顺便问一下你说的一大堆不能用指的是哪些，怎么个不能用法？\t\t</div>",
+      "date": "2023-11-16",
+      "agree_count": 2,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1225880",
+          "replier": {
+            "username": "孤弱",
+            "uid": "118827"
+          },
+          "date": "2023-11-16",
+          "content": "有没有和以前那个一样不用那么繁琐操作直接就能用的"
+        },
+        {
+          "id": "1225998",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2023-11-17",
+          "content": "@孤弱: 🤔这个很简单了吧，在很多linux发行版上就一句命令装docker或podman，然后一句命令启动（下载的过程也合在里面了）;windows上运行了安装包后点点点，然后运行两句命令就完了。我觉得用别人部署好的网站不能保护隐私，这种大小的模型不可能在浏览器里推理的，推理肯定是在别人的服务器上进行的。"
+        },
+        {
+          "id": "1225999",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2023-11-17",
+          "content": "@孤弱: 你如果安装遇到什么困难，直接在这里问吧。"
+        },
+        {
+          "id": "1226025",
+          "replier": {
+            "username": "小魔女",
+            "uid": "92406"
+          },
+          "date": "2023-11-17",
+          "content": "@Streptopelia:估计第一问就是点击哪里下载😄"
+        },
+        {
+          "id": "1230246",
+          "replier": {
+            "username": "孤弱",
+            "uid": "118827"
+          },
+          "date": "2023-12-05",
+          "content": "@Streptopelia:为什么非得给需要一大串代码的没有直接打开就能用的吗"
+        },
+        {
+          "id": "1230519",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2023-12-06",
+          "content": "@孤弱: 以前有是因为作者在Hugging Face放了个demo才有的，现在没了就是没了，你想弄也可以传一个上去。"
+        },
+        {
+          "id": "1230524",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2023-12-06",
+          "content": "不过现在Hugging Face好像不允许放习近平相关的模型了，要传得去别处。"
+        },
+        {
+          "id": "1285594",
+          "replier": {
+            "username": "孤弱",
+            "uid": "118827"
+          },
+          "date": "2024-08-23",
+          "content": "@Streptopelia:那种网页打开就能用的习近平语音ai为什么会被封？难道又是中共外宣搞得？"
+        }
+      ]
+    }
+  ]
+}

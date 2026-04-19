@@ -1,0 +1,42 @@
+{
+  "question_id": "51810",
+  "category_id": "8",
+  "title": "品葱现在不能被互联网档案馆存档了吗？",
+  "meta_description": "品葱现在不能被互联网档案馆存档了吗？ - 因为我有随手保存的习惯，都拜习皇搞文字狱所赐，不管墙内外，看到帖子都会习惯性的存互联网档案馆，或者随手截图保存，谁知道哪天会不会就突然消失了。  但是最近 [url=https://web.archive.org/]web.archive.org[/url...",
+  "meta_keywords": "品葱,现在,能被,互联网,档案馆,存档",
+  "tags": [
+    {
+      "id": "113",
+      "name": "品葱备份"
+    },
+    {
+      "id": "153",
+      "name": "品葱"
+    },
+    {
+      "id": "3308",
+      "name": "CloudFlare"
+    }
+  ],
+  "author": {
+    "username": "肖战嗦习维尼牛子",
+    "uid": "84670"
+  },
+  "view_count": 2283,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t因为我有随手保存的习惯，都拜习皇搞文字狱所赐，不管墙内外，看到帖子都会习惯性的存互联网档案馆，或者随手截图保存，谁知道哪天会不会就突然消失了。<br/>\n<br/>\n但是最近 <a href=\"url/link/aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://web.archive.org/\">web.archive.org</a> 的浏览器插件一直无法使用，一保存就403，看样子是被Cloudflare的五秒盾拦下了。<br/>\n<br/>\n电脑已经全局代理+虚拟机隔离，除了延迟外，模拟的都是国外环境，和我本地网络问题应该无关。<br/>\n<br/>\n这些是它家的IP段，或许在CF上放行可以解决？<br/>\nAS7941 Internet Archive<br/>\n<br/>\n207.241.224.0/20<br/>\n208.70.24.0/21<br/>\n2620:0:9c0::/48<br/>\n<br/>\n错误截图：<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvMzU2NjIwNzM4NDIyMWVlNmNlYTJlLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/3566207384221ee6cea2e.png\"><img alt=\"https://telegra.ph/file/3566207384221ee6cea2e.png\" loading=\"lazy\" src=\"https://telegra.ph/file/3566207384221ee6cea2e.png\" style=\"max-width:100%\"/></a><br/>\n试图保存的帖子是 <a href=\"https://pincong.rocks/question/50606\" title=\"https://pincong.rocks/question/50606\">如何看待彭载舟勇士的《罢课罢工罢免习近平攻略》？</a><br/>\n<br/>\n顺便题外话一下<br/>\n保存是作为应对网站失联的预案，关键时刻会很有用，我也不希望一些默默无闻的反贼的精华文章消失在历史的长河里。<br/>\n同时也给各位安利下他家的浏览器插件，随手保存各种网页，以作为备份，网页404了去里面说不准还能翻到。<br/>\n不过知乎好像有办法阻止这个，如果原帖404了，存档的在加载完毕后也会404，在完成前停止加载就可以看了，应该是用了什么js脚本，有大佬破解吗？\t\t\t\t\t\t\t</div>",
+  "date": "2022-10-27",
+  "agree_count": 1,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1023987",
+      "replier": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "date": "2022-10-27",
+      "content": "感谢反馈，已经修复。"
+    }
+  ],
+  "answer_count": 1
+}

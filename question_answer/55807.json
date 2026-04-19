@@ -1,0 +1,66 @@
+{
+  "parent_type": "question",
+  "parent_id": "55807",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "627577",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t亚洲国家普遍偏高了。日本韩国应该在7-7.5，台湾8，印度6，印尼5，新加坡4，朝鲜0.1<br/>\n中国经过习包子一顿倒车现在不应该高于1。香港要跌到3了。沙特应该低于中国高于阿富汗，君主专制瓦哈比有什么好说的。<br/>\n中国，朝鲜，阿富汗，沙特，文莱，缅甸，叙利亚，厄立特里亚，赤道几内亚，土库曼斯坦可以角逐一下全世界最不民主国家前十名\t\t</div>",
+      "date": "2023-02-03",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1151845",
+          "replier": {
+            "username": "毛病导致恶习",
+            "uid": "104995"
+          },
+          "date": "2023-02-06",
+          "content": "朝鲜虽然极其专制，但是政府还在表面稳定地运转，拉高了分数，新加坡更是得利于政府运作的分数。香港总分确实有些高了，个人自由竟然接近8分，和现实有出入。但是总分应该还是高于3分的，毕竟3分大概是胡温时期和习包子第一任期的中国总体得分，就算有港版国安法香港也好于习包子倒车前的中国大陆吧。"
+        }
+      ]
+    },
+    {
+      "id": "627573",
+      "is_folded": false,
+      "answerer": {
+        "username": "wangtiancai",
+        "uid": "90025"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还是比较合理的 1-4属于半极权到极权<br/>\n5-7属于部分民主到民主  7-10 民主到完全民主\t\t</div>",
+      "date": "2023-02-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "627575",
+      "is_folded": false,
+      "answerer": {
+        "username": "徐谷雨",
+        "uid": "95064"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t“政治文化”这种标准太过主观，因此造成美国指数被低估，新加坡被高估。\t\t</div>",
+      "date": "2023-02-03",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1151846",
+          "replier": {
+            "username": "毛病导致恶习",
+            "uid": "104995"
+          },
+          "date": "2023-02-06",
+          "content": "五项指标里面最没价值的就是“政治文化”"
+        }
+      ]
+    }
+  ]
+}

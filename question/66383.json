@@ -1,0 +1,56 @@
+{
+  "question_id": "66383",
+  "category_id": "6",
+  "title": "为什么要搞验证码？",
+  "meta_description": "为什么要搞验证码？ - 防君子不防小人，这验证码还要输两遍，说实话有点劝退了",
+  "meta_keywords": "验证",
+  "tags": [
+    {
+      "id": "2776",
+      "name": "验证码"
+    },
+    {
+      "id": "100119",
+      "name": "为什么"
+    }
+  ],
+  "author": {
+    "username": "止痛药",
+    "uid": "52311"
+  },
+  "view_count": 2206,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t防君子不防小人，这验证码还要输两遍，说实话有点劝退了\t\t\t\t\t\t\t</div>",
+  "date": "2024-04-05",
+  "agree_count": -2,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1058062",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2024-04-05",
+      "content": "验证码是防机器人的。"
+    },
+    {
+      "id": "1058064",
+      "replier": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "date": "2024-04-05",
+      "content": "怎么防不了小人？什么小人能破解验证码？"
+    },
+    {
+      "id": "1058066",
+      "replier": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "date": "2024-04-06",
+      "content": "每逢重大节日都是这样的"
+    }
+  ],
+  "answer_count": 3
+}

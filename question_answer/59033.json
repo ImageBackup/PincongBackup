@@ -1,0 +1,640 @@
+{
+  "parent_type": "question",
+  "parent_id": "59033",
+  "answer_count": 24,
+  "answers": [
+    {
+      "id": "661912",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t假设是假的,也就是说盖世太保是做不到拿身份证获取你的聊天记录的<br/>\n<br/>\n习早已讲过，国家安全是第一位的，那对于个人通讯数据的审核，必然是腾讯必须完成的工作<br/>\n微信完全是基于个人实名验证的，因此只需要一个身份证号就可以查询检索。从技术上讲这不是问题。<br/>\n虽然微信通讯是号称端到端，但都在服务器里有缓存，这就是你消息撤回根本没用的原因<br/>\n腾讯是什么公司敢违抗国保?<br/>\n<br/>\n只要国保想要,你的墙内所有账号信息都能给你扒干净<br/>\n现在连离线wifi蓝牙airdrop都要监控了，检索微信聊天记录这么容易监控的信息的技术实现，还用怀疑么？别说合法合规，中国啥时候考法律运作了？<br/>\n<br/>\n1984已经在中国实现了，这点不用怀疑。<br/>\n<br/>\n推特上的\"悉尼维尼\"墙内账号基本被封完了,靠的不是注册邮箱,也不是可变更的注册手机号,就是你的身份证<br/>\n<br/>\n部分内容来自music3club\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 24,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1183599",
+          "replier": {
+            "username": "flyfighter",
+            "uid": "97040"
+          },
+          "date": "2023-06-12",
+          "content": "不是服务器缓存，是本地，以前有办法查看撤回就是这个原理，微信如果要全量保存所有人的聊天记录，是需要很大数据库的，如果政府要求tx保存全部聊天记录，那么所有涉及到聊天功能的app必然同一标准，这就导致聊天成为了一个成本很高的功能，那么很多非社交类app一定很不愿意开发聊天功能，目前看来并不是这样"
+        }
+      ]
+    },
+    {
+      "id": "661911",
+      "is_folded": false,
+      "answerer": {
+        "username": "逃出疯人院",
+        "uid": "16351"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t共产党想拿到你的微信记录太容易了，你在中国的网络记录都能查到，编程随想据说是因为一个十几年前的非实名网络帐号被查出来的。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 13,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1183583",
+          "replier": {
+            "username": "约定的世界岛",
+            "uid": "2101"
+          },
+          "date": "2023-06-11",
+          "content": "他是博客的截图带有名字"
+        }
+      ]
+    },
+    {
+      "id": "661915",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t海关有这个能力不用怀疑<br/>\n<br/>\n不知道回避一下也是把中国人不当回事到了一定程度<br/>\n不在乎观瞻和舆论, 胆大也愚蠢的到家<br/>\n<br/>\n难怪敢把梅西都拦下来 (比对教皇如此还得罪人)\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 10,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661968",
+      "is_folded": false,
+      "answerer": {
+        "username": "反清复明2017",
+        "uid": "73211"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我所知道的：<br/>\n国安是能拿到微信聊天记录的。腾讯是把微信聊天记录直接推送给国安，但自己不做存储。<br/>\n其他部门拿不到腾讯的微信聊天记录，包括公安。公安想获取聊天记录，也是拿到手机，用技术手段读取存在手机上的聊天记录。<br/>\n<br/>\n微信聊天记录是非常敏感的东西，因为很多共匪高级官员也用微信。如果有人能轻轻松松从腾讯服务器拦截微信聊天记录，那非常可能用于内部的权力斗争，这是非常可怕的事情。所以共匪对这方面也限制的非常死，只允许国安部门出于国家安全用途可以在腾讯服务器端拿到微信聊天记录。<br/>\n<br/>\n而且知乎上也有人专门扒过裁判文书网，跟微信聊天记录相关的案件没有一例判决是从腾讯那边拿到的数据。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 9,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1183678",
+          "replier": {
+            "username": "rockroll",
+            "uid": "103904"
+          },
+          "date": "2023-06-12",
+          "content": "是这样的，我也听说过"
+        },
+        {
+          "id": "1183700",
+          "replier": {
+            "username": "喜欢吃蒸包子",
+            "uid": "110657"
+          },
+          "date": "2023-06-12",
+          "content": "国安不需要通过解包的方式拦截数据，因为腾讯和阿里等等都在各省的安全厅部署了备份服务器，用于同步推送本省用户的数据，你在网上海淘过的东西、聊天记录中的敏感信息等都会触发“自动告警”（好像是叫这个名字）机制，然后国安进行研判分析。"
+        }
+      ]
+    },
+    {
+      "id": "661980",
+      "is_folded": false,
+      "answerer": {
+        "username": "在美国偷着乐",
+        "uid": "92568"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就这个还需要辨识真假吗？哈哈。很多国内用户注册微信的时候，或者绑定银行卡的时候已经实现了数据的实名制了。也就是说你的身份证早已经和微信绑定在一起了。那这些数据调用还需要很大的技术手段来实现吗？就这个问题还要辨识真假，说明反贼的水平还有待提高。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661975",
+      "is_folded": false,
+      "answerer": {
+        "username": "统统提头来见",
+        "uid": "52675"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可能性不大。有这种技术，为什么白纸革命那会儿还要安排辅警在街道上查人手机？直接挨家挨户查身份证就行了。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 5,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1183533",
+          "replier": {
+            "username": "庆丰包子的梦帝",
+            "uid": "1283"
+          },
+          "date": "2023-06-11",
+          "content": "因为国安是有能力直接要求腾讯拿出后台信息，而辅警没这能力。"
+        },
+        {
+          "id": "1183724",
+          "replier": {
+            "username": "ggasd",
+            "uid": "107170"
+          },
+          "date": "2023-06-12",
+          "content": "呵呵，国安管不到纸飞机啊！"
+        }
+      ]
+    },
+    {
+      "id": "661919",
+      "is_folded": false,
+      "answerer": {
+        "username": "Wingtoo",
+        "uid": "78584"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大數據的數字極權國家裡，這種屬於可行也合理的情況，但儘管如此，但到真的發生了還是感到扼腕嘆息，以後如果到了非常時期變成1984那種在家也放監控的那種全天候監管估計也不無可能吧...\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662059",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t假的吧，过海关不用出示身份证，有护照就行。你说身份证放家里了都没关系。<br/>\n<br/>\n有点像钓鱼，反贼转载之后粉红再跳出来说钩直饵咸，笑话什么的。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662049",
+      "is_folded": false,
+      "answerer": {
+        "username": "whdi2311",
+        "uid": "11796"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一张中国脸 一纸大陆户口 就是裸奔的通行证 直接人脸识别一下就能把国内软件的数据扒个底朝天 <br/>\n假装输入身份证 都算套个遮羞布了\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661979",
+      "is_folded": false,
+      "answerer": {
+        "username": "summerormm",
+        "uid": "112316"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t专门注册个账户来告诉楼主。<br/>\n绝对为真，因为我亲眼见过，不存储图片和语音，晶格可以直接查询，展示方式也和微信不一样。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661993",
+      "is_folded": false,
+      "answerer": {
+        "username": "wintubbb",
+        "uid": "73743"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t腾讯是党的好企业，通过身份证查询聊天记录不是什么复杂技术。关键就是这个access 掌握在谁的手中，如别的层所言，以前只有国保知道，那如果现在连海关出入境都有access的话，相信在不远的将来，街道委员会也能看了。到时候看看粉红们千万不要觉得不合适，毕竟“没做什么亏心事，怕别人知道什么？”lol\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661935",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t腾讯有网监入驻，要不然怎么做到24小时内封号，48小时内喝茶\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661950",
+      "is_folded": false,
+      "answerer": {
+        "username": "打土共分兰兰",
+        "uid": "89718"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t骨干网上泄漏的微信聊天记录就是通过腾讯接口存储的，“喜欢吃蒸包子”说的是事实<br/>\n<br/>\n喜欢吃蒸包子 • 2023-06-11<br/>\n<br/>\n如果聊到敏感话题触发自动存储机制的话，腾讯后台是会向网信办、公安网监、国保甚至国安平台推送数据的，这些数据会存储在公安国安的“云”里面。别问我怎么知道的，事实就是如此。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662045",
+      "is_folded": false,
+      "answerer": {
+        "username": "madanne",
+        "uid": "90026"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t服务器可能有存储，因为我用一台新电脑登录，也能看见一些聊天记录，记录应该来自服务器？\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662033",
+      "is_folded": false,
+      "answerer": {
+        "username": "lene",
+        "uid": "98819"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一直说群记录留存，点对点不留存，服务器吃不消\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662073",
+      "is_folded": false,
+      "answerer": {
+        "username": "无限禅师",
+        "uid": "99783"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这只能说明他早已是重点监控人群，本来就被实时监控，普通人不要发敏感词，就不会有大的问题。\t\t</div>",
+      "date": "2023-06-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662107",
+      "is_folded": false,
+      "answerer": {
+        "username": "杰克皮德狠",
+        "uid": "99062"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t全世界基本都有这种监考，国家安全是第一位，只要你能拿到上级执行的指令，基本你查谁，分分秒秒就出来结果，别说那些公司啥没有，他们要没有下场就是你公司差不多可以倒闭了\t\t</div>",
+      "date": "2023-06-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662062",
+      "is_folded": false,
+      "answerer": {
+        "username": "稀世暴君",
+        "uid": "77118"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t李老师的夸张消息让这个人变得有点值得警惕，我个人不相信这个技术，不过靠身份证号查微信号这个应该不算难。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661940",
+      "is_folded": false,
+      "answerer": {
+        "username": "TIAN_KUAI_HUO",
+        "uid": "88301"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得概率不大<br/>\n<br/>\n海关是要讲求效率的，后面还有几十人在排队呢，审核正常人出境，顶多审个五分钟，根本没时间一条一条看你的微信<br/>\n<br/>\n看社会信用积分还有可能，看微信你想多了\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661926",
+      "is_folded": false,
+      "answerer": {
+        "username": "yueting66",
+        "uid": "112313"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别想那么多了，什么都怕的话，那还是全部用海外软件。肉体出国比较安全\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661948",
+      "is_folded": false,
+      "answerer": {
+        "username": "唐少卿",
+        "uid": "109344"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看搞黑产的有没有这项业务就知道了，虽然很多社工库都说能查微信聊天记录，不过不知道是不是骗子\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661934",
+      "is_folded": false,
+      "answerer": {
+        "username": "MrJerry",
+        "uid": "96142"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t微信云端具备储存聊天信息的能力，但永久或者长期储存所有人的聊天信息成本太高。<br/>\n<br/>\n但是若国安只是要求腾讯公司储存某些特定人群的聊天信息，这是完全有可能的。<br/>\n<br/>\n至于国安有没有这么要求，腾讯有没有这么做，我们不是内部人员，这个无法知道。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1183502",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-06-11",
+          "content": "IT外行。聊天记录以文字为主，就算一个人一天能写一万字，十亿人一天的聊天记录就是十万亿字。一个汉字按4个字节算，这就是40TB。文字是可以高度压缩的，实际存储空间大概要10-20TB，几个硬盘的容量而已。一年几千个硬盘腾讯还买不起？"
+        },
+        {
+          "id": "1183528",
+          "replier": {
+            "username": "wget",
+            "uid": "51008"
+          },
+          "date": "2023-06-11",
+          "content": "纯文本而已, 随便存好吧"
+        }
+      ]
+    },
+    {
+      "id": "661914",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t假。一般人反共反到脑子无了，把共产党当成是全知全能的上帝。<br/>\n<br/>\n聊天信息发送经过服务器时会经过机器审查，但微信服务器不存储聊天记录，只是通过审查后发送至对方客户端，聊天记录不属于现行法律里要求保存6个月以上的信息。<br/>\n<br/>\n之前有过案例，法院发布调查令要求腾讯提供聊天记录作为证据，腾讯公司回函表示没有记录。<br/>\nhttps://www.sohu.com/a/523463970_121118250\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": -2,
+      "discussion_count": 27,
+      "discussions": [
+        {
+          "id": "1183453",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-06-11",
+          "content": "感觉你智商不行。现在腾讯肯定是保存了全民的聊天记录的。你说的情况我表示怀疑。"
+        },
+        {
+          "id": "1183454",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-06-11",
+          "content": "微信服务器不存储聊天记录?\n只是不给你看而已,还真以为不存啊"
+        },
+        {
+          "id": "1183456",
+          "replier": {
+            "username": "使命光荣责任重大",
+            "uid": "100513"
+          },
+          "date": "2023-06-11",
+          "content": "@takesipon:那你大脑真的需要升级了，我没权力看，法院还没有？"
+        },
+        {
+          "id": "1183457",
+          "replier": {
+            "username": "使命光荣责任重大",
+            "uid": "100513"
+          },
+          "date": "2023-06-11",
+          "content": "@exlifeisexlife:那你解释为什么法院调不出记录，动动你可怜的大脑？"
+        },
+        {
+          "id": "1183458",
+          "replier": {
+            "username": "喜欢吃蒸包子",
+            "uid": "110657"
+          },
+          "date": "2023-06-11",
+          "content": "如果聊到敏感话题触发自动存储机制的话，腾讯后台是会向网信办、公安网监、国保甚至国安平台推送数据的，这些数据会存储在公安国安的“云”里面。别问我怎么知道的，事实就是如此。"
+        },
+        {
+          "id": "1183459",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-06-11",
+          "content": "@使命光荣责任重大:我大脑需要升级,而你没有大脑\n关于微信是否存储聊天记录,NGA跟知乎都讨论烂了\n你还搁这给张小龙洗地?"
+        },
+        {
+          "id": "1183460",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-06-11",
+          "content": "@使命光荣责任重大:你举得孤立案例也不知道从哪来的，就算是真这个事情也十分可疑，可能是为了忽悠韭菜炮制的假的东西，真真微不足道不能构成什么证据，但凡你看过一点法治节目也该知道，公安破案查看嫌疑人的聊天记录，根本不需要通过找到这个人，直接从腾讯那要就行。"
+        },
+        {
+          "id": "1183463",
+          "replier": {
+            "username": "baozi3311",
+            "uid": "99088"
+          },
+          "date": "2023-06-11",
+          "content": "搞笑呢？你说不存储，请问一下，你用电脑登录微信是如何同步手机上的聊天记录，"
+        },
+        {
+          "id": "1183476",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-06-11",
+          "content": "中國有法律？共匪做事需要法律依據？你才搞笑吧"
+        },
+        {
+          "id": "1183477",
+          "replier": {
+            "username": "tb120923",
+            "uid": "86772"
+          },
+          "date": "2023-06-11",
+          "content": "法院和国安哪个大你到现在还没搞清楚？微信所有信息都有备份的"
+        },
+        {
+          "id": "1183480",
+          "replier": {
+            "username": "S700N",
+            "uid": "75716"
+          },
+          "date": "2023-06-11",
+          "content": "@baozi3311:微信没有通过云端同步聊天记录的功能，因为这个微信天天被人骂……"
+        },
+        {
+          "id": "1183496",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-06-11",
+          "content": "短时间内肯定会保存，你想你的微信不上线几天，再上线，没收到的消息还是都会发过来的。但是长达几个月就不太确定，其实文字信息占用存储很少，我觉得每个用户的文字信息保存一个月成本上应该可以接受。一部分特殊人物有可能终身保存"
+        },
+        {
+          "id": "1183504",
+          "replier": {
+            "username": "长歌当哭",
+            "uid": "85967"
+          },
+          "date": "2023-06-11",
+          "content": "法院也看是什么法院。腾讯公司会叼地方法院吗？级别不够好吗。最高法院出面看看能不能提供。\n这么说吧 微信也好 邮件也好 都是有备份的 最少半年"
+        },
+        {
+          "id": "1183530",
+          "replier": {
+            "username": "邪不胜正99",
+            "uid": "84059"
+          },
+          "date": "2023-06-11",
+          "content": "有没有想过，文字备份不需要太多存储空间，所以腾讯也愿意去做这个事？"
+        },
+        {
+          "id": "1183535",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-06-11",
+          "content": "在墙国这块神奇的土地上讲法律，🐷都要笑了。"
+        },
+        {
+          "id": "1183580",
+          "replier": {
+            "username": "baozi3311",
+            "uid": "99088"
+          },
+          "date": "2023-06-11",
+          "content": "@S700N:拉倒吧，没通过云端通过什么？内网？要不你在北京试试用伤害的电脑扫码登录"
+        },
+        {
+          "id": "1183587",
+          "replier": {
+            "username": "S700N",
+            "uid": "75716"
+          },
+          "date": "2023-06-11",
+          "content": "@baozi3311:登录和聊天记录云同步不是一回事。你要么没换过手机，要么微信没朋友吧，不然不可能不明白我在说什么。"
+        },
+        {
+          "id": "1183601",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-06-12",
+          "content": "@S700N:你有点死心眼，腾讯不给你云存储，不代表他在服务端不做存储。你pc 登陆时候的同步消息可能只是有限的时间段。但是腾讯是黑盒，他就算存储了全部文本记录，也不可能告诉外面这些韭菜普通傻比用户他完全可以说他没存，知道吗，这就是国内企业的风格。"
+        },
+        {
+          "id": "1183603",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-06-12",
+          "content": "换句话说，腾讯到底怎么做的，自有国安，公安能管中窥豹，腾讯部分内部人能知道的更多。但是对于普通韭菜，纯靠猜，那肯定完全靠猜，显然是最不靠谱的。但是公安能调取他们感兴趣的人的聊天记录基本是可以肯定的，这种事是他们一直在做的。我说了只要你看过十几年前法治节目的破案过程，就不难发现这一点。最近这些年这类法治节目相当于没有了，因为可能是透露了太多破案的细节，防止提高民智。"
+        },
+        {
+          "id": "1183605",
+          "replier": {
+            "username": "S700N",
+            "uid": "75716"
+          },
+          "date": "2023-06-12",
+          "content": "@exlifeisexlife:我说的是“微信没有通过云端同步聊天记录的功能”，目的是纠正@baozi3311所谓电脑登录微信同步手机聊天记录的错误说法。不要引申无关内容。"
+        },
+        {
+          "id": "1183607",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-06-12",
+          "content": "@S700N:微信pc 同步信息应该就是把全量聊天记录给你同步近期的一部分。所以你说的反驳根本也属于你的猜测，并没有什么说服力。"
+        },
+        {
+          "id": "1183608",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-06-12",
+          "content": "@S700N:当然具体怎么实现有多种可能。所以都是猜测，没什么谁能压倒谁的。反正很多人说过，包括那你撤回的图片等信息，在腾讯那边都是保存的可以查看的。"
+        },
+        {
+          "id": "1183611",
+          "replier": {
+            "username": "S700N",
+            "uid": "75716"
+          },
+          "date": "2023-06-12",
+          "content": "@exlifeisexlife:我没有任何猜测，只是陈述事实而已。事实就是微信没有同步聊天记录功能，只要换过手机就不可能不清楚。"
+        },
+        {
+          "id": "1183612",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-06-12",
+          "content": "@S700N:所以这只是微信不给你同步而已，不代表人家不存储你得聊天记录。这个逻辑是非常简单的。"
+        },
+        {
+          "id": "1183614",
+          "replier": {
+            "username": "S700N",
+            "uid": "75716"
+          },
+          "date": "2023-06-12",
+          "content": "@exlifeisexlife:\n我没有猜测是不是微信不给我同步，也没有猜测有没有存储我的聊天记录。\n我陈述的是“微信没有聊天记录同步功能”这个事实。\n猜测微信会存储所有的聊天记录，这是你的观点。\n请区分事实和观点。"
+        },
+        {
+          "id": "1183615",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-06-12",
+          "content": "@S700N:我觉得你两根本没有谈论同一个东西。他说得是你在微信 PC 端登录的时候，有一个 checkbox 是是否同步聊天记录，你勾了以后再登陆，pc 端会显示你最近的聊天记录都有。而你说的是，你换个手机登录你的微信，就看不到另一个手机上的聊天记录了。这完全是两个独立事件。所以你们两鸡同鸭讲。"
+        },
+        {
+          "id": "1183618",
+          "replier": {
+            "username": "baozi3311",
+            "uid": "99088"
+          },
+          "date": "2023-06-12",
+          "content": "@exlifeisexlife:别跟他扯淡了，如果微信服务器没存储，在北京扫码，用PC在上海登录是绝不可能同步过去的，难不成还本地消息发到服务器，服务器再推送给PC 😆"
+        }
+      ]
+    },
+    {
+      "id": "661933",
+      "is_folded": true,
+      "answerer": {
+        "username": "机器猫博士",
+        "uid": "105067"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-06-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

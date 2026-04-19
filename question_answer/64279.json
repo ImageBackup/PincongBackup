@@ -1,0 +1,349 @@
+{
+  "parent_type": "question",
+  "parent_id": "64279",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "716729",
+      "is_folded": false,
+      "answerer": {
+        "username": "JoeGonzales",
+        "uid": "112521"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t手机从根本上就不安全，因为有类似IMEI之类的唯一识别码，而且改不了。所以一个新手机只要插过自己实名的手机卡就很难不被追踪了。<br/>\n<br/>\n但这种情况是在你犯了大事明确要追踪你这个人的情况下才会这么查，平时使用刷机会比较安全。<br/>\n<br/>\n1. 系统包使用开源的系统，比较推荐的是GrapheneOS，但这个只支持pixel手机（因为这个手机相比其他手机更透明，而且有硬件安全芯片）。要是其他品牌的手机推荐DivestOS系统，也算是重视隐私的系统。下载系统包一定要去官网下，不要刷不知道来源的系统包，这和下软件要去官网是一样的道理。<br/>\n<br/>\n2. 的确有很多硬件是闭源的，但要是不刷系统不只硬件闭源，连系统也一起闭源了。更别说国产系统的恶心程度，就算哪天爆出系统把用户的一切操作都上传服务器都不奇怪。更何况硬件一般不会涉及到使用网络上传数据的情况，而且大部分的监控都是系统层面的监控，所以刷系统还是有必要的。<br/>\n<br/>\n3. GrapheneOS和DivestOS的主要维护者都不是国人，只能说你没找对系统。大部分开源第三方系统的维护者都不是国人。\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 4,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1235719",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-01-01",
+          "content": "谢谢, 我的理解IMEI最多只能追踪基站区域和访问流量, 并看不到内容. 如果用vpn就连去哪个网站都不知道了.\n还有pixel手机芯片是google自己做的, 会不会反而不安全, 就像苹果掌控所有人手机一样?"
+        },
+        {
+          "id": "1235776",
+          "replier": {
+            "username": "JoeGonzales",
+            "uid": "112521"
+          },
+          "date": "2024-01-01",
+          "content": "@hahayuyu:谷歌的pixel手机算是开源程度比较高的手机了，其他手机更不值得信任。所谓安全就是国内破解不了，谷歌的硬件的确有可能留后门，但这种后门一般都是手机硬件到手里了，有可能通过硬件漏洞获得安全芯片的密钥。一般不会出现偷偷把信息上传网络的情况，毕竟第三方rom的开发者都关注着呢。"
+        },
+        {
+          "id": "1235812",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-01-01",
+          "content": "@JoeGonzales: 问题是那是google啊, 最近刚判的, 赔了50亿美元, 因为chrome的隐身模式依然在收集个人信息."
+        },
+        {
+          "id": "1236021",
+          "replier": {
+            "username": "JoeGonzales",
+            "uid": "112521"
+          },
+          "date": "2024-01-02",
+          "content": "@hahayuyu:难度不同，在硬件驱动层留后门想要通过网络发数据很难（网络是操作系统控制的）。而chrome本身就是闭源的东西，留后门什么的不足为奇。最关键是不刷机是肯定会把隐私上传。"
+        }
+      ]
+    },
+    {
+      "id": "716513",
+      "is_folded": false,
+      "answerer": {
+        "username": "Surge",
+        "uid": "19471"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t刷原生Android的安全性相对国产魔改原装系统安全性提高不少，国产系统现在直接上报反诈。但手机硬件是国产厂商设计的，不能保证绝对安全<br/>\n<br/>\n在墙内就别折腾了，要么选iPhone，要么海外代购android<br/>\n<br/>\n敏感操作不建议用手机（包括iPhone），最好用电脑。Linux的安全性要好于windows\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716514",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t直接用电脑是最安全的<br/>\n我从来不用手机登陆品葱\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716790",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t见解就是你真懒，自己不去看代码，而且连编译都嫌麻烦。这种人根本就不配谈安全。<br/>\n<br/>\n而且白盒安全本来就是费时间的事，一般人也没必要阅读所有代码库，从黑盒角度出发就好了。比如你说的驱动，你管他有什么恶意代码？只要不发封包出去就好了。比如触摸屏驱动就算记录了你的点击习惯，又怎么能把这数据发出去？真的和应用层结合发出去数据，你也就能抓包看到了。不管怎么说，自己编译的系统都比iOS更有控制力，国产android就更不用说了。<br/>\n<br/>\n真正要安全，就别装什么国产软件，出门现金支付。现在并没有拒收现金这种事。\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1235724",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-01-01",
+          "content": "你咋知道我没编译没看代码? 但是看代码并无法阻止所有漏洞, 我都知道有办法瞒过审查, 特别是在一些库闭源的情况下."
+        }
+      ]
+    },
+    {
+      "id": "716744",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t实际上最安全的方法还是用原生非国行手机。<br/>\n刷机其实有很多问题，首先是适配性的问题，现在手机适配性普遍不如以前，如果刷不好可能变砖。其次刷机以后，bl如果不重新上锁，按照沦陷区软件的尿性，恐怕哪怕用原生系统还是会在后台植入一大堆后门的。而bl反复解锁，我想对于任何人来说都是一件非常麻烦的事。\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 2,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1235722",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-01-01",
+          "content": "我有点疑惑了, bootloader几乎都无法重新上锁, 只要不要给root权限, 下载的app应该还是在沙盒内运行, 并无法植入后门的, 对么?"
+        },
+        {
+          "id": "1235781",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2024-01-01",
+          "content": "@hahayuyu:理论上是如此，但是因为国产软件不是开源的，很难确定它有没有后门能够获得用户的高级权限，即使一个软件不获得root权限也是能够做很多事的，比如获得您的存储信息和通讯录。银行等安全要求高的情况要求bl上锁也是有原因的，因为第三方的包有时候确实不安全。而且bl并不是不能重新锁，只是上锁以后官方后台仍然会有解锁记录罢了。"
+        },
+        {
+          "id": "1235782",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2024-01-01",
+          "content": "已删除"
+        },
+        {
+          "id": "1235783",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2024-01-01",
+          "content": "@hahayuyu:一般能解得开就能重新锁，但现在解锁越来越不容易了。"
+        },
+        {
+          "id": "1235786",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2024-01-01",
+          "content": "@hahayuyu:我强烈建议有条件别买国行机，又累又不安全，直接港版不好吗？"
+        },
+        {
+          "id": "1235788",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2024-01-01",
+          "content": "@hahayuyu:如果不解bl锁第三方应用很难动系统文件，解了就不一样了。这也是很多修改器要求root权限的原因。因为沦陷区软件安全问题很大，在这方面实在不能掉以轻心。"
+        }
+      ]
+    },
+    {
+      "id": "716966",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t刷過oneplus 5T 8 / 128，網上下載的image + google官方提供linux command line zip pack<br/>\n<br/>\n奇怪的是新出的nord ce 2進入不了usb debugging mode，估計是鎖了\t\t</div>",
+      "date": "2024-01-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716746",
+      "is_folded": false,
+      "answerer": {
+        "username": "wget",
+        "uid": "51008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没有专有blob的话基本没有可用性, 对我来说lineageos官方release的固件的安全性就足够了\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1235725",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-01-01",
+          "content": "你是说the muppets?"
+        }
+      ]
+    },
+    {
+      "id": "716764",
+      "is_folded": false,
+      "answerer": {
+        "username": "東亞病夫",
+        "uid": "119542"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想保护隐私安全 手机就排除在外<br/>\n<br/>\nApple 比 Google 也好不到哪里去 半斤八两<br/>\n<br/>\n电脑 Linux 相对安全\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716771",
+      "is_folded": false,
+      "answerer": {
+        "username": "齁了",
+        "uid": "120222"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t对刷机的记忆还停留在塞班的时代，不是很明白这个年代为什么要刷机。\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1235625",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-12-31",
+          "content": "刷机跟你自己在电脑上安装操作系统一个性质\n你不想用预装的系统就得刷机装第三方系统"
+        },
+        {
+          "id": "1236050",
+          "replier": {
+            "username": "幻之大天使",
+            "uid": "723"
+          },
+          "date": "2024-01-02",
+          "content": "1. 原廠只更新到安卓 n, 而我想在效能綽有餘裕的現有手機上體驗更新的版本\n2. 原廠 ROM 缺乏某功能 (系統層級的功能, 不能裝 App 解決)\n3. 原廠 ROM 太多冗餘功能/設計\n4. 用戶習慣"
+        }
+      ]
+    },
+    {
+      "id": "716772",
+      "is_folded": false,
+      "answerer": {
+        "username": "共同赴狱",
+        "uid": "76174"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你不能只关注系统，你每天都要用的国产app问题更大，每一个软件都要求你绑定手机号，而手机号是实名登记的，网警们是有全部国产app的信息调用权限的，所以只要知道你的手机号，就足够画出你的日常素描和生活轨迹了，这点哪怕你用iphone也没办法避免。\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716733",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t网警隔三差五又来散播恐惧和督促大家自我审查和放弃翻墙了。<br/>\n<br/>\n手机怎么都安全，中共就没有技术能力通过植入一些东西来获取你 App里输入的反共内容，技术上就做不到。\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716848",
+      "is_folded": true,
+      "answerer": {
+        "username": "gratesque",
+        "uid": "23931"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t只需要看看楼主用「和疑问有关」的动词。（技术之外的）<br/>\n<br/>\n「调查」、「讨论」、「（谁）做」、「留后门」、「（安全）交给」、「保护」<br/>\n<br/>\n除了最后一个「保护」之外，以上没有半个词不是「和别人有关」。<br/>\n<br/>\n典型「中国人」的任何问题，都是「和别人有关」。<br/>\n<br/>\n这其实根本不是什么「技术」领域的问题，而是社会学意义上的「（社会）信任」问题。<br/>\n<br/>\n楼主或者和楼主有同样想法的人，如果无法改变自己的脑袋，又天天在担心着担心那，那么你们钻研的从来就不该是技术，而是「战争」与「情报」，建议从「情报战」这个主题开始。看不懂英语的，可以看看共匪间谍们当年怎么在「国统区」生存。<br/>\n<br/>\n----------------------------------<br/>\n我告诫一句（不只是针对楼主）：什么都不信的人，是没有可能活下去的。（这方面的榜样多了去，近的比如在日本下意识地选择饿死自己的Akid，前大象工会作者）\t\t</div>",
+      "date": "2024-01-01",
+      "agree_count": 1,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1235813",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-01-01",
+          "content": "你要是id,信用卡被偷了去买东西, 连联邦反税都被偷了, 就不会问出这种话了."
+        },
+        {
+          "id": "1235889",
+          "replier": {
+            "username": "gratesque",
+            "uid": "23931"
+          },
+          "date": "2024-01-02",
+          "content": "@hahayuyu:\nA fool takes no pleasure in understanding, but only in expressing his opinion.\n------------------\n以上纯引用。"
+        },
+        {
+          "id": "1235907",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-01-02",
+          "content": "@gratesque: a stupid guy only keeps talking bullshit as a pleasure  -- 这不是引用"
+        },
+        {
+          "id": "1235908",
+          "replier": {
+            "username": "gratesque",
+            "uid": "23931"
+          },
+          "date": "2024-01-02",
+          "content": "@hahayuyu:\nSuit yourself, mate.\nNever my shit."
+        },
+        {
+          "id": "1235912",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-01-02",
+          "content": "@gratesque: you really don't have to answer anyone's question. nobody wants you. unless you enjoy being in fights like this, which means you are a bizarre."
+        },
+        {
+          "id": "1235913",
+          "replier": {
+            "username": "gratesque",
+            "uid": "23931"
+          },
+          "date": "2024-01-02",
+          "content": "@hahayuyu:\nSo eager to prove that you have a fixation on 'expressing your opinion'?\nNo one's even asking you to do it, you just cant resist a pleasure-opportunity, right?"
+        }
+      ]
+    }
+  ]
+}

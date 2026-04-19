@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "67004",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "745074",
+      "is_folded": false,
+      "answerer": {
+        "username": "Freehand4252",
+        "uid": "128351"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t随便搜搜就好几个先例，美国和各国一样，都是屎坑不是天堂。<br/>\n约翰·昆西·亚当斯 (John Quincy Adams)卸任总统后当选为众议员,在国会服务了17年。<br/>\n<br/>\n赫伯特·胡佛 (Herbert Hoover)卸任总统后担任美国食品管理局局长,并参与联合国难民救助工作。<br/>\n<br/>\n杰拉尔德·福特 (Gerald Ford)卸任总统后担任美国国家委员会主席。\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "796186",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t给你举个最牛逼的例子：美国第27任总统威廉塔夫脱，在卸任总统八年后被任命为最高法院首席大法官。他是唯一一个担任过美国政府三权中两权的最高职位的人。他的名言是「我不记得我曾经当过总统。」（塔夫脱认为担任最高法院首席大法官、而不是总统，是他最大的荣誉）。\t\t</div>",
+      "date": "2025-01-22",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1312973",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2025-01-22",
+          "content": "taft总统做得很烂，当职的时候再选被打得惨败"
+        },
+        {
+          "id": "1312976",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2025-01-22",
+          "content": "@rowlandheights: 那是因为共和党内部闹分裂。1912年大选塔夫脱和罗斯福的普选票加起来还是比威尔逊多不少的。"
+        }
+      ]
+    }
+  ]
+}

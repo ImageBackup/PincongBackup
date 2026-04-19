@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "54159",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "609308",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t习近平是ISF应该没错<br/>\n应该ISFJ/ISFP之间<br/>\n<br/>\n外网说他是T在搞笑吧\t\t</div>",
+      "date": "2022-12-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610635",
+      "is_folded": false,
+      "answerer": {
+        "username": "山大长沙曾思佳",
+        "uid": "83748"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t李克强是ENFP???<br/>\n习近平和普婷应该是imsb<br/>\n认真讲，习近平在istj,isfj,isfp里一定要选一个还是istj吧，另外两个更不像他吧……\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610646",
+      "is_folded": true,
+      "answerer": {
+        "username": "codywang",
+        "uid": "93639"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\t科普一下，在心理学里大五人格和mbti对应医学里的布洛芬和连花清瘟。\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1135694",
+          "replier": {
+            "username": "山大长沙曾思佳",
+            "uid": "83748"
+          },
+          "date": "2022-12-14",
+          "content": "娱乐一下而已，我偶尔去韩圈看看都很爱玩这个就了解了一下"
+        }
+      ]
+    }
+  ]
+}

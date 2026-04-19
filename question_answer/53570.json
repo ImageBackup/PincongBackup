@@ -1,0 +1,97 @@
+{
+  "parent_type": "question",
+  "parent_id": "53570",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "603867",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷雾通设置里面自动代理浏览器开没开？<br/>\n<br/>\n如果你用的火狐浏览器，可能需要在浏览器设置里手动设置代理。\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "603767",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t重连一下就是了，偶尔就这样，连久了也会这样。<br/>\n<br/>\n显示能连但速度极慢最后0k\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1130341",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2022-11-30",
+          "content": "刚看了一下流量的曲线图，是正常的，但不知道为什么就是连不上外网，关了重开也没用"
+        }
+      ]
+    },
+    {
+      "id": "603927",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t开启全局VPN<br/>\n或者勾选自动设置浏览器代理<br/>\n也可以手动设置代理<br/>\nSOCK5:127.0.0.1，端口号9909<br/>\nHTTP：127.0.0.1，端口号9910\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "603777",
+      "is_folded": false,
+      "answerer": {
+        "username": "wumingdaxia",
+        "uid": "17285"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一样，用迷雾通一次都没成功过。松鼠vpn也是，从未成功。win7系统\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1130375",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2022-11-30",
+          "content": "我是win10，之前v2ray可翻"
+        },
+        {
+          "id": "1130380",
+          "replier": {
+            "username": "neverdie",
+            "uid": "53720"
+          },
+          "date": "2022-11-30",
+          "content": "@孙笑川4422:v2ray现在也可以啊"
+        },
+        {
+          "id": "1130389",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2022-11-30",
+          "content": "@neverdie:当然可以了。我的意思是我v2ray能翻，迷雾通不能翻。"
+        }
+      ]
+    }
+  ]
+}

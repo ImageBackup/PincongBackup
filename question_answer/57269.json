@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "57269",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "644238",
+      "is_folded": false,
+      "answerer": {
+        "username": "S700N",
+        "uid": "75716"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应用商店下架。<br/>\n<br/>\n国会可以通过法律禁止外国公司运营，政府可以限制员工使用的设备和App，但是像中国一样搞GFW限制公民访问互联网是不可能的。\t\t</div>",
+      "date": "2023-03-31",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1166918",
+          "replier": {
+            "username": "shijiaqing",
+            "uid": "80186"
+          },
+          "date": "2023-03-31",
+          "content": "那以后美国人想看抖音，是不是仅仅是没有抖音美国版，想看抖音中国版抖音加拿大版还是不受影响？"
+        }
+      ]
+    },
+    {
+      "id": "644288",
+      "is_folded": false,
+      "answerer": {
+        "username": "劳斯莱斯",
+        "uid": "74487"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是。美国是个讲法律的国家，只要法律通过，使用者就会遵法，违法者则会遭受法律制裁，所以这样的事在美国，无论是自律还是他律，靠的是逻辑层面的法律制约，而不是物理层面的强行阻断，\t\t</div>",
+      "date": "2023-03-31",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "644239",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应用商店下架+禁止服务器放在美国+禁止在美国落地分公司+法律规定禁止使用 = 80%的美国用户根本不知道上哪安装剩下19.99%的美国用户也不会再用了。\t\t</div>",
+      "date": "2023-03-31",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "644246",
+      "is_folded": true,
+      "answerer": {
+        "username": "蘑菇云",
+        "uid": "77623"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\t长臂管辖，地球上任何向tiktok数据中心供电的发电厂，都有可能受到美军空袭。办法实在太多，需要的只是想象力罢了。\t\t</div>",
+      "date": "2023-03-31",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

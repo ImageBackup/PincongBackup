@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "53751",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "605348",
+      "is_folded": true,
+      "answerer": {
+        "username": "Voltaire",
+        "uid": "103870"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2022-12-02",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1131546",
+          "replier": {
+            "username": "我送近平上西天",
+            "uid": "13149"
+          },
+          "date": "2022-12-03",
+          "content": "100%？真的嗎？ 是支持悼念大火 還是停止防疫政策 還是要習近平吃屎？"
+        }
+      ]
+    }
+  ]
+}

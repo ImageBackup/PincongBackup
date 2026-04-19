@@ -1,0 +1,43 @@
+{
+  "question_id": "59316",
+  "category_id": "4",
+  "title": "",
+  "meta_description": "无人超市查商品保质期没有自动化技术吗？ - 很多超市查商品保质期都是采用人工核查，一个小小的保质期竟然没有自动化技术来解决。如果有一种集防盗、保质期提醒等功能的小芯片装在商品上就好了。",
+  "meta_keywords": "无人,超市,商品,保质期,自动化,技术",
+  "tags": [
+    {
+      "id": "240",
+      "name": "人工智能"
+    }
+  ],
+  "author": {
+    "username": "dsresgeg",
+    "uid": "111647"
+  },
+  "view_count": 3917,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2023-06-23",
+  "agree_count": 0,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1041169",
+      "replier": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "date": "2023-06-23",
+      "content": "入库出库有记录的，人员上货应该也有吧"
+    },
+    {
+      "id": "1042669",
+      "replier": {
+        "username": "我真的不知道",
+        "uid": "73219"
+      },
+      "date": "2023-07-15",
+      "content": "有这个必要吗？货架上的货本来就没有那么多，货拿空了需要人工上架，有效期放过期都没有人买的货架真实情况会非常少，超市操作是要考虑成本的。"
+    }
+  ],
+  "answer_count": 5
+}

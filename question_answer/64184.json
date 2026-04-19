@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "64184",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "715778",
+      "is_folded": false,
+      "answerer": {
+        "username": "华夏共和国",
+        "uid": "120258"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我找到了应该是这个吧<br/>\n<pre>患者在以下七點特徵中，應至少符合四點：<br/>\n<br/>\n由於畏懼被批評、指責和拒絕，而迴避需與人密切交往的職能活動。<br/>\n除非確定能受到對方歡迎，否則不願參與他人事務。<br/>\n因擔心被羞辱或嘲笑，而抗拒建立親密的人際關係。<br/>\n在社交場合總是擔心被批評或排斥。<br/>\n在意自己的缺點與不足，導致與陌生人互動時畏縮。<br/>\n認定自己社交無能、沒有吸引力或不如別人。<br/>\n因擔心出糗，而選擇逃避承擔個人風險或參與新活動。</pre> </div>",
+      "date": "2023-12-27",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1234754",
+          "replier": {
+            "username": "缯JM",
+            "uid": "115879"
+          },
+          "date": "2023-12-27",
+          "content": "谢谢"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "parent_type": "question",
+  "parent_id": "61483",
+  "answer_count": 17,
+  "answers": [
+    {
+      "id": "685893",
+      "is_folded": false,
+      "answerer": {
+        "username": "bdance",
+        "uid": "83882"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t但凡问出这种问题的我都鼓励继续在中国呆着 seriously\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 24,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "685889",
+      "is_folded": false,
+      "answerer": {
+        "username": "观云先生",
+        "uid": "73140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t经历了三年封控，我想是个正常人都会明白自由的难能可贵。<br/>\n<br/>\n门都出不了，什么良辰美景都是天方夜谭。<br/>\n饭都吃不到，什么美好生活都是神话传说。\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 13,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "685900",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看你怎么定义“爽”<br/>\n<br/>\n如果单纯指物质享受，一般来说是中国爽<br/>\n第一，5万人民币比1万美元购买力强（我假设你说的是美国，您别说的是在菲律宾的1万美元，那可能美元购买力更强）<br/>\n第二，因为中国的房屋租售比奇低，所以你月租5万人民币的房子本身价值，肯定比月租1万美元的国外房子价值高，在中国待着不爽了，大不了房子一卖，去国外生活<br/>\n<br/>\n<br/>\n但是你非要对比什么言论自由啥的，那就没法比了，或者你非要比国外的才有的东西，中国的樱桃你吃着不爽，非要吃进口车厘子，那这些东西肯定还是国外更爽。\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 6,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1205486",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-04",
+          "content": "中国的樱桃不是进口车厘子吗"
+        },
+        {
+          "id": "1205534",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-04",
+          "content": "@rowlandheights: 中国有本地樱桃，卖相、大小，都比车厘子差远了。"
+        }
+      ]
+    },
+    {
+      "id": "685890",
+      "is_folded": false,
+      "answerer": {
+        "username": "禁评的ICU病房",
+        "uid": "85376"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t老问题，答案还是这句话，同样的财力，你在中国可以过得很好，前提是你别遇到事。\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 9,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "685904",
+      "is_folded": false,
+      "answerer": {
+        "username": "wwwtttlll",
+        "uid": "26761"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在上海能收5万人民币一个月的物业卖掉重新在西方国家买物业可能能租5万美金。\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 6,
+      "discussion_count": 12,
+      "discussions": [
+        {
+          "id": "1205319",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-04",
+          "content": "first of all 你的物業能成功脫手換人民幣，然後換外匯再轉出國，mission impossible"
+        },
+        {
+          "id": "1205462",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-09-04",
+          "content": "查了一下上海租售比现在大约1比680。也就是说在上海一个月能租5万的房子，大概价值在3000万。卖了以后大约450美元，在东西海岸这种房子一个月是租不到3万的，顶多2万5"
+        },
+        {
+          "id": "1205471",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-09-04",
+          "content": "@UAV: 有这么多钱显然是投资公寓出租更合算。"
+        },
+        {
+          "id": "1205527",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-09-04",
+          "content": "@Meltdown:450万投资公寓收租也到不了3万5，而且还要自己负担hoa费用"
+        },
+        {
+          "id": "1205535",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-04",
+          "content": "@四邑漁農牧工商總會: 成功向美国转移了三千万以上资产的人我认识好几个。"
+        },
+        {
+          "id": "1205537",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-04",
+          "content": "@天下无贼:呃"
+        },
+        {
+          "id": "1205542",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-04",
+          "content": "@四邑漁農牧工商總會: 墙外的人思考问题容易极端化。比如言论管制，以为64和法轮功在墙内完全销声匿迹，就可以管制一切言论了，也不想想那铁链女这种事件怎么爆出来的？\n换汇也是一样，我一直在品葱科普，你有几个亿想一个月内转出去，那没戏，但是你如果有两千万想在一年的时间内慢慢转出去，方法多的很。"
+        },
+        {
+          "id": "1205545",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-04",
+          "content": "@天下无贼: 你這麼說我完全不同意，一帶一路或是國企，香港中旅社，中國移動之類駐港國企，幾個億一個月轉出去，太容易了。個人和私企難換匯，國企全都是後門"
+        },
+        {
+          "id": "1205546",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-04",
+          "content": "王岐山換了多少匯，體制內換了多少，趙家人換了多少。改開45年賺的外匯全清零了，哪去了？現在中國政府的外匯減外債就是0"
+        },
+        {
+          "id": "1205548",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-04",
+          "content": "@四邑漁農牧工商總會: 事实就是还有外汇，我刚从东南亚旅游回来，你不会认为我在那边消费的都是人民币吧？你不会认为人家收人民币吧？\n至于换汇难易程度，你说的是中国国企公用，那当然可以换，咱们讨论的不是个人，私人换吗？"
+        },
+        {
+          "id": "1205550",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-04",
+          "content": "@天下无贼:嗯是這樣的，我完全同意你，totally agree with you"
+        },
+        {
+          "id": "1205565",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-09-04",
+          "content": "@UAV: 疫情之后不好说，之前绝对没问题。疫情之前加州某地的租售比将近1:100，450万的房产月租金5万美元未必有，4万肯定是有的。中西部某地的公寓租售比曾经达到过令人发指的1:50。"
+        }
+      ]
+    },
+    {
+      "id": "685989",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t当然是中国好<br/>\n<br/>\n金窝银窝不如中国的猪窝<br/>\n<br/>\n只有猪才只会在意宿舍和饲料<br/>\n<br/>\n如果是人<br/>\n<br/>\n可能在意<br/>\n<br/>\n自由民主\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 4,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1205536",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-04",
+          "content": "在意自由民主的人，请问你蒙古和新加坡选哪个永居？蒙古和印度的民主指数都超过新加坡"
+        },
+        {
+          "id": "1205547",
+          "replier": {
+            "username": "长歌当哭",
+            "uid": "85967"
+          },
+          "date": "2023-09-04",
+          "content": "我选西班牙@天下无贼:"
+        },
+        {
+          "id": "1205549",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-04",
+          "content": "@打狗棒专打共党:那你不如选瑞士了，收入更高，景色更美😏"
+        },
+        {
+          "id": "1205552",
+          "replier": {
+            "username": "长歌当哭",
+            "uid": "85967"
+          },
+          "date": "2023-09-04",
+          "content": "这么聪明 想必你是选朝鲜@天下无贼:"
+        },
+        {
+          "id": "1205555",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-04",
+          "content": "@打狗棒专打共党: 我选把中国的房子卖了，去美国，哈哈"
+        },
+        {
+          "id": "1205564",
+          "replier": {
+            "username": "长歌当哭",
+            "uid": "85967"
+          },
+          "date": "2023-09-04",
+          "content": "那不行 美国不欢迎共产党员。另外你都吐槽美国这不好那不好，再去美国是学司马南@天下无贼:"
+        },
+        {
+          "id": "1205566",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-04",
+          "content": "@打狗棒专打共党: 呸！你才是共产党员呢，你全家都是共产党员🤣\n我好像没有吐槽过美国不好？当然我觉得美国枪支太泛滥了，但我一般不说这个话题。而且美国就是这么牛逼，我就算吐槽美国不好，美国也不会拦着不让我入境，我如果有钱，在美国一样过的很爽"
+        }
+      ]
+    },
+    {
+      "id": "685980",
+      "is_folded": false,
+      "answerer": {
+        "username": "guanyuhan426",
+        "uid": "111049"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你一个月收租100万也没有一个在大陆居住的国外底层穷光蛋白人高贵。<br/>\n三年封控说把你焊死在家里你就哪也去不了，洋大人住的小区它们敢？\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1205487",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-04",
+          "content": "上海封控是真饿死过洋大人的"
+        },
+        {
+          "id": "1205559",
+          "replier": {
+            "username": "一等列兵",
+            "uid": "112236"
+          },
+          "date": "2023-09-04",
+          "content": "@rowlandheights:真的吗，是留学生吗？"
+        }
+      ]
+    },
+    {
+      "id": "686122",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t吸毒也可以很爽 但是结局不怎么好<br/>\n大多数人不会去那怎么做<br/>\n<br/>\n和你在中国这种时候还惦记收租差不多\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1205755",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-09-05",
+          "content": "吸毒结局很好啊 美国人每年drug消费量这么高好像也没怎么样"
+        },
+        {
+          "id": "1205756",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-09-05",
+          "content": "相反不吸毒的中国人不是过得惨多了"
+        }
+      ]
+    },
+    {
+      "id": "686037",
+      "is_folded": false,
+      "answerer": {
+        "username": "严防网警比对信息",
+        "uid": "112279"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t西方。欧美旅游项目的价格和中国差不多，但风景质量高得多，所以我都是拿着国内的钱在国外玩，这里我默认收租的群体都跟我一样基本天天只考虑怎么玩<br/>\n<br/>\n你在三亚包30分钟直升机和在夏威夷包30分钟直升机的费用是一样的，1万2人民币左右，但三亚那飞一圈比得上夏威夷飞欧胡岛吗？<br/>\n<br/>\n这类对比还多的是，比如上海日间游船价格和纽约也是一样的400人民币，但纽约看什么景，中国看什么景<br/>\n<br/>\n雪山缆车这些也是，欧美不知怎么普遍比国内的缆车还便宜些<br/>\n<br/>\n楼主所说的“5万人民币”与“1万美元”的区别，我深刻理解，即便这么折算出来还是欧美好玩。因为汇率问题，我去美国住的爱彼迎的plus，而不是酒店，同级别酒店还住不起。华盛顿和洛杉矶住一个月都是人民币2万多，也就是3千多美元房租含水电暖。<br/>\n<br/>\n平常骑单车和走路到各个景区，然后自己网上买景区门票，偶尔打车和坐小飞侠巴士跨城，就这样拮据的玩，还是6，7千美元大于5万人民币的体验\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1205488",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-04",
+          "content": "拿国内的钱在国外玩，呵呵，你真是有钱"
+        }
+      ]
+    },
+    {
+      "id": "686015",
+      "is_folded": false,
+      "answerer": {
+        "username": "meltgod",
+        "uid": "99503"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你在中国一个月5万人民币租金，恐怕你得有大几千万人民币的房产。而美国一万美金租金，你有个200万美金左右的房产就差不多了。当然两者前提都是租金稳定，没有租客欠费或者意外的情况下。\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686061",
+      "is_folded": false,
+      "answerer": {
+        "username": "Gladiator",
+        "uid": "111926"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tChina is a fucking culture desert. I won't be able to find any nice concert, musicals, or galleries. Also l like Italian and Japanese food.\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686065",
+      "is_folded": false,
+      "answerer": {
+        "username": "仲长若谷",
+        "uid": "13710"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我认识很多在中国几套房<br/>\n人在海外收租金的<br/>\n<br/>\n你猜他们为什么不回去收租金？\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1205491",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-04",
+          "content": "Q: \"What do you prefer, being a landlord in China or living in the developed Western world?\"\nA: \"Yes\""
+        },
+        {
+          "id": "1205538",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-04",
+          "content": "我们假定楼主的选择是“中国房东只能在中国生活，美国房东只能在美国生活”吧？如果可以任意选择，那没悬念，肯定选择在美国生活。不过前提是把中国的房子卖掉在美国买房子，中国能租5万的房子卖掉，在美国买房子能租2万美元以上。"
+        }
+      ]
+    },
+    {
+      "id": "685892",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人回農村了，你城裏的房子租給誰？<br/>\n。。。。。。。。。。。。。\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686083",
+      "is_folded": false,
+      "answerer": {
+        "username": "ejdw32",
+        "uid": "93484"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有若干物业, 是权贵么?是的话留在中共继续鱼肉百姓, 子女家人全部润出去避险<br/>\n假如不是权贵, 拉倒吧, 赶紧润出去.\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686087",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怎么又有傻B问这种问题？本腊就再copy一段之前的回复吧：<br/>\n<br/>\n##<br/>\n<br/>\n当然是。比如说我们社会主义国家的鸡婆又嫩又听话，还有很多具有大专以上的学历，收费还便宜。相比欧美资本主义国家的鸡婆，收费昂贵先不说，长得又老又丑，服务态度还差，你付了钱她还要嘲笑你的鸡巴小，完全不是在享受。<br/>\n<br/>\n只有在我国混不下去的穷鬼才移民，但凡有个公务员编制，傻B才移民呢。\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686132",
+      "is_folded": false,
+      "answerer": {
+        "username": "asdfgh68",
+        "uid": "28230"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我跟你講中國真的比較好，外面太可怕了，歐美思想太毒了，花粉一吸就過敏阿，千萬要待在國內過好你的小日子\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686057",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t房价跌，租金就会涨，还不用给中国共产党交税，未来脚踏两只船也未尝不可，不错。\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

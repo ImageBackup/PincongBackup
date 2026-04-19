@@ -1,0 +1,344 @@
+{
+  "parent_type": "question",
+  "parent_id": "57959",
+  "answer_count": 16,
+  "answers": [
+    {
+      "id": "651775",
+      "is_folded": false,
+      "answerer": {
+        "username": "ggasd",
+        "uid": "107170"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个方案有个致命缺陷，<br/>\n电池充电也需要时间，快速更换卸下的电池怎么保证的有时间充满电？\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 6,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1174130",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-29",
+          "content": "拆下来在固定地点充电的电池，可以建设更大功率的充电设备，而且占用空间更小，还可以专人看管，肯定比放车上充好太多了。\n致命的缺陷是车厂不可能统一电池的规格，无法通用化"
+        },
+        {
+          "id": "1174134",
+          "replier": {
+            "username": "ggasd",
+            "uid": "107170"
+          },
+          "date": "2023-04-29",
+          "content": "更大功率的充电设备不能直接给整车充电吗？何必脱裤子放屁？\n占用空间小？\n存储周转电池的仓库不需要空间？\n专门给电池充电的设备不需要空间？\n提供支持服务的相关人员不需要办公空间？\n单独采购的电池包不需要占用巨量资金？\n没有做过客户项目吧！"
+        },
+        {
+          "id": "1174251",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-04-30",
+          "content": "@天下无贼:更大功率指多大？你确定国内新能源技术能掌握吗？能保证对电池没有伤害吗？"
+        },
+        {
+          "id": "1174755",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-04",
+          "content": "@a1161aa: “更大功率”只要参考目前国产电车的最大充电功率就行了。这总是已经掌握的技术了吧？\n现在国内电车快充不是所有型号都配备，毕竟成本不同，而集中给电池充电，这个技术在充电站实现就好了，而且大功率充电主要是担心安全性，在充电站首先通风散热比较好，其次上各种安全措施也比给移动中的车辆要容易多了。"
+        }
+      ]
+    },
+    {
+      "id": "651801",
+      "is_folded": false,
+      "answerer": {
+        "username": "UAV",
+        "uid": "32217"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t电动车电池重量一般都在400公斤以上。跑到所谓的换电站把这个大东西快速卸下来再装新的上去都是一个挑战。普通的机械臂根本没有那么大负载，必须带液压的设备\t\t</div>",
+      "date": "2023-04-30",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651829",
+      "is_folded": false,
+      "answerer": {
+        "username": "持法海",
+        "uid": "111178"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t换电方案存在两大问题：<br/>\n<br/>\n1、电池寿命问题，你不可能寄希望于所有人都不会过放电池，毕竟不是自己的电池<br/>\n<br/>\n2、服务区永远不可能满足中国这么庞大的人口基数，市场很大，但是，负载更大<br/>\n<br/>\n像现在五一出行高峰，得多少个服务区，多少组电池才能满足需求？而且还有不同车企，不同型号的电池<br/>\n<br/>\n而这些需求，平时又能用到多少呢？ <br/>\n<br/>\n<br/>\n最后，如果国家出台一个电池的国标，整合所有的电池，按照统一规格，统一规范<br/>\n<br/>\n现有的车又怎么办，出口的又要怎么办\t\t</div>",
+      "date": "2023-04-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651799",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最可行的方式就是指定配套的电车专用的停车位 跟残疾人车位一样的配额<br/>\n但是这种配额非常难以进行分配<br/>\n除了住宅的停车位外 公共场合是非常难以进行此类的资源分配的\t\t</div>",
+      "date": "2023-04-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651772",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以色列很久以前研发出了这种技术<br/>\n似乎中国许多公司授权(或者抄袭)了这个设计<br/>\n<br/>\n实际有许多问题, 如同之前提到的中国车企主要为了抬升股价招徕国家投资<br/>\n<br/>\n对实用性不怎么在乎\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651776",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t电池很贵，而且不同磨损程度的电池，其市场价值不等同<br/>\n<br/>\n因此这种替换操作容易出问题。不如让车厂在加油站设立换电池中心，消费者买了车必须加钱才有这个换电池的服务。\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 0,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1174136",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-29",
+          "content": "无所谓啊，一块电池也用不了多久，你全新的车第一换电就换了块损耗很大的旧电池，你觉得亏了，没关系啊，下次换可能就是比较新的电池了呢？而且想想你可能10年后，车辆还能换到新电池，或者哪怕损耗大但也比你的车新多了的电池，不是又赚到了？消费者肯定会算这个帐的。"
+        },
+        {
+          "id": "1174140",
+          "replier": {
+            "username": "不吃蔥",
+            "uid": "39352"
+          },
+          "date": "2023-04-30",
+          "content": "@天下无贼:這個模式車廠不應該把電池成本計入車價，車主實際上只有電池使用權。"
+        },
+        {
+          "id": "1174143",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-30",
+          "content": "@不吃蔥:相当于一个10年保修包换的电池，这个要比普通的车卖得贵一些，似乎现有的电动车电池寿命是不如汽车本身的，也就是正常情况下也要换掉电池"
+        },
+        {
+          "id": "1174145",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-30",
+          "content": "@不吃蔥:如果全部车厂都出这样的产品，可以考虑电池专门成立个公司做。只有一家厂做的话，还是上面的道理，你车老了换新电池，就赚了，刚买车的时候算你亏的，前后平衡"
+        },
+        {
+          "id": "1174147",
+          "replier": {
+            "username": "不吃蔥",
+            "uid": "39352"
+          },
+          "date": "2023-04-30",
+          "content": "@天下无贼:公司會倒的，老闆會跑的。"
+        },
+        {
+          "id": "1174149",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-30",
+          "content": "@不吃蔥:不做换电，车厂也会倒，老板也会跑"
+        },
+        {
+          "id": "1174327",
+          "replier": {
+            "username": "不吃蔥",
+            "uid": "39352"
+          },
+          "date": "2023-05-01",
+          "content": "@天下无贼:\n如果是換電，用戶不會珍惜電池，電池庫的電池肯定損耗比不換電的大，公司如果沒有及時更換，電池庫中的高損耗電池比例一定會越來越大。如果公司一直需要更換電池，又勢必影響公司的利潤。\n如果公司倒閉跑路，車主的電池就會變成擊鼓傳花的雷，誰剛好拿到高損電池誰倒霉。\n由於以上原因，車老了以後換到新電池的平衡未必會出現。\n注：技術上來說電池的損耗速度和使用習慣有極大的關係。"
+        },
+        {
+          "id": "1174761",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-04",
+          "content": "@不吃蔥: 这么说来的话，把电池做成“独立第三方”可能比较好，就像现在中国的电信基础设施都交给铁塔公司一样。"
+        }
+      ]
+    },
+    {
+      "id": "652546",
+      "is_folded": false,
+      "answerer": {
+        "username": "dukenuke",
+        "uid": "45720"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这又是一个理想和丰满现实很骨感的例子。就在前两年所有的人还都是IGBT电驱和400V左右的工作电压，现在如果不是SiC和800V甚至更高的工作电压，你都不好意思发布新车。这些人下一步还要用氮化镓。<br/>\n像这样光是设计充电部分就已经够头疼的了，你确定你砸大钱搞换电能不赔光？\t\t</div>",
+      "date": "2023-05-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651785",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t理论上这个是最优解，但实际想达到最优解，必须每个车厂统一电池规格，包括接口、形状、充电指标等等，这就不太可能了，谁来制定这个标准？互相肯定都不服气，而且各有各的技术特长，都想扬长避短<br/>\n<br/>\n国内也就只有尉来这么做，没有规模效应，它以一己之力去建设换电站，这成本可就高了去了\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1174252",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-04-30",
+          "content": "苹果都能被迫将lighting改成typec了，还是缺一个公检嘛"
+        },
+        {
+          "id": "1174758",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-04",
+          "content": "@a1161aa: 还不一样，车辆的换电标准是一个车厂一个标准，充电口可是苹果lightning VS 全世界（typec、micro usb），当然手机充电口也曾经百花齐放，这就涉及另一个问题，充电口成本和占用手机体积都很小，所以很容易统一，但是电车想用统一电池接口，这是电车最重要的部分，很难统一起来，这么多年的汽油车发动机也没说统一一个外形和接口，能够说你坏了一辆大众可以拿类型的丰田发动机给换上，对吧。"
+        }
+      ]
+    },
+    {
+      "id": "651789",
+      "is_folded": false,
+      "answerer": {
+        "username": "S700N",
+        "uid": "75716"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t电动自行车可以搞一搞，商业营运车辆可能也可以搞一搞，民用汽车有点难。\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652058",
+      "is_folded": false,
+      "answerer": {
+        "username": "wct888",
+        "uid": "73678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t跟自助餐/食到飽一樣，牆国人一定會極速將它玩壞\t\t</div>",
+      "date": "2023-05-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652063",
+      "is_folded": false,
+      "answerer": {
+        "username": "baozi3311",
+        "uid": "99088"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t马斯克早就搞过了，你猜他为什么放弃了？？？<br/>\n<br/>\n紫薯布丁\t\t</div>",
+      "date": "2023-05-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652078",
+      "is_folded": false,
+      "answerer": {
+        "username": "boeing797",
+        "uid": "2145"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你看现在蔚来的处境不就知道了，过于烧钱，而且标准电池包严重限制了车身设计\t\t</div>",
+      "date": "2023-05-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652079",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有电瓶车换电站，但一般都是外卖人员用。只有对于品质不挑剔，能用就行，并且对于车子也不爱惜，才会接受自己车上一部分是租来的，自己不熟悉的部件。谁知道上一个碰过这个电瓶的人在里面做了什么手脚？\t\t</div>",
+      "date": "2023-05-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652083",
+      "is_folded": false,
+      "answerer": {
+        "username": "lily654378",
+        "uid": "84569"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t来换电的肯定有新车，有旧车，大家不担心买的新车去换电，换了一个快报废的电池开回家\t\t</div>",
+      "date": "2023-05-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651943",
+      "is_folded": false,
+      "answerer": {
+        "username": "guest_s",
+        "uid": "78029"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t早晚會有人出來告訴你不可以，姑且稱其為人，XD字數一下\t\t</div>",
+      "date": "2023-04-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651992",
+      "is_folded": false,
+      "answerer": {
+        "username": "屮尼玛",
+        "uid": "78795"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t需要统一下，用统一的电池标准。<br/>\n现在还是发展初期，还没能形成统一标准。\t\t</div>",
+      "date": "2023-04-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "63043",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "702936",
+      "is_folded": false,
+      "answerer": {
+        "username": "snowingnight",
+        "uid": "53957"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t下个领导人死亡<br/>\n<br/>\n确实应该点外卖<br/>\n<br/>\n但是应该点：<br/>\n<br/>\n啤酒 + 瓜子 + 花生米 + 炸鸡 + 可口可乐\t\t</div>",
+      "date": "2023-11-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "702929",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人家能让某人的死讯登报就说明人家能掌控局势<br/>\n能让公众知道某些信息就已经代表信息被过滤过了\t\t</div>",
+      "date": "2023-11-02",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1222622",
+          "replier": {
+            "username": "波导",
+            "uid": "112900"
+          },
+          "date": "2023-11-02",
+          "content": "又泼冷水？"
+        },
+        {
+          "id": "1222624",
+          "replier": {
+            "username": "OrphenOfKos",
+            "uid": "73371"
+          },
+          "date": "2023-11-02",
+          "content": "@波导:我记得好像是邓时代出的规定 够得上党和国家的领导这个分量的死讯必须在一星期内登报\n至少你匪的信息管控能力我还是相信的"
+        }
+      ]
+    }
+  ]
+}

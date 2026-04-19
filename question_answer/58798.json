@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "58798",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "659694",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没用过。不过皮衣老黄给自己挖了个大坑。<br/>\nRtx 3060 12G<br/>\n是目前入门级最便宜的吧。大显存卡\t\t</div>",
+      "date": "2023-06-02",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1181530",
+          "replier": {
+            "username": "都市火枪手",
+            "uid": "85988"
+          },
+          "date": "2023-06-02",
+          "content": "我不是很懂技术，但我觉得Nvidia的风口应该是colossal的技术助推的。如果还是要用a100这种顶级专业卡做语料训练的话，那作图也不会这样容易。毕竟价格差得挺悬殊。"
+        }
+      ]
+    }
+  ]
+}

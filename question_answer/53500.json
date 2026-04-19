@@ -1,0 +1,84 @@
+{
+  "parent_type": "question",
+  "parent_id": "53500",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "603227",
+      "is_folded": false,
+      "answerer": {
+        "username": "唐川普II",
+        "uid": "55392"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t哈哈哈哈哈哈<br/>\n<br/>\n笑话而已。美国人叫jack Daniel也会被拿来开玩笑的。\t\t</div>",
+      "date": "2022-11-29",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "603145",
+      "is_folded": false,
+      "answerer": {
+        "username": "扛麦郎是骟骡",
+        "uid": "94634"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没看明白，发个美团外卖的截图想要表达什么意思呢🤔\t\t</div>",
+      "date": "2022-11-29",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1129933",
+          "replier": {
+            "username": "养老不能靠政府",
+            "uid": "48556"
+          },
+          "date": "2022-11-29",
+          "content": "外卖员名字"
+        },
+        {
+          "id": "1129976",
+          "replier": {
+            "username": "我妹是神羅皇帝",
+            "uid": "98697"
+          },
+          "date": "2022-11-29",
+          "content": "大西"
+        },
+        {
+          "id": "1129984",
+          "replier": {
+            "username": "币圈奇葩8964",
+            "uid": "271"
+          },
+          "date": "2022-11-29",
+          "content": "要是真叫张献忠就好玩了，，，"
+        }
+      ]
+    },
+    {
+      "id": "603217",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这就是有点歧视了。<br/>\n全国叫李强的有二十二万人。\t\t</div>",
+      "date": "2022-11-29",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1129985",
+          "replier": {
+            "username": "願榮光重歸香港",
+            "uid": "73805"
+          },
+          "date": "2022-11-29",
+          "content": "有點好奇，全支國有幾多個習近平呢？"
+        }
+      ]
+    }
+  ]
+}

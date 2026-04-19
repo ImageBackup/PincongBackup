@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "54796",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "616028",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t俄罗斯解体，分成二十个小国<br/>\n<br/>\n每个小国其实也挺大的\t\t</div>",
+      "date": "2023-01-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "616029",
+      "is_folded": true,
+      "answerer": {
+        "username": "李老师的supervisor",
+        "uid": "50992"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-01-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

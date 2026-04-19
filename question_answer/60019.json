@@ -1,0 +1,71 @@
+{
+  "parent_type": "question",
+  "parent_id": "60019",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "671713",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t高通还没有禁华为的4G芯片，偏偏国内基站很多是华为的，有人揭露华为的基站对华为手机有特别通道，对苹果也有“特别通道”，于是出现了华为手机信号好苹果手机信号差的怪论，华为还可以通过荣耀这个假旗生存，制裁漏洞太大了终成大患。\t\t</div>",
+      "date": "2023-07-19",
+      "agree_count": 9,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1192634",
+          "replier": {
+            "username": "窃國者誅",
+            "uid": "46395"
+          },
+          "date": "2023-07-19",
+          "content": "苹果就不用赖到别人头上了，他们的天线设计部门设计的有缺陷，在设计美学和信号上妥协了设计美学，导致天线性能太辣鸡，英特尔基带芯片背了N年大锅"
+        },
+        {
+          "id": "1192680",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-07-19",
+          "content": "@窃國者誅:不是苹果信号不好，而是你不需要太好的信号"
+        },
+        {
+          "id": "1192697",
+          "replier": {
+            "username": "无网络",
+            "uid": "48884"
+          },
+          "date": "2023-07-19",
+          "content": "@elsaanna:大师我悟了"
+        }
+      ]
+    },
+    {
+      "id": "671712",
+      "is_folded": false,
+      "answerer": {
+        "username": "kxy",
+        "uid": "99835"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t偷的<br/>\n<br/>\n狂笑，自然是高通卖的。<br/>\n<br/>\n高通只是不能卖5g的基带给华为而已。\t\t</div>",
+      "date": "2023-07-19",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1192616",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2023-07-19",
+          "content": "我说为啥cpu后面显示是4G，懂了"
+        }
+      ]
+    }
+  ]
+}

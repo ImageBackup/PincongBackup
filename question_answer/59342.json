@@ -1,0 +1,92 @@
+{
+  "parent_type": "question",
+  "parent_id": "59342",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "664990",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t端午节是吴越人祭祀的传统节日，被中国人偷去搞什么纪念屈原之类的SM爱国主义宣传。\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665004",
+      "is_folded": false,
+      "answerer": {
+        "username": "于万物之中",
+        "uid": "14650"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为端午是百越的节庆，和扬子江以北的没什么关系\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1186754",
+          "replier": {
+            "username": "kazami",
+            "uid": "75866"
+          },
+          "date": "2023-06-24",
+          "content": "你可以问问你的华北侉，东北侉黄友看看有没有这个习俗"
+        }
+      ]
+    },
+    {
+      "id": "664994",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛邓习全面战争",
+        "uid": "99727"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t北方人在节日的饮食习俗为什么比南方简单得多？<br/>\n我认为和几百年来北方饥荒多发、乡绅消失有关\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "664993",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t辟邪，这都不懂？难怪最近中国共产党及俄爹霉运连连。\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1186729",
+          "replier": {
+            "username": "kazami",
+            "uid": "75866"
+          },
+          "date": "2023-06-24",
+          "content": "没共产党前北方也没这个习俗吧，包括划龙舟"
+        }
+      ]
+    },
+    {
+      "id": "664997",
+      "is_folded": true,
+      "answerer": {
+        "username": "喷水穴",
+        "uid": "111557"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-06-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

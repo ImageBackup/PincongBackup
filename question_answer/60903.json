@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "60903",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "680330",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t担心吃不到进口狗粮把<br/>\n<br/>\n好像普京那只秋田犬(日本赠送)<br/>\n<br/>\n<a href=\"url/link/aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3poLWNuL.Wkol8lMjjni5clMjk\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://zh.wikipedia.org/zh-cn/夢_%28狗%29\">https://zh.wikipedia.org/zh-cn/夢_%28狗%29</a> </div>",
+      "date": "2023-08-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "680331",
+      "is_folded": true,
+      "answerer": {
+        "username": "moby2046",
+        "uid": "98917"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-08-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

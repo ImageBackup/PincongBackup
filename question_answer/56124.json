@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "56124",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "631404",
+      "is_folded": false,
+      "answerer": {
+        "username": "維尼五筒出沖",
+        "uid": "80126"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t貌似要冷處理地各地維權活動，好幫中共洗地，減弱中國大陸覺醒民眾的聲勢。\t\t</div>",
+      "date": "2023-02-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "631410",
+      "is_folded": false,
+      "answerer": {
+        "username": "郝明珠",
+        "uid": "107313"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t据说如果医改不停止，他们将在本月三十号冲击武汉长江大桥卧轨抗议。\t\t</div>",
+      "date": "2023-02-16",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1154651",
+          "replier": {
+            "username": "通商宽衣颐使气指",
+            "uid": "74980"
+          },
+          "date": "2023-02-16",
+          "content": "这个月哪有三十号？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "parent_type": "question",
+  "parent_id": "66945",
+  "answer_count": 22,
+  "answers": [
+    {
+      "id": "744538",
+      "is_folded": false,
+      "answerer": {
+        "username": "Punchit",
+        "uid": "79254"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a href=\"url/link/aHR0cHM6Ly93d3cucmZhLm9yZy9tYW5kYXJpbi9YaW53ZW4vNC0wODExMjAyMzExNDIxMy5odG1s\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.rfa.org/mandarin/Xinwen/4-08112023114213.html\">加拿大研究机构：“搜狗”把用户打的每个字都传回总部</a><br/>\n<br/>\n公民实验室报告说，虽然搜狗解决了报告提及的安全漏洞，但这款应用程序仍然将用户输入的内容传输到搜狗位于中国大陆的服务器，而这些服务器都在中国政府的法律管辖下。报告提醒说，搜狗的高风险用户应该谨慎，因为输入的内容中可能包括敏感或个人信息。<br/>\n<br/>\n<br/>\n<a href=\"url/link/aHR0cHM6Ly9jaXRpemVubGFiLmNhLzIwMjQvMDQvJUU2JTk1JUIyJUU2JTk1JUIyJUU2JTg5JTkzJUU2JTg5JTkzJUU0JUI4JTgwJUU3JUIzJUJCJUU1JTg4JTk3JUU0JUJBJTkxJUU3JUFCJUFGJUU4JUJFJTkzJUU1JTg1JUE1JUU2JUIzJTk1JUU2JUJDJThGJUU2JUI0JTlFJUU0JUJEJUJGJUU3JUJEJTkxJUU3JUJCJTlDJUU2JTk0JUJCJUU1JTg3JUJCJUU4JTgwJTg1JUU1JUJFJTk3LXpoLWNuLw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://citizenlab.ca/2024/04/%E6%95%B2%E6%95%B2%E6%89%93%E6%89%93%E4%B8%80%E7%B3%BB%E5%88%97%E4%BA%91%E7%AB%AF%E8%BE%93%E5%85%A5%E6%B3%95%E6%BC%8F%E6%B4%9E%E4%BD%BF%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E8%80%85%E5%BE%97-zh-cn/\">一系列云端输入法漏洞使网络攻击者得以监看个人用户的输入内容</a><br/>\n<br/>\n我们分析了常见云端拼音输入法的安全性，包含百度、荣耀、华为、讯飞、OPPO、三星、腾讯等九家厂商，并分析了它们发送用户输入内容到云端的过程是否含有安全缺陷。<br/>\n分析结果指出，九家厂商中，有八家输入法软件包含严重漏洞，使我们得以完整破解厂商设计用于保护用户输入内容的加密法。亦有部分厂商并未使用任何加密法保护用户输入内容。<br/>\n综合本研究和我们先前研究中发现的搜狗输入法漏洞，我们估计至多有十亿用户受到这些漏洞影响。基于下述原因，我们认为用户输入的内容可能已经遭到大规模收集：<br/>\n<br/>\n这些漏洞影响了广泛的用户群体<br/>\n用户在键盘中输入的信息极为敏感<br/>\n发现这些漏洞不需要高深技术<br/>\n五眼联盟过去曾利用中国应用程序中类似的漏洞施行监控\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 11,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744556",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看来很多人还没有搞清楚一些简单的事情， 在这里说一下目前个人在选择消费品上的一些准则：<br/>\n<br/>\n用Windows自带的微软拼音，  使用Chrome Edge浏览器，  使用Google Bing, 使用Acrobat PDF reader, 使用Office 365， 使用gmail邮箱，  使用Zoom Teams...<br/>\n<br/>\n避免使用搜狗，避免使用QQ/百度浏览器， 尽量避免使用百度， 避免使用WPS， 避免使用@163, @qq.com,  避免使用企业微信/钉钉/腾讯会议....<br/>\n<br/>\n<br/>\n购买iPhone手机/平板/耳机/手表， 购买德/美/日系汽车， 购买苹果/戴尔/HP电脑， 购买一切国外品牌的电子产品， 尽量采购进口牛奶和食品<br/>\n<br/>\n<br/>\n避免购买华为/小米/Oppo及一切国产品牌电子产品， 包括不局限于 电脑/手机/手表/耳机/平板/电视， 拒绝购买任何国产品牌汽车  坦克/长城跑/小米/华为/蔚小理/吉利/比亚迪....<br/>\n<br/>\n总体原则就是， 对于任何消费品及软件，包括免费的软件， 有国外品牌，一定避免使用任何同类国产产品， 都不用对比， 考虑都不需要考虑\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 13,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1263464",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2024-05-08",
+          "content": "那在国内还能买什么牌子的手机呢。。。"
+        }
+      ]
+    },
+    {
+      "id": "744653",
+      "is_folded": false,
+      "answerer": {
+        "username": "夜桜漫當局",
+        "uid": "127894"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我天天用讯飞输入法发傻逼习近平、死妈中共都没被抓\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744473",
+      "is_folded": false,
+      "answerer": {
+        "username": "习皇御驾亲征",
+        "uid": "124637"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t关闭所有的个人信息收集功能，最好买一台2020年之前的手机，不装国产软件<br/>\n如果有国产软件，一定要把每个软件的权限锁死外加关闭个人信息收集功能\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 3,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1261584",
+          "replier": {
+            "username": "习皇御驾亲征",
+            "uid": "124637"
+          },
+          "date": "2024-04-30",
+          "content": "输入法的个人信息收集功能也要关闭"
+        },
+        {
+          "id": "1261612",
+          "replier": {
+            "username": "多倫多方脸",
+            "uid": "126422"
+          },
+          "date": "2024-04-30",
+          "content": "@习皇御驾亲征:个人信息手机功能是哪些选项？读取通讯录 相册定位什么的？"
+        },
+        {
+          "id": "1261631",
+          "replier": {
+            "username": "习皇御驾亲征",
+            "uid": "124637"
+          },
+          "date": "2024-04-30",
+          "content": "@多倫多方脸:你就都屏蔽就行\n好的方面就是大数据系统，以前我在油管看野兽先生，回到b站他也给我推野兽先生，这种就很危险对不对\n迫不得已装国产软件的话就把所有权限都关上，需要用它会提醒你，到时再说\n还有一个是手机里的什么个性广告跟踪，带有这种字眼的功能全关闭就行"
+        },
+        {
+          "id": "1261632",
+          "replier": {
+            "username": "习皇御驾亲征",
+            "uid": "124637"
+          },
+          "date": "2024-04-30",
+          "content": "@多倫多方脸:我只知道会读取粘贴板，应该还有其他侵权的行为，不过没办法证实"
+        },
+        {
+          "id": "1261634",
+          "replier": {
+            "username": "习皇御驾亲征",
+            "uid": "124637"
+          },
+          "date": "2024-04-30",
+          "content": "@多倫多方脸:简单来说就是手机系统 、输入法和应用软件，里面的什么个性化广告收集 、采集个人信息和读取粘贴板读取麦克风等等这些都关上"
+        },
+        {
+          "id": "1261672",
+          "replier": {
+            "username": "多倫多方脸",
+            "uid": "126422"
+          },
+          "date": "2024-04-30",
+          "content": "@习皇御驾亲征:国产软件最流氓的一点就是一旦你关了这些功能，你每次打开它就会弹窗提醒为了更方面的服务（监视）你，请打开xx权限，否则xx功能会无法使用或影响体验，天天弹，直到你受不了骚扰重新打开权限，要我说给国产软件搞开发的这边畜生都该屠了，没几个他妈冤枉的，为虎作伥"
+        },
+        {
+          "id": "1261719",
+          "replier": {
+            "username": "习皇御驾亲征",
+            "uid": "124637"
+          },
+          "date": "2024-05-01",
+          "content": "@多倫多方脸:一般来说，只要存储功能打开就行"
+        }
+      ]
+    },
+    {
+      "id": "744519",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n<pre>https://citizenlab.ca/2023/08/vulnerabilities-in-sogou-keyboard-encryption/</pre><br/>\n从之前Citizen Lab发的一份报告看搜狗输入法会把你用它输入的所有字符、android设备上安装的应用的列表发到它的服务器上，之后会干啥就不知道了。<br/>\n<br/>\n<b>关于Android上的输入法</b><br/>\nf-droid上有个Fcitx5 for Android，应该不用太多配置就能用，你要试试吗？<br/>\n<pre>https://f-droid.org/packages/org.fcitx.fcitx5.android/</pre><br/>\n还有个 com.osfans.trime ，在我以前用的时候，它是要 /sdcard 的读写权限的（其实用SAF就行了，不用申请READ_EXTERNAL_STORAGE和WRITE_EXTERNAL_STORAGE这样危险的权限），<s>现在不知道改了没。</s>（2024-05-03: 还没有改）<br/>\n以前AOSP自带的输入法是可以输入中文的，现在不行了。<br/>\n<br/>\nwindows很久没用了，没法推荐。\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 4,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1261976",
+          "replier": {
+            "username": "weibao",
+            "uid": "41372"
+          },
+          "date": "2024-05-02",
+          "content": "ｔｒｉｍｅ申请使用READ_EXTERNAL_STORAGE和WRITE_EXTERNAL_STORAGE好像是因为有个ｒｉｍｅ配置文件夹要放在指定的位置（可以通过程序指定），不知道除了对这个文件夹读写操作之外，还有没有别的原因要申请存贮读写权限，\n所以你的意见是如果ｔｒｉｍｅ没有现在仍然使用存贮读写的话，就不推荐这个输入法，比较危险是吗？"
+        },
+        {
+          "id": "1262131",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-05-02",
+          "content": "@weibao: 我是说这两个权限很危险，不是说trime用这些权限做了什么坏事。不过我还是觉得这种实现方式不好，一是将应用的内部文件暴露给有这个权限的其它应用，破坏了android沙盒化的努力（我个人认为这种缓解措施是有意义的，桌面系统也应当学习）；二是影响了易用性（与android API变化和对这两个权限的限制有关）。"
+        },
+        {
+          "id": "1262244",
+          "replier": {
+            "username": "weibao",
+            "uid": "41372"
+          },
+          "date": "2024-05-03",
+          "content": "@Streptopelia:感谢，ｔｒｉｍｅ没说一定会利用得到的权限干坏事，但是这种申请权限的实现方式有被利用的可能，知道你的意思，已经按你的推荐在手机上改用ｆｃｉｔｘ＋ｒｉｍｅ插件了，只要把原来的ｒｉｍｅ文件夹换个位置就行，\n说到ＳＡＦ，难怪从ａｎｄｒｏｉｄ８开始，发现ｇｈｏｓｔ　ｃｏｍｍａｎｄｅｒ里面显示的文件夹内容会和自带的Ｆｉｌｅｓ文件管理器显示的内容有时不同，ｇｃ程序一打开主页上面专门还有一个ＳＡＦ条目，\n另外你说的ＳＡＦ借鉴给桌面ｌｉｎｕｘ，现有的环境下有类似的机制吗，比如ｄｏｃｋｅｒ内的输入法共享给ｈｏｓｔ使用（只用过ｄｏｃｅｒ无头来跨环境编译，没用过类似沙盒这种），或者ａｐｐａｍｏｒ限制读写，请指教如何ｌｉｎｕｘ上沙盒化输入法，\n现在ｌｉｎｕｘ上面用的是自带ｉｂｕｓ＋ｒｉｍｅ，因为以前用ｆｃｉｔｘ在ｅｍａｃｓ里面经常汉字不上屏，感谢，"
+        },
+        {
+          "id": "1262443",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-05-03",
+          "content": "@weibao: 你一下子问太多问题，回答起来好麻烦。\nSAF在android 4.4就有了，你说的android 8的变化应该跟SAF没关系，定制的android的默认文件管理器就是可能会有奇怪的bug，或者故意阉割，我有见过不能显示文件名的第一个字节是\".\"的文件的，不显示非预装应用的document provider的，不显示 /sdcard/Android/data 的。\n在emacs里用fcitx输入中文有可能要额外配置，Arch Linux的wiki上面有写，好奇的话可以去看看，顺便说一下，其它linux发行版出现的问题，有时候也能在那里看到解决方法。\n剩下的问题要等我查到了才能回答。"
+        },
+        {
+          "id": "1262682",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-05-04",
+          "content": "@weibao: 🤔似乎是没办法沙盒化，没搜到有发行版默认状态下大部分重要程序有沙盒化的，而且linux下的很多应用并不是为此设计的。linux下是有一些功能对开发沙盒有用，比如你之前提到的apparmor，以及seccomp_filter（限制系统调用）、Landlock、selinux等。\nchromiumOS里面是有实现，不过它很显然不是我们想要的桌面系统☹️。"
+        },
+        {
+          "id": "1263465",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2024-05-08",
+          "content": "不错，准备试用下，这个好像是一个类似“应用市场”的软件。"
+        }
+      ]
+    },
+    {
+      "id": "744605",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t会监控，但主要目的是给你推商品广告，不是监控你的反党言论。<br/>\n<br/>\n很多人都有这种体验，自己和朋友或者同事聊了什么，很快上微信或者微博抖音的时候就有相应的广告推过来。一般就是你聊天时候内容被输入法出卖了，还有时候可能是你的朋友去搜索了这个东西，你俩之间是好友的关系手机也知道，于是也给你推荐这个商品。\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744606",
+      "is_folded": false,
+      "answerer": {
+        "username": "fm1068",
+        "uid": "30845"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t肯定会，所以虽然google手机输入法很难用我还是一直在用\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "746207",
+      "is_folded": false,
+      "answerer": {
+        "username": "赵客胡缨",
+        "uid": "97803"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t半专业人士表示：<br/>\n  <br/>\n反正我们律所针对所有发往类似@qq.com @163.com 一类的国内邮箱，全部有保密审查制度：邮件会自动被所里的系统拦截，经过检查不含涉密信息才能发送。据说是因为这些邮箱会把私人信件甚至律师函转给中共。<br/>\n  <br/>\n律师函这玩意儿，一旦第三方看了，就不受司法特权保护了。\t\t</div>",
+      "date": "2024-05-08",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1263462",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2024-05-08",
+          "content": "共产党对任何人的微信聊天记录都能想看就看，查看邮件当然也是如此了。"
+        }
+      ]
+    },
+    {
+      "id": "744542",
+      "is_folded": false,
+      "answerer": {
+        "username": "司马脱",
+        "uid": "76468"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这么好用的当然用上，从源头管起lol<br/>\n<br/>\n作为一个IT外行直观的感受到，实际上有很多传闻，包括你的输入很快反映到广告商那，给你精准推送，有的是因为搜索关键字节，有的是微信QQ聊天，有的只是因为你特别看了几眼某类商品或美女，追踪你的点击以后发展到追踪眼球发现个体关注趋势也不是不可能<br/>\n<br/>\n这只是商业应用，用在别的地方呢？技术上没有问题吧。\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744910",
+      "is_folded": false,
+      "answerer": {
+        "username": "刘峰",
+        "uid": "128382"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我每天都用搜狗输入法肏习近平他妈，也没见得被黑皮狗带走喝茶，估计是咱们咖位太小了，傻逼共匪不爱搭理咱们，不过这样也挺好，起码不妨碍我每天肏习近平他妈😅\t\t</div>",
+      "date": "2024-05-02",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744614",
+      "is_folded": false,
+      "answerer": {
+        "username": "左胶太多了",
+        "uid": "111667"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以装rime输入法，linux、win、mac、android和ios上都有。 开源免费不追踪不联网，还可以自己客制化。\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "746233",
+      "is_folded": false,
+      "answerer": {
+        "username": "we14",
+        "uid": "123411"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不分平台都会监控的，所以建议是不用国产输入法，实在需要用到的建议缩写，不然被监控到会上门谈话的。国内社交APP就是被监控的，曾经有个同学在微信里发了一些东西，第二天直接被上门谈话了。\t\t</div>",
+      "date": "2024-05-08",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744522",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t傻子都知道肯定会，输入法既然能给你定向分发广告，那就肯定能用大数据分析监控你。\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744978",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不光是敏感词屏蔽，而且窃听你打过什么字可以做用户画像，卖你的信息和用户特征来赚钱\t\t</div>",
+      "date": "2024-05-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "746268",
+      "is_folded": false,
+      "answerer": {
+        "username": "去有风的地方",
+        "uid": "128584"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用小企鹅输入法<br/>\n去GitHub 下载<br/>\n或者用那个Gboard输入法<br/>\n在谷歌商店搜索并下载\t\t</div>",
+      "date": "2024-05-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744807",
+      "is_folded": false,
+      "answerer": {
+        "username": "benrock",
+        "uid": "7429"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t“云端输入法”就是专门把你的 keystrokes 送到服务器，服务器上用强大的计算资源来猜测你所想要的汉字是什么。 有时候你要输入一些流行的字词（比如三中全会、疫情防控等），云服务器有机会从最新的资讯里猜出你所用的词。<br/>\n<br/>\n至于你所输入的文字它有没有记录、有没有监控然后碰到敏感词时有没有报警，这些只能凭它的良心。 从技术上说，都可以做到。\t\t</div>",
+      "date": "2024-05-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744557",
+      "is_folded": false,
+      "answerer": {
+        "username": "穿越时空的凝视",
+        "uid": "126457"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我听一些搞软件的人说，用英文原版的系统就可以避免后门的问题，据说有些SP文件是中共改过的。不知道是不是真的。<br/>\n不过，英文原版的系统超难用就是了。\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1261674",
+          "replier": {
+            "username": "Deceiving4271",
+            "uid": "117645"
+          },
+          "date": "2024-04-30",
+          "content": "并没有，你需要官方的镜像。"
+        }
+      ]
+    },
+    {
+      "id": "744583",
+      "is_folded": false,
+      "answerer": {
+        "username": "att",
+        "uid": "48379"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你不登录不就得了,登录就会记录你的输入<br/>\n让人戚额请问企鹅额\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744599",
+      "is_folded": false,
+      "answerer": {
+        "username": "姚莉13574286315",
+        "uid": "127846"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t咦，不能删除发言？<br/>\n<br/>\n我后悔了啊……<br/>\n<br/>\n晶哥我不是故意的！<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvZjg5NTkzMDc4OWQ2NDlhY2ZmMWFiLmpwZz93aWR0aD0zNjAmaGVpZ2h0PTM2MA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/f895930789d649acff1ab.jpg?width=360&amp;height=360\"></a> </div>",
+      "date": "2024-05-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744886",
+      "is_folded": false,
+      "answerer": {
+        "username": "小春日和",
+        "uid": "95566"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\trime或者pime很不錯，有注音也有拼音而且都可以輸出簡體\t\t</div>",
+      "date": "2024-05-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "746201",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得这个帖子有价值，希望能有可以替换国产输入法的各个平台的开源替代品。因为用国产输入法太不安全。\t\t</div>",
+      "date": "2024-05-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744460",
+      "is_folded": false,
+      "answerer": {
+        "username": "rampage",
+        "uid": "123646"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tmacbook的不都是自带的输入法吗？我认为中共没本事监控这个。\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": -1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1261733",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2024-05-01",
+          "content": "Mac早年的中文输入法烂得一逼，必须得装第三方输入法。而输入法这种东西是有使用惯性的，用习惯了就不容易换。"
+        }
+      ]
+    }
+  ]
+}

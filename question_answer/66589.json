@@ -1,0 +1,85 @@
+{
+  "parent_type": "question",
+  "parent_id": "66589",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "740846",
+      "is_folded": false,
+      "answerer": {
+        "username": "民主信仰者",
+        "uid": "653"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t哎呀，該從哪裡開始說呢？<br/>\n我知道對於資訊單一化的繭房來說，要得到足夠多的情報反覆驗證資訊不太可能，可是品蔥畢竟不是被關在長城裡，驗證本身並不困難。<br/>\n各國智庫原文什麼的就算了，能不能請你起碼稍微翻一下國際媒體的報導？<br/>\n<br/>\n<blockquote>“脱钩论”已经被证明不受欧美国家欢迎。即使政界有意脱钩，商业界，特别是工业公司难以找到取代中国的供应商和市场。</blockquote><br/>\n真的嗎？你有沒有興趣看一下中國對各國的進出口數字？<br/>\n喔，或者我應該說各國對中國的進出口資料，畢竟中國海關的資料不曉得為什麼，跟別人家海關的數字對不太上。<br/>\n<br/>\n<blockquote>这个现象的根本原因在于，没有任何一个国家有能力培养中国体量的数理化做题家。车企，化工企业单靠新加坡，日韩，台湾发展不现实。</blockquote><br/>\n我第一次聽到有人稱讚做題家的重要性，而不是嘲諷。<br/>\n<br/>\n這個現象在於<b>目前沒有哪個國家擁有被各國資金與技術集中投資十幾年後，成長出來的生產規模</b>。跟做題家有什麼關係？你家的工廠生產是要人一個個手動用儀器去生產去尺寸的是不是？<br/>\n<br/>\n而且替代者已經有好幾個候選了，他們正在快速趕上。<br/>\n或許我應該跟你說各國對越投資的成長？還是跟你說越南的進出口數字？\t\t</div>",
+      "date": "2024-04-14",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "740813",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t楼主言论和ID一样，一股支味。中国在制造业和和化工业体量确实不小，但远远谈不上缺之不可的程度。\t\t</div>",
+      "date": "2024-04-14",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "740798",
+      "is_folded": false,
+      "answerer": {
+        "username": "workingpaper",
+        "uid": "21337"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看了下RFI的报道，我理解的大白话就是德企赖死不想走（这次出头的是西门子），遭到中共白手套企业的“竞争”还是不愿走，最好是“既要又要”——既卖货给中国，又转移依赖链。<br/>\n<br/>\n个人猜测，是不是仍然有人买他们的货（并且数额不少），舍不得放手？又或者，德企汇出利润时被外汇管制手段套牢转不出去，所以才来讨好一番？\t\t</div>",
+      "date": "2024-04-14",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "740831",
+      "is_folded": false,
+      "answerer": {
+        "username": "魁北克大山",
+        "uid": "127269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t德国同事帮某德企在中国的合资公司在阿里云里部署基于 k8s 的 On-Prem 解决方案，不出所料（事先告诫过了），在没有通往墙外专线或 VPN 的情况下连安装都进行不下去，因为安装过程中有一堆 ECR S3 依赖而 AWS 域名被 GFW 封了，简单的 DNS 污染下他们就懵逼反应不过来了，毕竟没有与墙作战的实践经历。\t\t</div>",
+      "date": "2024-04-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "740794",
+      "is_folded": false,
+      "answerer": {
+        "username": "长城汽车倒闭了吗",
+        "uid": "124857"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t挺好的，依赖持续数十年，直到大厦崩塌，再教育营的汉语课，改造成炎黄子孙\t\t</div>",
+      "date": "2024-04-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "740841",
+      "is_folded": false,
+      "answerer": {
+        "username": "华夏共和国",
+        "uid": "120258"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t德企就是共产党的大救星，他们不愿意走，当然共产党是最高兴的。现在不走，估计以后想走也没那么容易。\t\t</div>",
+      "date": "2024-04-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

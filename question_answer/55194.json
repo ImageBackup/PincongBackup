@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "55194",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "620675",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t网监直接入驻腾讯公司，并非腾讯公司行为<br/>\n涉政、涉包，都是永封<br/>\n如果共产党垮台，倒有解封的可能性\t\t</div>",
+      "date": "2023-01-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "620623",
+      "is_folded": false,
+      "answerer": {
+        "username": "PureGo",
+        "uid": "106623"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你居然亲自下场 闹革命 ？<br/>\n<br/>\n还用微信   微信不是实名认证的吗。\t\t</div>",
+      "date": "2023-01-14",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1144526",
+          "replier": {
+            "username": "赤匪末日",
+            "uid": "103029"
+          },
+          "date": "2023-01-14",
+          "content": "若为自由故，一切皆可抛"
+        }
+      ]
+    },
+    {
+      "id": "620673",
+      "is_folded": true,
+      "answerer": {
+        "username": "喜欢吃包子",
+        "uid": "103320"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-01-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "60283",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "674208",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不违法。<br/>\n<br/>\nGoogle的蜻蜓工程被爆出来，遭到媒体谴责，但没有检方立案。<br/>\n<br/>\n虽说没立案不代表不违法，但品葱诸位再各抒己见，也达不到随便一个大公司法务部的程度。\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1194994",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2023-07-27",
+          "content": "那可不一定。大公司里面除了GM，剩下的法务部大多数是草包（GM是例外，在该花钱的地方不花钱，找律师倒是很厉害）"
+        }
+      ]
+    },
+    {
+      "id": "674228",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美帝防范中华人民共和国封建社会主义颜色革命渗透大可以借鉴普京大帝给米格设计局前高层开窗户的强硬措施，杀鸡儆猴，以儆效尤。\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "674215",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t防火牆主體是硬件不是軟件，來自cisco\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "674206",
+      "is_folded": false,
+      "answerer": {
+        "username": "lene",
+        "uid": "98819"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有证据吗 先把方滨兴了解清楚再说吧补丁补丁补丁\t\t</div>",
+      "date": "2023-07-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "62204",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "693840",
+      "is_folded": false,
+      "answerer": {
+        "username": "Hayashi",
+        "uid": "16805"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t又不是非藍即黃，非黃即藍的兩極化。看烟花只是放假圖個熱鬧好看，看了并不代表愛國支持政府支持中共。 <br/>\n<br/>\n移民又不僅僅只是簽證那麽簡單的事情，尤其是收入穩定上有老下有小\t\t</div>",
+      "date": "2023-10-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "693724",
+      "is_folded": true,
+      "answerer": {
+        "username": "pushen",
+        "uid": "93575"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-10-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

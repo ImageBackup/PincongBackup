@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "67005",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "745075",
+      "is_folded": false,
+      "answerer": {
+        "username": "okamiyu",
+        "uid": "81756"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t秦王有病召医，破痈溃痤者得车一乘，舐痔者得车五乘，所治愈下，得车愈多。子岂治其痔邪，何得车之多也？子行矣！<br/>\nby 庄子\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "745076",
+      "is_folded": false,
+      "answerer": {
+        "username": "Freehand4252",
+        "uid": "128351"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t华罗庚担任中国科学院数学研究所所长就是郭沫若邀请的。\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "parent_type": "question",
+  "parent_id": "64306",
+  "answer_count": 9,
+  "answers": [
+    {
+      "id": "716518",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t都要走boc, 只是方式不同. 学费刷卡付钱太大了. 应该在所在国开账户, 让你国内的boc账户汇钱进你国外账户. 当然boc得允许你换汇. 每年5万的额度.\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1235622",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-12-31",
+          "content": "那这样跨行转账不是还得付手续费？如果我在boc的海外分行开账户的话还要收手续费吗？"
+        },
+        {
+          "id": "1235717",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-01-01",
+          "content": "@屠支太君: 应该都要, 差不了多少钱."
+        }
+      ]
+    },
+    {
+      "id": "716449",
+      "is_folded": false,
+      "answerer": {
+        "username": "BreakingWave",
+        "uid": "50441"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能也不能。<br/>\n<br/>\n科普一下金融知识：汇兑和清算机构是两个东西。<br/>\n<br/>\n每个国家的银行系统，即使都是同一家跨国银行的子公司，也都是独立的，需要符合当地的法律。所以单纯中国银行有外国分行也没有用。<br/>\n<br/>\n一般国际汇款走的是SWIFT，但是想把钱弄出来除了SWIFT也有别的办法。<br/>\n<br/>\n比如Visa/MasterCard/银联都支持国际跨行提款，当然有手续费。\t\t</div>",
+      "date": "2023-12-30",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1235621",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-12-31",
+          "content": "跨行应该不需要，但是我如果想在外国提出我在中国开的账户里的钱都话，我好像不能直接提取欧元呀，只能提相应数量的日妈币而已😕"
+        },
+        {
+          "id": "1235826",
+          "replier": {
+            "username": "BreakingWave",
+            "uid": "50441"
+          },
+          "date": "2024-01-01",
+          "content": "@屠支太君:可以提取欧元的。ATM里也不会给你放人民币的。走银联网络等值扣款人民币。汇率比较差，但是可以绕过外汇管制。这个好像一个人名下所有卡一年提20万人民币。"
+        }
+      ]
+    },
+    {
+      "id": "716446",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t了解下swift<br/>\n<br/>\n<a href=\"url/link/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU1dJRlQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://en.wikipedia.org/wiki/SWIFT\">https://en.wikipedia.org/wiki/SWIFT</a> </div>",
+      "date": "2023-12-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716448",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不知道你学费多少 ATM机零星取现小几千可能行 大几万的肯定拿不出来 你在国内开随便什么卡都没用 最好的还是信用卡刷卡当生活开销用 本地花欧元 国内还人民币\t\t</div>",
+      "date": "2023-12-30",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1235414",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-12-30",
+          "content": "换成人民币确实顶得上一些人矿的年收入了。我的想法就是先换成外汇，再在外国取出现金，不知道行不行"
+        }
+      ]
+    },
+    {
+      "id": "716456",
+      "is_folded": false,
+      "answerer": {
+        "username": "soto35",
+        "uid": "120394"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那些支持美元人民币互换的数字钱包手续费真的贵。\t\t</div>",
+      "date": "2023-12-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716476",
+      "is_folded": false,
+      "answerer": {
+        "username": "心理不稳定的韭菜",
+        "uid": "75115"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中行（实际上所有国内银行卡，只要带银联标）直接找带银联表的atm机，每人每年限额十万，每天限额一万<br/>\n<br/>\n而且如果你已经变成了欧元现汇，用银联通道提你还得先把欧元现汇换回成人民币<br/>\n<br/>\n如果你的银行卡标识同时是visa或master（这种国内也能开，号称是跨境取款海外支付方便，其实没啥太大区别）那么只要atm机上有visa master的标志就可以，但是这种会要求你的账户先购买好对应取款币种的现汇（因为他们直接走visa和master通道，不走银联通道）购买现汇的话一般网银就可以操作\t\t</div>",
+      "date": "2023-12-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716767",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t他如果不让你汇钱出去，也不会让你在外国atm上取出钱\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1235658",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-12-31",
+          "content": "但是房租也是用同一张卡在同一个平台上付的，那个怎么就成功了？"
+        }
+      ]
+    },
+    {
+      "id": "716770",
+      "is_folded": false,
+      "answerer": {
+        "username": "齁了",
+        "uid": "120222"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你可以直接在国外刷卡，只要你的银行卡支持国外付款，好像中国银行的就行，每次消费会有微量手续费。\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716928",
+      "is_folded": false,
+      "answerer": {
+        "username": "绿洲大学8964",
+        "uid": "113484"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t推荐你使用usdt，用人民币买了usdt，然后在国外卖usdt，资金就出来了。\t\t</div>",
+      "date": "2024-01-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "parent_type": "question",
+  "parent_id": "55912",
+  "answer_count": 23,
+  "answers": [
+    {
+      "id": "629185",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t洋葱浏览器，当所有VPN都失效时，用snowflake网桥突破GFW，缺点是速度较慢<br/>\n大多数用户都是将洋葱浏览器放在VPN后面，关闭网桥直连或使用obfs4网桥<br/>\n实际上，洋葱浏览器可以作为其它VPN的前置代理，代理类型socks5，端口号为9150<br/>\n<a href=\"url/link/aHR0cHM6Ly93d3cudG9ycHJvamVjdC5vcmcvZG93bmxvYWQv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.torproject.org/download/\">https://www.torproject.org/download/</a><br/>\n<br/>\n迷雾通使用最前沿的反封锁技术，不管是现在还是未来的封锁系统都难以屏蔽迷雾通。在过去的三年中，迷雾通多次遭到GFW的针对性攻击，并且屡战屡胜。迷雾通更是目前市面上唯一提供封几天赔几天的翻墙软件。<br/>\n<a href=\"url/link/aHR0cHM6Ly9nZXBoLmlvL3pocw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://geph.io/zhs\">https://geph.io/zhs</a><br/>\n<br/>\n蓝灯又称“阿里灯”，有钓鱼嫌疑，自由门和赛风已经不适合在墙内作为前置代理使用，连接数分钟后会断连，有可能协议被GFW识别了。无界经常链接困难<br/>\n<br/>\n无界和赛风可以放在迷雾通的后面，作为二级代理使用<br/>\n三重代理+洋葱浏览器会比较安全，即便我们使用了钓鱼VPN，但有洋葱浏览器的保护，网警也无法侦测我们访问了哪些网站\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 15,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1152750",
+          "replier": {
+            "username": "heidike",
+            "uid": "107298"
+          },
+          "date": "2023-02-08",
+          "content": "感觉洋葱不太稳定"
+        },
+        {
+          "id": "1152795",
+          "replier": {
+            "username": "pz221",
+            "uid": "51046"
+          },
+          "date": "2023-02-09",
+          "content": "及时可以有二级代理，但我也不建议各位用钓鱼VPN，因为你用VPN是不能隐藏你访问的IP地址的，到时候直接封你VPN。"
+        }
+      ]
+    },
+    {
+      "id": "629141",
+      "is_folded": false,
+      "answerer": {
+        "username": "通商宽衣颐使气指",
+        "uid": "74980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t官网只有简体中文，支付方式只有微信支付宝，用户协议中明确提到封锁法轮功网站禁止谈政治的肯定是钓鱼vpn\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 14,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "628919",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tFreegate  https://dongtaiwang.com/loc/download.php<br/>\nLantern    https://lantern.io<br/>\nPsiphon3  https://psiphon.ca/en/download.html<br/>\nUltrasurf  https://ultrasurf.us/download/<br/>\n<br/>\n_ _ 先確定設備安全, DNS(域名服務)可靠未被劫持, 使用上述軟件時確保證書安全, 全程保持 HTTPS 加密連接.\t\t</div>",
+      "date": "2023-02-07",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152414",
+          "replier": {
+            "username": "heidike",
+            "uid": "107298"
+          },
+          "date": "2023-02-07",
+          "content": "我去试试，感谢"
+        }
+      ]
+    },
+    {
+      "id": "629509",
+      "is_folded": false,
+      "answerer": {
+        "username": "lpkoji",
+        "uid": "107829"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t登不上大纪元和台湾政府网站的一律按照钓鱼处理\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 9,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "693803",
+      "is_folded": false,
+      "answerer": {
+        "username": "fish_sdn",
+        "uid": "117104"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t既然你可以翻墙出来发帖那么你应该是知道如何翻墙并且会tor浏览，你更像是来钓鱼，通过问来知道方式并且引导网安部门进行封杀。\t\t</div>",
+      "date": "2023-10-02",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "634096",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t啥形势了还在钓鱼？关在中国大监狱关傻了吧？时下，中国流行没有条件润也要创造条件润的润学。红色血脉从来不用可以被各种小黑手党拿来敲诈低端人口的飞机场。党政、军、学大院是金融专线直达。\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156810",
+          "replier": {
+            "username": "gradient",
+            "uid": "92506"
+          },
+          "date": "2023-02-24",
+          "content": "掉尼马个币的鱼，我要国外的vpn习近平还能派你去国外给他端了还是制裁国外公司？？就你一个亲人没有是孤儿是吧，想走就能走，脑子有病"
+        }
+      ]
+    },
+    {
+      "id": "629442",
+      "is_folded": false,
+      "answerer": {
+        "username": "浪人人浪",
+        "uid": "107356"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自己搭,我可以教你.自己租個外面的伺服器,遠程操縱,裝上必要的軟體,就能連了.\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152820",
+          "replier": {
+            "username": "heidike",
+            "uid": "107298"
+          },
+          "date": "2023-02-09",
+          "content": "门槛有点高了哈哈"
+        }
+      ]
+    },
+    {
+      "id": "634035",
+      "is_folded": false,
+      "answerer": {
+        "username": "StawScorpio",
+        "uid": "89414"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tExpress vpn不好用了吗？最后一次回国是19年，那时候连接美国的节点还很稳定也快。后来就不清楚了\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1156766",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-02-24",
+          "content": "问题就是后来黄了"
+        },
+        {
+          "id": "1156816",
+          "replier": {
+            "username": "gradient",
+            "uid": "92506"
+          },
+          "date": "2023-02-24",
+          "content": "大部分节点都不能用，能用的节点一个周也就一两天能用"
+        }
+      ]
+    },
+    {
+      "id": "630172",
+      "is_folded": false,
+      "answerer": {
+        "username": "ypPscEzbo",
+        "uid": "102254"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谷歌一下vpn黑名单，中资的千万别用，外资的也要套层tor，谁知道会不会跟共匪合作\t\t</div>",
+      "date": "2023-02-12",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "628999",
+      "is_folded": false,
+      "answerer": {
+        "username": "一根小葱葱",
+        "uid": "107450"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t试试这个www.opwpvpn.net  <br/>\n个人觉得比其他的靠谱，而且比较稳，最关键的是目前可以白嫖\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 3,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1152587",
+          "replier": {
+            "username": "通商宽衣颐使气指",
+            "uid": "74980"
+          },
+          "date": "2023-02-08",
+          "content": "别告诉我你是用国内实名的QQ邮箱注册的"
+        },
+        {
+          "id": "1152809",
+          "replier": {
+            "username": "小韭菜盒子",
+            "uid": "107451"
+          },
+          "date": "2023-02-09",
+          "content": "怎么白嫖？靠谱不哦，求大神带带我"
+        },
+        {
+          "id": "1152922",
+          "replier": {
+            "username": "通商宽衣颐使气指",
+            "uid": "74980"
+          },
+          "date": "2023-02-09",
+          "content": "@小韭菜盒子:为了安全建议配一部没有国内的手机卡及应用程序的手机（目前仅支持Android版），并使用虚拟邮箱注册账号"
+        },
+        {
+          "id": "1156359",
+          "replier": {
+            "username": "hahaha111",
+            "uid": "107824"
+          },
+          "date": "2023-02-22",
+          "content": "操作起来咋个样哦 难不难啊"
+        }
+      ]
+    },
+    {
+      "id": "629359",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有的时候是可以看一下广告的，例如品葱首页右上角的广告。<br/>\n<br/>\n---<br/>\n<br/>\n自己花钱买服务器、自己动手搭建的才是安全的vpn。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629368",
+      "is_folded": false,
+      "answerer": {
+        "username": "zzxxmmmm",
+        "uid": "107807"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷雾通大概率是钓鱼的，因为上不去大纪元。蓝灯可以上，所以用蓝灯。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1152948",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-02-09",
+          "content": "已删除"
+        },
+        {
+          "id": "1153509",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-11",
+          "content": "蓝灯是阿里云出口，你敢用？"
+        },
+        {
+          "id": "1156225",
+          "replier": {
+            "username": "使命光荣责任重大",
+            "uid": "100513"
+          },
+          "date": "2023-02-22",
+          "content": "我刚刚试过了，迷雾通可以上大纪元"
+        },
+        {
+          "id": "1156500",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-02-23",
+          "content": "@使命光荣责任重大:大纪元的服务器防火墙似乎屏蔽了迷雾通美区节点ip，导致美区节点无法访问大纪元"
+        },
+        {
+          "id": "1156501",
+          "replier": {
+            "username": "使命光荣责任重大",
+            "uid": "100513"
+          },
+          "date": "2023-02-23",
+          "content": "@客观评价习近平:那就是大剧院的问题了，不是迷雾通的问题，我一般用法国节点，可以上大剧院"
+        }
+      ]
+    },
+    {
+      "id": "634024",
+      "is_folded": false,
+      "answerer": {
+        "username": "boeing797",
+        "uid": "2145"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t维尼云，听名字就知道危险不到哪里去，而且这家确实不像多数<mark>支那</mark>机场一样ban法轮功或者台湾政府的网站\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156812",
+          "replier": {
+            "username": "gradient",
+            "uid": "92506"
+          },
+          "date": "2023-02-24",
+          "content": "ok，thanks"
+        }
+      ]
+    },
+    {
+      "id": "629427",
+      "is_folded": false,
+      "answerer": {
+        "username": "pz221",
+        "uid": "51046"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t狗急加速、快连VPN、迅连VPN也可以，但快连别用香港的服务器，因为香港的是用阿里的机房，怕阿里有后门。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1152810",
+          "replier": {
+            "username": "arsingsoa",
+            "uid": "101392"
+          },
+          "date": "2023-02-09",
+          "content": "快连是真的不错 我做灰产的老板推荐的"
+        },
+        {
+          "id": "1152836",
+          "replier": {
+            "username": "pz221",
+            "uid": "51046"
+          },
+          "date": "2023-02-09",
+          "content": "@arsingsoa:可惜都涨价了QAQ"
+        }
+      ]
+    },
+    {
+      "id": "629252",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t借楼问一下，香蕉vpn，如何？有点贵，会不会是支共钓鱼的\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152749",
+          "replier": {
+            "username": "heidike",
+            "uid": "107298"
+          },
+          "date": "2023-02-08",
+          "content": "可以参考一下楼上老哥的方法"
+        }
+      ]
+    },
+    {
+      "id": "634036",
+      "is_folded": false,
+      "answerer": {
+        "username": "赤裸近平",
+        "uid": "100125"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t987加速，我用了一年多，效果很好，平台活动很多，价格很感人。是我之前一个VPN挂掉后无意中发现的，不过这个平台广告打的很少，你可能搜不到。\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156811",
+          "replier": {
+            "username": "gradient",
+            "uid": "92506"
+          },
+          "date": "2023-02-24",
+          "content": "谢谢，我就想找个这种小众的vpn，我去看看"
+        }
+      ]
+    },
+    {
+      "id": "634038",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果沒有高危活動, 例如我這樣[瘋狂攻擊黨和人民]的話~可以嘗試下<br/>\n<br/>\n搭建了一个仅支持虚拟货币支付的机场,广告alert - 新·品葱<br/>\nhttps://pincong.rocks/article/55148<br/>\n<br/>\n期待反饋, 只是新機場人又少才推薦的, 對安全性我還未測試沒法做背書.\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1156814",
+          "replier": {
+            "username": "gradient",
+            "uid": "92506"
+          },
+          "date": "2023-02-24",
+          "content": "我就是想花点小钱找个靠谱的vpn，不尝试了。谢谢"
+        },
+        {
+          "id": "1156818",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-02-24",
+          "content": "@gradient: 沒事, 也只是借花獻佛. 祝你找到心儀的並反饋褒貶一番~"
+        }
+      ]
+    },
+    {
+      "id": "634039",
+      "is_folded": false,
+      "answerer": {
+        "username": "clearlove_8964",
+        "uid": "101818"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有技術能力就自建，用vless+xtls vision+reality方案，可以破泉州SNI白名單。<br/>\n沒技術能力可以用迷霧通，迷霧通在伊朗表現不錯，伊朗的策略比中國還要嚴格，且迷霧通能免費使用。<br/>\n另外，無論何種方案，一定要【雙重代理】。若使用自建，請勿直出品蔥，務必套第二層代理（如Tor）！只看黃色不反共的話這點可以忽略。迷霧通預設雙重代理，因此無需額外配置。使用機場和自建的才需要注意一下。\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156809",
+          "replier": {
+            "username": "gradient",
+            "uid": "92506"
+          },
+          "date": "2023-02-24",
+          "content": "好的，我试试迷雾通，thanks"
+        }
+      ]
+    },
+    {
+      "id": "629439",
+      "is_folded": false,
+      "answerer": {
+        "username": "TIAN_KUAI_HUO",
+        "uid": "88301"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好用VPN我是不知道<br/>\n<br/>\n至于辨别赤匪钓鱼几乎不可能，连一般钓鱼网站都不易预防了，何况玄学般的VPN\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152819",
+          "replier": {
+            "username": "heidike",
+            "uid": "107298"
+          },
+          "date": "2023-02-09",
+          "content": "的确很难防"
+        }
+      ]
+    },
+    {
+      "id": "634097",
+      "is_folded": false,
+      "answerer": {
+        "username": "koochenghsien",
+        "uid": "105715"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t手机上用的shadowx和快喵，免费的，但现在也越来越不好用了。<br/>\nMacBook上用的是西游，付费的，这个还挺好用。\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156817",
+          "replier": {
+            "username": "gradient",
+            "uid": "92506"
+          },
+          "date": "2023-02-24",
+          "content": "谢谢"
+        }
+      ]
+    },
+    {
+      "id": "693800",
+      "is_folded": false,
+      "answerer": {
+        "username": "yuchon",
+        "uid": "112538"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在国内那会短暂的用过雷霆，黑洞还有蜜蜂的破解版，免费的也用过小火箭和云耀\t\t</div>",
+      "date": "2023-10-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633687",
+      "is_folded": false,
+      "answerer": {
+        "username": "duck2go",
+        "uid": "108354"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用Tor会相对安全很多，毕竟暗网都用它，我发现这个tg频道里的Tor Bridge延迟会好很多，https://telegram/tor_bridges\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629656",
+      "is_folded": true,
+      "answerer": {
+        "username": "安县包子大王",
+        "uid": "107405"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\t反正Google商店里的免费的都别信，纯钓鱼，迷雾通可以试试，墙内的朋友也有在用opwpvpn的，暂时还没事\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1153114",
+          "replier": {
+            "username": "heidike",
+            "uid": "107298"
+          },
+          "date": "2023-02-10",
+          "content": "可以试试"
+        },
+        {
+          "id": "1156224",
+          "replier": {
+            "username": "duck2go",
+            "uid": "108354"
+          },
+          "date": "2023-02-22",
+          "content": "官网为啥不是https？"
+        },
+        {
+          "id": "1156409",
+          "replier": {
+            "username": "bobhahaha",
+            "uid": "107404"
+          },
+          "date": "2023-02-23",
+          "content": "opwpvpn 这个好用不，得不得卡？"
+        }
+      ]
+    }
+  ]
+}

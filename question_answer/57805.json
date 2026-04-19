@@ -1,0 +1,278 @@
+{
+  "parent_type": "question",
+  "parent_id": "57805",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "650264",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1，Netflix的问题不好解决，其实就算能访问了，可能速度也不快。实际上长期生活在中国的用户，都是看各种五花八门的盗版视频网站的，完全免费，而且不会比首发慢多少。<br/>\n2，谷歌全家桶的问题，国内实际的情况是拆分成多种应用来解决，你的朋友短期回国，让他学习每一种应用的国内替代品，可能有点麻烦，但是起码地图用国内地图软件，支付用微信和支付宝，还是必要的，不要纠结一定用谷歌地图谷歌支付了。<br/>\n3，ChatGPT这个无解，只能找懂技术的朋友自己买VPS自己搭建，成功的几率会高一些，而且也便宜，便宜也意味着试错成本低，不好用大不了再换一个，也不心疼。<br/>\n4，你这个问题与其说是支付的问题，不如说是ChatGPT的问题，像ChatGPT这么变态的限制IP而又非常常用的服务，确实不多。还是上面那句话，不好解决。<br/>\n5，你的问题其实都挺棘手的，这个问题我也有，我也有一些开在海外的银行账号有这个问题，而且我也没办法解决，有一些我委托当地信得过的好朋友或者同学，偶尔我远程用他的电脑登录一下，但毕竟是和钱相关的，能这么信任的朋友不多，而且这很麻烦别人，特别是有的地方还有时差，所以这一点我也很头疼。<br/>\n<br/>\n总的来说，你的问题都问在点子上了，也确实都没有太好的解决方案，只能说回国也就个把月，忍了吧。你如果觉得Astrill好，那就用吧，我有个很好的朋友，也是满世界玩，很有钱，我是很愿意帮他自己搭一个服务器的，我自己也有这个技术，也不要他钱，最多我蹭蹭用就行了，但是试过几次，最后他还是自己买Astrill了，因为对于彻底不懂技术的人，偶尔受到GFW的干扰不好用，或者适应GFW的攻击做一些调整，他们都很不耐烦，没那个耐心去处理。\t\t</div>",
+      "date": "2023-04-23",
+      "agree_count": 5,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1172366",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-04-23",
+          "content": "多谢回答。\n“起码地图用国内地图软件，支付用微信和支付宝，还是必要的，不要纠结一定用谷歌地图谷歌支付了。”\n地图当然是用中国的地图软件比如高德和百度，支付么我说的那位就是用支付宝遇到问题了，她已经是英国国籍了，中国的银行卡也都依法注销了。她当时就是在支付宝上绑了一张英国卡（去年年底的时候开始支持的），绑成功之后她觉得反正中国有支付宝就可以了，中国刷卡又不常用而且英国的卡在中国无论是取款还是消费都会收取高额手续费，于是就没有把英国的银行卡实体带去中国。结果首先她发现她的支付宝到了中国之后号被限制了，基本上用不了（这是她告诉我的原话，至于到底具体限制成咋样我也不知道）。在英国的时候她经常会在淘宝上买东西，然后转运到英国，支付的时候要么就是用支付宝支付，要么就是选择国际支付，然后到了输入卡号和和其他信息的页面，卡号等信息就用的google pay的自动填充，结果到了中国之后发现支付宝用不了，然后即便翻墙，google pay的自动填充都失效了。然后如我问题中所说的，她想进google pay查看自己的完整英国银行卡号，发现网页进不去，所以她也查不到自己的完整银行卡号，更记不住卡的到期时时间，因此就没办法用这张卡进行淘宝购买的支付，也没有办法用这张卡做其他事情，比如绑定微信支付，在其他网络平台进行支付等等。她只带了少量的英镑来中国，换成了人民币现金只用了两三天就用完了。后来她只能通过和在中国的朋友用P2P私下换汇的方式换来一笔人民币现金度过在中国的日子。"
+        },
+        {
+          "id": "1172377",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-23",
+          "content": "支付宝的问题我猜也是这样，不过没想到她连卡号都记不住…………这个确实我也不知道怎么办，能想到的也就是隔一段时间和亲友换一些现金放进支付宝和微信里，这么熬了。"
+        },
+        {
+          "id": "1172387",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-04-23",
+          "content": "@天下无贼:“隔一段时间和亲友换一些现金放进支付宝和微信里”不行的。没有中国身份证实名认证。只有护照实名认证的支付宝海外用户现在不能充值余额和使用余额宝的，只能绑定银行卡使用，所以她最后还是只能用现金。话说另外补充一点，她在进行私下换汇的时候，她的英国银行app在中国挂了vpn就可以登陆，但是转账的时候因为高风险，那笔转账没有成功，被英国银行设为pending了，过了好几天她才发现，然后电话联系英国的银行确认是她本人操作后才转过去，这导致她那个和她进行私下P2P换汇交易的海归朋友还怀疑她骗钱。"
+        },
+        {
+          "id": "1172388",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-23",
+          "content": "@yogafire: 嗯，最近5年确实觉得金融方面管的越来越严了，对于已经放弃中国籍但是又和中国有很多联系的海外华人很不方便。"
+        }
+      ]
+    },
+    {
+      "id": "650237",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t第5点不算，那是各国对于隐私度高的网站要求。<br/>\n<br/>\n其他四点的话其实很简单，从海外“暂时”回国的开启自己的手机卡国际漫游就好了，用个一周的不成问题。中国这种粪坑的地方总不会呆好几个月吧？\t\t</div>",
+      "date": "2023-04-23",
+      "agree_count": 3,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1172312",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-04-23",
+          "content": "这个确实是一个方法，不过英国这里的手机卡普遍漫游中国的费用是天价，而且没有那种包几天一周一个月的，都是pay as you go。给你看看我的\nRoaming prices\nData\t£5 per MB\nCalls & voicemail (charged in per second increments after first 30 seconds)\t£1 per minute\nReceiving calls (charged in per minute increments)\t£1 per minute\nSending texts\t30p per text\nReceiving texts\tFree\nPicture messages (MMS) to a UK/EU mobile\t30p per MMS\nPicture messages (MMS) to any other mobile\t24p per MMS"
+        },
+        {
+          "id": "1172313",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-04-23",
+          "content": "而且手机漫游的话没办法解决电脑上网的问题，还有，我不知道手机漫游能够上openai的chatgpt么？"
+        },
+        {
+          "id": "1172314",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-04-23",
+          "content": "然后比如说我用一个英国的手机卡在中国漫游，我访问netflix的时候会被认定在中国还是英国？"
+        },
+        {
+          "id": "1172315",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-04-23",
+          "content": "还有，我之前在东南亚某国买了一张当地电信公司的卡，开通了国际漫游，并且包了一个星期中国漫游data，价格不算便宜但是至少不是£5 per MB的天价，结果回中国发现用起来有墙。。。"
+        },
+        {
+          "id": "1172325",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-04-23",
+          "content": "@yogafire:肯定可以的，国际漫游是最原生的IP了"
+        },
+        {
+          "id": "1172328",
+          "replier": {
+            "username": "极权之下无产权",
+            "uid": "19340"
+          },
+          "date": "2023-04-23",
+          "content": "@yogafire: 还是有墙？方便说下是新加坡吗？"
+        },
+        {
+          "id": "1172356",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-04-23",
+          "content": "@极权之下无产权:不是新加坡"
+        },
+        {
+          "id": "1172407",
+          "replier": {
+            "username": "极权之下无产权",
+            "uid": "19340"
+          },
+          "date": "2023-04-23",
+          "content": "@yogafire: 好的。朋友说新加坡的去中国漫游可以，我还没试过，你有渠道买到新加坡sim卡可以试试"
+        }
+      ]
+    },
+    {
+      "id": "650307",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果国内某地（例如上海）有用户开启了定位服务，使用了谷歌系产品，这时谷歌就会把VPN的这个ip节点标记为上海<br/>\n由于伊朗用户的缘故，geph的很多节点在使用谷歌的时候，会变成伊朗历\t\t</div>",
+      "date": "2023-04-23",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650326",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t购买翻墙软件或机场，如果不是很火爆很热门的话，出口基本上很难被认定为代理。你想如果你在校园，工厂，车站这些地方用公共WiFi，IP也是和很多人共享的。<br/>\n当然有些互联网网站会搜集托管机房的IP地址段，也就是发现你从机房而不是正常的民用设施发起请求，就会封。所以对应的，出售翻墙软件或者机场账号的商家会通过家宽跳转、冷门机房等方式规避，然后卖给你的时候会标明“解锁Netflix”之类的\t\t</div>",
+      "date": "2023-04-23",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650325",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGoogle系网站定位使用Adguard开启隐身模式并关闭webRTC即可<br/>\n再安装扩展Canvas Blocker - Fingerprint Protect<br/>\n推荐使用Brave浏览器\t\t</div>",
+      "date": "2023-04-23",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1172444",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-04-23",
+          "content": "多谢"
+        }
+      ]
+    },
+    {
+      "id": "650247",
+      "is_folded": false,
+      "answerer": {
+        "username": "我想要去留学",
+        "uid": "111086"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t为什么翻墙很简单的问题，需要弄的这么复杂？有很多免费的VPN的。\t\t</div>",
+      "date": "2023-04-23",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1172453",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-23",
+          "content": "因为人家需求不一样"
+        }
+      ]
+    },
+    {
+      "id": "650295",
+      "is_folded": false,
+      "answerer": {
+        "username": "我佛山人",
+        "uid": "111091"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t太像软广或者晶格帖了，以致于我都有点想点开题主的profile\t\t</div>",
+      "date": "2023-04-23",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1172385",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-04-23",
+          "content": "晶格这个你可以随便怀疑。\n但是软广啥意思？我这问题有给啥东西做广告么？"
+        },
+        {
+          "id": "1172389",
+          "replier": {
+            "username": "我佛山人",
+            "uid": "111091"
+          },
+          "date": "2023-04-23",
+          "content": "@yogafire:没有没有，我觉得题主写得挺好。墙越来越高是趋势，而且西方企业也在建墙，把\n支那\n挡在里面。"
+        },
+        {
+          "id": "1172454",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-23",
+          "content": "@我佛山人:人家建的是各种paywall"
+        },
+        {
+          "id": "1172551",
+          "replier": {
+            "username": "金手指王岐山",
+            "uid": "35999"
+          },
+          "date": "2023-04-24",
+          "content": "不用怀疑，早就是鱼塘了"
+        }
+      ]
+    },
+    {
+      "id": "650390",
+      "is_folded": false,
+      "answerer": {
+        "username": "吃瓜瓜和瓜皮",
+        "uid": "93859"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很多机场都能解决流媒体解锁 <br/>\n我还留了最后一个备用的 是3HK的大湾区流量 268HKD 一年40g<br/>\n需求大可以att的不限量 一天10USD\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

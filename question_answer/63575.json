@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "63575",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "708502",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tit always happens<br/>\n<br/>\n你怕的可以要求admin銷號<br/>\n。。。。。。。。。。。\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1228623",
+          "replier": {
+            "username": "旧共和国武士",
+            "uid": "119189"
+          },
+          "date": "2023-11-27",
+          "content": "谢谢"
+        },
+        {
+          "id": "1228627",
+          "replier": {
+            "username": "旧共和国武士",
+            "uid": "119189"
+          },
+          "date": "2023-11-27",
+          "content": "大丈夫，我在日本"
+        }
+      ]
+    }
+  ]
+}

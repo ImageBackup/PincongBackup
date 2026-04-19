@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "53551",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "603618",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t上次安倍死的时候就发过了，结果这首歌被禁了。<br/>\n<br/>\n不知道现在解禁没有。\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1130229",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-11-30",
+          "content": "解禁了"
+        }
+      ]
+    }
+  ]
+}

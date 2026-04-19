@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "56066",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "630712",
+      "is_folded": false,
+      "answerer": {
+        "username": "洼地先知",
+        "uid": "102273"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tflash好多年前已经被火狐firefox，谷歌摒弃<br/>\n<br/>\n因为不安全<br/>\n容易被植入漏洞\t\t</div>",
+      "date": "2023-02-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "630728",
+      "is_folded": false,
+      "answerer": {
+        "username": "Apple1984",
+        "uid": "49425"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t7k7k.com7k7k.com7k7k.com7k7k.com7k7k.com7k7k.com7k7k.com7k7k.com\t\t</div>",
+      "date": "2023-02-13",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1153967",
+          "replier": {
+            "username": "毛邓习全面战争",
+            "uid": "99727"
+          },
+          "date": "2023-02-13",
+          "content": "墙内审查严格广告多，要外国的"
+        }
+      ]
+    },
+    {
+      "id": "630760",
+      "is_folded": false,
+      "answerer": {
+        "username": "Ivy0730",
+        "uid": "88802"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果浏览器不支持flash插件的话可以下一个flash大厅，把游戏的网站复制粘贴进去就可以运行，但是不知道安全性如何\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

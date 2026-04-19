@@ -1,0 +1,225 @@
+{
+  "parent_type": "question",
+  "parent_id": "66049",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "735183",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从数据角度说, 大部分国外app和网站都使用ssl加密, 如果你的手机没被黑, 用esim是不会被看到传输内容. 但是, 国内运营商可以看到你访问了哪些域名或者ip, 比如品葱. <br/>\n<br/>\n而vpn会把你整个通信包裹起来, 不管是否用ssl, 都被vpn加密了, 运营商只能看到你访问了vpn的ip, 并不知道你访问了具体哪个网站, 传输了什么. 当然, 前提是vpn提供商不会出卖你.<br/>\n<br/>\n短信和电话就别指望了, 现在的技术不清楚, 至少以前是不加密的.\t\t</div>",
+      "date": "2024-03-19",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1251837",
+          "replier": {
+            "username": "我不爱吃包子",
+            "uid": "125484"
+          },
+          "date": "2024-03-19",
+          "content": "那这样看来，用vpn还是更加安全呀，esim每个月还要交套餐费，价格估计要比付费vpn还要贵了"
+        }
+      ]
+    },
+    {
+      "id": "735174",
+      "is_folded": false,
+      "answerer": {
+        "username": "bxbxbxbxbx",
+        "uid": "80948"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的个人经验是可以，但是数据延迟比较高。<br/>\n<br/>\n收发短信在WiFi Calling状态下是安全的，走基站的时候不知道漫游运营商（中国运营商）是否可以监听/拦截。\t\t</div>",
+      "date": "2024-03-19",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1251831",
+          "replier": {
+            "username": "daxuesheng",
+            "uid": "14137"
+          },
+          "date": "2024-03-19",
+          "content": "走基站时运营商可以全部监听，手机网络的加密只在无线传输部分存在，核心网里是没有加密的。"
+        },
+        {
+          "id": "1251841",
+          "replier": {
+            "username": "我不爱吃包子",
+            "uid": "125484"
+          },
+          "date": "2024-03-19",
+          "content": "那这么看的话，如果只是想翻墙看看新闻，那还是使用vpn更加经济实惠呀。用电脑相对也还安全一些，一直用esim光套餐费就不是一笔小钱了"
+        }
+      ]
+    },
+    {
+      "id": "735195",
+      "is_folded": false,
+      "answerer": {
+        "username": "daxuesheng",
+        "uid": "14137"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以买个境外手机卡/eSIM，然后再在里面套一个VPN。<br/>\n<br/>\n这个VPN不需要中国专用那种，因为漫游的网络已经自带翻墙，VPN的作用是把你手机的物理信息（基站定位，IMEI）和你上网的元信息（DNS，SNI）隔离。<br/>\n<br/>\n这样的组合下你可以安全使用大陆漫游价格最便宜的香港或者澳门的SIM卡。\t\t</div>",
+      "date": "2024-03-19",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1251843",
+          "replier": {
+            "username": "我不爱吃包子",
+            "uid": "125484"
+          },
+          "date": "2024-03-19",
+          "content": "请问这样做，上网速率和电脑连vpn区别大吗？"
+        },
+        {
+          "id": "1251971",
+          "replier": {
+            "username": "daxuesheng",
+            "uid": "14137"
+          },
+          "date": "2024-03-20",
+          "content": "没有更多信息不好比较。如果你之前是用的有国内中转服务器的“机场”，那这样搞可能速度还不如；如果你的VPN只是海外服务器加CN2或者GIA之类的优化线路，那这个会稳定一点，具体速率取决于你的SIM卡流量出口在哪里，以及它支不支持5G漫游。"
+        }
+      ]
+    },
+    {
+      "id": "735198",
+      "is_folded": false,
+      "answerer": {
+        "username": "可莉",
+        "uid": "125449"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t区别很大的，但是只要在大陆访问网络就会被信号塔接受到，只是内容加不加密的区别罢了\t\t</div>",
+      "date": "2024-03-19",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1251842",
+          "replier": {
+            "username": "我不爱吃包子",
+            "uid": "125484"
+          },
+          "date": "2024-03-19",
+          "content": "唉，其实只是想看看游戏直播和油土鳖做饭视频，这被看到应该也没问题吧？"
+        },
+        {
+          "id": "1251847",
+          "replier": {
+            "username": "可莉",
+            "uid": "125449"
+          },
+          "date": "2024-03-19",
+          "content": "应该。。。没事吧，注意安全"
+        }
+      ]
+    },
+    {
+      "id": "735237",
+      "is_folded": false,
+      "answerer": {
+        "username": "汪汪是哈P1",
+        "uid": "125428"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还是VPN靠谱点，在墙内使用esim的话，数据流还是会被运营商监测到。\t\t</div>",
+      "date": "2024-03-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "735324",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t顺带提一下，迷雾通已经成为电诈vpn，大家记得卸载\t\t</div>",
+      "date": "2024-03-20",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1251989",
+          "replier": {
+            "username": "我不爱吃包子",
+            "uid": "125484"
+          },
+          "date": "2024-03-20",
+          "content": "真的假的？"
+        },
+        {
+          "id": "1251991",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2024-03-20",
+          "content": "@我不爱吃包子:\n真的，已经开始骗钱了，我不清楚现阶段是否有泄露用户信息，但起码现在骗钱是存在的。\n都已经骗钱了，底线肯定也动摇了，下一步可能出卖用户app\n迷雾通是品葱官方推荐的vpn，到时候出卖用户数据，品葱用户被铐走一堆，足够100声望判刑，足够1000声望死刑，2000声望以上国安暗杀"
+        }
+      ]
+    },
+    {
+      "id": "735347",
+      "is_folded": false,
+      "answerer": {
+        "username": "ddxxx",
+        "uid": "98317"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能上网就行了，你又不干什么，随便看看无所谓的，哪种方式都可以的\t\t</div>",
+      "date": "2024-03-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "735169",
+      "is_folded": false,
+      "answerer": {
+        "username": "我不爱吃包子",
+        "uid": "125484"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我最近玩游戏看到很多外国主播都在推荐Nord Vpn，不知道这个墙内使用是否快速稳定？还有本站推荐的迷雾通相比怎么样？\t\t</div>",
+      "date": "2024-03-19",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1251832",
+          "replier": {
+            "username": "daxuesheng",
+            "uid": "14137"
+          },
+          "date": "2024-03-19",
+          "content": "几乎无法在墙内使用，他的服务器地址可以用API批量获取，墙可以自动化封。你隔段时间能刷出新的服务器，但是很快又会封上。而且第一次用要先要翻墙才能打开登录界面。手机版可能有专门服务器，也可能是手机网络墙力度低，翻墙成功率稍微好一点。"
+        },
+        {
+          "id": "1251840",
+          "replier": {
+            "username": "我不爱吃包子",
+            "uid": "125484"
+          },
+          "date": "2024-03-19",
+          "content": "@daxuesheng:我看都说用电脑更加安全，挂vpn加tor会更靠谱一些。我这种只会hello world的小白去看搭机场的教程都一头雾水，还是喜欢能一键翻的"
+        },
+        {
+          "id": "1251974",
+          "replier": {
+            "username": "daxuesheng",
+            "uid": "14137"
+          },
+          "date": "2024-03-20",
+          "content": "你是考虑安全的话，手机漫游+tor browser可能是最省心，除了难以用来看视频，先不说流量消耗快，tor网络的速度也一般。"
+        }
+      ]
+    }
+  ]
+}

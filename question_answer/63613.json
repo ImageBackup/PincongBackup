@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "63613",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "708936",
+      "is_folded": false,
+      "answerer": {
+        "username": "嗯你說得對",
+        "uid": "108001"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t忽左忽右乃內宣<br/>\n民小拓寬眼界可以先看看<br/>\n在野黨說真的？嗯這種東西我\t\t</div>",
+      "date": "2023-11-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708955",
+      "is_folded": true,
+      "answerer": {
+        "username": "雨落",
+        "uid": "117639"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-11-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "709137",
+      "is_folded": true,
+      "answerer": {
+        "username": "多点芋泥",
+        "uid": "104951"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-11-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

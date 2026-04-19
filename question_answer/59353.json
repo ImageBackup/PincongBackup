@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "59353",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "665046",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t普里戈任同志不愧是同志，和习近平同志一样，骨子里没有一点民主，活脱脱封建社会主义颜色革命独裁者。\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665048",
+      "is_folded": true,
+      "answerer": {
+        "username": "喷水穴",
+        "uid": "111557"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-06-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

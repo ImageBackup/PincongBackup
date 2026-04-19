@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "59343",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "665001",
+      "is_folded": false,
+      "answerer": {
+        "username": "都市火枪手",
+        "uid": "85988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t金融和产经资讯的含金量来说，金融时报和彭博社是最高的，所以订阅费也更贵。<br/>\n<br/>\n其它就是品牌问题了。\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "664999",
+      "is_folded": false,
+      "answerer": {
+        "username": "小春日和",
+        "uid": "95566"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t這些媒體的新聞全部都是可靠的，關鍵不是新聞本身，而是報道的傾向性問題。不管是左媒還是右媒若有若無的把他們的觀點強加給你。只看新聞本身，然後自己判斷。別被帶節奏就好。\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

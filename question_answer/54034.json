@@ -1,0 +1,515 @@
+{
+  "parent_type": "question",
+  "parent_id": "54034",
+  "answer_count": 16,
+  "answers": [
+    {
+      "id": "611212",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不安全，因为在反诈APP之前国产手机就已经内置各种木马、后门，收集各种信息，你装了什么APP都会被上报给厂方，会不会报送给网警就不清楚了。<br/>\n<br/>\n要是你觉得手机品牌倒闭了数据服务器就会关闭，就太天真了。大多数手机系统都会集成第三方服务，上报的服务器也是第三方的，打开十年前的手机照样给你发送数据到服务器。<br/>\n<br/>\n又或者因为系统漏洞太多，被其他木马APP利用，盗窃你手机的数据。<br/>\n<br/>\n所以最安全的办法肯定是使用最纯净的系统。<br/>\n<br/>\n或者像编程随想一样，坚持只用电脑进行敏感操作。不过你这种小人物肯定不必像编程随想那么谨慎。<br/>\n<br/>\n苹果手机如果使用美国区账号，理论上系统和美国版没区别。使用中国区账号应该小心，虽然APP上安全了，但是苹果可能会上交数据给网警。苹果电脑更恶心，如果你用中国区账号登陆，还会强制启用腾讯提供的流量保护，把你上过的网站都交给腾讯检测一遍。\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 6,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1136276",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-16",
+          "content": "关于国产安卓手机的数据传输，你说得有道理，我会小心点"
+        }
+      ]
+    },
+    {
+      "id": "608293",
+      "is_folded": false,
+      "answerer": {
+        "username": "wget",
+        "uid": "51008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t搞不明白为什么总是有果粉觉得android不安全, 是觉得一家封闭一言堂的公司发布的产品很安全? 把你们送中的时候你们都不知道呵呵\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 17,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1136188",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2022-12-16",
+          "content": "在\n支那\n，苹果比安卓安全，因为苹果系统是原生的，安卓系统全都魔改过，基本都带监控，系统漏洞也多。不过苹果手机最好使用美国区账户。"
+        },
+        {
+          "id": "1136226",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2022-12-16",
+          "content": "因为iOS Android我都是开发者，也知道基本的攻击方式。你知道什么？"
+        },
+        {
+          "id": "1137423",
+          "replier": {
+            "username": "wget",
+            "uid": "51008"
+          },
+          "date": "2022-12-21",
+          "content": "@reddit_suck:你连国行系统和美区系统是否一致都无从确认, 怎么保证没有监控哈哈, 说到底不就是全看苹果良心吗, 反正我可不认为把身家性命交给一家企业的良心是安全的"
+        },
+        {
+          "id": "1137424",
+          "replier": {
+            "username": "wget",
+            "uid": "51008"
+          },
+          "date": "2022-12-21",
+          "content": "@reddit_suck:还是一家封闭的喜欢一言堂的公司"
+        }
+      ]
+    },
+    {
+      "id": "608317",
+      "is_folded": false,
+      "answerer": {
+        "username": "亡共进行时",
+        "uid": "7969"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我抽屉里有一部停产很久的联想手机，安卓4.0，联想开机之后直接弹广告强制安装app，你觉得这些国产厂商会放弃任何后门监控的机会？？停产不等于会放弃对手机的监控，你只要联网都在厂家控制范围内，在墙国手机是你的，但是你的隐私不属于你，是属于中共和手机厂商的，跟房地产一样，你只是购买了70年的租借权而已，你只有租借手机的权利。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 9,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608354",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t对照ＬＩＮＥＡＧＥ　ＯＳ的设备页面买好二手安卓机，<br/>\n<br/>\nhttps://wiki.lineageos.org/devices/<br/>\n<br/>\n买回来刷好，开启防火墙，默认屏蔽所有ａｐｐ网络连接，上网ａｐｐ加入白名单，<br/>\n<br/>\n不过使用上来说，手机移动设备毕竟是阉割过的计算机，桌面电脑的安全机制还是全面一些，<br/>\n<br/>\n如果非常看中隐私和安全，重点推荐一下Ｔａｉｌｓ和Ｋａｌｉ作业系统，一般使用的话Ｄｅｂｉａｎ非常够用了，<br/>\n<br/>\n另外可以参考ＧＮＵ基金会对各大（他们持保留意见）Ｌｉｎｕｘ发行版本的点评，https://www.gnu.org/distros/common-distros.html\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 6,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1134077",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "感谢回答，对我很有帮助。\n据说苹果公司和中共勾兑，iphone也不安全，我想知道如果有一部iphone是国行的，但是登录的apple id 是美区的，那能安全吗（我知道中国区id的用户资料存在贵州的服务器里）？\n还是要求必须iphone也得是非国行的才能保证安全？"
+        },
+        {
+          "id": "1134087",
+          "replier": {
+            "username": "weibao",
+            "uid": "41372"
+          },
+          "date": "2022-12-09",
+          "content": "@敏感词滚蛋:苹果这个公司除了血汗工厂之外，\nhttps://www.theguardian.com/technology/2017/jun/18/foxconn-life-death-forbidden-city-longhua-suicide-apple-iphone-brian-merchant-one-device-extract\nhttps://www.bbc.com/news/technology-51008819\n现在还是个软脚虾，\nhttps://chinadigitaltimes.net/chinese/685711.html\n买苹果产品的人大概是脑子和心都坏了，强烈不推荐使用苹果产品，"
+        },
+        {
+          "id": "1134094",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "富士康工人的人权状况在全中国同类型的工厂中算如何？"
+        },
+        {
+          "id": "1134098",
+          "replier": {
+            "username": "weibao",
+            "uid": "41372"
+          },
+          "date": "2022-12-09",
+          "content": "@敏感词滚蛋:应该算中上的，毕竟是西方企业的供应链，有基本的用工保障，比骗人打白工卷钱跑路的小作坊好一些，但是富士康工人的生存状况和苹果自己宣传的企业形象相比，太吓人了，"
+        },
+        {
+          "id": "1134100",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "@weibao:大多数公司都这操行，尤其是规模大的公司。不知道越南、印度那边的代工厂工人生存状况如何😔😔😔\n听说越南好像有真正的工会，以前还在抖音里刷到过越南工人罢工后，工会和工厂负责人谈判的事件"
+        },
+        {
+          "id": "1136132",
+          "replier": {
+            "username": "wget",
+            "uid": "51008"
+          },
+          "date": "2022-12-16",
+          "content": "gun的点评看看就好了, 过于严重的思维道德洁癖, 都有不少看不惯的人在搞non gnu linux了"
+        }
+      ]
+    },
+    {
+      "id": "608319",
+      "is_folded": false,
+      "answerer": {
+        "username": "漢室不可興復",
+        "uid": "48003"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我不明白为什么非得用手机翻墙？你用一台电脑装个linux翻墙不比什么都安全吗？而且我不觉得你在中国随时随地掏手机就是为了看youtube、聊facebook、看twitter，因为你的主要应用还是中国的本土软件。你需要翻墙的时候，老老实实坐在桌子前打开linux翻不很好吗？<br/>\n<br/>\n另外回答：如果真要买手机翻墙，而且预算有限，去咸鱼买旧pixel。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 9,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1133996",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-08",
+          "content": "电脑随身携带不方便。\n这边建议你去水区吐槽，节省大家的时间。"
+        },
+        {
+          "id": "1136229",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2022-12-16",
+          "content": "@敏感词滚蛋:人家的建议是编程随想的建议，你自己虚心一点吧。检讨一下自己的use Case，我好多客户都是自己不知道自己需要什么。\n对你来说，需要随身建政吐槽，八成也不需要高安全性。"
+        },
+        {
+          "id": "1137973",
+          "replier": {
+            "username": "antipc",
+            "uid": "103111"
+          },
+          "date": "2022-12-24",
+          "content": "国内所有网站看了都会吐，没错，所有网站，你要是能连续看十分钟国内网站不吐我都建议你去看看心理医生"
+        },
+        {
+          "id": "1137974",
+          "replier": {
+            "username": "antipc",
+            "uid": "103111"
+          },
+          "date": "2022-12-24",
+          "content": "@antipc:这就是为什么手机上装翻墙软件的原因，你手机上要是超过20%是国产软件，你的手机我拿手上都嫌脏"
+        },
+        {
+          "id": "1140232",
+          "replier": {
+            "username": "漢室不可興復",
+            "uid": "48003"
+          },
+          "date": "2023-01-01",
+          "content": "@antipc:我手機、平板多了去了，髒的乾净的都有。電腦也六臺起，髒的乾净的都有"
+        }
+      ]
+    },
+    {
+      "id": "608445",
+      "is_folded": false,
+      "answerer": {
+        "username": "不爱吃包子",
+        "uid": "103380"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t都怂成啥了？我一部小米手机，翻墙至今也没啥。以前没注册逛品 葱，现在注册了逛。油管什么的一直也没注册，怕啥?他们忙的过来嘛？\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 4,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1134109",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "从小懦弱至今..."
+        },
+        {
+          "id": "1134112",
+          "replier": {
+            "username": "不爱吃包子",
+            "uid": "103380"
+          },
+          "date": "2022-12-09",
+          "content": "别闹。。。能出来看，就已经比很多人强了。有些人就是故意吓别人的"
+        },
+        {
+          "id": "1134378",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-10",
+          "content": "@不爱吃包子:被吓怕了"
+        }
+      ]
+    },
+    {
+      "id": "608784",
+      "is_folded": false,
+      "answerer": {
+        "username": "DEMfreedom",
+        "uid": "103265"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t理论上除了华为翻墙都没有问题。只不过除了葱友说的这些保险情况，其他情况你除非上那些不需要邮件和手机的网页不然我建议你闭嘴什么都不要讲。这样没人会找你。<br/>\n国安是没有时间去找翻墙的人的，那些说一翻墙都抓都是吓你的。只会去找那些翻墙以后有一定名气的人。因为微博 抖音也要管的\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1136189",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2022-12-16",
+          "content": "现在新手机都预装反诈APP了，有的系统是直接集成在安全中心里。"
+        }
+      ]
+    },
+    {
+      "id": "608282",
+      "is_folded": false,
+      "answerer": {
+        "username": "quitchinanow",
+        "uid": "104825"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不安全，android不安全，中国产手机更不安全。<br/>\n安全取决于你做了什么。<br/>\n中国android有大量内置app。<br/>\n例如一个壁纸功能就是一个app。app不安全。<br/>\n这些app可能会动态升级代码，以执行以前没有的功能，动态代码不安全。<br/>\n<br/>\n手机除了android还有基带，基带涉及无线协议和基站设施，很难确定是否安全。<br/>\n<br/>\npixel是否安全呢？智能手机之所以智能，是因为大量app。<br/>\n假设google不作恶，然而其产品仍可能侵害人的安全，例如用户数据，google如何使用会带来未知的安全威胁。<br/>\n尽管google无法在中国运营，但google仍与中国有大量合作，这些合作是否会出现安全问题很难确定。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134079",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "足够严谨，感谢回答，对我有帮助💜"
+        }
+      ]
+    },
+    {
+      "id": "608449",
+      "is_folded": false,
+      "answerer": {
+        "username": "GreekMyth",
+        "uid": "79633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t网页版Twitter: 如果用安卓， 確保你的 Chrome is the official app from Google，而不是國產的什麽瀏覽器。  如果是蘋果，那上面的Chrome 估計沒有事。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134105",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "1"
+        }
+      ]
+    },
+    {
+      "id": "608474",
+      "is_folded": false,
+      "answerer": {
+        "username": "生煎包子",
+        "uid": "104679"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t古早手机建议重刷个系统，不要插卡，用安全的VPN+tor，一般没事的。记得翻墙手机不要有任何可以追踪到你真人的信息（墙内帐号手机号银行卡号之类），摄像头最好贴掉。咱又不是边程随想或李老师这些受关注人物，以往被抓喝茶的小虾米好像主要是因钓鱼VPN\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1134256",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "编程随想确定是被抓进去了吗？"
+        },
+        {
+          "id": "1134355",
+          "replier": {
+            "username": "生煎包子",
+            "uid": "104679"
+          },
+          "date": "2022-12-09",
+          "content": "已删除"
+        },
+        {
+          "id": "1134356",
+          "replier": {
+            "username": "生煎包子",
+            "uid": "104679"
+          },
+          "date": "2022-12-09",
+          "content": "@敏感词滚蛋:这个我不确定喔。我的意思是说我們這些没有什么人气的普通平凡网友，一般不会被网警关注，不用太担心。除非自投罗网"
+        }
+      ]
+    },
+    {
+      "id": "608290",
+      "is_folded": false,
+      "answerer": {
+        "username": "Julien2022",
+        "uid": "103620"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国软件24小时在后台监控和监听你，真是心大，自己送指标给国安\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608342",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t装了vpn就没事， VPN是安全的你就是安全的。大段文章进行恐怖渲染的我怀疑都是网警，利用这个方法让翻墙新手知难而退\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134003",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-08",
+          "content": "是有不少这样的人，不过也有神经大条的人。所以需要专业人士来帮大家解答一下。"
+        }
+      ]
+    },
+    {
+      "id": "611213",
+      "is_folded": false,
+      "answerer": {
+        "username": "蛋卷已退葱",
+        "uid": "103239"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t尽量别用华为手机。<br/>\n<br/>\n<br/>\n紫薯字数紫薯紫薯字数字数紫薯紫薯\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1136274",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-16",
+          "content": "不是华为"
+        },
+        {
+          "id": "1136275",
+          "replier": {
+            "username": "蛋卷已退葱",
+            "uid": "103239"
+          },
+          "date": "2022-12-16",
+          "content": "@敏感词滚蛋:我只是建议，建议不要使用华为，谢谢"
+        },
+        {
+          "id": "1136277",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-16",
+          "content": "已删除"
+        },
+        {
+          "id": "1136278",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-16",
+          "content": "@蛋卷:瞧不起也用不起华为   ：）"
+        }
+      ]
+    },
+    {
+      "id": "608461",
+      "is_folded": false,
+      "answerer": {
+        "username": "qushizhen100",
+        "uid": "95875"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我用淘汰下来的电脑翻墙，此外还有一个平板，很老了，装多了app很卡，也就只装了翻墙APP和YouTube\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611297",
+      "is_folded": false,
+      "answerer": {
+        "username": "ASD1234",
+        "uid": "26668"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国产机不安全 国外的没问题 前提这手机没查过你的手机卡\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1136273",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-16",
+          "content": "恢复出厂设置后，没插过手机卡"
+        },
+        {
+          "id": "1137762",
+          "replier": {
+            "username": "ASD1234",
+            "uid": "26668"
+          },
+          "date": "2022-12-23",
+          "content": "@敏感词滚蛋:刷成海外版的ROM"
+        }
+      ]
+    },
+    {
+      "id": "612777",
+      "is_folded": true,
+      "answerer": {
+        "username": "李老师的supervisor",
+        "uid": "50992"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

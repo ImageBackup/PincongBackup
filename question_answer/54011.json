@@ -1,0 +1,180 @@
+{
+  "parent_type": "question",
+  "parent_id": "54011",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "608026",
+      "is_folded": false,
+      "answerer": {
+        "username": "antipc",
+        "uid": "103111"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果这软件强迫你点广告，那我觉得他可能是为了赚广告费，如果强迫你每次打开都弹出什么宗教宣传之类的网页，那我也可以理解，如果他既不要钱又不做广告又不宣传任何东西，那他给你用的目的是什么你自己想想看，作为一个懂vps的人告诉你，同时让好多人用还不卡的vps可不便宜\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133867",
+          "replier": {
+            "username": "国家二级暖床师",
+            "uid": "102932"
+          },
+          "date": "2022-12-08",
+          "content": "非常感谢"
+        }
+      ]
+    },
+    {
+      "id": "608006",
+      "is_folded": false,
+      "answerer": {
+        "username": "墙国壬民",
+        "uid": "84766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t所有免费的vpn都不安全，除了晶哥以外没人有那么多钱搭免费不卡的公共vpn\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1133751",
+          "replier": {
+            "username": "国家二级暖床师",
+            "uid": "102932"
+          },
+          "date": "2022-12-08",
+          "content": "&嗯 明白"
+        },
+        {
+          "id": "1133767",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2022-12-08",
+          "content": "法轮功旗下的禁书网就一直提供免费的SS节点"
+        }
+      ]
+    },
+    {
+      "id": "608034",
+      "is_folded": false,
+      "answerer": {
+        "username": "shellcat",
+        "uid": "78316"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t实在想白嫖可以自己去撸甲骨文云然后搭梯子<br/>\n不差那点钱还是弄个机场吧，tls加密机场也只能知道你访问地址而不知道访问内容<br/>\n如果还觉得不保险，就自己买海外服务器搭\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133869",
+          "replier": {
+            "username": "国家二级暖床师",
+            "uid": "102932"
+          },
+          "date": "2022-12-08",
+          "content": "没这个 技术实力啊 听起来就很南"
+        }
+      ]
+    },
+    {
+      "id": "608039",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用官方原版客户端，然后不要使用免费节点访问品葱、法轮功这种明显的反贼网站。如果一定要访问，需要使用tor。只要你不使用免费节点上反贼网站，即使是钓鱼节点，也不会有太大的风险。<br/>\n<br/>\n只不过免费节点体验比较差，至少花钱买个机场。<br/>\n<br/>\n还有一点要注意，尽量不要使用法轮功旗下的免费节点。不是因为它不安全，而是因为法轮功的节点通常被高强度监控，IP地址会被记录下来。一旦你连接了他们的服务器，很容易被网警盯上。其他服务器因为数量太多，网警不可能全都记录下来。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133868",
+          "replier": {
+            "username": "国家二级暖床师",
+            "uid": "102932"
+          },
+          "date": "2022-12-08",
+          "content": "没想到 风火轮 这么危险"
+        }
+      ]
+    },
+    {
+      "id": "608117",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一般VPN或者VPS的服務器不可能設在墻内，理由不用解釋了吧，但那種面嚮墻外反向翻回來的除外。另外免費的VPN或者機場節點一類的不管你上不上品蔥現在都不推薦，還有你説的這種情況我感覺很像webRTC泄露，建議你去express或者Nord的安全頁面裏去做個測試，如果問題確實存在，那大概率你這個節點已經被釣魚了。還有如果你只有這種免費的翻墻軟件的話，那上品蔥就一定戴tor，安卓版是有的，這最起碼是最後一道防綫。<br/>\n<br/>\n至於晶哥能得到什麽消息？如果不是https的鏈接，抓包軟件晶哥基本可以得到他想要的所有内容，包括你瀏覽和輸入了什麽，如果是釣魚節點那就更簡單了，中間人劫持甚至都可以讓你感知不到危險，即便https一樣通過流量分析可以輕鬆擊破你\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133870",
+          "replier": {
+            "username": "国家二级暖床师",
+            "uid": "102932"
+          },
+          "date": "2022-12-08",
+          "content": "牛B  技术大牛啊"
+        }
+      ]
+    },
+    {
+      "id": "607954",
+      "is_folded": false,
+      "answerer": {
+        "username": "CCP_IS_DEAD",
+        "uid": "103608"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t免费的因为没有收入来源, 所以可能并没有人维护, 所以首先就是速度慢<br/>\n再一个也不安全, 尤其是中文名字的梯子还是别用了<br/>\n晶格在后台看到你真实IP就能开盒你<br/>\n<hr/> </div>",
+      "date": "2022-12-08",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133732",
+          "replier": {
+            "username": "国家二级暖床师",
+            "uid": "102932"
+          },
+          "date": "2022-12-08",
+          "content": "好 谢谢"
+        }
+      ]
+    },
+    {
+      "id": "608136",
+      "is_folded": false,
+      "answerer": {
+        "username": "国家二级暖床师",
+        "uid": "102932"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我还以为免费的节点 找不到人啊  没想到这么危险\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "619255",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t安装的软件不会是shadowlink或shadowX吧？<br/>\n很多代理软件具备墙内外ip分流的功能，境内ip走原始ip，境外ip走代理服务器，这样后台的国产软件（比如微信）就不会跑到境外数据了，就不容易暴露你翻墙的事实<br/>\n安卓平台下，部分代理是通过“应用例外”来实现的，可以制定某些app走代理，某些app走境内ip\t\t</div>",
+      "date": "2023-01-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "parent_type": "question",
+  "parent_id": "61310",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "684249",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t热烈祝贺小粉红们有高级的电子镣铐可以升级了，赶紧出钱买来给自己套上。\t\t</div>",
+      "date": "2023-08-29",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684252",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t和919试飞差不多 \"首次\"试飞了若干次, 最后---北航的教授被抓了<br/>\n这里还觉得兴奋的估计是忘了上次鸡血怎么胡扯的<br/>\n我听说回沸的水不能喝...\t\t</div>",
+      "date": "2023-08-29",
+      "agree_count": 3,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1203913",
+          "replier": {
+            "username": "wuli212145325",
+            "uid": "46479"
+          },
+          "date": "2023-08-29",
+          "content": "https://www.flightradar24.com/data/flights/mu9197\n你一自己看国外的航班网站好了，MU9197一直（除了一两天）是C919执飞"
+        },
+        {
+          "id": "1203914",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-08-29",
+          "content": "和试飞了若干次有关系么?"
+        },
+        {
+          "id": "1203917",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-08-29",
+          "content": "回沸的水可以喝，别提供错误营养卫生情报"
+        },
+        {
+          "id": "1203918",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-08-29",
+          "content": "@rowlandheights: 不止两次 我瞅着四五次了把"
+        }
+      ]
+    },
+    {
+      "id": "684262",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t沸腾了还是你在沸腾？国内吃个烤串也能沸腾，玩个手机游戏也能沸腾。\t\t</div>",
+      "date": "2023-08-29",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

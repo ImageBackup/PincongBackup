@@ -1,0 +1,275 @@
+{
+  "parent_type": "question",
+  "parent_id": "63217",
+  "answer_count": 9,
+  "answers": [
+    {
+      "id": "704718",
+      "is_folded": false,
+      "answerer": {
+        "username": "畜平首寄",
+        "uid": "111902"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个时候就需要品葱御用的【迷雾通】了。<br/>\n<br/>\n迷雾通可能会卡，可能会慢，但是连通的稳定性还可以。<br/>\n<br/>\n不喜欢迷雾通可以自建。<br/>\n自建服务器并不麻烦，<br/>\n你甚至不需要懂外语，只需要知道如何搜索，如何复制粘贴，如何按回车。<br/>\n<br/>\n1. 买个海外的VPS服务器（认准KVM架构），优先南美，东南亚，东欧的老牌大盘鸡，便宜又大只。<br/>\n<br/>\n2. VPS服务器会自带Linux发行版，比如Debian，不喜欢可以换。<br/>\n<br/>\n3. 现在VPS的服务器管理界面，一般都提供SSH连接，如果不好用，下载Putty或者任意可以连接SSH的Terminal。<br/>\n<br/>\n4. 连上VPS服务器（用户名，密码在VPS服务器管理页面），去GitHub找热门的一键部署脚本，复制粘贴，回车。<br/>\n<br/>\n5. 按照一键部署脚本的中文指示，一路下行，最后得到一串“VLESS//”开头的代码（或类似代码）<br/>\n<br/>\n6. 选中代码以复制到剪贴板，打开V2RayN，Ctrl + V 生成新的服务器连接。<br/>\n<br/>\n7. 测速，愉快上网。<br/>\n<br/>\n——————————<br/>\n<br/>\n<b><i>想想中共耗资千亿，潜心研究二十年，雇佣数百万人打造的，坚不可摧的钢铁长城，</i></b><br/>\n<b><i>被你花几百块轻松攻破，是不是有点儿小激动。</i></b> </div>",
+      "date": "2023-11-10",
+      "agree_count": 5,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1224413",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-10",
+          "content": "迷雾通一样不行，之前可以连接正常，但是自从下载了V2rayN之后，迷雾通和安易一样正常连接，但是无法翻墙，我不想花钱，就是因为想找一个美国原生ip，如果没有这方面的要求，我直接就用免费的VPN了。"
+        },
+        {
+          "id": "1224414",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-10",
+          "content": "都用不了几百元，免费的VPN就可以攻破。"
+        },
+        {
+          "id": "1224415",
+          "replier": {
+            "username": "畜平首寄",
+            "uid": "111902"
+          },
+          "date": "2023-11-10",
+          "content": "@意义在哪里:V2RayN设置代理模式那里\n清除系统代理，自动设置系统代理。。。\n你设置成清除系统代理，可以让V2RayN的代理失效。"
+        },
+        {
+          "id": "1224442",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-11",
+          "content": "@畜平首寄:关键在哪里能购买到美国原生ip"
+        }
+      ]
+    },
+    {
+      "id": "704716",
+      "is_folded": false,
+      "answerer": {
+        "username": "snowingnight",
+        "uid": "53957"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t两点：<br/>\n<br/>\n<b>无法打开品葱的VPN你还敢用？</b><br/>\n<br/>\n你现在是怎么登陆品葱的？\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 8,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1224407",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-10",
+          "content": "手机安卓里的免费vpn啊"
+        },
+        {
+          "id": "1224408",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-10",
+          "content": "不是一直打不开，是因为下载了好几个vpn，估计导致什么冲突了，就打不开了，一直找不到解决的办法和方法。"
+        },
+        {
+          "id": "1224412",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-10",
+          "content": "重启了电脑可以打开品葱了，但是换成安易加速器，然后又无法翻墙了，不知道到底哪里出了问题。"
+        }
+      ]
+    },
+    {
+      "id": "704720",
+      "is_folded": false,
+      "answerer": {
+        "username": "意义在哪里",
+        "uid": "118523"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t找到原因了，就是因为启动V2rayN，导致品葱无法打开，把V2rayN关掉就好了，但是换成安易加速器还是无法翻墙。是不是安装了好多vpn软件，导致冲突了，现在就是找不到冲突的原因。\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1224427",
+          "replier": {
+            "username": "畜平首寄",
+            "uid": "111902"
+          },
+          "date": "2023-11-10",
+          "content": "代理分为全局代理和应用代理，以及Tun，大概描述（不一定准确）\n1. 全局：代理软件接管Windows应用层的所有网络请求，一般意义上的普通网络请求，都会经过代理软件，然后代理软件进行识别，处理，分流国内国外。\n2. 应用：代理软件根据软件标识，拦截流量。比如只有谷歌浏览器和Google Drive走代理分流，其它应用都是直连代理软件不会管。\n3. Tun：即使全局，也会有一些诡计多端的软件不走Windows应用层的网络请求，比如命令提示符CMD，这时候就需要代理软件来模拟网卡，相当于从硬件层面，拦截所有网络请求，做到一个都不能少。"
+        },
+        {
+          "id": "1224428",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-10",
+          "content": "@畜平首寄:如何才能获取美国原生ip"
+        },
+        {
+          "id": "1224429",
+          "replier": {
+            "username": "畜平首寄",
+            "uid": "111902"
+          },
+          "date": "2023-11-10",
+          "content": "@意义在哪里:Money, money and money."
+        }
+      ]
+    },
+    {
+      "id": "704747",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果要使用VPN，请熟练掌握<br/>\n<br/>\n1 打印和分析路由表<br/>\n<br/>\n2 追踪路由<br/>\n<br/>\n3 配置DNS规则<br/>\n<br/>\nVPN远远比应用层的翻墙工具要难用。\t\t</div>",
+      "date": "2023-11-11",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1224546",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-11",
+          "content": "没有那么高的要求，只要能翻墙出来就行。一键连接的免费的就行"
+        }
+      ]
+    },
+    {
+      "id": "704806",
+      "is_folded": false,
+      "answerer": {
+        "username": "坠吼的",
+        "uid": "75280"
+      },
+      "contents": "<div class=\"markitup-box\">\n<b>谢邀</b><br/>\n<b>我靠，既然来了这里，赶紧打开Google，一堆PC端翻墙教程。不过多多少少需要点动手能力，本人失业后亲自用了接近快2年的时间来学习翻墙技术。基本上，现在PC和手机没什么能难倒我的了。给我一个手机或电脑，几分钟就可以自由上网。</b><br/>\n<b>最后引好像是国师的话：千翻万翻，不如肉翻</b> </div>",
+      "date": "2023-11-11",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1224537",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-11",
+          "content": "肉身翻墙对我来说无异于痴人说梦，异想天开。"
+        },
+        {
+          "id": "1224816",
+          "replier": {
+            "username": "坠吼的",
+            "uid": "75280"
+          },
+          "date": "2023-11-12",
+          "content": "@意义在哪里:不要放弃肉身翻墙的信念，万一有一天实现了呢"
+        }
+      ]
+    },
+    {
+      "id": "704832",
+      "is_folded": false,
+      "answerer": {
+        "username": "antixjp098",
+        "uid": "118269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t百度搜索机场，大把。<br/>\n不需要一个月50，20左右。<br/>\ntag网络了解一下。与我无关，非广告。\t\t</div>",
+      "date": "2023-11-11",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1224536",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-11",
+          "content": "不想花钱，只有免费的VPN。"
+        },
+        {
+          "id": "1224607",
+          "replier": {
+            "username": "antixjp098",
+            "uid": "118269"
+          },
+          "date": "2023-11-11",
+          "content": "@意义在哪里: 那就没必要讨论了"
+        }
+      ]
+    },
+    {
+      "id": "705405",
+      "is_folded": false,
+      "answerer": {
+        "username": "拿铁不拿铁",
+        "uid": "116802"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t免费的VPN就算了吧，这种你也敢用。只有通过分享链接下载的才是最稳定的，至少我用了4年都没任何问题。\t\t</div>",
+      "date": "2023-11-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704732",
+      "is_folded": false,
+      "answerer": {
+        "username": "leonlai",
+        "uid": "119215"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t机场有介绍吗，换了几个虽然速度还可以但不是非常满意，有个别网站也上不了\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1224547",
+          "replier": {
+            "username": "意义在哪里",
+            "uid": "118523"
+          },
+          "date": "2023-11-11",
+          "content": "我也不清楚，一直用VPN。"
+        }
+      ]
+    },
+    {
+      "id": "705278",
+      "is_folded": false,
+      "answerer": {
+        "username": "emisha",
+        "uid": "117515"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t买vps自建<br/>\n其实也没多复杂，装个nginx可以apt-get install nginx安装<br/>\nxray/v2ray有官方脚本安装<br/>\n没有域名就用xray的reality协议<br/>\n剩下的就剩把官方的示例脚本改一下，也没有多复杂，vim粘贴进去就差不多了。\t\t</div>",
+      "date": "2023-11-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

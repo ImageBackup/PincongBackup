@@ -1,0 +1,74 @@
+{
+  "parent_type": "question",
+  "parent_id": "65012",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "724343",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果可以随便骂人，我倒是很支持的。逛品葱主打一个言论自由，能随便开骂我觉得体验更好。想骂却不敢骂，寻找措辞代替的时候，还是会有在墙内的感觉。  但品葱能随便骂人吗？我还不确定，希望管理员给一个明示\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1242291",
+          "replier": {
+            "username": "runner",
+            "uid": "121529"
+          },
+          "date": "2024-01-29",
+          "content": "不懂交流是交换信息，不同观点碰撞，让自己见识更全面。喜欢用辱骂代替交流的人可能适合随便骂人，也被人随便骂。\n有的人不喜欢用这种方式交流，是不是时间久了就只剩下喜欢用骂人代替交流的用户存在了？"
+        },
+        {
+          "id": "1242293",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2024-01-29",
+          "content": "@runner:当然是交流完才骂的，没交流见面就骂那不是疯狗吗。  交流完之后发现不存在误会，是价值观相差太大，骂几句表明态度作为收场，挺好的。至于有人不喜欢这个方式，可以不骂，这是锻炼自己包容性的问题了，练习在不同的环境下生存"
+        },
+        {
+          "id": "1244494",
+          "replier": {
+            "username": "runner",
+            "uid": "121529"
+          },
+          "date": "2024-02-09",
+          "content": "@心情不好: 我是觉得辩论甚至骂人也不算事，只是应该有个规则，就像拳击比赛与贵族战争，就算骂架也有个共同默认不打破的底线。"
+        }
+      ]
+    },
+    {
+      "id": "724349",
+      "is_folded": false,
+      "answerer": {
+        "username": "想养咕咕鸡",
+        "uid": "121606"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t随便骂人有孙笑川抽象文化那味了，梦回2016，纯纯的发泄\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724368",
+      "is_folded": false,
+      "answerer": {
+        "username": "transbrook",
+        "uid": "108118"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t辱骂是无能失智的体现，这种帖子就直接拉到水区或者对线区比较合理\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

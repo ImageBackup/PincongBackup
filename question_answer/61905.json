@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "61905",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "690481",
+      "is_folded": false,
+      "answerer": {
+        "username": "维罗纳的歌",
+        "uid": "33970"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墙内好的不让讲，坏的啥都有。这阴谋论，就是智商过滤器，有啥可展开说的呢？\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690484",
+      "is_folded": false,
+      "answerer": {
+        "username": "猫司机",
+        "uid": "113058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也挺好奇现实里的光明会是在做啥的，应该不至于阴谋论里说的如此玄乎\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

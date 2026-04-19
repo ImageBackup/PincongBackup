@@ -1,0 +1,71 @@
+{
+  "parent_type": "question",
+  "parent_id": "62104",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "692730",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我在东京，一般都是去实体店，直接拿去卖，或者直接买。就去楼下的Book Off。\t\t</div>",
+      "date": "2023-09-28",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1211874",
+          "replier": {
+            "username": "boeing797",
+            "uid": "2145"
+          },
+          "date": "2023-09-28",
+          "content": "支国实体店是所有二手渠道回收价格最低的"
+        },
+        {
+          "id": "1211875",
+          "replier": {
+            "username": "pincong360",
+            "uid": "17793"
+          },
+          "date": "2023-09-28",
+          "content": "@boeing797: 在日本实体店也是最低的，但是太方便了。自己在网上出，价格是高，但是就为了高那点，太麻烦了。"
+        },
+        {
+          "id": "1211877",
+          "replier": {
+            "username": "pincong360",
+            "uid": "17793"
+          },
+          "date": "2023-09-28",
+          "content": "@boeing797: 在日本，处理大型垃圾还要花钱，预约专人来处理，很麻烦。拿到二手店去，就算不给我钱帮我处理掉我还是赚的。"
+        }
+      ]
+    },
+    {
+      "id": "692737",
+      "is_folded": true,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t闲鱼，转转这些软件上劣根性强的人太多了。<br/>\n-----------------------------------------<br/>\n你有精神洁癖吗。卖二手赚个钱就完了，还对客户做道德考察？\t\t</div>",
+      "date": "2023-09-28",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1211900",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2023-09-28",
+          "content": "不愧是岁静，我没义务给你解答。"
+        }
+      ]
+    }
+  ]
+}

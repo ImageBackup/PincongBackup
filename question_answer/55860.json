@@ -1,0 +1,79 @@
+{
+  "parent_type": "question",
+  "parent_id": "55860",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "641237",
+      "is_folded": false,
+      "answerer": {
+        "username": "乾爆維尼",
+        "uid": "101942"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t同是抑郁，被困在墙内。墙内的心理咨询始终感觉不管用，根本谈不了政治相关的焦虑和抑郁问题。现在在找比较优惠的墙外therapist，或者support group\t\t</div>",
+      "date": "2023-03-19",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1164997",
+          "replier": {
+            "username": "gator",
+            "uid": "107174"
+          },
+          "date": "2023-03-22",
+          "content": "如果你英文很流利，那我都可以给你推荐英文的support group。therapist也需要流利的英文，不过墙外therapist还有一个问题就是文字或语音远不如视频聊天有效果，视频聊天又不如当面有效果。而且视频聊天还会带来安全问题（露脸被网警发现）。"
+        }
+      ]
+    },
+    {
+      "id": "641265",
+      "is_folded": false,
+      "answerer": {
+        "username": "keepthinking",
+        "uid": "109270"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t与一些朋友一样的人聊聊天，发一些政治牢骚确实能很好的缓解在墙内因为各种原因所造成的抑郁。<br/>\n我支持楼主弄一个电报群之类的。虽说品葱并不允许发布电报群号，不过你情我愿，双方知晓安全风险的情况下能否网开一面？无论如何，这种细节上的问题总会有办法的。<br/>\n然而电报群只是一种形式，重要的是电报群里的人。即便是葱友也会有比较大的政治分歧，也可能会有一些你不能接受的行为语言习惯，希望楼主有所准备。\t\t</div>",
+      "date": "2023-03-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629537",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我知道治疗抑郁症的好办法就是去积极的投身某种事情<br/>\n<br/>\n根据六四老人的回忆, 去天安门游行效果尤其的好<br/>\n<br/>\n你可以考虑\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1164998",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-03-22",
+          "content": "反贼老同志多关心一下年轻同志的身心健康，颠覆政权也要休息的好吧"
+        }
+      ]
+    },
+    {
+      "id": "629534",
+      "is_folded": true,
+      "answerer": {
+        "username": "fitman",
+        "uid": "91822"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

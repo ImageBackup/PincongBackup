@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "57080",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "708138",
+      "is_folded": false,
+      "answerer": {
+        "username": "衡匡偷光",
+        "uid": "111241"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这跟管理员没什么关系，她转水，你还可以翻着看，不然那些词条是放着干嘛的，只能说来这里的人只是来首页聊天输出情绪垃圾的社会卢瑟，一开始输出群体就错了，扯得再有用也就图一乐，又不是世界大学联网学术论坛\t\t</div>",
+      "date": "2023-11-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708012",
+      "is_folded": true,
+      "answerer": {
+        "username": "Antonov一500",
+        "uid": "73460"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-11-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

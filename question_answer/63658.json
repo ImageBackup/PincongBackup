@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "63658",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "709480",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1，在葡萄牙摘葡萄<br/>\n2，葡萄牙人在葡萄牙摘葡萄<br/>\n字数字数字数\t\t</div>",
+      "date": "2023-12-01",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1229784",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2023-12-01",
+          "content": "😋"
+        }
+      ]
+    },
+    {
+      "id": "709545",
+      "is_folded": false,
+      "answerer": {
+        "username": "刀枪不入义和拳",
+        "uid": "117218"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在井盖省偷井盖<br/>\n上老君山拜老君<br/>\n<br/>\n井盖省人在井盖省偷井盖<br/>\n老君山神上老君山拜老君\t\t</div>",
+      "date": "2023-12-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "710133",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t/ask 井盖省人在井盖省偷井盖，對下聯<br/>\n<br/>\nOpenAI BOT:<br/>\n城市街头盖儿被偷无辜，掩埋坑洞引路安全。\t\t</div>",
+      "date": "2023-12-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

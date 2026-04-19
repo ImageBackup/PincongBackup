@@ -1,0 +1,116 @@
+{
+  "parent_type": "question",
+  "parent_id": "56700",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "638033",
+      "is_folded": false,
+      "answerer": {
+        "username": "民人",
+        "uid": "108220"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我倒是没发过视频。你说的那种应该是这样的吧--<br/>\n两个例子：<a href=\"https://pincong.rocks/video/7344\" title=\"https://pincong.rocks/video/7344\">https://pincong.rocks/video/7344</a> 和  <a href=\"https://pincong.rocks/article/55353\" title=\"https://pincong.rocks/article/55353\">https://pincong.rocks/article/55353</a><br/>\n<br/>\n直接把两个题主叫过来把\t\t</div>",
+      "date": "2023-03-08",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1160762",
+          "replier": {
+            "username": "斩首习近平",
+            "uid": "52179"
+          },
+          "date": "2023-03-08",
+          "content": "对对对，我上次就是看到的第二个，但是没记起来"
+        },
+        {
+          "id": "1160763",
+          "replier": {
+            "username": "斩首习近平",
+            "uid": "52179"
+          },
+          "date": "2023-03-08",
+          "content": "@一个情境主义者"
+        }
+      ]
+    },
+    {
+      "id": "638034",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 我覺得你能發倆帖子, 一個引用另一個. 也省得一個帖子會佈局亂~ 可能是能做的, 但我沒看詳細網頁代碼. 要單獨發視頻帖子.\t\t</div>",
+      "date": "2023-03-08",
+      "agree_count": 1,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1160764",
+          "replier": {
+            "username": "斩首习近平",
+            "uid": "52179"
+          },
+          "date": "2023-03-08",
+          "content": "https://pincong.rocks/article/55353\n就像这个，怎么弄"
+        },
+        {
+          "id": "1160765",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-03-08",
+          "content": "_ _ 他(她)的那個都是用的真實影片地址例如\nhttps://pomf2.lain.la/f/wyhdh880.MP4\n而不是油管, 你插入視頻的 html tag 就管用. 而油管的視頻鏈接需要解析器的, 内嵌的是個脚本."
+        },
+        {
+          "id": "1160771",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-03-08",
+          "content": "@包将无包不负韭菜:\n我上一個視頻的代碼段, 我摘出來了, 但還沒去試下品蔥能否允許嵌入這種 HTML 代碼\n<div>\n<style> /* 保持 16:9 纵横比 */\n.ab-video { position: relative; width: 100%; padding-top: 56.25%; height: 0px; }\n.ab-video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; background: #000; overflow: hidden; }\n</style>\n<div class=\"ab-player\">\n<div class=\"ab-video\">\n<iframe src=\"\nhttps://www.youtube-nocookie.com/embed/zNRvAMJOfAI\"\nframeborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\"></iframe>\n</div>\n</div>\n</div>\n_ _ 也不知這段代碼顯示正常不, 貌似必須位於 <div class=\"mod-body\"> </div> 標簽之中, 當然我 HTML 相關的十分稀鬆, 生平寫過的 HTML 還是雅虎時代自己的單頁介紹呢."
+        },
+        {
+          "id": "1160772",
+          "replier": {
+            "username": "斩首习近平",
+            "uid": "52179"
+          },
+          "date": "2023-03-08",
+          "content": "@ismynewmail:我不懂哎，辛苦了\n准备像你说的，单独发，然后引用一下算了"
+        },
+        {
+          "id": "1160776",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-03-08",
+          "content": "@包将无包不负韭菜:\n發帖時文本框的右下角有個[上传视频]可以點, 裏面的説明入下, 能插入的視頻只有兩個站可以.\n插入视频\n1. 将视频上传至pomf2.lain.la或catbox.moe，点击“Select or drop files”选择文件，上传成功后复制视频链接。\n2. 将视频链接粘贴至下方：\n3. 点击插入按钮，文本框会多出一行代码，请勿修改此行代码。可以通过此方法插入多个视频。"
+        },
+        {
+          "id": "1160778",
+          "replier": {
+            "username": "斩首习近平",
+            "uid": "52179"
+          },
+          "date": "2023-03-08",
+          "content": "@ismynewmail:前面你说的我明白了，自己上传的视频和油管转过来的不一样。我是想转油管视频，就不搞这么麻烦了，直接发就好了\n还有，你有权限的话帮忙把这个话题转水吧"
+        },
+        {
+          "id": "1160883",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-03-08",
+          "content": "轉不了哦, 或許我權限不夠撒~\nhttps://pincong.rocks/article/12538"
+        }
+      ]
+    }
+  ]
+}

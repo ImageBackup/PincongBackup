@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "59015",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "663837",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t费拉 = 群羊 = 德行低 = 低等生物<br/>\n<br/>\n费拉人都是被动选择主流，低等生物没有主动选择的能力<br/>\n有能力主动选择成为少数派的人当然不可能是费拉也不可能是群羊\t\t</div>",
+      "date": "2023-06-19",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663831",
+      "is_folded": false,
+      "answerer": {
+        "username": "zzzzz11111",
+        "uid": "41398"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大帝国中的少数民族当然比主体民族更不容易形成费拉，毕竟日常的生存需要更高的组织度，像印度的泰米尔人土耳其的库尔德人肯定比印度和土耳其的主流人群更不费拉\t\t</div>",
+      "date": "2023-06-19",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1185354",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-06-19",
+          "content": "印度斯坦人和孟加拉人肯定是最费拉的"
+        }
+      ]
+    },
+    {
+      "id": "663859",
+      "is_folded": false,
+      "answerer": {
+        "username": "总是忘记账号密码",
+        "uid": "107684"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还有一种解释：参照公子沈访谈刘仲敬，这就是政治文宣，不是学术讨论。\t\t</div>",
+      "date": "2023-06-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

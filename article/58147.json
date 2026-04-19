@@ -1,0 +1,26 @@
+{
+  "article_id": "58147",
+  "category_id": "1",
+  "title": "香港黨媒01講外國WhatsApp會偷聽用戶私隱｜完全隻字不提WetChat，QQ等等監控他人私隱，安全性仲差過WhatsApp通訊軟件",
+  "meta_description": "香港黨媒01講外國WhatsApp會偷聽用戶私隱｜完全隻字不提WetChat，QQ等等監控他人私隱，安全性仲差過WhatsApp通訊軟件 - WhatsApp再被爆出私隱安全問題，Twitter 工程師 Foad Dabiri 在 Android 的 Privacy Dashboad 中，發現就算完全關上 WhatsApp 程式，Meta 仍會在後台打開咪高峰，存在偷聽用戶私隱的可能，這已經不是...",
+  "meta_keywords": "香港,黨媒,01,講外,whatsapp,會偷,聽用,戶私,完全,隻字,不提,wetchat,qq,監控,私隱,安全性,仲差,通訊,軟件",
+  "tags": [
+    {
+      "id": "3518",
+      "name": "时事热点"
+    },
+    {
+      "id": "8548",
+      "name": "WhatsApp"
+    }
+  ],
+  "author": {
+    "username": "dogpcs",
+    "uid": "74069"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\tWhatsApp再被爆出私隱安全問題，Twitter 工程師 Foad Dabiri 在 Android 的 Privacy Dashboad 中，發現就算完全關上 WhatsApp 程式，Meta 仍會在後台打開咪高峰，存在偷聽用戶私隱的可能，這已經不是第一次出現 WhatsApp 涉及私隱安全問題。<br/>\n<br/>\r\n現時，部分 Android 手機上的 App，如正在取用鏡頭或咪高峰時，會在螢幕右上角出現「小綠點」。而在最近幾星期，有一些 Android 用戶發現手機上的「小綠點」一直出現，但手機並沒有打開任何 App。檢查 Privacy Dashboad 後發現，原來是 WhatsApp 一直使用咪高峰導致，即使沒打開 WhatsApp或在後台運作，也不會停止取用咪高峰。根據受影響用戶共享的截圖顯示，Meta 會連續幾分鐘內持續取用咪克風。<br/>\n<br/>\r\nWhatsApp 將問題歸咎於 Android bug<br/>\n<br/>\r\nFoad Dabiri 發現這個問題已經存在好幾周，甚至在多個版本中都沒有修正，而根據用戶報告，Google Pixel 和 Samsung Galaxy 手機受到的影響最大。WhatsApp 針對這情況表示，該 App 並沒有擅自取用咪高峰，而是 Android 系統的 Bug，令Privacy Dashboad 上顯示 WhatsApp 正在取用咪高峰。<br/>\n<br/>\r\n由於 Google 並未回應是否系統出現 Bug，因此目前未能確定 WhatsApp 並沒有擅自取用咪高峰。如用家發現手機上的「小綠點」無故出現，就要小心可能有 App 正在竊取用戶私隱。<br/>\n<br/>\n<br/>\n<br/>\n<b>香港黨媒01完全提都不提WetChat，QQ等明</b><b>監控他人私隱，安全性仲差過WhatsApp</b><br/>\n<br/>\r\n原文網址: WhatsApp涉偷聽私隱｜再爆安全問題 Elon Musk：WhatsApp不可信 | 香港01 https://www.hk01.com/article/896947?utm_source=01articlecopy&amp;utm_medium=referral\t\t\t\t\t\t\t</div>",
+  "view_count": 1377,
+  "date": "2023-05-12",
+  "agree_count": 1,
+  "comment_count": 4
+}

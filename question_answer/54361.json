@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "54361",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "611378",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t（比较累懒得翻译Key words or terms，见谅）Omicron的确变种最多，目前Spike protein sequence有至少32种Mutations（这也是为什么频繁出现实验中疫苗保护效率随新Strain出现降低的原因之一），是Delta的两倍。<br/>\n<br/>\n原因多样且比较复杂，很难完全概括，但其中主要原因之一是高传播率。在病毒传播学中，比较简单粗暴地说，在同一Pathogen的情况下，造成轻/中症的Pathogen strain。因为无症或极轻症比较难通过症状（如咳嗽/炎症/创口等）传播，而重症也比较难通过移动（如重症难以移动被动隔离/引起重视等）传播。那么Omicron，相比Delta来说，就是那个同一Pathogen但更有竞争力的Strain。<br/>\n<br/>\n当然这只是众多原因之一，其他原因包括Immunesuppressed population积累Mutation，Animal reservoirs和其他Biotic reservoirs“跳跃”感染等等。\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611376",
+      "is_folded": false,
+      "answerer": {
+        "username": "我真的不知道",
+        "uid": "73219"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个问题科学界可能都还没有定论，就算有共识，也未必是没有病毒学，生物学基础的人能看明白的，简单的说世界各地通过接种疫苗和感染获得抗体的比例不断上升，具有新冠抗体的人口比例正在接近或已超过90%的国家越来越多，当更多人对于病毒产生免疫，就能降低新变种出现的几率。\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611377",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t和毛泽东驱赶王明类似<br/>\n<br/>\n病毒之间也是有竞争关系<br/>\nomicron的强大传播力让别的变种很难生存\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

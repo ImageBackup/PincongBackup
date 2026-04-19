@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "66863",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "743680",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t苏联航天也是如此<br/>\n几十年都没听说出过事故<br/>\n斯大林死了以后发现都被藏了起来\t\t</div>",
+      "date": "2024-04-26",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1260884",
+          "replier": {
+            "username": "redstormss",
+            "uid": "45808"
+          },
+          "date": "2024-04-27",
+          "content": "你不报，美国会帮你报的"
+        }
+      ]
+    },
+    {
+      "id": "743755",
+      "is_folded": false,
+      "answerer": {
+        "username": "Dk2s",
+        "uid": "30315"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t把航天太空想成基建就對了<br/>\n<br/>\n技術早就成熟了<br/>\n<br/>\n缺的是勞動力  也就是太空人\t\t</div>",
+      "date": "2024-04-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

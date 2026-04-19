@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "55900",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "628735",
+      "is_folded": false,
+      "answerer": {
+        "username": "Agnes",
+        "uid": "73600"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://u24.gov.ua/<br/>\n你有visa卡就可以捐，怕贪的话找找红十字会和NGO的链接\t\t</div>",
+      "date": "2023-02-07",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152229",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-02-07",
+          "content": "谢谢"
+        }
+      ]
+    }
+  ]
+}

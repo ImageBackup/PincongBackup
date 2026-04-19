@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "60187",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "673304",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你是缺音源、素材库，还是缺剪辑过场软件，还是缺简单的动画生成工具？<br/>\n这块的确是商业软件的天下，建议你花点小钱买个旧版吧。\t\t</div>",
+      "date": "2023-07-24",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1196176",
+          "replier": {
+            "username": "习太大了",
+            "uid": "91168"
+          },
+          "date": "2023-08-02",
+          "content": "我主要是缺素材，視頻剪輯軟件我有點不放心，害怕被中共監控"
+        },
+        {
+          "id": "1196187",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2023-08-02",
+          "content": "@习太大了:缺素材，买素材库。剪辑软件不用国产就行，国外有收费的价格合理的产品。"
+        }
+      ]
+    },
+    {
+      "id": "673318",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tiPhone有自带的imovie，安卓手机就不了解了。<br/>\n另外，电脑上还有很多来源软件，比如Openshot、Shotcut等，Windows、Mac和Linux的版本都有。\t\t</div>",
+      "date": "2023-07-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673312",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我不是这方面的专家<br/>\n似乎达芬奇有免费版可以使用?\t\t</div>",
+      "date": "2023-07-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

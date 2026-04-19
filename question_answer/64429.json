@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "64429",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "717832",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还需要普京大帝亲自指挥、亲自部署？电视台谈话节目骂骂咧咧，那几个肇事者纷纷中毒。\t\t</div>",
+      "date": "2024-01-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "717821",
+      "is_folded": true,
+      "answerer": {
+        "username": "反华让民运崩溃",
+        "uid": "121232"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-01-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

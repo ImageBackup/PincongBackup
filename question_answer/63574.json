@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "63574",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "708475",
+      "is_folded": false,
+      "answerer": {
+        "username": "洼地先知",
+        "uid": "102273"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t本葱很愤怒！<br/>\n<br/>\n本葱怒气冲天！<br/>\n<br/>\n本葱看不上那些老民谣！\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708479",
+      "is_folded": true,
+      "answerer": {
+        "username": "snowingnight",
+        "uid": "53957"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-11-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

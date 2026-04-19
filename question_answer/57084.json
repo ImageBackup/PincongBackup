@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "57084",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "642285",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://pincong.rocks/article/10526<br/>\n<br/>\nhttps://pincong.rocks/article/44953<br/>\n<br/>\n这两个主题可以先看看，<br/>\n<br/>\n自己拍的照片ＥＸＩＦ要先去除，<br/>\n<br/>\n别的地方的图片，一般情况可以灯光调暗，用个旧款手机拍照，拍照ａｐｋ最好是开源的，<br/>\n<br/>\n比如这俩，<br/>\n<br/>\nhttps://f-droid.org/en/packages/com.iakmds.librecamera/<br/>\n<br/>\nhttps://f-droid.org/en/packages/net.sourceforge.opencamera/<br/>\n<br/>\n屏幕截图要特别注意防频域水印，有的抗拍照，\t\t</div>",
+      "date": "2023-03-23",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642173",
+      "is_folded": false,
+      "answerer": {
+        "username": "一個東方人",
+        "uid": "95125"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tPixel全系列的原生截圖工具會洩露數據目前已在三月補丁中修復，Windows 11的原生截圖工具會洩露數據目前未修復，Google play上有很多metadata編輯工具可以去除元數據。\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1165209",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2023-03-23",
+          "content": "这么说Win10的原生截图是不是也不安全"
+        },
+        {
+          "id": "1165254",
+          "replier": {
+            "username": "一個東方人",
+            "uid": "95125"
+          },
+          "date": "2023-03-23",
+          "content": "@平疫禁人忍民领袖:win 11和win 10都受影響。"
+        }
+      ]
+    }
+  ]
+}

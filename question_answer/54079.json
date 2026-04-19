@@ -1,0 +1,72 @@
+{
+  "parent_type": "question",
+  "parent_id": "54079",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "608650",
+      "is_folded": false,
+      "answerer": {
+        "username": "大丘阁客",
+        "uid": "96383"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别的国家不知道，就说说美国的情况。<br/>\n<br/>\n1. 新冠人数是怎么统计的？<br/>\n<br/>\n不存在一个专门的官方机构在统计，但是各市县政府都会定期（以前是每工作日，后来很多渐渐改成每周）汇报本市县的检测数和发现阳性数。所有我们看到的总数都是第三方加总得到，包括墙内著名的“霍普金斯大学数据”。<br/>\n<br/>\n2. 很难找到做核酸的地方<br/>\n<br/>\n不对，只要想找，是很容易的。只要有保险，都可以免费在药店（CVS）预约做，即使没有保险，也存在一些非营利组织提供免费或费用较低的检测。CDC官网会提供按地址查询可用检测点的功能，非常方便。像中国使馆要求的那种提供正式报告的检测比较少而已。<br/>\n<br/>\n3. 很少有人做<br/>\n<br/>\n确实不能说很多，但也谈不上很少。相当一部分人是有症状就会去做的。以及，开部分处方药比如paxlovid，也必须要有阳性检测结果。<br/>\n<br/>\n4. 与实际数字差很多<br/>\n<br/>\n这是必然的。早有学者说过美国的实际感染人次应该已经超过了美国人口数。不过，重症死亡数据的误差是相对小的，因为住院的都会有检测。<br/>\n说“也”不太合适，这个差很多的原因根本就不一样……\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608706",
+      "is_folded": false,
+      "answerer": {
+        "username": "谢玉阳",
+        "uid": "40809"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国想打个疫苗还不简单？满大街的药房都有接种点。<br/>\n<br/>\n每个CVS和大型超市的药房基本都能打。而且打的人并不少。以著名蓝州伊利诺伊为例，第一批疫苗出来的时候，当时疫苗给谁先供应那都是公开的，医护人员和易感染老人。后来供应逐渐充足了基本就是提前一天预约就能打上。<br/>\n<br/>\n还有后来为了安抚不想打疫苗的人，议员们都亲自跑到地方预约排队打疫苗。虽然这种行为很有民主党作秀传统，但是人家真打了，有问题我先上你们后上，那我也没话可喷。<br/>\n<br/>\n不强制大家打，但不代表这疫苗就不好打啊。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608678",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t肯定差很多 ，最近一段时间全球新增数量最多的是日本，你敢信？不可能嘛<br/>\n<br/>\n全放开之后，基本上数字就只和人口数量以及年龄结构相关了，和疫苗接种率都无关，疫苗只能影响死亡率\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608718",
+      "is_folded": false,
+      "answerer": {
+        "username": "Ira",
+        "uid": "54229"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t哪里难做核酸呢？就去年没有放开大城市基本每几公里都有核酸站，一周做一定次数保险付，不能在家办公没有关门的职业必须天天做，后来降至一周2次这样就统计了。而且不舒服去找家庭医生直到今天都先做核酸。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608720",
+      "is_folded": false,
+      "answerer": {
+        "username": "初冬",
+        "uid": "99673"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大多人得了都没症状，可能就有点鼻塞，过两天就自愈了，这些人压根都不知道自己得过新冠，怎么统计准确数字？\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

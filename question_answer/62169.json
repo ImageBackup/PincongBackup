@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "62169",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "693379",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是，首先要學阿拉伯語，要多看古蘭經，接受神的指引和教化\t\t</div>",
+      "date": "2023-09-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "693376",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t天天想着教化别人，为整个世界指明方向啦，您吶。\t\t</div>",
+      "date": "2023-09-30",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1212550",
+          "replier": {
+            "username": "guest_s",
+            "uid": "78029"
+          },
+          "date": "2023-09-30",
+          "content": "反對不會正確的反對👎"
+        }
+      ]
+    }
+  ]
+}

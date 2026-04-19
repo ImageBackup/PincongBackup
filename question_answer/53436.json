@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "53436",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "602669",
+      "is_folded": false,
+      "answerer": {
+        "username": "h87qxhb2z",
+        "uid": "103960"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我有一个想法，发动体制内“群众运动”，发动“反贪运动”。大家看看是否可行：<br/>\n<br/>\n建立一个匿名的举报网站，让所有人匿名举报身边其他体制内的“违法犯罪行为”，收集整理成数据库。对于每一条举报，生成一个不对称密钥（举报人拿密钥，网站保留公钥）。在未来清算的时候，举报人提供自己的密钥可减免惩罚。<br/>\n<br/>\n通过这样的方法可以尽可能的吸收体制内的人，分解敌方力量。另一方面，中间的举报内容也可以用作将来交换我方被捕群众的筹码（让他们抓人的时候更恐惧，或者只要知道对方谁是负责人，不放人就公布他的罪证）。<br/>\n<br/>\n🐷其实也不是一无是处，至少在想阴招的时候还是很厉害的。建议我方认真演习相关精神，用🐷的方法（用贪污为把柄控制队伍）来转化对方力量。\t\t</div>",
+      "date": "2022-11-29",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "602656",
+      "is_folded": false,
+      "answerer": {
+        "username": "维罗纳的歌",
+        "uid": "33970"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t嗯，好帖，是个技术贴，你对宣传部的判断符合他们一贯的手段，一看也是老反贼了，至于应对方式，我再想想吧。\t\t</div>",
+      "date": "2022-11-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

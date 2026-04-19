@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "62382",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "695613",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我来了四年了，请问你是哪位？我来了四年了，请问你是哪位？\t\t</div>",
+      "date": "2023-10-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "695633",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我不记得了，是不是互动太少了。<br/>\n<br/>\n紫薯布丁紫薯布丁\t\t</div>",
+      "date": "2023-10-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "695634",
+      "is_folded": false,
+      "answerer": {
+        "username": "萨格尔王吃冰棒",
+        "uid": "21463"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想他了，他公平！这句式挺像费拉毛左的哈哈<br/>\n<br/>\n二十字二十字二十字\t\t</div>",
+      "date": "2023-10-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

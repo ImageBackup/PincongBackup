@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "59031",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "661893",
+      "is_folded": false,
+      "answerer": {
+        "username": "冬天的野火也不弱",
+        "uid": "104693"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的看法是习近平目前正在准备打台湾，所以对于言论只会越管越紧，开战之后中国大陆甚至会切断国际互联网。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661943",
+      "is_folded": false,
+      "answerer": {
+        "username": "TIAN_KUAI_HUO",
+        "uid": "88301"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t为了合理化言论审查<br/>\n<br/>\n自从程朱理学兴起，中国人对性的忌讳，是深入骨髓的，反色情能很好的占据道德制高点<br/>\n<br/>\n站上了道德制高点后，就要开始夹带私货(政治审查)了\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": []
+    },
+    {
+      "id": "661894",
+      "is_folded": true,
+      "answerer": {
+        "username": "机器猫博士",
+        "uid": "105067"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-06-11",
+      "agree_count": -1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1183421",
+          "replier": {
+            "username": "冬天的野火也不弱",
+            "uid": "104693"
+          },
+          "date": "2023-06-11",
+          "content": "反而你也会翻墙，在墙外想看这些很容易。"
+        }
+      ]
+    }
+  ]
+}

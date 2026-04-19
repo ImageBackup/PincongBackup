@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "65729",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "731583",
+      "is_folded": false,
+      "answerer": {
+        "username": "衝浪TV",
+        "uid": "124941"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t正常世界都是叫IG的,就連我這個平時懶得登錄的新註冊用戶都想來提醒你一下\t\t</div>",
+      "date": "2024-03-03",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1248754",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2024-03-03",
+          "content": "已删除"
+        },
+        {
+          "id": "1248755",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2024-03-03",
+          "content": "就是喜欢这种称呼，这没关系"
+        }
+      ]
+    },
+    {
+      "id": "731598",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t從沒看過這種 popup<br/>\n。。。。。。。。。。。。。。。\t\t</div>",
+      "date": "2024-03-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731603",
+      "is_folded": false,
+      "answerer": {
+        "username": "孤烟墓蝉",
+        "uid": "116913"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有图吗，可以发个截图。不过大概率没什么问题，经常性的会有通知的\t\t</div>",
+      "date": "2024-03-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

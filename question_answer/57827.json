@@ -1,0 +1,79 @@
+{
+  "parent_type": "question",
+  "parent_id": "57827",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "650525",
+      "is_folded": false,
+      "answerer": {
+        "username": "不吃蔥",
+        "uid": "39352"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我會留在市場，根本無法預測衰退何時來何時走。有人做過對比，長期來看擇時進出的回報往往不如啥也不管的。<br/>\n<br/>\n影響市場因素太多了，中國只是一個可能性。<br/>\n<br/>\n現在利率很高，去年和今年我都在努力去槓桿，下半年準備全力定投了。\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650537",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t推荐定投如下ETF<br/>\n<br/>\n短期国债指数ETF<br/>\nSPDR Bloomberg 1-3 Month T-Bill ETF (BIL)<br/>\niShares 0-3 Month Treasury Bond (SGOV)<br/>\n<br/>\n浮动利率债券指数ETF<br/>\niShares Floating Rate Bond ETF(FLOT)<br/>\n<br/>\n通胀因子调整国债(TIPS)指数ETF<br/>\niShares TIPS Bond ETF(TIP)<br/>\n<br/>\n高收益债券ETF<br/>\niShares iBoxx $ High Yield Corporate Bond ETF (HYG)<br/>\n<br/>\n三倍做空标普ETF<br/>\nProShares UltraPro Short S&amp;P500 (SPXU)<br/>\n<br/>\n三倍做空纳指ETF<br/>\nProShares UltraPro Short QQQ (SQQQ)\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1172627",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-04-24",
+          "content": "我只推荐YANG"
+        }
+      ]
+    },
+    {
+      "id": "650448",
+      "is_folded": false,
+      "answerer": {
+        "username": "都市火枪手",
+        "uid": "85988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最重要的后果无非是利润降低。可以试着去推演一下美国的大公司出让一部分超额利润的影响，比如说苹果的毛利从50降到35，沃尔玛大规模抛售旗下超市，等等等等。我直觉认为这是好事呀，特别是沃尔玛崩掉带来的鲸落效应。倒希望美国政府再推一把，把那些地皮炒家和华尔街金融党狠狠打击一下。\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650451",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t巴菲特：永远不要做空美国<br/>\n<br/>\n<br/>\n别的人我也不认识，如果和巴菲特说的不一样，该听谁的，你自己判断吧。\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1172620",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2023-04-24",
+          "content": "美联储说现在通胀过高，带头做空美国。巴菲特还说，不要和美联储对着干。"
+        }
+      ]
+    }
+  ]
+}

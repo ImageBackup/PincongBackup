@@ -1,0 +1,105 @@
+{
+  "parent_type": "question",
+  "parent_id": "62946",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "701962",
+      "is_folded": false,
+      "answerer": {
+        "username": "丢丢侠",
+        "uid": "74585"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t高动色域不是“录”出来的，需要特殊处理特殊储存。仅为宣传这几乎没有意义。<br/>\n<br/>\n对于玩家重点是游戏设计本身，追求油光水滑漂亮为优先的主要是东亚人。<br/>\n<br/>\n问过的西方真正玩家甚至没有一个要求每个像素本身多极致漂亮，那算是一个福利，而不是重点。中国真玩家也是。甚至连分辨率也不是最在乎。过去480p广受好评的一大堆，现在被追捧的720P也一大堆。<br/>\n<br/>\n我不是真玩家。但可以理解。<br/>\n<br/>\n这不是low，相反，这才是专业。<br/>\n<br/>\n对标造车我感觉也是，里外整体和细节的做工和材料都有一个常识性的标准，无论看得见还是看不见，而不是像某些中国车那样看得见摸得着的地方油光水滑，看不见的地方就廉价低质或者无法保证。<br/>\n<br/>\n要外壳“高级”到一个程度，里面细节也同样精度的“高级“到一个程度的，单价会较贵，大部分人买不起。而这样还能卖几十万份的，那算是保时捷。但那是相对小众市场。\t\t</div>",
+      "date": "2023-10-30",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "701956",
+      "is_folded": false,
+      "answerer": {
+        "username": "nyny",
+        "uid": "115318"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因為遊戲廠商是按最低配置要求或最普遍的硬件設備作玩家默認配置去設計遊戲，如SRGB，這才能讓最多玩家得到設計師期望的效果。<br/>\n其實也有部份追求畫面效果的遊戲支持HDR。追根究底，還是可以有，但成本得上升，而且在乎這功能的人也不多。\t\t</div>",
+      "date": "2023-10-30",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1221749",
+          "replier": {
+            "username": "严防网警比对信息",
+            "uid": "112279"
+          },
+          "date": "2023-10-30",
+          "content": "微软这个废物这么大个厂，本身系统的HDR却设计成一坨，开自动hdr虽然亮度上来了充分发挥高尼特，但是适配也是惨不忍睹，过曝是常事"
+        }
+      ]
+    },
+    {
+      "id": "701950",
+      "is_folded": false,
+      "answerer": {
+        "username": "畜平首寄",
+        "uid": "111902"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t游戏厂商：<br/>\n<br/>\n即使你的电脑比游戏的最低要求配置还低，<br/>\n我们也没有禁止你启动游戏。<br/>\n<br/>\n如果你想看高色域画面，<br/>\n这个好说，你把钱先掏出来，<br/>\n我们单独给你做一版，岂不是皆大欢喜？\t\t</div>",
+      "date": "2023-10-30",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "701958",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该是容量限制吧，现在的低画质cg很多大作都只能2BD了，如果高画质不是还要再来一碟，每碟都是成本\t\t</div>",
+      "date": "2023-10-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "701971",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t什么叫高色域？是指通道位深度为 32 位吗？以前的通道都是 8 位的，从黑到白分成 256 个灰度。\t\t</div>",
+      "date": "2023-10-30",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1221748",
+          "replier": {
+            "username": "严防网警比对信息",
+            "uid": "112279"
+          },
+          "date": "2023-10-30",
+          "content": "对，以前以为我显示屏不行才看见灰色的视频内容就是灰蒙蒙断层，结果换了之后看还是一样的，原来是原生就不支持"
+        }
+      ]
+    },
+    {
+      "id": "701996",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前游戏动画CG画面比游戏本体好，现在游戏本体画面比CG画面好。\t\t</div>",
+      "date": "2023-10-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

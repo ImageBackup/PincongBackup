@@ -1,0 +1,56 @@
+{
+  "question_id": "42266",
+  "category_id": "6",
+  "title": "",
+  "meta_description": "為甚麼人們在表達10^12時會寫作「萬億」而不是「兆」？ - ",
+  "meta_keywords": "為甚,麼人,表達,10,12,時會,寫作,萬億,不是",
+  "tags": [
+    {
+      "id": "100121",
+      "name": "為甚麼"
+    },
+    {
+      "id": "100242",
+      "name": "數字"
+    }
+  ],
+  "author": {
+    "username": "肆意醉飲思緒清",
+    "uid": "51795"
+  },
+  "view_count": 4236,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2021-10-05",
+  "agree_count": 1,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1001761",
+      "replier": {
+        "username": "麦子二百斤",
+        "uid": "50895"
+      },
+      "date": "2021-10-05",
+      "content": "有时候“兆”用来代表“百万”"
+    },
+    {
+      "id": "1001773",
+      "replier": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "date": "2021-10-05",
+      "content": "同样，台湾把1M叫成一百万或者一迈噶，为什么不会写成兆？\n因为中国不在乎不容易引起歧义的一字多义，而台湾人在意。"
+    },
+    {
+      "id": "1001792",
+      "replier": {
+        "username": "约定的世界岛",
+        "uid": "2101"
+      },
+      "date": "2021-10-06",
+      "content": "萬億不会歧义，最迷惑的是万兆"
+    }
+  ],
+  "answer_count": 5
+}

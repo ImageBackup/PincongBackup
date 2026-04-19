@@ -1,0 +1,452 @@
+{
+  "parent_type": "question",
+  "parent_id": "59146",
+  "answer_count": 15,
+  "answers": [
+    {
+      "id": "663118",
+      "is_folded": false,
+      "answerer": {
+        "username": "东亚灯塔",
+        "uid": "92877"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没关系，现在汉语学术写作英文化趋势明显，哲学政治相关的论述性段落在语法结构上已经被英文语法严重影响了，本就很翻译腔\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663056",
+      "is_folded": false,
+      "answerer": {
+        "username": "Justitia",
+        "uid": "42231"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t第一段就很翻譯腔，很像閱讀測驗，把including a,b,c跟形容詞子句的補充陳述列在後面。\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663043",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t独裁专制国的认知超限战有个严重弊端，向外输出的垃圾文章经过翻译后又返回了原地，两种语言的切换带来的生涩与古怪让这类文章望之不似人写的，很多时候不仅仅搅乱的外部的网络平台也误导了自己的战略判断，俄罗斯就是被自己忽悠瘸的典型代表。\t\t</div>",
+      "date": "2023-06-15",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663200",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这种文风称为“翻译体”，不符合以汉语为母语者的习惯<br/>\n四万字长文《客观评价习近平 》就是典型的翻译体，作者有可能用这种方式来隐蔽其原有的行文风格\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1184693",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "我已经在尽力模仿各位葱油了😭"
+        }
+      ]
+    },
+    {
+      "id": "663032",
+      "is_folded": false,
+      "answerer": {
+        "username": "fish",
+        "uid": "42265"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t\"良心犯\" = Prisoner of conscience?  中文裡很少看到這個詞<br/>\n<br/>\n\"它到底有多厉害？不见得。\" =&gt; 中文母語的人會說 \"到底有多厉害？可难说了\"。<br/>\n中文裡的它(it)常常會被省略，若要使用，會用\"這\"、\"那\"，不大會用\"它\"<br/>\n<br/>\n這兩段看起來不像漢語母語的人寫的。另外您的其他文字也有很多英語感。:)\t\t</div>",
+      "date": "2023-06-15",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1184528",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "多谢指出，让您见笑了。"
+        },
+        {
+          "id": "1184542",
+          "replier": {
+            "username": "fish",
+            "uid": "42265"
+          },
+          "date": "2023-06-16",
+          "content": "沒問題的。我們寫英文也有同樣問題。若要假裝中文母語者，建議讓chatGPT幫你順一下\n\"Can you repharse the below sentences as if they are written by a Chinese native speaker?\""
+        },
+        {
+          "id": "1184567",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "@fish:好主意😋"
+        }
+      ]
+    },
+    {
+      "id": "663202",
+      "is_folded": false,
+      "answerer": {
+        "username": "隐匿之影",
+        "uid": "103339"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一眼看上去像是ai写的，语序怪异，如果放在墙内看，一眼会认为是发帖机器人失去回复的欲望。\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663040",
+      "is_folded": false,
+      "answerer": {
+        "username": "JohnSmith",
+        "uid": "7850"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t文字本身我看不出有明显异样感，但是半角标点后加空格的方式倒是非常显眼，除开特殊要求否则一般人不会这么用。\t\t</div>",
+      "date": "2023-06-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663052",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不见得用错了，看的人可能觉得写字的人小学没毕业吧。<br/>\n<br/>\n不见得的意思是it is not like that, 无法回答how is it的问题。可谓答非所问。\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1184527",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "感谢葱油斧正，鄙人回梁家河搬麦子去了。"
+        }
+      ]
+    },
+    {
+      "id": "663059",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看上去像是HSK八级的歪果仁写的。语法上说不出有什么问题，但读起来真的很别扭。\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "663067",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t举个例子：<br/>\n<br/>\n人生所需求的衣食住一切物品，无一不可以大豆供给的、伏特汽车王曾经讲过：完全用大豆作成而使用豆油驰驱的汽车，不久就可以出现了。\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 1,
+      "discussion_count": 12,
+      "discussions": [
+        {
+          "id": "1184555",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "请问这儿的例子是用来说啥的？顺便问一下，这是民国时的普通话吗？我感觉在一些小说看见过。"
+        },
+        {
+          "id": "1184571",
+          "replier": {
+            "username": "事已至此先吃饭吧",
+            "uid": "102283"
+          },
+          "date": "2023-06-16",
+          "content": "@尼德兰:民国白话文借用了大量的日本发明的词汇，所以读起来更像是日本人说话，而中国目前的官方语句很多都是文革时期的遗毒，读来虽朗朗上口却人文气息非常弱。"
+        },
+        {
+          "id": "1184572",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "@事已至此先吃饭吧:原来如此，谢谢解释。"
+        },
+        {
+          "id": "1184670",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-06-16",
+          "content": "@尼德兰:这个是满洲国协和语，你看他吹大豆的那个劲，满洲特产大豆\n福特估计没说过这话，满洲国文宣瞎编的。"
+        },
+        {
+          "id": "1184673",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "@rowlandheights:I see, thank you for pointing that out. So you mean it's natural to insert foreign influence in Chinese language?"
+        },
+        {
+          "id": "1184680",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-06-16",
+          "content": "@尼德兰:language is fluid, if you can insert math formula or other symbols in language, there is nothing to stop you from mixing languages to the point of creole languages or pidgin languages."
+        },
+        {
+          "id": "1184682",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "@rowlandheights:Got it, so I think. I was just worrying about the cultural appropriation thing."
+        },
+        {
+          "id": "1184684",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "@rowlandheights: I feel very honored that you're actually accepting me in this community."
+        },
+        {
+          "id": "1184685",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-06-16",
+          "content": "@尼德兰:I eat everything, drink everything, talk everything\nthere's no race but human race, no nation but human nation..."
+        },
+        {
+          "id": "1184686",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "@rowlandheights:🤗"
+        },
+        {
+          "id": "1184689",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-06-16",
+          "content": "@尼德兰:accept you in what community?"
+        },
+        {
+          "id": "1184690",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "@rowlandheights:This forum where I've been commenting on a society of another culture."
+        }
+      ]
+    },
+    {
+      "id": "663419",
+      "is_folded": false,
+      "answerer": {
+        "username": "社会民主党",
+        "uid": "112541"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得，如果是人写出来的话，ta文化程度一定很高，但是ta不可能是中文母语者。因为文化程度高的中文母语者不会这么写，文化程度高的中文母语者应该还会引用一些典故或者古诗词。反正ta不可能是大陆人，大陆人不会这么写的，有没有可能是其他中文母语地区的本人由于自己的原因无法判断。<br/>\n<br/>\n应该是外国人写的文章翻译成中文。也有可能是机器写的。\t\t</div>",
+      "date": "2023-06-17",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663245",
+      "is_folded": false,
+      "answerer": {
+        "username": "斯嘉丽",
+        "uid": "53254"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中文表达基本都是用的短句子，显得零碎。<br/>\n大段大段的长句子，要么是作家故意模仿外文写作风格。要么是翻译的外文。\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1184750",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "这是我模仿品葱用户写的"
+        },
+        {
+          "id": "1184793",
+          "replier": {
+            "username": "斯嘉丽",
+            "uid": "53254"
+          },
+          "date": "2023-06-17",
+          "content": "@尼德兰: 这说明某些人行文风格是模仿译文（而且这种译文质量不高），比如很长的定语，翻译时都得拆散了。"
+        },
+        {
+          "id": "1184847",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-17",
+          "content": "@斯嘉丽:我想，可能问题出在我身上，因为有人说我过去说话也带来这种感觉。对于我来说，如果有这么回事（我长期有的模式），它是自然而然的，没有模仿。另一方面，为了模仿葱油，我去除了“因为”、“所以”之类的玩意儿，花了很大工夫。"
+        }
+      ]
+    },
+    {
+      "id": "663037",
+      "is_folded": false,
+      "answerer": {
+        "username": "丁胖子广场大神",
+        "uid": "112157"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t仔细读读就会觉得是机翻或者是chatgpt之类的机器写出来的<br/>\n比如这句“而是在中国他们同时要承担打压异见人士和消灭言论和独立媒体于第一线的任务”<br/>\n汉语为母语的人应该不会这么遣词造句\t\t</div>",
+      "date": "2023-06-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663021",
+      "is_folded": false,
+      "answerer": {
+        "username": "郭芯毓",
+        "uid": "110410"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t凡是以 如何看待……  怎么看…… 为题的贴子都很有嫌疑。所有不敢直接写习近平这个老杂种的名称的，一律是五毛\t\t</div>",
+      "date": "2023-06-15",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1184489",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-15",
+          "content": "what are you talking about?"
+        },
+        {
+          "id": "1184570",
+          "replier": {
+            "username": "打土共分兰兰",
+            "uid": "89718"
+          },
+          "date": "2023-06-16",
+          "content": "ai没有那么奔放的感情，比如我操你妈的习猪吃狗屎蛋糕过你的鸡吧大寿，早死早草绳吧，猪大肠"
+        },
+        {
+          "id": "1184692",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-06-16",
+          "content": "@打土共分房产:ai不是靠感情，ai是模仿人类，他的语料库里如果很多粗口，他也会满嘴脏话"
+        }
+      ]
+    },
+    {
+      "id": "663089",
+      "is_folded": true,
+      "answerer": {
+        "username": "击溃共匪",
+        "uid": "111201"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-06-16",
+      "agree_count": 2,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1184565",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "好吧，不过神奇的是，我在假装粉红时，他们好像没发现。说到“良心犯”，这个词儿我在自由亚洲电台等中文媒体见到用，比如\nhttps://www.rfa.org/mandarin/Xinwen/2-06022023114004.html"
+        },
+        {
+          "id": "1184770",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-16",
+          "content": "今天，我在学习葱油Tashkent的说话方式，你觉得我学得像吗(๑◔‿◔๑)"
+        },
+        {
+          "id": "1184844",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-17",
+          "content": "@打倒匪帮:哎，今天度假去了，模仿行动再续一天(๑◔‿◔๑)"
+        },
+        {
+          "id": "1184848",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-17",
+          "content": "@打倒匪帮:好嘞"
+        }
+      ]
+    }
+  ]
+}

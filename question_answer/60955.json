@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "60955",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "680718",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要在线看,相当于使用QQ浏览器上品葱<br/>\n<br/>\n你要真想看,那就断网看\t\t</div>",
+      "date": "2023-08-17",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1200675",
+          "replier": {
+            "username": "ASD1234",
+            "uid": "26668"
+          },
+          "date": "2023-08-18",
+          "content": "断网也不行 断网后 再联网的话 还是会把历史信息发服务器"
+        },
+        {
+          "id": "1200695",
+          "replier": {
+            "username": "盗亦有道",
+            "uid": "103832"
+          },
+          "date": "2023-08-18",
+          "content": "匪区浏览器内自带黑名单，我用过vivo手机自带浏览器，根本就不给你机会上品葱，根本就打不开网页"
+        }
+      ]
+    }
+  ]
+}

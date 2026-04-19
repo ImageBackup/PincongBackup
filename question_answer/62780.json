@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "62780",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "700375",
+      "is_folded": false,
+      "answerer": {
+        "username": "约瑟夫二世",
+        "uid": "111179"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t卧槽。。。这个黑的太高级了，太高级了。他不调整我都给特不到啊。。。除夕除夕，除习除习，这特么的此地无银三百两来的也太高级了。\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700374",
+      "is_folded": false,
+      "answerer": {
+        "username": "好嗨冻",
+        "uid": "113220"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我包不愧为中国新时代革命指明了新方向<br/>\n继续加油加速！！！！\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700399",
+      "is_folded": true,
+      "answerer": {
+        "username": "大西洋海风",
+        "uid": "118293"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-10-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

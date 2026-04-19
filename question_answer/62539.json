@@ -1,0 +1,194 @@
+{
+  "parent_type": "question",
+  "parent_id": "62539",
+  "answer_count": 10,
+  "answers": [
+    {
+      "id": "697471",
+      "is_folded": false,
+      "answerer": {
+        "username": "Tymosa",
+        "uid": "115186"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个我也有点没搞清楚发明汉语拼音的那些人是怎么想的，不过汉语拼音用来打汉字是方便，但用来音译汉文语境的词汇名称成英文可真是有点吃饱了撑，明明有着与英语更贴切的威妥玛拼音系统，音译得更贴合英文本身的发音规范和读音，却把它给废了。汉语拼音里的一堆Zh,Q,X等打头的这些和英文音标本身的发音规律根本不符合的奇怪字母组合，却还反过来要求别人要给这种不符合常见拼读规范的奇葩拼法写一些错误的音标来迎合拼音的读音，那些拼法如果是一个从来没了解过拼音的拼读和使用规律的人，人家压根就懂不起那些在英文环境下明明发这种音，但这些却发出一些不符合音标拼读规范的音。并且常规的键盘上压根就没有ü这个键，这就导致“吕”“女”这些读音的词在打字时需要写成lv和nv，而v在英文音标下压根不发这种音。如果一个没学过拼音的人按照音标本身的发音规范硬拼这种奇葩的拼法，发的音要么很奇怪要么没法发。\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1217070",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-10-16",
+          "content": "你是不是觉得外语里只有英语啊？"
+        }
+      ]
+    },
+    {
+      "id": "697459",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t汉语拼音和德语接近，在五十年代信息化也不是问题，所以沿用和汉语yu最接近的德语字母ü。<br/>\n<br/>\n你们现在看到的问题都是八十年代开始，以ASCII为主流的美式信息化出现之后才产生的新问题。解决方法也是一直没有统一。历史遗留问题如果能简单解决，地球上就不会有这么多不同的度量衡，水管规格，螺丝型号，电器插座，充电规格之类的东西了。\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 8,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1217044",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-10-16",
+          "content": "美国还有更好玩的，比如单个字母不允许作为姓或名\n还有如果名字只有单名，要重复写一遍，于是就变成了 abc  abc"
+        },
+        {
+          "id": "1217074",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-10-16",
+          "content": "@rowlandheights:McLovin"
+        }
+      ]
+    },
+    {
+      "id": "697451",
+      "is_folded": false,
+      "answerer": {
+        "username": "pedestrian",
+        "uid": "14111"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tiu代表其他音节了吧，这样iu也需要换成其他字母了\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697452",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t本身中國大陸各項系統各項規定都奇奇怪怪的，例如少民身份證上的名字是漢字，新疆維族，蒙古族，名字都轉寫得奇奇怪怪的，如果轉成拉丁羅馬字會好不少。藏族好像有藏文身份證？（這點不太清楚）\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697466",
+      "is_folded": false,
+      "answerer": {
+        "username": "MasaruBTN",
+        "uid": "6050"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tü可以写作yu<br/>\n<br/>\n当y与ü合并出现时，就写作yu, 例如yuan, yue等<br/>\n<br/>\n中国政府也规定护照、旅行证等无法使用ü的场合，使用yu代替ü，例如lyu, nyu\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697456",
+      "is_folded": false,
+      "answerer": {
+        "username": "总得说两句",
+        "uid": "112835"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也想知道，当初干嘛不用V替代U？英文里没ü，为啥出现在拼音里？\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1217046",
+          "replier": {
+            "username": "Tymosa",
+            "uid": "115186"
+          },
+          "date": "2023-10-16",
+          "content": "这个可能还得问那些当初发明汉语拼音的人，其他人也猜不透他们是怎么想的😂"
+        },
+        {
+          "id": "1217047",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-10-16",
+          "content": "德文"
+        },
+        {
+          "id": "1217052",
+          "replier": {
+            "username": "Kongepingvin",
+            "uid": "26687"
+          },
+          "date": "2023-10-16",
+          "content": "拉丁字母转写和英文有什么关系？"
+        }
+      ]
+    },
+    {
+      "id": "697465",
+      "is_folded": false,
+      "answerer": {
+        "username": "Benedikt",
+        "uid": "51313"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中文是使用了德语变音。变音符号在很多语言里都常见，对英文键盘和英文网络系统来说也都很麻烦。<br/>\n<br/>\n有的地方支持ue代替，有的地方只省略为u，有的地方能识别ü，中国则用v。<br/>\n<br/>\n语言都是给自己用的。就中文圈能看懂yu，换个国家也不一定这么念。\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697485",
+      "is_folded": false,
+      "answerer": {
+        "username": "negi",
+        "uid": "74403"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就事论事，汉语拼音方案蠢的一笔，这种设计应该至少有一半以上工作要留给数学/信息论专家而不是语言学家独自霸占。\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697522",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1.因為德語ü直接就是這個音<br/>\n2.就算用v也不能用yu，因為y在聲母裡已經有了<br/>\n比方說女，可以寫成nü也可以寫成nv，但如果寫成nyu的話會容易變成牛<br/>\n3.現在手機輸入法直接長按就能輸入ü ū ú û ù各種u，還有ã æ å â ä ë œ ø ß等各種長得像英語的非英語字母。「麻煩」這個問題正在漸漸消失\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697569",
+      "is_folded": false,
+      "answerer": {
+        "username": "周口儿",
+        "uid": "106355"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果｢y｣表示[j] 那麼也應該用[ʃʲ]表示[ɕ]<br/>\n｢x｣｢j｣｢q｣也應變成｢shy｣｢zhy｣｢chy｣<br/>\n另外｢ü｣要變也應變成｢iw｣而不是｢yu｣<br/>\n｢yu｣應該是[ju] 跟字母｢U｣同音<br/>\n｢iw｣應該是[iʷ] 更接近[y]\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

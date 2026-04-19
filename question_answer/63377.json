@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "63377",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "714822",
+      "is_folded": false,
+      "answerer": {
+        "username": "JoeGonzales",
+        "uid": "112521"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你是要钱包还是要交易所。钱包比特币用Electrum，Trc20-USDT用TronLink或OneKey。至于交易所我目前用的是欧易，目前还能用。\t\t</div>",
+      "date": "2023-12-23",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1233980",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2023-12-23",
+          "content": "请问钱包和交易所都是什么概念。我是因为听床打算用虚拟币收钱，还不会搞虚拟币"
+        },
+        {
+          "id": "1235595",
+          "replier": {
+            "username": "JoeGonzales",
+            "uid": "112521"
+          },
+          "date": "2023-12-31",
+          "content": "@幸福中国:交易所时相当于银行，把钱的控制权直接给银行了，而且大多数交易所是实名的需要注册。钱包是类似现金钱包，转的钱直接到钱包的地址，在本地生成钱包地址，直接控制权在自己手里。想要安全就选钱包，但把数字货币转成现金是需要交易所的"
+        }
+      ]
+    },
+    {
+      "id": "715103",
+      "is_folded": false,
+      "answerer": {
+        "username": "Rakuyo202023",
+        "uid": "120894"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t钱包用开源的好一点，就像Metamask这种，不过Metamask只有ERC-20，如果是收款的话，用Bitget wallet就可以了，该钱包可以随意的跨链兑换，有3%左右的滑点，但是兑换效率很快\t\t</div>",
+      "date": "2023-12-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

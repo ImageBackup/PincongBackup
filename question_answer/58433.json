@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "58433",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "656353",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以模仿一下“方舟与中国”前辈的那种翻译体<br/>\n这种风格属于七八十年代的那种文风\t\t</div>",
+      "date": "2023-05-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "656355",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t隐藏身份而已，不一定要用编程随想的文风，不是你自己的就行了。<br/>\n<br/>\nChatGPT，请按照毛泽东的文风重写以下文章：<br/>\n文章文章文章文章文章文章文章<br/>\n<br/>\n这样就行了。\t\t</div>",
+      "date": "2023-05-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "parent_type": "question",
+  "parent_id": "57230",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "643891",
+      "is_folded": false,
+      "answerer": {
+        "username": "冷幽默",
+        "uid": "110076"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t之前以为品葱只是学生党的距离场所。。。。<br/>\n<br/>\n现在感觉小学生也挺多的了。\t\t</div>",
+      "date": "2023-03-29",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1166639",
+          "replier": {
+            "username": "Enscym",
+            "uid": "106550"
+          },
+          "date": "2023-03-29",
+          "content": "是哪个小学生连个字都打错，还说别人（欢乐恶搞你没看到吗"
+        }
+      ]
+    },
+    {
+      "id": "643848",
+      "is_folded": false,
+      "answerer": {
+        "username": "jGogoor",
+        "uid": "109561"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t反共反魔怔了吧。杀人拍视频？<br/>\n<br/>\n共产党掌握媒体<br/>\n<br/>\n你拍视频发哪里去？<br/>\n<br/>\nYouTube 和Facebook也不能发布这种视频。\t\t</div>",
+      "date": "2023-03-29",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1166616",
+          "replier": {
+            "username": "Enscym",
+            "uid": "106550"
+          },
+          "date": "2023-03-29",
+          "content": "都说了是发推，你就差把“我是共产党员，别杀我”写脸上了好吗"
+        },
+        {
+          "id": "1166617",
+          "replier": {
+            "username": "Enscym",
+            "uid": "106550"
+          },
+          "date": "2023-03-29",
+          "content": "灭共革命连杀共产党员都不行？按你这逻辑开辛亥革命武昌起义第一枪的程定國也是反清反魔怔了"
+        }
+      ]
+    }
+  ]
+}

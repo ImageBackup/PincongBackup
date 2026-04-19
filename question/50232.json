@@ -1,0 +1,38 @@
+{
+  "question_id": "50232",
+  "category_id": "4",
+  "title": "我手写一篇文章在纸上，拍照发网上，会不会被Ai识别出敏感词?",
+  "meta_description": "我手写一篇文章在纸上，拍照发网上，会不会被Ai识别出敏感词? - 字是学生答试卷那种字体，一撇一捺写的不潦草，人一眼能看懂。不知道机器能不能一眼看懂? OCR能识别手写书信吗？",
+  "meta_keywords": "手写,一篇,文章,纸上,照发,网上,会不,会被,ai,识别,敏感",
+  "tags": [
+    {
+      "id": "240",
+      "name": "人工智能"
+    },
+    {
+      "id": "1547",
+      "name": "网络审查"
+    }
+  ],
+  "author": {
+    "username": "[已注销]",
+    "uid": null
+  },
+  "view_count": 5996,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t字是学生答试卷那种字体，一撇一捺写的不潦草，人一眼能看懂。不知道机器能不能一眼看懂? OCR能识别手写书信吗？\t\t\t\t\t\t\t</div>",
+  "date": "2022-10-06",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1021404",
+      "replier": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "date": "2022-10-09",
+      "content": "能识别是能识别，不过暴撸笔迹不太好吧。"
+    }
+  ],
+  "answer_count": 8
+}

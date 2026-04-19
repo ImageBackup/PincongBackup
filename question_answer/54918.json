@@ -1,0 +1,218 @@
+{
+  "parent_type": "question",
+  "parent_id": "54918",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "618733",
+      "is_folded": false,
+      "answerer": {
+        "username": "ngrock",
+        "uid": "106395"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t资深用户，自建和机场都用。自建需要有一定动手能力，当然现在youtube上的教程已经很详细，配合一键脚本，难度并不大。如果有动手能力推荐自建，不需要跟机场其他用户公用资源，安全性略高，速度也较稳定（服务器和服务器供应商不被墙的情况下，在特定时期比如20大会断断续续被墙）；机场主要是图省心，其实机场使用的协议跟自建的也差不多。<br/>\n你说的隐藏ip其实是在服务器协议外面再套一层cdn，现在好多cdn都不怎么好用了，包括cloudflare和亚马逊的cloudfrount。20大以前我一直用cloudfront，现在直接裸连服务器。<br/>\n如果你要自建，推荐去各大云服务商申请帐号，获得免费体验期，半年或1年，这期间你可以不付费检验你有没有自建的能力，到底适合自建还是买机场。有免费体验期的云服务商我知道的有谷歌和亚马逊。亚马逊南方电信建日本的比较快\t\t</div>",
+      "date": "2023-01-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617512",
+      "is_folded": false,
+      "answerer": {
+        "username": "qbc",
+        "uid": "51169"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t南方选电信 北方选联通 千万不要选移动和广电以及和他们签约的关联公司的宽带。宽带一般选贵的就行。\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617515",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t据我观察，迷雾通在电信环境下最稳定，联通其次<br/>\n移动不适合访问国际互联网，确实是墙中墙<br/>\n电信对UDP传输的协议限速比较狠\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "618773",
+      "is_folded": false,
+      "answerer": {
+        "username": "冈田武",
+        "uid": "100445"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一个月除了基础网费拿出150翻墙基本上影音娱乐无压力\t\t</div>",
+      "date": "2023-01-09",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617517",
+      "is_folded": false,
+      "answerer": {
+        "username": "kxy",
+        "uid": "99835"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你需要的是机场，不是好的宽带。普通翻墙软件搞不定这些需求的。\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "618768",
+      "is_folded": false,
+      "answerer": {
+        "username": "吃饱了没事干",
+        "uid": "6193"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t千万别用长城和天威，迷雾通一连就断，根本翻不了墙<br/>\n电信价格贵一倍，为了翻个破墙不值，最近用了40个g直接给断网，连个通知都没有，垃圾的要死\t\t</div>",
+      "date": "2023-01-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617520",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你这个预算很高，<br/>\n<br/>\n买公认非常贵的ExpressVPN的套餐都绰绰有余，可以说这个预算限制基本不存在，市面上所有能买的VPN你都买得起。<br/>\n<br/>\n——————————————————<br/>\n<br/>\n不好意思看错了，原来是总费用（含宽带费）。那这有点紧张，因为宽带和VPN速率的最小值才是你的真实体验。\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617536",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 首先要至少光纖到戶, 我還沒見到光纖到端的. 之後要考慮這個順序: 移動 &lt; 電信 &lt; 聯通, 最爛是移動. 家中未必只接入一個 ISP, 可以兩個便宜的或一貴一便宜, 若手機信號足夠強可以訂包月閑時流量救急. 總之是拓寬思路, 祝你選到理想組合吧.\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "618703",
+      "is_folded": false,
+      "answerer": {
+        "username": "肖战嗦习维尼牛子",
+        "uid": "84670"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别买机场，推荐自建，买个美国的VPS就行，便宜点的一年十几美元，一个月好几TB流量，服务器是千兆口，国内用联通，连上去也有几百M，电信对出国流量Qos太严重，不适合翻墙。移动适合拉亚洲vps，但是亚洲的流量普遍比较贵，综合考虑用美国vps+联通宽带就行。\t\t</div>",
+      "date": "2023-01-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "617687",
+      "is_folded": false,
+      "answerer": {
+        "username": "MasaruBTN",
+        "uid": "6050"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自建VPS已经退环境了<br/>\nGFW现在有一套自适应封禁机制，单一境外服务器流量大了就会被限制访问<br/>\n建议还是走机场，经济上比较划算，另外大家一起用出口匿名性也好一些\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": 1,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1141439",
+          "replier": {
+            "username": "xiulibaozi",
+            "uid": "78515"
+          },
+          "date": "2023-01-05",
+          "content": "那如果2~3家一起用能解决自建VPS 这个问题吗？父母和一个反贼好友也刚需翻墙……谢谢！"
+        },
+        {
+          "id": "1141444",
+          "replier": {
+            "username": "xiulibaozi",
+            "uid": "78515"
+          },
+          "date": "2023-01-05",
+          "content": "还有我看自建VPS有隐藏ip的方法，这个可以对抗自适应封禁机制吗？弄起来麻烦吗？麻烦的话俺还是上机场了"
+        },
+        {
+          "id": "1141609",
+          "replier": {
+            "username": "MasaruBTN",
+            "uid": "6050"
+          },
+          "date": "2023-01-06",
+          "content": "@xiulibaozi:不太确定你说的隐藏IP具体是什么，有一种做法是蹭cloudflare的cdn网络流量，不过某种程度上这是在加速cloudflare整体被GFW封禁…"
+        },
+        {
+          "id": "1141610",
+          "replier": {
+            "username": "MasaruBTN",
+            "uid": "6050"
+          },
+          "date": "2023-01-06",
+          "content": "@xiulibaozi:需要的是在多台外网VPS之间均衡流量，如果多几个用户能多买几台机器的话那成功率大概会比较高"
+        },
+        {
+          "id": "1142359",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-01-08",
+          "content": "机场泄露的还算少吗，买vps被查到可以说自己在学linux搭建网站，买机场就没得洗了。而且机场还有审计，vps不用什么一键脚本，想干嘛干嘛，上个tor就行，有些机场连tor都屏蔽。"
+        },
+        {
+          "id": "1142386",
+          "replier": {
+            "username": "MasaruBTN",
+            "uid": "6050"
+          },
+          "date": "2023-01-08",
+          "content": "@肖战嗦习维尼牛子:担心机场审计可以买VPS当出口套娃这个没问题，主要是墙内连VPS这部分太不稳定了，不走机场很难跨过去"
+        }
+      ]
+    },
+    {
+      "id": "617680",
+      "is_folded": false,
+      "answerer": {
+        "username": "xiulibaozi",
+        "uid": "78515"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t感谢楼上的大佬们！<br/>\n问下如果自建VPS，还会受到墙中墙或者高峰期丢包的影响吗（就是说想问一下，自建VPS的话，选移动/电信/联通哪家比较好）<br/>\n谢谢！\t\t</div>",
+      "date": "2023-01-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "618723",
+      "is_folded": true,
+      "answerer": {
+        "username": "xxooxx_xxooxx",
+        "uid": "104300"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-01-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

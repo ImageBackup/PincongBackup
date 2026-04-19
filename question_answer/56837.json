@@ -1,0 +1,178 @@
+{
+  "parent_type": "question",
+  "parent_id": "56837",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "639428",
+      "is_folded": false,
+      "answerer": {
+        "username": "Satyagraha",
+        "uid": "109241"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t黑名单搞多了不仅对自身发展不利，更重要的是失去“黑”名单的意义了。<br/>\n<br/>\n就跟共产党搞防火墙一样，把外国网站都墙了，你又还得发展跟外国做生意（至少葱油所说的闭关锁国还没发生不是？），然后你还没有有效的对付翻墙工具的措施和手段（方校长因薄熙来事件失势，鲁炜被报了三分钟罪名不重样），那后果就是翻墙的越来越多，例证就是今天比五年前油管推特上的反共内容和流量大得多了几个数量级，总不能都是海外华人吧。<br/>\n<br/>\n黑名单同理，把所有人都拉进黑名单，那我还有什么理由上你这个网站呢？\t\t</div>",
+      "date": "2023-03-13",
+      "agree_count": 3,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1162171",
+          "replier": {
+            "username": "Aeona",
+            "uid": "97806"
+          },
+          "date": "2023-03-13",
+          "content": "问题B站的黑名单数量就几十个啊，和他那个用户基数比起来和没有一样，除非他评论和视频也出一个弹幕那种关键词屏蔽，那我还觉得差不多"
+        },
+        {
+          "id": "1162178",
+          "replier": {
+            "username": "Satyagraha",
+            "uid": "109241"
+          },
+          "date": "2023-03-13",
+          "content": "@Aeona:也有可能是b站觉得几十个够你用的了，低估了用户间互相仇视的程度，不过他们没有提升上限的原因我估计就是我说的那个，对网站长期发展不利"
+        },
+        {
+          "id": "1162216",
+          "replier": {
+            "username": "支納粹",
+            "uid": "75589"
+          },
+          "date": "2023-03-13",
+          "content": "然而事實是當用戶發現自己必須容忍厭惡的人在眼前閒晃，許多人會因此降低網站的使用率、甚至直接退出不用。\n這也是為什麼推特跟Reddit等牆外大站的黑名單都是無上限，因為保持用戶好心情跟避免紛爭是網站營運的重要一環。\n至於為什麼\n支那\n要獨樹一格，我猜大概是\n支人\n愛看人吵架吧，要是大家都把討厭的人黑單的話就吵不起來了。"
+        },
+        {
+          "id": "1162464",
+          "replier": {
+            "username": "Satyagraha",
+            "uid": "109241"
+          },
+          "date": "2023-03-14",
+          "content": "@支納粹:有道理，但这也造成了意见同温层，更长期还是不利的"
+        },
+        {
+          "id": "1162606",
+          "replier": {
+            "username": "支納粹",
+            "uid": "75589"
+          },
+          "date": "2023-03-14",
+          "content": "@Satyagraha:對個人來說見仁見智，但對網站來說這意味著可以同時容納多個無法相容的群體——因為他們會彼此互相黑名單、從而避免紛爭——所以黑名單無上限能給網站最大利益。"
+        }
+      ]
+    },
+    {
+      "id": "639519",
+      "is_folded": false,
+      "answerer": {
+        "username": "Kwantung",
+        "uid": "48480"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我反正除了天天发一样内容的水军以外，从来不拉黑。<br/>\n<br/>\n黑名单这个东西本质上只会导致信息茧房。如果只想跟思想一样的人在一起，那也就失去了sns的定义了\t\t</div>",
+      "date": "2023-03-13",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "639772",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t上限是一定要有的。任何无限的东西都会触发满磁盘攻击漏洞，因为物理存储是有限的。之前有个自称在美国的傻逼说品葱有无邪PM的攻击漏洞，说品葱网管大外行什么的，后来被国安挖出来人在北京之后失联，推测被抓了。<br/>\n<br/>\n至于为什么是100，应该是随便定的，如果是我可能会设1000。会影响一个query，然后根据这个query结果渲染你看到的页面。复杂程度是线性的。\t\t</div>",
+      "date": "2023-03-14",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1163390",
+          "replier": {
+            "username": "Aeona",
+            "uid": "97806"
+          },
+          "date": "2023-03-16",
+          "content": "twitter的黑名单数量不是挺多的吗，没有被攻击吗？"
+        },
+        {
+          "id": "1163411",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-03-16",
+          "content": "@Aeona:存储黑名单需要多少资源？四个字节一个ID。存一百万个也只有4M。\n但是如果是无限就不一样了，如果一个系统一共有一千万用户，那一个用户加满黑名单，黑名单占40M，建一千个用户就是40G，那就不是小数字了。\n当然这只是理论，实际上这种攻击不太常见。但作为best practice，无限是不好的设计。"
+        }
+      ]
+    },
+    {
+      "id": "639500",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以我对编程的粗浅理解，这个功能可能真的挺耗资源和增加编程难度的\t\t</div>",
+      "date": "2023-03-13",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "639877",
+      "is_folded": false,
+      "answerer": {
+        "username": "Milkyway1",
+        "uid": "109455"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t网站需要流量，需要你去对骂，甚至他自己还巴不得发起争议话题\t\t</div>",
+      "date": "2023-03-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "639495",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t减少数据库压力哈哈哈哈哈, 不知道关注有没有上限.\t\t</div>",
+      "date": "2023-03-13",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1162244",
+          "replier": {
+            "username": "Aeona",
+            "uid": "97806"
+          },
+          "date": "2023-03-13",
+          "content": "我看推特的黑名单上限就很高啊，或者说没有上限？这个数据库压力很大吗，每个人才那么点份额"
+        },
+        {
+          "id": "1162267",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-03-13",
+          "content": "@Aeona:开玩笑的, 点赞之类的数据比拉黑多太多了. 可以往极端了想嘛....如果人人都相互拉黑且没有上限. 压力肯定会有, 论坛本身也容易失去意义."
+        },
+        {
+          "id": "1162275",
+          "replier": {
+            "username": "Aeona",
+            "uid": "97806"
+          },
+          "date": "2023-03-13",
+          "content": "@用七毛骨灰做夜壶: 我的观点是很传统的那种「每个人都受到三种影响：输入（你填到脑海里的内容）、交往（与你共度时间的人）和环境（你的周围）。」，为了自己肯定要开源节流啊，黑名单不够我可能直接放弃那个论坛，毕竟说实话大部分论坛对提升自己也没什么帮助，只是找个乐子。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "58029",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "652484",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t社區大學，只要有邀請函或入學信之類就可以辦簽證，據說非常容易<br/>\n<br/>\n具體情況不要問我，我並不清楚\t\t</div>",
+      "date": "2023-05-03",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1174712",
+          "replier": {
+            "username": "谢玉阳",
+            "uid": "40809"
+          },
+          "date": "2023-05-03",
+          "content": "是真的。前提不是福建人"
+        },
+        {
+          "id": "1183641",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-06-12",
+          "content": "@谢玉阳:\n方舟子：你耍我？"
+        }
+      ]
+    },
+    {
+      "id": "662102",
+      "is_folded": false,
+      "answerer": {
+        "username": "Portia007",
+        "uid": "95646"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t赞同社区大学，可以考虑来加州，社区大学一个学期学费才几百刀\t\t</div>",
+      "date": "2023-06-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662105",
+      "is_folded": false,
+      "answerer": {
+        "username": "c2h4",
+        "uid": "101813"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能，年龄最好不要超过25周岁，户籍不在福建或江西，某些特定专业会遭拒，具体自己查\t\t</div>",
+      "date": "2023-06-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

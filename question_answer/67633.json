@@ -1,0 +1,103 @@
+{
+  "parent_type": "question",
+  "parent_id": "67633",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "751306",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谢邀<br/>\n<br/>\n<mark>支那</mark>网盘都是垃圾, 俺只用本地硬盘存储<br/>\n电子书没多大,限速也硬下<br/>\n<br/>\n不要给<mark>支那</mark>网盘充一分钱\t\t</div>",
+      "date": "2024-05-31",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1268852",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-05-31",
+          "content": "感谢"
+        }
+      ]
+    },
+    {
+      "id": "751113",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tbegger cannot be choosers<br/>\n<br/>\n你的数据源是他们，就要承担被他们勒索的代价。<br/>\n<br/>\n如果你问我你自己用什么网盘，我用google drive和微软的one drive，如果你是苹果用户的话可以用icloud，中国苹果用户可以用云上贵州。<br/>\n<br/>\n还有一点，用网盘不要装太多敏感内容，尤其是明文的敏感内容，比如银行卡密码之类\t\t</div>",
+      "date": "2024-05-30",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1268481",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-05-30",
+          "content": "不是啊，俺下载的电子书，要从那上面下载\n俺不会把东西放在那里存储\n你看看\nhttps://www.huibooks.com/\n你找一本你喜欢的\n你看怎么下载"
+        },
+        {
+          "id": "1268484",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-05-30",
+          "content": "我不说了beggers cannot be choosers吗\n他既然用了这玩意，你能免费下载就不错了，限速限线程都是小事，你就偷着乐吧"
+        },
+        {
+          "id": "1268485",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-05-30",
+          "content": "@rowlandheights:俺也就是说会员啊\n俺是可以开的\n但是有时候觉得这个不值得"
+        },
+        {
+          "id": "1268489",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-05-30",
+          "content": "@洼地后觉:是不值得，人家把网盘搞成这样就是逼你开会员的。\n那当然我不愿意啊，你强迫我消费这怎么忍受。就像google搞youtube各种抓第三方插件用来下载他的视频，但是只要你用html5传播流媒体，人家总有办法下载视频，办法总比困难多。大不了录屏，模拟漏洞无敌"
+        }
+      ]
+    },
+    {
+      "id": "751117",
+      "is_folded": true,
+      "answerer": {
+        "username": "baowule",
+        "uid": "83991"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t顾左右而言他，我看你是来推销电子书网站的吧<br/>\n<br/>\n什么农场站一样的网站，听都没听说过\t\t</div>",
+      "date": "2024-05-30",
+      "agree_count": -2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1268524",
+          "replier": {
+            "username": "rampage",
+            "uid": "123646"
+          },
+          "date": "2024-05-30",
+          "content": "从你的简介就能看出你是什么样的人了"
+        }
+      ]
+    }
+  ]
+}

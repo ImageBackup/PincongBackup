@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "54000",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "607945",
+      "is_folded": false,
+      "answerer": {
+        "username": "一九四二",
+        "uid": "101140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中组部长明显有接班的人，陈希已找到了接班人李干杰，但就是不换。<br/>\n<br/>\n可能是因为新局委还没有全调动完，也可能是刁要老同学再留任几天，一切皆有可能，<br/>\n<br/>\n因为现在是习党了，所有的事就它一个人说了算，<br/>\n<br/>\n以前的规矩通通做废，伪皇帝说一不二的时代来临了。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607907",
+      "is_folded": true,
+      "answerer": {
+        "username": "广陵散",
+        "uid": "104774"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "56808",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "639121",
+      "is_folded": false,
+      "answerer": {
+        "username": "你好我是李某某",
+        "uid": "100837"
+      },
+      "contents": "<div class=\"markitup-box\">\n<b>Youtube频道：</b><br/>\nChina Stories<br/>\nSun Riches<br/>\n周周侃<br/>\n王志安<br/>\n不明白播客<br/>\n蔷仔说电影<br/>\n<br/>\n<b>独立网站：</b><br/>\n共和党保守派： https://www.hoover.org/<br/>\n民主党：https://www.brookings.edu/<br/>\n无党派：https://www.cato.org/<br/>\n军事战略：https://www.rand.org/<br/>\n反共鹰派：https://www.csis.org/<br/>\n偏鸽派的亚洲政治：https://asiasociety.org/\t\t</div>",
+      "date": "2023-03-12",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1161797",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2023-03-12",
+          "content": "说真话的徐某人不错"
+        },
+        {
+          "id": "1167051",
+          "replier": {
+            "username": "腰斩孔庆东",
+            "uid": "90053"
+          },
+          "date": "2023-03-31",
+          "content": "周周侃？？他不是回国后就消失了么"
+        }
+      ]
+    }
+  ]
+}

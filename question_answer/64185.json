@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "64185",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "715347",
+      "is_folded": false,
+      "answerer": {
+        "username": "贪狼",
+        "uid": "45453"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t敲山震虎，你们玩梗鸡你太美，不要以为你们玩梗包包我们不知道，帐是记在小本本上的，\t\t</div>",
+      "date": "2023-12-25",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "715346",
+      "is_folded": true,
+      "answerer": {
+        "username": "习露诺xirno",
+        "uid": "120813"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-12-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

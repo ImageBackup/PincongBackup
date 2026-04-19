@@ -1,0 +1,47 @@
+{
+  "question_id": "42034",
+  "category_id": "9",
+  "title": "站务申诉那里显示已经回复过了，但有又找不到自己以前的回复该怎么办?",
+  "meta_description": "站务申诉那里显示已经回复过了，但有又找不到自己以前的回复该怎么办? - @admin 我想在站务申诉那里发帖，可是显示已经回复过了，但我找来找去找不到自己以前的回复该怎么办?",
+  "meta_keywords": "站务,申诉,显示,已经,回复,又找,不到,以前",
+  "tags": [
+    {
+      "id": "153",
+      "name": "品葱"
+    },
+    {
+      "id": "451",
+      "name": "站务"
+    }
+  ],
+  "author": {
+    "username": "咸鱼之体",
+    "uid": "43052"
+  },
+  "view_count": 804,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t@admin<br/>\n我想在站务申诉那里发帖，可是显示已经回复过了，但我找来找去找不到自己以前的回复该怎么办?\t\t\t\t\t\t\t</div>",
+  "date": "2021-09-24",
+  "agree_count": 0,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1001209",
+      "replier": {
+        "username": "井底支蛙",
+        "uid": "15499"
+      },
+      "date": "2021-09-24",
+      "content": "那是叫你把正常帖子发在水区，然后通过主页面的投诉按钮申请移出水区\nhttps://telegra.ph/file/5189ee06cc1275406c974.jpg\n如果你实在不懂在讨论专版申请也行\nhttps://pincong.rocks/article/id-11026__sort-DESC"
+    },
+    {
+      "id": "1001243",
+      "replier": {
+        "username": "咸鱼之体",
+        "uid": "43052"
+      },
+      "date": "2021-09-24",
+      "content": "@井底支蛙:多谢了"
+    }
+  ],
+  "answer_count": 0
+}

@@ -1,0 +1,121 @@
+{
+  "parent_type": "question",
+  "parent_id": "66957",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "744652",
+      "is_folded": false,
+      "answerer": {
+        "username": "Punchit",
+        "uid": "79254"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tiPhone不会把用户个人信息主动“送中”，但iPhone不是保密手机。<br/>\n<br/>\niPhone用户，运营商仍然能够掌握你的以下活动：<br/>\n往来电话/短信的对象和内容，<br/>\n访问了哪些网站。<br/>\n<br/>\n你实名注册的app，微信小红书微博b站qq都接入了网精的系统。你名下的所有帐号号网精可以一键封号。<br/>\n<br/>\niPhone上安装的国内软件，批准权限后可以读取你的照片，访问你的麦克风和摄像头，上传你的通讯簿，获得手机剪切板信息。搜狗/百度/微信输入法能上传你输入的内容<br/>\n<br/>\n<br/>\n你访问的网站，打的电话在反诈系统的黑名单内，96110就会打电话警告你。与你手机是iPhone和安卓，国行还是外国版，装没装反诈无关。\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744655",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这跟反诈app无关<br/>\n<br/>\n反诈不仅仅是反诈app，反诈app是在你手机端监控你的行为来发现诈骗<br/>\n反诈则是通过公安局的风控系统监控服务器端的异常活动来发现诈骗\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744573",
+      "is_folded": false,
+      "answerer": {
+        "username": "ldx1669294706",
+        "uid": "128310"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t买美版、欧版诺基亚、三星，甚至国产非洲的传音都行\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "745189",
+      "is_folded": false,
+      "answerer": {
+        "username": "rxjh",
+        "uid": "128276"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t國行内置反诈情况：<br/>\nSamsung:检查应用没有发现，可以打开开发者模式，标明Android版本<br/>\nSony:同上<br/>\niPhone:未知，但已知苹果云上贵州以及亲中库克，肯定有的<br/>\nXiaomi/Redmi:1.检查是否是HyperOS或者MIUI 14,是请立即扔掉废品回收站，100%内置；MIUI 13及以下版本一律刷机并选择aosp<br/>\n猾为/荣耀：不仅100%内置，HarmonyOS直连监控，立即扔掉<br/>\n其他垃圾：不能解锁用开发者模式和冰箱，能解锁刷机<br/>\n排名 Pixel最优 外版iOS其次 國牌外版（类似MIUI Global)第三 國牌/外牌國版最差\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "745052",
+      "is_folded": false,
+      "answerer": {
+        "username": "新用户8964",
+        "uid": "128400"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墙国各方面的监控体系最后汇总成一个实时数据库。公安局只是按照上级要求给你打电话而已（例如北京市反诈中心提供xxx线索或者监控到有“被骗风险”）\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744579",
+      "is_folded": false,
+      "answerer": {
+        "username": "JK2233",
+        "uid": "114666"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t记得之前有人说过国行版本的iOS也有反诈了，港行版本的系统应该是也有了，港行的手机酷安上有好多人都说接过反诈电话\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "745180",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你是用safari打开这个网页的吗？好像iOS 12.2之后safari就有可能向腾讯发送URL，跟一个叫\"欺骗性网站警告\"的功能有关，你看一下 设置 -&gt; Safari 。<br/>\n<pre>https://www.dailymail.co.uk/sciencetech/article-7571911/Apple-fire-sending-Safari-browser-data-Chinese-firm.html</pre><br/>\n2019年Daily Mail发的报道也可以看一下。<br/>\n我不知道这个功能关不关得掉，不行就别用safari了，网页尽量用其它浏览器开，如firefox。\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1262430",
+          "replier": {
+            "username": "厉害了冲国人",
+            "uid": "96938"
+          },
+          "date": "2024-05-03",
+          "content": "支行版的iPhone這個功能默認由騰訊提供，海外版的接口是谷歌但不清楚拿到支國用是否會隨網絡改變。IOS16之後這個功能默認應該是關閉的"
+        }
+      ]
+    },
+    {
+      "id": "744631",
+      "is_folded": true,
+      "answerer": {
+        "username": "一枪一个小朋友",
+        "uid": "7055"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t你没有装脑机接口和脑电波监听装置，国安会强迫你限时安装，不然按颠覆国家政权罪起诉。\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "59356",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "665060",
+      "is_folded": false,
+      "answerer": {
+        "username": "萨格尔王吃冰棒",
+        "uid": "21463"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那得看美爹的意思了，经此一事怂包怕是得重新认爹\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665063",
+      "is_folded": false,
+      "answerer": {
+        "username": "The19890604",
+        "uid": "46798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想起2077某段劇情：「上一個老大已經死了，我才不管你們這群傻逼跟他談過什麼，如果你想要這玩意，你就得付錢！」\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665062",
+      "is_folded": true,
+      "answerer": {
+        "username": "喷水穴",
+        "uid": "111557"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-06-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

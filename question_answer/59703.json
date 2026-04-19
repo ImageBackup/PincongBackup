@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "59703",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "668494",
+      "is_folded": false,
+      "answerer": {
+        "username": "赵客胡缨",
+        "uid": "97803"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tn你不会真的觉得在中国的会谈上，领导们都是去谈业务的吧？<br/>\n领导负责假大空和表态，具体技术业务那都是下面人在搞。\t\t</div>",
+      "date": "2023-07-07",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "668466",
+      "is_folded": false,
+      "answerer": {
+        "username": "我佛山人",
+        "uid": "111091"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怕啥，小学僧的经验告诉他们只要准备足够的小本本。\t\t</div>",
+      "date": "2023-07-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

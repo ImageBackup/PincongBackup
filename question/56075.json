@@ -1,0 +1,43 @@
+{
+  "question_id": "56075",
+  "category_id": "2",
+  "title": "给墙内朋友分享油管反共节目，这么做安全吗？",
+  "meta_description": "给墙内朋友分享油管反共节目，这么做安全吗？ - [s]问题已解决[/s]",
+  "meta_keywords": "墙内,朋友,分享,油管,反共,节目,安全",
+  "tags": [
+    {
+      "id": "10234",
+      "name": "习禁评"
+    }
+  ],
+  "author": {
+    "username": "[已注销]",
+    "uid": null
+  },
+  "view_count": 3548,
+  "contents": "<div class=\"content markitup-box\">\n<s>问题已解决</s> </div>",
+  "date": "2023-02-14",
+  "agree_count": 1,
+  "discussion_count": 4,
+  "discussions": [
+    {
+      "id": "1033334",
+      "replier": {
+        "username": "看PC的小喵咪",
+        "uid": "73836"
+      },
+      "date": "2023-02-14",
+      "content": "加密的RAR一般破解不了，但是你防不住他电脑手机上有其他软件在监控，腾讯的一堆软件许可里面已经写明白了他在监控你的上网内容，实际上不需要破解，人家随便记录下你看的东西就行了。"
+    },
+    {
+      "id": "1033339",
+      "replier": {
+        "username": "多尔衮",
+        "uid": "106119"
+      },
+      "date": "2023-02-14",
+      "content": "@看PC的小喵咪:建议在PC上装linux虚拟机，在虚拟机中解密再用开源的播放器播放就安全了。"
+    }
+  ],
+  "answer_count": 8
+}

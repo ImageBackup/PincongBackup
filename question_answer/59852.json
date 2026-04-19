@@ -1,0 +1,61 @@
+{
+  "parent_type": "question",
+  "parent_id": "59852",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "669901",
+      "is_folded": false,
+      "answerer": {
+        "username": "kxy",
+        "uid": "99835"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t金融都是家里有路道的才读的，小镇做题家做出来的金融，哪怕读到博士也基本屁用没有。<br/>\n<br/>\n医科？医科在做到主任之前就是纯要饭的，人人都能做到主任么？<br/>\n<br/>\n资工？哦，你是想说ICT类专业吧？勉强是一个平民有机会赚点钱的专业，不过这些年也越来越卷越来越差。<br/>\n<br/>\n所以国内的分数是ICT&gt;金融&gt;&gt;&gt;医科。注意，这个要同学校的比，你不能跨学校级别比。另外医科国内已经差不都要学师范免学费了。\t\t</div>",
+      "date": "2023-07-12",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1191088",
+          "replier": {
+            "username": "感謝習近平",
+            "uid": "100154"
+          },
+          "date": "2023-07-12",
+          "content": "感謝分享"
+        },
+        {
+          "id": "1191272",
+          "replier": {
+            "username": "Bossrt",
+            "uid": "101395"
+          },
+          "date": "2023-07-13",
+          "content": "医生收入不算差吧，三年疫情其他人都失业了，但医生不但没有失业，反而赚得盆满钵满，随便一个大白月薪都上万元"
+        },
+        {
+          "id": "1191668",
+          "replier": {
+            "username": "kxy",
+            "uid": "99835"
+          },
+          "date": "2023-07-15",
+          "content": "@Bossrt: 狂笑，大白不是医生啊……而且你也要看楼主在和谁比啊。"
+        }
+      ]
+    },
+    {
+      "id": "670157",
+      "is_folded": true,
+      "answerer": {
+        "username": "hxysbc",
+        "uid": "85269"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-07-13",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

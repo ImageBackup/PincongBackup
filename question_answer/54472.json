@@ -1,0 +1,88 @@
+{
+  "parent_type": "question",
+  "parent_id": "54472",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "612508",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t相信党，相信政府，没有境外势力渗透中南海脑控猪头发动颠覆红色江山的白纸革命，没有润境外的敌对势力滞留境内的软肋侥幸无恙。\t\t</div>",
+      "date": "2022-12-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612514",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t建议办一张国际信用卡，买一个国外的、口碑良好的VPS服务器，再买一个国外的域名，然后学习如何操作服务器，自己搭一个翻墙服务器。<br/>\n<br/>\n自建翻墙服务器原理有很多种，建议用V2Ray+TLS或V2Ray+WS+HTTPS模式，同时服务器开启BBR，这些操作虽然复杂，但是从目前形势来看还是相对稳定的。\t\t</div>",
+      "date": "2022-12-20",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1137194",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2022-12-20",
+          "content": "在上帝视角看来，TLS 就是一个境内的客户端与一个境外固定域名之间产生大量流量，而且时间上还很有规律，总是在北京时间的人作息时间内产生，现在基本上一打一个准"
+        },
+        {
+          "id": "1137195",
+          "replier": {
+            "username": "对不起伤害了你",
+            "uid": "104840"
+          },
+          "date": "2022-12-20",
+          "content": "@billzt:ws+https还是可以的，而且因为是https，可以在里面再配置一个正常的网站。这个模式我用了好几年，基本上没问题。"
+        }
+      ]
+    },
+    {
+      "id": "612515",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也想知道GFW是什么公司在运营，员工去哪里上班，大概多少人。\t\t</div>",
+      "date": "2022-12-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612516",
+      "is_folded": false,
+      "answerer": {
+        "username": "malsit88",
+        "uid": "30415"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tping 非常高<br/>\n也经常 掉包<br/>\n没办法了<br/>\n个人情况是这样子\t\t</div>",
+      "date": "2022-12-20",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137197",
+          "replier": {
+            "username": "对不起伤害了你",
+            "uid": "104840"
+          },
+          "date": "2022-12-20",
+          "content": "要用联通或电信，不要用移动或杂牌运营商。如果还不行，得换服务器节点了"
+        }
+      ]
+    }
+  ]
+}

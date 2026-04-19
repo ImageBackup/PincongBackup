@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "61077",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "681745",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t海外的粉红也很多，也没见武德充沛的反贼去暗杀啊，武德一般都在网上开嘴炮的时候用<br/>\n<br/>\n另外鲶鱼在澳大利亚………………\t\t</div>",
+      "date": "2023-08-21",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1201588",
+          "replier": {
+            "username": "findyou",
+            "uid": "93230"
+          },
+          "date": "2023-08-21",
+          "content": "澳洲也可以持木仓 只是手续非常繁琐\n如果是步仓的话200米外狙击应该没事"
+        }
+      ]
+    }
+  ]
+}

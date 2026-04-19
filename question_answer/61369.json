@@ -1,0 +1,107 @@
+{
+  "parent_type": "question",
+  "parent_id": "61369",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "684854",
+      "is_folded": false,
+      "answerer": {
+        "username": "chatbox",
+        "uid": "114783"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t您是否在找：Briar <br/>\n<br/>\n（√）具备即时聊天软件的功能<br/>\n（√）又有博客或微博客类功能，与mastodon的模式类似<br/>\n（√）网络功能，如tor连接，wifi 蓝牙等工具<br/>\n（x）最小的自治体，选举，投票功能<br/>\n<br/>\n顺带打一下广告 https://pincong.rocks/article/62759\t\t</div>",
+      "date": "2023-08-31",
+      "agree_count": 4,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1204459",
+          "replier": {
+            "username": "NZMjQYhMi4896",
+            "uid": "114318"
+          },
+          "date": "2023-09-01",
+          "content": "您说得没错，上面的想法参考的就是Briar，我们觉得这种功能设计非常棒值得借鉴，差的就是信息收敛这方面的功能，自组织系统就是为了提供这些组织沟通串联与信息收敛这些功能。\n感谢您推荐的session"
+        },
+        {
+          "id": "1204704",
+          "replier": {
+            "username": "白衣黑旗除共军",
+            "uid": "103874"
+          },
+          "date": "2023-09-02",
+          "content": "名字太长了难得记"
+        },
+        {
+          "id": "1204734",
+          "replier": {
+            "username": "NZMjQYhMi4896",
+            "uid": "114318"
+          },
+          "date": "2023-09-02",
+          "content": "不知您指的什么"
+        }
+      ]
+    },
+    {
+      "id": "684953",
+      "is_folded": false,
+      "answerer": {
+        "username": "sure_sandy",
+        "uid": "52176"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不错，支持，坐而论道不如实实在在的行动，一步一步稳稳的来，大家也可以帮忙测试，有比没有强。\t\t</div>",
+      "date": "2023-09-01",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684780",
+      "is_folded": false,
+      "answerer": {
+        "username": "打土共分兰兰",
+        "uid": "89718"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t为什么不直接用mastodon<br/>\nmirror.xyz建DAO可以尝试<br/>\n可以考虑一下是不是一定要重新造车轮\t\t</div>",
+      "date": "2023-08-31",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1204941",
+          "replier": {
+            "username": "NZMjQYhMi4896",
+            "uid": "114318"
+          },
+          "date": "2023-09-02",
+          "content": "可能您没有仔细看正文，我们需要的核心功能，自组织系统，信息收敛的功能，当下没有任何软件提供，其它现行软件有的功能自会借鉴整合，不会再造车轮"
+        }
+      ]
+    },
+    {
+      "id": "684781",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没那么麻烦 QQ群微信群就有类似功能 都被严密监视了 你这软件做出来里面用户能有一半的网警\t\t</div>",
+      "date": "2023-08-31",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1204691",
+          "replier": {
+            "username": "NZMjQYhMi4896",
+            "uid": "114318"
+          },
+          "date": "2023-09-02",
+          "content": "1 weixin 不开源，是个黑箱，并不符合我们要求\n2 真正的民主，自下而上的自治，开源开放是基本要求，不搞秘密行动那一套，又不是恐怖分子，一切都是公开的基础上，有没有网警都不影响\n3 我们要的核心功能，自组织，信息收敛等weixin并没有"
+        }
+      ]
+    }
+  ]
+}

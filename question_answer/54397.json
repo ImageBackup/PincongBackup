@@ -1,0 +1,66 @@
+{
+  "parent_type": "question",
+  "parent_id": "54397",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "611737",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n<mark>支那</mark>的狂犬病疫苗<br/>\n<br/>\n流感等等等等疫苗等等等等。。。。。。。等。。。\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 0,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1136539",
+          "replier": {
+            "username": "besafe",
+            "uid": "96280"
+          },
+          "date": "2022-12-18",
+          "content": "狂犬病疫苗打了以后人感染不就死了吗？ 流感难道就是一种病毒？不是很多种病毒都会导致感冒吗？"
+        },
+        {
+          "id": "1136552",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-18",
+          "content": "@besafe:流感疫苗分对应甲乙型流感的, 即使打了同种的, 也可能感染,有一定保护率而已,保护率比其他疫苗要低得多. 新冠疫苗也一样. 至于变种多,流感病毒和新冠一样的,是rna病毒的特点,所以新冠疫苗刚出来我就断言用处不大."
+        },
+        {
+          "id": "1136553",
+          "replier": {
+            "username": "besafe",
+            "uid": "96280"
+          },
+          "date": "2022-12-18",
+          "content": "@kisuki:那这些疫苗无效是因为身体没反应没法产生抗原 还是怎么回事？"
+        },
+        {
+          "id": "1136564",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-18",
+          "content": "@besafe:病毒感染力过强."
+        },
+        {
+          "id": "1136565",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-18",
+          "content": "@besafe:当然对于新冠,更多的情况还是因为变种病毒."
+        }
+      ]
+    }
+  ]
+}

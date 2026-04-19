@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "60417",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "676234",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t60%以上都属于粉红，澳洲，日本这些地方占比更高，95%以上\t\t</div>",
+      "date": "2023-08-03",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675517",
+      "is_folded": false,
+      "answerer": {
+        "username": "qingcheng",
+        "uid": "45614"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t关键看对粉红的定义和反贼的定义了，所以可以是95%（没有除了粉红和反贼的其他选择）或者1.7%（非粉非反占98%）\t\t</div>",
+      "date": "2023-08-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "parent_type": "question",
+  "parent_id": "53881",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "606650",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t先打電話給機場問清楚, 別耽誤登機, 飛機起飛就不會被害了. 祝你一路順利.\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606651",
+      "is_folded": false,
+      "answerer": {
+        "username": "患寡患不均",
+        "uid": "100936"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不需要，没人查疫苗。<br/>\n但是没有合理事由你出不去。\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1132644",
+          "replier": {
+            "username": "hvbjhh",
+            "uid": "77239"
+          },
+          "date": "2022-12-05",
+          "content": "好的，谢谢你"
+        },
+        {
+          "id": "1132650",
+          "replier": {
+            "username": "患寡患不均",
+            "uid": "100936"
+          },
+          "date": "2022-12-05",
+          "content": "@hvbjhh:参考我朋友的出境经历。总之有正当事由，不要给边检感觉你一去不复返。\nhttps://pincong.rocks/article/50610"
+        }
+      ]
+    },
+    {
+      "id": "606688",
+      "is_folded": false,
+      "answerer": {
+        "username": "qingcheng",
+        "uid": "45614"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看你出境要去哪些国家，有些国家要求必须打完疫苗才可入境，有些国家今年开始不在要求\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606919",
+      "is_folded": false,
+      "answerer": {
+        "username": "廣寒秋",
+        "uid": "87463"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有些國家要求兩針疫苗才能入境，不過以後可能會改掉。\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606664",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t去年年初短暂地去了一下墙内。墙外因为墙内要求，登机必须持有48小时双检证明（但其实也没查我，可能是抽查吧）。墙内登机入海关要求有48小时内核酸证明（没有要求血清检），但实际也没有查我。全程无文件提及疫苗检查要求。<br/>\n<br/>\n个人建议核酸和血清还是做一下，毕竟墙内是一个想卡你就卡你的地方。疫苗看个人。\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1132639",
+          "replier": {
+            "username": "RobotRepublic",
+            "uid": "101437"
+          },
+          "date": "2022-12-05",
+          "content": "他问的是出去，不是回来"
+        },
+        {
+          "id": "1132640",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2022-12-05",
+          "content": "@Leviathan_die:所以我出入境都回答了啊。"
+        },
+        {
+          "id": "1132643",
+          "replier": {
+            "username": "hvbjhh",
+            "uid": "77239"
+          },
+          "date": "2022-12-05",
+          "content": "谢谢你"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "parent_type": "question",
+  "parent_id": "56343",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "633949",
+      "is_folded": false,
+      "answerer": {
+        "username": "伟大的雅典",
+        "uid": "108454"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t为什么我刷油管，看很多国外媒体的视频，然后点开评论区，竟然有那么多评论是支持俄罗斯的，震碎我的三观\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 2,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1156677",
+          "replier": {
+            "username": "屠岁静屠粉红屠支",
+            "uid": "101471"
+          },
+          "date": "2023-02-24",
+          "content": "都是中国粉蛆，有海外的，有国内翻墙的，只要不是俄文，英文评论都是中国粉红"
+        },
+        {
+          "id": "1156680",
+          "replier": {
+            "username": "邓匪小平",
+            "uid": "52927"
+          },
+          "date": "2023-02-24",
+          "content": "看五毛粉红频道多了算法就会开始推送同类题材"
+        },
+        {
+          "id": "1156685",
+          "replier": {
+            "username": "伟大的雅典",
+            "uid": "108454"
+          },
+          "date": "2023-02-24",
+          "content": "@屠岁静屠粉红屠支:这么多粉红吗？我看很多媒体，下面的评论都是支持俄罗斯和中国的。除了bbc和cnn这种特大的"
+        },
+        {
+          "id": "1156701",
+          "replier": {
+            "username": "屠岁静屠粉红屠支",
+            "uid": "101471"
+          },
+          "date": "2023-02-24",
+          "content": "@伟大的雅典:对，说得就是cnn和bbc英文版"
+        },
+        {
+          "id": "1156703",
+          "replier": {
+            "username": "屠岁静屠粉红屠支",
+            "uid": "101471"
+          },
+          "date": "2023-02-24",
+          "content": "@伟大的雅典:其实所以外媒它们都有污染，还都用英文拉屎，在日本频道用日文"
+        }
+      ]
+    },
+    {
+      "id": "634008",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t让系统不出现中文这一点我是比较有心得的，也用日语/德语等试过各系统/App的推广语言机制。<br/>\n<br/>\nChrome/YouTube的推广所用语言，取决于你的输入语言（即你是否用中文搜索），搜索内容（即搜索结果中是否包含中文），和系统输入法（即系统语言和输入法是否包含中文）。<br/>\n<br/>\nMeta下属公司（FB等）的推广语言算法经实践发现差异比较大，此处暂且不提。<br/>\n<br/>\n所以不想Google相关App出现中文的话，反其道而行即可：系统语言换英文，电脑系统不装额外/默认的中文输入法，不用中文搜索内容。\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633978",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠岁静屠粉红屠支",
+        "uid": "101471"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t换vpn线路 <br/>\n<br/>\n一般都是根据你喜好推荐的 <br/>\n少点开看就少推荐\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633981",
+      "is_folded": false,
+      "answerer": {
+        "username": "梅菲斯特",
+        "uid": "13746"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我装了个繁体中文的系统感觉还好<br/>\n<br/>\n当然在你葱标准答案是你还没学好英语脱不了支\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633944",
+      "is_folded": true,
+      "answerer": {
+        "username": "snowingnight",
+        "uid": "53957"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-02-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

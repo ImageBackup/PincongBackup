@@ -1,0 +1,312 @@
+{
+  "parent_type": "question",
+  "parent_id": "54255",
+  "answer_count": 22,
+  "answers": [
+    {
+      "id": "610180",
+      "is_folded": false,
+      "answerer": {
+        "username": "Kami",
+        "uid": "99896"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t主要是因为支国近几年新增的网民基本不用电脑，只玩手机，这部分人的智商税容易收割<br/>\n贴吧的确是，不过我觉得知乎PC版使用体验比手机版好\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 12,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1135405",
+          "replier": {
+            "username": "明日复明日",
+            "uid": "86612"
+          },
+          "date": "2022-12-14",
+          "content": "pc的能力要高太多了，手机就是简单，很符合国人碎片化时间的特点，我觉得还是pc好用，打开十几个网页也没什么问题，屏幕又大，现在国人玩游戏都是用手机玩，王者荣耀和绝地求生两大游戏"
+        },
+        {
+          "id": "1135546",
+          "replier": {
+            "username": "Xenitar",
+            "uid": "87302"
+          },
+          "date": "2022-12-14",
+          "content": "知乎极速版停用后就再也没在手机上刷知乎了。贴吧还好，mini尚苟延残喘功能也无阉割"
+        }
+      ]
+    },
+    {
+      "id": "610182",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t所有账号都需要手机验证 这本来就是个实名政策的衍生 很多连email 验证都没有\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610219",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没什么政治目的，就是一种商业选择。<br/>\n<br/>\nPC和手机端是两种系统模式，需要两伙人开发维护，而现在用户以手机为主，平台公司又要节约开支，公司自然会把资源集中在手机端上面。<br/>\n<br/>\n再说绑定手机。单纯从技术上考虑，绑定手机也是在满足政府实名制要求的最简单做法。\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610256",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t虽然便携，但是手机内ａｐｐ转网路页面比较难分辨是否是使用了ｈｔｔｐｓ链接，安全性堪忧，<br/>\n<br/>\n大量ａｐｐ使用８０未加密链接，手机上非常隐蔽，土匪也许看中了这一点，<br/>\n<br/>\n－－－－<br/>\n应对方法，可以在移动端安装防火墙，ｔｒａｃｋｅｒ　ｃｏｎｔｒｏｌ，比如，<br/>\n<br/>\nhttps://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/<br/>\n<br/>\nhttps://f-droid.org/en/packages/eu.faircode.netguard<br/>\n<br/>\nhttps://f-droid.org/en/packages/com.celzero.bravedns/\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610112",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛氏腊肉蛋炒饭",
+        "uid": "14802"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为智能手机开始普及了<br/>\n在按键机的年代，绝大多数的网民都开始用电脑上网<br/>\n后来时代变了，现在几乎所有的智能机开始接近于电脑\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610214",
+      "is_folded": false,
+      "answerer": {
+        "username": "反共先锋",
+        "uid": "88784"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小弟，一看你就是90 00后。这个问题只要20年前上过网的，都能明白。<br/>\n以前的网络是什么，问你一个简单的问题，互联网精神是什么？\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610111",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t互联网入口都已经转移到手机端了。互联网公司统计入口流量很方便的，一看PC端流量不行，都在移动端，那就没动力去把PC端软件做好了\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610184",
+      "is_folded": false,
+      "answerer": {
+        "username": "寒露成霜",
+        "uid": "74933"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从企业一面说是为了流量“私域”化：打开淘宝APP你就不会在京东或者网购，打开PC浏览器就说不定了；<br/>\n从政府这面说可能是有目的地促成一些国民级APP出现：强制所有人装一个“防诈骗安全软件”或者学习强国会遭受强烈的反弹但是把微信做得包罗万象让你欲罢不能就有点温水煮青蛙的意思了，在正常国家腾讯和字节跳动早就被反垄断调查了而中共政府却在刻意放纵微信、抖音之类的APP，其目的显而易见，微信是中共可以轻易握在手里的监视手段，政府乐见它在国民的手机变成不可或缺的APP。\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610401",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那就要看整个支那是手机用户多还是电脑用户多了，显然手机用户完全碾压电脑用户。<br/>\n<br/>\n而且手机app生态封闭，天然符合<mark>支那</mark>特色。\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610183",
+      "is_folded": false,
+      "answerer": {
+        "username": "benrock",
+        "uid": "7429"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t5年前，大电商就提供给一个数字，所下订单的95%都是在手机下的。 电脑版本只带来5% 的订单。 所以投入资源都在手机端。\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610315",
+      "is_folded": false,
+      "answerer": {
+        "username": "mhbkq466",
+        "uid": "51704"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t垄断流量，无脑跟风，抢占市场，没别的<br/>\n拿逼乎 来说，注销功能给你放APP上，你注销必须下载APP，恶不恶心<br/>\n然后不管你注不注销，人都赢，你嫌麻烦不注销，人人头数保住了；你就注销，人APP下载量有了，怎么着都能吹牛逼<br/>\n然后你看所有APP都是这德性，怎么能粘住你怎么来\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610122",
+      "is_folded": false,
+      "answerer": {
+        "username": "猪国中",
+        "uid": "105071"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t便携，盐碱地是一个工作基本都是体力劳动的地方，并且工作时间都比较长\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610395",
+      "is_folded": false,
+      "answerer": {
+        "username": "匿名月戶",
+        "uid": "92119"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因為手機app裡面更好要你的權限啊。話說我雖然非常討厭蘋果的臭屁，但是他的系統確實不好要權限。<br/>\n雖然說手機app端是個商業趨勢，但是瓦房店的app那可是真的在要你權限和收集你的個人資料的。\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610188",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t时间碎片化<br/>\n现在包括国外也是 更多时间变成了等某些事情刷手机<br/>\n<br/>\n读报纸 用电脑等长时间工作变少了\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610189",
+      "is_folded": false,
+      "answerer": {
+        "username": "地球是我家乡",
+        "uid": "86380"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在除了在公司工作，必须使用电脑。我回到家几乎从不开电脑。\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610190",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为中共国审查力度在手机端是个灰色地带。这是主要原因。<br/>\n<br/>\n所以很多盗版漫画和色情类 都出手机app。<br/>\n<br/>\n我比较喜欢的一个论坛 hipda 本来是讨论设备为主 但因为有些内容 被针对 反复审查 导致最终关闭。论坛拥有者现在搞了个app。<br/>\n<br/>\n这就跟哪个网络短剧一样，都是擦边球但是至少审核没那么恐怖。\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610477",
+      "is_folded": false,
+      "answerer": {
+        "username": "习太犬",
+        "uid": "105217"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实真实的原因并不是什么时间碎片化  移动设备的普及，<br/>\n真正的原因不是奴隶们的负重越来越高了吗？？<br/>\n奴隶们是不是没有时间坐在电脑旁娱乐消遣，要四处奔波，才有了所谓 时间碎片化？？？<br/>\n不是因为奴隶们要四处奔波 移动设备才能普及的吗？？？？<br/>\n需求一直是有的，但是根据条件调整。\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610484",
+      "is_folded": false,
+      "answerer": {
+        "username": "Sandbag2885",
+        "uid": "98436"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t新增网民大多是手机用户，平均文化程度也在降低（无歧视意图）\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610254",
+      "is_folded": false,
+      "answerer": {
+        "username": "ChernayaLiga",
+        "uid": "73949"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t手机的普及率比电脑大的多，也就决定手机的市场会比电脑更大。<br/>\n<br/>\n说句题外话，这也是墙内手机app为什么特别臃肿的原因。\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610533",
+      "is_folded": false,
+      "answerer": {
+        "username": "爱娴",
+        "uid": "96773"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为现在很多<mark>支人</mark>家里没有电脑 但是有智能手机 <br/>\n再说了 即便有电脑的家庭 一般也是只有一台电脑 但是手机是全家每个人都有一个 所以你说呢\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610544",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t早期恶心人是注册需要手机号<br/>\n然后没有登录直接不让看,或者就弹弹窗骚扰你.<br/>\n<br/>\n你有账号,于是想要登录.然后发现连账号输入的地方都没有,一看几个大字:<b>请使用XX应用扫码登录</b><br/>\n这还不够,有些功能只有手机端有.甚至你想要注销账号还得用手机App确认<br/>\n<br/>\n有人发现QQ,微信会窃取隐私,于是使用网页端替代.然后腾讯直接不让你用非QQ浏览器使用网页端<br/>\n<br/>\n洼地就是无下限的地方,任何领域都是\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610551",
+      "is_folded": false,
+      "answerer": {
+        "username": "亡共进行时",
+        "uid": "7969"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我用手机浏览器每次浏览墙国网站，它都要强制提醒你安装APP，烦不胜烦，墙国网站喜欢推广自家的APP，我分析这些IT公司的软件开发可能有内部成绩考核，安装量多少关系程序员的饭碗。\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "53442",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "602546",
+      "is_folded": false,
+      "answerer": {
+        "username": "黑社會社會黑",
+        "uid": "8645"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一半是畫餅安撫韭菜，一半是為皇上試水溫，難道要說大實話直接表示要看皇上聖意嗎？\t\t</div>",
+      "date": "2022-11-28",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "602540",
+      "is_folded": false,
+      "answerer": {
+        "username": "chanchan",
+        "uid": "95231"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t高盛天天說明年就會結束封控，不知道什麼居心\t\t</div>",
+      "date": "2022-11-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

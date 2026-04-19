@@ -1,0 +1,34 @@
+{
+  "question_id": "60140",
+  "category_id": "8",
+  "title": "",
+  "meta_description": "为什么注销后信息还在？品葱可否负点责任？ - 品葱留存个人发帖评论记录是何目的？  已经在站务各个讨论贴回复管理员处理下，一周过去了一点动静都没有  是要准备留存信息给有关部门报备嘛？还是有什么目的？   请管理员出来说下  @admin",
+  "meta_keywords": "注销,信息,还在,品葱,可否,负点,责任",
+  "tags": [
+    {
+      "id": null,
+      "name": "添加话题"
+    }
+  ],
+  "author": {
+    "username": "田弓難竹木",
+    "uid": "103486"
+  },
+  "view_count": 1173,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2023-07-22",
+  "agree_count": 0,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1043193",
+      "replier": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "date": "2023-07-23",
+      "content": "根據操作紀錄該用戶申請為註銷，結果即為帳號本身註銷而留言保存，若希望隱藏發言，則需要申請包含隱藏發言在內之封號，註銷不可逆，因此該操作並無異議"
+    }
+  ],
+  "answer_count": 1
+}

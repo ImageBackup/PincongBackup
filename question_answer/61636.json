@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "61636",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "693838",
+      "is_folded": false,
+      "answerer": {
+        "username": "Conjure",
+        "uid": "117369"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a href=\"url/link/aHR0cHM6Ly9naXRsYWIudG9ycHJvamVjdC5vcmcvdHBvL2FudGktY2Vuc29yc2hpcC9wbHVnZ2FibGUtdHJhbnNwb3J0cy9jb25qdXJl\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/conjure\">Tor的Conjure网桥</a>用的就是Refraction Networking.<br/>\n具体用法:https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/conjure/-/blob/main/client/torrc<br/>\n由于Tor官方的Conjure网桥暂时是小规模试运行我就不写傻瓜式教程了, Tor Browser的Alpha版和Nightly版都自带有Conjure网桥但没有傻瓜式用户界面, 需要手动添加网桥的方式使用, 上述torrc文件就包含对应的网桥字符串.<br/>\n关于能不能用请各位自行尝试, 你能用不等于别人的省份或环境也能用, <b>请注意避免暴露自身网络环境状态防止缩小侦查范围</b>, 我只能说<a href=\"url/link/aHR0cHM6Ly9tZXRyaWNzLnRvcnByb2plY3Qub3JnL3JzLmh0bWwjZGV0YWlscy9BODRDOTQ2QkY0RTE0RTYzQTNDOTJFMTQwNTMyQTQ1OTRGMkMyNENE\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://metrics.torproject.org/rs.html#details/A84C946BF4E14E63A3C92E140532A4594F2C24CD\">Tor的官方统计中Conjure网桥几乎一直有流量</a>, 最近那段时间流量骤然下降接近于0是因为曾经的<a href=\"url/link/aHR0cHM6Ly9mb3J1bS50b3Jwcm9qZWN0Lm9yZy90L3Byb2JsZW1zLXdpdGgtc25vd2ZsYWtlLXNpbmNlLTIwMjMtMDktMjAtYnJva2VyLWZhaWx1cmUtdW5leHBlY3RlZC1lcnJvci1uby1hbnN3ZXIvOTM0Ng\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://forum.torproject.org/t/problems-with-snowflake-since-2023-09-20-broker-failure-unexpected-error-no-answer/9346\">Domain Front域名失效</a>.\t\t</div>",
+      "date": "2023-10-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687748",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看了一下, 還沒去編譯實測.<br/>\ncli 用法在 https://github.com/refraction-networking/gotapdance/tree/master/cli<br/>\n<br/>\nUsage 使用<br/>\n<br/>\nSimply run 運行簡單<br/>\n<br/>\n./cli<br/>\n<br/>\nto listen to local connections on default 10500 port.<br/>\n去聆聽到本地連接在缺省 10500 端口.<br/>\n<br/>\n_ _ 看來 cli 並非一個控制檯環境, 只是個啓動 tapdance 在 go 語言的版本, 就是那個 gotapdance 的啓動器啦. 或有個配置文件甚麼的, 既然提供源碼了, 可以看下是否寫死在源碼中了.<br/>\n<br/>\n_ _ 看到它的 conjure station 端是要裝在被屏蔽站點的 ISP 上的就感覺有點雞肋, 如果我是審查者就建立一個位於 GFW 之內的站點前置 conjure station, 有另一個城市的審查部門使用 gotapdance 來訪問站點, 把所經過的節點依次記錄形成一個列表, 再於站點上佈置收集瀏覽器指紋的 js 或讀取別的站點 cookie 腳本, 寫個過濾器佈置在城際網關上幾乎能去匿名, 如果被監控對象之前被吸引訪問過審查者的站點的話.<br/>\n<br/>\n_ _ 因在嘗試共匪斷海纜之後的匿蹤通信方法之驗證, 確實發現很有難度一個匿蹤網不能只有牆內公民使用, 需要大量用戶與載荷來混淆和隱蔽才能做到匿蹤. 但我又討厭盜版的作品或毛片在匿蹤網中流竄來實現大量用戶與載荷, 需要別的公民組成政黨來一起想辦法.\t\t</div>",
+      "date": "2023-09-09",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1206991",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2023-09-09",
+          "content": "我试了直接执行\"./cli\"是不行的，只会输出帮助，一定要一个\"-connect-addr\"参数，根本不知道要输什么，似乎1.2及以后的都要这个参数，README没更新。station装在没审查的ISP就行了，以前赛风实验的时候也是这么部署的，不知道是不是撤掉了，有些IP连路由都没了。"
+        },
+        {
+          "id": "1206993",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-09-09",
+          "content": "@Streptopelia:\n-connect-addr 那就是要指定連接的地址了, 檢索項目網站和互諒網下看看有無公開可用的 ip 或 v6 的?"
+        }
+      ]
+    }
+  ]
+}

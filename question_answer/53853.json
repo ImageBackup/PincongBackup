@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "53853",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "606424",
+      "is_folded": false,
+      "answerer": {
+        "username": "Sediria",
+        "uid": "96959"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t5G跟在硬件层面上加强对数据流的监控有啥关系？<br/>\n<br/>\n本人好歹懂一点通信，在5g上并没有跟数据监控有关的技术。<br/>\n<br/>\n5G的带宽更大，流量更多，响应时间延迟更小，其实对数据监控不是好事。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132401",
+          "replier": {
+            "username": "隐匿之影",
+            "uid": "103339"
+          },
+          "date": "2022-12-04",
+          "content": "5G能更准确的追踪用户的轨迹，切片更小，密集的5G基站配合大数据，能更有效的监控用户"
+        }
+      ]
+    },
+    {
+      "id": "606425",
+      "is_folded": false,
+      "answerer": {
+        "username": "一個東方人",
+        "uid": "95125"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t5g和硬件监控有什么关系？华为也可以在4g环境下生产不可信设备，而且理论上5g拥有更强的加密，要是说利用5g部署更多的互联监控设备倒是有点意思。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606423",
+      "is_folded": false,
+      "answerer": {
+        "username": "tuyouyou",
+        "uid": "101697"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这样发展下去的话，未来真的可能发展成为赛博朋克般的世界构架，科技与狠活终究要把全人类玩死。科幻作家或许不止是单纯的脑洞，而是先见预见。科技不再是双刃剑，而是权贵的福音，最终造福的是少部分人渣。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

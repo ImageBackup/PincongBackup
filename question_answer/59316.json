@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "59316",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "668485",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t条形码，IC卡等技术需要近距离接触，因为他们的原理是商品侧不需要电池。或者扫码器捕捉光学信号，或者近距离接触向电容充电，由扫描方供能。不知楼主能不能听明白😄<br/>\n<br/>\n在机器人比人工贵的现代，全自动不太可能。亚马逊虽然有取货机器人之类，但全过程不可能自动化。<br/>\n<br/>\n楼主想要的可能是可以远距离通讯的解决方案。这就需要被检测方能够主动发送信号。这种技术成本不会太低，采购成本估计一个美金最低，加上部署成本，一个产品线可能要多支出几百几千万美元。如果这个钱楼主出，我估计商家会很愿意马上自动化😄\t\t</div>",
+      "date": "2023-07-07",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "664817",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t芯片太贵了，条形码就可以，入库的时候就标记了，但是商家不在乎，一旦有了这个条形码就得有规定啥时候下架。没有的话，有时候顾客不注意，也就买走了。\t\t</div>",
+      "date": "2023-06-23",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1189969",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-07-07",
+          "content": "@dsresgeg:不用人工的\n你看迴轉壽司就是QR碼自動查，在上面轉幾個小時以後不新鮮了系統就會自動丟棄"
+        }
+      ]
+    },
+    {
+      "id": "668492",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t货架上的商品可能被顾客调动顺序和任意摆放，没那么简单\t\t</div>",
+      "date": "2023-07-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "670737",
+      "is_folded": false,
+      "answerer": {
+        "username": "近平摔进悬崖",
+        "uid": "113146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t无人超市我不懂，但普通超市是没有的，先进点的超市有磁条但那是防盗用的，而且效果很差，库存本身也不记是否过期，入库时候部分商品放磁条（大部分不放），清理过期商品都是人工，旁边商超仓库每天都拉出去一堆商品，只是不知道这些商品会被放到哪（我看他们拉出去的以面包和散碎包装食品为主）很离谱的一点是这垃圾超市商品过期未出售需要导购员自费购买，就这种制度也能全国连锁。哈哈哈哈我当时听到这个笑死了\t\t</div>",
+      "date": "2023-07-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

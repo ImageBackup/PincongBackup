@@ -1,0 +1,53 @@
+{
+  "parent_type": "question",
+  "parent_id": "66322",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "737887",
+      "is_folded": false,
+      "answerer": {
+        "username": "ergosumomni",
+        "uid": "122466"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tWindows 可以用auto hot keys<br/>\nMac 有karabiner<br/>\nUnix沒研究但應該也有 用key remapping當關鍵字去找找\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1254481",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-04-02",
+          "content": "非常感谢，我再试试"
+        }
+      ]
+    },
+    {
+      "id": "737888",
+      "is_folded": false,
+      "answerer": {
+        "username": "薄一瓜",
+        "uid": "82808"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tWindows系统的话，SharpKeys、AutoHotkey和KeyTweak楼主可以三选一，之前天天码字有过类似的需求，个人最喜欢Sharp，链接在这里https://github.com/randyrants/sharpkeys\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1254480",
+          "replier": {
+            "username": "佐助",
+            "uid": "467"
+          },
+          "date": "2024-04-02",
+          "content": "非常感谢，我好好研究一下"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "56908",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "640144",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t代议制民主国家这种情况都是国会投票<br/>\n<br/>\n直接民主国家都比较小，并没有什么“大规模对外战争”\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "640150",
+      "is_folded": false,
+      "answerer": {
+        "username": "unis14wis",
+        "uid": "108840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不现实，组织投票就得多长时间，等投票完了还打个毛\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

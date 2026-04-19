@@ -1,0 +1,142 @@
+{
+  "parent_type": "question",
+  "parent_id": "63154",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "704049",
+      "is_folded": false,
+      "answerer": {
+        "username": "FreedomExisted",
+        "uid": "104409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t這不是獨立概率的問題嗎？最經典的就是投擲硬幣連續十次head，但並不影響第十一次拋出head的概率依舊是50%\t\t</div>",
+      "date": "2023-11-08",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1223888",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-08",
+          "content": "我完全可以相信你那个硬币不是对称的，假如硬币是对称的，连续十次head的概率是2^(-10)=0.001<0.05, 我拒绝你的零假设“硬币对称”。"
+        }
+      ]
+    },
+    {
+      "id": "704081",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t語言上感覺『相信』不一定排他<br/>\n比方說我今天一早打開窗簾，看了窗外以後我相信今天下午會下雨。然後我開始看天氣預報，天氣預報說今天一整天都會陰而不雨，我不會『去他的天氣預報，睜眼說瞎話』啊？<br/>\n用數學的話來說，只是個level of confidence的問題。可能我有60% level of confidence，還不夠我付錢打賭的，但是我還是會說我蠻相信的\t\t</div>",
+      "date": "2023-11-08",
+      "agree_count": 2,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1223887",
+          "replier": {
+            "username": "Grecap1",
+            "uid": "39784"
+          },
+          "date": "2023-11-08",
+          "content": "嗯。所以按照\"相信\"进行一连串推论就成了 滑坡谬误 ，是不是这样？"
+        },
+        {
+          "id": "1223890",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-08",
+          "content": "@Grecap1:对头，滑坡了，就像秃头佯谬，没毛是秃子，有一根毛是秃子，然后两根毛还是秃子，所以类推，一头浓密的头发还是秃子"
+        },
+        {
+          "id": "1223893",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-08",
+          "content": "@rowlandheights:你的答案是看起来像对的，天下无贼的答案是差点对了"
+        },
+        {
+          "id": "1224087",
+          "replier": {
+            "username": "Grecap1",
+            "uid": "39784"
+          },
+          "date": "2023-11-09",
+          "content": "@rowlandheights:嗯。\n另外还有，我觉得这里可能存在某种歧义... 因为\"相信\"可能是认为一件事会发生，也可能是信任一个人会做出一种行为。\n前者认为ta会来这件事会发生——但这种判断的前提不仅仅只能依靠ta之前每天都来这样一个前提，如果有更多信息比如ta的年龄、ta的身体状况等等判断也会更全面。比如，如果我知道ta年纪很大或者得了重病，或者根据ta来了很多年推知ta年事已高，那我一定就会更加不确定明天ta是否还会来；后者，信任ta一定会做出 来 这个决定——这样的话好像反而没有太大的矛盾了因为我完全可以在ta死后说：(如果ta还活着，)我相信ta明天一定会(决定)来的。"
+        }
+      ]
+    },
+    {
+      "id": "704047",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t数字部分忽略，“他明天很大可能还会来”其实包含一个隐含假设就是“明天他还活着”。<br/>\n<br/>\n所以反过来不能通过“他明天很大可能还会来”这个推论来反推“他一直活着”，这犯了“循环论证”的错误。\t\t</div>",
+      "date": "2023-11-08",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1223901",
+          "replier": {
+            "username": "天安门肉饼派对",
+            "uid": "30212"
+          },
+          "date": "2023-11-08",
+          "content": "你搞反了\n你上面说的是“如果我相信他明天很可能回来，那么我肯定需要相信他明天很可能还活着”这是一个statement的必要条件问题\n但是这样的话，如果他明天的确可能回来，那他的确明天会活着。这并不imply他“一直”活着。"
+        }
+      ]
+    },
+    {
+      "id": "704050",
+      "is_folded": false,
+      "answerer": {
+        "username": "总得说两句",
+        "uid": "112835"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用证券分析的趋势理论解释，如果这一段时间某一直都来，那么今天他很大概率还会来，因为“历史会重演、趋势会延续”。\t\t</div>",
+      "date": "2023-11-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704048",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t50%的概率吧，来或者不来。<br/>\n<br/>\n另外品葱发啥都没人封，真他妈爽，我要是话多，我肯定一天发一百贴。\t\t</div>",
+      "date": "2023-11-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704115",
+      "is_folded": false,
+      "answerer": {
+        "username": "天安门肉饼派对",
+        "uid": "30212"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t“相信”在epistemology和knowing不是一个概念 各位葱油阐释地都挺到位了\t\t</div>",
+      "date": "2023-11-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

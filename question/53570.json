@@ -1,0 +1,43 @@
+{
+  "question_id": "53570",
+  "category_id": "4",
+  "title": "为何迷雾通PC版显示已连接，但翻不了墙?",
+  "meta_description": "为何迷雾通PC版显示已连接，但翻不了墙? - PC版的迷雾通已经显示“已连接”，但电脑还是上不了外网，这是啥问题?求高手指点。",
+  "meta_keywords": "迷雾,pc,显示,连接",
+  "tags": [
+    {
+      "id": "6220",
+      "name": "迷雾通"
+    }
+  ],
+  "author": {
+    "username": "[已注销]",
+    "uid": null
+  },
+  "view_count": 6157,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tPC版的迷雾通已经显示“已连接”，但电脑还是上不了外网，这是啥问题?求高手指点。\t\t\t\t\t\t\t</div>",
+  "date": "2022-11-30",
+  "agree_count": 0,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1027675",
+      "replier": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "date": "2022-11-30",
+      "content": "更換節點呢？"
+    },
+    {
+      "id": "1027683",
+      "replier": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "date": "2022-11-30",
+      "content": "@厉害了冲国人:没用"
+    }
+  ],
+  "answer_count": 4
+}

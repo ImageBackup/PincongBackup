@@ -1,0 +1,270 @@
+{
+  "parent_type": "question",
+  "parent_id": "64993",
+  "answer_count": 13,
+  "answers": [
+    {
+      "id": "724128",
+      "is_folded": false,
+      "answerer": {
+        "username": "民主信仰者",
+        "uid": "653"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t牆都不翻，只會用盜版的中國人的話，連聽都不用聽，想也知道是跟風一起罵而已。<br/>\n我來告訴你WIN11為什麼不受歡迎。<br/>\n<br/>\nWIN11不好用是體現在三點：相容性低、靈活性低、設計問題。<br/>\n第一點不用說，基本上所有的WINDOWS系統剛推出時都會有這個問題，隨著時間經過會逐漸改善；<br/>\n第二點才是問題，採用了重大安全性更新是好事，但也強迫所有用戶的電腦都要達到一定程度的硬體水平，本質上就是逼人換電腦，很多人是不願意出這筆錢的；<br/>\n第三點是最多人詬病的地方，其他的即便不談，光說那個「開始」，就很多人在罵，詳情你可以上網看一看就知道了。\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 8,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1242197",
+          "replier": {
+            "username": "black",
+            "uid": "3053"
+          },
+          "date": "2024-01-29",
+          "content": "但是老舊系統若運用在金融或國安體系，則是會有很大的風險。\n據我一個朋友說，目前台灣的某些公股銀行，還在用XP系統，或許是因為成本考量，不過這也埋下了一些資安危機，如之前的ATM盜領案，就是利用了老舊系統的漏洞...\n偷了360億的國際天才駭客，為什麼栽在台灣？\nhttps://www.cw.com.tw/article/5090741"
+        },
+        {
+          "id": "1242243",
+          "replier": {
+            "username": "Power5566",
+            "uid": "122793"
+          },
+          "date": "2024-01-29",
+          "content": "@black:很正常 全世界光ATM還在用XP的也是絕對多數(至少2020我看到的數據是這樣) 只是個別國家比例低一些 一些國家高一些(印度是7成多) 有些國家/銀行本錢粗 更新快 但也沒辦法做到100% 沒出事就慢慢來是人類的普遍德性"
+        },
+        {
+          "id": "1242389",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2024-01-30",
+          "content": "我觉得“开始”菜单还好啊。"
+        },
+        {
+          "id": "1242410",
+          "replier": {
+            "username": "民主信仰者",
+            "uid": "653"
+          },
+          "date": "2024-01-30",
+          "content": "@black:這簡單啊，因為銀行設備不是只有電腦而已。\n你沒待過金融業，可能不曉得這個行業裡的大部分設備都是「高度關聯」的，也就是說如果電腦作業系統升級了，那其他設備也得跟著一起升級（比如ATM，甚至於ATM裡的點鈔、取鈔、讀卡機等等），這可是很大的一筆金額。\n而且有些硬體可能還不適用於新的系統，也就是說硬體還得跟著一起更新，然後還要反覆測試，不然出問題就完蛋了。\n這一大堆設備、人力成本加起來，你大概就能理解為何銀行不太喜歡更新系統。當然，我的公司基本上是緩慢更新，這算是大多數金融業的常態：\n「反正暫時沒出問題，就慢慢來。」"
+        }
+      ]
+    },
+    {
+      "id": "724250",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t但你习惯某一种系统的时候 最好还是不要升级他\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724134",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前任务栏强制合并可以喷，现在已经可以改成允许分开了。挤满之后分页比较不爽。而且没法在任务栏上放自己的文件夹，win7就可以\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724270",
+      "is_folded": false,
+      "answerer": {
+        "username": "矫枉必须过正",
+        "uid": "36965"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\twin11我用了两年了，并不觉得挺难用。<br/>\n一开始稍微用了一下，新鲜劲过去了就会觉得和之前没什么区别。<br/>\n之后用起来基本上无感。<br/>\n需要注意的是，部分应用需要开启兼容模式，不然用不了。<br/>\n另外，win11有一个之前系统都没有的优势，最近微软发布的Copilot，是win11独占的。你用win10的话，会发现就只能用普通的Bing的AI，但是win11可以用Copilot。之后应该也会更多东西优先支持win11，而非是win10。<br/>\n其实今年微软还据说将会发布win12，据说将在系统里面大量使用AI。我还挺期待的。\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1242390",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2024-01-30",
+          "content": "我也觉得完全无感。"
+        }
+      ]
+    },
+    {
+      "id": "726548",
+      "is_folded": false,
+      "answerer": {
+        "username": "lebronjames",
+        "uid": "113726"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t網上有不少媒體報導微軟將會推出win12，推出新windows是因應AI發展而作出改進。\t\t</div>",
+      "date": "2024-02-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724251",
+      "is_folded": false,
+      "answerer": {
+        "username": "邪不胜正99",
+        "uid": "84059"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t习不习惯而已。最大的问题是比较吃硬件，特别是现在的AI时代\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "725048",
+      "is_folded": false,
+      "answerer": {
+        "username": "贰佰斤不喘气",
+        "uid": "122831"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从XP开始用的，现在买的新笔记本是预装的win11的系统，感觉还不错啊，用惯了win10的话还是不会不习惯吧\t\t</div>",
+      "date": "2024-02-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724117",
+      "is_folded": false,
+      "answerer": {
+        "username": "Deskwork2175",
+        "uid": "122665"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没用过，不过win上现在好用的代理工具是真少，所以我直接用Debian\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1242383",
+          "replier": {
+            "username": "jerry123123123",
+            "uid": "117745"
+          },
+          "date": "2024-01-30",
+          "content": "debian上是否有好用的代理工具？"
+        },
+        {
+          "id": "1242391",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2024-01-30",
+          "content": "Ubuntu呢"
+        },
+        {
+          "id": "1242408",
+          "replier": {
+            "username": "Deskwork2175",
+            "uid": "122665"
+          },
+          "date": "2024-01-30",
+          "content": "@jerry123123123: v2raya"
+        },
+        {
+          "id": "1242409",
+          "replier": {
+            "username": "Deskwork2175",
+            "uid": "122665"
+          },
+          "date": "2024-01-30",
+          "content": "@AAPLTSLA: v2raya"
+        }
+      ]
+    },
+    {
+      "id": "724126",
+      "is_folded": false,
+      "answerer": {
+        "username": "congrats",
+        "uid": "113949"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用还是一样用的。使用习惯没办法，只能慢慢习惯；各种问题倒不是一定出现，只是遇到了往往需要一点知识和技巧去解决（或者寻找解决办法）。目前最大的问题是有些问题微软自己也给不出解决方案，只会告诉你重启/清理/重置系统。\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724139",
+      "is_folded": false,
+      "answerer": {
+        "username": "我佛山人",
+        "uid": "111091"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t比较好用的是wsa直接装安卓程序还是很香的，这样我的静读天下+azure tts+WebDAV就可以和手机同步阅读记录了。<br/>\n<br/>\n难用的地方？妈的，太多了，设计得跟狗屎一样。\t\t</div>",
+      "date": "2024-01-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724434",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我感覺很好啊。可能是我喜歡接受新鮮事物。<br/>\n<br/>\nWin10我是從14年測試版就開始用了，Win11也是發布後就立刻全新安裝。現在的Mac也是用的測試版，為了提前體驗新功能。每次看到新功能都好興奮。\t\t</div>",
+      "date": "2024-01-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724435",
+      "is_folded": false,
+      "answerer": {
+        "username": "nyny",
+        "uid": "115318"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t網上有不少媒體報導微軟將會推出win12，推出新windows是因應AI發展而作出改進。<br/>\n<br/>\n那不如直接跳過win11 用win12好了<br/>\n<br/>\n反正win10系統更新持續到2025年10月，重大安全性支援持續到2028年10月。<br/>\n<br/>\nwin11將會成為短命系統，到時大家還是被迫用win12\t\t</div>",
+      "date": "2024-01-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724436",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要Python 3.11和C++ 20跑得转，管它什么操作系统呢，什么任务栏什么设计，有用吗？<br/>\n<br/>\n你是靠IDE混饭吃，又不是靠任务栏。\t\t</div>",
+      "date": "2024-01-30",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1242846",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2024-02-01",
+          "content": "大多數普通用戶都不是開發者，都是靠任務欄過日子的"
+        }
+      ]
+    }
+  ]
+}

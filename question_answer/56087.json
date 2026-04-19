@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "56087",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "630949",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t据说红迪早就被共匪渗透了，你还玩？另外注册不需要手机号码吧？我通过VPN/电邮注册过一个潜水用的。\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661985",
+      "is_folded": false,
+      "answerer": {
+        "username": "Hermione",
+        "uid": "10918"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用新電郵地址註冊新帳號，據我所知沒有ip ban，我就是這樣成功註冊。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

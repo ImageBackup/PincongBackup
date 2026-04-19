@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "60166",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "673175",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t出租车司机指手画脚天下事不叫国际观 这叫被逼无奈\t\t</div>",
+      "date": "2023-07-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "673177",
+      "is_folded": false,
+      "answerer": {
+        "username": "minisoda996",
+        "uid": "12008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t眼里外国人都不如中国的国际观？我觉得只有皇帝梦。\t\t</div>",
+      "date": "2023-07-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "65138",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "725796",
+      "is_folded": false,
+      "answerer": {
+        "username": "bigh12",
+        "uid": "105980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怎么提升声望？如何快速获得声望值。如何快速玩转品葱\t\t</div>",
+      "date": "2024-02-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "725933",
+      "is_folded": false,
+      "answerer": {
+        "username": "曲线救国",
+        "uid": "123637"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t版规说需要高声望的给你的发言点赞，所以只能发好的评论让大佬认可才能升声望\t\t</div>",
+      "date": "2024-02-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

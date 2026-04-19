@@ -1,0 +1,24 @@
+{
+  "question_id": "59972",
+  "category_id": "10",
+  "title": "操作系统难在哪里？难在没有人知道难在哪里！",
+  "meta_description": "操作系统难在哪里？难在没有人知道难在哪里！ - Linux 创始人感慨：Linux 后续无人。为何？能看懂核心代码的人太少了，能看懂并且愿意来维护的人更少了（因为免费，收入不高）。 核心代码牵一发而动全身。某核心代码贡献颇高的人，因为一个貌似无关紧要的修改，被Linus大骂，而退出核心组。Linus 于...",
+  "meta_keywords": "操作系统,在哪里,知道",
+  "tags": [
+    {
+      "id": "5658",
+      "name": "操作系统"
+    }
+  ],
+  "author": {
+    "username": "习下李上2022",
+    "uid": "97085"
+  },
+  "view_count": 1396,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tLinux 创始人感慨：Linux 后续无人。为何？能看懂核心代码的人太少了，能看懂并且愿意来维护的人更少了（因为免费，收入不高）。<br/>\n核心代码牵一发而动全身。某核心代码贡献颇高的人，因为一个貌似无关紧要的修改，被Linus大骂，而退出核心组。Linus 于是发出了以上感慨。自由软件确实遇到了规模瓶颈。<br/>\n操作系统难在哪里？难在没有几个人知道难在哪里。\t\t\t\t\t\t\t</div>",
+  "date": "2023-07-16",
+  "agree_count": -1,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 3
+}

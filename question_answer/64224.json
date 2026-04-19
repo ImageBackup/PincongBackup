@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "64224",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "715722",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这种低端人口也配姓赵？习近平同志才配得上中华民族的层次、一代封建社会主义伟人！\t\t</div>",
+      "date": "2023-12-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "715729",
+      "is_folded": false,
+      "answerer": {
+        "username": "国家主席刘德华",
+        "uid": "112103"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t呸，这就是个混蛋，还什么大英雄，没他可能我们就不会那么惨\t\t</div>",
+      "date": "2023-12-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

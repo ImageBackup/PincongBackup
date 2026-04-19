@@ -1,0 +1,289 @@
+{
+  "parent_type": "question",
+  "parent_id": "60888",
+  "answer_count": 11,
+  "answers": [
+    {
+      "id": "680105",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t楼主说的这种情况是新能源公司把太阳能电池版<b>租</b>给房主，然后新能源公司去拿政府的补贴。电池板发电接入电网，可以降低电费，尤其是在夏天用电高峰的时候。这里有两个潜在的问题：一是卖房子的时候手续要麻烦一些，因为电池板的租约也需要转给买家；二是合同到期之后怎么办。两个倒都不是什么大问题，前者可以由房产经纪和新能源公司处理，后者因为合同时间很长，到期之前大概率你已经把房子卖掉了，是未来的房主需要操心的事了。<br/>\n<br/>\n另一个选择是自己付钱把太阳能电池板买下来，然后自己去拿政府的补贴。有些新能源公司是只租不卖，或者卖得很贵。选择这个方案的话，可以找特斯拉，它家的价格应该是最低的。<br/>\n<br/>\n不考虑环保绿能之类的噱头，纯从经济角度看，在日照充足（尤其是夏天）的州，譬如加州德州内华达亚利桑那，不论是租还是买，安装太阳能电池板还是合算的。尤其是在加州，新建的房子都必须安装太阳能电池板，老房子装了的话，将来卖房子的时候会有一些溢价，可以抵消掉部分的安装成本。\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "680189",
+      "is_folded": false,
+      "answerer": {
+        "username": "江戸_川翼",
+        "uid": "73374"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t抛去经济因素的坑以外主要有以下几点<br/>\n火灾风险<br/>\n日本已有好几起，由于质量问题或者其他原因的板面损坏短路，然后就烧了<br/>\n<br/>\n还有漏水风险，这个施工上的纰漏造成的，因为要打洞，<br/>\n还有就是台风季节会造成其他分享比如板子刮下来房顶破损，板子再扎到人或邻居房子。。。要讲好又没意外保险<br/>\n<br/>\n然后就是折旧处理问题过了厂商15-20年的期限，一般目前的板子最长有25年寿命，寿命结束以后谁拆谁回首？费用？<br/>\n<br/>\n所以我最后决定算了不装了🤣\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1200116",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-08-15",
+          "content": "太阳能电池不能有遮盖物，否则会造成局部过热。家庭不维护的话，下雪的地方不合适，也需要注意清扫落叶等"
+        },
+        {
+          "id": "1200166",
+          "replier": {
+            "username": "江戸_川翼",
+            "uid": "73374"
+          },
+          "date": "2023-08-16",
+          "content": "@elsaanna:维护本身也是坑啊，多危险啊，买一套护具多贵，不买摔了更贵😂"
+        }
+      ]
+    },
+    {
+      "id": "680051",
+      "is_folded": false,
+      "answerer": {
+        "username": "zsy2023",
+        "uid": "92543"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://www.youtube.com/watch?v=sFdqWxaIo4s<br/>\n等其他人都安装超过3年了，再考虑自己安装，不当头一批吃螃蟹的人。<br/>\nhttps://www.youtube.com/watch?v=Uja6wgGqk3k<br/>\n<br/>\n<br/>\n如果你在大陆，直接不考虑。\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "680049",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看你在哪里 加州肯定装了 别的地方自己考虑 <br/>\n一直感觉太阳能屋顶对房子本身屋顶有点破坏作用 而且非常不美观 有考虑过一步到位装Tesla 屋顶\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 2,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1199900",
+          "replier": {
+            "username": "wjsly",
+            "uid": "74396"
+          },
+          "date": "2023-08-15",
+          "content": "我查了下tesla solar 被这个帖子劝退了\nhttps://www.solarreviews.com/blog/dont-get-tesla-solar-roof"
+        },
+        {
+          "id": "1199901",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-08-15",
+          "content": "@wjsly:你再多看看 我研究下来还是Tesla 最好"
+        },
+        {
+          "id": "1199941",
+          "replier": {
+            "username": "tmsnehec777",
+            "uid": "108695"
+          },
+          "date": "2023-08-15",
+          "content": "@wjsly:我之前看一个YouTuber就是自己装了特斯拉的屋顶，使用体验据说很好，他用了一年才做的视频，而且他在新泽西。所以我想在加州的话更没有问题了。但是他算了一笔账，自费安装的话10年才能回本，但之后就是净赚了。如果你担心的成本支出问题，大概可以算一下，按照低于市场价15%的电费，多长时间（且价格不变，政策稳定）你支付的电费能够达到自费安装的成本。如果这个时间低于自费安装的回本时间，那么就不划算。不过我觉得，有政策补贴的话，只要不突然取消这个政策，总是划算的。"
+        },
+        {
+          "id": "1199953",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-08-15",
+          "content": "@tmsnehec777: 太阳能和电动车很像 我觉得大部分买电动车的人都不是奔着省油省电去的（加州除外）算经济帐的话混动甚至电动车的价格基本上都不划算"
+        },
+        {
+          "id": "1200150",
+          "replier": {
+            "username": "lbow",
+            "uid": "53236"
+          },
+          "date": "2023-08-16",
+          "content": "會熱到需要冷氣的地方的話多一層阻擋陽光的還有降溫效果。有颶風的區域也要考慮毀損的維修成本"
+        }
+      ]
+    },
+    {
+      "id": "680265",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在中国，特别是中国农村，就是纯粹的骗局，主要是因为公司没打算做长期生意，只是为了骗财政补贴，然后卷款跑路。<br/>\n<br/>\n既然绿色能源是左派的那套东西，那么骗局应该也是不分国界的。<br/>\n<br/>\n如果想要加入，签合同时要充分考虑：<br/>\n1.设备维护责任：设备损坏，包括设备故障和人为损坏，谁负责维护，是否需要自费<br/>\n2.意外情况责任：设备发生意外，例如意外伤人，谁负责赔偿<br/>\n3.违约责任：公司跑路如何处理；你主动退出项目，或者被迫拆除设备（例如天灾损坏），是否需要赔偿，以及如何赔偿\t\t</div>",
+      "date": "2023-08-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "680167",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t反正在中国农村都是坑，美国的电费能不能支撑这个商业模式就不太清楚了。希望有懂得葱油能分析下\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "680100",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怎么感觉在和太阳能公司合伙白嫖拜登政府的政策？<br/>\n<br/>\n应该有搞头。<br/>\n能用多久就不好说了。\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1199952",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-08-15",
+          "content": "太阳能和众多新能源一直是白嫖政府补贴的行业 没有政府大量补贴这些产业一天都活不下去"
+        },
+        {
+          "id": "1199959",
+          "replier": {
+            "username": "吃包子的小學生",
+            "uid": "90380"
+          },
+          "date": "2023-08-15",
+          "content": "激勵性政策本來就是讓人看到有可以白嫖或者不那麼深的話就是有機可趁、賺到了、划算 這類 就會去做的，不然如何激勵？用愛發電畢竟是不持久的，也是小眾的，否則就靠大規模宣傳，但那樣需要的花費和時間成本，還不如出台政策讓人更直接的白嫖。不然就是空話和無效政策，光靠學共產主義沒事喊口號搞動員，人家也都只會跟著喊喊口號......"
+        }
+      ]
+    },
+    {
+      "id": "680113",
+      "is_folded": false,
+      "answerer": {
+        "username": "不吃蔥",
+        "uid": "39352"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我裝了幾年覺得不錯，回本公式還要考慮潛在的電價上漲，電價越漲回本越快。<br/>\n<br/>\n如果買電動車就更容易回本了，省的是比家用電更高貴的汽油柴油錢。\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "680418",
+      "is_folded": false,
+      "answerer": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应调查那几家公司有没有通共的行为<br/>\n<br/>\n<br/>\n对于日本，它们说：忘记历史等于背叛；<br/>\n对于俄国，它们说：纠缠历史毫无意义；<br/>\n对于中共，它们说：了解历史等于犯罪！\t\t</div>",
+      "date": "2023-08-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "680059",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这能不能缓解顶楼由于阳光照射夏天比较热的问题？\t\t</div>",
+      "date": "2023-08-15",
+      "agree_count": 0,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1199938",
+          "replier": {
+            "username": "tk9999",
+            "uid": "73635"
+          },
+          "date": "2023-08-15",
+          "content": "已删除"
+        },
+        {
+          "id": "1199940",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-08-15",
+          "content": "美國屋頂都是三角形，沒平頂。北方滑雪南方滑雨，而且中空是隔熱層"
+        },
+        {
+          "id": "1199947",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-08-15",
+          "content": "已删除"
+        },
+        {
+          "id": "1199948",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-08-15",
+          "content": "@四邑漁農牧工商總會: 谁说的都是三角顶，很多是平顶"
+        },
+        {
+          "id": "1199954",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-08-15",
+          "content": "@elsaanna:北方有雪 南方多雨 建平顶的地方要求干旱少雨雪极少数地方能满足"
+        },
+        {
+          "id": "1200042",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-08-15",
+          "content": "顶都是斜的啊，平顶有啥好处？除了省点材料。"
+        }
+      ]
+    },
+    {
+      "id": "699349",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t当然有坑，而且是个巨大的坑，所以你千万不要跳进去，赶紧买机票回祖国吧。只有回我们<mark>支那</mark>，有我们党和人民政府才能保障你的人身和财产的安全\t\t</div>",
+      "date": "2023-10-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "59455",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "665939",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t半导体衰退周期，管制影响美国公司赚钱与美国就业了\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665941",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t啥叫突破？打过苏罗维金线叫突破。中国低端炼芯不如给电子管小型化申请中国发明专利。\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665942",
+      "is_folded": false,
+      "answerer": {
+        "username": "S700N",
+        "uid": "75716"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a href=\"https://pincong.rocks/article/id-60348__sort_key-agree_count__sort-DESC\" title=\"https://pincong.rocks/article/id-60348__sort_key-agree_count__sort-DESC\">華爾街日報：美國擬對中國祭出AI晶片出口新限制</a> </div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

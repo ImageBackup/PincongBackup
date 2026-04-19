@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "54854",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "616721",
+      "is_folded": false,
+      "answerer": {
+        "username": "肩扛200斤女人",
+        "uid": "28255"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t估计跟阿里云盘一样。阿里云盘刚公测时候也是啥文件都能存，各种小电影，盗版电影电视剧，后来隔几天更新一次版本，开始将各种非法文件屏蔽掉，夸克网盘估计业快了。<br/>\n<br/>\n最好的办法是将文件压缩以后上传，防止你存了很久的东西全给你屏蔽掉。\t\t</div>",
+      "date": "2023-01-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "616730",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只是刚起步，规模比较小，还没引起上头的注意而已。\t\t</div>",
+      "date": "2023-01-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "616874",
+      "is_folded": false,
+      "answerer": {
+        "username": "奥德赛1",
+        "uid": "100807"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t存64之类的视频应该还是会屏蔽的，我没试过，也不建议试。国内国安部门监控各大网盘，有人存了敏感视频被喝茶的。不知道夸克有没有。\t\t</div>",
+      "date": "2023-01-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

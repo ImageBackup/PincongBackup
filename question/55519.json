@@ -1,0 +1,47 @@
+{
+  "question_id": "55519",
+  "category_id": "8",
+  "title": "怎么查看某个用户是否有管理权限？",
+  "meta_description": "怎么查看某个用户是否有管理权限？ - ",
+  "meta_keywords": "查看,用户,是否,管理,权限",
+  "tags": [
+    {
+      "id": "153",
+      "name": "品葱"
+    },
+    {
+      "id": "2553",
+      "name": "管理员"
+    }
+  ],
+  "author": {
+    "username": "墙国壬民",
+    "uid": "84766"
+  },
+  "view_count": 1003,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2023-01-24",
+  "agree_count": 0,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1032011",
+      "replier": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "date": "2023-01-24",
+      "content": "128聲望"
+    },
+    {
+      "id": "1032012",
+      "replier": {
+        "username": "墙国壬民",
+        "uid": "84766"
+      },
+      "date": "2023-01-25",
+      "content": "@admin:谢谢"
+    }
+  ],
+  "answer_count": 1
+}

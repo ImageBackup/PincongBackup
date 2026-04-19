@@ -1,0 +1,274 @@
+{
+  "parent_type": "question",
+  "parent_id": "55970",
+  "answer_count": 14,
+  "answers": [
+    {
+      "id": "629697",
+      "is_folded": false,
+      "answerer": {
+        "username": "UAV",
+        "uid": "32217"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个我还是比较有发言权的。我以前在跟盾构机密切相关的某重点实验室呆过很久。盾构机的核心部件是液压系统。2005年以前各种液压元器件基本都是欧美特别是德国垄断，然后我们那个实验室大部分教授的套路就是买来德国的阀、泵、液压缸之类的设备，拆到几乎原子级别，仔细研究里面的结构和设计，然后仿制，灌了一些文章以后就在当地注册各种公司生产这些液压设备。至于控制系统就更别提了，直接弄个加前馈补偿的pid控制器性能也没差多少。最后生产的这些东西总体性能虽然不如德国的，但还是凑合能用，而由于中国的低人权优势，卖的价格只有德国卖的五分之一以下。再加上中国近20年来工程建筑需求太大，一下子就占领了市场。<br/>\n<br/>\n在我看来，机械系统的设计和控制器算法是最容易“弯道超车”的。前者不像软件一样可以加密，直接拆了反求工程就行。而后者更是论文满天飞，各种天花乱坠的控制器效果并不比pid的变种强多少。而在涉及到“配方”的材料工艺、生物制药、食品工程方面，中国落后世界先进水平就太多了，因为配方和工艺都是保密的，没法反求，除非直接偷（这也是为什么中国做梦都想让美国疫苗公司技术转让）。至于软件AI这些，本来应该是最不容易被超车的，可谁让美国大搞开源呢。\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 37,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1153093",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-02-10",
+          "content": "开源不是美国搞得，而是程序员界人员自发搞得，让全世界人共同获益。只是。。。中国人嘛，那不要脸无耻的劲，是全世界独一份。"
+        },
+        {
+          "id": "1153128",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-02-10",
+          "content": "@exlifeisexlife:我说的美国搞的意思就是美国科技界的程序员搞的，这些人主要在美国或起码像中本聪一样在美国的论坛上。开源的好处是能让全世界人迅速发展这项技术，坏处就是让中国人这种能够迅速抄到东西发展技术然后与全世界为敌。就好像富翁施舍免费的饭菜，既方便了真正的穷人，又会有人恬不知耻的来大量蹭饭"
+        },
+        {
+          "id": "1153146",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-02-10",
+          "content": "@UAV:开源其实本质是欧美大公司公司为了省成本，并不是简单的程序员的共产主义，事实上很多开源软件都是收费的"
+        }
+      ]
+    },
+    {
+      "id": "629688",
+      "is_folded": false,
+      "answerer": {
+        "username": "德玛西亚Lok_tar",
+        "uid": "22968"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t首先，大多数发达（发展完成）国家对挖隧道需求已经很小，现有技术已经够用，没必要研发了。属于车已经停在那里了，要是有人愿意花钱追，被赶上只是个时间问题。<br/>\n这里用的是被赶上，不是超越，因为可以预料刀就算号称8~9成的国产化率，缺了那1~2成的进口货，就啥也弄不出来了。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 12,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1153081",
+          "replier": {
+            "username": "宇宙之外",
+            "uid": "105018"
+          },
+          "date": "2023-02-09",
+          "content": "对啊，但盾构机技术含金量应该很强，为什么这就能追上呢？同样的对例子可以用在芯片上吗"
+        },
+        {
+          "id": "1153106",
+          "replier": {
+            "username": "德玛西亚Lok_tar",
+            "uid": "22968"
+          },
+          "date": "2023-02-10",
+          "content": "@宇宙之外:盾构机技术含量和芯片比差远了，一个光刻机几乎覆盖了所有的科学领域。盾构机是个大型机械，就像楼上说的，拆开了结构清清楚楚，就可仿造。光刻机里就拿光学镜头来说，拆出来了，也生产不出这么高精度的。盾构机里涉及到材料科学和冶金技术的高强度刀头之类的，也搞不出来了，就只能进口。或者用国产的勤换，也是一种瓦房店方式。"
+        }
+      ]
+    },
+    {
+      "id": "629815",
+      "is_folded": false,
+      "answerer": {
+        "username": "安德鲁",
+        "uid": "107873"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t先问是不是，再问为什么。<br/>\n<br/>\n中国并没有在工程机械领域超车，所谓的超车只是通过相对低廉的人力物力成本占据绝大部分市场份额。你要硬说赢麻了我无话可说。简单来说，中国的工程机械与西方仍有一定差距，但是架不住中国的售价低服务好啊，实际上中国的民用机械设备也与西方有一定差距。比方说三一重工怎么成功的，就是靠售后人员修得快啊，只要中国的工程师修得快，那些不容易的坏但昂贵的西方设备就丧失竞争力了，而且西方人没有中国人勤奋，质量再好的工程机械也不可避免会坏的，西方人要人权修起来要几天，中国工程师加班加点不会耽误你工期。甲方肯定愿意买中国的设备啊。这就是为啥，无论是盾构机还是消费电子（比如说联想电脑），中国企业都能占据市场主要地位。这就是为啥中国是世界工厂。\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629690",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很多过时的技术，中国都是领先的<br/>\n比如CRT大脑袋显示器<br/>\n比如燃煤发电机组<br/>\n😸😸😸😸\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 8,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1153103",
+          "replier": {
+            "username": "zhl20081883",
+            "uid": "101871"
+          },
+          "date": "2023-02-10",
+          "content": "中国现在都没吃透美国 60 年代的超超临界机组。。"
+        },
+        {
+          "id": "1153126",
+          "replier": {
+            "username": "绝不换肩",
+            "uid": "50844"
+          },
+          "date": "2023-02-10",
+          "content": "@zhl20081883:只是材料问题。P91 T91过热段，再热段管道。如果你说的是这个。"
+        }
+      ]
+    },
+    {
+      "id": "629689",
+      "is_folded": false,
+      "answerer": {
+        "username": "维尼熊两百斤",
+        "uid": "22948"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t超车个毛，里面的核心零部件都是外国的，就像C919，发动机、航电系统、液压控制系统都是外国的。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629724",
+      "is_folded": false,
+      "answerer": {
+        "username": "rockroll",
+        "uid": "103904"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就像奥运会一样，中国只能在一些外国的人不玩的项目里砸钱搞几个优势项目，足球篮球网球老外也在砸钱中国就玩不转。<br/>\n盾构机是因为外国没那么多基建了，没有市场就没有投入，也就没发展才能被超车\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629683",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t瓦房店级航母和福特级航母都是航母，他俩能一样吗\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 7,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1153072",
+          "replier": {
+            "username": "宇宙之外",
+            "uid": "105018"
+          },
+          "date": "2023-02-09",
+          "content": "中国的盾构机已经市场占有率第一了啊"
+        },
+        {
+          "id": "1153079",
+          "replier": {
+            "username": "白衣黑旗除共军",
+            "uid": "103874"
+          },
+          "date": "2023-02-09",
+          "content": "@宇宙之外:五菱宏光也能碰瓷保时捷了"
+        }
+      ]
+    },
+    {
+      "id": "629777",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t和许多东西一样 靠中宣部<br/>\n<br/>\n<a href=\"https://pincong.rocks/question/30448\" title=\"https://pincong.rocks/question/30448\">党国引以为傲的物件系列</a> </div>",
+      "date": "2023-02-10",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629788",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tc919国产大飞机哦<br/>\n<br/>\n国产大飞机<br/>\n<br/>\n国产大飞<br/>\n<br/>\n国产大飞<br/>\n<br/>\n国产大<br/>\n<br/>\n其实这几个字 只有一点是国产\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629713",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这种傻大黑粗暴力的机械，超车只能说明科技含量有限，这样才容易被中国给山寨。有点科技含量的，人家不给你，你就是想山寨也造不出来，差距太大了。比如医疗器械，医疗用的人工材料啥的，基本都得依赖进口吧。就算有国产，老百姓也知道你那玩意不靠谱，没人用你国产。\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629822",
+      "is_folded": false,
+      "answerer": {
+        "username": "原天下為公",
+        "uid": "81355"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t所謂超車只是以廉價爭取世界市場佔有率，其核心技術和零件，都是買外國的回來拆散，再照煲煮碗重組，就變成中國自主研發了，很可惜的是，晶片不能這樣做\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646215",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在科技领域，自古以来就没有弯道超车，只有弯道翻车\t\t</div>",
+      "date": "2023-04-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646236",
+      "is_folded": false,
+      "answerer": {
+        "username": "Newboy",
+        "uid": "12842"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这不和联想小米一样么，拼拼凑凑就说是自己的\t\t</div>",
+      "date": "2023-04-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646248",
+      "is_folded": false,
+      "answerer": {
+        "username": "卡萨布兰卡",
+        "uid": "55429"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没什么技术含量啊，中国在东莞性产业也弯道超车呢，比国外服务好。\t\t</div>",
+      "date": "2023-04-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

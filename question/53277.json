@@ -1,0 +1,47 @@
+{
+  "question_id": "53277",
+  "category_id": "22",
+  "title": "在抗议时遭遇现场断网怎么办？",
+  "meta_description": "在抗议时遭遇现场断网怎么办？ - 断网是指物理断网，比如基站断电，数据中心拔网线，墙无限加高。 此时现场冲塔的抗议者需要及时把照片、录像、和最后的求救信号发出来（分享出来），有没有办法？  这里抛砖引玉介绍三种软件有可能在共匪们断网准备大屠杀时保存一些现场资料出来，自己没有实地测试过，请大...",
+  "meta_keywords": "抗议,遭遇,现场,断网",
+  "tags": [
+    {
+      "id": "3412",
+      "name": "通讯工具"
+    },
+    {
+      "id": "103300",
+      "name": "抗争者"
+    }
+  ],
+  "author": {
+    "username": "hkfool",
+    "uid": "25982"
+  },
+  "view_count": 5442,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t断网是指物理断网，比如基站断电，数据中心拔网线，墙无限加高。<br/>\n此时现场冲塔的抗议者需要及时把照片、录像、和最后的求救信号发出来（分享出来），有没有办法？<br/>\n<br/>\n这里抛砖引玉介绍三种软件有可能在共匪们断网准备大屠杀时保存一些现场资料出来，自己没有实地测试过，请大家评论补充：<br/>\n<br/>\n<ul><li>Firechat - 由开放花园公司开发。它能使智能手机在没有互联网连接时，经由蓝牙、Wi-Fi或苹果公司的多点连线（Multipeer Connectivity）形成无线网状网络的连线。尽管并非其设计目的，该应用已多次被民间抗议活动用作交流工具。 FireChat现已停止维护。官方网址已经显示为404错误页面，而且应用程序自2018年以来一直没有更新。</li></ul><br/>\n<br/>\n<ul><li>mobile ad hoc network，缩写为MANET，或英语：mobile mesh network），又译为行动随意网路、移动临时网络，它是一种以移动设备，通过无线链接，自我配置所形成的网络，属于无线随意网络的一种。 在MANET之中的每个移动设备都可以自由移动，随时改变无线链接。每个移动设备节点都必须协助转发网络数据包，即使这个数据包是跟这个设备无关的。</li></ul><br/>\n<br/>\n<ul><li>Smartphone ad hoc networks (SPANs; also smart phone ad hoc networks) are wireless ad hoc networks that use smartphones. Once embedded with ad hoc networking technology, a group of smartphones in close proximity can together create an ad hoc network. Smart phone ad hoc networks use the existing hardware (primarily Bluetooth and Wi-Fi) in commercially available smartphones to create peer-to-peer networks without relying on cellular carrier networks, wireless access points, or traditional network infrastructure.  -- 人们在香港、伊拉克、俄罗斯、伊朗都用过 SPAN 技术。</li></ul><br/>\n<br/>\n<br/>\n如果在战斗现场发现手机 WIFI 都不好用了，这可能是共匪带来了电子战设备，此时只有蓝牙近距离分享文件了，最后的方法是把资料拷入 SD 卡，托人带出来。<br/>\n<br/>\n祝勇士们武运昌隆！\t\t\t\t\t\t\t</div>",
+  "date": "2022-11-27",
+  "agree_count": 15,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1027163",
+      "replier": {
+        "username": "總加速濕",
+        "uid": "73156"
+      },
+      "date": "2022-11-27",
+      "content": "苹果airdrop、 蓝牙互联社交bridgefy"
+    },
+    {
+      "id": "1027166",
+      "replier": {
+        "username": "hkfool",
+        "uid": "25982"
+      },
+      "date": "2022-11-27",
+      "content": "@總加速濕:  这个 APP 同样可以在 google play 直接安装， 墙内的朋友可能无法直接安装。 墙外朋友们请先试验。"
+    }
+  ],
+  "answer_count": 6
+}

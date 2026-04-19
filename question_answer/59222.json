@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "59222",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "663787",
+      "is_folded": false,
+      "answerer": {
+        "username": "季芹",
+        "uid": "111976"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我可以提供这群人的日常活动信息，不是钓鱼贴！\t\t</div>",
+      "date": "2023-06-19",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1185260",
+          "replier": {
+            "username": "季芹",
+            "uid": "111976"
+          },
+          "date": "2023-06-19",
+          "content": "我可以提供关于这伙人的一切信息，包括一些他们的公开的社交媒体账号（它们用来钓鱼的）"
+        }
+      ]
+    }
+  ]
+}

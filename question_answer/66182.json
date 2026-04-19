@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "66182",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "736699",
+      "is_folded": false,
+      "answerer": {
+        "username": "Citoyen",
+        "uid": "125726"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t把毛腊肉剁碎塞到习包子肚子里做成腊肉馅包子\t\t</div>",
+      "date": "2024-03-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "736701",
+      "is_folded": false,
+      "answerer": {
+        "username": "okamiyu",
+        "uid": "81756"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t等什么时候天安门上面挂的不是腊肉而是包子的时候，那估计就稳了。\t\t</div>",
+      "date": "2024-03-27",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1253370",
+          "replier": {
+            "username": "维尼包子",
+            "uid": "95045"
+          },
+          "date": "2024-03-27",
+          "content": "😆"
+        }
+      ]
+    },
+    {
+      "id": "736704",
+      "is_folded": false,
+      "answerer": {
+        "username": "苍天有井",
+        "uid": "101638"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t新生意：习近平纪念堂门口摆摊卖臭鸡蛋、烂番茄是吧？\t\t</div>",
+      "date": "2024-03-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

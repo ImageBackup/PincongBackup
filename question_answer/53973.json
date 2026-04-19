@@ -1,0 +1,98 @@
+{
+  "parent_type": "question",
+  "parent_id": "53973",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "607573",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 正常來説如今會256位或以上的哈希散列值加鹽, 但大陸站點明文存儲的也不少. 有國安法安全指望不上. 要個人隱私安全共匪國就不安全, 要共匪國安全私人在網上就得實名裸奔.\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607818",
+      "is_folded": false,
+      "answerer": {
+        "username": "Please168168",
+        "uid": "90728"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你口中的他们是谁？网站拥有者，骇客，还是政府监管部门。他们不一定知道，但是有技术可以破解。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607819",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果不储存密码 社工库里那些密码怎么泄露出来的 那些反而都比较像网站密码\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607572",
+      "is_folded": false,
+      "answerer": {
+        "username": "xjpslm",
+        "uid": "98214"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前我在mohu也发过这种话题，我当时问密码改成xjpnmsl会不会被发现。然后我突然想起来这个号的密码我已经忘了，所以该如何跟管理员说找回密码啊…\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607859",
+      "is_folded": false,
+      "answerer": {
+        "username": "antipc",
+        "uid": "103111"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t陆港澳网站、国外网站、可疑网站一定要做到身份完全隔离，包括不限于用户名昵称注册邮箱密码。<br/>\n另外不要国内用abc@163.com，国外用abc@gmail.com，这种一猜就是一个人的邮箱\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607860",
+      "is_folded": false,
+      "answerer": {
+        "username": "民主中國萬歲",
+        "uid": "98898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://cybernews.com/security/unsecured-chinese-companies-leak-users-sensitive-personal-and-business-data/<br/>\n<br/>\n请参考此次中国公司涉及2亿多人的数据泄露，包括了用户的密码。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607866",
+      "is_folded": false,
+      "answerer": {
+        "username": "Shalllearning",
+        "uid": "44368"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t网站要收集密码的话肯定能收集到。所以最好是用HTTPS 访问网站。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

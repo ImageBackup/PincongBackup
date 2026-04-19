@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "59152",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "663426",
+      "is_folded": false,
+      "answerer": {
+        "username": "屑大大突开沼气池",
+        "uid": "111498"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t腊肉两个字足够让腊粉破防了 甚至不需要细说腊肉干过的破事\t\t</div>",
+      "date": "2023-06-17",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663099",
+      "is_folded": true,
+      "answerer": {
+        "username": "击溃共匪",
+        "uid": "111201"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-06-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "question_id": "52510",
+  "category_id": "6",
+  "title": "為什麼2022年，互聯網上各大網站廣告變多了？",
+  "meta_description": "為什麼2022年，互聯網上各大網站廣告變多了？ - 為什麼2022年，互聯網上各大網站廣告變多了？  不是變多一點，是很多。 也是是某個網站，是大多數網站。  ＝＝＝＝ 順便分享兩個優化體驗的瀏覽器插件：  　[b]adb:[/b] 　https://addons.mozilla.org/en-US/fir...",
+  "meta_keywords": "為什,2022年,互聯,各大,網站,廣告",
+  "tags": [
+    {
+      "id": "102583",
+      "name": "互聯網"
+    }
+  ],
+  "author": {
+    "username": "han_chinese",
+    "uid": "33968"
+  },
+  "view_count": 1649,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t為什麼2022年，互聯網上各大網站廣告變多了？<br/>\n<br/>\n不是變多一點，是很多。<br/>\n也是是某個網站，是大多數網站。<br/>\n<br/>\n＝＝＝＝<br/>\n順便分享兩個優化體驗的瀏覽器插件：<br/>\n<br/>\n　<b>adb:</b><br/>\n　https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/<br/>\n    功能：<br/>\n　&gt; 防個人隠私追踪。　adb允許插入到網站中的廣告識別追踪用戶是什麼樣的用戶，但會屏蔽掉廣告商識別追踪用戶是誰。<br/>\n　&gt; 移除不可接受的廣告。　adb允許在內容中掉入廣告，但如果網站若把內容藏在廣告中，adb會屏蔽掉部分廣告，讓網站內容清𥇦可見。<br/>\n<br/>\n　<b>Disable JavaScript：</b><br/>\n　https://addons.mozilla.org/en-US/firefox/addon/disable-javascript/<br/>\n　功能：<br/>\n    &gt; 一鍵開關當前瀏覽網站的JS功能。 如果網站有彈窗類的強制廣告墙，可以關掉當前網站的JS。沒有JS，網站就不會有任何造踪用戶的功能，也沒有了要追踪用戶方能顯示的廣告。　絕大多數網站，禁用掉JS，不會影響用戶觀看網站內容。因為如果禁用掉JS，用戶就看不到內容，SEO會歸零，網站流量也會趋零。\t\t\t\t\t\t\t</div>",
+  "date": "2022-11-10",
+  "agree_count": 1,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 2
+}

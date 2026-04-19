@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "60763",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "678772",
+      "is_folded": false,
+      "answerer": {
+        "username": "人生只需七次倍投",
+        "uid": "114779"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也想枪毙习猪头，有这样的游戏我也玩，但是不知道。\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678815",
+      "is_folded": false,
+      "answerer": {
+        "username": "dignity",
+        "uid": "50466"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好创意啊！有这样的游戏我愿意付费去玩！<br/>\n<br/>\n比打僵尸有趣太多了。然后每天打死包子若干次，可以解压，有益身心健康。\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

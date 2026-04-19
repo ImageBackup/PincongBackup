@@ -1,0 +1,101 @@
+{
+  "parent_type": "question",
+  "parent_id": "63933",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "712592",
+      "is_folded": false,
+      "answerer": {
+        "username": "shijiaqing",
+        "uid": "80186"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t宋徽宗和南唐后主也很好。他们的艺术功底远强于唐玄宗，而且可以说，他们除了不会当皇帝以外，没有什么缺点\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1232276",
+          "replier": {
+            "username": "陳家梁子",
+            "uid": "74631"
+          },
+          "date": "2023-12-13",
+          "content": "这俩个在诗词绘画方面在行，但于音乐歌舞就不灵了"
+        }
+      ]
+    },
+    {
+      "id": "712591",
+      "is_folded": false,
+      "answerer": {
+        "username": "贪狼",
+        "uid": "45453"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t皇帝要唱给谁听，跳给谁看呢？<br/>\n<br/>\n以前都不能正视天子吧？\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1232270",
+          "replier": {
+            "username": "陳家梁子",
+            "uid": "74631"
+          },
+          "date": "2023-12-13",
+          "content": "自娱自乐"
+        },
+        {
+          "id": "1232375",
+          "replier": {
+            "username": "好嗨冻",
+            "uid": "113220"
+          },
+          "date": "2023-12-14",
+          "content": "神"
+        }
+      ]
+    },
+    {
+      "id": "712594",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我估计子受辛也能舞那么几下。<br/>\n<br/>\n字数不多的话就算了吧我也不知道求求求\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712753",
+      "is_folded": false,
+      "answerer": {
+        "username": "我不是机器",
+        "uid": "91113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t歐洲也沒有哪個國王女王會想不開去當戲子好吧，直接斷頭台上去。\t\t</div>",
+      "date": "2023-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712622",
+      "is_folded": true,
+      "answerer": {
+        "username": "cvc543",
+        "uid": "120292"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

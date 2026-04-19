@@ -1,0 +1,26 @@
+{
+  "article_id": "62644",
+  "category_id": "6",
+  "title": "Windows 95和Windows NT3.51曾被工信部指责有台独行为，被勒令整改。",
+  "meta_description": "Windows 95和Windows NT3.51曾被工信部指责有台独行为，被勒令整改。 - 1996年3月15日，微软于北京香格里拉大饭店正式发布Windows 95简体中文版。但由于微软在简体中文版Windows 95 RTM和OSR1中内置了使用简体中文输入法接口的[b]繁体注音输入法[/b]和[b]繁体仓颉输入法[/b]，被电子工业部认定为...",
+  "meta_keywords": "windows,95,nt3.51,曾被,工信部,指责,台独,行为,勒令,整改",
+  "tags": [
+    {
+      "id": "100293",
+      "name": "windows"
+    },
+    {
+      "id": "100444",
+      "name": "工信部"
+    }
+  ],
+  "author": {
+    "username": "Tymosa",
+    "uid": "115186"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t1996年3月15日，微软于北京香格里拉大饭店正式发布Windows 95简体中文版。但由于微软在简体中文版Windows 95 RTM和OSR1中内置了使用简体中文输入法接口的<b>繁体注音输入法</b>和<b>繁体仓颉输入法</b>，被电子工业部认定为存在质量问题，并责成微软进行服务更新。微软于1996年9月起免费向简体中文版Windows 95用户推出产品服务更新软盘，并要求用户在收到该软盘后按照包装中的说明立即进行安装，以便于将繁体注音输入法、繁体仓颉输入法及其词库从简体中文版Windows 95中删除，Windows 95的其他功能不会因此受到任何影响。此外，微软还根据电子工业部的通知要求，于1996年10月底起向合法用户免费提供<b>不含</b>繁体输入法的新版简体中文版Windows 95光盘，并停止向新用户和OEM制造商发放旧版（未和谐版本）光盘。针对上述两种繁体输入法的更改亦被应用于简体中文版Windows NT 3.51，因为Windows NT3.51最初的CHS版也内置有这两个输入法，而对于上述两种繁体输入法被删除的原因，有分析称或许与输入法词库中含有<b>政治敏感词</b>有关。<br/>\n<br/>\r\n这件事之前在贴吧看到的<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvYTk5ODI1MjRhN2JiOWQ4MGVkNjc1LmpwZz93aWR0aD03MjAmaGVpZ2h0PTEwNTA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/a9982524a7bb9d80ed675.jpg?width=720&amp;height=1050\"><img alt=\"https://telegra.ph/file/a9982524a7bb9d80ed675.jpg?width=720&amp;height=1050\" loading=\"lazy\" src=\"https://telegra.ph/file/a9982524a7bb9d80ed675.jpg?width=720&amp;height=1050\" style=\"max-width:100%\"/></a><br/>\r\n我在Winworldpc这个网站上发现有个Windows 95的ISO镜像，不过不确定是不是未和谐版本。<br/>\n<br/>\r\n按照流传的说法是用系统自带的两个繁体输入法打“台”这个字，注意不是繁体的这个“臺”字，注音要打这个字对应键盘上的W96这三个键，然后仔细看输入法候选词部分，经他们测试候选词中确实有“台独”这个词，这可能就是当时被勒令整改的原因，因为当时台湾和中国的关系也很紧张，台海危机事件嘛（PS：以下图片来自贴吧网友展示）<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvODllNGRlNjc1MTgzMjY4ZTYzNDk4LmpwZz93aWR0aD02NDEmaGVpZ2h0PTQ3OQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/89e4de675183268e63498.jpg?width=641&amp;height=479\"><img alt=\"https://telegra.ph/file/89e4de675183268e63498.jpg?width=641&amp;height=479\" loading=\"lazy\" src=\"https://telegra.ph/file/89e4de675183268e63498.jpg?width=641&amp;height=479\" style=\"max-width:100%\"/></a><br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvMjQ4MTQ2ZGNlMGRmOTM0YTM1M2E1LmpwZz93aWR0aD02NDEmaGVpZ2h0PTQ3OQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/248146dce0df934a353a5.jpg?width=641&amp;height=479\"><img alt=\"https://telegra.ph/file/248146dce0df934a353a5.jpg?width=641&amp;height=479\" loading=\"lazy\" src=\"https://telegra.ph/file/248146dce0df934a353a5.jpg?width=641&amp;height=479\" style=\"max-width:100%\"/></a><br/>\r\n维基百科的一组词条也说了这个：2017年8月，有中国大陆网民对繁体仓颉输入法的码表文件进行了反向编译，并在其中发现了“三民主义统一中国”这一词组；2020年8月，中国大陆网民赵凯对繁体注音输入法和繁体仓颉输入法进行了实际输入测试，结果发现在输入“台”字后的词语联想列表中出现了“台独”这一词组（输入“臺”则不会出现），从而印证了该说法。<br/>\n<br/>\r\n顺便再说一下那个吧友提到在TW NT5-6.3的繁体输入法有“中华民国”这个词，因为贴吧敏感原因，那张图他没展示。那个输入法的码表确实是台方给的，码表给了中易。据他说输入“三”之后，候选词还会出现蒋经国时期对陆的八字方针：三民主义统一中国。不光是输入法词库有“台独”这个词，除此之外据他们讲还有这些：彳ˋㄈㄟˇ和ㄍㄨㄥˋㄈㄟˇ，注音符号我看不懂，台湾的朋友可以说一下这些注音符号打出来是些什么词。\t\t\t\t\t\t\t</div>",
+  "view_count": 2830,
+  "date": "2023-08-17",
+  "agree_count": 4,
+  "comment_count": 8
+}

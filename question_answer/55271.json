@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "55271",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "621894",
+      "is_folded": false,
+      "answerer": {
+        "username": "郭文贵在此",
+        "uid": "103760"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我是献忠和近平谁更牛的贴猪<br/>\n以后咱们可以联手办个献忠  忠贤  包子春节联欢晚会\t\t</div>",
+      "date": "2023-01-17",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1145985",
+          "replier": {
+            "username": "杜美霜代表",
+            "uid": "99975"
+          },
+          "date": "2023-01-17",
+          "content": "开局还是要大致相似，包帝要是张献忠的开局早就不知道死在哪了"
+        },
+        {
+          "id": "1146313",
+          "replier": {
+            "username": "杜美霜代表",
+            "uid": "99975"
+          },
+          "date": "2023-01-18",
+          "content": "."
+        }
+      ]
+    }
+  ]
+}

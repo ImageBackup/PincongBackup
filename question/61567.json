@@ -1,0 +1,34 @@
+{
+  "question_id": "61567",
+  "category_id": "8",
+  "title": "请问品葱为什么没有投票功能？",
+  "meta_description": "请问品葱为什么没有投票功能？ - 是考虑到投票功能并不适合品葱，还是因为当初建立的时候就没想到这个功能与板块。问到答案之后我就把帖子删除，如果觉得此帖子没有价值浪费您的时间，在此说声抱歉。",
+  "meta_keywords": "请问,品葱,投票,功能",
+  "tags": [
+    {
+      "id": "106098",
+      "name": "poll"
+    }
+  ],
+  "author": {
+    "username": "dodo",
+    "uid": "112815"
+  },
+  "view_count": 258,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t是考虑到投票功能并不适合品葱，还是因为当初建立的时候就没想到这个功能与板块。问到答案之后我就把帖子删除，如果觉得此帖子没有价值浪费您的时间，在此说声抱歉。\t\t\t\t\t\t\t</div>",
+  "date": "2023-09-07",
+  "agree_count": 2,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1046515",
+      "replier": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "date": "2023-09-07",
+      "content": "附议，品葱应增加投票功能在每个单独的帖子"
+    }
+  ],
+  "answer_count": 0
+}

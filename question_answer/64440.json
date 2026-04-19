@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "64440",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "718349",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t安装后，把协议选项改为TLS，因为UDP方式已经被墙针对了\t\t</div>",
+      "date": "2024-01-07",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1237164",
+          "replier": {
+            "username": "freedomwind",
+            "uid": "120412"
+          },
+          "date": "2024-01-07",
+          "content": "多谢"
+        },
+        {
+          "id": "1237166",
+          "replier": {
+            "username": "freedomwind",
+            "uid": "120412"
+          },
+          "date": "2024-01-07",
+          "content": "魔高一尺，道高一丈，未来对付不断升级的GFW的办法会更好的"
+        }
+      ]
+    },
+    {
+      "id": "718394",
+      "is_folded": false,
+      "answerer": {
+        "username": "我不發言",
+        "uid": "81318"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t充值迷雾通时，一定把默认连续订阅的勾去掉，一旦订阅，就无法取消，非常恶心。<br/>\n<br/>\n发过邮件要求取消，从没有人回复过。\t\t</div>",
+      "date": "2024-01-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

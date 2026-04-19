@@ -1,0 +1,372 @@
+{
+  "parent_type": "question",
+  "parent_id": "58135",
+  "answer_count": 13,
+  "answers": [
+    {
+      "id": "653412",
+      "is_folded": false,
+      "answerer": {
+        "username": "願榮光重歸香港",
+        "uid": "73805"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t“一般情况认为砸一点点是没影响的”<br/>\n<br/>\n這句真是支性濃厚。主力牆砸不得根本是常識，沒人會瘋到把它砸掉。某共國人就是喜歡“一點點沒有問題 / 沒有所謂”這些屁話。要是這樣，給你吃一點點大便也沒問題吧？<br/>\n<br/>\n這種差不多先生的性格注定某共社會與人民不能培養科學研究的精神。處事馬虎也正是專業精神的天敵。大和民族的職人魂以及匠人精神，在某國只是天荒夜譚而已。<br/>\n<br/>\n<br/>\n＊後續：<br/>\n被人家說中了，就屢次摺疊，笑死。若這回應是你口中的“垃圾言論”，我都不怕人家看我多垃圾了，那你怕什麼？沒問題呀，人家不同意我說的，可以點踩，可以反駁，我落落大方。不似某些人，回應不了就摺疊。好醜喔，惱羞成怒了嗎？<br/>\n<br/>\n再重申一次：<br/>\n這帖子，真演活了什麼叫支性濃厚，而且越來越濃。\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 29,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1175749",
+          "replier": {
+            "username": "李老师的supervisor",
+            "uid": "50992"
+          },
+          "date": "2023-05-08",
+          "content": "我问的是砸了一面 整个楼看着就快塌了 这是不是楼本身设计也有问题\n看好问题问的是什么 重点都看不懂就别在这一通情绪输出 承重墙不该砸还用你说么？你的回答就是典型的垃圾回答 折叠了"
+        },
+        {
+          "id": "1175795",
+          "replier": {
+            "username": "RapidFire",
+            "uid": "16318"
+          },
+          "date": "2023-05-08",
+          "content": "樓主說的在一般情況下是正確描述\n一般工程項目的設計都會有足夠的余餘（redundancy）以及故障保險 (fail-safe)\n土木工程一般也會設計到可承載超過一定數值的預期負載\n承重牆也不會設計到只有一幅/一幅出問題也可以在其餘牆分擔\n可是余餘跟故障保險\n在中國人眼中就是偷工減料的空間\n是壓榨金錢與時間成本的彎道超車\n也是層主說的 “一點點沒有問題 / 沒有所謂” 的文化造成的敗壞表癥\n設計圖在畫的時候 管理層想承重牆不用畫太多 偷一點點余餘沒有問題\n建的時候  建筑商想規格不用跟足設計 偷一點點余餘沒有問題\n供貨的時候  材料供应商想用料不用真材實料 偷一點點余餘沒有問題\n裝潢的時候 戶主想承重牆不用全留 偷一點點余餘沒有問題\n結果就是所有余餘都被偷空了 拆一面牆馬上要倒 震一下就要塌"
+        },
+        {
+          "id": "1175799",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-05-08",
+          "content": "@RapidFire:一看你就没在中国设计院呆过。土木工程师没有任何理由考虑偷工减料，他们的名字要写上设计图，出问题要进监狱的。因为知道施工会偷工减料，反而设计时会加大冗余。这也是楼主说很多承重墙砸了之后看似没事的原因。\n当然楼主被人批评就折叠是不对的，他应该多了解一下结构设计相关的东西再发问。"
+        }
+      ]
+    },
+    {
+      "id": "653405",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这就好比一般认为中国病毒习逼逼变种是死不了人的，但是偏偏有人得了之后就死在习逼逼手上。<br/>\n<br/>\n什么框架结构什么剪力墙是定性的，具体某一面墙，除非你拿设计图做有限元分析，模拟一下拿掉这面墙之后的受力情况，做定量分析，那才能开砸。人家告诉你是承重墙，就是说他在设计的时候不是为了景观，而是受力的一部分，设计冗余当然是有，但从来也没说不懂有限元的包工头砸了九面墙没事，砸第十面墙就一定也没事。<br/>\n<br/>\n不要求每个人都懂一点土木工程，但起码的常识还是要有的吧😄\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 27,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1177518",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-05-15",
+          "content": "这背后都是数学啊。"
+        }
+      ]
+    },
+    {
+      "id": "653531",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看了评论和折叠，你真的有意思，符合自己的就聊，和自己意见相左就折叠，这样没什么好讨论的了。<br/>\n承重墙，这东西设计的时候就是承载的意思，为何不是所有的墙都是承重墙，或者没有承重墙又能怎么样，你怎么不这样考虑问题？<br/>\n先不说拆了一面承重墙，楼塌了的问题，新闻说的是裂开，不是塌了，到你这成了塌了。\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 15,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1175769",
+          "replier": {
+            "username": "李老师的supervisor",
+            "uid": "50992"
+          },
+          "date": "2023-05-08",
+          "content": "你这人什么理解能力？理解技能点都加在扣帽子上了是吧？我折叠的那叫“意见相左”的？\n我一共折叠了三条，都是阴阳怪气有主观恶意的情绪输出，根本连“回答”都算不上，哪来的“意见”还“相左”？要不我请你概括下他们发表什么意见，观点是什么可以吗？\n【学习月巴月半：那你多砸牆阿🤣🤣🤣挺好的】\n【水浅茶清：你是不是对剪力墙有什么误会？】\n来，我给你复制过来，请你概括下他们俩是什么“意见”？哪里跟我“相左”？\n特别说一下这个【願榮光重歸香港】。\n这人的回答他自己修改过，之前不只是毫不相关的低质量回答，里面还有人身攻击所以我折叠了。\n我问砸了一面墙楼就“快塌了”是不是本身设计也有问题，他在这没完没了批判起支性了，又说什么承重墙不该砸，这些用他说吗？而且我问的是承重墙该不该砸？还是我说自己支持砸承重墙了？都什么脑子一个个的。😅"
+        },
+        {
+          "id": "1175770",
+          "replier": {
+            "username": "願榮光重歸香港",
+            "uid": "73805"
+          },
+          "date": "2023-05-08",
+          "content": "在品蔥也很少見到那些沒氣量的樓主，不合聽的就摺疊，很棒棒。\n還有，那支性樓主說什麼我修改過內容。笑死。後續部分的我第二次取消摺疊才加上去的，而我請他吃一點點的大便一開始就有，由始至終都沒有修改過。但而今我倒反想修改了：請他吃一點點不行，應該請他吃一大坨。"
+        },
+        {
+          "id": "1175800",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-05-08",
+          "content": "@願榮光重歸香港:哈哈哈你们两个都够了吃大便会死人的。"
+        },
+        {
+          "id": "1175803",
+          "replier": {
+            "username": "願榮光重歸香港",
+            "uid": "73805"
+          },
+          "date": "2023-05-08",
+          "content": "@李瑞环:不會啦！吃一點點應該不會的！支性大便樓主說一點點沒問題的嘛！無問題無問題！"
+        },
+        {
+          "id": "1177499",
+          "replier": {
+            "username": "李老师的supervisor",
+            "uid": "50992"
+          },
+          "date": "2023-05-15",
+          "content": "@願榮光重歸香港:拉倒吧你快 折叠你为什么没点数？最烦这种情绪输出的的答案 问什么答什么 说些没用的就算了 还人身攻击不折叠你折叠谁？"
+        },
+        {
+          "id": "1177592",
+          "replier": {
+            "username": "願榮光重歸香港",
+            "uid": "73805"
+          },
+          "date": "2023-05-15",
+          "content": "@StrengthOf:笑死了，還在跳腳，就像小學生一樣。習近平是你老相好吧？哈。"
+        }
+      ]
+    },
+    {
+      "id": "653389",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t越狱里面，建筑设计师麦克，用一个改锥还是什么小工具就破了监狱整个混凝土墙的结构。<br/>\n不能说米国的监狱也是豆腐渣吧。<br/>\n<br/>\n这个要结构设计师来分析。<br/>\n虚功，应力什么的。<br/>\n<br/>\n没把整个楼瞬间弄塌了。已经是万幸了。<br/>\n😹😹😹\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 7,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1175616",
+          "replier": {
+            "username": "假行僧",
+            "uid": "41163"
+          },
+          "date": "2023-05-07",
+          "content": "可是那一段剧情是钻完孔后还拿大锤砸了好几下，最后也只是砸出了个大洞用于逃跑，并没有整个垮塌，感觉这个楼设计的余量确实有问题（也可能施工偷工减料了）"
+        },
+        {
+          "id": "1175617",
+          "replier": {
+            "username": "假行僧",
+            "uid": "41163"
+          },
+          "date": "2023-05-07",
+          "content": "@假行僧:那个工具是打蛋器，钻孔是为了让破坏墙的受力结构，让砸洞变得更容易"
+        },
+        {
+          "id": "1175624",
+          "replier": {
+            "username": "李老师的supervisor",
+            "uid": "50992"
+          },
+          "date": "2023-05-07",
+          "content": "@假行僧:是的 砸了那么 看起来就两米多的墙就变危楼了 怎么看都觉得是不是设计本身就有问题"
+        },
+        {
+          "id": "1175687",
+          "replier": {
+            "username": "windXforce",
+            "uid": "86160"
+          },
+          "date": "2023-05-07",
+          "content": "这吹的有点玄乎 就跟封神演义里 破阵直戳阵眼一样  我咋不记得"
+        },
+        {
+          "id": "1177531",
+          "replier": {
+            "username": "小土豆",
+            "uid": "80532"
+          },
+          "date": "2023-05-15",
+          "content": "越狱这剧可惜了，第一季封神之后就烂尾了。"
+        }
+      ]
+    },
+    {
+      "id": "653465",
+      "is_folded": false,
+      "answerer": {
+        "username": "windXforce",
+        "uid": "86160"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能裂到15楼 那就是没有冗余呗  前几天在煎蛋看个帖子说甲方已经开香槟了  言下之意 这可是你们砸墙的锅  不管我们事哦\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 5,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1175751",
+          "replier": {
+            "username": "李老师的supervisor",
+            "uid": "50992"
+          },
+          "date": "2023-05-08",
+          "content": "晕 果然是原来就有问题呗😅 我就说砸一面墙就这样 至不至于的"
+        },
+        {
+          "id": "1175753",
+          "replier": {
+            "username": "李老师的supervisor",
+            "uid": "50992"
+          },
+          "date": "2023-05-08",
+          "content": "让上面这些不懂装懂 要么审题都审不清楚就开始情绪输出的回答烦死了🤢"
+        }
+      ]
+    },
+    {
+      "id": "653452",
+      "is_folded": false,
+      "answerer": {
+        "username": "madanne",
+        "uid": "90026"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t施工方面的问题大，真正的承载端是基础，剪力墙也是承重墙，但是它大多数只承重地震，风等水平荷载。砸掉没多少问题，只影响地震发生时的安全。上部相应部位的剪力墙开裂了，就算崩溃了，一样不会跨，便宜的话我仍然敢买啊！还有设计可能的问题。就是剪力墙中含有一个或者多个暗柱，该暗柱穿过地下室拥有自己的独立基础，这个风险就大一些，设计不应该在5层以下就使用这种细尺寸柱子\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1175750",
+          "replier": {
+            "username": "李老师的supervisor",
+            "uid": "50992"
+          },
+          "date": "2023-05-08",
+          "content": "终于有个有价值的回答\n不过我看图 砸掉的墙里面就是单纯的钢筋 并没有别的结构 应该是不存在暗柱 所以我就很奇怪这楼什么情况 砸一面墙就这样了"
+        },
+        {
+          "id": "1175758",
+          "replier": {
+            "username": "madanne",
+            "uid": "90026"
+          },
+          "date": "2023-05-08",
+          "content": "我没有看过图，如果不是暗柱挖断，那只有一种情况，设计取消了这里的框架主梁，以这板墙既充当剪力墙，又充当深梁。其实也没大问题，但受力关系就不清晰了，墙消失，梁就一起消失"
+        },
+        {
+          "id": "1175768",
+          "replier": {
+            "username": "反清复明2017",
+            "uid": "73211"
+          },
+          "date": "2023-05-08",
+          "content": "虽然剪力墙并不是建筑物的主体承重结构。在建筑设计中，剪力墙通常与其他结构（如梁、柱、框架等）一起使用，共同支撑建筑物的荷载。要看具体的设计，有些剪力墙拆除了还是挺危险的。"
+        }
+      ]
+    },
+    {
+      "id": "653544",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t参考国内有两家宾馆，其实也坚挺了好多年，然后突然垮塌，把里面的人都给压死了。所以你这种“麻痹”“大意”的所谓“承重墙动一点无所谓”的思想要不得，这也是为什么中国人不靠谱的原因，总是在一些很关键的事情上动外脑经，走捷径，弯道超车，侥幸心理很强，又便宜不占王八蛋。这就是容易吃大亏且任何狗屁创新都做不出来只一心琢磨抄袭。\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653417",
+      "is_folded": false,
+      "answerer": {
+        "username": "HenkGao",
+        "uid": "7121"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t结构冗余是荷载稍超标还能安全<br/>\n而不是人为砸掉一面剪力墙不开裂跟没事一样<br/>\n到处砸掉还能苟是n重超静定军事工程\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655487",
+      "is_folded": false,
+      "answerer": {
+        "username": "xiaotouming",
+        "uid": "89115"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t本来砸一点剪力墙当没问题。但这只是事情的其中一环而已。设计的人有问题，准备材料的人有问题，建造的人有问题，检查房屋质量的人有问题，最后砸的人脑子和道德也有问题。<br/>\n<br/>\n所谓的 砸一点没问题 必须建立在前面的环节都没有问题的基础上。抛开前面的环节，单纯讨论最后一个导火索意义不大。\t\t</div>",
+      "date": "2023-05-15",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653382",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 真猛啊, 砸了一段承重墻? 在上面掏大洞都最好別做, 掏個綫盒槽我倒是覺得該有設計餘量. 關鍵就是建築商有理由說 \"全賴破壞承重墻\", 那就要去找鑒定評估機構, 然而這些機構多數會向著建築商不中立. 那麽這樣一份鑒定評估報告打官司猜猜共匪法院會怎麽判? 都用不到動用政法委住戶全責是可以預見的判決.<br/>\n<br/>\n_ _ 要我是建築商會大方承認, 就是有偷工減料, 但你拆墻就得背所有的鍋~ 并非是向著築企, 我是説有的關鍵錯誤不能犯. 唉 2016 之後的房問題本就多多, 業主就別再折騰危樓了.\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1175622",
+          "replier": {
+            "username": "李老师的supervisor",
+            "uid": "50992"
+          },
+          "date": "2023-05-07",
+          "content": "根据施工队的说法 砸一点问题不大基本没影响 砸多了不行 至于掏线盒这些都随意\n这也是为什么哈尔滨这事 当事人会要求施工队砸 而施工队也会为其施工 因为按照一般认识里确实问题不会很大 像新闻里爆出来这种楼看着都快塌了的情况照理是不会发生的 所以我就挺奇怪是不是这楼本身设计也有点问题 只有一面墙出问题整个楼就一下变危楼了任何情况下都不合理 就是古早那种预制板的房子也不至于这样"
+        }
+      ]
+    },
+    {
+      "id": "655468",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t砸一面剪力墙不至于整个楼开裂，正常说可能是砸到了墙里的结构柱了，这种鸽子笼的结构柱疑似大多都是藏在墙里或者墙本身就是结构柱的作用，但是看图，从钢筋看比较像单纯的剪力墙，那也有可能是楼本身有问题，毕竟哈尔滨的回迁房，设计肯定也是压缩成本的，包括施工上材料上也是能省一点是一点。<br/>\n<br/>\n不过无论如何，我是觉得这个真不算什么。湖南这个是直接给我整笑了，阳台那边那么明显的承重柱都给敲了，里面摆明了不能动的结构柱也敢拆！农逼进城太可怕了。<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvNWRmYjcyNmE4YzYwMTgyNjk3YWFkLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/5dfb726a8c60182697aad.jpg\"><img alt=\"https://telegra.ph/file/5dfb726a8c60182697aad.jpg\" loading=\"lazy\" src=\"https://telegra.ph/file/5dfb726a8c60182697aad.jpg\" style=\"max-width:100%\"/></a><a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvYjYyNGNlMTI5NzJlMzUyOGU2MjgxLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/b624ce12972e3528e6281.jpg\"><img alt=\"https://telegra.ph/file/b624ce12972e3528e6281.jpg\" loading=\"lazy\" src=\"https://telegra.ph/file/b624ce12972e3528e6281.jpg\" style=\"max-width:100%\"/></a><a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvYzc4M2U0ZTdiMDI3Y2ZkODZiNThmLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/c783e4e7b027cfd86b58f.jpg\"><img alt=\"https://telegra.ph/file/c783e4e7b027cfd86b58f.jpg\" loading=\"lazy\" src=\"https://telegra.ph/file/c783e4e7b027cfd86b58f.jpg\" style=\"max-width:100%\"/></a><a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvNzY4OWNlYTc1NjgxMmM0YzE3ZTA3LmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/7689cea756812c4c17e07.jpg\"><img alt=\"https://telegra.ph/file/7689cea756812c4c17e07.jpg\" loading=\"lazy\" src=\"https://telegra.ph/file/7689cea756812c4c17e07.jpg\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-05-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653476",
+      "is_folded": false,
+      "answerer": {
+        "username": "johndoe7",
+        "uid": "53557"
+      },
+      "contents": "<div class=\"markitup-box\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-05-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655352",
+      "is_folded": false,
+      "answerer": {
+        "username": "都市火枪手",
+        "uid": "85988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t板楼本质上就是用厚纸板堆积木，里面受力的你撤掉一块，楼当然承受不住。<br/>\n<br/>\n所以墙国楼真的别买了，指不定什么时候会出问题，一旦出问题那结局大概率就是拆除了。\t\t</div>",
+      "date": "2023-05-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

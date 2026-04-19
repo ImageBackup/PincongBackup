@@ -1,0 +1,174 @@
+{
+  "parent_type": "question",
+  "parent_id": "59289",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "664541",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这就是我主张和在搞的加速主义，我最近用multipass比较多，忘了docker这回事了。<br/>\n<br/>\n这么说的话我要提交一些辱包软件包到apt yum maven之类的软件源，然后去墙内反串举报，哪些还没封的全都封了，国内的镜像自增加管理成本。<br/>\n<br/>\n虽然作用不大，加速这种事水滴石穿，增加国内偷代码的难度，哪怕只有一点点。等白名单时代这些努力就会大放异彩。<br/>\n<br/>\nPS: 指责加速者而不是中共及其走狗方滨兴之流，和指责被强奸者一样，在道德上是说不过去的。加速者也是受害者，把自己的时间花在这种事上，正常国家根本没必要浪费这种中国时间。\t\t</div>",
+      "date": "2023-06-22",
+      "agree_count": 9,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1186101",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-06-22",
+          "content": "那些所谓的镜像,还有加速\n在我刚学这些东西的时候就觉得蠢的不行,但是你还不能不用\n赶紧全部干烂"
+        },
+        {
+          "id": "1186112",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-06-22",
+          "content": "@takesipon:镜像倒是常用的概念，一般大的数据节点，像美东德州美西都会有镜像。当然现在的CDN功能更强，但大概都是一个意思，通过冗余服务器解决物理限制。\n中国一开始镜像和加速也是正常的概念（起码2000年前，后来我不清楚），有了墙之后就变成翻墙了。"
+        },
+        {
+          "id": "1186113",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-06-22",
+          "content": "这些软件库都是有人维护的，太傻逼的辱包软件不会上架，你还是多搞些傻逼式翻墙软件加到软件源里面， 早晚党国得墙了"
+        },
+        {
+          "id": "1186116",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-06-22",
+          "content": "@华国锋:谢谢科普"
+        }
+      ]
+    },
+    {
+      "id": "664500",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tdocker被墙了?<br/>\n那太好了<br/>\n什么时候把所有编程语言的官网墙掉,最好只剩下易语言\t\t</div>",
+      "date": "2023-06-22",
+      "agree_count": 9,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1186076",
+          "replier": {
+            "username": "truelife",
+            "uid": "85655"
+          },
+          "date": "2023-06-22",
+          "content": "吴涛狂喜"
+        }
+      ]
+    },
+    {
+      "id": "664494",
+      "is_folded": false,
+      "answerer": {
+        "username": "dklbl00oeiif",
+        "uid": "112611"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以后都得禁 因为人工智能的发展会越来越猛烈<br/>\n乳包的成本也变得越来越低廉\t\t</div>",
+      "date": "2023-06-22",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "664502",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tSpeedrun of Making Your Country A Sh*thole<br/>\nby Winnie the Pooh<br/>\n8B views\t\t</div>",
+      "date": "2023-06-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "664544",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tgithub上面乳包的那么多，比docker多多了。为什么github没有彻底被墙呢？\t\t</div>",
+      "date": "2023-06-22",
+      "agree_count": 1,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1186091",
+          "replier": {
+            "username": "战狼2021",
+            "uid": "103993"
+          },
+          "date": "2023-06-22",
+          "content": "github对于中国IP可以屏蔽部分repo"
+        },
+        {
+          "id": "1186092",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-06-22",
+          "content": "@战狼2021:那就起不到加速的效果了，我们需要的是一个乳包repo能封掉整个站点的效果"
+        },
+        {
+          "id": "1186102",
+          "replier": {
+            "username": "The19890604",
+            "uid": "46798"
+          },
+          "date": "2023-06-22",
+          "content": "中國創新靠歐美開源，gitHub知名度挺高的，肯定會留個狗洞自用"
+        },
+        {
+          "id": "1186114",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-06-22",
+          "content": "@springwood:多复制粘贴，就能规避屏蔽吧"
+        },
+        {
+          "id": "1186117",
+          "replier": {
+            "username": "战狼2021",
+            "uid": "103993"
+          },
+          "date": "2023-06-22",
+          "content": "@springwood:GitHub背后是微软 早就勾兑了"
+        },
+        {
+          "id": "1186123",
+          "replier": {
+            "username": "S700N",
+            "uid": "75716"
+          },
+          "date": "2023-06-22",
+          "content": "github跟墙了也没啥区别，不套梯子基本处于用不了的状态。"
+        }
+      ]
+    }
+  ]
+}

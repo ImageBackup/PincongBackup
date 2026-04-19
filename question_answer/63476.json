@@ -1,0 +1,137 @@
+{
+  "parent_type": "question",
+  "parent_id": "63476",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "707697",
+      "is_folded": false,
+      "answerer": {
+        "username": "zaxinn",
+        "uid": "117936"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tReality 是无需域名即可套 tls ，不能用 CDN ，通过偷域名伪装。只要不过 cdn 的都有封 ip 的问题，但并没有很容易被封。可在河南和福建用。<br/>\nNaiveproxy 是 plugin ，配合 caddy 使用，轻量，稳定，需要域名，不能用 cdn ，目前又起来没有你的问题\t\t</div>",
+      "date": "2023-11-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708372",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\treality装的特别像，会被封但概率真的低很多了，老协议里面最稳的还是那些个能套CDN的吧，相当于给防火墙找了谷歌这么个重量级对手。但说实话，目前的这些个协议，想要100%一劳永逸是不太可能的。<br/>\n<br/>\n现在想想，好像成本最低又能一劳永逸的方式，只能是在中蒙边境自己拖根网线到蒙古去，蒙古那头接上星链这样的方式了。\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1228514",
+          "replier": {
+            "username": "习近平的裤子",
+            "uid": "100552"
+          },
+          "date": "2023-11-27",
+          "content": "你说的这个是IPLC，已经有，但非常贵（比如深圳和香港直连）"
+        },
+        {
+          "id": "1228542",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-11-27",
+          "content": "@习近平的裤子:我说的是自己动手"
+        }
+      ]
+    },
+    {
+      "id": "708206",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t通常来说，新出的协议比较安全，因为GFW有滞后性<br/>\nTrojan已经能够被识别出来了，因为它伪装得不像<br/>\nNaiveproxy和Hysteria2目前来看，比较靠谱\t\t</div>",
+      "date": "2023-11-26",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1228339",
+          "replier": {
+            "username": "antixjp098",
+            "uid": "118269"
+          },
+          "date": "2023-11-26",
+          "content": "UDP容易被QOS"
+        },
+        {
+          "id": "1228344",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-11-26",
+          "content": "@antixjp098:能翻出去，翻得稳更重要"
+        },
+        {
+          "id": "1228352",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-26",
+          "content": "翻墙如果靠GFW的无知的话是不能长久的\n根本因素还是需要翻墙协议本身健壮性，另外一个就是“依附的自由”，如果大CDN肯做domain fronting等隐匿真实目标的服务，这就反过来通过博弈击败了GFW，GFW无法在区分翻墙流量和合法出国流量上作出判断。\n有人说断网不行吗？但是伊朗和俄国现在遭受的西方制裁比中国还强烈，他们两家都不断网，足以说明问题了。"
+        },
+        {
+          "id": "1228603",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-11-27",
+          "content": "@rowlandheights:所以要想长命，还得套CDN"
+        },
+        {
+          "id": "1228660",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-27",
+          "content": "@客观评价习近平:翻墙要把正常流量拖下水，逼党国朝鲜化"
+        }
+      ]
+    },
+    {
+      "id": "708220",
+      "is_folded": false,
+      "answerer": {
+        "username": "goodidea100",
+        "uid": "116285"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用新出的协议吧，那些老协议可能都被识别了，不过共匪现在的防火墙没有19年以前那么生猛了,应该是美国制裁的效果\t\t</div>",
+      "date": "2023-11-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708417",
+      "is_folded": false,
+      "answerer": {
+        "username": "中華聯邦共和國",
+        "uid": "20514"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没科班学过电脑，有动手能力，但于技术原理纯技术盲。<br/>\n<br/>\n从个人常识来说，即使Reality装得再像，但同一个IP不断有苹果，微软的流量这本身不是很明显的特征吗？\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

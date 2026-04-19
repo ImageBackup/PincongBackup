@@ -1,0 +1,34 @@
+{
+  "question_id": "41920",
+  "category_id": "4",
+  "title": "把icloud从国区改到外区，为什么感觉不到数据转移？",
+  "meta_description": "把icloud从国区改到外区，为什么感觉不到数据转移？ - 我之前用国区icloud很久了，里面有3GB左右的手机备份（每天晚上插着电源连着wifi会自动备份）  刚才改到外区了，icloud界面已经没有“云上贵州”的字样，但是丝毫感觉不出来有数据的转移，比如卡一下、提示正在迁移数据之类的。  苹果有什么高科技能让...",
+  "meta_keywords": "icloud,国区,外区,感觉,不到,数据,转移",
+  "tags": [
+    {
+      "id": "693",
+      "name": "苹果"
+    }
+  ],
+  "author": {
+    "username": "springwood",
+    "uid": "55321"
+  },
+  "view_count": 12004,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t我之前用国区icloud很久了，里面有3GB左右的手机备份（每天晚上插着电源连着wifi会自动备份）<br/>\n<br/>\n刚才改到外区了，icloud界面已经没有“云上贵州”的字样，但是丝毫感觉不出来有数据的转移，比如卡一下、提示正在迁移数据之类的。<br/>\n<br/>\n苹果有什么高科技能让几个G的数据从贵州一瞬间传到美国加州icloud数据中心吗？\t\t\t\t\t\t\t</div>",
+  "date": "2021-09-17",
+  "agree_count": 1,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1000851",
+      "replier": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "date": "2021-09-17",
+      "content": "苹果超级注重用户体验，肯定迁移放在后台进行，不可能你访问的文件正在迁移中，会让你等一下啊，肯定是还从贵州传给你，苹果也没有承诺你改区就一秒钟把数据移出贵州吧。早晚迁移完毕就是。"
+    }
+  ],
+  "answer_count": 5
+}

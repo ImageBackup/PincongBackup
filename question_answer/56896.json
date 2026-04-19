@@ -1,0 +1,62 @@
+{
+  "parent_type": "question",
+  "parent_id": "56896",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "640042",
+      "is_folded": false,
+      "answerer": {
+        "username": "cirolchou",
+        "uid": "49965"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你再看看闭幕会的通稿，看看他最终是排名第几？两会期间排第五的时候，新一届副总理还没出炉，他还是副总理。\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1163095",
+          "replier": {
+            "username": "信春哥得永生",
+            "uid": "28242"
+          },
+          "date": "2023-03-15",
+          "content": "谢谢，那看来是我搞错了，我是查阅维基百科，也就是说没有及时更新"
+        }
+      ]
+    },
+    {
+      "id": "640045",
+      "is_folded": false,
+      "answerer": {
+        "username": "MrJerry",
+        "uid": "96142"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国家副主席究竟是正国级还是副国级，似乎有点说不清楚。<br/>\n<br/>\n之前的荣毅仁享受了正国级待遇。在新闻里的提法一般是：“江泽民、李鹏、乔石、李瑞环、朱镕基、刘华清、胡锦涛、荣毅仁等党和国家领导人“<br/>\n<br/>\n但李源潮似乎又是副国级。\t\t</div>",
+      "date": "2023-03-15",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1163052",
+          "replier": {
+            "username": "陳家梁子",
+            "uid": "74631"
+          },
+          "date": "2023-03-15",
+          "content": "国家副主席职务本身是副国级。但如果曾任正国级职务，就享受正国级待遇。"
+        },
+        {
+          "id": "1163094",
+          "replier": {
+            "username": "信春哥得永生",
+            "uid": "28242"
+          },
+          "date": "2023-03-15",
+          "content": "国家副主席之前如果当过正国级，则依然享受正国级待遇，但那时候应该是排位在现任正国级之后。"
+        }
+      ]
+    }
+  ]
+}

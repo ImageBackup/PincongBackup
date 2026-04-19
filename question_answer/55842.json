@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "55842",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "627952",
+      "is_folded": false,
+      "answerer": {
+        "username": "迷雾森林",
+        "uid": "83523"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t據我所知，沒有。反之以美國為例，如果未向病人告知，並在獲得病人書面同意的前提下，告知了任何第三方，才是違法的。感興趣可以搜下HIPAA。<br/>\nThe Health Insurance Portability and Accountability Act of 1996 (HIPAA) is a federal law that required the creation of national standards to protect sensitive patient health information from being disclosed without the patient’s consent or knowledge.\t\t</div>",
+      "date": "2023-02-05",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "627961",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本也没有。反而是病人要求医生对家属保密<br/>\n<br/>\n当然未成年的病人似乎可以保密\t\t</div>",
+      "date": "2023-02-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

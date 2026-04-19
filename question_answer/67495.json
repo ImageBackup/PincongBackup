@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "67495",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "754227",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可能不需要好处<br/>\n因为这些海外公司多少内部高层有支裔管理\t\t</div>",
+      "date": "2024-06-16",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1271384",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-06-16",
+          "content": "“中文是劣等语言”\n实际原因是，所有语言内容都要监管，而监管中文内容最廉价的选择就是外包给中国的计算机服务公司，他们当然要满足中国政府的需求。\n结论就是你要多用非中文语言，即使用中文也要用粤语闽南话潮汕话，尽可能提高审查的成本。"
+        },
+        {
+          "id": "1313002",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2025-01-22",
+          "content": "@rowlandheights:一语点中这个问题的本质"
+        }
+      ]
+    }
+  ]
+}

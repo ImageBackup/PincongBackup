@@ -1,0 +1,28 @@
+{
+  "question_id": "51924",
+  "category_id": "4",
+  "title": "為何迷霧通等軟件的開發者沒有給出安裝包的校驗方式？",
+  "meta_description": "為何迷霧通等軟件的開發者沒有給出安裝包的校驗方式？ - RIME輸入法亦是如此，既沒有哈希值，也沒有數字簽名，更別說GPG簽名了。  我看來是必要的，否則沒法確認下載到的安裝包是否安全（哪怕被篡改的可能性再低）  像這類軟件不應該比較重視安全性這一方面嗎？",
+  "meta_keywords": "為何,迷霧通,軟件,開發,者沒,給出,安裝包,校驗,方式",
+  "tags": [
+    {
+      "id": "199",
+      "name": "安全"
+    },
+    {
+      "id": "249",
+      "name": "安全上网"
+    }
+  ],
+  "author": {
+    "username": "kamome",
+    "uid": "95534"
+  },
+  "view_count": 3430,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tRIME輸入法亦是如此，既沒有哈希值，也沒有數字簽名，更別說GPG簽名了。<br/>\n<br/>\n我看來是必要的，否則沒法確認下載到的安裝包是否安全（哪怕被篡改的可能性再低）<br/>\n<br/>\n像這類軟件不應該比較重視安全性這一方面嗎？\t\t\t\t\t\t\t</div>",
+  "date": "2022-10-28",
+  "agree_count": 1,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 1
+}

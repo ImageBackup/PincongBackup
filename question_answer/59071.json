@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "59071",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "662293",
+      "is_folded": false,
+      "answerer": {
+        "username": "歪交部大石话",
+        "uid": "7599"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGoogle Fi 免翻墙， Google Fi 免翻墙， Google Fi 免翻墙， Google Fi 免翻墙， Google Fi 免翻墙，\t\t</div>",
+      "date": "2023-06-13",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1183930",
+          "replier": {
+            "username": "daxuesheng",
+            "uid": "14137"
+          },
+          "date": "2023-06-13",
+          "content": "长时间漫游是违反用户协议的"
+        }
+      ]
+    },
+    {
+      "id": "662418",
+      "is_folded": false,
+      "answerer": {
+        "username": "daxuesheng",
+        "uid": "14137"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t境外SIM难以完全取代大陆手机卡的功能，因为手机号码现在非常频繁地被用于身份验证，相当多数网站不支持境外号码，同时用境外号码接打电话容易被反炸，导致可能连外卖、快递都无法收。<br/>\n<br/>\n另外手机境外手机卡虽然没有墙，但是流量费用很贵，肯定不如商业机场，最多作为备用。而且手机网络的加密仅限手机和基站之间，你在用境外卡上什么网站老大哥都是知道的。\t\t</div>",
+      "date": "2023-06-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

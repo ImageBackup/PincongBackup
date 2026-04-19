@@ -1,0 +1,187 @@
+{
+  "parent_type": "question",
+  "parent_id": "62128",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "693070",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t@pincon00723:你可以换个域名试试，有可能是域名因为某种原因进黑名单了。你说网站没流量不应该被关注，但现在是机器学习时代，黑箱算法面前你也不知道是怎么回事。<br/>\n<br/>\n所以按照一般的debug步骤，换IP，换域名，换内容，逐个排除。至于SSL，这年头除了中国某些地方政府网站，已经没有不加SSL的了。\t\t</div>",
+      "date": "2023-09-29",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "692977",
+      "is_folded": false,
+      "answerer": {
+        "username": "cybermage",
+        "uid": "29130"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t建议用 Cloudflare 来隐藏IP地址。俺的服务器到现在也没被墙。<br/>\n<br/>\nSSL不会隐藏你的IP地址，只有通过Cloudflare这样的proxy才可以。\t\t</div>",
+      "date": "2023-09-29",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1212094",
+          "replier": {
+            "username": "cybermage",
+            "uid": "29130"
+          },
+          "date": "2023-09-29",
+          "content": "@pincon00723:这个俺就不清楚了。。。"
+        },
+        {
+          "id": "1212120",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-09-29",
+          "content": "OP的域名已经被墙了，隐藏IP没用"
+        }
+      ]
+    },
+    {
+      "id": "693004",
+      "is_folded": false,
+      "answerer": {
+        "username": "刁民禁评",
+        "uid": "112808"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该是移动墙<br/>\n移动墙的存在是特色国情导致的。<br/>\n你说的墙的是IP 不是域名，那么 就不是GFW拦截的。<br/>\n历史原因：<br/>\n国内的IDC行业都是当年的网络游戏私服催生的。<br/>\n当年高速发展IDC行业的时候，中国移动还没有做ISP，他只有移动通讯业务。<br/>\n在中国互联网上古时代，最早没有联通 没有电信  更没有移动， 统称：中国邮电。<br/>\n因为要加入WTO，承诺里面有电信行业开放，但土共又没有真正做到开放，<br/>\n弄了个左手倒右手，<br/>\n从中国邮电里面拆分出来 网通 电信。<br/>\n他们实现了真正的划江而治， 南方电信 北方网通。<br/>\n起初，电信和网通也互相屏蔽，后来国务院调解，南北实现了互通。<br/>\n<br/>\n<br/>\n再后来，中国网通被中国联通收购兼并。中国移动也开始下场做ISP，<br/>\n但是，在这个节点下，中国的通讯行业已经发展起来了，线路也已经铺设完成，移动全程没参与。<br/>\n但是，因为垄断，移动绑住了绝大多数终端用户，之前还不显著，现在移动终端设备的发展，用户的上网设备也主要是移动设备，<br/>\n中国移动又没有做线路铺设 机房建设这些基建，<br/>\n移动用户上网 访问一个指定的目标网站。是需要走电信 联通的线路的。<br/>\n这个是需要付费的，当然 这块费用在移动用户那里已经缴纳了，<br/>\n但是，中国移动为了省钱，还是规划了区间限额，<br/>\n一定时间 一定范围内，限定一个额度，额度抛光了，这个工作站下的所有用户 都会被QS阻断。<br/>\n属于拔网线那种物理断网。<br/>\n跟内容无关。\t\t</div>",
+      "date": "2023-09-29",
+      "agree_count": 0,
+      "discussion_count": 13,
+      "discussions": [
+        {
+          "id": "1212117",
+          "replier": {
+            "username": "刁民禁评",
+            "uid": "112808"
+          },
+          "date": "2023-09-29",
+          "content": "@pincon00723:那做301，可以跳转到正常的域名下"
+        },
+        {
+          "id": "1212123",
+          "replier": {
+            "username": "刁民禁评",
+            "uid": "112808"
+          },
+          "date": "2023-09-29",
+          "content": "@pincon00723:服务器在海外导致的，现在有几个省已经开始实施白名单制度了。\n湖北 河南  江苏 福建"
+        },
+        {
+          "id": "1212125",
+          "replier": {
+            "username": "刁民禁评",
+            "uid": "112808"
+          },
+          "date": "2023-09-29",
+          "content": "@pincon00723:解决不了，只要服务器在海外 解决不了。除非你自我审查到网站可以放国内服务器。\n除此之外，别无他法。\n或许推翻共产党也可以"
+        },
+        {
+          "id": "1212148",
+          "replier": {
+            "username": "刁民禁评",
+            "uid": "112808"
+          },
+          "date": "2023-09-29",
+          "content": "@pincon00723:如果你是被墙 那就是GFW，如果你只是到固定线路不通，那就是移动墙，如果是到某地不通，那就是当地运营商拦截。\n服务器在海外的话，你要面对三道墙：\n1：GFW\n2：运营商\n3：移动墙"
+        },
+        {
+          "id": "1212162",
+          "replier": {
+            "username": "刁民禁评",
+            "uid": "112808"
+          },
+          "date": "2023-09-29",
+          "content": "@pincon00723:不是， 是运营商那层"
+        },
+        {
+          "id": "1212163",
+          "replier": {
+            "username": "刁民禁评",
+            "uid": "112808"
+          },
+          "date": "2023-09-29",
+          "content": "@pincon00723:这样，你就记住了，\n你ping 检测，绝大部分地区能到你服务器，跟GFW无关，\n你ping检测，绝大部分地区不能到你服务器，是被GFW了。\nGET检测，绝大部分地区到301到96110反诈，那是运营商。这个一般是按省来，各省规则不同。\n到移动基本不通，这是移动墙"
+        },
+        {
+          "id": "1212262",
+          "replier": {
+            "username": "刁民禁评",
+            "uid": "112808"
+          },
+          "date": "2023-09-29",
+          "content": "@pincon00723:是的。是当地搞的，严格来说\n还不止3道墙，\n在GFW  运营商  移动墙之外，还有一层匪共公安搞的96110\n以上除GFW 运营商之外，都跟你内容无关，指是因为服务器在海外，简单暴力一刀切。"
+        }
+      ]
+    },
+    {
+      "id": "693031",
+      "is_folded": false,
+      "answerer": {
+        "username": "cuz",
+        "uid": "86506"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用的是什么网络，移动的？提示什么，连接被重置？是否在福建这个省份？如果是可能是白名单，福建是开启白名单的，需要中转才可以。<br/>\n<br/>\n如果不是福建，域名还没有被墙，可以尝试套一层cloudflare，这样就不怕被墙了\t\t</div>",
+      "date": "2023-09-29",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1212194",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2023-09-29",
+          "content": "@pincon00723:应该不是整个福建这样，另外色情网站能访问，只是网址换得快罢了"
+        },
+        {
+          "id": "1212195",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2023-09-29",
+          "content": "@pincon00723:这种算是反诈墙吧"
+        }
+      ]
+    },
+    {
+      "id": "695035",
+      "is_folded": false,
+      "answerer": {
+        "username": "emisha",
+        "uid": "117515"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你的443后面只是一个网站还是网站梯子合一？<br/>\n如果是网站梯子合一，确定一下你的梯子用哪种协议？\t\t</div>",
+      "date": "2023-10-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "693046",
+      "is_folded": true,
+      "answerer": {
+        "username": "李元昊",
+        "uid": "52318"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-09-29",
+      "agree_count": -2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

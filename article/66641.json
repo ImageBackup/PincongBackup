@@ -1,0 +1,30 @@
+{
+  "article_id": "66641",
+  "category_id": "4",
+  "title": "一起来使用 ChatGPT 来识别逻辑谬误和诡辩吧！",
+  "meta_description": "一起来使用 ChatGPT 来识别逻辑谬误和诡辩吧！ - 俺刚刚整了一个 ChatGPT 的 prompt，可以帮助识别论坛交流中的逻辑谬误。用法如下：  [b]第一步，使用 ChatGPT 4[/b] 俺只用 GPT4 做了实验，欢迎大家使用其他工具进行实验。  [u]安全建议：建议使用官方网站，因为第三方的G...",
+  "meta_keywords": "起来,使用,chatgpt,识别,逻辑,谬误,诡辩",
+  "tags": [
+    {
+      "id": "1913",
+      "name": "诡辩"
+    },
+    {
+      "id": "6349",
+      "name": "逻辑谬误"
+    },
+    {
+      "id": "104134",
+      "name": "GPT"
+    }
+  ],
+  "author": {
+    "username": "cybermage",
+    "uid": "29130"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t俺刚刚整了一个 ChatGPT 的 prompt，可以帮助识别论坛交流中的逻辑谬误。用法如下：<br/>\n<br/>\n<b>第一步，使用 ChatGPT 4</b><br/>\r\n俺只用 GPT4 做了实验，欢迎大家使用其他工具进行实验。<br/>\n<br/>\n<u>安全建议：建议使用官方网站，因为第三方的GPT转发工具可能有后门。如果执意使用第三方网站，请在隔离的环境下进行：隐藏自己的IP地址；使用网页版，而不是安装到手机或PC上；在注册账号时避免使用真实姓名、手机号或者非匿名邮箱（建议在隐藏IP地址的情况下使用 protonmail）。</u><br/>\n<br/>\n<b>第二步，复制粘贴如下提示词</b><br/>\n<br/>\n<blockquote>You are 'Logic Lens', an anti-fallacy bot capable of providing professional and in-depth explanations of logical fallacies in Chinese. Your primary role is to identify and explain various logical fallacies, such as 'causal fallacies', 'straw man arguments', 'ad hominem', and others, in user submissions. This includes analyzing content directly from links provided by users. When given a link, you'll attempt to read and analyze the content within that link, applying your expertise in logical analysis in Chinese. You'll use professional terminology to describe why a particular reasoning falls under a specific fallacy category and respond to any questions about these terms or concepts in Chinese. Your responses are professional and educational, designed to make complex logical concepts accessible to all users. As 'Logic Lens', you remain a neutral, informative tool, dedicated to enhancing users' understanding of logical reasoning and critical thinking. Please try to communicate in Simplified Chinese.</blockquote><br/>\n<br/>\r\n在粘贴完成后直接提交，然后等待GPT给你回复。把提示词和你的正文分开有助于提高GPT的回复质量。<br/>\n<br/>\n<b>第三步，复制粘贴帖子正文以及回复</b><br/>\n<br/>\r\n请先把回复顺序调成按时间排序，这样有助于 GPT 理清回复的顺序。<br/>\n<br/>\r\n建议从标题开始复制，到最后一个回复为止，如截图所示：<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvMzhiYWFhODY2Y2RjY2M2MzI1ZDI0LnBuZz93aWR0aD00NDAmaGVpZ2h0PTI5NQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/38baaa866cdccc6325d24.png?width=440&amp;height=295\"><img alt=\"https://telegra.ph/file/38baaa866cdccc6325d24.png?width=440&amp;height=295\" loading=\"lazy\" src=\"https://telegra.ph/file/38baaa866cdccc6325d24.png?width=440&amp;height=295\" style=\"max-width:100%\"/></a><a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvNTJiYTM3YWExNzljZjQ3ZTlhNmYxLnBuZz93aWR0aD03NTImaGVpZ2h0PTMyNg\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/52ba37aa179cf47e9a6f1.png?width=752&amp;height=326\"><img alt=\"https://telegra.ph/file/52ba37aa179cf47e9a6f1.png?width=752&amp;height=326\" loading=\"lazy\" src=\"https://telegra.ph/file/52ba37aa179cf47e9a6f1.png?width=752&amp;height=326\" style=\"max-width:100%\"/></a><br/>\n<br/>\r\n如果帖子中有太长并被截断的回复，请手动展开，以保证全部内容被复制完毕。<br/>\r\n在粘贴时，不必对内容做任何修改。（其实俺希望坛主能整一个GPT复制模式，输出格式化的论坛内容，这样GPT的识别率应该能更高一些）。<br/>\n<br/>\n<u>安全提示：请勿使用 Ctrl+A 来复制，因为这样会同时复制你的用户名，提交到GPT上不安全。</u><br/>\n<br/>\n<b>第三步，同GPT交流</b><br/>\n<br/>\r\n有时GPT的第一次回答可能不是您想要的结果，这时候请直接向GPT询问。比如：“在这篇帖子的回复中，有逻辑谬误吗？“<br/>\r\nGPT需要积累足够的上下文才能给出更好的结果，有时候把GPT当成真人来提问效果会更好。<br/>\n<br/>\n<br/>\n<b>额外的安全选项<br/>\n</b><br/>\n<u>在交流完毕后，建议删除聊天记录，或者直接关闭“在线同步聊天记录”选项：<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvY2E3MjhmYWRhZDA5Y2ZkMmE1MGMzLnBuZz93aWR0aD02OTImaGVpZ2h0PTQzNg\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/ca728fadad09cfd2a50c3.png?width=692&amp;height=436\"><img alt=\"https://telegra.ph/file/ca728fadad09cfd2a50c3.png?width=692&amp;height=436\" loading=\"lazy\" src=\"https://telegra.ph/file/ca728fadad09cfd2a50c3.png?width=692&amp;height=436\" style=\"max-width:100%\"/></a></u> </div>",
+  "view_count": 9075,
+  "date": "2023-12-09",
+  "agree_count": 3,
+  "comment_count": 11
+}

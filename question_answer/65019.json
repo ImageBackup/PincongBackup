@@ -1,0 +1,79 @@
+{
+  "parent_type": "question",
+  "parent_id": "65019",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "724427",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就算是有客戶端，也是套用的webview，和瀏覽器看是一樣的。\t\t</div>",
+      "date": "2024-01-30",
+      "agree_count": 3,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1242367",
+          "replier": {
+            "username": "jerry123123123",
+            "uid": "117745"
+          },
+          "date": "2024-01-30",
+          "content": "浏览器还是卡顿，还有广告！"
+        },
+        {
+          "id": "1242368",
+          "replier": {
+            "username": "pincong360",
+            "uid": "17793"
+          },
+          "date": "2024-01-30",
+          "content": "@jerry123123123:那你應該用去廣告的瀏覽器。就算有APP，也是用的Webview，就是調用內置的瀏覽器了。一樣有廣告和卡頓。"
+        },
+        {
+          "id": "1242370",
+          "replier": {
+            "username": "pincong360",
+            "uid": "17793"
+          },
+          "date": "2024-01-30",
+          "content": "@jerry123123123: 除非品蔥有API，可以調用，本地各格式來顯示內容。但是這個工作量很大啊，有這個錢還不如投入到網頁中呢。"
+        },
+        {
+          "id": "1242371",
+          "replier": {
+            "username": "jerry123123123",
+            "uid": "117745"
+          },
+          "date": "2024-01-30",
+          "content": "@pincong360:api如何使用？"
+        },
+        {
+          "id": "1242373",
+          "replier": {
+            "username": "pincong360",
+            "uid": "17793"
+          },
+          "date": "2024-01-30",
+          "content": "@jerry123123123: 品蔥應該沒有開放給其他APP調用的API吧，應該不安全。"
+        }
+      ]
+    },
+    {
+      "id": "724457",
+      "is_folded": false,
+      "answerer": {
+        "username": "啊啊哈哈安徽",
+        "uid": "123071"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没有苹果客户端吧，想去广告用浏览器插件不就好了\t\t</div>",
+      "date": "2024-01-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

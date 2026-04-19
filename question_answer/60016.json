@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "60016",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "671809",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t至少用三重代理，再套一个洋葱浏览器<br/>\n将三个不同代理A-B-C串联起来（三个代理最好来自于不同国家）<br/>\n这样，<br/>\n代理A知道你在翻墙（你的IP），但不知道你访问的目标网站<br/>\n代理C知道你访问的目标网站，但不知道你的IP（物理位置）<br/>\n代理B既不知道你的IP，也不知道你访问了哪些网站<br/>\n即便代理B是钓鱼机场，也不用担心任何安全问题<br/>\n即便代理C是钓鱼机场，他也不知道你的IP从何而来<br/>\n如果代理A是钓鱼机场，他最多只知道你在翻墙<br/>\n要将你开盒，就需要同时搞定三个代理服务器的拥有者<br/>\n虽然不能完全做到安全，但也能增大网络警察溯源的难度和成本（时间、金钱）<br/>\n从结构上看，代理A是最重要的一环，推荐用迷雾通做代理A，其不断变换的网桥，相当于一个双重代理<br/>\n如果你觉得上述方法过于繁琐，也应该在使用机场上品葱的时候加一个Tor浏览器\t\t</div>",
+      "date": "2023-07-19",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "671800",
+      "is_folded": false,
+      "answerer": {
+        "username": "JoeGonzales",
+        "uid": "112521"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很多机场都是有背景的，甚至就是红二代开的，当然不会被墙。<br/>\n<br/>\n个人认为判断机场安不安全不是很重要，只要别太离谱连Tor也封了就行。<br/>\n<br/>\n毕竟就算找到了一个看起来很安全，没有审计的机场，你敢不用Tor就访问敏感网站吗？谁知道机场后面是谁？<br/>\n<br/>\n说不定看起来很安全，没有审计，什么网站都能正常访问，但就是个钓鱼机场。<br/>\n<br/>\n机场只是翻出去的工具而已，用来访问常用的网站。访问敏感的网站还是要靠Tor或VPN才行。<br/>\n<br/>\n当然，自建的机场会比较安全，但相比买的还是比较慢，而且出口IP固定也不利于保护隐私。\t\t</div>",
+      "date": "2023-07-19",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "671817",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得草榴社区的APP最牛逼，随时打开都能看，VPN有时候还会挂掉呢\t\t</div>",
+      "date": "2023-07-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

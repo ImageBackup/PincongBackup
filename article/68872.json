@@ -1,0 +1,26 @@
+{
+  "article_id": "68872",
+  "category_id": "1",
+  "title": "官方报告：中国黑客潜伏在美国一些基础设施系统中“至少五年之久”",
+  "meta_description": "官方报告：中国黑客潜伏在美国一些基础设施系统中“至少五年之久” - [url=https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-a...",
+  "meta_keywords": "官方,报告,中国,黑客,伏在,美国,一些,基础设施,系统,至少,年之久",
+  "tags": [
+    {
+      "id": "161",
+      "name": "中共"
+    },
+    {
+      "id": "1270",
+      "name": "黑客"
+    }
+  ],
+  "author": {
+    "username": "德才兼备之人",
+    "uid": "20297"
+  },
+  "contents": "<div class=\"content markitup-box\">\n<a href=\"url/link/aHR0cHM6Ly93d3cuY2lzYS5nb3YvbmV3cy1ldmVudHMvYWxlcnRzLzIwMjQvMDIvMDcvY2lzYS1hbmQtcGFydG5lcnMtcmVsZWFzZS1hZHZpc29yeS1wcmMtc3BvbnNvcmVkLXZvbHQtdHlwaG9vbi1hY3Rpdml0eS1hbmQtc3VwcGxlbWVudGFsLWxpdmluZy1sYW5k\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land\">https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land</a><br/>\n<br/>\r\n美国国土安全部网络安全和基础设施安全局（CISA）、美国国家安全局（NSA）、美国联邦调查局（FBI）以及澳大利亚、加拿大、新西兰和英国的合作伙伴机构于 2024 年 2 月 7 日发布的一份联合报告。<br/>\n<br/>\r\n该报告详细描述了中国（PRC）国家支持的行动者，被称为Volt Typhoon，如何渗透美国关键基础设施的IT网络，为在重大危机中发动可能造成破坏的网络攻击做准备。它强调了他们使用“寄生活动”技术以保持隐秘性和持久性，观察到的活动遍及通信、能源和水系统等多个行业。报告建议立即采取行动，如修补漏洞、实施防钓鱼的多因素认证和增强日志记录，以缓解这些威胁。<br/>\n<br/>\r\nVolt Typhoon 使用先进技术进行<b>长期、隐蔽的网络渗透，旨在未经授权地访问和控制美国关键基础设施系统</b>。他们通过利用软件漏洞、网络钓鱼等手段获取访问权限，然后使用“寄生活动”技术，如合法的系统工具和协议，以减少被发现的机会。这种策略显示了他们旨在控制关键基础设施以在关键时刻发起攻击的险恶用心，体现了高度的计划性和对目标基础设施潜在影响的深刻理解。<br/>\n<br/>\r\nVolt Typhoon活动的持续时间表明，<b>这个组织在某些受害者的IT环境中至少维持了五年的访问和立足点。</b>这显示了他们在关键基础设施目标上的长期和持续的关注，以及他们通过高度策略性和隐蔽性的行动来维持这种长期存在的能力。这种长期的潜伏策略使得Volt Typhoon能够在需要时执行更复杂和潜在破坏性的操作。<br/>\n<br/>\r\n根据报告，尽管Volt Typhoon 的活动主要是为了获取未授权访问并在关键基础设施组织的IT网络中持久化，目前报告没有直接提及具体的破坏或损失。他们的行为模式显示，<b>这个组织的主要目标似乎是为潜在的地缘政治紧张或冲突期间的干扰活动做准备，而不是立即造成破坏。</b>Volt Typhoon 通过长期的、有计划的活动，对目标组织进行再次定位，持续几年验证和可能增强其未授权访问，如通过多次提取域控制器中的NTDS.dit文件来确保对当前有效账户的访问。这表明他们的活动具有高度的策略性和隐蔽性，旨在维持网络上的持久存在，以便在需要时利用这些访问权限执行进一步的动作，而不是立即造成直接的物理破坏或损失。<br/>\n<br/>\n<b>认为这个黑客组织得到中国政府的支持，通常基于技术证据、他们的目标和行动的复杂性，这些都与国家级目标和能力相符合。</b>情报和网络安全界可能会因为持续行动所需的资源、目标的特定性和与地缘政治利益的一致性，将此类活动归咎于国家支持的行动者。具体的证据和分析，导致这一结论的详细依据会在报告中说明，基于该组织的战术、技术和程序（TTPs）以及可能识别的数字足迹或其他情报，将他们与中国政府联系起来。<br/>\n<br/>\r\n根据报告，以下是防范Volt Typhoon攻击的主要措施：<br/>\n<br/>\r\n1. **对互联网面向系统应用补丁**：优先修补Volt Typhoon常利用的关键漏洞。<br/>\r\n2. **实施防钓鱼多因素认证**（MFA）。<br/>\r\n3. **确保开启应用访问和安全日志记录**，并在中央系统中存储日志。<br/>\r\n4. **严格执行组策略和用户权限分配**，限制高权限服务账户。<br/>\r\n5. **使用特权访问管理（PAM）解决方案**管理特权账户和资源的访问。<br/>\r\n6. **结合基于角色的访问控制**（RBAC），根据工作需求定制访问。<br/>\r\n7. **实施活动目录分层模型**以隔离管理账户，降低账户被泄露的潜在影响。<br/>\r\n8. **加固管理工作站**，只允许从经过适当加固的工作站进行管理活动。<br/>\r\n9. **离职员工的账户和访问权限应当在其离职当天被禁用**。<br/>\r\n10. **定期审核所有用户管理员和服务账户**，移除或禁用不再需要的账户。<br/>\r\n11. **定期更换支持基于令牌认证的账户的NTLM哈希**。<br/>\r\n12. **改进混合（云和本地）身份联合管理**，使用云仅管理员和CISA的SCuBAGear工具发现微软云租户中的错误配置。<br/>\n<br/>\r\n这些建议旨在加强组织的网络安全防御能力，减少因Volt Typhoon等国家支持的行动者而导致的安全威胁。\t\t\t\t\t\t\t</div>",
+  "view_count": 1246,
+  "date": "2024-02-08",
+  "agree_count": 1,
+  "comment_count": 0
+}

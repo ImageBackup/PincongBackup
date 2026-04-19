@@ -1,0 +1,85 @@
+{
+  "parent_type": "question",
+  "parent_id": "61710",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "688494",
+      "is_folded": false,
+      "answerer": {
+        "username": "readonly123",
+        "uid": "115452"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不负责任的分析一下：根据偷跑测试，这个手机依旧是4g lte,根本不是5g，芯片能效也远低于7nm正常水平，核心用的是服务器鲲鹏上的核心，连超线程都没去掉，说明华为没有能力修改arm公版核心或者单独设计高性能核心，芯片设计水平不咋地<br/>\n<br/>\n华为和比亚迪，贵国水军最多的两个企业，这俩公司的产品一律无视，可以省去很多不必要的麻烦\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688489",
+      "is_folded": false,
+      "answerer": {
+        "username": "dabaichi1",
+        "uid": "99779"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为美国并没有完全制裁，还是给开了口子。<br/>\n华为请了美国最牛的说客公司，资本家向来都是只看眼前利益。\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688493",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t利用落后民主阵营三代的技术纵容纳粹化的中国共产党夜郎自大。人中黄也美味啊？嗟，来食！\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688501",
+      "is_folded": false,
+      "answerer": {
+        "username": "黑社會社會黑",
+        "uid": "8645"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美國沒打算錘死華為吧，還能是啥？就是中芯代工啦，也就這貨有能力有動機幫華為代工，先前這貨不是停產14nm晶片麽，應該是趕著幫華為生產這批晶片吧。技術那裡來？9成是台積電漏出去的唄。又不是首次從台積電拿技術。\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688492",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t当年砸出(字面意义)红旗轿车也是这样把<br/>\n<br/>\n习主席不发展农村教育的原因之一\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688499",
+      "is_folded": false,
+      "answerer": {
+        "username": "于万物之中",
+        "uid": "14650"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t并没有，用的是中芯7nm双重曝光技术得到的5nm制程，良品率不足50%，性能约等于骁龙720。<br/>\n7nm多重曝光台积电2017年就搞出来了，不属于被封锁的技术。真正的5nm制程也就是euv光刻机你国还是搞不到。\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

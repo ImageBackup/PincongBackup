@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "62193",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "693624",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国现在只有11艘航母<br/>\n子水数字数字数字子数字数字数字\t\t</div>",
+      "date": "2023-10-01",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "693622",
+      "is_folded": true,
+      "answerer": {
+        "username": "人类理解新论",
+        "uid": "115606"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-10-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

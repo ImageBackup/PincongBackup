@@ -1,0 +1,201 @@
+{
+  "parent_type": "question",
+  "parent_id": "53757",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "605454",
+      "is_folded": false,
+      "answerer": {
+        "username": "antipc",
+        "uid": "103111"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t千万别傻乎乎的把梯子关了裸连测试，别被钓鱼了\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 12,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605435",
+      "is_folded": false,
+      "answerer": {
+        "username": "QLJ",
+        "uid": "73212"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就算能也不要直连品葱，这是高度政治敏感的论坛，不是开玩笑的。\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 9,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605456",
+      "is_folded": false,
+      "answerer": {
+        "username": "grantyang",
+        "uid": "6190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是的，品葱现在从大陆（至少北京）不翻墙即不用VPN可以直接登陆，应该是共匪的“长城防火墙”挡不住基于IPv6的网站。甚至在大陆从微信里也可直接登陆品葱\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 7,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1131618",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-03",
+          "content": "北京，每次试都不可以"
+        }
+      ]
+    },
+    {
+      "id": "605438",
+      "is_folded": false,
+      "answerer": {
+        "username": "卡萨布兰卡",
+        "uid": "55429"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那样会被防火墙登记在案的，绕道上来吧，我在加拿大都用代理上。\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 6,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1131586",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-03",
+          "content": "深入骨髓的恐惧，如果你在加拿大的话"
+        },
+        {
+          "id": "1131629",
+          "replier": {
+            "username": "truelife",
+            "uid": "85655"
+          },
+          "date": "2022-12-03",
+          "content": "给你鼠完了"
+        },
+        {
+          "id": "1131875",
+          "replier": {
+            "username": "卡萨布兰卡",
+            "uid": "55429"
+          },
+          "date": "2022-12-03",
+          "content": "@敏感词滚蛋:做好最坏的打算，比如品葱被黑，增加了什么追踪程式，能找到个人信息那种"
+        }
+      ]
+    },
+    {
+      "id": "605398",
+      "is_folded": false,
+      "answerer": {
+        "username": "杰瑞先生",
+        "uid": "100156"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好像IPV6环境下很多网站可以直连，telegram也可以直连。<br/>\n<br/>\n在下亲自体验过。\t\t</div>",
+      "date": "2022-12-02",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605464",
+      "is_folded": false,
+      "answerer": {
+        "username": "ccpuji",
+        "uid": "80611"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t什么毛病，心疼晶哥工作辛苦送kpi是吧，小伙子，不要拿器官开玩笑。\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605470",
+      "is_folded": false,
+      "answerer": {
+        "username": "outsideeye",
+        "uid": "89300"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t兄弟不要作死啊，都说了千万不要裸奔来品葱紫薯紫薯紫薯\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605532",
+      "is_folded": false,
+      "answerer": {
+        "username": "币圈奇葩8964",
+        "uid": "271"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tDNS缓存问题，重启一下系统试试看，，，<br/>\n<br/>\nGFW的三板斧——IP封锁，关键字重置（包括SNI），DNS污染<br/>\n共匪对品葱采用DNS污染，可能有SNI关键字重置，但是Cloudflare的IP是不敢封的，会误伤其他网站，，，\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605428",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不可以啊，刚试过<br/>\n<br/>\n为什么凑二十字凑二十字凑二十字凑二十字\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605509",
+      "is_folded": false,
+      "answerer": {
+        "username": "licoris",
+        "uid": "104382"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要裸连啊  ip会被记录的  保护好自己    <br/>\n二十字二十字二十字\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605508",
+      "is_folded": false,
+      "answerer": {
+        "username": "rockroll",
+        "uid": "103904"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t直接连看看没事，别发贴子就行。就说是电脑中毒了，估计当局也懒得管\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605521",
+      "is_folded": false,
+      "answerer": {
+        "username": "秦政国家",
+        "uid": "102681"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我尝试了一下不能，在南方。我不知道是否黑客们能推出新生代网站。\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

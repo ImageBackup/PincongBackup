@@ -1,0 +1,38 @@
+{
+  "question_id": "65238",
+  "category_id": "4",
+  "title": "如何保护数据安全且在不损伤数据？",
+  "meta_description": "如何保护数据安全且在不损伤数据？ - 很怕半夜突然被黑皮抓走 当然我被带走没关系  如果电脑也被拿走那可能就够判的了  如何保护自己的数据安全 在不损伤数据的情况下",
+  "meta_keywords": "保护,数据,安全,损伤",
+  "tags": [
+    {
+      "id": "3769",
+      "name": "喝茶"
+    },
+    {
+      "id": "10818",
+      "name": "数据安全"
+    }
+  ],
+  "author": {
+    "username": "skosko",
+    "uid": "108801"
+  },
+  "view_count": 3785,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t很怕半夜突然被黑皮抓走<br/>\n当然我被带走没关系 <br/>\n如果电脑也被拿走那可能就够判的了<br/>\n<br/>\n如何保护自己的数据安全<br/>\n在不损伤数据的情况下\t\t\t\t\t\t\t</div>",
+  "date": "2024-02-08",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1055380",
+      "replier": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "date": "2024-02-12",
+      "content": "编程随想的博客有介绍VeraCrypt加密"
+    }
+  ],
+  "answer_count": 2
+}

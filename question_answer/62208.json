@@ -1,0 +1,101 @@
+{
+  "parent_type": "question",
+  "parent_id": "62208",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "693797",
+      "is_folded": false,
+      "answerer": {
+        "username": "漫漫人生路",
+        "uid": "108382"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很認真的問題，為什麼不可以回老家，我家在廣州混不下去就去了其他地方呀\t\t</div>",
+      "date": "2023-10-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "693843",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前有暫住證、擇校費這東西，想落戶大城市，享受配套，就要在大城市有戶口<br/>\n<br/>\n買房可以入戶大城市（好像是這樣，也不一定）<br/>\n<br/>\n幾年前在江門市華僑中學門外逛，剛好遇到早操，我觀察校內學生大部份不是當地人\t\t</div>",
+      "date": "2023-10-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "693841",
+      "is_folded": false,
+      "answerer": {
+        "username": "地球是我家乡",
+        "uid": "86380"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一线买不起正常，可很多二线城市的房价并不高啊，哪怕成都，算一个明星城市了吧，一万一平方的房子到处都是啊。\t\t</div>",
+      "date": "2023-10-02",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1213042",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-10-02",
+          "content": "成都的中位数收入是多少？以前在成都打滴滴居然花10块钱不到的都有"
+        }
+      ]
+    },
+    {
+      "id": "693848",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以买郊区，可以贷款，可以租房，不想离开怎么都能呆着\t\t</div>",
+      "date": "2023-10-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "693854",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一二线工作的外乡人一般都在自己老家买了一套房 然后在工作的大城市租房住 理论上其实就是供了两套房\t\t</div>",
+      "date": "2023-10-02",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1213045",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-10-02",
+          "content": "上海郊區破房子一個月租金都沒1000塊，太便宜了"
+        },
+        {
+          "id": "1213046",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-10-02",
+          "content": "@四邑漁農牧工商總會:这是哪个郊区的房子？"
+        }
+      ]
+    }
+  ]
+}

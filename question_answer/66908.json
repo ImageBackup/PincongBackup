@@ -1,0 +1,108 @@
+{
+  "parent_type": "question",
+  "parent_id": "66908",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "744028",
+      "is_folded": false,
+      "answerer": {
+        "username": "平疫禁人忍民领袖",
+        "uid": "105080"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我了解的是格式化后，再往手机里下载或者复制GB级别的文件，即可覆盖好原数据。\t\t</div>",
+      "date": "2024-04-28",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "753166",
+      "is_folded": false,
+      "answerer": {
+        "username": "fdshafdsahg",
+        "uid": "130366"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tiOS 手机 重置  之后 应该数据 就擦除了吧<br/>\n<br/>\n安卓我就不知道了<br/>\n<br/>\n听说 安卓 有工具  可以恢复数据\t\t</div>",
+      "date": "2024-06-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744488",
+      "is_folded": false,
+      "answerer": {
+        "username": "N2o小熊",
+        "uid": "26074"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t闪存芯片通常高温时会丢失数据。取出后用高温炙烤也可以清除数据。\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744500",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在android手机基本上都是全盘加密的, 其实不需要擦除别人也读不了, 当然你的bootloader和硬件需要安全. 别说出密码, 全系统擦除, 重置一次, 重新设置一个密码覆盖, 基本差不多了.<br/>\n如果还不放心就去买pixel 刷 GrapheneOS<br/>\n还不放心手机用完就砸了闪存芯片<br/>\n这世界上没啥完全保证\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744258",
+      "is_folded": false,
+      "answerer": {
+        "username": "美国众包骑手",
+        "uid": "128266"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t重置手机有没有用呢？可以尝试重置手机，只希望共匪这个流氓政权早日灭亡。\t\t</div>",
+      "date": "2024-04-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "758621",
+      "is_folded": false,
+      "answerer": {
+        "username": "西瓜甜",
+        "uid": "131460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t害怕，直接重置手机然后在毁坏所有机器有没有用呢\t\t</div>",
+      "date": "2024-07-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744093",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果 android的 File-Based Encryption 是启用的，那么恢复出厂设置就足以擦除数据。\t\t</div>",
+      "date": "2024-04-28",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1261588",
+          "replier": {
+            "username": "N2o小熊",
+            "uid": "26074"
+          },
+          "date": "2024-04-30",
+          "content": "前提是密钥没有泄漏、加密算法没有缺陷（可能存在但还没发现）、未来不会有算力升级暴力破解。我觉得还是覆盖比较好。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "article_id": "67272",
+  "category_id": "4",
+  "title": "好消息Tor发布了webtunnel网桥,可以直接翻墙",
+  "meta_description": "好消息Tor发布了webtunnel网桥,可以直接翻墙 - 最近tor项目组开发了一个名为webtunnel的新网桥，核心思想是将用户的流量伪装成普通的https流量，在中国亲测可以直接翻墙，网速最高可达15mb。下面就来教大家如何获取webtunnel网桥。 一、获取最新版tor浏览器 可以从tor官网上下载（需...",
+  "meta_keywords": "好消息,tor,发布,webtunnel,网桥,直接,翻墙",
+  "tags": [
+    {
+      "id": "1174",
+      "name": "Tor"
+    },
+    {
+      "id": "9360",
+      "name": "翻墙软件"
+    }
+  ],
+  "author": {
+    "username": "小学硕士",
+    "uid": "119464"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t最近tor项目组开发了一个名为webtunnel的新网桥，核心思想是将用户的流量伪装成普通的https流量，在中国亲测可以直接翻墙，网速最高可达15mb。下面就来教大家如何获取webtunnel网桥。<br/>\r\n一、获取最新版tor浏览器<br/>\r\n可以从tor官网上下载（需要梯子），下载地址https://www.torproject.org/zh-CN/download/<br/>\r\n二、获取webtunnel网桥<br/>\r\n  以下步骤均需要代梯子，建议没有梯子的使用tor自带的meek网桥（教程网上找）。<br/>\r\n  先进入tor网桥获取地址https://bridges.torproject.org/options/，然后在“Advanced Options”中选择webtunnel，接着点击get bridge，输入验证码即可获取。<br/>\r\n三、复制网桥地址，在tor中输入（关于如何在tor中手动添加网桥网上有教程，tor官网上也有教程https://tb-manual.torproject.org/zh-CN/bridges/）<br/>\r\n四、连接tor网络\t\t\t\t\t\t\t</div>",
+  "view_count": 29712,
+  "date": "2023-12-30",
+  "agree_count": 24,
+  "comment_count": 33
+}

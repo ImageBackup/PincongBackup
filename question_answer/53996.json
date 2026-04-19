@@ -1,0 +1,124 @@
+{
+  "parent_type": "question",
+  "parent_id": "53996",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "619237",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t作者的推特：<a href=\"url/link/aHR0cHM6Ly9tb2JpbGUudHdpdHRlci5jb20vbnVsbGNoaW5jaGlsbGE\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://mobile.twitter.com/nullchinchilla\">https://mobile.twitter.com/nullchinchilla</a><br/>\n作者的信息：<a href=\"url/link/aHR0cHM6Ly93d3cubnVsbGNoaW5jaGlsbGEubWUv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.nullchinchilla.me/\">https://www.nullchinchilla.me/</a><br/>\n迷雾通的相关成员没有一个是中国境内公民，公司注册在爱沙尼亚，不付费也可使用（限速1.6Mbps）<br/>\n迷雾通使用一个基于 盲签名 (Blind signature)的加密学概念来进行用户验证。简而言之，就是用户可以向翻墙代理证明自己是注册过并付费过的用户，而不透露自己是哪一个用户。这样，注册支付这种「敏感」信息就和浏览活动从数学上隔离了（作者把银行卡信息和用户账号隔离，没法通过迷雾通账号，知道对应的银行卡信息信息）<br/>\n支付宝和微信支付采用的是中间商，会增加10%的费用。微信、支付宝、国内银联交易可能存在一定风险，所以作者建议用加密货币支付<br/>\n翻墙工具，需要考虑政治安全和技术安全，迷雾通可以说是两者兼具\t\t</div>",
+      "date": "2023-01-10",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "619492",
+      "is_folded": false,
+      "answerer": {
+        "username": "lee0303",
+        "uid": "104718"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷雾通貌似是轮子网站上推荐的吧？那安全性应该是没问题\t\t</div>",
+      "date": "2023-01-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "619286",
+      "is_folded": false,
+      "answerer": {
+        "username": "芸芸",
+        "uid": "73228"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷雾通经常封锁大纪元。你说封锁它就解锁，你隔几天发现又封锁，就像打游击。<br/>\n<br/>\n<br/>\n发这个帖子，特意验证了一下。<br/>\n<br/>\nError: Forbidden<br/>\n<br/>\nYour client does not have permission to get URL / from this server.\t\t</div>",
+      "date": "2023-01-10",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1143213",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-01-11",
+          "content": "已删除"
+        },
+        {
+          "id": "1143214",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-01-11",
+          "content": "已删除"
+        },
+        {
+          "id": "1156505",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-02-23",
+          "content": "403是服务端拒绝，应该是大纪元屏蔽了迷雾通的美区节点ip"
+        }
+      ]
+    },
+    {
+      "id": "607848",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你知道吗？Express VPN、Nord VPN、Surfshark VPN这三家知名VPN全都支持银联。可以用云闪付扫码支付。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1133601",
+          "replier": {
+            "username": "rockroll",
+            "uid": "103904"
+          },
+          "date": "2022-12-07",
+          "content": "现在还行吗？"
+        },
+        {
+          "id": "1133603",
+          "replier": {
+            "username": "使命光荣责任重大",
+            "uid": "100513"
+          },
+          "date": "2022-12-07",
+          "content": "@rockroll:行，Surfshark的话找客服，他会给你提供一个不用翻墙可以直接连中国版本的网站，然后直接登上去支付就可以了"
+        },
+        {
+          "id": "1133605",
+          "replier": {
+            "username": "使命光荣责任重大",
+            "uid": "100513"
+          },
+          "date": "2022-12-07",
+          "content": "@rockroll:注意，这一步不要开着VPN，只有中国IP连接那个网站都时候才会出现银联支付选项"
+        },
+        {
+          "id": "1133608",
+          "replier": {
+            "username": "rockroll",
+            "uid": "103904"
+          },
+          "date": "2022-12-07",
+          "content": "@使命光荣责任重大:好的，谢谢"
+        }
+      ]
+    }
+  ]
+}

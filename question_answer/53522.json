@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "53522",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "603382",
+      "is_folded": false,
+      "answerer": {
+        "username": "丁薛祥主任",
+        "uid": "97621"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可能是在打擦边球，也可能真的是什么都不知道。\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "603385",
+      "is_folded": false,
+      "answerer": {
+        "username": "fkjpx",
+        "uid": "93535"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t拭目以待，第二个李佳奇？<br/>\n<br/>\n周三周四掌声掌声掌声\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

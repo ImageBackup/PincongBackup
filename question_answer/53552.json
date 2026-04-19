@@ -1,0 +1,83 @@
+{
+  "parent_type": "question",
+  "parent_id": "53552",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "603625",
+      "is_folded": false,
+      "answerer": {
+        "username": "花环",
+        "uid": "97317"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这些老棺材活着除了消耗民脂民膏，和活体器官，还有什么用？\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "603619",
+      "is_folded": false,
+      "answerer": {
+        "username": "上海公安吴青泽",
+        "uid": "104140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t朱镕基，李瑞环，胡锦涛，温家宝都有可能是下一个\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "603623",
+      "is_folded": false,
+      "answerer": {
+        "username": "asdaFAf",
+        "uid": "100264"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可别，要是国士死光了，如今小学生和太监治国，全中国人都完蛋了。\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": -1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1130242",
+          "replier": {
+            "username": "hashira",
+            "uid": "100238"
+          },
+          "date": "2022-11-30",
+          "content": "留着也是没有没有，不然就被架出去，有个卵用"
+        },
+        {
+          "id": "1130305",
+          "replier": {
+            "username": "asdaFAf",
+            "uid": "100264"
+          },
+          "date": "2022-11-30",
+          "content": "@hashira:提醒后人，以前中国真不是小学生治国。"
+        },
+        {
+          "id": "1130316",
+          "replier": {
+            "username": "hashira",
+            "uid": "100238"
+          },
+          "date": "2022-11-30",
+          "content": "@asdaFAf:提醒后人学历没啥屌用，小学生就能把他们全干趴"
+        },
+        {
+          "id": "1130323",
+          "replier": {
+            "username": "asdaFAf",
+            "uid": "100264"
+          },
+          "date": "2022-11-30",
+          "content": "@hashira:那可不一定，等着看吧"
+        }
+      ]
+    }
+  ]
+}

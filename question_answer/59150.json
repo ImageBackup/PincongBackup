@@ -1,0 +1,85 @@
+{
+  "parent_type": "question",
+  "parent_id": "59150",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "663556",
+      "is_folded": false,
+      "answerer": {
+        "username": "BreakingWave",
+        "uid": "50441"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t上面说的都对，但是还有就是政府（总理）是需要得到议会的信任案的。<br/>\n<br/>\n而且德国是建设性不信任动议，也就是说，在发生不信任动议的时候必须提名一个新的总理候选人。<br/>\n<br/>\n可是如果你没法推出一个大家都认的人选，或者你能提名但是这个人没法拿到50%以上议员同意，那就还是没法正常罢免。<br/>\n<br/>\n我不太清楚德国的政策，但是在西敏制下，如果总理在不信任案后向总督/国王/总统提议解散国会，而总督/国王/总统认为国会还有可能支持另一个人选可以当总理，是可以拒绝解散国会的提议的。比如加拿大历史上著名的https://en.wikipedia.org/wiki/King%E2%80%93Byng_affair 就是少数政府得到不信任动议之后和总督提议解散国会，而总督认为反对党可能可以组阁，就拒绝了解散国会的要求并且提名反对党党魁当总理。<br/>\n<br/>\n然后回复你的标题，议员其实也要看，有一些议员即使是被迫重新参选，他们的选区也是保险选区（或者在政党名单比例代表制下，在政党名单前列），所以他们不在意。但是有些议员可能就会因为这个丢工作，而他们虽然不开心，但是也不能公开说出来，毕竟如果和自己的政党不和可能会连下次大选政党的提名都拿不到。\t\t</div>",
+      "date": "2023-06-18",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663072",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t图样图森破，被架出会场的胡锦涛和习近平也是同党派的人啊\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663073",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t议会制国家里解散议会重新大选是有利于当时的优势政党的，很多优势政党议员都在胜选率较高的选区内。<br/>\n<br/>\n如果优势政党不想重新大选只想换总理的话，可以通过部长辞职等手段逼总理辞职，然后议会再选举一个新总理。\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663580",
+      "is_folded": false,
+      "answerer": {
+        "username": "AntiCCP01",
+        "uid": "79104"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t维基百科是这么说的？<br/>\n个人认知里，德国是议会内阁制没错，总统并没有政治权限，因此无法罢免行政第一人总理。总理对联邦议会负责。<br/>\n<br/>\n日本的情况是通过不信任案罢免总理的话，总理有实权解散众议院——虽然名义上是天皇。属于内阁和众议院互相制衡的关系。你要说为什么…宪法规定的。<br/>\n<br/>\n至于德国就不太清楚了\t\t</div>",
+      "date": "2023-06-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663604",
+      "is_folded": false,
+      "answerer": {
+        "username": "freedomofchina",
+        "uid": "111795"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为议员又不像中国一样是领导任命的，老领导走后人走茶凉你当不上了可能会急。你既然正常选能选上议员，那么哪怕再选一次获得议员也是大概率\t\t</div>",
+      "date": "2023-06-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663611",
+      "is_folded": false,
+      "answerer": {
+        "username": "我不是机器",
+        "uid": "91113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t議會制國家普遍議員比美國議員還多，他們也根本沒多少權力，就是普通黨員而已。競選也沒花多少錢，本身也沒出多少力，選民都是看黨投票而不是看人。首相會提前選舉通常是因為感覺有優勢，趁著上風繼續連任五年，對執政黨來說是好事。\t\t</div>",
+      "date": "2023-06-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

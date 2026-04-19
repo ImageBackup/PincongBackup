@@ -1,0 +1,53 @@
+{
+  "parent_type": "question",
+  "parent_id": "59662",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "668169",
+      "is_folded": false,
+      "answerer": {
+        "username": "斩首习近平",
+        "uid": "52179"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的建议是这种梗一样的东西以回复出现就够了，以主题出现除了占版面就只剩下引战一个作用了\t\t</div>",
+      "date": "2023-07-06",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1193344",
+          "replier": {
+            "username": "走线vs革命",
+            "uid": "112643"
+          },
+          "date": "2023-07-22",
+          "content": "很正常啊"
+        }
+      ]
+    },
+    {
+      "id": "668117",
+      "is_folded": false,
+      "answerer": {
+        "username": "fel6111",
+        "uid": "47889"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也是，我也有不少基层党员朋友心里门儿清，但是考虑到个人发展，还是留在体制内的。\t\t</div>",
+      "date": "2023-07-06",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1193345",
+          "replier": {
+            "username": "走线vs革命",
+            "uid": "112643"
+          },
+          "date": "2023-07-22",
+          "content": "对"
+        }
+      ]
+    }
+  ]
+}

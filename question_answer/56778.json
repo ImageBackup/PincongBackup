@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "56778",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "638826",
+      "is_folded": false,
+      "answerer": {
+        "username": "Satyagraha",
+        "uid": "109241"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果你用了代理工具，可能是你节点被YouTube认定为灌水多发地，此ip被限制了评论，换个节点或者换个代理服务商\t\t</div>",
+      "date": "2023-03-11",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1161567",
+          "replier": {
+            "username": "shijiaqing",
+            "uid": "80186"
+          },
+          "date": "2023-03-11",
+          "content": "换了好几个vpn都不行，换了个youtube账号就好得很"
+        },
+        {
+          "id": "1161568",
+          "replier": {
+            "username": "Satyagraha",
+            "uid": "109241"
+          },
+          "date": "2023-03-11",
+          "content": "@shijiaqing那可能你骂得太过分，被油管认定是仇恨言论了……还是要据理力争，跟傻x小粉红不值得动怒，毕竟气大伤身嘛……"
+        }
+      ]
+    }
+  ]
+}

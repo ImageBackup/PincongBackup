@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "65025",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "724483",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t挺好的，就是不知道会被关多久🤣🤣🤣<br/>\n<br/>\n<br/>\n实在是笑嘻了🤣<br/>\n<br/>\n字数补丁\t\t</div>",
+      "date": "2024-01-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724540",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我感觉日本人不会这么做，大概会是中国人去搞的\t\t</div>",
+      "date": "2024-01-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724543",
+      "is_folded": true,
+      "answerer": {
+        "username": "爆汁两脚羊",
+        "uid": "123260"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-01-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

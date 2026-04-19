@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "61991",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "691536",
+      "is_folded": false,
+      "answerer": {
+        "username": "dearkate00820",
+        "uid": "112674"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t之前看见一个利用bug,让推特给你发邮件,获得用户名的,你骨骼百度搜一下\t\t</div>",
+      "date": "2023-09-23",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1210749",
+          "replier": {
+            "username": "摄影师任博梁",
+            "uid": "116981"
+          },
+          "date": "2023-09-23",
+          "content": "好的，谢谢"
+        }
+      ]
+    }
+  ]
+}

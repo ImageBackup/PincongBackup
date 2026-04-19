@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "62650",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "702949",
+      "is_folded": false,
+      "answerer": {
+        "username": "国家主席刘德华",
+        "uid": "112103"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果朴宪永成功了呢？或许现在会更好，朝鲜半岛早就统一了\t\t</div>",
+      "date": "2023-11-02",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699370",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一個淵蓋蘇文（泉蓋蘇文）iri kasumi（伊梨柯須彌）式的強人，北韓面積小，人口少，民族單一，交通封閉（只有北部和亞洲大陸相連），天然適合獨裁管制\t\t</div>",
+      "date": "2023-10-22",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1237297",
+          "replier": {
+            "username": "国家主席刘德华",
+            "uid": "112103"
+          },
+          "date": "2024-01-07",
+          "content": "如果金日成统一了朝鲜半岛呢"
+        }
+      ]
+    }
+  ]
+}

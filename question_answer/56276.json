@@ -1,0 +1,72 @@
+{
+  "parent_type": "question",
+  "parent_id": "56276",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "633135",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t答案：他们有一大堆备用域名，如果App连不上一个，就会自动切换另一个，直到切换到不在墙的黑名单里的域名。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633181",
+      "is_folded": false,
+      "answerer": {
+        "username": "冬天的野火也不弱",
+        "uid": "104693"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t色情网站都是有一大堆域名的，可以说草榴就没被GFW真正封住过。色情网站比反共民主网站难封一百倍，毕竟对政治感兴趣的人不算多，但是对性不感兴趣的人就很少了。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633162",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t（1）草榴经常换备用域名。<br/>\n（2）游戏加速器主动关掉了翻墙功能，不然的话，你轻轻举报一下，他们就要因为社会主义铁拳而破产倒闭了。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633217",
+      "is_folded": false,
+      "answerer": {
+        "username": "土共他马",
+        "uid": "107524"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以试下这个3w点opwpvpn点net ，反正浏览器基本都打得开，主要是免费。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633172",
+      "is_folded": true,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\t草榴APP访问的是反向代理，你访问正式域名t66y.com肯定还是被墙的。只能说热心为草榴建反向代理的人太多，封不过来。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

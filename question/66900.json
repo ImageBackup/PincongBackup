@@ -1,0 +1,34 @@
+{
+  "question_id": "66900",
+  "category_id": "8",
+  "title": "品葱会记录哪些用户信息?",
+  "meta_description": "品葱会记录哪些用户信息? - 用户名和密码肯定是要记录的.否则注册用户没办法登录系统.除此以外,品葱还会记录哪些用户信息呢?比如登录时间,IP地址,浏览器的版本号...",
+  "meta_keywords": "品葱,记录,用户,信息",
+  "tags": [
+    {
+      "id": "1086",
+      "name": "网络安全"
+    }
+  ],
+  "author": {
+    "username": "习马户艹彭又鸟",
+    "uid": "117789"
+  },
+  "view_count": 2902,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t用户名和密码肯定是要记录的.否则注册用户没办法登录系统.除此以外,品葱还会记录哪些用户信息呢?比如登录时间,IP地址,浏览器的版本号...\t\t\t\t\t\t\t</div>",
+  "date": "2024-04-28",
+  "agree_count": 1,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1059848",
+      "replier": {
+        "username": "決不再做奴隸",
+        "uid": "19469"
+      },
+      "date": "2024-05-05",
+      "content": "應該是不會記錄IP的，而且通訊還有https加密"
+    }
+  ],
+  "answer_count": 1
+}

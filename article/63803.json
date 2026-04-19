@@ -1,0 +1,26 @@
+{
+  "article_id": "63803",
+  "category_id": "6",
+  "title": "安全上网之浏览器Referer信息",
+  "meta_description": "安全上网之浏览器Referer信息 - 我们先做个实验：1.打开浏览器，进入duckduckgo搜索引擎 2.输入关键字: pincong 3.点击“鼠标右键”，选择“检查(Q)”,进入开发者模式，点击 调试模式窗口上面的 “ 网络”标签,切换到开发者模式的“网络页面” 4.点击搜索引擎搜索到的...",
+  "meta_keywords": "安全,上网,浏览器,referer,信息",
+  "tags": [
+    {
+      "id": "199",
+      "name": "安全"
+    },
+    {
+      "id": "249",
+      "name": "安全上网"
+    }
+  ],
+  "author": {
+    "username": "cuz",
+    "uid": "86506"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t我们先做个实验：1.打开浏览器，进入duckduckgo搜索引擎<br/>\r\n2.输入关键字: pincong<br/>\r\n3.点击“鼠标右键”，选择“检查(Q)”,进入开发者模式，点击 调试模式窗口上面的 “ 网络”标签,切换到开发者模式的“网络页面”<br/>\r\n4.点击搜索引擎搜索到的品葱页面，鼠标单击打开页面<br/>\r\n5.等页面加载完毕，点击开发者模式的“网络页面”的品葱网址，右边会显示网络请求信息，查看请求头部分，有一个头部信息--Referer,赫然显示了来路来自：duckduckgo<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvMzJiNzcyYjU2OGY1MmFlYTQ1NzMwLnBuZz93aWR0aD0xNTI1JmhlaWdodD0yNTU\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/32b772b568f52aea45730.png?width=1525&amp;height=255\"><img alt=\"https://telegra.ph/file/32b772b568f52aea45730.png?width=1525&amp;height=255\" loading=\"lazy\" src=\"https://telegra.ph/file/32b772b568f52aea45730.png?width=1525&amp;height=255\" style=\"max-width:100%\"/></a><br/>\n<br/>\r\n显示来路是duckduckgo,意思就是从duckduckgo来到品葱。如果别人分享cctv的网站到品葱，你在品葱右键打开了，cctv的后台就知道了你从品葱过来的，千万要小心。<br/>\n<br/>\n<b><u>所以我建议日常分享网站：</u></b><br/>\r\n比如1234.com 要写成：1234点com或者1234. com之类使浏览器不能自动打开网址，这样就跳到搜索引擎去了，这个时候建议搜索换成谷歌安全一点。<br/>\n<br/>\n<b>我建议打开网址的操作：</b><br/>\n<b>复制网址，然后浏览器新建一个标签页，把网址复制到地址栏，再打开，就不会带上来路信息了。但是国产软件会读取剪贴板，所以建议不要装国产软件，记得及时清理剪贴板</b> </div>",
+  "view_count": 2256,
+  "date": "2023-09-14",
+  "agree_count": 8,
+  "comment_count": 9
+}

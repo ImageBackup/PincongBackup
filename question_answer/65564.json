@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "65564",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "729934",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你以为华为小米没补贴吗😄<br/>\n<br/>\n上市公司都有财报公开，你可以去看看。有补贴数额的💰\t\t</div>",
+      "date": "2024-02-24",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1247194",
+          "replier": {
+            "username": "老资历的余裕",
+            "uid": "123572"
+          },
+          "date": "2024-02-24",
+          "content": "那是算的科技行业补贴，应该直接跟汽车一样一台补几千，售价出来只有几十块和一百块。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "parent_type": "question",
+  "parent_id": "57064",
+  "answer_count": 11,
+  "answers": [
+    {
+      "id": "641941",
+      "is_folded": false,
+      "answerer": {
+        "username": "藍白拖",
+        "uid": "106244"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1.對的，他們server 都有紀錄（他解鎖都經過一個線上server)所以鎖小米帳號黑解的就解不了就是這個原因<br/>\n<br/>\n2.歐版基於陸版修改，一定有，eu的開發者也有出來說他們沒有把一些反詐騙中心元件移除<br/>\n他是建議討厭這樣的人不如購買三星/蘋果<br/>\n<br/>\n<br/>\n我的看法：我算窮學生，所以小米也是我經常光顧的品牌，但手機說白了還是走低價高配那些，很多軟體上的體驗非常的不好（不刷機的狀況下）<br/>\n讓我不買小米的原因還是其手機的粉絲群跟紅衛兵一樣<br/>\n<br/>\n現在用的是海外版本的維沃手機，基本上維沃海外版(帶funtouch)比較乾淨就是（難聽就是簡陋，很多台灣這裡的人要買維沃都是買大陸帶原（origin)系統的，功能多很多）<br/>\n<br/>\n<br/>\n當然回到原點，大陸機還是謹慎選擇就是（我們是預算有限真的買不起越來越貴的蘋果/三星（連二手都是萬元起跳）\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 4,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1164976",
+          "replier": {
+            "username": "漢室不可興復",
+            "uid": "48003"
+          },
+          "date": "2023-03-22",
+          "content": "台湾的朋友吗？台湾人也很多买大陆版VIVO手机的？对于你说的第二点，其实这正中了我的猜疑：小米EU版MIUI仅仅是广告层面、捆绑软件层面干净了些，但是系统层级还是各种监听盗窃。我认为，如果想享受小米的低价高硬件性能，但是又不想被系统级别的监控软件偷窥，还是得刷第三方ROM，例如Lineage、DRdroid。但是这种方法又中了我说的第一点问题，就是解锁的话小米是留记录的。如果你是台湾人不在大陆，你解锁小米刷lineage让小米知道了你的信息，倒也无妨。但是人在大陆解锁小米，恐怕就是装了Lineage也不保险：网警通过运营商基站记录、手机IMEI记录、小米的解锁记录，分分钟查到（只不过通常他们不查）"
+        },
+        {
+          "id": "1164977",
+          "replier": {
+            "username": "漢室不可興復",
+            "uid": "48003"
+          },
+          "date": "2023-03-22",
+          "content": "你说到“讓我不買小米的原因還是其手機的粉絲群跟紅衛兵一樣”。这点不用往心里去，米粉绝对比花粉里的粉红少。而且，小米和一加是大陆手机唯二可以方便解锁的品牌，其他品牌要么解锁非常非常困难（OPPO），要么毫无可能解锁（华为）。非大陆品牌手机，方便解锁的只有一家就是Google Pixel。我建议你下一部手机可以用Google Pixel，这东西解锁非常容易，而且XDA论坛上的资源简直是天文数字，各种各样的ROM层出不穷。三星这东西，解锁相对困难一些，只不过我个人不喜欢这个品牌。另外别碰索尼。索尼卖得比苹果还贵，但是系统官方只升级两年，就这还一堆BUG。而且XDA论坛上索尼机型的资源非常少。"
+        },
+        {
+          "id": "1165024",
+          "replier": {
+            "username": "藍白拖",
+            "uid": "106244"
+          },
+          "date": "2023-03-22",
+          "content": "@漢室不可興復:台灣有不少人很喜歡國行（大陸版）的vivo,同理小米/oppo/一加，甚至華為都有一群人喜歡\n至於華為粉絲，偶爾（進牆內論壇）有看到偏激的，其他不清楚，但在我們島上比較激動和黑不得的分別是三星/華碩，還有小米（挺諷刺的，連海外廠商粉絲層都變成這樣....）"
+        }
+      ]
+    },
+    {
+      "id": "641944",
+      "is_folded": false,
+      "answerer": {
+        "username": "亡共进行时",
+        "uid": "7969"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1.解锁BL必须通过电信信号发出去验证，不能通过wifi，基站肯定有记录的，小米服务器自然有记录。<br/>\n2.国际版rom不管是哪个版本我个人认为是有后台隐私记录的，不能掉以轻心，只是相对国内版纯净一点点而已。<br/>\n<br/>\n总结，在国内永远不要用手机操作高危行为，有重大行动不能携带手机，哪怕是关机也不行。\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 6,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1164981",
+          "replier": {
+            "username": "漢室不可興復",
+            "uid": "48003"
+          },
+          "date": "2023-03-22",
+          "content": "我现怕一件事情，那就是哪怕用原生Pixel，在Play Store下载了一个中国APP，或者说中国本土开发但是面向海外服务的APP，可能照样把手机里的信息上传出去"
+        },
+        {
+          "id": "1164984",
+          "replier": {
+            "username": "漢室不可興復",
+            "uid": "48003"
+          },
+          "date": "2023-03-22",
+          "content": "Google Play和APP Store不是百分百无暇的圣地，里面坑货软件其实非常非常多"
+        }
+      ]
+    },
+    {
+      "id": "641919",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 小米賬號多年前就有每周還是每月限制, 不允許時限内解鎖超過三次. 後來聽説是匪區行貨無法解鎖了, 匪患區的產品我是盡量不購買的.\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641978",
+      "is_folded": false,
+      "answerer": {
+        "username": "qbc",
+        "uid": "51169"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我都是在闲鱼买二手红米手机 你可以要求卖家解锁了BL 刷好magisk然后再发货的。买回来后就可以刷gsi。你要买红米手机前要做好功课 有些红米手机是没有gsi刷的（即使刷了 但可以会有不少bug导致你最终回到miui）。最好买骁龙的cpu 在国外有发布的型号 这样国外大牛也会适配相应的rom。如果红米手机的型号没有在国外发售，只在中国发售的一定不要买，因为没有大牛适配类原生的rom。还有就是mtk的cpu也不要买，mtk的适配很难，mtk刷类原生都有不少bug。红米+国外发布的型号+骁龙cpu。基本就行了。不要买首发，因为首发你不知道国外有没有人适配，一般买发布一年的手机型号，看看国外有人适配类原生了就可以到闲鱼购买了。\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1164978",
+          "replier": {
+            "username": "漢室不可興復",
+            "uid": "48003"
+          },
+          "date": "2023-03-22",
+          "content": "好，学习了。不过目前中国品牌+方便解锁刷机+海外销售的热门机型，恐怕就只有一加数字系列、小米数字系列、红米K数字系列这三个系列了。其他几个走线下主打内销的品牌？就解锁这关就卡死了，而且相当多机型不在海外销售。最近在考虑小米13 PRO，骁龙8 Gen 2处理器没得说，这个海外是销售的。过一年看看能不能降到一个合适的价格"
+        }
+      ]
+    },
+    {
+      "id": "642098",
+      "is_folded": false,
+      "answerer": {
+        "username": "老狐狸",
+        "uid": "84574"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t买三星就可以了。国行也可以，国行跟港版之间，可以互刷，不需要解锁，也不会造成熔断，不影响保修。\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642033",
+      "is_folded": false,
+      "answerer": {
+        "username": "electric_rain",
+        "uid": "25574"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1 如果装墙内软件，那么怎么解锁都不管用<br/>\n2 作为翻墙专用手机，不如买三星、谷歌，甚至日本的京瓷、夏普。考虑到成本可以买二手的或者旧款机子。\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657577",
+      "is_folded": false,
+      "answerer": {
+        "username": "weiwei2000",
+        "uid": "102228"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t买个港版水货的日韩品牌（比如SONY）手机就完事了，你搞这么复杂。<br/>\n天天提心吊胆这个监控那个监视，买个定时炸弹回家，何必呢？<br/>\n我寻思着买低端型号，价格也不贵啊。\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641982",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你人在国内你的手机只要装了微信，搜狗输入法这类国内的 app，那你刷什么 rom 都没用。如果你不装这些 app，那你的手机在国内也相当于是个废物。但是如果你人不在国内，自然你也没必要买个国产手机，给自己找不痛快。所以本质上来说是只要你人在国内，你很难摆脱被监控和收集隐私。所以最好的办法就是，你人和你的社会关系统统不要在国内。否则你逃不脱老共的监控。\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642048",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国内外的手机都没有系统级监控，因为监控微信，网络论坛发言就行了，系统底层植入又容易暴露又费人力审查<br/>\n<br/>\n只不过会阻止你安装“不可信软件”，安装了反诈app还会自动报警而已\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642121",
+      "is_folded": false,
+      "answerer": {
+        "username": "db8964",
+        "uid": "88573"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国产手机有没有完全独立于bl 到 andorid的后台？我觉得是有的，像麒麟或者展锐那种国产arm芯片合理怀疑有直通国安的后门。<br/>\n<br/>\n至于miui这种系统有没有监控……，当然有，怎么会没有？\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657564",
+      "is_folded": false,
+      "answerer": {
+        "username": "郭芯毓",
+        "uid": "110410"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果是联发科芯片的小米手机，因为联发科芯片有漏洞，基本上可以用工具软件一键解锁BL，不用登录小米账号那么麻烦。高通芯片的话就看机型了，早期型号可以在9008下刷入解锁包解BL，新出的基本不行，甚至连9008都给你锁了，要解只能走官方渠道。墙内比较推荐一加，容易解BL，海外开源的类原生也丰富。\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

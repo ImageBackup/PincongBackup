@@ -1,0 +1,187 @@
+{
+  "parent_type": "question",
+  "parent_id": "62544",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "697521",
+      "is_folded": false,
+      "answerer": {
+        "username": "习近平会连任吗",
+        "uid": "73202"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t失业率在<mark>支那</mark>不重要，不知道为啥非要较真，青年失业率30，中年失业率35，满意了？\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697538",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国人民银行监控着中国每一个资金账户，间谍用的加密货币都能查，统计工资账户就行。\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "698056",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很简单 把不交社保的和只交最低基数并且个人的所得税刚好达到每月5400的人加一起，大概率这部分就是失业人群，前者自然不必说后者很多是挂证单位交社保挂着的。\t\t</div>",
+      "date": "2023-10-18",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1217674",
+          "replier": {
+            "username": "马路牙子",
+            "uid": "106648"
+          },
+          "date": "2023-10-19",
+          "content": "这个主意不错。"
+        }
+      ]
+    },
+    {
+      "id": "698012",
+      "is_folded": false,
+      "answerer": {
+        "username": "qingcheng",
+        "uid": "45614"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在这个网站发个调查，窥一斑而见全豹，就大概算出来真实失业率了，毕竟这个网站大部分人都比较不会说谎话。\t\t</div>",
+      "date": "2023-10-18",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1217681",
+          "replier": {
+            "username": "SANDOLA666",
+            "uid": "78276"
+          },
+          "date": "2023-10-19",
+          "content": "沒意義，抽樣偏差，因為能翻牆出來的都不是底層，而底層才是失業的主體"
+        }
+      ]
+    },
+    {
+      "id": "697510",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你有那个精力可以试着 去投简历找工作<br/>\n本站应该有不少葱油都试验过了\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1217520",
+          "replier": {
+            "username": "马路牙子",
+            "uid": "106648"
+          },
+          "date": "2023-10-18",
+          "content": "你为啥会觉得我需要找工作"
+        },
+        {
+          "id": "1217545",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2023-10-18",
+          "content": "@马路牙子:人家是叫你通过投简历试试有多少企业会录用你，然后你感受一下，你这都看不懂，水平..."
+        },
+        {
+          "id": "1217672",
+          "replier": {
+            "username": "马路牙子",
+            "uid": "106648"
+          },
+          "date": "2023-10-19",
+          "content": "@韭国:你这根本就不靠谱。你还能一个人投n个行业的简历？你能投多少简历？1000万份？靠企业对你个人的回复率来猜就业率吗？"
+        }
+      ]
+    },
+    {
+      "id": "697535",
+      "is_folded": false,
+      "answerer": {
+        "username": "爱喝可口可乐",
+        "uid": "110233"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以的，失业人群为了排解无聊肯定会把大部分时间用在上网上。再说，工作的话大部分人也没那么多时间上网。因此，(今年上网总流量－去年上网总流量)÷去年上网总流量，然后乘以中国人口总量，就可以得出大致失业率。\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1217107",
+          "replier": {
+            "username": "爱喝可口可乐",
+            "uid": "110233"
+          },
+          "date": "2023-10-16",
+          "content": "不过去年还在封控，还需要排除封控因素。所以，用月份计算更恰当"
+        },
+        {
+          "id": "1217109",
+          "replier": {
+            "username": "爱喝可口可乐",
+            "uid": "110233"
+          },
+          "date": "2023-10-16",
+          "content": "但要排除的是寒暑假节假日"
+        },
+        {
+          "id": "1217675",
+          "replier": {
+            "username": "马路牙子",
+            "uid": "106648"
+          },
+          "date": "2023-10-19",
+          "content": "流量不好查吧，最多能查到业务营收情况。但是网费就业的人失业的人都会交。"
+        }
+      ]
+    },
+    {
+      "id": "698058",
+      "is_folded": false,
+      "answerer": {
+        "username": "严防网警比对信息",
+        "uid": "112279"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t根本没有失业的，街上有几个乞丐，流浪汉？中国就业率绝对是只比朝鲜高一点\t\t</div>",
+      "date": "2023-10-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "698862",
+      "is_folded": false,
+      "answerer": {
+        "username": "德国巴黎",
+        "uid": "111846"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这就看你怎么理解失业了。<br/>\n种地是不是失业？做日结打散工算不算失业？在家里帮父母打下手算不算失业？<br/>\n首先是00后，大部分人在上大学，没有去上大学的有些在啃老，有些在奶茶店、理发店打工，总之现在00后是不愿意进厂了。我这里没读大学的一线土著都在啃老。<br/>\n90后整体来说也一样，2008年他们18岁来工厂打工，但是也存不下钱，大城市买不起房。去读大学的有些进了体制内，工作还算不错。农村的90后的父母——60后现在还在老家种地。<br/>\n70后和80后不做生意的大部分都在工厂，80后一直是工厂主力军。<br/>\n90后和00后本质上没有区别，父母都赶上红利，贫富差距大。有些90后父母作为体制内干部，子女在大学无忧无虑，有些90后初中毕业就去珠三角打工了。<br/>\n00后面对的是更加可怕的社会，过去对未来的憧憬化为泡影，对他们的打击是很大的。<br/>\n70后要不回老家种地，要不体制内上班，要不来工厂混日结，现在工厂年龄搞到53岁了，再大一点就当清洁工，或者去摆摊。<br/>\n实际上，如果你在大城市没有房子，没有进入体制内，等你老了基本都是这个结局。农村户口完全是大城市的螺丝钉，不会有稳定的工作，失业率很难计算，但是灵活就业人数一直都未曾减少。\t\t</div>",
+      "date": "2023-10-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

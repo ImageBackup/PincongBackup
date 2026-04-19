@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "65109",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "725343",
+      "is_folded": false,
+      "answerer": {
+        "username": "李老师的supervisor",
+        "uid": "50992"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看海报实在提不起兴趣，既然有人问了我就去看看。\t\t</div>",
+      "date": "2024-02-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "725369",
+      "is_folded": false,
+      "answerer": {
+        "username": "Abele",
+        "uid": "123394"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是你一个人，真的很一般，完全没不要去电影院看\t\t</div>",
+      "date": "2024-02-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

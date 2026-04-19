@@ -1,0 +1,24 @@
+{
+  "question_id": "54087",
+  "category_id": "4",
+  "title": "求助如何配置orbot？",
+  "meta_description": "求助如何配置orbot？ - 因最近几天多种VPN失效，包括迷雾通，所以打算启用tor应急，所以下载了orbot 但在使用配置过程中发现它比较不友好，因此求助各葱友 我在某国产手机上安装后，使用较为简单，因为它有VPN模式，直接把浏览器打上勾就可以翻墙了 特殊的地方在于三星手机，我其中...",
+  "meta_keywords": "求助,配置,orbot",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    }
+  ],
+  "author": {
+    "username": "Shit进瓶",
+    "uid": "93874"
+  },
+  "view_count": 7479,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t因最近几天多种VPN失效，包括迷雾通，所以打算启用tor应急，所以下载了orbot<br/>\n但在使用配置过程中发现它比较不友好，因此求助各葱友<br/>\n我在某国产手机上安装后，使用较为简单，因为它有VPN模式，直接把浏览器打上勾就可以翻墙了<br/>\n特殊的地方在于三星手机，我其中一台安卓10系统的，只勾选浏览器无法上网，还需要勾选webview和一个叫网络诊断的APP，然后就可以翻墙了<br/>\n但另一台安卓6的也是三星，却怎么弄也无法翻墙<br/>\n1，确认tor连接已建立成功<br/>\n2，勾选了浏览器和webview，但不像安卓10有网络诊断APP勾选<br/>\n但就是无法翻墙，试图勾选一些跟网络有关的系统APP，也无法翻墙，访问谷歌提示，dns找不到域名<br/>\n请问下葱友，应如何配置orbot？<br/>\n（非必要暂不考虑直接orfox，先解决自己常用的浏览器翻墙吧）\t\t\t\t\t\t\t</div>",
+  "date": "2022-12-09",
+  "agree_count": 0,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 3
+}

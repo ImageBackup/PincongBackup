@@ -1,0 +1,70 @@
+{
+  "parent_type": "question",
+  "parent_id": "57325",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "648832",
+      "is_folded": false,
+      "answerer": {
+        "username": "BUG",
+        "uid": "110890"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个法案最大的问题是“健康和利益”有很多方面而且可能互相矛盾，例如防疫措施是否符合“美国人民的健康和利益”？\t\t</div>",
+      "date": "2023-04-17",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "648836",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这就是个用于制裁的口袋罪吧，只有国力强大如美国才能制定这样的法律，其他国家制定就是个笑话。\t\t</div>",
+      "date": "2023-04-17",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1170856",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-17",
+          "content": "美国制定了也不是很好用"
+        },
+        {
+          "id": "1170864",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-17",
+          "content": "@rowlandheights: “好用”“不好用”从何说起？"
+        },
+        {
+          "id": "1170936",
+          "replier": {
+            "username": "BUG",
+            "uid": "110890"
+          },
+          "date": "2023-04-17",
+          "content": "美国也有口袋罪？奇怪的知识增加了！"
+        },
+        {
+          "id": "1170947",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-17",
+          "content": "@BUG:有啊，“国家安全”不就是？现在这个显然也是"
+        }
+      ]
+    }
+  ]
+}

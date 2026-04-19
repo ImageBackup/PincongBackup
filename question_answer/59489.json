@@ -1,0 +1,105 @@
+{
+  "parent_type": "question",
+  "parent_id": "59489",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "666385",
+      "is_folded": false,
+      "answerer": {
+        "username": "维尼爱喝歪嘴茅台",
+        "uid": "15821"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t推特上的蓝标黄推经李老师曝光后那些人恼羞成怒，我的直觉告诉我那些人应该就是来自缅北的诈骗集团。这些诈骗集团的头目很多人跟中国有着千丝万缕的关系，之前媒体报道的KK园区领导人之一的佘智江一度是习近平在菲律宾宴会上的座上宾。所以，不管是在墙内还是墙外，内网还是外网一定要谨慎谨慎再谨慎。\t\t</div>",
+      "date": "2023-06-30",
+      "agree_count": 5,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1188313",
+          "replier": {
+            "username": "flyfighter",
+            "uid": "97040"
+          },
+          "date": "2023-06-30",
+          "content": "毕竟没有这种联系，三大运营商没有理由去赚诈骗团伙的钱，尤其出卖的还是用户隐私"
+        },
+        {
+          "id": "1188327",
+          "replier": {
+            "username": "维尼爱喝歪嘴茅台",
+            "uid": "15821"
+          },
+          "date": "2023-06-30",
+          "content": "@flyfighter:运营商一般情况下不会出卖你的隐私，但是这些诈骗集团黄推都是让你下载一个软件然后再一步步进行勒索。你看李老师的推文就有人现身说法，被诈骗20多万。"
+        },
+        {
+          "id": "1188387",
+          "replier": {
+            "username": "flyfighter",
+            "uid": "97040"
+          },
+          "date": "2023-07-01",
+          "content": "@维尼爱喝歪嘴茅台:那说明你知道的太少了，运营商的节操比你想象得低，当然不是为了赚钱，毕竟名义上都是国家的钱"
+        },
+        {
+          "id": "1188389",
+          "replier": {
+            "username": "维尼爱喝歪嘴茅台",
+            "uid": "15821"
+          },
+          "date": "2023-07-01",
+          "content": "@flyfighter:我说那些黄推大概率来自缅甸北，那牵扯到电信公司什么业务我不清楚，只是希望各位谨慎小心。"
+        },
+        {
+          "id": "1188460",
+          "replier": {
+            "username": "flyfighter",
+            "uid": "97040"
+          },
+          "date": "2023-07-01",
+          "content": "@维尼爱喝歪嘴茅台:是的，我明白，但是我想说的是缅北的电信诈骗，他们很多信息都是从运营商那里拿的，这也是为什么反诈app为什么会导致更多诈骗电话的原因，这个问题是这样的，如果想要反诈，则必须允许运营商记录甚至后台分析你的数据，开了潘多拉魔盒，人家想怎么用可就不可控了"
+        }
+      ]
+    },
+    {
+      "id": "666379",
+      "is_folded": false,
+      "answerer": {
+        "username": "萨格尔王吃冰棒",
+        "uid": "21463"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自产自销确实算创业，但是创新不至于吧？又没有开发新体位。\t\t</div>",
+      "date": "2023-06-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "666381",
+      "is_folded": false,
+      "answerer": {
+        "username": "屑大大突开沼气池",
+        "uid": "111498"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t素的惹，建议人射部的百日促就业专项行动要严格落实多元拓展好好助力助力有意向搞黄推的毕业生和各类劳动者。\t\t</div>",
+      "date": "2023-06-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "666676",
+      "is_folded": false,
+      "answerer": {
+        "username": "聖勵騎士",
+        "uid": "112599"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t听闻其他葱油说,现在必须登录才能看,反倒让我有点害怕.我还是直接去看 小黄书（这是一个app网站名称）去了.\t\t</div>",
+      "date": "2023-07-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "53594",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "604019",
+      "is_folded": false,
+      "answerer": {
+        "username": "codywang",
+        "uid": "93639"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不会，最早的小道消息也是在11月13号开始，二十大的时候他应该在上海，意识还清醒。\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1130558",
+          "replier": {
+            "username": "Ultraman",
+            "uid": "87956"
+          },
+          "date": "2022-11-30",
+          "content": "生日照看上去气色还不错，还有表达了“习下李上”鲜明政治倾向，这会儿就见马克思了"
+        }
+      ]
+    },
+    {
+      "id": "604118",
+      "is_folded": false,
+      "answerer": {
+        "username": "XJP06153019",
+        "uid": "94210"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t11.13那会可能已经失去意识了用药续了这么久，没有意义了才拔管\t\t</div>",
+      "date": "2022-11-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

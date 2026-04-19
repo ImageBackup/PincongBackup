@@ -1,0 +1,101 @@
+{
+  "parent_type": "question",
+  "parent_id": "55979",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "629892",
+      "is_folded": false,
+      "answerer": {
+        "username": "xxwn123",
+        "uid": "105603"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t会。数字货币和货币的区别是什么？如果共匪想搞数字化，网银支付宝微信够用了。那如果不是为了数字化，那目的是什么？会不会挑战货币的本质，搞得人心惶惶？\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1153274",
+          "replier": {
+            "username": "郝明珠",
+            "uid": "107313"
+          },
+          "date": "2023-02-10",
+          "content": "没事闲了编几个 电子人民币的谣言，比 直接印刷假币破坏市场 金融秩序 效果更好。"
+        },
+        {
+          "id": "1153320",
+          "replier": {
+            "username": "xxwn123",
+            "uid": "105603"
+          },
+          "date": "2023-02-11",
+          "content": "@郝明珠:是的，这东西推广需要政府公信力背书。现在医疗，婚育和退休的政策一变再变，共匪迟早把自己玩死。"
+        }
+      ]
+    },
+    {
+      "id": "629972",
+      "is_folded": false,
+      "answerer": {
+        "username": "无害的葱头",
+        "uid": "77941"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t会。所谓数字人民币完全就是在传统银行体系外另起炉灶，通过区块链技术重新建立一个支付结算体系，然后用央行垄断的接口和银行体系\"连接\"。但是问题是这种另起炉灶真的没有啥意义，而且耗费巨大，关键是和现有银行体系\"隔离\"的做法，远不如支付宝、微信这种三方支付灵活，所以以我的观察所谓数字人民币在移动支付市场的占比还不到一成。\t\t</div>",
+      "date": "2023-02-11",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629850",
+      "is_folded": false,
+      "answerer": {
+        "username": "打土共分兰兰",
+        "uid": "89718"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这是先用来监控地方的，到时恐怕会把地方的积极性全部打掉，逐渐渗透到民间，然后进入某种黑市状态\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629884",
+      "is_folded": false,
+      "answerer": {
+        "username": "北极的乌云",
+        "uid": "88901"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t技术上无法实现，举个例子，如果支持离线，我账上只有100块，那我同时在两个以上地点取走100，会怎样？如果不支持离线，那个和微信、支付宝有什么区别？\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1153286",
+          "replier": {
+            "username": "lily654378",
+            "uid": "84569"
+          },
+          "date": "2023-02-11",
+          "content": "数字币当年大言不惭的说我比支付宝高，我可以离线，结果出这么大一个臭虫，数字币的离线功能就从来没开放过，现在也不提离线了"
+        }
+      ]
+    },
+    {
+      "id": "629852",
+      "is_folded": false,
+      "answerer": {
+        "username": "红白蓝",
+        "uid": "40599"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该不会<br/>\n这个是大势所趋。<br/>\n其实数字人民币的真正推动者是网络支付的微信、支付宝之类的，而不是靠的政府。当年政府和国有商业银行还阻挠过网络支付呢。<br/>\n而且党妈可以以此监控一切民间金融活动、必要时候数字算缗，一键划账，何乐不为？\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

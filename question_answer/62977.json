@@ -1,0 +1,82 @@
+{
+  "parent_type": "question",
+  "parent_id": "62977",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "702278",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t恭喜恭喜，脱支第一步<br/>\n<br/>\n字数字数字数，不够二十字\t\t</div>",
+      "date": "2023-10-31",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "702332",
+      "is_folded": false,
+      "answerer": {
+        "username": "pcfun",
+        "uid": "29448"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t英文版左的要命。和政治相关的基本就别碰wiki了，其他的还行，\t\t</div>",
+      "date": "2023-10-31",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "702383",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好一些，但也不是完全可靠。维基百科的政治历史条目或多或少的都有劣质信息污染。\t\t</div>",
+      "date": "2023-10-31",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "702280",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t維基是種多人交叉編輯模式，你可以自己搭個維基站\t\t</div>",
+      "date": "2023-10-31",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "702385",
+      "is_folded": false,
+      "answerer": {
+        "username": "shdhdiejdb",
+        "uid": "109102"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t考虑到中文圈一个人就能够捏造俄罗斯历史，拒用中文百科是正确的\t\t</div>",
+      "date": "2023-10-31",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1222048",
+          "replier": {
+            "username": "shdhdiejdb",
+            "uid": "109102"
+          },
+          "date": "2023-10-31",
+          "content": "参见卡申银矿事件"
+        }
+      ]
+    }
+  ]
+}

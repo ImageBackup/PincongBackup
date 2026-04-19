@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "59647",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "667965",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t问题是本来中国人就逃不掉啊，老外又对你这一亩三分地没太大兴趣，中国人相当于生活在牢笼里，那老外杀你干什么呢？\t\t</div>",
+      "date": "2023-07-05",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": []
+    },
+    {
+      "id": "667963",
+      "is_folded": true,
+      "answerer": {
+        "username": "机器猫博士",
+        "uid": "105067"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-07-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

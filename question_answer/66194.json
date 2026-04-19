@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "66194",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "736678",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你们反贼平常不都是把支币转成美刀往境外汇吗？莫非你也是我党潜伏在品葱的晶哥？\t\t</div>",
+      "date": "2024-03-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "736683",
+      "is_folded": false,
+      "answerer": {
+        "username": "lsfdc",
+        "uid": "16811"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前收款，不超一万美金每次不需要提交啥证明，只要没有备注，现在不知道了，建议用paypal+payoneer之类的\t\t</div>",
+      "date": "2024-03-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

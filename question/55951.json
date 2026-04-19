@@ -1,0 +1,36 @@
+{
+  "question_id": "55951",
+  "category_id": "4",
+  "title": "GFW開始在24小時人工管控了嗎？",
+  "meta_description": "GFW開始在24小時人工管控了嗎？ - 本人提出這個問題的原因是因為如下原因： [ol] [li]本人部署過2個梯子，一個是ss 一個是trojan，1年內掛了2次，掛了的時間應該大概是深夜，因為我都是深夜使用後睡覺，一覺醒來他就把我封了。[/li] [li]本人最近使用機場，技術是VMESS ...",
+  "meta_keywords": "gfw,開始,24,小時,人工,管控",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "1117",
+      "name": "GFW"
+    },
+    {
+      "id": "2198",
+      "name": "V2Ray"
+    },
+    {
+      "id": "5426",
+      "name": "shadowsocks"
+    }
+  ],
+  "author": {
+    "username": "pz221",
+    "uid": "51046"
+  },
+  "view_count": 17337,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t本人提出這個問題的原因是因為如下原因：<br/>\n<ol><li>本人部署過2個梯子，一個是ss 一個是trojan，1年內掛了2次，掛了的時間應該大概是深夜，因為我都是深夜使用後睡覺，一覺醒來他就把我封了。</li><li>本人最近使用機場，技術是VMESS UDP、SSR、Trojan、SS， 大多數時候鏈接的是VMESS UDP, 但最近2天，服務器大批量連不上，而且連上後不穩定，很快又斷了。</li><li>GFW對於一些人畜無害的外國網站雖然沒有封鎖，但鏈接後似乎不能發帖或上傳文件，比如GITHUB。</li></ol> </div>",
+  "date": "2023-02-09",
+  "agree_count": 8,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 7
+}

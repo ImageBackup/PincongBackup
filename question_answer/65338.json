@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "65338",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "727653",
+      "is_folded": false,
+      "answerer": {
+        "username": "核子可乐",
+        "uid": "83886"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tCPU脱焊，华为通病<br/>\n华为手机就这样，质量一般般<br/>\n现在手机很多都这样\t\t</div>",
+      "date": "2024-02-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "727654",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t電不能常滿或常虧（常空）<br/>\n<br/>\n常空，電池識別不了充電\t\t</div>",
+      "date": "2024-02-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "727658",
+      "is_folded": false,
+      "answerer": {
+        "username": "findyou",
+        "uid": "93230"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t明天我拉肚子也来品葱发个帖，问是不是共产党给我下毒如何？<br/>\n<br/>\n以垃圾信息淹没正常讨论就是共产党常见手段\t\t</div>",
+      "date": "2024-02-13",
+      "agree_count": -2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1245424",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2024-02-14",
+          "content": "品葱不是有现实生活专区吗"
+        }
+      ]
+    },
+    {
+      "id": "727656",
+      "is_folded": true,
+      "answerer": {
+        "username": "盼望台湾民不聊生",
+        "uid": "122003"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t华为手机。<br/>\n<br/>\n因为这是华为手机。<br/>\n<br/>\n品葱严厉斥责使用华为手机。<br/>\n<br/>\n你的华为手机不开机，是在保护你免受侵扰呢！\t\t</div>",
+      "date": "2024-02-13",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

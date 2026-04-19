@@ -1,0 +1,266 @@
+{
+  "parent_type": "question",
+  "parent_id": "64886",
+  "answer_count": 10,
+  "answers": [
+    {
+      "id": "722873",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很高，我已经多次在户外广告牌上看到windows的错误信息报告了<br/>\n说明运行广告牌的运维人士并不认真，没调试好就接上去了\t\t</div>",
+      "date": "2024-01-24",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "722888",
+      "is_folded": false,
+      "answerer": {
+        "username": "习下李上2022",
+        "uid": "97085"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t高速路边的巨大的显示屏应该是远程操控的，有技术的可以考虑考虑🤔<br/>\n还有地铁广告，地铁站台广告，应该是远程控制的。\t\t</div>",
+      "date": "2024-01-24",
+      "agree_count": 3,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1240944",
+          "replier": {
+            "username": "grantyang",
+            "uid": "6190"
+          },
+          "date": "2024-01-24",
+          "content": "如果是远程控制的，应该可以无线电波屏蔽之类干扰关闭之？然后再以自设无线电波内容强行输入之？估计是有内建sim card 像手机一样接入互联网的？"
+        },
+        {
+          "id": "1240949",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-01-24",
+          "content": "不一定是远程的，我在中国公交地铁等等地方看广告，我估计不需要联网，他们把固定的播放内容以usb disk的形式输入到嵌入式计算机里，嵌入式计算机可能就和显示屏整合一体了"
+        },
+        {
+          "id": "1240952",
+          "replier": {
+            "username": "习下李上2022",
+            "uid": "97085"
+          },
+          "date": "2024-01-24",
+          "content": "@rowlandheights:公交穷。地铁高铁这块我很清楚，都是接收信号的。车厢里面的基础设施是电视接收的那一套，专门的频道，有专门的公司运营。站台动态广告，非常规人，都是联网的。"
+        },
+        {
+          "id": "1240957",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-01-24",
+          "content": "@习下李上2022:那就可以通过无线电手段加以攻击咯"
+        },
+        {
+          "id": "1240959",
+          "replier": {
+            "username": "习下李上2022",
+            "uid": "97085"
+          },
+          "date": "2024-01-24",
+          "content": "@rowlandheights:难度太高，基本没有可行性。"
+        },
+        {
+          "id": "1240961",
+          "replier": {
+            "username": "习下李上2022",
+            "uid": "97085"
+          },
+          "date": "2024-01-24",
+          "content": "@rowlandheights:还是攻击商业公司运营的显示屏容易一些，比如电梯广告，商家门口的广告。"
+        },
+        {
+          "id": "1240964",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-01-24",
+          "content": "@习下李上2022:那就攻击电梯和办公楼玻璃幕墙的广告咯，先挑容易的搞"
+        }
+      ]
+    },
+    {
+      "id": "722891",
+      "is_folded": false,
+      "answerer": {
+        "username": "grantyang",
+        "uid": "6190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t非常应该尝试尝试如何攻入。是不是以运行主机板上Linux操作系统读取usb 棒/ memory card内存储信息然后显示在屏幕上的？还是远程更换显示内容的？\t\t</div>",
+      "date": "2024-01-24",
+      "agree_count": 2,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1240942",
+          "replier": {
+            "username": "习下李上2022",
+            "uid": "97085"
+          },
+          "date": "2024-01-24",
+          "content": "哪种技术比较古老了吧，现在显示屏这么多，USB的方式根本管理不过来。"
+        },
+        {
+          "id": "1240943",
+          "replier": {
+            "username": "习下李上2022",
+            "uid": "97085"
+          },
+          "date": "2024-01-24",
+          "content": "现在应该都是远程控制的，绝大多数显示屏也不可能单独组网。黑客技术应该用得上。"
+        },
+        {
+          "id": "1240948",
+          "replier": {
+            "username": "grantyang",
+            "uid": "6190"
+          },
+          "date": "2024-01-24",
+          "content": "@习下李上2022:有道理。"
+        },
+        {
+          "id": "1241276",
+          "replier": {
+            "username": "grantyang",
+            "uid": "6190"
+          },
+          "date": "2024-01-25",
+          "content": "@习下李上2022: 我现在估计他们可能是使用带Sim 卡的路由器连入互联网，然后用一台windows 主机以Wi-Fi 或干脆RJ45 以太网线连在这个路由器的局部网内以便接入Internet, 这样远方的控制室就可以远程通过互联网控制一个个分布在不同物理地段的大屏幕广告显示设备的播出内容与方式了。带sim card即可接入电话网的路由器现在很多，比如这里介绍的：https://www.sohu.com/a/595250456_120718555。由于路边及建筑物顶端等处都有交流市电接入，所以这样的路由器与运行Windows的主机可以有电源。"
+        }
+      ]
+    },
+    {
+      "id": "722875",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我查看了一些公司户外LED显示屏安全维护的投标<br/>\n<br/>\n应该不难搞定<br/>\n<br/>\n改天去试试\t\t</div>",
+      "date": "2024-01-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "722894",
+      "is_folded": false,
+      "answerer": {
+        "username": "landsbetween",
+        "uid": "112665"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t入侵成本不低，如果有donate，或者很好的回报机制，应该大部分人都会去做的<br/>\n想一个可行的机制更重要，让有用武之地的同时，更有用武之利\t\t</div>",
+      "date": "2024-01-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "722902",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很遗憾<br/>\n<br/>\n这个难度很大<br/>\n<br/>\n我做过研究<br/>\n<br/>\n共匪也非常熟悉和了解宣传 所以 据了解<br/>\n。这种大屏幕都是物理隔绝 播放的电脑都是不联网的<br/>\n<br/>\n就是为了避免被黑<br/>\n。<br/>\n<br/>\n最有效果的其实是楼宇广告的播放 但是为了避免被黑掉 楼宇广告的播放 都是用的储蓄卡<br/>\n<br/>\n所以换卡的时候是专门人工操作 这个成本可是比大屏幕要高很多 <br/>\n<br/>\n当然 不排除某些播放器联网 估计也是操作失误或者违规的\t\t</div>",
+      "date": "2024-01-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "722892",
+      "is_folded": false,
+      "answerer": {
+        "username": "neverdie",
+        "uid": "53720"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你们技术牛逼了把新闻联播改了都行，没什么可行不可行\t\t</div>",
+      "date": "2024-01-24",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1240945",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2024-01-24",
+          "content": "考虑过了新闻联播有延时播放 技术上不可行"
+        },
+        {
+          "id": "1240947",
+          "replier": {
+            "username": "neverdie",
+            "uid": "53720"
+          },
+          "date": "2024-01-24",
+          "content": "@fb_china_today:还是技术不行么"
+        },
+        {
+          "id": "1240950",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-01-24",
+          "content": "法轮功黑客攻击卫星不错"
+        }
+      ]
+    },
+    {
+      "id": "722903",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我瞎猜的，大部分估计不联网，毕竟就是一台主机，重复播放视频而已，也用不着上网。<br/>\n<br/>\n<br/>\n其实现在很多小区和大厦的电梯广告是联网的，黑那个更好，传播面更广。<br/>\n更进一步，可以直接去黑电视台，我记得九十年代还是00年代，地方台有被黑过的。\t\t</div>",
+      "date": "2024-01-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "723266",
+      "is_folded": false,
+      "answerer": {
+        "username": "尼吖",
+        "uid": "122805"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有些是离线的，通过插入USB进行内容更换。这种一般会有单独的接口。但是这种会有禁制\t\t</div>",
+      "date": "2024-01-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "722908",
+      "is_folded": false,
+      "answerer": {
+        "username": "油头八九六四分",
+        "uid": "121019"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t县里的电视台和显示屏官网什么的可以试一下，县里没那么多资金和人才维护，尤其是西部地区的县城。\t\t</div>",
+      "date": "2024-01-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

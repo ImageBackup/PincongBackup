@@ -1,0 +1,219 @@
+{
+  "parent_type": "question",
+  "parent_id": "66325",
+  "answer_count": 14,
+  "answers": [
+    {
+      "id": "737901",
+      "is_folded": false,
+      "answerer": {
+        "username": "wget",
+        "uid": "51008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t3.5和4.0不可等同视之, 3.5在4面前说是白痴也不为过, 但是你如果试试<mark>支那</mark>的各种\"自主研发\"的模型就知道什么是真的人工智障了\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "737895",
+      "is_folded": false,
+      "answerer": {
+        "username": "观云先生",
+        "uid": "73140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实它可能是在表达：你说的都对。<br/>\n<br/>\n然后还一本正经的告诉你为什么你说得对😂😂😂\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "737939",
+      "is_folded": false,
+      "answerer": {
+        "username": "yunzhidao1980",
+        "uid": "74997"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t本来就是自然语言模型，重点是语言交流能力，至于逻辑能力，3.5顶多就3岁小孩，4.0能有五岁小孩就不错了。GPT 一两年就更一代，如果每代能提高个两岁，五年后不就吊炸天了，10岁小孩的逻辑能力和成人差的就不远了，以计算机的计算通讯和数据优势，还有什么工作不能做?  现在炒的就是这个预期，AI代替人只是时间问题，目前只是不知道会是5年，还是20年。  人类需要从零开始养成, AI只要养成一台，就可以变成无数台，这个效率人是无法比的。人类最后的荣耀估计最多也就50年了。\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "737894",
+      "is_folded": false,
+      "answerer": {
+        "username": "矢作萌夏",
+        "uid": "29415"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tchatgpt4基本没有这个问题，拿他试了几道简单小学三年级以下的奥数应用题也都算对了。\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "737912",
+      "is_folded": false,
+      "answerer": {
+        "username": "ExceptionRules",
+        "uid": "6726"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t第一回合就答错了(如 A=-2 B=-2 C=-3)，大部分人第一反应可能也是 A+B&gt;C。<br/>\n<br/>\n会获得不合理的结果，首要原因是欠缺解决手段。<br/>\n目前LLM不依靠其它插件帮助，就只会\"不择手段\"的预测看起来正确的回答。\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1254517",
+          "replier": {
+            "username": "Kakapo",
+            "uid": "74488"
+          },
+          "date": "2024-04-02",
+          "content": "真的欸 差点被糊弄过去了 (lll￢ω￢)"
+        }
+      ]
+    },
+    {
+      "id": "737914",
+      "is_folded": false,
+      "answerer": {
+        "username": "RobotRepublic",
+        "uid": "101437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你试试付费版，免费的比较迎合你，大体上你说啥是啥。\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1254556",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2024-04-02",
+          "content": "真的假的？"
+        }
+      ]
+    },
+    {
+      "id": "737962",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAi假定的是两脚兽们不会恶意的提供假信息<br/>\n怎么解决这个问题 那除了封号外也没什么好办法了\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "737959",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t简单来说 现在这些挂着AI头衔的玩意儿，都不是AI，连逻辑都没有的东西还好意思自称智能？<br/>\n<br/>\n问题是现在资本市场在热炒的概念 一就是这些假AI 二就是环保 电车类的。<br/>\n<br/>\n傻子都知道这些不是AI但实在禁不住各个大厂配合股市机构一起炒作。\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "737966",
+      "is_folded": false,
+      "answerer": {
+        "username": "李老师的supervisor",
+        "uid": "50992"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t炒作过度，无论3.5还是4，尤其中文语料，都很蠢，高级小冰。\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "738012",
+      "is_folded": false,
+      "answerer": {
+        "username": "shaxiin",
+        "uid": "127014"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI目前看来再怎么吹也只是个文本生成语言模型，换句话说就是个聊天机器人。想要真正让它具备逻辑和创造力恐怕还有很长一段路要走。而且随着后续版本迭代对芯片算力和能源的消耗会不断提高，不知道真正意义上的AI还要多少年才能诞生。\t\t</div>",
+      "date": "2024-04-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "737919",
+      "is_folded": false,
+      "answerer": {
+        "username": "我佛山人",
+        "uid": "111091"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t今天很多AI都崩了，不知道是不是要借gpt3开放集体搞一波收费宣传。\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "737954",
+      "is_folded": false,
+      "answerer": {
+        "username": "ibaba",
+        "uid": "53805"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI目前看似依舊只是高級的搜尋（湊答案）演算法<br/>\n距離具備真正的理解能力，<br/>\n或許像是台灣被牆國「統一（Ｘ）、侵略（Ｏ）」成功的距離那麼遙遠<br/>\n（比某一部分人想的還更遙遠的多）\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "737961",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有人试着让ChatGPT 做小学5年级数学 不太行<br/>\n这玩意只能做没有具体标准的creative的东西 有具体规定的都做不大好\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1254566",
+          "replier": {
+            "username": "hjn7nht984",
+            "uid": "125202"
+          },
+          "date": "2024-04-02",
+          "content": "可以啊，我试了的"
+        }
+      ]
+    },
+    {
+      "id": "738008",
+      "is_folded": false,
+      "answerer": {
+        "username": "Dk2s",
+        "uid": "30315"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t問一個問題<br/>\n要耗多少度電<br/>\n<br/>\n聽說問題越難越耗電<br/>\nopen ai  口袋$$$撐得住嗎\t\t</div>",
+      "date": "2024-04-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

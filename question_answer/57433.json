@@ -1,0 +1,208 @@
+{
+  "parent_type": "question",
+  "parent_id": "57433",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "646207",
+      "is_folded": false,
+      "answerer": {
+        "username": "t23_1",
+        "uid": "14363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果是完全没有计算机知识并且没有学习欲望的小白可以直接运行这篇博文里的这条脚本，选3即可。<br/>\nhttps://p3tertwitter.com/archives/cloudflare-warp-configuration-script.html<br/>\n<pre>bash &lt;(curl -fsSL git.io/warp.sh) menu</pre><br/>\n这样你的vps访问网站时网站就不知道你的真实ip了，也就没法根据ip封禁了。坏处是网络速度会变慢。<br/>\n<br/>\n如果有学习意愿的话可以再次运行上面那条脚本，选1，然后自己想办法安装trojan或者trojan-go。可以查官方文档，也可以用一键脚本。<br/>\n安装完后修改forward_proxy选项。以下是我的forward_proxy配置：<br/>\n<pre>    \"forward_proxy\": {<br/>\n        \"enabled\": true,<br/>\n        \"proxy_addr\": \"127.0.0.1\",<br/>\n        \"proxy_port\": 40000<br/>\n    }</pre><br/>\nproxy_port填的是你的warp的socks端口。<br/>\n参考完整配置文件：<br/>\nhttps://p4gefau1t.github.io/trojan-go/basic/full-config/<br/>\n安装并且配置完成后，新的trojan-go将会走warp，也就可以访问chatgpt了，但是速度更慢一些；而你之前用的v2ray或者其他工具不会走，不能上chatgpt但速度更快。\t\t</div>",
+      "date": "2023-04-07",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646145",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我就是用的vultr的VPS，选的西雅图机房。你用的是什么技术？ 我用的v2ray，现在可以外套一个cloudflare warp功能，new bing、chatgpt、netflix、google都可以用，很便利的。\t\t</div>",
+      "date": "2023-04-07",
+      "agree_count": 1,
+      "discussion_count": 10,
+      "discussions": [
+        {
+          "id": "1168480",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-04-07",
+          "content": "你暴露的IP地址不还是vultr吗？vultr本来就可以用google这些，因为他们不会封杀代理IP。可能chatgpt还没封杀到你那边，说不定马上就来了。"
+        },
+        {
+          "id": "1168489",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-07",
+          "content": "已删除"
+        },
+        {
+          "id": "1168504",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-04-07",
+          "content": "@reddit_suck:chatgpt上周就被封杀了，无论使用PAC或者全局都会显示你所在的地区被封锁，使用了\nhttps://gitlab.com/ProjectWARP/warp-go\n这个脚本提供的思路后才能用的。另外vultr访问google学术、new bing、网飞是不行的。cloudflare warp 就是洗你的IP用的。具体原理我也不是通讯专业的，并不是太懂。不过我用下来没问题就是了。"
+        },
+        {
+          "id": "1168507",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-04-07",
+          "content": "@天下无贼:cloudflare 官方介绍里就有帮助突破IP限制这个功能，怎么会没用呢？我是亲测可用才跟楼主说的。"
+        },
+        {
+          "id": "1168512",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-07",
+          "content": "已删除"
+        },
+        {
+          "id": "1168525",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2023-04-07",
+          "content": "@shitinampoule:你用cloudflare的IP不是更容易被封吗，比vultr还明显，估计现在chatgpt还没更新到cloudflare的IP库"
+        },
+        {
+          "id": "1168597",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-04-07",
+          "content": "@天下无贼:cf warp在官网的介绍表明本质上它就是一个vpn，内部怎么转换的原理并不重要，但既然是vpn，chatgpt服务端看到的自然是经过转换后的IP，而不是我VPS本身的IP。上周我单用vultr的v2ray链接访问openai官网的时候已经提示IP被限制了，套用一层warp后就可以了，不是亲测可行我也没必要在这骗葱油不是？"
+        },
+        {
+          "id": "1168598",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-04-07",
+          "content": "@reddit_suck:如果openai真这么干那也没办法，但这个成本和影响范围那可比vultr搬瓦工这种大多了，误封的概率也高得多，到时候再看吧，反正总归会有办法的。"
+        },
+        {
+          "id": "1168599",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-07",
+          "content": "@shitinampoule: 你是对的，我仔细看了Warp的原理，我的理解错了。"
+        },
+        {
+          "id": "1168601",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-04-07",
+          "content": "@天下无贼:哈哈一起进步，其实我之前也是一知半解，你提问了我才去翻看资料的"
+        }
+      ]
+    },
+    {
+      "id": "646167",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t找小众一点的服务器，但是只要他们真的想封杀你，就会搜集全部的机房IP信息，你躲不掉。\t\t</div>",
+      "date": "2023-04-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646689",
+      "is_folded": false,
+      "answerer": {
+        "username": "Kerovasy",
+        "uid": "86814"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好像opera自带的北美节点就能用<br/>\n<br/>\n字数字数字数字数\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646178",
+      "is_folded": false,
+      "answerer": {
+        "username": "shellcat",
+        "uid": "78316"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这种不需要保密的东西，直接机场就完事儿<br/>\n机场基本都有对chatgpt做优化\t\t</div>",
+      "date": "2023-04-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "647407",
+      "is_folded": false,
+      "answerer": {
+        "username": "duck2go",
+        "uid": "108354"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t两种方法<br/>\n1. 机场 https://www.pincong.rocks/article/55148<br/>\n2. 部署这个免费的 https://github.com/Yidadaa/ChatGPT-Next-Web 需要你自己的apikey\t\t</div>",
+      "date": "2023-04-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646153",
+      "is_folded": true,
+      "answerer": {
+        "username": "OLED240Hz",
+        "uid": "106474"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-04-07",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1168474",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-04-07",
+          "content": "如果你是付费机场，那你要么更换对应节点，要么找管理员要求他加配warp分流。\n如果你是自己的私人机场，我可以和你说下我的配置，我用的一键安装脚本，xray内核，协议组是tls+ws+cdn(协议理论上无所谓，不过我只配置过这个)，warp这个我用的这个一键脚本就有自动安装功能，网上你搜关键字cloudflare warp v2ray，也有相关手工配置教程的。不过我这还是有点问题，就是装完warp后，PAC模式能访问chat.openai.com,但是登录不行，必须要用全局代理模式才能登录账号，具体原因也没去研究过。"
+        },
+        {
+          "id": "1168479",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-04-07",
+          "content": "这个是chatgpt给出的warp的配置文件，希望有能帮到你\n{\n\"inbounds\": [\n// 入站配置，根据实际需求配置\n// ...\n],\n\"outbounds\": [\n{\n\"protocol\": \"vmess\", // 使用 VMess 作为出站协议\n\"settings\": {\n\"vnext\": [\n{\n\"address\": \"warp.plus\", // Cloudflare Warp 的代理地址\n\"port\": 2408, // Cloudflare Warp 的代理端口\n\"users\": [\n{\n\"id\": \"YOUR_UUID\", // 生成的 UUID，根据实际情况填写\n\"alterId\": 64 // 根据实际情况填写\n}\n]\n}\n]\n},\n\"streamSettings\": {\n\"network\": \"ws\", // 使用 WebSocket 作为传输方式\n\"wsSettings\": {\n\"path\": \"/YOUR_PATH\" // WebSocket 的路径，根据实际情况填写\n}\n}\n}\n]\n}"
+        }
+      ]
+    }
+  ]
+}

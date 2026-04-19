@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "56122",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "631350",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在信息防火长城的圈养下，中共不会担心任何他不利的消息会在国内发酵，发酵了也可动用宣传机器强行删帖和洗地，只需把所有不利消息宣传为境外势力造谣就行了。\t\t</div>",
+      "date": "2023-02-16",
+      "agree_count": 5,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1154777",
+          "replier": {
+            "username": "主席聖明",
+            "uid": "20291"
+          },
+          "date": "2023-02-16",
+          "content": "你落后了。现在国内看见偷技术的都是“帝国主义亡我之心不死，一群靠强盗发家的国家也好意思指责我们？美国的印第安人给你点赞！真理只在大炮射程内。”"
+        },
+        {
+          "id": "1154779",
+          "replier": {
+            "username": "主席聖明",
+            "uid": "20291"
+          },
+          "date": "2023-02-16",
+          "content": "@主席聖明:艾公千古！"
+        }
+      ]
+    },
+    {
+      "id": "631374",
+      "is_folded": false,
+      "answerer": {
+        "username": "TR林琳霖",
+        "uid": "107700"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t技術突破有屁用，沒有材料一樣做不出像樣的東西。有本事逆向研發出一台達標光刻機😒\t\t</div>",
+      "date": "2023-02-16",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "631373",
+      "is_folded": false,
+      "answerer": {
+        "username": "apper666",
+        "uid": "108080"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t确实内地看不到境外的这些消息，科技圈那些事。\t\t</div>",
+      "date": "2023-02-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

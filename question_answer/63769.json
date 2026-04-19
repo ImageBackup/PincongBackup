@@ -1,0 +1,238 @@
+{
+  "parent_type": "question",
+  "parent_id": "63769",
+  "answer_count": 14,
+  "answers": [
+    {
+      "id": "710638",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从你问的问题上看，我建议还是放弃吧，这不是你能触碰的领域。\t\t</div>",
+      "date": "2023-12-06",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1230592",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-06",
+          "content": "关键是他太浅了，而且他自己不知道自己有多浅。"
+        }
+      ]
+    },
+    {
+      "id": "710619",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t觉得部署环境麻烦?<br/>\n学JS吧,现在你按下键盘上的F12就可以开始实践了<br/>\n打开控制台,输入代码<br/>\n<pre>console.log(\"Hello world!\");</pre><br/>\n敲击<s>微博发布</s>回车键.<br/>\n如果 Hello, world! 出现了，恭喜你！你已经正式编写了一个 JavaScript 程序。现在你成为一名 JavaScript 程序员\t\t</div>",
+      "date": "2023-12-06",
+      "agree_count": 7,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1230593",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-06",
+          "content": "我觉得他可能不知道啥叫“布置环境”。"
+        },
+        {
+          "id": "1230670",
+          "replier": {
+            "username": "lbow",
+            "uid": "53236"
+          },
+          "date": "2023-12-07",
+          "content": "JS才是死了都不知道怎麼死的深坑"
+        }
+      ]
+    },
+    {
+      "id": "710626",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为需要的功能太多了，很难有一个语言能在定义语言的范畴里提供所有用户需要的功能，这就需要一些第三方为各种需求开发各种库。类似 C++，第三方库是百家争鸣百花齐放，用户可以自己按需要去引用。只不过 C++ 的组织相对比较松散，大多数以开源的形式提供，需要你自己去下载和编译。其他的语言都开始搭建类似应用商店一样的官方平台，你可以在这个平台上安装你需要的“包”。<br/>\n<br/>\n“有没有能一键安装所有的包？”，一般来说没有这个必要，因为你的应用通常只引用了一部分这种包，如果你把所有包都下载回来，显然显得没什么必要。所以通常是“按需要安装”，你发现需要什么就安装什么。\t\t</div>",
+      "date": "2023-12-06",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "710659",
+      "is_folded": false,
+      "answerer": {
+        "username": "UAV",
+        "uid": "32217"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t计算机发展到现在，编程对于新手（甚至很多老手）的一大难点是环境的搭建，甚至有些时候这个东西比语言本身还要让人头疼。各种操作系统、软件、硬件、库、版本之间的兼容性等等。。。\t\t</div>",
+      "date": "2023-12-06",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "710643",
+      "is_folded": false,
+      "answerer": {
+        "username": "葱花蛋汤",
+        "uid": "117702"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得你发的帖子都很奇葩，建议从最基础的学起，少说几个没兴趣，多动动手\t\t</div>",
+      "date": "2023-12-06",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1230594",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-06",
+          "content": "不是一般的奇葩。这种奇葩你还想教化？不可能的！"
+        }
+      ]
+    },
+    {
+      "id": "710764",
+      "is_folded": false,
+      "answerer": {
+        "username": "wasaminn",
+        "uid": "56907"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1. 频繁折腾Python包天然是Python编程的一部分。Python之所以好学上手快就是因为有这些五花八门海量的扩展包。不折腾扩展包的Python开发，基本不存在。<br/>\n<br/>\n2. 如果你想省一点事，可以用anaconda或者winpython，预置了大部分常用扩展包。但是大概率你还是要自己去装一些包。<br/>\n<br/>\n3. 搞图形界面，可以用pyqt。<br/>\n<br/>\n4. 这类问题去stackoverflow问更合适，但是要做好被骂的准备。<br/>\n<br/>\n5. 当然你更可以选择订阅chatgpt4.0，在你现在的阶段可以完美解答你的绝大部分问题，还可以给你代码示例供你研究学习。<br/>\n<br/>\n6. 零基础问题不大，Python这玩意不是很难，花点功夫循序渐进研究研究也不是不能学好。有chatgpt4.0的话更是可以大幅提升学习效率。\t\t</div>",
+      "date": "2023-12-07",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "710664",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你这脑子别碰编程比较好，老老实实玩no code平台<br/>\n<br/>\n人工智能可以弥补你智商的缺陷\t\t</div>",
+      "date": "2023-12-06",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "710691",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以，你出钱雇人来帮你，甚至你连开发都不需要做了捏！！插件就像游戏mod，你当然可以不装，但代价是你得自己实现插件里的功能。现在有人免费把功能给你做出来了，你又嫌没有一键安装，我的建议是不能惯着，这么懒做什么程序开发啊？你自己开发软件，谁知道你要用什么功能，涉及哪些插件？还一键集成，那为什么不能程序开发也给你一键生成了？你啥也不需要做了，就点几下鼠标，每年几十万美金到手，岂不美哉？\t\t</div>",
+      "date": "2023-12-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "710631",
+      "is_folded": false,
+      "answerer": {
+        "username": "legend2020",
+        "uid": "52363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1、C/C++语言照样可以实现任何效果，我说的是任何效果。但是需要引入GUI框架。我推荐先学习下windows api编程了解一下，再使用QT或者directUI进行正式开发<br/>\n<br/>\n2、python肯定需要各种常用插件，比如矩阵运算的numpy。windows下可以装个linux虚拟机，linux下安装py插件相对简单很多。\t\t</div>",
+      "date": "2023-12-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "710650",
+      "is_folded": false,
+      "answerer": {
+        "username": "当朝明星",
+        "uid": "96047"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tC 实现GUI可能比较麻烦，可能要学习window API 相关，学习成本比较大。建议你了解一下Qt.<br/>\n<br/>\nPython 包的话一般是不需要编译安装的，用pip 包管理器安装。window 下的话建议学习一下pycharm环境管理很方便，当然这个在Linux下也是一个出色的ide。PyQt可以开发图形界面，我记得还有tkinter,不过我走的Qt路线，没了解过。<br/>\n<br/>\n编译开源软件的话我在window 上也没有成功经历，倒是linux 现在练出来了。看报什么错，见招拆招。热情和时间训练耐心和<br/>\n经验。\t\t</div>",
+      "date": "2023-12-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "710722",
+      "is_folded": false,
+      "answerer": {
+        "username": "大音无声",
+        "uid": "108194"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t下載anaconda，就自帶開發環境<br/>\n不用安裝一大堆插件了<br/>\npython簡單快速<br/>\n小玩意用c太麻煩\t\t</div>",
+      "date": "2023-12-07",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1230669",
+          "replier": {
+            "username": "白衣黑旗除共军",
+            "uid": "103874"
+          },
+          "date": "2023-12-07",
+          "content": "谢谢，我研究下"
+        }
+      ]
+    },
+    {
+      "id": "711097",
+      "is_folded": false,
+      "answerer": {
+        "username": "aaakey",
+        "uid": "118924"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t各种依赖而已。 不然你全自己写?<br/>\n<br/>\n现在学这个没用。<br/>\nAI出现了。 <br/>\n<br/>\n或者去学新的，量子编程什么的，还没有出现，让AI训练的大量代码。  只能这样了。  以后编程只会卷上天。\t\t</div>",
+      "date": "2023-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "711114",
+      "is_folded": false,
+      "answerer": {
+        "username": "weiwei2000",
+        "uid": "102228"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t上面居然有很多人认真回答1+1问题。。。<br/>\n这里是小学生补习班吗\t\t</div>",
+      "date": "2023-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "710641",
+      "is_folded": false,
+      "answerer": {
+        "username": "baozcc",
+        "uid": "79520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果不是专业的就不要过多关注python其他方面的，就研究你想做的，缺什么库用pip装就可以\t\t</div>",
+      "date": "2023-12-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

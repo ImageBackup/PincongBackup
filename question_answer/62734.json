@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "62734",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "699786",
+      "is_folded": false,
+      "answerer": {
+        "username": "可悲的人类",
+        "uid": "118172"
+      },
+      "contents": "<div class=\"markitup-box\">\n<i>这类电话可以拉黑。一般说没啥事。可能是想推销反诈。反诈的目的是全面监控你的一举一动。专制者最大的梦想就是控制了解人民的一举一动。全方面统一思想。就是希望人民是机器人，只会接受指令。</i> </div>",
+      "date": "2023-10-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699829",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t96110是当地公安反诈部门的不是声讯台，打电话的都是警察。他们是监控手机动态和流量，然后打电话，老给你打可能就是被盯上了，估计因为境外流量或者境外电话一类的，你是不是注册海外软件了。\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1219455",
+          "replier": {
+            "username": "可悲的人类",
+            "uid": "118172"
+          },
+          "date": "2023-10-24",
+          "content": "严管注册海外网站。比如油管推特。看看没事。反正只要你不是外国国籍华人，特别不是东南亚华人。一旦生在墙内，终生监控言论自由。"
+        }
+      ]
+    }
+  ]
+}

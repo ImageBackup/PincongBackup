@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "56796",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "639049",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为争论结束了，转基因胜利，拥抱了美国的观点：不能证明有害就是无害。其实反转基因的观点是欧洲的观点：不能证明无害就是有害。\t\t</div>",
+      "date": "2023-03-11",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "639047",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有啥好争的，美国全是转基因也没啥事。哪个技术靠不靠谱，你看看欧美用不用就略知一二\t\t</div>",
+      "date": "2023-03-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

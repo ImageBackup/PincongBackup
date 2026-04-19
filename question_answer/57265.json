@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "57265",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "644203",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我最讨厌烟的味道，我跑到日本其中一个重要原因就是烟。在中国，公共场所都是满地的烟头，还有烟味。\t\t</div>",
+      "date": "2023-03-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "644211",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t抽烟的都是傻逼，中国傻逼多点，外国傻逼少点。还文化，文化个鸡毛。\t\t</div>",
+      "date": "2023-03-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

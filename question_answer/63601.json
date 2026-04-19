@@ -1,0 +1,92 @@
+{
+  "parent_type": "question",
+  "parent_id": "63601",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "708767",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有點像保險<br/>\n。。。。。。。。。。。。。\t\t</div>",
+      "date": "2023-11-28",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1228995",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2023-11-28",
+          "content": "听说没有任何实物，就单纯叫你过去，投资一部分钱，就在那里跟他们一起搞，具体不明"
+        },
+        {
+          "id": "1228997",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-28",
+          "content": "@韭国: 聽起來也沒啥，有信心可以跟着他們"
+        },
+        {
+          "id": "1229001",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2023-11-28",
+          "content": "@四邑漁農牧工商總會:不可能跟着他们，就觉得突然出现的比较奇怪"
+        },
+        {
+          "id": "1229004",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-28",
+          "content": "@韭国: 你這就不夠意思了，隨便拿一兩百萬，投進去，看是咋回事，這才是求真精神"
+        },
+        {
+          "id": "1229007",
+          "replier": {
+            "username": "汉口市长",
+            "uid": "113634"
+          },
+          "date": "2023-11-28",
+          "content": "@四邑漁農牧工商總會:认为屎是臭的，必须要尝一口，看看到底是不是真臭，不然就是不够求真。"
+        }
+      ]
+    },
+    {
+      "id": "708786",
+      "is_folded": false,
+      "answerer": {
+        "username": "a2112112",
+        "uid": "79932"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这就是传销团伙吧，应该不是正规的，不要被骗就行\t\t</div>",
+      "date": "2023-11-28",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708771",
+      "is_folded": false,
+      "answerer": {
+        "username": "汉口市长",
+        "uid": "113634"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t连十四亿人的中国梦都快醒了，他们几个渣的中国梦还能实现不成？\t\t</div>",
+      "date": "2023-11-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

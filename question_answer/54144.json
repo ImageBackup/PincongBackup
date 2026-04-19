@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "54144",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "609183",
+      "is_folded": false,
+      "answerer": {
+        "username": "fkccp7410",
+        "uid": "103330"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以欧盟安全标准，中国恐怕只有国家领导人吃的东西才符合要求。在互害社会，再贵的食物都可能是粗制滥造的。<br/>\n<br/>\n油盐糖超标反而是小事，毕竟糖尿病一时半会儿死不了。\t\t</div>",
+      "date": "2022-12-10",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609178",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t保证餐馆食品安全本来应该是政府的职责，不能推给美团，然而中共政府不仅根本不管，还放任问题发生，只有出现“舆情”事件时才摆摆样子。\t\t</div>",
+      "date": "2022-12-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609176",
+      "is_folded": false,
+      "answerer": {
+        "username": "地球是我家乡",
+        "uid": "86380"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这跟美团有什么关系？美团只是一个平台，食物好不好，取决于餐馆啊\t\t</div>",
+      "date": "2022-12-10",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134579",
+          "replier": {
+            "username": "ChernayaLiga",
+            "uid": "73949"
+          },
+          "date": "2022-12-10",
+          "content": "可能的意思是，不符合标准的餐馆不能使用美团外送服务，当然美团自身也要改进配送卫生标准来符合这个规定"
+        }
+      ]
+    }
+  ]
+}

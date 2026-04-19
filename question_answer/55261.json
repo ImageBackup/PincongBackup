@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "55261",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "621429",
+      "is_folded": false,
+      "answerer": {
+        "username": "诗琪",
+        "uid": "74761"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我认为肯定是pytorch更有前景<br/>\n字数字数字数字数字数字数\t\t</div>",
+      "date": "2023-01-16",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1145416",
+          "replier": {
+            "username": "snowingnight",
+            "uid": "53957"
+          },
+          "date": "2023-01-16",
+          "content": "在工业界还是TF多一点"
+        }
+      ]
+    }
+  ]
+}

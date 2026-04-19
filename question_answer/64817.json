@@ -1,0 +1,88 @@
+{
+  "parent_type": "question",
+  "parent_id": "64817",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "722117",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>怎么从\"数据链路层\" 翻到墙内? </blockquote><br/>\n我想说android的VpnService只能创建TUN设备，不能创建TAP设备。<br/>\n<br/>\n我给出几种假设:<br/>\n1. 这个所谓的\"VPN\"应用只是启动了一个socks服务器或者HTTP代理服务器，然后修改了系统代理设置，浏览器可能默认跟随系统代理设置，就被转发到中国了，而有些应用不受系统代理设置影响。<br/>\n2. 这个VPN应用只让发往部分IP段的包过VPN。<br/>\n3. 这个VPN应用只让部分应用的流量过VPN。(android上很容易做到)<br/>\n<br/>\n你可以设法租一台在中国的服务器，然后自己配置。\t\t</div>",
+      "date": "2024-01-22",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "722124",
+      "is_folded": false,
+      "answerer": {
+        "username": "吃瓜瓜和瓜皮",
+        "uid": "93859"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这应该不是数据链路层的问题 数据链路层只是负责相邻两跳之间的数据传输（基于mac地址）您提出的问题更像是没有走系统代理 早年有一个proxifier软件 应该符合您的要求 <br/>\n如果要数据链路层翻墙 那可能得自己架设网络基础设施<br/>\n这是我个人的一点理解 如有错误请谅解\t\t</div>",
+      "date": "2024-01-22",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1240643",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-01-23",
+          "content": "@useforpc:你可以自己搭。有些论文里说他们是在 [code]\nhttps://chinavpshosting.com/\n[/code] 租中国服务器的，比如这篇 [code]\nhttps://jonsnowwhite.github.io/website/master_thesis.pdf\n[/code]，当然你可以找研究网络审查的人问一下，他们应该还知道更多的提供商。"
+        }
+      ]
+    },
+    {
+      "id": "722483",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t7层OSI中数据链路层是第二低的层次，仅高于物理层<br/>\n<br/>\n这么低的层次你是真进不去，你必须在中国拥有一个数据处理机器，但是这也不难，你在中国租用一台物理机器（不是VPS)就行了，这样你物理上也有在中国的设备，物理层上也进去了。<br/>\n<br/>\n当然，就你说的事情不是数据链路层的事情，你只需要在第四层（传输层）上翻到墙内就行了。实际配置稍微有点麻烦，你需要选择一个中国政府不去GFW破坏的VPN协议。这个其实不好搞。\t\t</div>",
+      "date": "2024-01-23",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1240646",
+          "replier": {
+            "username": "leviathan1",
+            "uid": "120938"
+          },
+          "date": "2024-01-23",
+          "content": "VXLAN就是数据链路层，用tunnel的方式，把L2的完整ethernet frame作为UDP的payload，进行发送。常用的翻墙方式，kcptun其实是类似的思路。\n当前翻墙的技术问题并不在于到底位于哪一层。而是，只要是开放出来的手段，墙就有办法学习你的特征，以安全领域的side-channel的方式，通过你的特征来判定你的流量有翻墙的嫌疑。 对，它用不着100%的确定你在翻墙，它只要认为你有嫌疑，就会随机丢你的包。\n所以 墙和梯子就是一个攻防相长的过程，不可能一劳永逸。除非你自己实现协议，不用开源的，自己运营vps —— 这样的话，墙就永远不知道你的特征。"
+        },
+        {
+          "id": "1240647",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-01-23",
+          "content": "刚才讨论的不是OSI模型吗，怎么到了翻墙技术难易度了\n翻墙技术又不是层次越低越牛逼的\n你星链直接物理层翻墙牛逼吧？我中共一个卫星信号探测车就能把你活捉，私自安装卫星接收设备该当何罪？"
+        }
+      ]
+    },
+    {
+      "id": "722501",
+      "is_folded": false,
+      "answerer": {
+        "username": "functional",
+        "uid": "112730"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t“层”在这里是个虚拟的概念，物理上并不存在，你看到的就是01的电信号。计算机科学中有很多这种虚拟的东西，比如说文件，文件夹都不是物理存在的东西，只有硬盘是。\t\t</div>",
+      "date": "2024-01-23",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "parent_type": "question",
+  "parent_id": "60243",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "673837",
+      "is_folded": false,
+      "answerer": {
+        "username": "黑红绿",
+        "uid": "109590"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t当然是青天白日满地红旗最好，不要设计新的了。\t\t</div>",
+      "date": "2023-07-26",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1194622",
+          "replier": {
+            "username": "WZYXzgr",
+            "uid": "103462"
+          },
+          "date": "2023-07-26",
+          "content": "人家台湾人不愿意啊，假如哪天举旗抗议，还是要拿出自己的旗帜，再一个青天白日变相党旗，感觉12个星星比较好😆"
+        }
+      ]
+    },
+    {
+      "id": "673839",
+      "is_folded": false,
+      "answerer": {
+        "username": "mimiwu127",
+        "uid": "90210"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t先确定到底是几颗星吧，不一定是12颗星 紫薯紫薯\t\t</div>",
+      "date": "2023-07-26",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1194623",
+          "replier": {
+            "username": "WZYXzgr",
+            "uid": "103462"
+          },
+          "date": "2023-07-26",
+          "content": "华东，华北，华南，华中，西南，东北，新疆，西藏，蒙古，港，澳，台\n正好12个地区😆\n不过也可以认为12生肖，12星座"
+        }
+      ]
+    }
+  ]
+}

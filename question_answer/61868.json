@@ -1,0 +1,371 @@
+{
+  "parent_type": "question",
+  "parent_id": "61868",
+  "answer_count": 20,
+  "answers": [
+    {
+      "id": "690170",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>一个有限的宇宙,就意味着它的边界是可以被观测到的</blockquote><br/>\n不<br/>\n就算宇宙是有限的，也不等於你能觀測到它的邊界<br/>\n人類現在就不能觀測到宇宙的邊界，然後宇宙還會膨脹，邊界會離我們的觀測極限越來越遠。宇宙膨脹的速度也是天文數字，遠超人類觀測技術成長的速度，很可能人類永遠觀測不到宇宙邊界<br/>\n人類，受限於硬體性能，是不能理解或想像超過自己經驗和認知的東西的，比方說高維度世界，或者宇宙之外。克蘇魯神話或許是最接近宇宙之外的描述：超乎人類理解和認知、不可明狀的<br/>\n<blockquote>假设宇宙是无限的，在一个无限的宇宙中，所有可能发生的事件都将无限次地发生</blockquote><br/>\n不<br/>\n比方說「希特勒能不能考上美院」就曾經是一個可能發生的事件，卻沒有無限次發生，甚至一次都沒發生過<br/>\n「一個無限宇宙」和「無限個平行宇宙」是有區別的<br/>\n<blockquote>在一个无限的宇宙中，时间可能也是无限的。然而，如果时间是无限的，那么任何可能发生的事件都应该已经发生过。</blockquote><br/>\n這個推理也是錯誤的<br/>\n比方說一條射線，長度是無限的，但射線上任何一個固定的點和起點之間的距離卻是有限的<br/>\n就算時間是無限的，只要時間有起點，歷史就是有限的。只要歷史是有限的，那發生過的事件就也是有限的，沒發生過的就是沒發生過，儘管他們在未來可能發生\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690158",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这就是个名字而已，你希望观看我们已经研究的对象以外的东西，给它取个名字就行了，正如你在学习完有理数的构建后，你会引入无理数。<br/>\n--------楼主已在本层回复了我2次后的编辑<br/>\n看到楼主对我的说法比较感兴趣，我进一步解释它，这不过是再简单不过的道理，<b>并不涉及什么哲学、未知的科学或玄学</b>（事实上，在愚昧的大众---我不是说楼主---眼里它们是一回事）：<br/>\n物理事件（events）以函数类比，当它仅仅定义在某个集合的真子集（universe）上，而我们思考那个真子集时，总是忍不住思考包含它的那个集合，正如我们思考[0,1]总是忍不住把它放在实数轴上看着，那么宇宙的范围到底是全集还是那个子集呢？<br/>\n如果你的心是坚定的和清晰的，那么它依然是那个真子集。<br/>\n如果你被通感所干扰，看向全集，那么你看着的是函数现有的定义域和一个未经过延拓的地方，后者还没被你主观地补充上函数，只不过是一个孤零零的“定义域”，你确定要把原本给定义域的名字赋予这整块地方吗？<br/>\n-------更多1次的编辑<br/>\n事实上，对于上文的给定子集，总是有无数个真包含它的不同集合，如果采取主楼的思考方式，它们都足以让你起决心立为某个概念（例如宇宙）定义，随后你的思维的矛盾就摆在了这里，一事不可有两个定义，你需要改正。或者说你根本就没打算好好探讨这个概念。\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 4,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1209446",
+          "replier": {
+            "username": "李冬冬",
+            "uid": "93120"
+          },
+          "date": "2023-09-19",
+          "content": "你大概停留小学生的思维水平"
+        },
+        {
+          "id": "1209448",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-09-19",
+          "content": "@李冬冬:希望这个答案能给你帮助。"
+        },
+        {
+          "id": "1209449",
+          "replier": {
+            "username": "李冬冬",
+            "uid": "93120"
+          },
+          "date": "2023-09-19",
+          "content": "你还是多想想怎么先提升自己吧"
+        },
+        {
+          "id": "1209703",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-09-19",
+          "content": "@李冬冬:如果理解不了层主所说，可以看一下广义相对论解释，如果还有具体问题可以提问。"
+        },
+        {
+          "id": "1209777",
+          "replier": {
+            "username": "屠支大佐毛遮洞",
+            "uid": "107972"
+          },
+          "date": "2023-09-20",
+          "content": "地球是一个子集，太阳系是一个更大的子集，银河系是更大的子集，这个实数集就包含了无限层的嵌套…灵界相当于虚数集，整个复数集只是一个面积无限的二维平面，属于一个三维空间的真子集，三维空间之上还有4维、五维、6维至无限维…呃，我的脑细胞不够用了"
+        }
+      ]
+    },
+    {
+      "id": "690162",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小党员冲淡颜色革命气氛的努力越来越无聊了<br/>\n<br/>\n下次还是用外星人把\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690212",
+      "is_folded": false,
+      "answerer": {
+        "username": "佳山",
+        "uid": "106021"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人类真正认识宇宙，应该从上世纪二十年代哈勃发现河外星系开始算起，满打满算不过一百年。就想知道宇宙的大小、年龄，太天真了吧。\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690217",
+      "is_folded": false,
+      "answerer": {
+        "username": "木星用户",
+        "uid": "74437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t宇宙是有限但无界的。有限无界的东西生活中有很多，比如球面，所以你可以简单把宇宙比喻为三位球面，一样东西沿着绝对直线一直走可以回到原点，如果你能看到无穷远那你看到最远的地方是你的后脑勺。而宇宙的边界紧贴着你，其实就是四维空间。其实早在高斯时代他就怀疑欧氏几何无法形容我们所处的空间，直到他的学生黎曼提出黎曼几何才有了对宇宙描述的有力参考，爱因斯坦的相对论就是黎曼几何的一个实用例子\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690155",
+      "is_folded": false,
+      "answerer": {
+        "username": "mikewang",
+        "uid": "53447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t真空是无限的，宇宙的星球是有限的，只是人类无技术观测到所有星球。星球坐落在真空环境中而已。<br/>\n<br/>\n根本不存什么宇宙之外，宇宙除了真空和星球外，并无其他（星球内生物不算）。\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1209458",
+          "replier": {
+            "username": "guest_s",
+            "uid": "78029"
+          },
+          "date": "2023-09-19",
+          "content": "@sasasasasa:  👍"
+        },
+        {
+          "id": "1209459",
+          "replier": {
+            "username": "guest_s",
+            "uid": "78029"
+          },
+          "date": "2023-09-19",
+          "content": "所以請正面回答樓主的問題。"
+        }
+      ]
+    },
+    {
+      "id": "690163",
+      "is_folded": false,
+      "answerer": {
+        "username": "diqiuren",
+        "uid": "116855"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t宇宙是有限的，因为无限是违反直觉和常识的。补齐二十字。\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1209734",
+          "replier": {
+            "username": "末世红尘客",
+            "uid": "74378"
+          },
+          "date": "2023-09-20",
+          "content": "那是因为你的直觉和常识来自你\"有限的经验\"."
+        }
+      ]
+    },
+    {
+      "id": "690456",
+      "is_folded": false,
+      "answerer": {
+        "username": "观云先生",
+        "uid": "73140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有一个观点认为，宇宙是字面意义上纯数学的。<br/>\n从这个概念上来说，宇宙是相对无限的，N+1维度是N维度的无限合集。\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690457",
+      "is_folded": false,
+      "answerer": {
+        "username": "noether_wyle",
+        "uid": "73520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t无限有边。<br/>\nunlimited but bounded.<br/>\nUniverse is a bounded manifold<br/>\n比如球面上，是无限的。\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690499",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你就是这个宇宙，你死了这个宇宙就没了。紫薯补丁紫薯补丁\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690504",
+      "is_folded": false,
+      "answerer": {
+        "username": "维罗纳的歌",
+        "uid": "33970"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t给你标准答案啊，目前人类通过光（包括红外光之类的）能看见的叫可观测宇宙，再远处没光，黑漆漆一片看不见，科学界实话实说就是不知道，虽然不知道，但是科学家有各种有待证实的推测，本人没那水平，我就不跟着起哄了。\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690550",
+      "is_folded": false,
+      "answerer": {
+        "username": "functional",
+        "uid": "112730"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t物理学家已经不回答这个问题了。对他们来说，只要把宇宙想象成一个不断膨胀的球面，他们就可以建立所有的理论了。至于这个球面所在的高维空间，他们无法观测，也不需要关于这个空间的任何的任何数据、假设。\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690638",
+      "is_folded": false,
+      "answerer": {
+        "username": "Ashley7749",
+        "uid": "116987"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t宇宙不停膨胀的理论好像已经存在很久了，所以是有限但是无边际的，应该算是科学界的共识了吧\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690154",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t什么物理问题<br/>\n<br/>\n宇宙如果是有限的，宇宙没有“之外”，因为宇宙内的物质是不能脱离宇宙的，宇宙相当于一个特大号的黑洞。\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690160",
+      "is_folded": false,
+      "answerer": {
+        "username": "萨格尔王吃冰棒",
+        "uid": "21463"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t目前较为主流的观点认为宇宙是有限无界的。<br/>\n<br/>\n二十字二十字二十字\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1209456",
+          "replier": {
+            "username": "guest_s",
+            "uid": "78029"
+          },
+          "date": "2023-09-19",
+          "content": "如果你知道它是無界的，你又怎麼知道它是有限的？😅"
+        }
+      ]
+    },
+    {
+      "id": "690169",
+      "is_folded": false,
+      "answerer": {
+        "username": "学做地球人",
+        "uid": "92067"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t第一个回答是 我不知道<br/>\n第二个回答是 也许我们该找找科学界的人是怎么解释这个问题的 也许已经有许多学者用科学手段研究过了<br/>\n第三个回答是 我们得先思考下 对宇宙和边界的定义 是包括了人类可观测、已观测的部分 还是包括更进一步的部分<br/>\n还得考虑 是否要限定某个时间 因为有某些理论认为宇宙是在不断膨胀的 同样 人类的观测能力也是不断进步的 等等等等<br/>\n当然 只要别跟我说宇宙之外是不可描述的某种至高无上的神\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690172",
+      "is_folded": false,
+      "answerer": {
+        "username": "guest_s",
+        "uid": "78029"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果宇宙是無限的，它為什麼會被你這個有限的人知道呢？😅\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690202",
+      "is_folded": false,
+      "answerer": {
+        "username": "又勾勾又丢丢",
+        "uid": "94661"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人类一思考,上帝就发笑.<br/>\n老夫认为,人类对于宇宙的理解,就如同海里一条鱼对海洋的理解：海洋就是宇宙的全部\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": -1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1209702",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-09-19",
+          "content": "你自己弱智而已，广义相对论的解答当然谈不上是真理，但已经可以提供一个可信服的解释了。当然你看不懂其他回复就没办法了。"
+        },
+        {
+          "id": "1209709",
+          "replier": {
+            "username": "又勾勾又丢丢",
+            "uid": "94661"
+          },
+          "date": "2023-09-19",
+          "content": "@华国锋:请问你这高智商的蜘蛛,为什么母蜘蛛喜欢把自己的老公吃掉？"
+        }
+      ]
+    },
+    {
+      "id": "690159",
+      "is_folded": true,
+      "answerer": {
+        "username": "百度一下",
+        "uid": "102580"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-09-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690175",
+      "is_folded": true,
+      "answerer": {
+        "username": "pinched",
+        "uid": "116703"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-09-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

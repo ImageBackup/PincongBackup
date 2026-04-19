@@ -1,0 +1,42 @@
+{
+  "article_id": "56374",
+  "category_id": "1",
+  "title": "苹果将中国式审查带到香港，悄悄地扩展了中国腾讯公司制定的黑名单网站给香港的用户",
+  "meta_description": "苹果将中国式审查带到香港，悄悄地扩展了中国腾讯公司制定的黑名单网站给香港的用户 - https://theintercept.com/2023/01/26/apple-china-censorship-hong-kong-gitlab/  当香港的Safari用户最近试图加载流行的代码共享网站 GITLAB 时，他们反而收到了一个奇怪的警...",
+  "meta_keywords": "苹果,中国式,审查,带到,香港,悄悄地,扩展,中国,腾讯,公司制,黑名单,网站,用户",
+  "tags": [
+    {
+      "id": "17",
+      "name": "香港"
+    },
+    {
+      "id": "375",
+      "name": "言论自由"
+    },
+    {
+      "id": "693",
+      "name": "苹果"
+    },
+    {
+      "id": "1070",
+      "name": "腾讯"
+    },
+    {
+      "id": "9372",
+      "name": "上网安全"
+    },
+    {
+      "id": "101939",
+      "name": "长城"
+    }
+  ],
+  "author": {
+    "username": "[已注销]",
+    "uid": null
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\thttps://theintercept.com/2023/01/26/apple-china-censorship-hong-kong-gitlab/<br/>\n<br/>\r\n当香港的Safari用户最近试图加载流行的代码共享网站 GITLAB 时，他们反而收到了一个奇怪的警告：APPLE 的浏览器为了他们自己的安全正在阻止该网站。<br/>\r\n由于 Apple 使用中国企业网站黑名单，访问被暂时切断，这导致无害的网站被标记为错误信息的提供者。网络过滤器背后的大型中国公司腾讯和苹果都没有说明该网站是如何或为何受到审查的。<br/>\n<br/>\r\nSafari 的“安全浏览”功能以整页的“欺骗性网站警告”向他致意，建议由于 GitLab 包含危险的“未经验证的信息”，因此无法访问。在公司注意到这种情况后，几天后恢复了对 GitLab 的访问。<br/>\n<br/>\r\n苹果发言人 Nadine Haija 不愿回答有关 GitLab 事件的问题，暗示这些问题针对的是腾讯，后者也拒绝回应。<br/>\n<br/>\r\nChu 在推特上说，其他香港居民也报告说，由于腾讯，GitLab 在他们的设备上同样被封锁。“我们会调查的，”苹果工程师 Maciej Stachowiak在推特上回应道。“谢谢提醒。” <br/>\r\n但同时担任网络权利组织互联网协会香港分会副主席的 Chu 表示，他没有收到苹果的进一步信息。<br/>\n<br/>\r\n此次封杀令 Chu 和其他香港居民感到特别意外，因为苹果公司最初表示，腾讯封杀名单将仅用于中国大陆境内的 Safari 用户。<br/>\r\n然而，根据 Internet Archive 的审查，在 2022 年 11 月 24 日之后的某个时间，Apple 悄悄修改了其 Safari 隐私政策，指出腾讯黑名单也将用于香港的设备。<br/>\n<br/>\r\n“不幸的是，虽然许多科技公司主动对中国大陆用户实施政治和宗教审查，但在北美科技公司中，苹果可能是独一无二的，它主动对香港用户实施此类言论限制”\t\t\t\t\t\t\t</div>",
+  "view_count": 6836,
+  "date": "2023-03-27",
+  "agree_count": 9,
+  "comment_count": 19
+}

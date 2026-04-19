@@ -1,0 +1,61 @@
+{
+  "parent_type": "question",
+  "parent_id": "56211",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "632622",
+      "is_folded": false,
+      "answerer": {
+        "username": "rvtbynum",
+        "uid": "102607"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实你觉得这样麻烦，仅仅是因为你不熟练而已。母语使用者都是强行记住了大量习惯用法，人家说话时根本不用去想哪个格哪个格，并不觉得麻烦。老外还觉得中国人记住了几千个汉字的不同写法是不可思议的呢。\t\t</div>",
+      "date": "2023-02-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "632280",
+      "is_folded": false,
+      "answerer": {
+        "username": "一枪一个小朋友",
+        "uid": "7055"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t原始语言总是很简单的格，后面语言发展了格的数量就看知识分子装逼能力有多大有多少创造力\t\t</div>",
+      "date": "2023-02-19",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1155436",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-02-19",
+          "content": "那为什么原始日耳曼语的格相比今天的各个子孙后代就很多，而现代英语就没有工具格、与格这些东西呢"
+        },
+        {
+          "id": "1155677",
+          "replier": {
+            "username": "一枪一个小朋友",
+            "uid": "7055"
+          },
+          "date": "2023-02-20",
+          "content": "可能是日耳曼发展的比较早，知识分子早就出现了。他们装逼装过头了。"
+        },
+        {
+          "id": "1155678",
+          "replier": {
+            "username": "一枪一个小朋友",
+            "uid": "7055"
+          },
+          "date": "2023-02-20",
+          "content": "@屠支太君:用屁股思考就知道，格和语法这些东西都是语言蓬勃发展后知识分子试图使语言规范化的努力。而自然的语言是非常多不正规，形态各异的用法的。"
+        }
+      ]
+    }
+  ]
+}

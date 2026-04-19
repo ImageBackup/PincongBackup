@@ -1,0 +1,57 @@
+{
+  "parent_type": "question",
+  "parent_id": "63296",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "705544",
+      "is_folded": true,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-11-14",
+      "agree_count": 2,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1225305",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-11-14",
+          "content": "連磚都懶得拋了"
+        },
+        {
+          "id": "1225306",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-11-14",
+          "content": "已删除"
+        },
+        {
+          "id": "1225307",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-14",
+          "content": "@吱吱猴猴:这段时间，若看见这类帖子，请不要增添回复，我会让它沉底。"
+        },
+        {
+          "id": "1225404",
+          "replier": {
+            "username": "shps",
+            "uid": "118436"
+          },
+          "date": "2023-11-15",
+          "content": "你对宫本家又是什么看法？"
+        }
+      ]
+    }
+  ]
+}

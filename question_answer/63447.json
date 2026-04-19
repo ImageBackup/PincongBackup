@@ -1,0 +1,74 @@
+{
+  "parent_type": "question",
+  "parent_id": "63447",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "707061",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我一直不明白X有什么用，闲工夫多刷reddit，不会动脑子刷YouTube。X和TikTok这种东一榔头西一棒槌的东西有啥用。\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "707039",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以email註冊<br/>\n。。。。。。。。。。。。。。。\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1227081",
+          "replier": {
+            "username": "火力加速王",
+            "uid": "74388"
+          },
+          "date": "2023-11-21",
+          "content": "我没有墙外的E-mail😨😨😨"
+        },
+        {
+          "id": "1227082",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2023-11-21",
+          "content": "@火力加速王:protonmail，注册不需要手机号只需要已有邮箱"
+        },
+        {
+          "id": "1227098",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2023-11-21",
+          "content": "@平疫禁人忍民领袖:我记得以前注册的时候是不需要邮箱的，好像过个验证码就行。"
+        }
+      ]
+    },
+    {
+      "id": "707055",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果只是要看，用nitter吧。实例列表：<br/>\n<pre>https://github.com/zedeus/nitter/wiki/Instances</pre> </div>",
+      "date": "2023-11-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

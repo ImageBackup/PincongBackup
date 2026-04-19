@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "66925",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "744248",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t『廣州人會模仿香港口音』這句話就默認了廣州口音和香港口音不一樣啊\t\t</div>",
+      "date": "2024-04-29",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1261385",
+          "replier": {
+            "username": "汉口市长",
+            "uid": "113634"
+          },
+          "date": "2024-04-29",
+          "content": "说错了，广州年轻人模仿香港的用词，比如广州话的摩托车，香港人叫电单车"
+        },
+        {
+          "id": "1261386",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2024-04-29",
+          "content": "@汉口市长:我也是聽說的，據說老一代『廣東年輕人』（改開前夕到改開時代左右）是會學香港人口音，因為覺得比較時髦。現在應該沒有多少差別了吧\n其實英國不同郡的英語口音也會不一樣，稱不上是多大區別，但香港和廣東這點距離有兩三種不同口音完全正常的"
+        }
+      ]
+    },
+    {
+      "id": "744246",
+      "is_folded": false,
+      "answerer": {
+        "username": "otnius",
+        "uid": "106893"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t香港粤语懶音比较重？香港人一开口我就能知道他是香港人，不过你要我说什么心得我就说不出来\t\t</div>",
+      "date": "2024-04-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

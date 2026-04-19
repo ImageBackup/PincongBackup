@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "60758",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "679120",
+      "is_folded": false,
+      "answerer": {
+        "username": "hjas",
+        "uid": "114852"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别整短波收音机！<br/>\n<br/>\n同频干扰极为严重，几乎收不到可以正常收听的西方中文台！！\t\t</div>",
+      "date": "2023-08-12",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678677",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://pincong.rocks/question/60367应该大概也许是没有的，我研究下去弄个水货收音机看看\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678707",
+      "is_folded": false,
+      "answerer": {
+        "username": "top1357",
+        "uid": "52402"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果只是想玩玩的，Software Defined Radio 了解一下<br/>\n不貴的，插上電腦裝上天線能聽不少東西\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

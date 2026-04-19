@@ -1,0 +1,78 @@
+{
+  "parent_type": "question",
+  "parent_id": "59365",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "665112",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你问问题别这么白痴好不好，具体数据都是来自中国官方和国际原子能机构，你是什么样的脑回路才能问出”找借口开脱”这种话？<br/>\n<br/>\n别装什么狗屁外宾，中国民间一直在鼓励攻击日本排放废水的事，你都上品葱了还不知道这个？\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 12,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665120",
+      "is_folded": false,
+      "answerer": {
+        "username": "rdhygj",
+        "uid": "55861"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这帖子… 怎么说呢，这舆论战的手法相当生硬啊<br/>\n小同志你这贴算是白写了\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1186940",
+          "replier": {
+            "username": "Alexandria",
+            "uid": "76505"
+          },
+          "date": "2023-06-24",
+          "content": "墙内很多人认为，日媒在偷换概念，核废水不是这样算的，实际上日本排放的危害更大。我没有核辐射相关知识，想知道有没有人可以科普一下的。不敢相信墙内的科普，又不知道怎么反驳"
+        },
+        {
+          "id": "1186942",
+          "replier": {
+            "username": "小魔女",
+            "uid": "92406"
+          },
+          "date": "2023-06-24",
+          "content": "@Alexandria:不这么算怎么算？"
+        }
+      ]
+    },
+    {
+      "id": "665127",
+      "is_folded": false,
+      "answerer": {
+        "username": "darksoul1",
+        "uid": "88306"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你以为日本媒体是ccav那种完全不要逼脸的货色吗？\t\t</div>",
+      "date": "2023-06-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665124",
+      "is_folded": true,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-06-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

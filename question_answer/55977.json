@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "55977",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "629798",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 建議最好優化一下你和 CDN 的連接. 最直接的辦法是減少跳數. CDN 通過代理本身就會導致效能很低.\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629837",
+      "is_folded": true,
+      "answerer": {
+        "username": "黄娜老师",
+        "uid": "107878"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\t应该是你的手机端或pc端被国安国宝监控了，正在搜集证据阶段.\t\t</div>",
+      "date": "2023-02-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "parent_type": "question",
+  "parent_id": "54373",
+  "answer_count": 23,
+  "answers": [
+    {
+      "id": "611494",
+      "is_folded": false,
+      "answerer": {
+        "username": "精肾细腻",
+        "uid": "89684"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为北京活到八九十上百岁的老年人比较多，都是吃皇粮特供的，一辈子没害过病，一病就歪了\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 28,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611542",
+      "is_folded": false,
+      "answerer": {
+        "username": "都市火枪手",
+        "uid": "85988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t老头老太特别多，65岁以上人口占全体人口的25%左右，如果仅考虑户籍人口可能会达到40%。基础病患者不在少数。<br/>\n<br/>\n北京同时也是肥胖率非常高的一个城市，大众饮食不健康，许多人因此而累积了一些基础病。别说东西城的退休干部，就是西二旗的那些码农，大部分给我的印象都是青春到头了，面色铁灰，暗淡，想必当中不少有一高或者脂肪肝的。<br/>\n<br/>\n这轮大放开无非是展露出了北京这座城市严峻但一直不为人知的居民健康问题。寒冬泠冽下，北京这个冬天会变得非常可怕。\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 20,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1136623",
+          "replier": {
+            "username": "毛病导致恶习",
+            "uid": "104995"
+          },
+          "date": "2022-12-18",
+          "content": "你的数字太夸张了，北京的老龄化水平没有这么高，而且北京无论是常住人口还是户籍人口的老龄化水平都低于上海。"
+        },
+        {
+          "id": "1136755",
+          "replier": {
+            "username": "都市火枪手",
+            "uid": "85988"
+          },
+          "date": "2022-12-19",
+          "content": "@Paisuan:所以在爆发初期这两个地方都出现严重的医疗危机"
+        }
+      ]
+    },
+    {
+      "id": "611493",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为北京打针率最高，所以死的最多，广东没人信共匪这套之所以不死人\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 20,
+      "discussion_count": 19,
+      "discussions": [
+        {
+          "id": "1136345",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-17",
+          "content": "還真別説, 有一定道理, 我知道的首都朋友全都被强制打過三針了."
+        },
+        {
+          "id": "1136361",
+          "replier": {
+            "username": "dbdms",
+            "uid": "101897"
+          },
+          "date": "2022-12-17",
+          "content": "流行变异株不同，广东的变异株症状轻很多"
+        },
+        {
+          "id": "1136366",
+          "replier": {
+            "username": "中華聯邦共和國",
+            "uid": "20514"
+          },
+          "date": "2022-12-17",
+          "content": "这个还真的有道理，体制内的都听话去打针。"
+        },
+        {
+          "id": "1136367",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-17",
+          "content": "北京绝大部分人连第三针都是一年以前打的了，现在基本上跟裸奔没有任何区别"
+        },
+        {
+          "id": "1136393",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2022-12-17",
+          "content": "著名的街头采访“唔惊”、“有政府”是不是广州人说的？广州疫苗接种率也不低。"
+        },
+        {
+          "id": "1136445",
+          "replier": {
+            "username": "schokomandel",
+            "uid": "98838"
+          },
+          "date": "2022-12-17",
+          "content": "@reddit_suck:那个好像是武汉人说的"
+        },
+        {
+          "id": "1136453",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2022-12-17",
+          "content": "@schokomandel:香港记者采访广东支，支爆：\nhttps://www.youtube.com/watch?v=ACwLJ_NduOg"
+        },
+        {
+          "id": "1136505",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-17",
+          "content": "明白了,可能是疫苗的ADE. 毕竟疫苗人体试验时候没有这些新病毒,这些变异病毒完全有可能借助之前疫苗的抗体来感染."
+        },
+        {
+          "id": "1136510",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-17",
+          "content": "@天下无贼:如果那样的话,顶多症状和没打的一样,不会更重."
+        },
+        {
+          "id": "1136511",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-17",
+          "content": "@kisuki: 症状严重有解释说是BF7和BA5的区别，广州是BA5，症状较轻。至于重症和死亡，实际上现在还不知道有多严重，网上的声音都是被放大过的，而现在统计也已经废了，可能只能事后去看超额死亡人数了"
+        },
+        {
+          "id": "1136691",
+          "replier": {
+            "username": "信春哥得永生",
+            "uid": "28242"
+          },
+          "date": "2022-12-18",
+          "content": "@天下无贼:道理上说要想知道新冠及其次生灾害导致的死亡就是应该看这几年的超额死亡人数，但问题是中国政府会公布真实数据么？我严重怀疑"
+        },
+        {
+          "id": "1136693",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-18",
+          "content": "@信春哥得永生: 不用公布超额死亡人数，公布死亡人数大家自己算就行。这个问题以前和葱友讨论过，中国2020年没有公布死亡人数，2019年和2021年是有的，当然信不信就是另一回事了。"
+        },
+        {
+          "id": "1136703",
+          "replier": {
+            "username": "信春哥得永生",
+            "uid": "28242"
+          },
+          "date": "2022-12-18",
+          "content": "@天下无贼:按理说是需要有2020，2021，2022年至少这三年的死亡人数，当然考虑国内刚放开所以2023年应该还有大量超额死亡，那估计要四年的加起来才行了"
+        },
+        {
+          "id": "1136726",
+          "replier": {
+            "username": "zzzzz11111",
+            "uid": "41398"
+          },
+          "date": "2022-12-18",
+          "content": "这个就扯淡了，广东的接种率估计比北京还高，深圳是全国普及疫苗最积极的"
+        },
+        {
+          "id": "1136757",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-19",
+          "content": "@信春哥得永生: 2022还没过完，肯定没有。2018、2019、2021年，都有的，就是少了2020年。美国各年的数据都有，其实和新冠死亡数字大概对的上，超额死亡人数比新冠死亡人数多10%左右"
+        },
+        {
+          "id": "1136835",
+          "replier": {
+            "username": "信春哥得永生",
+            "uid": "28242"
+          },
+          "date": "2022-12-19",
+          "content": "@天下无贼:所以说至少还是要过几年才能知道真实死亡人数了"
+        },
+        {
+          "id": "1136836",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-19",
+          "content": "@信春哥得永生: 你说中国的？如果能及时公布死亡总人数，就能很快知道。当然这才刚开始放开，我们假设两三个月达峰，未来持续有人重复感染，那死亡人口数字一年一公布，肯定要一年一年的去看数字了。\n另外我刚才又查了一下，中国2020年的死亡率是有官方公布数字的，在统计局的统计年鉴2021版里，但是2021版的统计年鉴人口数字非常简略，只有一个死亡率，具体的死亡人数可以手工计算一下。人口数字简略的一个可能原因是2020年有第七次人口普查，更多的人口数字可以去看人口普查报告（但是人口普查里并不包含当年的死亡人数）"
+        },
+        {
+          "id": "1136850",
+          "replier": {
+            "username": "信春哥得永生",
+            "uid": "28242"
+          },
+          "date": "2022-12-19",
+          "content": "@天下无贼:是的因为中国明年应该还有大量死亡"
+        },
+        {
+          "id": "1136892",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-19",
+          "content": "@信春哥得永生: 肯定的，毫无疑问。就看数字是多少了。"
+        }
+      ]
+    },
+    {
+      "id": "611513",
+      "is_folded": false,
+      "answerer": {
+        "username": "Desperado",
+        "uid": "5382"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t北京有2100万人口，生病了，重症的，人数在绝对数量上都比别的城市多太多。所以在网上的声音也比较大。保定疫情也厉害，但是人口不到北京的一半。<br/>\n<br/>\n另外，北京现在是冬天，特别冷。但是广州现在还是挺温暖的。天气冷的时候，生病症状也就比较严重。一个原因是天气冷不能自由开窗通风，另一个原因是，天气冷了，身体抵抗力也差很多。\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 11,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1136392",
+          "replier": {
+            "username": "都市火枪手",
+            "uid": "85988"
+          },
+          "date": "2022-12-17",
+          "content": "讲真，广州这几天也冷，体感上可能还比北京难受。"
+        },
+        {
+          "id": "1136430",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2022-12-17",
+          "content": "胡说，日本今年疫情最严重的时期是天气最热的7月"
+        },
+        {
+          "id": "1136440",
+          "replier": {
+            "username": "Desperado",
+            "uid": "5382"
+          },
+          "date": "2022-12-17",
+          "content": "@billzt:你还是控制变量一下吧。"
+        }
+      ]
+    },
+    {
+      "id": "611501",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhangting",
+        "uid": "100256"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大城市更喜欢在网上嚎，之前封控看出来了。4月份上海也是小作文不断。\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 15,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611520",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为北京人口密度非常高，人口数量非常多，传播速度快，感染基数大。加上冬天，传播更快。<br/>\n<br/>\n就算按照最低0.1%的死亡率，北京至少要死3万人。如果发生医疗挤兑，还要死更多的人。如果老龄化严重，还要死更多的人。保守估计会死10万人。<br/>\n<br/>\n如果觉得惊讶，真是不知道<mark>支那</mark>到底有多卷。<mark>支那</mark>一切的问题就是人太多。\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 9,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611591",
+      "is_folded": false,
+      "answerer": {
+        "username": "kane888",
+        "uid": "31952"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有很多个原因，之前有个老哥和我说，北京科兴第三针毒性很足，前两针还好，江浙沪疫苗毒性比北方的小一些，还有就是气候，北京现在那么冷，冬天冬天容易存活，人的抵抗力又下降，症状肯定普遍比5月份上海要严重\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611725",
+      "is_folded": false,
+      "answerer": {
+        "username": "kisuki",
+        "uid": "9014"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看起来综合了一下,很有可能是疫苗的ADE反应.毕竟疫苗出来时候这些新变种病毒都还没有,现在某种新变种会对以前疫苗产生的抗体有ADE作用是有可能的. 而且疫苗打久了,抗体浓度降低, 研究好像都是说抗体浓度越低越容易有ADE反应\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611511",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最厉害的是保定，不是北京 <br/>\n<br/>\n为什么凑二十字凑二十字凑二十字凑二十字\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1136381",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-17",
+          "content": "保定咋了?"
+        },
+        {
+          "id": "1136432",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-17",
+          "content": "@kisuki: bn7变种，比其他地方的都厉害"
+        },
+        {
+          "id": "1136746",
+          "replier": {
+            "username": "信春哥得永生",
+            "uid": "28242"
+          },
+          "date": "2022-12-19",
+          "content": "@心情不好:7是最新的么"
+        },
+        {
+          "id": "1136751",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-19",
+          "content": "@信春哥得永生:新旧不知道，但是所有变种里症状最重的"
+        },
+        {
+          "id": "1136752",
+          "replier": {
+            "username": "信春哥得永生",
+            "uid": "28242"
+          },
+          "date": "2022-12-19",
+          "content": "@心情不好:明白 谢谢"
+        }
+      ]
+    },
+    {
+      "id": "611518",
+      "is_folded": false,
+      "answerer": {
+        "username": "方头狮子",
+        "uid": "87186"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我现在阳着，就烧了两天，一颗药也没吃，今天已经好了，就剩轻微咳嗽。倒是我昨天去做核酸的时候，医院门口有个宫外孕的女士被拦在医院门外。\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1136431",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-17",
+          "content": "哎呀, 這位女士可太慘了. 多謝你揭露, 和祝你痊愈."
+        }
+      ]
+    },
+    {
+      "id": "611926",
+      "is_folded": false,
+      "answerer": {
+        "username": "vnychase",
+        "uid": "44482"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t补充一个前面葱油没说到的原因（个人猜测），北京的空气质量可能也是一个原因，虽然这几年北京空气好了不少，但是印象中前几天（刚放开最严重的那几天），有一天空气质量指数AQI高达六百多（好像某BBC还是CNN的驻华记者在个人Twitter中还说了这事）。<br/>\n<br/>\n毕竟Omicron主要影响的是呼吸道，即使没有病毒，AQI六百多的天人都咳得够呛，再加上Omicron的影响，病情加重也可以理解。\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1136856",
+          "replier": {
+            "username": "lixixi9952",
+            "uid": "98395"
+          },
+          "date": "2022-12-19",
+          "content": "那天是沙尘暴！北京空气比成都好多了，你到成都来看看，都没人提了，天天雾霾"
+        }
+      ]
+    },
+    {
+      "id": "611677",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别看中国号称是一个大一统的国家，其实南北的差异完全就是两个文明的区别的，观察接触的北方人会发现北方人虽然看着个头高些大些但体质相当糟糕，日常生活习惯差不爱洗澡总是散发出一股体臭味，因为有冬季供暖的存在普遍抗冻能力极差，在十几度的天气就喊冷得不行，饮食也偏高盐高脂肪导致心血管病很多，这么多问题的积累在放开后一下子这么严重也就不奇怪了。\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 4,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1136658",
+          "replier": {
+            "username": "kazami",
+            "uid": "75866"
+          },
+          "date": "2022-12-18",
+          "content": "北京人太娇气而已，上海早就封城前后爆了好几轮了，也没见天天网上晒怎么难受的"
+        },
+        {
+          "id": "1136669",
+          "replier": {
+            "username": "事已至此先吃饭吧",
+            "uid": "102283"
+          },
+          "date": "2022-12-18",
+          "content": "@kazami:网上已经抓出哭喊的水军的，一样的文风把病症夸张化。"
+        },
+        {
+          "id": "1136679",
+          "replier": {
+            "username": "gerryzeng1991",
+            "uid": "95392"
+          },
+          "date": "2022-12-18",
+          "content": "@事已至此先吃饭吧:主要还是支国墙内舆论各种黑上海人"
+        }
+      ]
+    },
+    {
+      "id": "611922",
+      "is_folded": false,
+      "answerer": {
+        "username": "總加速濕",
+        "uid": "73156"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t毒株不一样？<br/>\n以我自己的和身边亲朋好友的经历，所有人都是高烧+喉咙痛+头疼症状，我自己持续烧了四五天才完全退烧，喉咙不适感持续超过一周。<br/>\nPS.我没打过一针疫苗。\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611924",
+      "is_folded": false,
+      "answerer": {
+        "username": "爱娴",
+        "uid": "96773"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我感觉应该和气温 人口密度 毒株应该有一些关系\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611669",
+      "is_folded": false,
+      "answerer": {
+        "username": "信春哥得永生",
+        "uid": "28242"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t个人认为有很多因素：<br/>\n<br/>\n1：北京老年人比例相对其他城市较高，而老年人抵抗力较弱。<br/>\n2：北京人口密度相对较大，所以传播起来较快。<br/>\n3：北京在北方，至少在全国范围内是温度偏低的，适合新冠病毒生存。\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611506",
+      "is_folded": false,
+      "answerer": {
+        "username": "FKisLand",
+        "uid": "105264"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不在风控中爆发，就在开放中病亡，让阳阳来的更猛烈些吧，以前检测外包一直在养蛊，现在爆发不意外啊，现在检测外包全面亏损，卖药盆满钵满，CCP所无不能\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611970",
+      "is_folded": false,
+      "answerer": {
+        "username": "zsy2023",
+        "uid": "92543"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为北京该死的人太多了！北京人多死点，对这世界是幸事，病毒都认可这点。\t\t</div>",
+      "date": "2022-12-19",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611978",
+      "is_folded": false,
+      "answerer": {
+        "username": "田野老流氓",
+        "uid": "103958"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为北京是全国中心也是权利的聚集地，老天爷看不下去共匪的所作所为了\t\t</div>",
+      "date": "2022-12-19",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612080",
+      "is_folded": false,
+      "answerer": {
+        "username": "kazami",
+        "uid": "75866"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t习近平的共产党这两年专和奥秘克隆过不去要清零，病毒也窝火，上海喊出打倒习近平共产党自然被病毒放过，冲北京去了\t\t</div>",
+      "date": "2022-12-19",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611510",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为别的城市还没开始呢<br/>\n其实最厉害的是河北<br/>\n北京又被河北围着\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611580",
+      "is_folded": false,
+      "answerer": {
+        "username": "mikail",
+        "uid": "84437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t显然北方蝗蚶狂妄区瘟疫还是比较厉害的 <br/>\n<br/>\n天气冷嘛<br/>\n<br/>\n南方相对民主区还是温和的很多<br/>\n<br/>\n武汉瘟疫可比百年不遇之华夏族聪明的多，<br/>\n<br/>\n直到何时毁灭命根子<br/>\n<br/>\n......\t\t</div>",
+      "date": "2022-12-17",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611932",
+      "is_folded": false,
+      "answerer": {
+        "username": "背书名",
+        "uid": "104812"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t镇反土改死亡三百万<br/>\n亩产万斤大吃饱死亡两千万<br/>\n文革屠杀死亡八百万<br/>\n计划生育死亡一亿<br/>\n<br/>\n武汉肺炎才死亡了 6000多人<br/>\n武汉肺炎，你就是鸡巴，加油啊😄\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611572",
+      "is_folded": true,
+      "answerer": {
+        "username": "机器猫博士",
+        "uid": "105067"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2022-12-17",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1136441",
+          "replier": {
+            "username": "背书名",
+            "uid": "104812"
+          },
+          "date": "2022-12-17",
+          "content": "扯淡 ，刘伯温都出来了"
+        }
+      ]
+    }
+  ]
+}

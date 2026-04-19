@@ -1,0 +1,665 @@
+{
+  "parent_type": "question",
+  "parent_id": "56590",
+  "answer_count": 23,
+  "answers": [
+    {
+      "id": "636819",
+      "is_folded": false,
+      "answerer": {
+        "username": "flicker_free",
+        "uid": "98663"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没错，而且中国的STEM博士毕业生去考公考编进城管、街道、环卫、乡镇的数量可能是美国的几百几千倍。<br/>\n<br/>\n美国社会多元，宽容灵活，保护科技创新和知识产权，对腐败的容忍度极低，社会保障体系更好。中国目前依然没有这种土壤。<br/>\n<br/>\n洼地的理工类人才是以“工具”、“耗材”为标签存在于牢笼之内的，6岁开始苦读16~20年，从22岁开始茫然地加入“工作”的社会环节之中，大约十几年后，35岁辞退就是这一类型“人口红利”的终点站。如果不幸头脑发昏结了婚、背了房贷、生了子女，等于将自己的软肋也奉献给主子们，从此打也打得，骂也骂得，甚至都不用主子亲自开口动手，只需要子女的老师在微信群里发条消息，这些可怜的奴隶家长们就得跟接到圣旨一样或是忙活起来，或是消声禁评；再加上公司老板可以不在乎《劳动法》随意996、pua压榨，更是好用又不反抗的现代美国黑奴翻版，哦不，其实还不如黑奴，因为美国奴隶主是认为黑奴是自己的私人财产，也不会往死里可劲儿的用，而是能控制压榨的力度，从而让黑奴能更久的工作。<br/>\n<br/>\n不用替美国担心STEM生源，将来会有更多的印度人去美国填充STEM生源，“世界的办公室”会越来越繁荣，“世界的工厂”会越来越衰败。\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 12,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636776",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t科技進步只需要一個馮諾依曼，一萬個無名氏也比不上一根馮諾依曼毛\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 18,
+      "discussion_count": 10,
+      "discussions": [
+        {
+          "id": "1159834",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "这就是中国政府搞千人计划的逻辑，我只买一些有本事的科学家，然后让中国穷鬼科研民工给他们打下手干活\n但是中国的科研人员又不是傻子，在中国的实验室一个月是发达国家的收入零头，干的事情又没区别。"
+        },
+        {
+          "id": "1159965",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-03-06",
+          "content": "@rowlandheights:中國政府認真想給他們好處，給比發達國家更高的好處不是問題。我知道有的還包房送車呢\n不過研究方向是外行決定的，那就沒辦法了。不管什麼天才來研究革命進步的李氏遺傳學，它都不會是真的"
+        },
+        {
+          "id": "1159967",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-06",
+          "content": "@NZRdlClr5:不是只给杨振宁香车美女就行的，你得给手下的低级科研民工一个月1万-2万人民币工资，高级科研民工一个月3万-6万人民币工资，少了你就让这些人当光杆司令吧。"
+        },
+        {
+          "id": "1159969",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-03-06",
+          "content": "@rowlandheights:高級科研民工又不是海外找的，有關系嗎"
+        },
+        {
+          "id": "1159972",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-06",
+          "content": "@NZRdlClr5:中国科研民工可以出海"
+        },
+        {
+          "id": "1159978",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-03-06",
+          "content": "@rowlandheights:那種現在在中國、實力只夠你所謂的科研民工的人，去海外誰要？"
+        },
+        {
+          "id": "1159980",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-06",
+          "content": "@NZRdlClr5:到海外他们可以到二流三流的大学做博士和博后啊"
+        },
+        {
+          "id": "1159982",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-03-06",
+          "content": "@rowlandheights:做博士博後有什麼用，都是到期滾回國的項目，博士甚至還要付錢因為就算有funding也連全額學費都不夠付\n再說他們英語水平夠嗎？很多中國人都是用中文來科研的欸"
+        },
+        {
+          "id": "1159983",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-06",
+          "content": "@NZRdlClr5: 美国的话，STEM硕士博士毕业之后可以OPT最长36个月，博后是差一些，不过只要勤找老板过渡，也不至于到期滚回国。\n英语水平不够的话，在中国科研界也没有活路，现在中国科研界都是普遍发英语论文的。"
+        },
+        {
+          "id": "1160092",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-03-06",
+          "content": "@rowlandheights:並不是沒活路，我知道很多中國人讀論文用翻譯甚至知乎懶人包（和我在英國大學主幹道擦肩而過的中國人甚至說「果然還是要翻譯，沒翻譯不能看」之類的話，真好奇這種人來英國幹嘛的）寫的時候再用翻譯翻成英文就好\n實際上找論文的時候，是不是中國人寫的基本上看內文就看得出，不是用詞特別幼稚就是支離破碎。我可以合理推測前者至少還是努力過用自己的broken English自己寫的"
+        }
+      ]
+    },
+    {
+      "id": "636824",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t科学不是大炼钢铁, 正是中国这种\"多快好省, 批量生产\"的思维导致了这么多年都没几个出色的国际人才, 无论哪个学科.<br/>\n别说理科了, 中国艺术生的数量是别国不知道几倍已经不知多少年了, 现代艺术界有哪个说得上话的中国人吗?\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 12,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636826",
+      "is_folded": false,
+      "answerer": {
+        "username": "末世红尘客",
+        "uid": "74378"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国人口是美国4倍，会对中美科技有什么影响？中国理工科大学生是美国5倍，会对中美科技有什么影响？<br/>\n<br/>\nxx师范学院学生数是麻省理工学院学生数两倍，会对两校科研实力有什么影响？xx师范学院教授数超过麻省理工学院，会对两校科研有什么影响？<br/>\n<br/>\n洼地的博士岂能和美帝比？洼地博导们给麻省教授当学生估计人家都看不上，这些误人子弟的博导再带出一波做题家（主体是xx师范学院考上的），就别想碰瓷了。\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 11,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1159686",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "那是肯定看不上的，麻省要招顶尖的学生，你非顶尖学生读再多书，他也不会收你的\n这其实就是说人家要苗子，不要长成的次品，哪怕论眼前的工作能力，成熟的次品优于不成熟的精品。因为这就是教育，“培养”二字真不是盖的。"
+        }
+      ]
+    },
+    {
+      "id": "636926",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能有啥影响啊 无非你支多了一批毕业即失业的人而已<br/>\n<br/>\n我记得过去看到深圳某中学招聘的教师<br/>\n去的全是北大或者清华这类<mark>支那</mark>顶尖的博士 唯一一个硕士是波士顿回去的海归\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636833",
+      "is_folded": false,
+      "answerer": {
+        "username": "Germany2014",
+        "uid": "105134"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国14亿人 有多少诺贝尔奖？<br/>\n美国三亿人 有多少诺贝尔奖？<br/>\n<br/>\n中国14亿人 有多少独立媒体？0\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636789",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你忽略了重要的一点：美国不用培养自己的人才，美国可以吸引全世界最优秀的人才，中国培养的再多，数量和质量能和全世界头部比吗？\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 5,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1159664",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "stem博士不就是加工外国送来的人才么"
+        },
+        {
+          "id": "1159675",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-03-05",
+          "content": "@rowlandheights: 也不全是外国的，美国本土也有人能考得上STEM博士啊"
+        },
+        {
+          "id": "1159676",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-03-05",
+          "content": "@rowlandheights: 哦，我明白你的意思了。然而还有很多国外优秀大学毕业的博士直接去美国工作啊，这部分不会统计到“美国博士生”里面。"
+        },
+        {
+          "id": "1159679",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "@天下无贼:这个确实有，外国博士在美国也能找到工作。"
+        },
+        {
+          "id": "1159681",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-03-05",
+          "content": "@rowlandheights: 是的，所以美国的优秀人才，不能光看自己的博士毕业生，它能吸引全世界的优秀博士毕业生，但是中国能吸引的数量几乎可以忽略。"
+        },
+        {
+          "id": "1159763",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-03-05",
+          "content": "@rowlandheights:中国的生物博士去美国当千老博后的太多了。这些人是美国生物科技发展所必需的底层技术民工"
+        },
+        {
+          "id": "1159833",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "@UAV:同意，这也是米国的额外战斗力"
+        }
+      ]
+    },
+    {
+      "id": "636766",
+      "is_folded": false,
+      "answerer": {
+        "username": "第三帝国主席",
+        "uid": "90772"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国教育下出来的可能没什么用<br/>\n字数字数字数字数字数字数\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 7,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1159622",
+          "replier": {
+            "username": "伟大的雅典",
+            "uid": "108454"
+          },
+          "date": "2023-03-05",
+          "content": "就怕量变引起质变，还有美国留学回去的"
+        },
+        {
+          "id": "1159623",
+          "replier": {
+            "username": "第三帝国主席",
+            "uid": "90772"
+          },
+          "date": "2023-03-05",
+          "content": "@伟大的雅典:水水论文没用的，但是留学回去就有点问题了，我觉得应该杜绝中国国家主义者留学，单纯来搞科研还行，别到时候为了\n支那\n民族伟大复兴把技术偷回去，不过现在美国大学一般不倾向于让中国学生读stem了"
+        },
+        {
+          "id": "1159627",
+          "replier": {
+            "username": "伟大的雅典",
+            "uid": "108454"
+          },
+          "date": "2023-03-05",
+          "content": "@第三帝国主席:是，不过美籍华裔比例还是挺大的，这些人会不会回去是个问题"
+        },
+        {
+          "id": "1159680",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-03-05",
+          "content": "而且会越来越没用"
+        }
+      ]
+    },
+    {
+      "id": "636923",
+      "is_folded": false,
+      "answerer": {
+        "username": "蝇鹅大博弈",
+        "uid": "106748"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t名义上是博士又不代表真的有博士水平，发paper也不代表有多大的学术突破。中国只有清北和中上游985的博士生能够做出少量有意义的学术贡献，其他有一个是一个全部可以当成是在浪费国家财政。哈佛、MIT、斯坦福这个档次的学校，其一个学校一年产出的重要成果吊打整个中国大陆问题不大。\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1159791",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-03-05",
+          "content": "基本上同意，但是即使是清北和985，滥竽充数的也很多。"
+        }
+      ]
+    },
+    {
+      "id": "637085",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t「本科生是金，硕士生是银，博士生就是破铜烂铁了」，这是二十多年前就在985高校里流传的笑话，那个时候大学还没开始扩招。扩招了这么多年下来，现在可以说是「硕士满地走，博士多如狗」了。而教出这些「多如狗」的博士的叫兽们，大部分就是二十多年前的破铜烂铁。破铜烂铁教出来的都是些什么玩意，我是想象不出来。\t\t</div>",
+      "date": "2023-03-06",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636772",
+      "is_folded": false,
+      "answerer": {
+        "username": "雙加不好的鴨語者",
+        "uid": "22079"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果中共統治下，能保持學術界的自由自主，那還可以搞到一定技術。<br/>\n像是新加坡的半獨裁社會，民間的政治空間很少，但對學術界的自由，讓新加坡的海水化淡技術可以出口到沙特。<br/>\n<br/>\n但習還是工廠的形式來管學術界，不要說科學家，技術工人都難。<br/>\n<br/>\n學好數理化，走遍天下都不怕；<br/>\n學好政史地，大獄十年出不去。<br/>\nhttps://pincong.rocks/question/item_id-158146\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 5,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1159685",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "新加坡可不是靠啥半自由，人家靠得是转口。"
+        },
+        {
+          "id": "1159687",
+          "replier": {
+            "username": "雙加不好的鴨語者",
+            "uid": "22079"
+          },
+          "date": "2023-03-05",
+          "content": "@rowlandheights:那是起家，還有石油加工。"
+        },
+        {
+          "id": "1159689",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "@雙加不好的鴨語者:石化也是因为他卡在世界石油要冲上\n东亚工业生产力高，偏偏产油少"
+        },
+        {
+          "id": "1159690",
+          "replier": {
+            "username": "雙加不好的鴨語者",
+            "uid": "22079"
+          },
+          "date": "2023-03-05",
+          "content": "@rowlandheights:轉口和加工都是起家，但都高級一點的技術都要自由。\n像是海水化淡技術"
+        },
+        {
+          "id": "1159692",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "@雙加不好的鴨語者:可以购买组装，没说一定要in house development"
+        },
+        {
+          "id": "1159693",
+          "replier": {
+            "username": "雙加不好的鴨語者",
+            "uid": "22079"
+          },
+          "date": "2023-03-05",
+          "content": "@rowlandheights:可以，但是是再賣人，沙特雖然是土豪，但都不傻，為何不從原頭買？"
+        },
+        {
+          "id": "1159695",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "@雙加不好的鴨語者:因为土豪们不会组装"
+        }
+      ]
+    },
+    {
+      "id": "636849",
+      "is_folded": false,
+      "answerer": {
+        "username": "ajiamenluo",
+        "uid": "75052"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t要真想堆人海战术，恐怕得10-20倍才可以。现在只是1.3-1.4倍，而且质量差距还是很大的，我认为不值得讨论。\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 4,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1159762",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-03-05",
+          "content": "而且美国的人口还在缓慢增加中，未来博士生的数量肯定也会增加"
+        },
+        {
+          "id": "1159828",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-03-05",
+          "content": "为啥得这么多倍"
+        },
+        {
+          "id": "1159836",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "@维尼熊吃包子:孙子兵法十则围之"
+        },
+        {
+          "id": "1160233",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-03-07",
+          "content": "@rowlandheights:这又不是打仗"
+        }
+      ]
+    },
+    {
+      "id": "636803",
+      "is_folded": false,
+      "answerer": {
+        "username": "Shalllearning",
+        "uid": "44368"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没关系，有一半以上找不到工作，要去扫大街，这样就扯平了。\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636769",
+      "is_folded": false,
+      "answerer": {
+        "username": "ejdw32",
+        "uid": "93484"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中共数据大部分可信度堪忧<br/>\n教育质量低下，毕业生就算数量大但质量低<br/>\n创新能力差，只会做题应试<br/>\n真正优秀的也润了<br/>\n<br/>\n美国毕业都是精英<br/>\n创新能力强<br/>\n动手能力强<br/>\n科技水平一骑绝尘\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636794",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t许多年前看到的数字是中国一年毕业的phd是美国许多年的<br/>\n<br/>\n公务员数量也在远超各国,你觉得带来什么变化了么\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636775",
+      "is_folded": false,
+      "answerer": {
+        "username": "海阔天空686",
+        "uid": "99612"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国的教育以知识记忆为主，而美国的教育更关注在学习过程中培养孩子的批判性和创造性思维进而去进行研究型学习。中国距离美国非常大。\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636778",
+      "is_folded": false,
+      "answerer": {
+        "username": "xpking2",
+        "uid": "103042"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t各國移民部門表示不悅<br/>\n要處理的業務更多更繁忙\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636793",
+      "is_folded": false,
+      "answerer": {
+        "username": "牆國人",
+        "uid": "108915"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国前些年出生人口就是美国4倍，所以中国高智天才数量是美国5～6倍以上，这就是为什么中国自然指数高引论文都超过了美国，为什么很多智库警示中国科技会很快超过西方，美国需要做的是把中国理工高智天才尽可能的吸收留在美国，才有可能保持科技优势，所以禁止中国理工科来美国留学是太蠢的事了，随着中国出生率下滑，是欧美科技反超中国的机会！\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1159643",
+          "replier": {
+            "username": "养老不能靠政府",
+            "uid": "48556"
+          },
+          "date": "2023-03-05",
+          "content": "那就要看到底是吸收中国学生的好处多，还是这些学生中的亲共分子打入敌人心脏搞盗窃破坏的损失大了"
+        },
+        {
+          "id": "1159666",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "@养老不能靠政府:学术不是啥心脏地带"
+        },
+        {
+          "id": "1159770",
+          "replier": {
+            "username": "WeedGeorge",
+            "uid": "74867"
+          },
+          "date": "2023-03-05",
+          "content": "听你一言顿时感觉祖国好强大，我们必须抵制美国防止美国对我们\"弯道超车‘’！"
+        },
+        {
+          "id": "1159789",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2023-03-05",
+          "content": "論文可以作弊的，中國人引用中國人論文，互相引用就能刷應用數。人家不作弊自然沒那麼高分"
+        },
+        {
+          "id": "1161576",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-03-11",
+          "content": "想太多，沒考慮中國學術體制有多腐敗官僚"
+        }
+      ]
+    },
+    {
+      "id": "636777",
+      "is_folded": false,
+      "answerer": {
+        "username": "minisoda996",
+        "uid": "12008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中博能有那个实力，早就弯道超车了。<br/>\n自娱自乐的玩意儿罢了，就好比是录像带，再牛逼能比过后来的LD吗？\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636825",
+      "is_folded": false,
+      "answerer": {
+        "username": "新納粹份子",
+        "uid": "30514"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t先超過日本台灣 再來意淫吧 你們每天意淫的超英趕美我已經看膩了\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636832",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国人和美国人都是“人”，有什么区别？中国stem博士生和美国stem博士生都是“stem博士生”，又有什么区别？\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "638866",
+      "is_folded": false,
+      "answerer": {
+        "username": "baokemeng",
+        "uid": "52638"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这不是跟中国论文数量世界第一这个中国人天天吹嘘的点一样吗？吹了那么久然后有什么用呢？\t\t</div>",
+      "date": "2023-03-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636781",
+      "is_folded": true,
+      "answerer": {
+        "username": "doopding",
+        "uid": "91283"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-03-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

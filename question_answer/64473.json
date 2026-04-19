@@ -1,0 +1,128 @@
+{
+  "parent_type": "question",
+  "parent_id": "64473",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "718315",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t它只是一个DNS服务器，防火墙早就不用屏蔽DNS这种落后的手段了。不管你用什么境外DNS，一样上不了外网。<br/>\n<br/>\n但恶心的是即便如此，也会不时屏蔽境外DNS，造成网络基础设施的瘫痪。一旦DNS被屏蔽，就没办法解析网址，什么网站都上不了。<br/>\n<br/>\n<b>补充：</b><br/>\n<br/>\n楼主说的可能是warp，官方APP的名字是1.1.1.1，跟DNS服务器同名。<br/>\n<br/>\n这个东西的原理是用CF的服务器作为代理服务器，是CF官方提供的免费VPN。因为有太多的网站用CF的服务器缓存加速（连<mark>支那人</mark>开的外贸网站都大量使用CF），所以封杀CF服务器就真的是局域网了，那些用CF的网站都会打不开。\t\t</div>",
+      "date": "2024-01-07",
+      "agree_count": 9,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1237134",
+          "replier": {
+            "username": "我要走线去美国",
+            "uid": "121146"
+          },
+          "date": "2024-01-07",
+          "content": "这个可以翻墙，而且还是全平台免费版，免费版本的在油管看4K视频都一点都不卡。网址这么简单，不是可以帮助更多的人学会翻墙吗？"
+        },
+        {
+          "id": "1237136",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-01-07",
+          "content": "你离开了很久，我还以为你退葱了"
+        },
+        {
+          "id": "1237137",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2024-01-07",
+          "content": "卧槽,你居然回来了"
+        },
+        {
+          "id": "1237148",
+          "replier": {
+            "username": "reddit_suck",
+            "uid": "93135"
+          },
+          "date": "2024-01-07",
+          "content": "@我要走线去美国:你说的可能是warp，这个东西的原理是用CF的服务器作为代理服务器。因为有太多的网站用CF的服务器缓存加速，所以封杀CF服务器就真的是局域网了。"
+        },
+        {
+          "id": "1237161",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-01-07",
+          "content": "[quote]它只是一个DNS服务器，防火墙早就不用屏蔽DNS这种落后的手段了。不管你用什么境外DNS，一样上不了外网。[/quote]\n从公开的测量数据看，现在GFW依然会屏蔽DNS服务器，8.8.8.8的TCP的443和853端口就被挡了；像www.hrw.org这样被屏蔽了很多年的域名也还能触发DNS劫持。"
+        }
+      ]
+    },
+    {
+      "id": "718319",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n<s>这个WARP就从来没有连接成功过,根本没用</s><br/>\n<s>不如TOR新出的网桥</s><br/>\n<br/>\nedit:要使用WARP得搞個Zero Trust,然後就可以連接了,速度確實很快<br/>\n但這玩意有個問題,其他人也有提到<br/>\n當你使用WARP訪問CF加速的網站時,泄露的IP問題<br/>\n<a href=\"https://pincong.rocks/cdn-cgi/trace\" title=\"https://pincong.rocks/cdn-cgi/trace\">https://pincong.rocks/cdn-cgi/trace</a><br/>\n如果你使用了WARP且沒有嵌套代理,上面的網站IP行顯示的就是你連接的當地CF結點的IP<br/>\n該IP至少具體到了你所在的城市<br/>\n能不能反推出你的真實IP還不確定<br/>\n<br/>\nTOR新出的Webtunnel可以直接裸連,單獨使用WARP做翻墻這件事就顯得有些鷄肋<br/>\n畢竟這玩意本來就不是用來翻墻的.匿名性不行<br/>\n<br/>\n可以結合在一起使用,先開WARP,再開TOR<br/>\nWARP是全局代理,TOR不用單獨配代理設置\t\t</div>",
+      "date": "2024-01-07",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1237139",
+          "replier": {
+            "username": "我要走线去美国",
+            "uid": "121146"
+          },
+          "date": "2024-01-07",
+          "content": "你现在可以翻墙，可以上油管上搜索warp使用教程，零度解说有一期。注册warp的zero trust账户，可以给50个设备使用，上油管看视频4K都不卡很流畅。而且完全免费。"
+        }
+      ]
+    },
+    {
+      "id": "718352",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tcloudflare的ip，GFW可不敢随便封锁<br/>\n挂WARP，访问使用cloudflare的CDN网站，会暴露你的原始ip<br/>\n例如谷歌服务和B站\t\t</div>",
+      "date": "2024-01-07",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718384",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhanghao555",
+        "uid": "118739"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tcloudflare 跟中国有合作业务，所以WARP能用wireguard协议畅通无阻，自己搭建的wireguard协议活不过一秒。\t\t</div>",
+      "date": "2024-01-07",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718351",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不能说没有被屏蔽吧，有些地方的运营商会把目标IP是1.1.1.1的包路由到自己的测试设备或直接丢弃，而SNI设为one.one.one.one会被注入TCP RST。以前这个IP没被分配的时候有人拿来测试，在现在的中国就是和屏蔽等价了。不过，WARP有其它的IP……<br/>\n<pre>https://seclists.org/nanog/2010/Jan/776</pre> </div>",
+      "date": "2024-01-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

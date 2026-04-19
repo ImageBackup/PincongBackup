@@ -1,0 +1,72 @@
+{
+  "parent_type": "question",
+  "parent_id": "61127",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "684348",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t问题是对的，解释是错的<br/>\n<br/>\n观测技术本身就是科学发展的一部分，而观测技术进步推动科学发展进步，科学发展进步又推动观测技术进步，相辅相成的。欧洲人搞玻璃工艺很多年，荷兰人磨玻璃水平高，造出显微镜，从而观察到微观物体。观察到微观物体促进材料技术进步，材料技术进步又促进光学技术进步...<br/>\n<br/>\n至于微观粒子的活动，人类已有技术观察微观粒子运动，当然这不是直接让你用显微镜去追踪粒子<br/>\n<br/>\n已有的手段： <br/>\n<br/>\n云室： 稀薄的过饱和水蒸汽盒子，粒子掠过的时候就会导致水蒸汽凝结成云，从而让观察者看到粒子运动轨迹<br/>\n<br/>\n电子显微镜：通过电子束的衍射观察物体微观结构<br/>\n<br/>\nX光衍射：通过X光衍射观察物体微观结构<br/>\n<br/>\n扫描隧道显微镜：通过电子隧穿效应观察物体表面<br/>\n<br/>\n原子力显微镜：通过探针在物体表面的活动测量物体表面<br/>\n<br/>\n<br/>\n<br/>\n这些手段可以达到原子-分子级探测<br/>\n<br/>\n高能物理有粒子对撞机，可以达到亚原子探测水平\t\t</div>",
+      "date": "2023-08-29",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684359",
+      "is_folded": false,
+      "answerer": {
+        "username": "UAV",
+        "uid": "32217"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t所以我一直说，玻璃是人类最伟大的发明，完爆<mark>支那</mark>的所谓四大发明加在一起。没有玻璃，就没有望远镜和显微镜，人类就只能看到裸眼能看到的东西，整个现代科技就不会存在。\t\t</div>",
+      "date": "2023-08-30",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684415",
+      "is_folded": false,
+      "answerer": {
+        "username": "functional",
+        "uid": "112730"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t理论和验证必须闭环，观测能力是验证的前提。观测能力的提高，还会发现新的现象，进一步推动理论，也就是人类认知的进一步发展。<br/>\n        基于这一点，无法观测到经络，经络只能是一种假说。当然，也无法观测到经络哪地方堵了。因此，你既不能收集数据，也不能做实验验证，实验结果无法观测。这样的玩意儿甚至无法教给别人。你即便自己能感受到经络，那地方经络不通了，你也无法教会别人怎么做。别人连体验下的机会都没有。因此，中医说白了，就是一种巫术。\t\t</div>",
+      "date": "2023-08-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684430",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个问题我也考虑过。确实是这样的。就好比你要切蛋糕，水果，你用的是刀。因为刀刃相对那你要切的东西来说，尺度更小。观测也一样，取决于你的观测工具的这种尺度是不是比你观测的东西要更小。在信号处理领域里面就是有这么一个理论，采样频率必须要大于被观测信号频率的两倍以上，你才能观察到这个信号，否则是观察不到这个信号的。所以人类能看到最微观的世界也就是用电子，但是电子显微镜不能用来观测电子内部，就是因为观测工具你找不到比电子更小的东西了。而且越是微观世界，观测对物体的影响和干扰会越大，比如物理里面就有质量和速度不能同时精确测量的原理，就是因为你要测量的东西本身就会受到测量的影响而发生变化。所以测不准。\t\t</div>",
+      "date": "2023-08-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684347",
+      "is_folded": true,
+      "answerer": {
+        "username": "明日香",
+        "uid": "73965"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-08-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

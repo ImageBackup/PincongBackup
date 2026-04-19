@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "53705",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "605446",
+      "is_folded": false,
+      "answerer": {
+        "username": "mancityfc",
+        "uid": "90591"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你怎么出来的？FreeBrowser以前我用过，查过IP地址，都是美国的一些高校，应该没多大问题。这两年没用了不太清楚了。\t\t</div>",
+      "date": "2022-12-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605264",
+      "is_folded": false,
+      "answerer": {
+        "username": "lene",
+        "uid": "98819"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谢谢提醒，我删除安装包了没安装，安全第一，最好大家可以整理个黑名单，哪些是钓鱼的 好多做广告推广一不小心就会下载\t\t</div>",
+      "date": "2022-12-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "604962",
+      "is_folded": false,
+      "answerer": {
+        "username": "忧乐为天下",
+        "uid": "23699"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t早有消息传出，已经被招安了。不安全。不过现在怎么样了，不是很清楚。\t\t</div>",
+      "date": "2022-12-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

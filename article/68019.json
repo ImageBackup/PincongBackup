@@ -1,0 +1,26 @@
+{
+  "article_id": "68019",
+  "category_id": "4",
+  "title": "关于tor设置webtunne网桥的程序",
+  "meta_description": "关于tor设置webtunne网桥的程序 - [url=https://pincong.rocks/article/67272]https://pincong.rocks/article/67272[/url]   首先这个程序比较复杂而且主贴没说清楚（其实不难，主要麻烦在于需要前置vpn），但是设置...",
+  "meta_keywords": "tor,设置,webtunne,网桥,程序",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "1174",
+      "name": "Tor"
+    }
+  ],
+  "author": {
+    "username": "王匪沪宁",
+    "uid": "13988"
+  },
+  "contents": "<div class=\"content markitup-box\">\n<a href=\"https://pincong.rocks/article/67272\" title=\"https://pincong.rocks/article/67272\">https://pincong.rocks/article/67272</a><br/>\n<br/>\n<br/>\r\n首先这个程序比较复杂而且主贴没说清楚（其实不难，主要麻烦在于需要前置vpn），但是设置完成了据说可以免翻墙，不过，楼下已经有人说了，土共防火墙已经识别流量正在进行时段行阻断。我的建议是无论何时，暗网tor需要和前置vpn混合使用，一是防止流量干扰，二是彻底隐匿。因为即使使用webtunne网桥能实现自带翻墙工具，网警是会查到你这个人在使用的（虽然具体在干什么不知道）<br/>\n<br/>\n<b>推荐最好的配置就是迷雾通+tor，迷雾通可以先用免费版。门槛低。</b><br/>\n<br/>\n<br/>\r\n暗网下载是被防火墙封锁因此需要前置vpn，meek网桥即使在国内使用也是需要翻墙的，而境外用户可以使用速度更快的obfs网桥。<br/>\n<br/>\r\n翻墙后进入网桥获取网站https://bridges.torproject.org/options/<br/>\n<br/>\r\n在选项中选择webtunnel，接着点击get bridge，输入验证码即可获取网桥地址，复制网桥地址。<br/>\n<br/>\r\n重新打开一个设置配置网桥页面（或者之前的设置网页不要关闭）<br/>\n<br/>\r\n在“配置网桥”一栏中选择手动添加网桥，然后输入刚刚获得的网桥地址，输入验证码，检查配置上显示的是webtunnel网桥就证明对了。<br/>\n<br/>\n<br/>\n<b>提示：复制网桥地址后不要关闭tor，不然复制的不生效，因此必须在配置之前，不要关闭设置栏（打开两个设置栏方便改变配置）</b><br/>\n<br/>\n<br/>\n<b>目前，翻墙经受土共防火墙摧残，所以任何时候请避免裸连。要不断采取最新的反封锁技术才能和党斗智斗勇。使用tor尽量避免登陆自己相关的账号（哪怕是境外的），同时将流量分析里改成以英文语言为主，防止被查实为华人地区身份。为了避免水表不保，任何时候都要假装隔壁习近平正在监视，提高警惕为主。</b> </div>",
+  "view_count": 5931,
+  "date": "2024-01-19",
+  "agree_count": 3,
+  "comment_count": 3
+}

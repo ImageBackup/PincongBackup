@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "60436",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "675598",
+      "is_folded": false,
+      "answerer": {
+        "username": "我佛山人",
+        "uid": "111091"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>Everything around them decays and produces decay, that nothing will endure until the day after tomorrow, except one species of man, the incurably MEDIOCRE. The mediocre alone have a prospect of continuing and propagating themselves--they will be the men of the future, the sole survivors.</blockquote> </div>",
+      "date": "2023-08-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675999",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我从小就会反抗父母的打骂，打还手，骂还口，我一直因此有负罪感，觉得自己不孝，不像其他孩子一样乖乖挨打，长大了一定走上歧途......\t\t</div>",
+      "date": "2023-08-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

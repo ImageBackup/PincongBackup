@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "59725",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "668686",
+      "is_folded": false,
+      "answerer": {
+        "username": "人类荣光永存",
+        "uid": "113074"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t写论文用吗？找几个主要经济体的移民数据应该就行了吧，通过在线翻译看能不能得到你需要的证据\t\t</div>",
+      "date": "2023-07-08",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1190105",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2023-07-08",
+          "content": "搬运到开源信息类网站"
+        },
+        {
+          "id": "1190106",
+          "replier": {
+            "username": "人类荣光永存",
+            "uid": "113074"
+          },
+          "date": "2023-07-08",
+          "content": "有个不靠谱的办法，世界银行会有公开课，你找个课程进去学，然后留言板上让各国学员帮你找他们移民局或类似数据的网址，一般在那学的都有一定的经济学基础，应该能帮到你"
+        }
+      ]
+    },
+    {
+      "id": "668691",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本的数据 https://www.moj.go.jp/content/001392230.pdf<br/>\n<br/>\n中国人“归化”数<br/>\n<br/>\n2020年2,881<br/>\n2021年2,526<br/>\n2022年2,262\t\t</div>",
+      "date": "2023-07-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

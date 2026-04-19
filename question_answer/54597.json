@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "54597",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "613844",
+      "is_folded": false,
+      "answerer": {
+        "username": "antipc",
+        "uid": "103111"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t春晚不管用什么吉祥物，舞台都是花花绿绿严重视觉污染的，突然出来个白兔子，不知道的还以为进wonderland了\t\t</div>",
+      "date": "2022-12-24",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1138195",
+          "replier": {
+            "username": "frankland",
+            "uid": "99457"
+          },
+          "date": "2022-12-24",
+          "content": "哈哈哈"
+        }
+      ]
+    },
+    {
+      "id": "613846",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛邓习全面战争",
+        "uid": "99727"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t吉祥物是黑兔才对，不要12年一重样。南方的每年吉祥物春牛，可是有几千种，年年基本不一样\t\t</div>",
+      "date": "2022-12-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

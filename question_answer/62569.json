@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "62569",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "697920",
+      "is_folded": false,
+      "answerer": {
+        "username": "吃包子的小學生",
+        "uid": "90380"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因為技術上說，Bard現在還不行，只會讓翻譯更不精準。<br/>\n成本來看，消耗不是一個量級的。<br/>\n所以當前情況，應該是綜合考慮了不太划算，開發肯定是有的，只是沒有那麼快。<br/>\n<br/>\n也就是說，就Google translate而言，目前基於神經網絡的可能更好一些。但發展一段時間之後應該還是會逐步把Bard放進來。<br/>\n<br/>\n個人經驗是，迄今為止，除了閒聊，如果涉及專業一些的東西（指比如代碼、非生活類的how to），Bard一次完整正確的都沒有給到過，甚至連自家firebase的documentation都詮釋得不對。<br/>\n<br/>\n以Google內部開發合作的那質量和效率，短期內可能沒救。它除了搜索和Gmail之外，每一個都做得沒有什麼專業水準，只是方便使用而已。<br/>\n但Google畢竟不是軟件公司，可以理解。\t\t</div>",
+      "date": "2023-10-18",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697879",
+      "is_folded": false,
+      "answerer": {
+        "username": "大修",
+        "uid": "26911"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t寫東西,大量去跑文本,現在已經有人在做了<br/>\n<br/>\n如果門檻下來,這樣會增加很多算力跟負擔成本吧\t\t</div>",
+      "date": "2023-10-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

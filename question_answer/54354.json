@@ -1,0 +1,245 @@
+{
+  "parent_type": "question",
+  "parent_id": "54354",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "611304",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t啥叫悄悄把自己删了，停用之前有通告的，几乎所有的微信群都在转，楼主你的微信上好友和群是有多么的少………………\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 5,
+      "discussion_count": 12,
+      "discussions": [
+        {
+          "id": "1136199",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2022-12-16",
+          "content": "感觉你是杠精，啥都来杠一下，公告我也看了，当时小程序还在，不知道啥时候小程序也没了，懂了么？"
+        },
+        {
+          "id": "1136227",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-16",
+          "content": "@epic7: 公告是12日发的，原文是：12月13日0时起，正式下线“通信行程卡”服务。然后12月13日0时准时下线。\n你告诉我“瞧瞧”在哪里？还是你不懂什么叫“下线”？公告当时当然还在，因为公告是12日发的。"
+        },
+        {
+          "id": "1136250",
+          "replier": {
+            "username": "weweweee",
+            "uid": "14939"
+          },
+          "date": "2022-12-16",
+          "content": "@epic7:我觉得不是别人杠精 是你嘴硬"
+        },
+        {
+          "id": "1136268",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2022-12-16",
+          "content": "@天下无贼:图我没截，原文只是说的暂时停止运行，你又在叭叭的说下线"
+        },
+        {
+          "id": "1136269",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2022-12-16",
+          "content": "@weweweee:看我上面回复的，上来就我嘴硬？"
+        },
+        {
+          "id": "1136270",
+          "replier": {
+            "username": "德州仪器",
+            "uid": "93127"
+          },
+          "date": "2022-12-16",
+          "content": "我发现是这样的品葱现在有些人问问题自己不先去好好想想，包括我在内，有些问题描述有问题甚至不构成问题会导致品葱质量下降"
+        },
+        {
+          "id": "1136292",
+          "replier": {
+            "username": "weweweee",
+            "uid": "14939"
+          },
+          "date": "2022-12-16",
+          "content": "@epic7:因为我和他一样几天前就看到官宣下线了：https://weibo.com/2803301701/Mj9zkw647?refer_flag=1001030103_    自己无知不要赖别人笑话 自己看看 写的是不是【下线】"
+        },
+        {
+          "id": "1136318",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-16",
+          "content": "@epic7:还截什么图，我都说了是“原文”，我回帖时找到原文抄给你的，原文在这里：https://mp.weixin.qq.com/s/7F_RwN1Hmx9Rk4im_yNcyA，这文章的标题就是《关于下线“通信行程卡”服务的公告》"
+        },
+        {
+          "id": "1136322",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2022-12-16",
+          "content": "@天下无贼:下线下的真彻底，包括小程序也没了，公众号也没有东西了，关注公众号的唯一一个按钮点进去404了，把自己涂抹的很干净，让人们忘记这东西祸害了很多人，这才是重点，昨晚感觉被你带歪了"
+        },
+        {
+          "id": "1136325",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-16",
+          "content": "@epic7: 这是另外一回事，我就仅仅奇怪你为什么要说“悄悄”，这明明不是悄悄的，是大张旗鼓的下线。\n另外所有的软件下线不都这样吗？我不知道怎么下线才能让你满意，如果都没人用了还一直在线，你会不会又抨击浪费网络资源呢？"
+        },
+        {
+          "id": "1136326",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2022-12-16",
+          "content": "@天下无贼:不会，我不知道微信小程序工作原理，我以为正常情况下是就算小程序停止运行了，那个小程序还在，只是打开空白，结果就是微信小程序列表那里的这个程序也没了，没了踪迹，所以我才用了悄悄，而且是删除"
+        },
+        {
+          "id": "1136327",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2022-12-16",
+          "content": "@epic7: 微信小程序你可以理解成运行在微信内部，需要在微信小程序列表里注册显示的APP。\n正常的小程序下架就是取消在小程序里的注册显示，那里不再显示了。其实数据保存在小程序自己的服务器上（当然也可以租用腾讯的专门云服务，那就相当于保存在腾讯哪里），像行程码这种东西，数据肯定还在，只不过小程序不能访问了。\n你说的那种打开大白板反而是不专业的，一般不会这样处理，出现这种情况的可能性很多，比如可能是小创业项目，俩人做的，突然解散了，程序和服务器没人管了，也没人去下线，就那么一直运行着，服务器反正已经交了一年的钱，还没到期，这种小程序如果后台服务器到期之后，再运行就是大白板。"
+        }
+      ]
+    },
+    {
+      "id": "611302",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t↑（行程码）<br/>\n🪦              🦠（中共病毒）<br/>\n              ✌🏻😄🤳🏻 <br/>\n<br/>\n<br/>\nbgm：黑人抬棺<br/>\n<br/>\n紫薯布丁紫薯布丁\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611375",
+      "is_folded": false,
+      "answerer": {
+        "username": "weweweee",
+        "uid": "14939"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你管这叫悄悄？<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvODZiZGIzZjI5N2IyYzY1MWI0ZTU0LmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/86bdb3f297b2c651b4e54.jpg\"><img alt=\"https://telegra.ph/file/86bdb3f297b2c651b4e54.jpg\" loading=\"lazy\" src=\"https://telegra.ph/file/86bdb3f297b2c651b4e54.jpg\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2022-12-16",
+      "agree_count": 0,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1136324",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2022-12-16",
+          "content": "下线下的真彻底，包括小程序也没了，公众号也没有东西了，关注公众号的唯一一个按钮点进去404了，把自己涂抹的很干净，让人们忘记这东西祸害了很多人，这才是重点，你为啥在引导是否悄悄这个问题上，\n支那人\n过几天就忘了这事了"
+        },
+        {
+          "id": "1136377",
+          "replier": {
+            "username": "weweweee",
+            "uid": "14939"
+          },
+          "date": "2022-12-17",
+          "content": "@epic7:笑死我了 自己打的字自己不认了是吧"
+        },
+        {
+          "id": "1136424",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2022-12-17",
+          "content": "@weweweee:懒得跟你白扯了，你可以去另外那个楼层看回复，别老揪着不放，你难道不是反贼？一个劲怼我，什么叫不承认，你都不会理性讨论"
+        },
+        {
+          "id": "1136469",
+          "replier": {
+            "username": "weweweee",
+            "uid": "14939"
+          },
+          "date": "2022-12-17",
+          "content": "@epic7:看了 我看到人家指出你的错误你说人家是杠精"
+        },
+        {
+          "id": "1136472",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2022-12-17",
+          "content": "@weweweee:呵呵，抓小辫子是吧？抓着没完没了了？"
+        },
+        {
+          "id": "1136514",
+          "replier": {
+            "username": "weweweee",
+            "uid": "14939"
+          },
+          "date": "2022-12-17",
+          "content": "@epic7:要不是看你和粉红一样嘴硬我都懒得回这贴"
+        },
+        {
+          "id": "1136515",
+          "replier": {
+            "username": "weweweee",
+            "uid": "14939"
+          },
+          "date": "2022-12-17",
+          "content": "@epic7:基本事实都搞不清的人 说话有什么可信度啊哈哈哈"
+        }
+      ]
+    },
+    {
+      "id": "611438",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t硬盘才值几个铜板？中国共产党宣传系统和国企，我信你个鬼，中国共产党坏的狠。\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611296",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t欢呼！  自驾游爱好者的福音。<br/>\n<br/>\n为什么凑二十字凑二十字凑二十字凑二十字\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

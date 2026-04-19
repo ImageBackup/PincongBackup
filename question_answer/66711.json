@@ -1,0 +1,88 @@
+{
+  "parent_type": "question",
+  "parent_id": "66711",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "742140",
+      "is_folded": false,
+      "answerer": {
+        "username": "gratesque",
+        "uid": "23931"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t建议楼主「从今开始认真掌握英语」。<br/>\n<br/>\n这样可以少浪费自己的时间，当然也少浪费别人的时间。\t\t</div>",
+      "date": "2024-04-19",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1258985",
+          "replier": {
+            "username": "衝浪TV",
+            "uid": "124941"
+          },
+          "date": "2024-04-19",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "742208",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tTails不适合在中国使用。<br/>\n它还未支持目前所有tor支持的Pluggable Transport，是跟防火墙规则有关的。<br/>\n从<br/>\n<pre>https://bridges.torproject.org/</pre><br/>\n<br/>\n获取的ipv6的obfs4在中国是可以用，但tails os目前完全屏蔽ipv6流量。你试试从多个不同的IP段访问，看看能不能获取到能用的ipv4的桥。<br/>\n<pre>https://bridges.torproject.org/bridges/?transport=obfs4</pre><br/>\n<br/>\n要支持snowflake很困难，因为防火墙规则不好改。🙃支持webtunnel应该不难，但是似乎还没开始弄。<br/>\n<br/>\n如果获取不到能用的obfs4的桥，还有一种办法，用另一台设备运行一个socks代理给它用。\t\t</div>",
+      "date": "2024-04-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742214",
+      "is_folded": false,
+      "answerer": {
+        "username": "egPYJe6rsVic",
+        "uid": "124896"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用軟路由先出海 同一個路由器下所有的設備都出海 然後Tails系统就能直連\t\t</div>",
+      "date": "2024-04-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742218",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tTOR現在墻内不用代理的話基本不要想了，obfs4 meek 和 Snowflake都不行。樓上説的軟路由是一個方法，或者你也可以在路由器裏直接加挂代理，前提是路由系統得支持還有代理要足夠穩定才能保證使用體驗\t\t</div>",
+      "date": "2024-04-20",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1259151",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-04-20",
+          "content": "[code]\nsnowflake 192.0.2.4:80 8838024498816A039FCBBAB14E6F40A0843051FA fingerprint=8838024498816A039FCBBAB14E6F40A0843051FA url=\nhttps://1098762253.rsc.cdn77.org/\nfronts=www.cdn77.com,www.phpmyadmin.net ice=stun:stun.l.google.com:19302,stun:stun.antisip.com:3478,stun:stun.bluesip.net:3478,stun:stun.dus.net:3478,stun:stun.epygi.com:3478,stun:stun.sonetel.net:3478,stun:stun.uls.co.za:3478,stun:stun.voipgate.com:3478,stun:stun.voys.nl:3478 utls-imitate=hellorandomizedalpn\n[/code]\n你试一下新的行，\nhttps://gitlab.torproject.org/tpo/applications/tor-browser-build/-/commit/0554d981793e6beb280cd8bd12e01081ca0e4c59"
+        },
+        {
+          "id": "1259172",
+          "replier": {
+            "username": "厉害了冲国人",
+            "uid": "96938"
+          },
+          "date": "2024-04-20",
+          "content": "@Streptopelia:Snowflake理論上穿透和安全僞裝性應該更好，但在tor的使用體驗現在真談不上好，品蔥這種文字居多的網站訪問速度都不夠理想，obfs4速度要快但被封的是最厲害的"
+        }
+      ]
+    }
+  ]
+}

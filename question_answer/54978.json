@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "54978",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "618240",
+      "is_folded": false,
+      "answerer": {
+        "username": "查理五世",
+        "uid": "76433"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t任何讲历史的都不可能百分百准确，美国之音当然是美国政府资助的\t\t</div>",
+      "date": "2023-01-07",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1141926",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2023-01-07",
+          "content": "那李肃讲历史的可信度百分比有多少，我有时间就听，特意来问问"
+        }
+      ]
+    },
+    {
+      "id": "618274",
+      "is_folded": false,
+      "answerer": {
+        "username": "Shile",
+        "uid": "104623"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我好喜欢禁忌史话结尾的那段音乐，有种湮灭的感觉\t\t</div>",
+      "date": "2023-01-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "618281",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tVOA虽然是美国官方媒体，可信度可比新华社人民日报高多了。而且李肃现在的频道跟VOA也没什么关系，我听过几期，讲述的历史还是相当真实可信的。\t\t</div>",
+      "date": "2023-01-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

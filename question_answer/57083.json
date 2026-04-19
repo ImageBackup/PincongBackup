@@ -1,0 +1,117 @@
+{
+  "parent_type": "question",
+  "parent_id": "57083",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "642261",
+      "is_folded": false,
+      "answerer": {
+        "username": "一九四二",
+        "uid": "101140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t虽然瑞士是按合同办事，赢下这一局，但是，这种做法打开了另一个潘多拉盒子，其它的AT1债券都会崩。\t\t</div>",
+      "date": "2023-03-23",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642146",
+      "is_folded": false,
+      "answerer": {
+        "username": "GreekMyth",
+        "uid": "79633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tDo you pinkreds really think if there's foul play here with the bank,  that those lawyers wouldn't hunt them down?<br/>\n你们粉红色的人真的认为如果银行有不正当行为，那些律师就不会追捕他们吗？\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642148",
+      "is_folded": false,
+      "answerer": {
+        "username": "yoggpincong",
+        "uid": "29056"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t债先于股，这个可能不是明文规定，但公司法合同法会计规则都是可以适用的。<br/>\n常识是，有限责任就是以资产为限承担责任。<br/>\n逻辑链条总结：<br/>\n债券是债务 -&gt; 清偿完债务剩下的才是资产 -&gt; 资产归股东。<br/>\n<br/>\n可惜，这个AT1是劣后级，从产品设计上就是用来吸收损失的。但并不意味着合同中的完全减计触发。相信后续会有持有人启动法律程序。<br/>\n<br/>\n金融，玩的就是风险，风险就是信用与信心。当发行人信用不被认可，投资人失去信心，必然导致风险溢价的飙升。\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642221",
+      "is_folded": false,
+      "answerer": {
+        "username": "月光",
+        "uid": "89273"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAT1債券本來就是可以被清零的，<br/>\n這是有明文的，<br/>\n屬於風險比較大的那種債券，<br/>\n只是以往這種例子很少。\t\t</div>",
+      "date": "2023-03-23",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642260",
+      "is_folded": false,
+      "answerer": {
+        "username": "zzzzz11111",
+        "uid": "41398"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t债一定优先于股本来就是墙内粉红媒体洗脑，实际上这只是一种惯例，金融市场是不断发展的总有新的产品会出来，制造出监管方面的模糊地带，这个时候谁减记谁不减记只能是作为历史范例，以后会根据结果好坏不断调整\t\t</div>",
+      "date": "2023-03-23",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642145",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t金融危机要来咯<br/>\n<br/>\n目前我知道的消息 股票的主要持有人是沙特央行跟卡塔尔央行 而债券的持有人我不知道是谁<br/>\n<br/>\n这种做法就是先救大户<br/>\n不过从赔付优先级来看 这肯定是非法的 债券持有人肯定是不会接受这个结果的\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642143",
+      "is_folded": true,
+      "answerer": {
+        "username": "知错能改的好学生",
+        "uid": "100484"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\t本来欧美就喜欢说一套做一套 俄罗斯存在瑞士的钱拼什么扣留\t\t</div>",
+      "date": "2023-03-22",
+      "agree_count": -1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1165064",
+          "replier": {
+            "username": "cris_x",
+            "uid": "96109"
+          },
+          "date": "2023-03-22",
+          "content": "支味太重了"
+        },
+        {
+          "id": "1165065",
+          "replier": {
+            "username": "知错能改的好学生",
+            "uid": "100484"
+          },
+          "date": "2023-03-22",
+          "content": "@cris_x:我帮俄罗斯说话 不是帮中国人说话 你搞错了 你说我黄俄都可以"
+        }
+      ]
+    }
+  ]
+}

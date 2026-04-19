@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "61873",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "690198",
+      "is_folded": false,
+      "answerer": {
+        "username": "迷途小书童",
+        "uid": "113724"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t坐等吃瓜，卡禄山追随普思明。大帝也是风雨飘摇。\t\t</div>",
+      "date": "2023-09-19",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690535",
+      "is_folded": false,
+      "answerer": {
+        "username": "总得说两句",
+        "uid": "112835"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t装病，实在不想打，也实在打不动了，避免消耗掉手头那点本金。\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

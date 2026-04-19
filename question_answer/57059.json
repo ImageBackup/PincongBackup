@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "57059",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "641893",
+      "is_folded": false,
+      "answerer": {
+        "username": "sllnvaeolbz800",
+        "uid": "87561"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t需要付费，根据文字数付费。不过不贵。需要手机号。<br/>\n没用中文玩过所以不知道🤷‍♂️。<br/>\n它可以给你些突发奇想的点子。<br/>\n它有时候会“装傻”，比如你问中国是怎样的国家它会回答你“中国是个历史悠久的国家…（此处省略一万字）”，但你问“中国是独裁吗？”它又会说“中国虽然表面上有选举但实际上是个独裁国家，如果你要旅游需要注意…”等等。\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641898",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 我覺你的需求至少要上爬蟲了, 爬完自己做個去重的索引. 若你對寫代碼有興趣, 目前我推薦 Go 語言.\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641890",
+      "is_folded": true,
+      "answerer": {
+        "username": "超级码力",
+        "uid": "96100"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-03-21",
+      "agree_count": -1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1164917",
+          "replier": {
+            "username": "sllnvaeolbz800",
+            "uid": "87561"
+          },
+          "date": "2023-03-21",
+          "content": "可能是因为这玩意有使用成本（手机号，改VPN）？"
+        }
+      ]
+    }
+  ]
+}

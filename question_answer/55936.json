@@ -1,0 +1,227 @@
+{
+  "parent_type": "question",
+  "parent_id": "55936",
+  "answer_count": 11,
+  "answers": [
+    {
+      "id": "629272",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在我看来机器人能过码工面试反而是最不值得惊讶的，面试题目答案的搜索空间可比其它问题小多了。别说L3，就是过了L6的面试也不奇怪。但是能过L3的面试不等于L3员工能干的事机器人都能干。<br/>\n<br/>\n机器取代人是趋势，IT行业本身也不例外，但是这不等于需要人的工作就会减少。IT行业内部自动化的程度一直都在不断提高，但从业人数是越来越多而不是越来越少了。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 11,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152754",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-02-08",
+          "content": "最简单的会计和电话客服AI都还没能取代多少"
+        }
+      ]
+    },
+    {
+      "id": "629286",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其實本來就是1個人的事<br/>\n只是因為一些無關緊要的事被硬變成3個人而已<br/>\n比方說無窮無盡的UI更新，並沒有讓用戶體驗變好（要是沒讓體驗變差就已經謝天謝地了）也沒有用戶要求（他們通常只會要求『換回去』）<br/>\n不知道是誰說要改，但既然有人說要，就需要有人來裝這種沒人需要的改動<br/>\n這種鬼事又不少，除非chatGPT可以讓上面的蠢貨閉嘴，否則頂多是3個人用讓人的效率變成3倍的chatGPT做9倍的無用功\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 8,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152716",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-02-08",
+          "content": "哈哈哈, 一看你也是飽受蠢蛋的禍害啊, 勾起了我陳年舊傷啊~"
+        }
+      ]
+    },
+    {
+      "id": "629380",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t真正的问题不是AI通过面试，而是面试题本身已经八股文化。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629374",
+      "is_folded": false,
+      "answerer": {
+        "username": "非想",
+        "uid": "105283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI迟早可以脱离人类独立主动迭代，等到那时候AI的理性思维能力将会彻底全方面碾压人类，就如同人类的理性思维能力碾压鸡鸭猪狗一样，人类到时候只能任由AI宰割，连自己的命运都无法再由自己把握，而码农失业这种事情到时候都不值一提\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1152769",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-02-08",
+          "content": "我估计你连迭代两个字是什么意思都不懂，看个AI自己跟自己下棋就吓尿了。"
+        },
+        {
+          "id": "1152770",
+          "replier": {
+            "username": "非想",
+            "uid": "105283"
+          },
+          "date": "2023-02-08",
+          "content": "@华国锋:\n事实证明你的“估计”跟意淫差不多，搞得跟“迭代”是什么高深学问一样。另外我早都把你屏蔽了，你要是要点脸就别来骚扰我了"
+        }
+      ]
+    },
+    {
+      "id": "629281",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 嗯, 只是 L3. 我之前的行業混入的爛人也多, 甚至有人因開發個網站被騙幾十萬毛幣...聼到熟人説起自己被騙經歷時, 我嘴張的下巴都快掉了. 雖然沒寫過網站我一直都是 C++ 編譯型重開發, 但熟人裏擅長 HTML 與 JavaScript 的人很多.<br/>\n<br/>\n_ _ 當然這個熟人也有不懂開發這件事且喜歡占便宜的缺點, 當初問我 \"你幫我做個網站吧\", 我就用 \"不會, 也沒空\" 打發掉了. 但他不該被騙, 還損失這麽大.<br/>\n<br/>\n_ _ 說這些的意思是, 不但濫竽充數的人多, 騙子也多. 那個被騙熟人: \"搞開發的全是科技騙子\" 一句讓我回想起十到二十年前, 總去華北電子市場北京中關村的事情了, 多數出租司機和路人: \"賣電腦的全是騙子\" 兩句話如出一轍.<br/>\n<br/>\n_ _ 歡迎 ChatGPT 和後繼的 AI 血洗騙子和業内對技術無愛的人吧, 人要入對行而不是選個不喜歡甚至討厭的工作在那裏混. 在擅長的職業領域内都拼不過一個基於循環的程式, 飯碗被砸不冤枉.<br/>\n<br/>\n_ _ 我非常恨騙子, 正是這種惡人把我的行業搞得烏烟瘴氣的, 那時我每次去談開發外包的業務都會被客戶先當作騙子先審一頓.\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629293",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t逻辑和数学是目前chatgpt的短板, 听说在改进<br/>\n<br/>\n你可以试试google的alphacode\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152771",
+          "replier": {
+            "username": "snowingnight",
+            "uid": "53957"
+          },
+          "date": "2023-02-08",
+          "content": "逻辑和数学问题不是最难的\n目前最火的是social decision making\n这个才是最难解决的\n你看看trends 系列杂志就知道了"
+        }
+      ]
+    },
+    {
+      "id": "629352",
+      "is_folded": false,
+      "answerer": {
+        "username": "Hermione",
+        "uid": "10918"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>起薪18萬美金<br/>\n</blockquote><br/>\n<br/>\n天啊！那麽高薪令人妒忌，而且只是起薪點\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1152758",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-02-08",
+          "content": "在硅谷这种寸土寸金的地方，年薪18万美元会让你觉得自己很穷……"
+        },
+        {
+          "id": "1152760",
+          "replier": {
+            "username": "Hermione",
+            "uid": "10918"
+          },
+          "date": "2023-02-08",
+          "content": "@Meltdown:也是。Tax rate 37%，然後屋租US$8,000/m，然後lunch也要US$25"
+        },
+        {
+          "id": "1152761",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-02-08",
+          "content": "@Hermione:Google午餐晚餐免费，房租也没那么高，除非一定要住大房子"
+        }
+      ]
+    },
+    {
+      "id": "629354",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tchatpgt目前还是会给出很多低级错误的答案，他不会犯人类的错误，但是会犯很多ai有的错误\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629382",
+      "is_folded": false,
+      "answerer": {
+        "username": "ururururur",
+        "uid": "95862"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t通过测试ChatGPT能快速做出正确的决策，比现在一般公司的CEO还厉害，是不是可以不用CEO了？\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629428",
+      "is_folded": false,
+      "answerer": {
+        "username": "ibaba",
+        "uid": "53805"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t反過來也可以說這表示Google的「面試」有多麼垃圾，只專注在招募做題家，這對於做題家中的霸主—AI，自然是極其友好的；<br/>\n然而，對於那些往往是真正有鑒別力，而不仰賴於瘋狂做題，但是難以量化的面試標準，這類型的公司卻常常不屑一顧，還能說啥呢？\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629353",
+      "is_folded": true,
+      "answerer": {
+        "username": "种花家人",
+        "uid": "85920"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "question_id": "52802",
+  "category_id": "6",
+  "title": "请问我这情况是不是被电信给搞了？",
+  "meta_description": "请问我这情况是不是被电信给搞了？ - 一直用自建的trojan，家里自用没问题。 最近几天发现在家wifi时连trojan全都超时，无论手机还是电脑。本来以为服务器被ban了，但通过ping工具现实都正常的，诡异的是我用手机5g连trojan也是正常的，唯独用家里eifi不行，请问下这种情况是...",
+  "meta_keywords": "请问,我这,情况,是不是,电信",
+  "tags": [
+    {
+      "id": "605",
+      "name": "防火墙"
+    }
+  ],
+  "author": {
+    "username": "WDWG2022",
+    "uid": "99741"
+  },
+  "view_count": 4287,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t一直用自建的trojan，家里自用没问题。<br/>\n最近几天发现在家wifi时连trojan全都超时，无论手机还是电脑。本来以为服务器被ban了，但通过ping工具现实都正常的，诡异的是我用手机5g连trojan也是正常的，唯独用家里eifi不行，请问下这种情况是怎么回事，或者有什么办法可以检测出原因呢？谢谢\t\t\t\t\t\t\t</div>",
+  "date": "2022-11-17",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1026286",
+      "replier": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "date": "2022-11-17",
+      "content": "自家的宽带？？不封你号不错了，等着被喝茶吧"
+    }
+  ],
+  "answer_count": 3
+}

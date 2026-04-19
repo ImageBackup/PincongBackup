@@ -1,0 +1,102 @@
+{
+  "parent_type": "question",
+  "parent_id": "66078",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "737892",
+      "is_folded": false,
+      "answerer": {
+        "username": "okamiyu",
+        "uid": "81756"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t至少回复一个在做了也好啊，到底怎么回事啊，应该不是我一个人的问题吧。\t\t</div>",
+      "date": "2024-04-02",
+      "agree_count": 0,
+      "discussion_count": 9,
+      "discussions": [
+        {
+          "id": "1254484",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-02",
+          "content": "鹿儿有的时候会来看站务贴，站长有时也会来，至于什么时候来基本上看心情。然而，这种问题只能由他们来答了。"
+        },
+        {
+          "id": "1254485",
+          "replier": {
+            "username": "okamiyu",
+            "uid": "81756"
+          },
+          "date": "2024-04-02",
+          "content": "@Nederland:感谢回复，没办法只能等吧。"
+        },
+        {
+          "id": "1254583",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-04-02",
+          "content": "@Nederland:那我小声说，我提议三个人而不是一个人就封禁的情况，我就是怕某些人的心情......."
+        },
+        {
+          "id": "1254586",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-02",
+          "content": "@Studebaker史刁碧嘉:了解，会和她说的"
+        },
+        {
+          "id": "1254587",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-04-03",
+          "content": "@Nederland:您就别说了，\n制度，制度，而不是靠个人。每个人都有善恶的一面，这是靠不住的。要是把权力搞到我手上再配合下恶的那一面，本站上所有的人加起来大概也还是比不过我的，这是很可怕的。所以还是要靠制度性约束，靠个人从善是要不得的"
+        },
+        {
+          "id": "1254588",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-03",
+          "content": "@Studebaker史刁碧嘉:这就是为什么我强调法治。"
+        },
+        {
+          "id": "1254589",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-03",
+          "content": "@Studebaker史刁碧嘉:对了，你如何看那道数学题"
+        },
+        {
+          "id": "1254590",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-04-03",
+          "content": "@Nederland:哎.....\n那个数学题，我其实是看不懂的（千万别低估了白色恐怖的破坏性）\n我现在在思考另外一件事情。主页有那个帖子"
+        },
+        {
+          "id": "1254591",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-03",
+          "content": "@Studebaker史刁碧嘉:I see"
+        }
+      ]
+    }
+  ]
+}

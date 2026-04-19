@@ -1,0 +1,107 @@
+{
+  "parent_type": "question",
+  "parent_id": "54080",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "608642",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t激光武器的原理是受激辐射(Light Amplification by Stimulated Emission of Radiation)简写为( LASER)，所以激光有时翻译成镭射就是一个意译，一个音译。激光与普通光最大的区别就是它的方向性好，所有光子有相同频率与相位，也就是波长相同，因此能将能量聚集起来。但是高能量的激光本身因为散热等原因并不易制作，所以作为一种杀伤性武器到目前为止仅仅是一种概念武器，实用性还有待考量。<br/>\n但是即使是普通的激光发射器，如果不用于人员杀伤，而用于点燃易燃物还是有一定实用价值的。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1134405",
+          "replier": {
+            "username": "十二中民主小组",
+            "uid": "104018"
+          },
+          "date": "2022-12-10",
+          "content": "水冷，液氮也不行"
+        },
+        {
+          "id": "1134468",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2022-12-10",
+          "content": "已删除"
+        },
+        {
+          "id": "1134469",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2022-12-10",
+          "content": "@十二中民主小组:@十二中民主小组:激光发射器体积小，能量高，水冷液氮也不行，而且重要的是价格非常高，实验室使用的激光发射器几十万人民币都是很正常的，而且开机时间短，因为开机一长就烧，主要功能是用来做光学实验。\n指望拿着这东西做武器不现实。"
+        }
+      ]
+    },
+    {
+      "id": "608644",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t几天不见你已经开始研究激光武器了。。。youtube上有些视频介绍，可以参考一下<br/>\n我到是想到下次抗议爆发的时候可以用它掩护人群\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134404",
+          "replier": {
+            "username": "十二中民主小组",
+            "uid": "104018"
+          },
+          "date": "2022-12-10",
+          "content": "我的想法是用它取代机枪，我们也可以造土坦克，土坦克的空间大，有大功率柴油机，供电不是问题，就是激光坦克，300KW以上直接活烤黑皮，用小激光笔破坏监控，瞎黑皮的狗眼"
+        }
+      ]
+    },
+    {
+      "id": "608652",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 工業用二氧化碳激光管, 但聚焦問題不好解決. 激光頭需要冷卻, 和電磁炮一樣能源問題不好解決. 便於携帶的可考慮 YAG 激光器折騰過一段時間, 但加工精度要求太高, 在不能入手光纖雷射器前全面擱置.\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608836",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛邓习全面战争",
+        "uid": "99727"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t长棍结成阵型，敲打地面会打压对方士气，除了远程武器什么都不能破，这是警察学院教授的指点。警察一般不用远程，也就用催泪瓦斯和水枪，注意防护。，如果警察开第一枪后，就很容易煽动更多人弄死警察。\t\t</div>",
+      "date": "2022-12-10",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134409",
+          "replier": {
+            "username": "十二中民主小组",
+            "uid": "104018"
+          },
+          "date": "2022-12-10",
+          "content": "我设计了移动掩体，枪，不怕，大功率激光还要研究"
+        }
+      ]
+    }
+  ]
+}

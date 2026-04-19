@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "57662",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "648545",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t西班牙语面试还是英语面试？既然是留学，主要描述自己的专业能力符合目标，保证能毕业，这样子比较好\t\t</div>",
+      "date": "2023-04-16",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1170654",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-04-16",
+          "content": "还是英语，在提交申请表后就已经进行过第一次面试了。关于为什么要选哪个专业也已经问过了，所以不知道第二次要问什么。"
+        }
+      ]
+    }
+  ]
+}

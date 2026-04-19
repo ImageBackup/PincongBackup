@@ -1,0 +1,47 @@
+{
+  "question_id": "52525",
+  "category_id": "4",
+  "title": "如何看待苹果公司此举？",
+  "meta_description": "如何看待苹果公司此举？ - iOS 16.1.1 的更新 除了针对已知错误和漏洞进行修复外，iOS 16.1.1 还包含有一项影响国行 iPhone 的改动：  AirDrop 隔空投送功能的「所有人」开关变更为「所有人，10 分钟」。  这个功能仅限国行版本，很难不让人联想到过去一...",
+  "meta_keywords": "看待,苹果,公司,此举",
+  "tags": [
+    {
+      "id": "693",
+      "name": "苹果"
+    },
+    {
+      "id": "102670",
+      "name": "科技交流"
+    }
+  ],
+  "author": {
+    "username": "查理五世",
+    "uid": "76433"
+  },
+  "view_count": 10970,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tiOS 16.1.1 的更新<br/>\n除了针对已知错误和漏洞进行修复外，iOS 16.1.1 还包含有一项影响国行 iPhone 的改动：<br/>\n<br/>\nAirDrop 隔空投送功能的「所有人」开关变更为「所有人，10 分钟」。<br/>\n<br/>\n这个功能仅限国行版本，很难不让人联想到过去一段时间，有人用air drop进行一些宣传，现在马上更改了这个功能，这背后有什么事情呢？\t\t\t\t\t\t\t</div>",
+  "date": "2022-11-10",
+  "agree_count": 5,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1025617",
+      "replier": {
+        "username": "lyyzandy",
+        "uid": "16137"
+      },
+      "date": "2022-11-10",
+      "content": "国行的意思是？如果用美区版更新就没这问题？"
+    },
+    {
+      "id": "1025621",
+      "replier": {
+        "username": "查理五世",
+        "uid": "76433"
+      },
+      "date": "2022-11-10",
+      "content": "@lyyzandy:跟账号无关，型号后面带CH/A的是国行版"
+    }
+  ],
+  "answer_count": 13
+}

@@ -1,0 +1,79 @@
+{
+  "question_id": "66972",
+  "category_id": "10",
+  "title": "",
+  "meta_description": "我的互联网踪迹似乎是被定向跟踪了，即使是登录品葱，这是怎么发生的？求教神通广大的网友。 - ",
+  "meta_keywords": "互联网,踪迹,似乎是,定向,跟踪,即使是,登录,品葱,这是,求教,神通,网友",
+  "tags": [
+    {
+      "id": "1086",
+      "name": "网络安全"
+    }
+  ],
+  "author": {
+    "username": "chibi123",
+    "uid": "120926"
+  },
+  "view_count": 3741,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2024-05-01",
+  "agree_count": 1,
+  "discussion_count": 10,
+  "discussions": [
+    {
+      "id": "1059616",
+      "replier": {
+        "username": "Punchit",
+        "uid": "79254"
+      },
+      "date": "2024-05-01",
+      "content": "清理浏览器历史记录，上网用浏览器隐私模式"
+    },
+    {
+      "id": "1059626",
+      "replier": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "date": "2024-05-01",
+      "content": "https://pincong.rocks/question/66974"
+    },
+    {
+      "id": "1059650",
+      "replier": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "date": "2024-05-02",
+      "content": "@chibi123:品葱使用了腾讯出品的wecenter，已经4年没有更新了，我对其安全性尤为担心，品葱在安全性上似乎很业余，分析是可能没有技术能力进行迭代。你可以从工程文件分析，加密使用了AES-256-CBC，竟然是CBC。不过安全的是从Nov 5, 2018开始砍掉了IP相关的代码。但这并不代表品葱很安全。截至目前来看如果不懂安全技术的人是无法追踪用户活动痕迹的。"
+    },
+    {
+      "id": "1059652",
+      "replier": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "date": "2024-05-02",
+      "content": "@chibi123: 不晓得你使用了什么翻墙软件，在这里推荐购买服务器自建+使用v2ray等开源客户端工具。dns加密请参考\nhttps://www.cloudflare.com/zh-cn/learning/dns/dns-security/"
+    },
+    {
+      "id": "1059664",
+      "replier": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "date": "2024-05-02",
+      "content": "@chibi123:往网页最下面拉，打开pincong center"
+    },
+    {
+      "id": "1059727",
+      "replier": {
+        "username": "ccc163599",
+        "uid": "123083"
+      },
+      "date": "2024-05-03",
+      "content": "为啥这么说？感觉不太可能"
+    }
+  ],
+  "answer_count": 11
+}

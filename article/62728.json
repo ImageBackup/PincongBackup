@@ -1,0 +1,22 @@
+{
+  "article_id": "62728",
+  "category_id": "8",
+  "title": "投訴@Nederland在自己不了解數學的清況下隨意觀察別人",
+  "meta_description": "投訴@Nederland在自己不了解數學的清況下隨意觀察別人 - 他給出的理由是 [ul] 习禁2b【禁复读机令】多次发表中文世界中反复出现的观点 https://pincong.rocks/question/item_id-680470 [li]楼中楼[/li] [li]大量发表墙内的数学民科内容[/li] [li]如...",
+  "meta_keywords": "投訴,@nederland,數學,清況下,隨意,觀察,別人",
+  "tags": [
+    {
+      "id": "100519",
+      "name": "數學"
+    }
+  ],
+  "author": {
+    "username": "梁振英",
+    "uid": "100153"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t他給出的理由是<br/>\n<ul>习禁2b【禁复读机令】多次发表中文世界中反复出现的观点 https://pincong.rocks/question/item_id-680470<li>楼中楼</li><li>大量发表墙内的数学民科内容</li><li>如否认“无限小”</li><li>“趋近”概念</li><li>认为微分和常量是一回事</li><li>微分不存在等等</li></ul><br/>\n<br/>\r\n以下是我的反駁：<br/>\n<ul><li>樓中樓我是認的；但我不認為這是<b>觀察</b>理由</li><li>大量发表墙内的数学民科内容我是<b>否認</b>的：我給出的參考書是principle of mathematical anaylsis, by Walter Rudin，是<b>牆外</b>的東西；而@Nederland給出的參考書是中国科学技术大学出版社《数学分析教程》，是<b>牆內</b>的東西</li><li>我<b>沒有</b>否認無限小的概念：無限小的概念在non-standard analysis這門數學學科中有處理，而我在最開頭已經承認了我不熟悉non-standard analysis。我和他討論的是學界通用定義，既然是通用，自然不牽涉non-standard analysis。我指出的是無限小在主流數學中是一個heruistic 的概念，嚴謹的話必須用epsilon delta language處理。</li><li>我<b>沒有</b>否認趨近的概念；我明確給出以下的定義：</li>lim x-&gt;x0 f(x) is said to be exist if there exists an L such all for all ε &gt; 0 there exists a δ &gt; 0 such that |f(x) - L| &lt; ε whenever 0 &lt; |x-x_0| &lt;δ<li>我不可能同時認為 1. 微分和常量是一回事 及 2. 微分不存在，這樣會導致我認為常量不存在。</li><li>關於微分(derivative)，我也在一開頭給出定義</li>Let y(x) be a real-valued defined on real line. dy(x_0)/dx is said to be exist if there is a real number L such that for all ε &gt; 0, there exists some δ &gt; 0 such that |(y(x_0+h) - y(x_0))/h - L| &lt; ε whenever 0 &lt;|h| &lt; δ. If the above holds for all real number x_0, then y(x) is said to be differentiable on real line</ul><br/>\n<ul>很顯然，我認為1. 微分是存在的，2.微分和常量(constant) 是不同的數學物件</ul><br/>\n<br/>\r\n另外，有受過數學教育的網友有辦法給他解釋嗎？我深感我無能為力。<br/>\r\n@隐匿之影\t\t\t\t\t\t\t</div>",
+  "view_count": 1518,
+  "date": "2023-08-19",
+  "agree_count": 0,
+  "comment_count": 13
+}

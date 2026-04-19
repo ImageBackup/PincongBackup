@@ -1,0 +1,189 @@
+{
+  "parent_type": "question",
+  "parent_id": "61599",
+  "answer_count": 11,
+  "answers": [
+    {
+      "id": "687294",
+      "is_folded": false,
+      "answerer": {
+        "username": "workingpaper",
+        "uid": "21337"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以尝试跨境网购Pixel，缺点就是不像墙内对墙内那么便捷<br/>\n<br/>\n三星手机有Knox物理熔断机制，刷机带来的好处还远不如买境外版<br/>\n<br/>\n而且Google的Pixel系统是没法刷到三星、国产等第三方手机的，只要看看Pixel的刷机包页面就知道，即使是同一个系统版本，都分为不同的Pixel型号，显然都是针对具体型号硬件做了定制。跨型号刷机都会失败甚至变砖，更别说跨品牌厂商了。<br/>\n<br/>\n部份国产手机可以刷开源版原生系统，可惜数量不算丰富，某些国产手机甚至限制刷机了（说的就是小米）。<br/>\n可以参考v2ex的讨论：<br/>\n《为什么最近 2-3 年发布的国产手机都没有类原生的刷机包了？》：https://www.v2etwitter.com/t/939359<br/>\n《现在能刷机的国产 Android 新机有哪些》：https://www.v2etwitter.com/t/965800<br/>\n《2023 最佳刷机手机？》https://www.v2etwitter.com/t/919600<br/>\n<br/>\n我个人认为，既然想要用新款Pixel手机，那就跨境网购吧，起码比刷机省心多了\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1206640",
+          "replier": {
+            "username": "dodo",
+            "uid": "112815"
+          },
+          "date": "2023-09-08",
+          "content": "谢谢"
+        }
+      ]
+    },
+    {
+      "id": "687291",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没用，凡是国行安卓，中国政府全家桶证书为硬件级内置，这个信任证书就是政府的后门，一方面他无条件同意指定地址与你通信，另一方面他允许app访问系统底层数据<br/>\n即便是谷歌的系统，也不可能对你添加的信任证书做什么文章，尤其这些证书在中国政府都有冠冕堂皇的名号\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687301",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a href=\"url/link/aHR0cHM6Ly93d3cucHJpY2UuY29tLmhrL3Byb2R1Y3QucGhwP3A9MzQzOTMy\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.price.com.hk/product.php?p=343932\">https://www.price.com.hk/product.php?p=343932</a><br/>\nSamsung Galaxy Note 9 (8+512GB)<br/>\n上市日期:  2018年8月<br/>\nsnapdragon 845<br/>\n<br/>\n水貨價1800港幣左右\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687289",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你可以用虚拟机访问乱七八糟的东西 遇到问题直接把虚拟机删掉就行了\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687287",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没用，没有安全芯片，手机早就是靠硬件防破解了\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687295",
+      "is_folded": false,
+      "answerer": {
+        "username": "藍白拖",
+        "uid": "106244"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t國產現在只剩小米勉強可接受，因為其刷機社群仍然活躍（其他廠商都快不給了，例如一加來說，如今就是個oppo換皮，除了不再提倡/,正面看待刷機，之後就有可能就會徹底鎖死bootloader）<br/>\n<br/>\n三星刷機都會燒內部安全保險模組（類似保險絲熔斷，不可逆），不建議<br/>\n<br/>\n會建議還是購買華碩索尼這種國外品牌刷為佳（仍可解鎖）<br/>\n<br/>\n最佳還是買蘋果+外區帳號比較能保護資料安全（當然能買水貨更好）\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1206674",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2023-09-08",
+          "content": "小米好个屁，解锁也要七天申请，而且现在它自带的系统极其垃圾，据说反诈系统刷机都搞不掉的。"
+        },
+        {
+          "id": "1206698",
+          "replier": {
+            "username": "藍白拖",
+            "uid": "106244"
+          },
+          "date": "2023-09-08",
+          "content": "是，所以也只能算是在可刷機層面這點仍然持開放態度的，但不代表它不噁心（忘了補充"
+        }
+      ]
+    },
+    {
+      "id": "687296",
+      "is_folded": false,
+      "answerer": {
+        "username": "dodo",
+        "uid": "112815"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谢谢大家科普，比较了一圈还是跨境网购比较合适，个人比较喜欢安卓\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687304",
+      "is_folded": false,
+      "answerer": {
+        "username": "爱慕拆腻子8964",
+        "uid": "20869"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t三星不用刷机，内置一个安全文件夹，你把重要的东西锁里边，类似于手机里另外一个系统，芯片级加密，最好是买港版的，不要刷成国行，你不说出密码，大概率破解不了，国产手机刷pixelexperience你得看有没有人做系统，不建议\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687329",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在不能乱刷了，很多操作系统不兼容，有些在硬件就有问题。因此我强烈建议，在墙内的直接买水货吧，刷机太不保险了。\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687284",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怎么可能被禁，别说咸鱼，就连淘宝拼多多都可以直接买\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1206635",
+          "replier": {
+            "username": "dodo",
+            "uid": "112815"
+          },
+          "date": "2023-09-08",
+          "content": "刚看了一下又有了，之前禁过的，我印象很深"
+        }
+      ]
+    },
+    {
+      "id": "687318",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t之前看到亚马逊上可以购买pixel6.<br/>\n就是这个邮费要100多美\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

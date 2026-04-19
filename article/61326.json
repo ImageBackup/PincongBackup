@@ -1,0 +1,22 @@
+{
+  "article_id": "61326",
+  "category_id": "22",
+  "title": "零成本搭建一个突破网络封锁的墙内可用的匿名网站",
+  "meta_description": "零成本搭建一个突破网络封锁的墙内可用的匿名网站 - Planet是V2EX论坛的Livid开发的在 Mac 上构建和托管去中心化墙内可用的匿名博客和网站，可以突破中共的网络封锁。  打开 https://github.com/Planetable/Planet/releases  下载并安装。 打开Plan...",
+  "meta_keywords": "成本,搭建,一个,突破,网络,封锁,墙内,匿名,网站",
+  "tags": [
+    {
+      "id": "5937",
+      "name": "反共救国"
+    }
+  ],
+  "author": {
+    "username": "VeryBigOrange",
+    "uid": "113560"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\tPlanet是V2EX论坛的Livid开发的在 Mac 上构建和托管去中心化墙内可用的匿名博客和网站，可以突破中共的网络封锁。<br/>\n<br/>\r\n打开 https://github.com/Planetable/Planet/releases  下载并安装。<br/>\r\n打开Planet后你可以看到一些推荐网站，然后就开始创建 Creat Planet，在品葱里面复制一些优质文章进去，然后选择Copy IPNS，得到一串字符，在前面加上https://ipfs.io/ipns/就可以发出去了，例如 https://ipfs.io/ipns/planetable.eth ，墙内使用Brave浏览器就可以不用翻墙打开这个网站了。<br/>\r\n这个网站还支持视频，把YouTube上比较热门的反共视频都放进去广泛传播。\t\t\t\t\t\t\t</div>",
+  "view_count": 3126,
+  "date": "2023-07-19",
+  "agree_count": 1,
+  "comment_count": 7
+}

@@ -1,0 +1,317 @@
+{
+  "parent_type": "question",
+  "parent_id": "57008",
+  "answer_count": 18,
+  "answers": [
+    {
+      "id": "641292",
+      "is_folded": false,
+      "answerer": {
+        "username": "Koigggyear_重建",
+        "uid": "77519"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvYjk5ZGFhZjNkODA3Mjg3ZjhkN2RiLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/b99daaf3d807287f8d7db.jpg\"><img alt=\"https://telegra.ph/file/b99daaf3d807287f8d7db.jpg\" loading=\"lazy\" src=\"https://telegra.ph/file/b99daaf3d807287f8d7db.jpg\" style=\"max-width:100%\"/></a>目前来说完全是牛头不对马嘴，我严重怀疑这个文心一言是不是基于更落后且早已开源的GPT-2开发用来骗取国家经费的\t\t</div>",
+      "date": "2023-03-19",
+      "agree_count": 18,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1164389",
+          "replier": {
+            "username": "啪啪啪WN",
+            "uid": "101745"
+          },
+          "date": "2023-03-19",
+          "content": "奇虎周教主说他们的是基于gpt2.5，百度估计八九不离十吧"
+        },
+        {
+          "id": "1164406",
+          "replier": {
+            "username": "Drwinnie2",
+            "uid": "80598"
+          },
+          "date": "2023-03-19",
+          "content": "文心一言不会超过开源的GPT2.5，ChatGPT是基于GPT3.0的，3.0没有开源而且相对2.5是一个巨大飞跃，现在GPT4.0都出来了，强国公司基本只能抓瞎。"
+        }
+      ]
+    },
+    {
+      "id": "641288",
+      "is_folded": false,
+      "answerer": {
+        "username": "iamwanghuning",
+        "uid": "109571"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t比百度vs谷歌的差距還大，一個是博士生，一個連小學生都不如\t\t</div>",
+      "date": "2023-03-19",
+      "agree_count": 15,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1164370",
+          "replier": {
+            "username": "毛邓习全面战争",
+            "uid": "99727"
+          },
+          "date": "2023-03-19",
+          "content": "亲自玩过吗，感觉区别如何"
+        },
+        {
+          "id": "1164462",
+          "replier": {
+            "username": "iamwanghuning",
+            "uid": "109571"
+          },
+          "date": "2023-03-19",
+          "content": "@毛邓习全面战争: 玩過ChatGPT初代，沒玩過GPT4因為要氪金。現在用GPT vs 谷歌的頻率大概50/50。以後感覺GPT會大概率取代谷歌。百度的隨便去reddit看看他們發的，基本就是個智障，還不說一堆違禁詞。"
+        },
+        {
+          "id": "1306812",
+          "replier": {
+            "username": "GGGMMM2024",
+            "uid": "137646"
+          },
+          "date": "2024-12-12",
+          "content": "文心一言根本就不是什么AI，就是搜索引擎嵌套，就是一坨屎"
+        },
+        {
+          "id": "1306816",
+          "replier": {
+            "username": "GGGMMM2024",
+            "uid": "137646"
+          },
+          "date": "2024-12-12",
+          "content": "洼地根本就没有自主研发的AI，文本模型用的都是国外开源项目+API调用，绘画视频模型要么是修改了Stable Diffusion，要么就是通过WebSocket协议与Midiourny等主流AI绘画工具实现套壳通信，逗包这类绘画一看就是用的MJ的模型，其次智普的可能用的是谷歌的绘画，试想一下，美国AI都是研究了好多年才出来的，洼地不到几个月就出现各种AI，肯定不是自主研发的，再加上GFW封锁了国外的AI，国内AI才会迅速在洼地内部掀起高潮，因为大部分支那不会翻墙，甚至连chatgpt都不知道何物，如果没有GFW，我想这些洼地AI应该也不至于有任何发展空间，毕竟他们除了套壳还是套壳~~~~"
+        }
+      ]
+    },
+    {
+      "id": "641779",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t虽然chatgpt不让抄了，meta又出了开源的llama，号称超过gpt3。支国的互联网公司又有的抄了。\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1306813",
+          "replier": {
+            "username": "GGGMMM2024",
+            "uid": "137646"
+          },
+          "date": "2024-12-12",
+          "content": "他现在都不用抄了，马斯克之前不是已经开源了Grok-1，直接拿过来改改就是自己的了。其实抄这个词用的不准确，抄至少还是自己写出来的，他不是抄而是偷，直接用的OPENAI的API来调用的，就是套壳！"
+        }
+      ]
+    },
+    {
+      "id": "782524",
+      "is_folded": false,
+      "answerer": {
+        "username": "畜平首寄",
+        "uid": "111902"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t由此看来。<br/>\n<br/>\n美国禁止高算力芯片出口，<br/>\n真的是打中了中共的七寸呢。<br/>\n<br/>\n更可笑的是，世界芯片研发的主力军，多数是华人。<br/>\n<br/>\n六七十年代，半导体勃兴之时，中共在搞人吃人。<br/>\n八九十年代，半导体不断推向大众的时候，中共国企在裁人。<br/>\n二十一世纪，半导体开始引领未来发展的时候，中共放弃轮替，举国迎合独裁领导人。<br/>\n<br/>\n人治社会，精准避开每一个芯片爆发的时间节点。\t\t</div>",
+      "date": "2024-11-05",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641774",
+      "is_folded": false,
+      "answerer": {
+        "username": "大音无声",
+        "uid": "108194"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我是软件行业<br/>\n其实中国软件发展起于外包<br/>\n但是所有创新是很低端很少的<br/>\n尤其是神经网络和人工智能，根本都是抄袭了国外开源框架然后修改而成<br/>\n因为没有深厚的数学和相关学科的基础研究，所以根本不存在挑战欧美的能力\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1306819",
+          "replier": {
+            "username": "GGGMMM2024",
+            "uid": "137646"
+          },
+          "date": "2024-12-12",
+          "content": "与期说是抄袭不如说是偷"
+        }
+      ]
+    },
+    {
+      "id": "641291",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t改进的办法和许多中国的问题一样需要颜色革命<br/>\n<br/>\n主要的差距不是工具(那个多少可以开源拿来套用或者偷到一些)而是工具的使用者和制造工具的一整套制度\t\t</div>",
+      "date": "2023-03-19",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641811",
+      "is_folded": false,
+      "answerer": {
+        "username": "隐匿之影",
+        "uid": "103339"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t硬件层面完全没法比，主要是中共没法获取最新的专用计算GPU，诸如A100这样的芯片被截断了。<br/>\n<br/>\n在算力上就有根本的差距，可况百度在软件层面也只能算二流企业，就更不可能追上了。\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "782521",
+      "is_folded": false,
+      "answerer": {
+        "username": "狂眉B道",
+        "uid": "120488"
+      },
+      "contents": "<div class=\"markitup-box\">\n<mark>支那</mark>一心就是个傻逼玩意，愚蠢的<mark>支那猪</mark>连老鼠鸭子都分不清怎么可能会搞得出好AI??就算有也是一个比<mark>支那猪</mark>还要蠢的<mark>支那</mark>AI\t\t</div>",
+      "date": "2024-11-05",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "788741",
+      "is_folded": false,
+      "answerer": {
+        "username": "wangwangdui778",
+        "uid": "138447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国视频生成大模型可灵成为全球范围内广受关注的AI产品。创刊于1899年的美国技术杂志《麻省理工科技评论》在其官方网站刊文指出，来自中国的新型“文生视频”人工智能模型“令人兴奋”，由中国互联网企业快手发布的这款产品，在行业里具有意义——这是全球首款可供公众测试的文生视频大模型产品。<br/>\n<br/>\n  过去两年多来，从ChatGPT发布到视频生成大模型Sora问世，都引发了科技界、产业界的广泛关注，推动了AIGC技术在全球范围的迈进。<br/>\n<br/>\n  “可灵”大模型的发布不仅在国际大模型技术圈层展现了中国技术具备一定优势，也在一定程度上加速了AI生成视频产品的竞争。如何看待人工智能对于发展新质生产力的正向作用？下一步如何推动应用场景和商业化的应用？围绕这一主题，瞭望智库近期在京召开了“未来已来，拥抱人工智能+新质生产力”课题研讨会，国产视频生成大模型，正在成为助力创作者和行业从业者提效的技术实现路径。\t\t</div>",
+      "date": "2024-12-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641300",
+      "is_folded": false,
+      "answerer": {
+        "username": "伟大的雅典",
+        "uid": "108454"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\toneflow现在有人用吗？全世界的人，基本不都是用PyTorch或者TensorFlow吗\t\t</div>",
+      "date": "2023-03-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641306",
+      "is_folded": false,
+      "answerer": {
+        "username": "TIAN_KUAI_HUO",
+        "uid": "88301"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一个已经接近实用，一个还在实验室<br/>\n<br/>\n紫薯布丁紫薯布丁\t\t</div>",
+      "date": "2023-03-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "789045",
+      "is_folded": false,
+      "answerer": {
+        "username": "ASD1234",
+        "uid": "26668"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就凭那些敏感词  中共要做AI的话 难度起码比国外高10倍  现在中共的AI 就是渣渣  奥拓和奥迪的区别\t\t</div>",
+      "date": "2024-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "788859",
+      "is_folded": false,
+      "answerer": {
+        "username": "fel6111",
+        "uid": "47889"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实，一方面现在开源生成式模型已经没有那么神秘了，网上开源的代码很多， ollama 虽然很拉跨（简单数学题都算不对），但是也能用。<br/>\n就算中国拿不到最高端算力的AI卡，也可以大力出奇迹，用海量的AI卡来训练AI。<br/>\n其实最关键的不是硬件而是软件，就是你究竟给AI 投喂了哪些“高质量文本”。<br/>\n以共产党的尿性，根本不敢投喂公开真实的历史资料，最正的价值观也不敢投喂，这就导致AI 再聪明，投喂出来还是个奴才，根本就没办法和国外的比。\t\t</div>",
+      "date": "2024-12-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "782525",
+      "is_folded": false,
+      "answerer": {
+        "username": "MarcusJones",
+        "uid": "137281"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI，航天，核能这三个和其他TMT不同，都是非常极权类的科技，现在主要瓶颈是芯片<br/>\n芯片缺乏是胡温时期主导OEM国策导致，当时大力发展软件代工公司，代表有中软，东软，浪潮<br/>\n突破之后不太确定结局如何\t\t</div>",
+      "date": "2024-11-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "787631",
+      "is_folded": false,
+      "answerer": {
+        "username": "Tyler",
+        "uid": "137547"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tChatGPT在语言理解能力、逻辑推理能力和知识储备方面表现突出。ChatGPT在理解语言的准确性和深度上具有较高水平。\t\t</div>",
+      "date": "2024-12-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "787660",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t聊政治问题Chatgpt会回复，而文言一心等国产ai会回的驴唇不对马嘴\t\t</div>",
+      "date": "2024-12-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641797",
+      "is_folded": false,
+      "answerer": {
+        "username": "yuta08",
+        "uid": "47016"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tChatGPT都要有4.0的版本了，這種一堆無法回答的言論審查的牆內垃圾誰想要用？\t\t</div>",
+      "date": "2023-03-21",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "788752",
+      "is_folded": false,
+      "answerer": {
+        "username": "leviathan1",
+        "uid": "120938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI领域第一强国肯定是美国，第二则毫无疑问是中国。其他传统发达国家如欧洲澳洲日本加拿大，都不够美中看的。\t\t</div>",
+      "date": "2024-12-11",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

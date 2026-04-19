@@ -1,0 +1,488 @@
+{
+  "parent_type": "question",
+  "parent_id": "55918",
+  "answer_count": 25,
+  "answers": [
+    {
+      "id": "629317",
+      "is_folded": false,
+      "answerer": {
+        "username": "thibetanus",
+        "uid": "20137"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t作为消费者的体会，从便利程度上来讲， Google pay/Apple pay &gt; Credit Card &gt; QR Code &gt; cash.<br/>\n<br/>\nGoogle pay/Apple pay是最方便的，拿出来手机在机器上贴一下就好。相比之下信用卡如果有靠近支付的话才能贴一下就付款，如果有些老旧的信用卡的话，可能还要查到卡槽里才能付款。而且Google pay/Apple pay 相当于在信用卡上做加法。他们实际上是和信用卡联系在一起的，你付款的时候实际上是从你的Google pay/Apple pay 上链接的那张信用卡上扣钱。你还可以享受这张信用卡上的所有福利，譬如消费返点等等。Google pay/Apple pay的主要问题是覆盖范围比信用卡低。在美国，几乎所有的地方都有信用卡刷卡，但是很多地方，甚至超市里都不能Google pay/Apple pay。相比之下QR Code明显比信用卡更麻烦。QR Code需要掏出手机，打开软件，扫码，才能支付。而且如果没有网络的话还可能打不开软件无法扫码。<br/>\n<br/>\n我也不清楚为什么中国人喜欢QR Code，可能和普及程度有关，因为信用卡刷卡成本比较高，还需要额外的设备。相比之下QR Code几乎没有成本。另外中国的信用卡使用的时候好像还要输入密码。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629012",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从银行借钱花谁不乐意？ 而且美国信用卡通常都是zero liability，被盗刷用户不负责。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 15,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629146",
+      "is_folded": false,
+      "answerer": {
+        "username": "都市火枪手",
+        "uid": "85988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为国人确实脑回路比较清奇，银行卡和信用卡有感应芯片，读取快得多，支付成本也低，他们居然还嫌麻烦喔。而且还要围绕这个二维码做一大堆东西出来，美名曰方便。实际上大部分使用场景都不如芯片银行卡利索，除了寄快递那个。整体观感就是做加法做上瘾了，不知道怎么做减法。系统崩溃或者出bug根本不知道怎么解决。<br/>\n<br/>\n我看到一些人在地铁闸口前在手机上划来划起找二维码，不由得为他们感到惋惜，因为我只要刷银联卡就进去了。一秒钟都不用犹豫。<br/>\n<br/>\n可能中国的零售银行真的太落后了。完全没有市场竞争的概念，这tm是块大蛋糕啊，就连摩根大通还在不断地创新自己的信用卡。就是举国体制惯坏的。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 16,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1153002",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-02-09",
+          "content": "无它二维码成本极低容易普及而已"
+        }
+      ]
+    },
+    {
+      "id": "629014",
+      "is_folded": false,
+      "answerer": {
+        "username": "Olivert",
+        "uid": "73427"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国信用卡福利多啊，有开卡奖励还有返点项目，除了少数偷税漏税的和非法移民，大多数美国人对于信用卡的接受度还是很高的。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 10,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629161",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t确实很傻逼 有些没出过国的支蛙还笑话日本保守用现金，它们不知道的是在日本你往西瓜卡里充钱，坐电车，去饭店吃饭，都是Apple watch一贴就完事  手机都不用解锁，叮的一声就付款了。回墙国后手表真就成了手表，支付基本没地方能用。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 10,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629065",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该问中国人为什么喜欢扫码。信用卡拿出来接触一下就完了，扫码要解锁手机，打开付款应用，打开扫码功能，扫码，实在是太麻烦了。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 7,
+      "discussion_count": 15,
+      "discussions": [
+        {
+          "id": "1152516",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-02-08",
+          "content": "因为可能没有随身带包，但是你哪怕只穿沙滩裤和T恤，浑身没有一个兜，你也会把手机握在手上。"
+        },
+        {
+          "id": "1152517",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-02-08",
+          "content": "另外现在“一键扫码”“一键付款”的小应用很多，各种手势也很多，像我，手指搭在指纹上，就亮屏开机了，然后再做一个手势就可以付款了。"
+        },
+        {
+          "id": "1152528",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-02-08",
+          "content": "@天下无贼:正好相反，我出门带手表耳机就好，手机并非必须。而且手机壳也可以带放信用卡的地方。"
+        },
+        {
+          "id": "1152551",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-02-08",
+          "content": "@李瑞环: 嗯，习惯问题。其实还有一个重要的因素，就是国内商家现在很多不支持刷卡，特别是小商家，因为信用卡要收商家手续费，而且刷卡需要设备，手机支付只要打印一张纸贴出来就行了"
+        },
+        {
+          "id": "1152589",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2023-02-08",
+          "content": "@天下无贼:我也覺得用二維碼支付很奇怪"
+        },
+        {
+          "id": "1152590",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-02-08",
+          "content": "@天下无贼:这就是内卷式的竞争，把中间渠道的利润挤压至0。我倒不是说这样好还是不好，美国信用卡高手续费高福利的模式，大概会被中国人撸死。中国的商业模式自有国情在。\n其实美国也有chase pay之类的二维码支付方案，但是市场不买账，就死掉了。"
+        },
+        {
+          "id": "1152592",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-02-08",
+          "content": "@天下无贼:另外忘了说apple pay和Google pay，Samsung pay就是解决你说的出门带卡的问题。数字钱包装信用卡，双击右键刷脸支付。大概相当于你说的指纹手势。"
+        },
+        {
+          "id": "1152610",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-02-08",
+          "content": "@李瑞环: 习惯和文化的问题，和小费有点像，美国人习惯了刷卡的方便和权益以及年费，美国商家习惯了被银行克扣手续费。中国人从来没有过，直接有了在线支付，双方都免费或者收费极低，所以国外流行的信用卡模式直接被跳过去了。"
+        },
+        {
+          "id": "1152611",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-02-08",
+          "content": "@Studebaker史刁碧嘉:@李瑞环: 你们估计都出国早，习惯国外的信用卡了。"
+        },
+        {
+          "id": "1152616",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-02-08",
+          "content": "@天下无贼:你还真别说，中国的信用卡我也有。"
+        },
+        {
+          "id": "1152619",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-02-08",
+          "content": "@李瑞环: 我说的不严谨，我的意思是习惯国外以刷卡为主要行为模式的消费方式了。"
+        },
+        {
+          "id": "1152677",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2023-02-08",
+          "content": "@天下无贼:啊？爲什麽是出國...\n很多時候覺得東方才是那個最有外國感的地方"
+        },
+        {
+          "id": "1152731",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-02-08",
+          "content": "@Studebaker史刁碧嘉:欧，我只是说，你是不是很早就离开中国定居其它国家了"
+        },
+        {
+          "id": "1153003",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-02-09",
+          "content": "@天下无贼:为了省一点手续费 然后各种诈骗fraud层出不穷 银行支付宝微信支付商家不承担任何责任"
+        },
+        {
+          "id": "1153011",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-02-09",
+          "content": "@Vinobianco: 这就和用啥无关了，用啥都不负责，还是自己小心吧😂"
+        }
+      ]
+    },
+    {
+      "id": "629303",
+      "is_folded": false,
+      "answerer": {
+        "username": "Fenrir",
+        "uid": "55949"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我现在手里的信用卡，购物返点从2%到6%不等，每年单靠这个就能拿几千美元。有的时候返点换购物卡还有进一步的折扣，比用现金或者借记卡合算多了。至于二维码这种东西，有的时候还未必有现金方便——美国地广人稀，手机信号不好甚至没有的地方多了去了。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629162",
+      "is_folded": false,
+      "answerer": {
+        "username": "tuyouyou",
+        "uid": "101697"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为美国人出行购物讲信用，信用高就可以多贷多买。而毒菜禽兽打击报复老百姓都要求受害者讲信用。美国人的信用很好理解，毒菜禽兽的脑回路实在理解不能。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629279",
+      "is_folded": false,
+      "answerer": {
+        "username": "心理不稳定的韭菜",
+        "uid": "75115"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t疫情这几年国外的消费刷卡习惯飞速改变<br/>\n<br/>\n也许有些老年人还喜欢用纸币硬币<br/>\n<br/>\n大部分习惯于用apple pay的直接手机或者iwatch贴到pos机上就操作了可比什么微信扫码方便多了\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629160",
+      "is_folded": false,
+      "answerer": {
+        "username": "小咸鱼",
+        "uid": "106945"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我覺得還蠻怪的，掃二維碼真的算不上便捷，畢竟Google Pay，Apple Pay和銀行App配合NFC直接貼手機按指紋就好。<br/>\n至於美國人偏好信用卡，可能是因為他們提前消費的觀念盛行，對儲蓄意願不強烈，而且美國銀行在信用卡方面有一定利好，最關鍵的是對整體金融和經濟的信心吧。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629007",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛澤東有性病",
+        "uid": "20469"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t記帳好方便的，統計收支用了信用卡瞬間省麻煩<br/>\n<br/>\n年費120台幣？ 一個便當\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629163",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t（1）社会契约精神<br/>\n（2）对未来经济增速的预期，才能透支未来\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629190",
+      "is_folded": false,
+      "answerer": {
+        "username": "开门查水表",
+        "uid": "54821"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你应该问的是为什么美国人爱刷卡，墙国人爱扫码吧？？？<br/>\n我也有信用卡，8张。<br/>\n最低的一张几千额度，最高几万，最高除以最低大于15。<br/>\n基本没有刷卡过，原因有3个<br/>\n①懒得带，身上基本只有钥匙和手机。<br/>\n②支持场景较少，一般的大街上的饭店小卖部是不能刷卡的。<br/>\n③不安全吧，指的是比如被黑心商家多刷，比如消费40刷你50。你不当场查账单是不会发现的，过几天你自己都忘了。500元以上才有短信，如果1分钱也通知，又会觉得骚扰，烦。<br/>\n一般用信用卡是通过微信支付宝快捷支付。消费了多少是可以直接看的。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629301",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 我也愛用信用卡, 它有一定歷史可搜索關鍵字 食客俱樂部 Diners Club 大來卡 等看下這段歷史, 這揭示了信用卡使用的本質[別花超過承擔力的錢]. 對一個人的自律有很好的段練, 我注銷過很多張額度變得很高的卡. 目前主用的是張十萬額度的卡, 輔助一張千元額度的[買菜卡].<br/>\n<br/>\n_ _ 概率上來説人生每三個月就有極小概率事件發生, 讓自己手頭現金或極速變現物保持在能捕捉它的範圍内是我的信條. 是的我也賭博但不在牌桌上, 我的賭場始終是能產生價值的非零和游戲.<br/>\n<br/>\n當然我是匪區人, 并沒有別的綠卡. 我猜想少數美國人也應會理性使用信用產品.\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629049",
+      "is_folded": false,
+      "answerer": {
+        "username": "罗密欧与猪过夜",
+        "uid": "107734"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t先享受后挣钱比先挣钱后享受要爽,我自从用了花呗后月月光,实在是管不住手😜\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629574",
+      "is_folded": false,
+      "answerer": {
+        "username": "BreakingWave",
+        "uid": "50441"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t路径依赖。<br/>\n<br/>\n老美用信用卡付账的时候中国人还把刷卡当稀奇。<br/>\n<br/>\n更不要提Visa PayWave、MasterCard PayPass之类的非接触支付。反观银联的闪付现在还没推广起来。<br/>\n<br/>\n如此造成的各种信用卡五花八门的返点活动自然也就越来越多。<br/>\n<br/>\n进入移动支付时代中国是支付宝微信支付烧钱搞补贴才逐渐替代了现金，美国直接把信用卡装到手机里就行了。<br/>\n<br/>\n还有就是信用卡你在国外旅游也能用，基本正常国家都支持至少一种国际信用卡。<br/>\n<br/>\n当然有一个缺点就是信用卡对商家收手续费，还有就是借贷多了可能很多人还是管不住手。所以现在用储蓄卡或者prepaid card的人也很多。毕竟prepaid card不能透支不用担心刷爆，而且至少加拿大的各种prepaid card公司也都有自己的返点项目。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629578",
+      "is_folded": false,
+      "answerer": {
+        "username": "不吃蔥",
+        "uid": "39352"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看上面說的，很意外美國的apple pay之類的不夠普及。我在澳洲還沒有遇到哪家店不能Apple pay的。我出門會帶包，大包裝著小錢包，小錢包裡會有駕照啊信用卡借記卡這些卡片，但是我已經很久沒用過信用卡了，因為買東西全部一隻手機/手錶搞定。店家的會員積分卡都放進ios錢包了。<br/>\n<br/>\n對了，不是只有零售，停車場/路邊停車都可以貼Apple pay，我想了半天好像會用信用卡只有某些情況下要打電話，在電話裡付錢，需要拿出來報一下卡號啥的。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629579",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国内的信用卡积分全是鸡肋 没动力用 如果有像美帝一样信用卡能薅羊毛 国人肯定也是用的起劲的 至于是扫二维码还是扫苹果支付其实没什么差别\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629073",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我在北美时个人比较喜欢银行App加信用卡绑Apple Pay，一方面因为方便，实体付款/手机付款都可Tap/一键。另一方面因为银行信用卡积分十分可观且实用，银行合作项目很多，信用卡兑换方便。再者是银行信用积分。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1152588",
+          "replier": {
+            "username": "都市火枪手",
+            "uid": "85988"
+          },
+          "date": "2023-02-08",
+          "content": "sapphire和AE卡都属于越用越爽的那种，当然终归是消费主义陷阱"
+        }
+      ]
+    },
+    {
+      "id": "629586",
+      "is_folded": false,
+      "answerer": {
+        "username": "徐谷雨",
+        "uid": "95064"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我发现欧美国家都更倾向于开放式的体系，比如信用卡和银行就是这样，不被一家公司的服务所垄断。其实很多时候他们彼此之间正式联系也会用邮件，可能也是这种思维。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629587",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t信用卡有返现，延保等各种优惠，而且不像中国用信用卡更贵。\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629622",
+      "is_folded": false,
+      "answerer": {
+        "username": "TISU",
+        "uid": "33812"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我一個外國人要到中國消費就要申請微信帳號在榜定信用卡<br/>\n真麻煩，而且透漏很多個資，又要被國際匯率、手續費剝層皮<br/>\n一想到這些個人資訊就只為了用幾天就要被永久暴露，我只敢用額度最小的那張新用卡綁定<br/>\n真心想用現金就好，同樣的問題我去其他國家就不會發生，電子支付沒有問題，但必須多元<br/>\n我國內常用的信用卡有6張左右，分別做不同的消費有不同的優惠<br/>\n2張當交通卡用、2張邦定apple pay和line pay，依照優惠做選擇，有些是大賣場的卡、停車優惠的卡...<br/>\n出國另外有出國專用的卡，我不想去一個國家就要下載一個app把自己的資料輸入進去後就只用幾天<br/>\n所以出國我還是愛用信用卡或現金<br/>\n去日本時會使用特別標榜日本消費優惠的信用卡，<br/>\n要刷美金時會使用外幣信用卡可以直些從我外幣戶頭繳費省去當下匯率的麻煩<br/>\n去其他國家會用海外消費現金折抵高的<br/>\n還有公司卡，出差時可以刷公司卡<br/>\n我不敢為了出門只帶手機，把這些卡通通輸入到手機裡，當然我可以，但我不敢<br/>\n而且這些都是我的信用證明，未來貸款買房時用得到\t\t</div>",
+      "date": "2023-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629156",
+      "is_folded": false,
+      "answerer": {
+        "username": "F2402C7A",
+        "uid": "83799"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是美国，也是一个广泛用信用卡的地方。感应确实很方便。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629238",
+      "is_folded": false,
+      "answerer": {
+        "username": "担麦人吃包子",
+        "uid": "31389"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国外使用借记卡信用卡都方便，超市购物刷一下就自动扣款，比什么中国的移动支付还要方便<br/>\n<br/>\n当然国内银行也有信用卡业务，但大多数人都是用信用卡绑定微信支付宝进行消费（本质上还是有一个扫码的动作），到期了再从借记卡绑定信用卡进行定向还款即可。<br/>\n<br/>\n银行现在为了推信用卡业务都疯了，为了完成业绩指标客户经理甚至有时候哀求你办张卡就行，还送你个家用电器，你随便用用几个月到时候销户也可以。<br/>\n<br/>\n国内的银行卡业务也在发展，信用卡使用频率高了也可以薅羊毛，什么商超消费、餐饮折扣等等等\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "629003",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t金融发达，使用习惯问题。现在中国人用的也多了，但是中国直接跳过了“支票”这个环节，直接进入“电子支付”了，不过以前电子支付后面绑储蓄卡的多，现在电子支付绑信用卡的也越来越多了，多一个月的周转期何乐而不为。\t\t</div>",
+      "date": "2023-02-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

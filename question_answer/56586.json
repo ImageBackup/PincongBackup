@@ -1,0 +1,356 @@
+{
+  "parent_type": "question",
+  "parent_id": "56586",
+  "answer_count": 14,
+  "answers": [
+    {
+      "id": "636718",
+      "is_folded": false,
+      "answerer": {
+        "username": "Punchit",
+        "uid": "79254"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在intel，三星以及台积电宣称的5nm 3nm只是商品名而已。现在已经成了营销话术，没有实际意义。<br/>\n<br/>\n几nm原来指的是芯片制造晶圆上的栅极之间的距离，现在栅极无法持续缩短，所以5nm和3nm只是根据摩尔定律推算出来的商品名。<b>台积电5nm实际的栅极距离在22nm以上</b>。intel以前很老实的用栅极距离命名产品，后来发现在产品宣传上很吃亏。所以现在也用intel 7，intel 5，intel4，intel 20A（埃米，1埃米=0.1纳米）命名以后的产品。<br/>\n<br/>\n即便最后物理规律限制了栅极间距的持续缩短，芯片可以改进的地方还有很多呢。芯片的架构改进。苹果自研芯片基于arm，但微架构是苹果自行研发的。不行还可以堆核心呢。未来很长一段时间，芯片还是有发展和改进空间的。\t\t</div>",
+      "date": "2023-03-04",
+      "agree_count": 16,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1159567",
+          "replier": {
+            "username": "kdiqin",
+            "uid": "42845"
+          },
+          "date": "2023-03-04",
+          "content": "你是懂的，早在好几年前用几纳米就变成一个营销词了，不能代表实际性能"
+        }
+      ]
+    },
+    {
+      "id": "636705",
+      "is_folded": false,
+      "answerer": {
+        "username": "clearlove_8964",
+        "uid": "101818"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t制程不是一切，还有微架构、主频等可以提升。相同主频、制程下，更优的微架构有更好的效能，微架构优化到头了就是对主频的压榨，例如13代Intel CPU。现在的发展的确缓慢，但并非无法发展。<br/>\n<br/>\n而中国是在架构和制程上全面落后，更别提当今习近平大搞加速主义，不倒退就不错了，还想追上欧美？\t\t</div>",
+      "date": "2023-03-04",
+      "agree_count": 11,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636710",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t确实是个问题，但中国落后非常多，台积电张仲谋18年就说，领先大陆5-7年，但是到了20年，说依然领先5年，而且预言中国举国之力也造不出光刻机。<br/>\n<br/>\n打个比方，你担心百米比赛，西方已经到了95米，那么到了终点，是不是就只能眼睁睁看着中国追赶了？是的，确实是这样，但是你要看看中国跑了多少米，中国不是跑了80米，是才跑了50米\t\t</div>",
+      "date": "2023-03-04",
+      "agree_count": 7,
+      "discussion_count": 12,
+      "discussions": [
+        {
+          "id": "1159565",
+          "replier": {
+            "username": "伟大的雅典",
+            "uid": "108454"
+          },
+          "date": "2023-03-04",
+          "content": "制裁之前，中芯国际已经研发出n+1了，相当于台积电10nm，差距也就2代，4年。没那么远"
+        },
+        {
+          "id": "1159581",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "@伟大的雅典:实验室技术和商用技术两码事"
+        },
+        {
+          "id": "1159591",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-03-05",
+          "content": "@伟大的雅典: 差很远。那些什么中芯实现10nm，包括什么华为已经用去美化设备制造7nm的消息，都有很多的先决条件，要么是用非美的二手设备（然而从ASML我们已经看到美国是可以影响其他国家的），要么是实验性的，良品率不足以正式投产，等等。台积电的张忠谋其实还是很中立的，也不会夸大或者隐瞒，他甚至很热衷于“建设祖国（大陆）”，他说领先20年，我相信就是领先20年"
+        },
+        {
+          "id": "1159661",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "@天下无贼:20年不至于，2003年还是130nm的时代呢"
+        },
+        {
+          "id": "1159665",
+          "replier": {
+            "username": "屮尼玛",
+            "uid": "78795"
+          },
+          "date": "2023-03-05",
+          "content": "20年说多了，这玩意一共也就30多年的历史；不可能领先20年，能领先4`5年都是压倒性优势。但是这种优势是需要建立在自由贸易的基础上的。\n而且正如前面说的，以前发展的快，现在发展越来越慢了。"
+        },
+        {
+          "id": "1159674",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-03-05",
+          "content": "@rowlandheights:@屮尼玛: 我记错了，张忠谋说的是领先7年，以及预言大陆一定造不出光刻机"
+        },
+        {
+          "id": "1159678",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "@天下无贼:7年我同意，至于光刻机，中国一定能造，而且一定造不好。"
+        },
+        {
+          "id": "1159702",
+          "replier": {
+            "username": "unis14wis",
+            "uid": "108840"
+          },
+          "date": "2023-03-05",
+          "content": "对普通人来说10纳米以内性能都已经富裕了，但是尖端领域多好的芯片都不够，追求是永无止境的，而土共更关心的恰恰是尖端领域而非民生领域。但是就连勉强能够满足民间需求的芯片他们没个大十几年都不太可能搞出来（搞出来几个不算，必须大规模量产才行），尖端领域就更是痴人说梦了，这个问题应该说完全不用担心"
+        },
+        {
+          "id": "1159703",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-03-05",
+          "content": "@unis14wis: 正相反，现在最尖端的就是民用的，手机用的CPU是目前制程最先进的，反而军用的芯片以稳定为主，都是几百纳米时代的产物。更先进的制程主要是在体积、散热、功耗方面有优势，军用和工业用的芯片，这方面不是很在意。"
+        },
+        {
+          "id": "1159704",
+          "replier": {
+            "username": "unis14wis",
+            "uid": "108840"
+          },
+          "date": "2023-03-05",
+          "content": "@天下无贼: 理解错了，尖端不是指军用，而是一些高科技领域。移动端需要更好的能耗，所以还是越小越好，但其实也快到极限了，大部分人现在不会1-2年就换一部手机了。至于PC端感觉20纳米以内就开始对大多数普通用户来说没什么实质性提升了，但是多高性能都无法满足的地方肯定又有不少。"
+        },
+        {
+          "id": "1159707",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-03-05",
+          "content": "@unis14wis: 举例来说？哪些高科技领域？"
+        },
+        {
+          "id": "1159711",
+          "replier": {
+            "username": "unis14wis",
+            "uid": "108840"
+          },
+          "date": "2023-03-05",
+          "content": "@天下无贼: 比如医疗领域，肯定是会很大受益于人工智能的崛起的，但是这个普通人肯定接触不到，就连普通的医护人员大概率也接触不到"
+        }
+      ]
+    },
+    {
+      "id": "636821",
+      "is_folded": false,
+      "answerer": {
+        "username": "雙加不好的鴨語者",
+        "uid": "22079"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t首先，現在各國晶片技術都是<b>全球分工</b>，像是荷蘭是光刻機，日本是光阻劑。都是國家一起來，中共想自己一個取代各國產業，自補自足，那是美國都不可能。<br/>\n<br/>\n其次，在中共下並沒有<b>學術自由</b>和自主，沒有自由的思想作土壤，要<b>黨政軍民學，東西南北中，黨是領導一切</b>。已經不是社會層面的自由民主，而是學術界自成一角，不會被政治所干涉。要想前人不敢想，前人認為是不可能的事，那科學才可有所突破。\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636703",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t放心，领袖亲自抓哪个、那个一定会完蛋，等着瞧吧。\t\t</div>",
+      "date": "2023-03-04",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1159668",
+          "replier": {
+            "username": "flicker_free",
+            "uid": "98663"
+          },
+          "date": "2023-03-05",
+          "content": "你是懂人民领袖的"
+        }
+      ]
+    },
+    {
+      "id": "636743",
+      "is_folded": false,
+      "answerer": {
+        "username": "萌萌哒",
+        "uid": "10510"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tOpenAI的创始人的说法人工智能将以18个月翻倍的速度迭代，因此或许AI后面还可以反哺人类在硬件上的突破一起加速。十年后美国将会把中国甩的影子都见不着。\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636747",
+      "is_folded": false,
+      "answerer": {
+        "username": "zzzzz11111",
+        "uid": "41398"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实很简单打击中共在品牌和生态应用方面的优势即可，也就是说限制中共品牌的手机新能源车以及互联网企业（比如抖音之类的），因为半导体研发所需要的投入极为巨大，他的资金来源只有可能是手机品牌以及互联网公司生态产生的巨大利润，只要中共还能拥有手机品牌和互联网生态产生的巨大利润，那么中共就永远有巨额资金可以不择手段的挖自由世界技术人才收购自由世界企业窃取自由世界技术，来缩小与自由世界的芯片差异，但是一旦中共的手机品牌和互联网企业的利润和扩张下降，那么支撑半导体技术研发的投入（其实就是挖人才偷技术买企业）就难以为继了，那么自由世界必然会保住芯片优势\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636716",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 沒事, 等共匪到了 3nm 照樣還得買 wiki/憶阻器 或 wiki/约瑟夫森结 的更先進 CPU. 即便追到這一層或許還有局部降低 ε0μ0 的超材料技術來拉開差距, 如果異步運算電路技術沒突破的話.\t\t</div>",
+      "date": "2023-03-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636721",
+      "is_folded": false,
+      "answerer": {
+        "username": "隐匿之影",
+        "uid": "103339"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t摩尔定律的工艺极限是2埃米，目前的技术离这个极限还很遥远。<br/>\n<br/>\n至于发展慢，纯粹是厂商为了维持垄断地位挤牙膏。\t\t</div>",
+      "date": "2023-03-04",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1159571",
+          "replier": {
+            "username": "Drwinnie2",
+            "uid": "80598"
+          },
+          "date": "2023-03-04",
+          "content": "2埃米是理论值也就是电子直径，实际应用的极限肯定远超这个值"
+        },
+        {
+          "id": "1159573",
+          "replier": {
+            "username": "隐匿之影",
+            "uid": "103339"
+          },
+          "date": "2023-03-04",
+          "content": "@Drwinnie2:硅原子直径是2埃米"
+        },
+        {
+          "id": "1159582",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-05",
+          "content": "电子哪有直径，只有这个经典半径：\nhttps://en.wikipedia.org/wiki/Classical_electron_radius\n这个又不是真实的电子大小 Note that this derivation does not say that\nre is the actual radius of an electron. It only establishes a dimensional link between electrostatic self energy and the mass–energy scale of the electron."
+        }
+      ]
+    },
+    {
+      "id": "636723",
+      "is_folded": false,
+      "answerer": {
+        "username": "亡共进行时",
+        "uid": "7969"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墙国所有半导体产业链没一条属于自己的原创技术，都是购买别人的机器设备抄袭出来的，在这个基础上纳米工艺永远没可能超越欧美。而且美帝正在研制新技术代替荷兰光刻机，你想怎么超车？？\t\t</div>",
+      "date": "2023-03-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636738",
+      "is_folded": false,
+      "answerer": {
+        "username": "Iamyour",
+        "uid": "95003"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就說能量損失，非常落後，中國想自己印芯片類似拿原子彈炸蜘蛛，能源耗費應該是台積電至少700多倍，高能逸必然帶來高待機高維護高報廢，產能會進一步落後<br/>\n<br/>\n我初步估計中國弄高端芯片一個月應該做不出300片\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636745",
+      "is_folded": false,
+      "answerer": {
+        "username": "LaoWang1",
+        "uid": "92742"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在芯片还有很大的提升空间，像显卡就因为AMD落后导致NV不思进取，价格越来越高性能提升越来愈小,还有处理器英特尔也是长期挤牙膏，直到锐龙的出现才打破\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1159655",
+          "replier": {
+            "username": "findyou",
+            "uid": "93230"
+          },
+          "date": "2023-03-05",
+          "content": "amd任重道远，刚翻了淫荡特恶，也不能忘了nvidia\n这代4080太贵了"
+        }
+      ]
+    },
+    {
+      "id": "636853",
+      "is_folded": false,
+      "answerer": {
+        "username": "unis14wis",
+        "uid": "108840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t反正中国全面被封锁的情况下怎么都要追很久，保守估计20年不太可能追得上吧，而且就需求来说10纳米以内其实民用已经有很大富裕了，再好的芯片就和老百姓关系不大了，更多是用于尖端领域了\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636856",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t靠培养摩尔这样的人和自由的竞争<br/>\n<br/>\n贵国指望赶上来你们可要先去颠覆政权\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "parent_type": "question",
+  "parent_id": "57765",
+  "answer_count": 18,
+  "answers": [
+    {
+      "id": "649772",
+      "is_folded": false,
+      "answerer": {
+        "username": "养老不能靠政府",
+        "uid": "48556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t高赞回答吹的全是洗衣机芯片，美国卡的是高端制程，两者还是有点区别的。<br/>\n<br/>\n当然，能够实现低价国产此类工业芯片，也可以说是一项伟大的成就，但这并不是封锁的结果，之前买高价买意法半导体不是因为没有替代方案，而是有统战收买的成分在 （否则怎么可能两年就实现替代？）。凡是号称卷成白菜价的，往往都是封锁不那么彻底，技术门槛较低的，而且离不开苏联援助或入世之后民用市场开放交换的技术基础。<br/>\n<br/>\n那么高端制程能不能卷出来呢？如果一直不封锁的话，相信很快也会像此类工业芯片一样连偷带买地实现国产替代的，而中国人民也有充分的理由这么做：几亿件衣服裤子换一架飞机的交易太不公平了，我们中国人这么勤劳聪明理当占据自古以来的高端产业地位对不对？<br/>\n<br/>\n那么现在封锁了就卷不出来吗？也不是的。哪怕彻底和英美脱钩了，背靠俄罗斯资源再拉拢一下西欧，技术输液管还是可以勉强维持，可以预期实现目前的高端制程也是时间问题。封锁的目的也不在于让你永远造不出来，而是尝试拉开代差，同时分割市场阻止倾销。\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649879",
+      "is_folded": false,
+      "answerer": {
+        "username": "Drwinnie2",
+        "uid": "80598"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tThis guy knows shit about the semiconductor industry. <br/>\n<br/>\n有好几款32位片子，稍改一下就能取代stm的<br/>\nWhy not replace STM before pandemic if it's cheaper, better and easy to modify the existing design? <br/>\n<br/>\n32位mcu样品，功能比较简单的<br/>\n32bit MCU is never simple. For the simple applications, why not use 16bit or even 8bit MCU? Of course it's simple comparing with GPU or FPGA, but it's stupid to compare the different animals.<br/>\n<br/>\n我月初刚拿到几十片0.9元的国产32位mcu样品，功能比较简单的，准备改到一些功能简单的产品上用。 据说有量可以谈到0.8元。真的白菜价了。<br/>\nAll this guy talking about is the price. The good MCU is not only about the basic functions. The customers need to consider the reliability, power consumption, SDK, technical support, supply chain... Now I'm curious what companies are using those cheap MCUs.<br/>\n<br/>\nGenerally, MCU is not the high end IC in terms of design and fabrication. What I know is, without the cutting edge EDA, manufacturing equipment and chemicals, the Chinese semiconductor companies cannot design and manufacture a single high end IC.\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649769",
+      "is_folded": false,
+      "answerer": {
+        "username": "种花家人",
+        "uid": "85920"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你明明知道知乎上是屎, 但你还要挑出来闻一下不够, 翻来覆去掰开让大家看...\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 15,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649842",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这证明伟大祖国真是太厉害了，越封锁技术越先进，之前技术停滞都是因为两面人捣乱，自从有了我包皇亲自指挥一切问题都能解决。强烈建议伟大的党，为了彻底帝国主义和破坏分子，把西方技术彻底禁了吧，毕竟越封锁越先进。请小粉红赶紧砸了高官们的进口车，毕竟以后伟大祖国能造出更好的，这样是在促进伟大祖国的技术研发，党会感谢你们的。\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649766",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t超低端的还可以，中端使用就非常坑了<br/>\n<br/>\n就好像国产轴承和进口轴承的区别\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 6,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1171870",
+          "replier": {
+            "username": "都市火枪手",
+            "uid": "85988"
+          },
+          "date": "2023-04-21",
+          "content": "油管上的枪械和工具评测很多，中国的产品都是最次一档的，但是价格便宜。可以料到许多零部件应该也是如此。"
+        },
+        {
+          "id": "1171954",
+          "replier": {
+            "username": "Nineteen84",
+            "uid": "77269"
+          },
+          "date": "2023-04-21",
+          "content": "其实本质上就是，继续北京中国殖民系统内，左手右手的倒腾，毕竟殖民帝国控制着绝大部分的资源，好坏都是帝国随便花钱。总体市场毫无疑问是衰落的，现在还在奴隶们能够兜住的阶段。毕竟俄罗斯都到了征兵百万的阶段，都还没倒呢。"
+        },
+        {
+          "id": "1171955",
+          "replier": {
+            "username": "Nineteen84",
+            "uid": "77269"
+          },
+          "date": "2023-04-21",
+          "content": "现在，所有的成本和效用损失效率损失，都是10亿奴隶在兜住而已。未来20年，新生人口掉到500万以下，再看。"
+        },
+        {
+          "id": "1171956",
+          "replier": {
+            "username": "Nineteen84",
+            "uid": "77269"
+          },
+          "date": "2023-04-21",
+          "content": "就是，人力用的很好很爽，殖民征服掠夺认贼做爹，一套下来，为什么还需要科技进步？ 黑暗五千年了，耐用消费品都轮回了无数次。"
+        },
+        {
+          "id": "1251257",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-03-16",
+          "content": "悲剧在于真打仗的时候，劣质武器十件不如优质武器一件，何况你还未必有十倍的炮灰御敌\n有人说，那我中国打台湾，人口是六十倍，这下够了吧，可是台湾战争是海战，人多没用，你造船下饺子，可是战斗力未必和吨位成正比。"
+        }
+      ]
+    },
+    {
+      "id": "649767",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这不就是毛泽东说别人掐脖子自己越得瑟那套扯淡<br/>\n<br/>\n真的如此中国政府还抗议干嘛?\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 10,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649852",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个好比吹中国制造的电视机粉碎了日本韩国的电视机厂商。\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649871",
+      "is_folded": false,
+      "answerer": {
+        "username": "劳斯莱斯",
+        "uid": "74487"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t虽然不知道你转这个贴的意图和目的，但我肯定你完完全全不知道MCU与被禁芯片的差别，因为你知道的话你就只会看笑话一笑了之啦。<br/>\n给你举个例子，NVIDIA GeForce RTX 3080显卡里面含有280亿只晶体管，而8086单片机里面含有不到3万只晶体管。你拿不到3万来类比280亿\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649873",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前正常时支币才8-10元？也就1美金多一点的东西啦，在美帝还不够在华人超市买一块豆腐的价钱。<br/>\n<br/>\n对了，<mark>支蛆</mark>现在怎么不吹华为的麒麟芯片了？因为台积电和三星不敢给华为供货了，于是麒麟就被活活憋死了。\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1251258",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-03-16",
+          "content": "麒麟本来也是日本那里收购来的fabless设计商\n从头到脚只有国资，没有国技"
+        }
+      ]
+    },
+    {
+      "id": "649768",
+      "is_folded": false,
+      "answerer": {
+        "username": "都市火枪手",
+        "uid": "85988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t除了鱼子酱和海鲜，还有廉价的厂工，中国啥时候用原创性杀过价格出来。<br/>\n<br/>\n另外不喜欢中共这些应该通通不信。什么都按举国来量，脱离市场和对个体的尊重，你不就很容易被迷惑和宰割了吗。况且一池子污水能养出几条好鱼呢。芯片这几天不又是做老鼠仓收割了嘛，明显死性不改。这些公司和操手就是天天骗钱的货色。\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649774",
+      "is_folded": false,
+      "answerer": {
+        "username": "欽定匪軍經商",
+        "uid": "102983"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大陸漢人最喜歡義和團式的土逼熱血和理想，他們從統治精英到農民發明家都推崇搞彎道超車，雖然實質是到處用低劣山寨坑騙自己人，但也這是漢人最堅定繼承的五千年老傳統。\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649881",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 多年前工程經驗, 設計時不要用匪區產芯片、器件替代. 不是耗電多就是發熱大還經常是一起出現, 功率器件噪波大、非功率的參數虛標、零點漂移到信噪比上不去啊. 設計時照國際大廠的產品手冊選型, 如在工廠發生代用就不是我設計的責任. 和美國起冲突是吧那就多選德州儀器 TI 的件吧, 作爲參與通訊用模塊電源的研發參與者凴我有限的工作經驗做出的建議.<br/>\n<br/>\n_ _ 共匪在電子器件這塊的研究是要所謂的 \"填補國内空白\" 這樣就能解禁技術封鎖然後進口, 能進口的實現自產共匪也不是爲了用. 而是能拿報價去壓海外廠商的價, 垃圾研發體制就是技術剽竊就是偷. 看到生氣別反向遷怒我, 去罵共匪吧誰沒在這上面浪費個幾年人生呢~\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649883",
+      "is_folded": false,
+      "answerer": {
+        "username": "綁衣大鴿",
+        "uid": "46942"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t樓主貼的這個應該是40奈米的工藝技術.或許算中階吧...隨便吹我不介意.但我是建議至少能自主量產出高品質的7奈米晶片再來吹會比較好.至少比較接近前沿嘛.<br/>\n如果哪天自由世界全面禁止晶片相關東西與中共交易.我們再來看能否做出來.<br/>\n現在還只是禁高階而已.<br/>\n <br/>\n   中國在宣傳的什麼自主研發.基礎的製造機台多數都是進口的.至少關鍵零件都需要進口.去看中國高鐵.C919飛機就知道.<br/>\n   自卑太久.內心又不夠強悍去面對.只能到處靠宣傳吹牛欺騙嫖竊來偽裝強大.蠻可悲的.\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649795",
+      "is_folded": false,
+      "answerer": {
+        "username": "TIAN_KUAI_HUO",
+        "uid": "88301"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为他们不知道芯片有多难做、技术要求有多高<br/>\n<br/>\n说难听点，就算换成美国被世界脱钩，也造不出芯片\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1251259",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-03-16",
+          "content": "美国脱钩怕是比中国还惨"
+        }
+      ]
+    },
+    {
+      "id": "649803",
+      "is_folded": false,
+      "answerer": {
+        "username": "终结者",
+        "uid": "109760"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvODhlNzY1NDU1MjYyYmUwMmMzNjk0LmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/88e765455262be02c3694.jpg\"><img alt=\"https://telegra.ph/file/88e765455262be02c3694.jpg\" loading=\"lazy\" src=\"https://telegra.ph/file/88e765455262be02c3694.jpg\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-04-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649801",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国造芯片也在内卷、内循环。文革2.0的政治生态配套文革2.0的经济环境。内斗不止，百业俱废。\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649875",
+      "is_folded": false,
+      "answerer": {
+        "username": "猪献猪",
+        "uid": "102952"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t支乎的粪也要搬到品葱二次污染吗？支乎的东西就不要看了吧！<br/>\n<br/>\n别问，问就是支国赢麻了。\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649761",
+      "is_folded": false,
+      "answerer": {
+        "username": "wce3f2xi",
+        "uid": "49662"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t首先声明，我讨厌中共。<br/>\n<br/>\n其次，我的观点，中共配不上勤劳聪明的中国人。<br/>\n<br/>\n第三，回答楼主的某些观点。中国人爱教育，特别勤劳，又喜欢攒钱，还爱做生意。改革开放启动了中国人接轨世界后，这个大体量规模就很厉害。<br/>\n<br/>\n在这个封闭的系统里（虽然是中共为了统治做的），卷出了一大批厉害的企业。<br/>\n<br/>\n电车，电商，手游，一些电子产品（如无人机和家电品牌）。<br/>\n<br/>\n老牌发达国家，不联合起来，有些地方显然竞争不过了。<br/>\n<br/>\n-----<br/>\n难怪包子信心爆棚。真是华人这个民族太厉害，而且人口又多。<br/>\n<br/>\n只要看看台湾，新加坡，没有中共，直接发达国家就知道了。<br/>\n<br/>\n不是中共牛逼，是中国人牛逼。中共其实已经拖了腿。<br/>\n----<br/>\n<br/>\n未来如何？不清楚，也有可能大体量永远有效，毕竟绑架了中国人么。也许习包子如勃涅日列夫，独裁的十几年国家慢慢衰退。死后才崩溃。\t\t</div>",
+      "date": "2023-04-21",
+      "agree_count": 0,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1171863",
+          "replier": {
+            "username": "种花家人",
+            "uid": "85920"
+          },
+          "date": "2023-04-21",
+          "content": "恰恰错了, 中国人和中共是绝配, 中共也是100%中国人.\n中共没有绑架中国人, 而是中国人绑架了中共\n中国人爱毛的教育...垃圾民族\n台湾和新加坡靠的是英美制度和体系, 不是靠你\n支那人\n的传统美德."
+        },
+        {
+          "id": "1171866",
+          "replier": {
+            "username": "wce3f2xi",
+            "uid": "49662"
+          },
+          "date": "2023-04-21",
+          "content": "@种花家人:你这个论点说明不了中国人和中共是绝配。台湾，新加坡，大多华人或全部华人，为何他们可以不走共产党系统？是他们华人成分不浓吗？\n恰恰是有机会不被共产党裹挟，于是就走英美体系了。不是华人一定要配中共，而是华人有没有机会不被共产党裹挟。"
+        },
+        {
+          "id": "1171869",
+          "replier": {
+            "username": "种花家人",
+            "uid": "85920"
+          },
+          "date": "2023-04-21",
+          "content": "@wce3f2xi:\n支那\n贱畜还想走英美体系....先做个人, 再说其他的\n中国人就中国人, 不要来碰瓷全世界华人.\n我们不一样."
+        },
+        {
+          "id": "1171876",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-21",
+          "content": "如果你把加入英美体系作为提携的话，那确实只有台湾新加坡这种加起来八位数体量的能提携。\n所有海外华人加起来也是八位数，也能提携，但是过于分散，没有谁有动力提携这个分散的群体。\n中国大陆是十位数人口，西方世界也能提携，把你从人均几百刀提携到人均几千刀，你们出血汗劳工，我们出资金技术，双赢。\n但是如果要提携你十位数人口到发达国家，就不说西方国家主观愿望希不希望如此了，人家客观上也带不动啊。"
+        },
+        {
+          "id": "1171903",
+          "replier": {
+            "username": "UAV",
+            "uid": "32217"
+          },
+          "date": "2023-04-21",
+          "content": "华人这个民族是抄袭和投机厉害。"
+        },
+        {
+          "id": "1171908",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-21",
+          "content": "@UAV: 所以少了就牛逼，比如台湾，新加坡，多了就傻逼，比如中国\n说白了他们的优势是逆规模优势，规模越大越不可维持"
+        },
+        {
+          "id": "1171931",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-04-21",
+          "content": "你到国外来近距离观察一下吃喝不愁后的中国人是啥样 简单概括 又馋又懒做事马虎喜欢吹牛逼 华人手工艺者在西方报价最低不是没原因的 所以中国人勤劳根本就是一个自吹自擂的伪命题"
+        },
+        {
+          "id": "1171953",
+          "replier": {
+            "username": "Nineteen84",
+            "uid": "77269"
+          },
+          "date": "2023-04-21",
+          "content": "\" 在这个封闭的系统里（虽然是中共为了统治做的），卷出了一大批厉害的企业。\" 这个论据就是彻底错的，光个论点你们就讨论那么多，哈哈。“ 封闭系统 ” 哈哈。"
+        }
+      ]
+    }
+  ]
+}

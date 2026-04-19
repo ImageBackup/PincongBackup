@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "58073",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "652848",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国？OpenAI，谷歌，微软，Meta 的AI 对中国的AI发展没有任何竞争力，因为他们的AI都不符合社会主义核心价值观，而且没有习近平思想的指导，必然不会成功。\t\t</div>",
+      "date": "2023-05-05",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652838",
+      "is_folded": false,
+      "answerer": {
+        "username": "通商宽衣颐使气指",
+        "uid": "74980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国能偷就偷不能偷就买不能买不干了睡大觉<br/>\n中国有爱党爱国的韭菜就行了要什么AI，习近平思想可是能打垮西方的法宝\t\t</div>",
+      "date": "2023-05-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652844",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你看造作系统,搜索引擎, cpu有那么多开源的设计,对中国有啥影响?<br/>\n<br/>\nLoRA是2021年的东西,看这文章不是最近的东西(或者是什么外行作广告的软文)<br/>\n(最新的热门自然是facebook的jlama和斯坦福alpaca, 文章都没有提)\t\t</div>",
+      "date": "2023-05-05",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1175139",
+          "replier": {
+            "username": "jsfdhjdshghg",
+            "uid": "73263"
+          },
+          "date": "2023-05-05",
+          "content": "LoRA就是那个Alpaca"
+        },
+        {
+          "id": "1175162",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-05-05",
+          "content": "LoRA 要是alpaca, facebook会急眼的"
+        }
+      ]
+    }
+  ]
+}

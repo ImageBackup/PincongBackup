@@ -1,0 +1,84 @@
+{
+  "parent_type": "question",
+  "parent_id": "60052",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "672088",
+      "is_folded": false,
+      "answerer": {
+        "username": "塞尔吉奥爱德华兹",
+        "uid": "77679"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t即便如此，滑裔对中国的正面看法也远高于亚裔对中国的正面看法<br/>\n滑裔是41，菲律宾裔是19，印度裔是10，韩裔是8\t\t</div>",
+      "date": "2023-07-20",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "672084",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这样一来就成功把很多东南亚国家开除出亚洲啦！\t\t</div>",
+      "date": "2023-07-20",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1192959",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-07-20",
+          "content": "pinoy american对菲律宾好感很不错啊"
+        },
+        {
+          "id": "1192961",
+          "replier": {
+            "username": "flyfighter",
+            "uid": "97040"
+          },
+          "date": "2023-07-20",
+          "content": "@矢作萌夏:说实话菲律宾还行，那么缅甸柬埔寨啥的话不考虑一下？"
+        },
+        {
+          "id": "1192975",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-07-20",
+          "content": "@flyfighter:说得好！"
+        }
+      ]
+    },
+    {
+      "id": "672124",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有你们共产党呀<br/>\n<br/>\n这种问题相信小同志们也心知肚明\t\t</div>",
+      "date": "2023-07-20",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1192986",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-07-20",
+          "content": "那是当然"
+        }
+      ]
+    }
+  ]
+}

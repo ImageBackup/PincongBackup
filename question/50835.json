@@ -1,0 +1,42 @@
+{
+  "question_id": "50835",
+  "category_id": "2",
+  "title": "向大家请教一下翻墙的情况和方法，现在封锁很厉害，大家现在都怎么翻墙的？",
+  "meta_description": "向大家请教一下翻墙的情况和方法，现在封锁很厉害，大家现在都怎么翻墙的？ - 我的V2Ray基本都挂了， 无界、自由门不行， 剩下迷雾通还可以稍微撑一下……  还有什么其他的方法？",
+  "meta_keywords": "大家,请教,一下,翻墙,情况,方法,现在,封锁,厉害",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "708",
+      "name": "网络"
+    },
+    {
+      "id": "1547",
+      "name": "网络审查"
+    }
+  ],
+  "author": {
+    "username": "hhhsss",
+    "uid": "40727"
+  },
+  "view_count": 7829,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t我的V2Ray基本都挂了，<br/>\n无界、自由门不行，<br/>\n剩下迷雾通还可以稍微撑一下……<br/>\n<br/>\n还有什么其他的方法？\t\t\t\t\t\t\t</div>",
+  "date": "2022-10-16",
+  "agree_count": 0,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1022389",
+      "replier": {
+        "username": "吃包子的小學生",
+        "uid": "90380"
+      },
+      "date": "2022-10-17",
+      "content": "之前有此某蔥油問起來過，可以找那種專線服務的。其實就是幫你搭一個自建的然後給你做維護什麼的，出了問題也能調整，不小心封了也很快恢復，但收費挺高的相對而言。"
+    }
+  ],
+  "answer_count": 22
+}

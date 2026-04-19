@@ -1,0 +1,34 @@
+{
+  "article_id": "69378",
+  "category_id": "4",
+  "title": "snowflake网桥翻墙原理详解",
+  "meta_description": "snowflake网桥翻墙原理详解 - 有图的版本在     snowflake是一种Tor网桥，这种网桥突破封锁的能力非常强大，但是在中文社区上对于它的介绍却非常的少，本文就来介绍一下snowflake的原理以及它为什么这么强大。  一、核心思想   snowflake的思想源自flashpr...",
+  "meta_keywords": "snowflake,网桥,翻墙,原理,详解",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "606",
+      "name": "防火长城"
+    },
+    {
+      "id": "1174",
+      "name": "Tor"
+    },
+    {
+      "id": "1993",
+      "name": "匿名"
+    }
+  ],
+  "author": {
+    "username": "小学硕士",
+    "uid": "119464"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t有图的版本在 <br/>\n<br/>\r\n  snowflake是一种Tor网桥，这种网桥突破封锁的能力非常强大，但是在中文社区上对于它的介绍却非常的少，本文就来介绍一下snowflake的原理以及它为什么这么强大。<br/>\n<br/>\r\n一、核心思想<br/>\r\n  snowflake的思想源自flashproxy，核心思想是利用大量的临时代理来阻止审查机构的屏蔽。由于这些代理具有创建简单，存在时间短，数量庞大的特点，导致审查者很难的屏蔽速度跟不上代理的创建速度，所以就赋予了snowflake很强的抗审查能力。<br/>\n<br/>\r\n二、原理详解<br/>\r\n  snowflake主要由二部分构成，一是snowflake代理服务器，二是负责储存当前存在的snowflake代理信息的目录服务器（broker）。<br/>\r\n通信开始时，用户先连接到目录服务器，通过目录服务器获取当前存在的snowflake代理的信息，然后用户再尝试与某一个snowflkake进行握手，如果握手成功则用户利用该snowflake代理接入Tor网络，否则就好尝试其他代理直到成功为止。<br/>\r\n  握手成功后，用户与snowfake代理间通过webRTC协议转发，这种协议安全高效，并且被广泛的应用于视频通话中。webRTC协议的使用使snowflake具备了更强的伪装性。<br/>\n<br/>\r\n  但是，仍有一个致命的问题有待解决。因为用户每次使用snowflake都会先连接目录服务器来查找可用的Snowflake代理，所以审查者只需简单的封锁目录服务器就能阻止用户连接到snowflake。为了解决这个问题，snowflake引入了域名前置技术，这种技术能将用户的真实的流量封装在发往微软，亚马逊等云计算平台的流量中，使得审查者不能分辨用户是在访问这些公司的平台还是在访问snowflake目录服务器，从而不敢封锁。同样的技术还被用在meek网桥中，以后有空我再写篇文章详细讲一下。<br/>\n<br/>\n<br/>\r\n三、防火长城对snowflake的应对<br/>\r\n  目前，防火长城等一众审查者主要采用两种手段来阻挠snowflake，但幸运的是，这两种手段的有效性都不高。第一种手段是手动封锁，即审查人员主动使用snowflake来发现代理的ip地址，再将这些ip手动列入黑名单。但由于snowflake代理数量庞大，更新时间快，所以审查者靠手动是不可能封锁完的（目前来说是这样）。第二种手段是靠指纹分析，通过分析snowflake流量的一些特征来发现代理，但由于snowflake本身使用webRTC协议，再加上snowflake版本的不断改进，这种方法也越发不能奏效。<br/>\n<br/>\r\n四、snowflake的缺点<br/>\r\n目前来说，snowflake的主要缺点是速度较慢且不稳定，快的时候一般也就一两兆，慢的时候只有几百K，最多看个480p的视频。<br/>\n<br/>\r\n五、如何快速搭建snowflake代理，帮助他人<br/>\r\n这项技术非常简单，可参考tor官方的教程<br/>\r\nhttps://support.torproject.org/zh-CN/censorship/how-to-help-running-snowflake/\t\t\t\t\t\t\t</div>",
+  "view_count": null,
+  "date": "2024-02-25",
+  "agree_count": 4,
+  "comment_count": 3
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "55154",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "620202",
+      "is_folded": false,
+      "answerer": {
+        "username": "subzer0",
+        "uid": "106002"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tsoul国际版可以<br/>\n<br/>\n紫竹紫薯紫竹紫薯紫薯紫薯紫薯紫竹\t\t</div>",
+      "date": "2023-01-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "620214",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这几年开始火起来的clubhouse就是你说的那种语音聊天室。<br/>\n<br/>\ntelegram有些群也有语音聊天功能，你需要去加群。<br/>\n<br/>\ndiscord应该有类似的功能，也需要你去加群。<br/>\n<br/>\n开麦有风险，聊天需谨慎。建议使用变声器。\t\t</div>",
+      "date": "2023-01-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

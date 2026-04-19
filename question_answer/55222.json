@@ -1,0 +1,80 @@
+{
+  "parent_type": "question",
+  "parent_id": "55222",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "620943",
+      "is_folded": false,
+      "answerer": {
+        "username": "UAV",
+        "uid": "32217"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我没听说过这事。不过据你的描述，这几个原告起诉别人严重的性犯罪，最后不但没成功自己反被判赔80万刀？？？我刚才跟我老婆讲了一下，她说在美国如果真发生这种天下奇闻的话，那这几个原告请的律师事务所估计要直接倒闭了，因为没有人（除非是傻子）会再请这律师。\t\t</div>",
+      "date": "2023-01-14",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1144951",
+          "replier": {
+            "username": "Xenitar",
+            "uid": "87302"
+          },
+          "date": "2023-01-15",
+          "content": "因为诽谤被判罚的，其中一位当事人被判罚十万美元。这个案子是完全被翻转过来，被告一方完全被认定无辜"
+        },
+        {
+          "id": "1145039",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-01-15",
+          "content": "@Xenitar: 无论如何律师非常死嘛 确实该失业了"
+        }
+      ]
+    },
+    {
+      "id": "620985",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t败诉是证据不足，但楼主为了哗众取宠直接避而不谈，直接有罪推定然后开喷，这种玩意转到墙内骗骗洼地人得了，在品葱上献丑久一点过于搞笑了\t\t</div>",
+      "date": "2023-01-15",
+      "agree_count": -1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1144952",
+          "replier": {
+            "username": "Xenitar",
+            "uid": "87302"
+          },
+          "date": "2023-01-15",
+          "content": "不了解就不要急不可奈地和人渣站在一边！"
+        },
+        {
+          "id": "1145022",
+          "replier": {
+            "username": "flyfighter",
+            "uid": "97040"
+          },
+          "date": "2023-01-15",
+          "content": "已删除"
+        },
+        {
+          "id": "1145026",
+          "replier": {
+            "username": "flyfighter",
+            "uid": "97040"
+          },
+          "date": "2023-01-15",
+          "content": "@Xenitar:因为不了解就可以直接根据小作文进行有罪推定了？"
+        }
+      ]
+    }
+  ]
+}

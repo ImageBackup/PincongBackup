@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "59507",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "666505",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不可能，绝对不可能。习近平同志从不放弃红旗插满全世界的初心使命，在她的狼子野心妇孺皆知的时候，不会犯普里戈任同志的错误。\t\t</div>",
+      "date": "2023-06-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "666502",
+      "is_folded": true,
+      "answerer": {
+        "username": "kme199331",
+        "uid": "111256"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-06-30",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

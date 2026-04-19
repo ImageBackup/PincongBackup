@@ -1,0 +1,224 @@
+{
+  "parent_type": "question",
+  "parent_id": "62126",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "692917",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一帮做题家，也好意思吹牛逼。真有那么厉害的话，怎么没拿到诺贝尔奖呢？\t\t</div>",
+      "date": "2023-09-28",
+      "agree_count": 10,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1212020",
+          "replier": {
+            "username": "WSQUX",
+            "uid": "116491"
+          },
+          "date": "2023-09-28",
+          "content": "对啊，但是现在主要问题就是，每个傻逼都相信自己国家制作了处理器，但实际上是闭关锁国得到的信息封闭结果，完完全全不是自研，根是arm架构"
+        }
+      ]
+    },
+    {
+      "id": "692914",
+      "is_folded": false,
+      "answerer": {
+        "username": "grantyang",
+        "uid": "6190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t指的是CPU吧，不是计算机本身。<br/>\n就我理解的IT基本技术方面，共匪无一根本性贡献，都是偷，仿，追，也都依然望尘莫及。\t\t</div>",
+      "date": "2023-09-28",
+      "agree_count": 6,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1212018",
+          "replier": {
+            "username": "WSQUX",
+            "uid": "116491"
+          },
+          "date": "2023-09-28",
+          "content": "接受不了，明明是偷窃来的结果，稍微包装一下就被万众夸大，还什么反超，太丢人了，而且跟他们解释我就是50万了"
+        },
+        {
+          "id": "1212019",
+          "replier": {
+            "username": "WSQUX",
+            "uid": "116491"
+          },
+          "date": "2023-09-28",
+          "content": "华为服务器用的傻逼鲲鹏芯片，又难用又贵，兼容性也一言难尽"
+        },
+        {
+          "id": "1212021",
+          "replier": {
+            "username": "grantyang",
+            "uid": "6190"
+          },
+          "date": "2023-09-28",
+          "content": "@WSQUX:匪陆那些神经体系性癫狂镇日以臭吹自己不懂的土匪主子“技术”超越美帝激励下体生殖器勃起的傻逼，根本不值得对其解释技术细节本身"
+        },
+        {
+          "id": "1212022",
+          "replier": {
+            "username": "bun",
+            "uid": "92655"
+          },
+          "date": "2023-09-28",
+          "content": "@WSQUX:这个真不是偷得，是arm授权的，arm收入的一大部分就是卖这些授权。 但是最新的据说没有授权。"
+        },
+        {
+          "id": "1212025",
+          "replier": {
+            "username": "WSQUX",
+            "uid": "116491"
+          },
+          "date": "2023-09-28",
+          "content": "@bun:还是那句话刺激着我身体的每个神经末梢 “100%自研，不再被卡脖子”"
+        },
+        {
+          "id": "1212028",
+          "replier": {
+            "username": "bun",
+            "uid": "92655"
+          },
+          "date": "2023-09-28",
+          "content": "@WSQUX:说这个当然是骗钱， 有时候就是企业不想骗政府都要逼着企业骗，好拿政绩。"
+        },
+        {
+          "id": "1212031",
+          "replier": {
+            "username": "WSQUX",
+            "uid": "116491"
+          },
+          "date": "2023-09-28",
+          "content": "@bun:😭"
+        },
+        {
+          "id": "1219471",
+          "replier": {
+            "username": "realm",
+            "uid": "18971"
+          },
+          "date": "2023-10-24",
+          "content": "@WSQUX: 我在某客户测试过那傻逼服务器，空跑7天竟然能出现一根内存条失效不被识别的问题。"
+        }
+      ]
+    },
+    {
+      "id": "692918",
+      "is_folded": false,
+      "answerer": {
+        "username": "bun",
+        "uid": "92655"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个不是架构， 是指令集， 直接影响整个downstream的。<br/>\n<br/>\n你完全可以搞个新的指令集， 但是接线啥的都要重头开始来， 甚至搞出来了都没有厂商会生产。 因为不兼容，除非你开个大合同把他们养起来。\t\t</div>",
+      "date": "2023-09-28",
+      "agree_count": 5,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1212026",
+          "replier": {
+            "username": "WSQUX",
+            "uid": "116491"
+          },
+          "date": "2023-09-28",
+          "content": "不是有钱吗，为啥不整呢"
+        },
+        {
+          "id": "1212030",
+          "replier": {
+            "username": "WSQUX",
+            "uid": "116491"
+          },
+          "date": "2023-09-28",
+          "content": "做到所谓的 “100%自主研发”"
+        },
+        {
+          "id": "1212032",
+          "replier": {
+            "username": "bun",
+            "uid": "92655"
+          },
+          "date": "2023-09-28",
+          "content": "@WSQUX:那个花的是天价，从模具，流程都要开始重新做， 而且就是钱到位了，一步步来还得花时间， 等出来后估计就落后几年甚至十几年了， 除非政府采购报背书，否则就凉凉了。"
+        },
+        {
+          "id": "1212036",
+          "replier": {
+            "username": "WSQUX",
+            "uid": "116491"
+          },
+          "date": "2023-09-28",
+          "content": "@bun:那国家算不算为了钱当科技垫脚石，要是当了科技垫脚石算不算违背民众志愿，天天交鸡巴税就是为了让官员贪吗，没有上进心的东西，还有就是当时别的国家指令集制作的时候，政府有没有参与投资呢"
+        },
+        {
+          "id": "1212037",
+          "replier": {
+            "username": "bun",
+            "uid": "92655"
+          },
+          "date": "2023-09-28",
+          "content": "@WSQUX:因为政府官员没有这个视野，就是有这个也需要很长的时间，到时你辛苦半天，结果中途一走就便宜后人了。所以，科技不能让官僚搞，因为政绩和技术就不在一个赛道上。"
+        }
+      ]
+    },
+    {
+      "id": "692925",
+      "is_folded": false,
+      "answerer": {
+        "username": "SANDOLA666",
+        "uid": "78276"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一種叫做領導的愚昧生物<br/>\n在地上劃一個圈，說答案在這裡呢<br/>\n然後一群高材生就趴在地上找答案<br/>\n<br/>\n答案在哪??沒人知道<br/>\n但根據經驗來看，他幾乎不可能剛好在圈圈內<br/>\n<br/>\n只有哪天這個畫圈圈的傻逼消失了<br/>\n這國家才有真正發展的一天<br/>\n<br/>\n你沒看到這國家所有有發展的地方<br/>\n不是領導看不上，就是領導不知道\t\t</div>",
+      "date": "2023-09-28",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1212040",
+          "replier": {
+            "username": "WSQUX",
+            "uid": "116491"
+          },
+          "date": "2023-09-28",
+          "content": "居然不知道😭"
+        }
+      ]
+    },
+    {
+      "id": "699860",
+      "is_folded": false,
+      "answerer": {
+        "username": "abc8899",
+        "uid": "118047"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在CCP的统治下，中国人只是韭菜、只是工具，没有自己的思想、没有自己的想法，所有一切都是为统治阶级服务，试问在这样的环境下人如何产生创造力，不能百家争鸣如何百花齐放！<br/>\n所以，没有创造、没有创新是必然的！\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699855",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t所有科研成果都是领导的，有真实能力的领导为什么要呆在中国。<br/>\n习包子思想学多了吗，你也喜欢那个大红花大奖状？\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

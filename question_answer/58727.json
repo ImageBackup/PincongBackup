@@ -1,0 +1,282 @@
+{
+  "parent_type": "question",
+  "parent_id": "58727",
+  "answer_count": 14,
+  "answers": [
+    {
+      "id": "659715",
+      "is_folded": false,
+      "answerer": {
+        "username": "clearlove_8964",
+        "uid": "101818"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t换成XMR，再换成法币。 XMR可以看作是一种自带混币器的（虽不准确）加密货币。 交易金额和发送或接收方无法为第三方所知。 有兴趣的可以去了解一下它采用的技术。<br/>\n<br/>\n根据XMR官方的建议，如果想要最大限度的匿名，必须在本地运行钱包节点。 使用远程节点或轻钱包可能会影响匿名性。 无论何种方式都应使用Tor或其它可靠的VPN。\t\t</div>",
+      "date": "2023-06-02",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659060",
+      "is_folded": false,
+      "answerer": {
+        "username": "王德成",
+        "uid": "20643"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t香港遍地找换店<br/>\nbtc换成usdt<br/>\n然后去香港随处可见的找换店<br/>\n或者自助机<br/>\n直接提现金，<br/>\n一次几万蚂蚁搬家带回墙内。\t\t</div>",
+      "date": "2023-05-30",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659122",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别人玩幣都是兌成外幣，境外用，你居然是兌成人民幣，境內用？\t\t</div>",
+      "date": "2023-05-30",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659091",
+      "is_folded": false,
+      "answerer": {
+        "username": "ggasd",
+        "uid": "107170"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大额虚拟币出金，走境外卡，比较安全。<br/>\n境内大额出金，一般都是走线下交易\t\t</div>",
+      "date": "2023-05-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659723",
+      "is_folded": false,
+      "answerer": {
+        "username": "大音无声",
+        "uid": "108194"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t老實交代，坦白從寬，抗拒從嚴<br/>\n哈哈，都出去了就別回來了\t\t</div>",
+      "date": "2023-06-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659748",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你就不能换成美元存在 paypal 里面吗，在国外花或者找国内的人进行转账兑换，paypal 的钱要提现到国内会被收取巨额手续费，非常不划算。\t\t</div>",
+      "date": "2023-06-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659055",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果金额比较大，建议你开一个境外账户（比如香港），交易可以直接联系钱庄，法币进他们账户，你在国外收款，有需要再慢慢洗回国内，不放心就买USDT再洗一道，基本上就很难追查了。\t\t</div>",
+      "date": "2023-05-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659071",
+      "is_folded": false,
+      "answerer": {
+        "username": "卡萨布兰卡",
+        "uid": "55429"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不建议拿回国用，我在加拿大换了不少usdt来用，没人管我。\t\t</div>",
+      "date": "2023-05-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659087",
+      "is_folded": false,
+      "answerer": {
+        "username": "不能留个人信息",
+        "uid": "1020"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t比特币特点不就是匿名性吗 谁知道你来源干不干净？？\t\t</div>",
+      "date": "2023-05-30",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1181040",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-05-30",
+          "content": "有些地址被標記了，例如詐騙之類，只能進不能出。而且幣可以看到流向，如果賣幣的時候被登記資料了，可以直接捉人"
+        },
+        {
+          "id": "1181041",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-05-30",
+          "content": "例如美國的coinbase是美國上市公司，要用driving licence實名登記，如果coin有問題捉人太容易了"
+        }
+      ]
+    },
+    {
+      "id": "659124",
+      "is_folded": false,
+      "answerer": {
+        "username": "tevez",
+        "uid": "34449"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t开一个比特币闪电网络的钱包L，从比特币脏钱包A陆续转些币到这个闪电钱包L。再不定期陆续转到另几个干净的比特币钱包B，C，D。\t\t</div>",
+      "date": "2023-05-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661476",
+      "is_folded": false,
+      "answerer": {
+        "username": "liangxinge666",
+        "uid": "112256"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你把比特币换成以太坊，然后在龙卷风混币，然后几个月后就可以在交易所变现了。<br/>\n<br/>\n注意你在龙卷风混币后，不能立即提现，要过几个月分批。例如你换了1234个以太坊，然后马上提现1234个以太坊，就能被追踪，但是如果你每个月提100个左右，就无法追踪了。\t\t</div>",
+      "date": "2023-06-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "701691",
+      "is_folded": false,
+      "answerer": {
+        "username": "想称帝么",
+        "uid": "117627"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就随便找个交易所交易成另一种币再卖掉，查不出来\t\t</div>",
+      "date": "2023-10-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659080",
+      "is_folded": true,
+      "answerer": {
+        "username": "Ledis",
+        "uid": "111960"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t这平台都是什么农民问题？我在看农业频道吗？走OTC商家兑换法币，只要人家给的法币不是黑钱谁会冻你卡？犯臆症了吗？\t\t</div>",
+      "date": "2023-05-30",
+      "agree_count": 3,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1181526",
+          "replier": {
+            "username": "daxuesheng",
+            "uid": "14137"
+          },
+          "date": "2023-06-02",
+          "content": "术业有专攻，没有必要把这浓浓的大陆味带到这海外平台来。你把数字货币弄清楚了，但你又搂主弄到来源不明的钱的本事不？"
+        },
+        {
+          "id": "1181527",
+          "replier": {
+            "username": "clearlove_8964",
+            "uid": "101818"
+          },
+          "date": "2023-06-02",
+          "content": "@daxuesheng:他加密货币也没弄懂。要是比特币匿名就不会有XMR和混币器的诞生。"
+        },
+        {
+          "id": "1182144",
+          "replier": {
+            "username": "Ledis",
+            "uid": "111960"
+          },
+          "date": "2023-06-05",
+          "content": "@daxuesheng:你当我和你这个农民一样是翻墙上网的？还有，弄到来源不明的钱也能被你崇拜了？到底什么成分？讨厌大陆但崇拜贪官？这逼平台用户提纯都提结晶了，提出你这种精神分裂来了？"
+        },
+        {
+          "id": "1182145",
+          "replier": {
+            "username": "Ledis",
+            "uid": "111960"
+          },
+          "date": "2023-06-05",
+          "content": "@clearlove_8964:你在搞笑吗？比特币的核心是是公共账本，我提匿名了？你也犯癔症了？"
+        }
+      ]
+    },
+    {
+      "id": "701686",
+      "is_folded": true,
+      "answerer": {
+        "username": "梁家驴996",
+        "uid": "117499"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-10-29",
+      "agree_count": -2,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1221392",
+          "replier": {
+            "username": "想称帝么",
+            "uid": "117627"
+          },
+          "date": "2023-10-29",
+          "content": "那也要看得清比特币去中心化在对抗独裁体制的作用啊，难道人民币除了交易价值就有其他任何价值了吗，到时中共灭了还不是废纸一张"
+        },
+        {
+          "id": "1221395",
+          "replier": {
+            "username": "梁家驴996",
+            "uid": "117499"
+          },
+          "date": "2023-10-29",
+          "content": "已删除"
+        },
+        {
+          "id": "1221396",
+          "replier": {
+            "username": "梁家驴996",
+            "uid": "117499"
+          },
+          "date": "2023-10-29",
+          "content": "已删除"
+        },
+        {
+          "id": "1221423",
+          "replier": {
+            "username": "Bestwish",
+            "uid": "88519"
+          },
+          "date": "2023-10-29",
+          "content": "不懂就别说话了"
+        }
+      ]
+    }
+  ]
+}

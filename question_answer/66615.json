@@ -1,0 +1,161 @@
+{
+  "parent_type": "question",
+  "parent_id": "66615",
+  "answer_count": 9,
+  "answers": [
+    {
+      "id": "742304",
+      "is_folded": false,
+      "answerer": {
+        "username": "Jerry84655",
+        "uid": "35222"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谷歌退出中国，简体中文搜索选项会被极易钓鱼和污染，我觉得跟还有大部人的搜索习惯有关\t\t</div>",
+      "date": "2024-04-20",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742354",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国机器人在各种网站乱留垃圾消息，谷歌，英国政府网站，日本网站都被污染<br/>\n傻逼谷歌又喜欢显示垃圾，搜一些不好搜的内容就给你显示这些\t\t</div>",
+      "date": "2024-04-20",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742367",
+      "is_folded": false,
+      "answerer": {
+        "username": "coro35",
+        "uid": "124695"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谷歌搜索不单中文垃圾。现在的英文搜索同样被Yandex吊打。\t\t</div>",
+      "date": "2024-04-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "773966",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这说明中国网站普遍防护差，被黑客灌进色情内容，方便黑客引流赚钱\t\t</div>",
+      "date": "2024-09-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "774043",
+      "is_folded": false,
+      "answerer": {
+        "username": "wce3f2xi",
+        "uid": "49662"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t几个原因，中文环境的机器人猖獗。不停注入垃圾广告至可以注入的任何网站，比如楼主的谷歌地图备注信息。<br/>\n<br/>\n外国公司管理中文环境不那么上心。<br/>\n<br/>\n我觉得前者60％，后者40％。<br/>\n<br/>\n确实利用unlock rule，把谷歌地图的污染去掉，就干净99％了。\t\t</div>",
+      "date": "2024-09-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "774077",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t0. <b>首先我的google沒有遇到這個問題，</b>樓主有遇到，可能是我們的google設置不一樣<br/>\n1. google有一個個人化搜尋設定，默認是開著的。如果google認為你對真實小姐有興趣而且你的個人化搜尋是開著的，google就會更傾向於推真實小姐給你。我的個人化搜尋是關閉的<br/>\n2. google可能會對不同地區用戶推送不同的答案。我已肉翻，通常喜歡保持google賬號登入狀態，賬號也沒設置成中國<br/>\n3. 搜索技術問題。比方說我想搜索日語的什麼什麼，但打漢字的話就會出來大量簡中垃圾，我就改成假名寫。以前沒有辦法分別繁中和簡中，google簡繁不分，只能通過加上tw來努力，現在好像好了，好久沒在繁中設定裡看到簡中了<br/>\n4. 中國真實小姐們惡意破壞。這個很罕見但我真的遇到過日本卡車業者的網站被注入中國真實小姐的簡中廣告的（負責如我當然有發email給他們告知，後續我就不清楚了）\t\t</div>",
+      "date": "2024-09-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742375",
+      "is_folded": false,
+      "answerer": {
+        "username": "衝浪TV",
+        "uid": "124941"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以使用Firefox擴展ublocklist在搜索引擎結果屏蔽指定網站<br/>\nhttps://addons.mozilla.org/zh-TW/firefox/addon/ublacklist/\t\t</div>",
+      "date": "2024-04-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742397",
+      "is_folded": false,
+      "answerer": {
+        "username": "左胶太多了",
+        "uid": "111667"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tgoogle搜索越来越烂了，还喜欢收集用户的数据。 改用Firefox+duckduckgo比较好。\t\t</div>",
+      "date": "2024-04-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "774001",
+      "is_folded": false,
+      "answerer": {
+        "username": "yuchon",
+        "uid": "112538"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t什么都能怪到<mark>支那</mark>头上是吧，明明是谷歌没有管控。要我说你也别用中文了，反正看到啥就是<mark>支那</mark>干的\t\t</div>",
+      "date": "2024-09-12",
+      "agree_count": -1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1289624",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-09-13",
+          "content": "谷歌中文是给谁承包的？\n难道不是你们\n支那猪\n在youtube删帖封号吗\n中文当然要用，不然怎么辱华\n台湾人也辱华，人家怎么用中文\n看你人在墙外，还不如不移民"
+        },
+        {
+          "id": "1289643",
+          "replier": {
+            "username": "yuchon",
+            "uid": "112538"
+          },
+          "date": "2024-09-13",
+          "content": "@洼地后觉:那你用什么简中啊，用繁中去。搞得好像老外没有黄色广告一样。还辱华呢，跟辱华有个屁关系"
+        },
+        {
+          "id": "1289644",
+          "replier": {
+            "username": "yuchon",
+            "uid": "112538"
+          },
+          "date": "2024-09-13",
+          "content": "@洼地后觉:话题都扯不懂你也别混葱了，说的是一码事吗，无脑辱的作风跟小粉红一样谁能待见你"
+        },
+        {
+          "id": "1289647",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-09-13",
+          "content": "为什么要用繁体中文\n用什么语言是自由，跟你有关系吗？\n别跑出去了思想认知还不如墙内人\n也不需要你的待见，本来就是个自由表达的平台\n还有，你热爱中文，你迟早变成间谍"
+        }
+      ]
+    }
+  ]
+}

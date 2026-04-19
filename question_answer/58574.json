@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "58574",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "657695",
+      "is_folded": false,
+      "answerer": {
+        "username": "萨格尔王吃冰棒",
+        "uid": "21463"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t估计是因为印度本来就处于一种碎片化的状态，润对于印度人而言并不是什么难以接受的事。<br/>\n<br/>\n而中国是大一统农耕帝国，无论是帝国特质还是农耕属性都抑制人润的欲望。\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1179705",
+          "replier": {
+            "username": "hl2008",
+            "uid": "106934"
+          },
+          "date": "2023-05-24",
+          "content": "东南亚人四处润的也少"
+        }
+      ]
+    },
+    {
+      "id": "657696",
+      "is_folded": false,
+      "answerer": {
+        "username": "hl2008",
+        "uid": "106934"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t感觉在移民观念上，东南亚人接近东亚人，黑人接近印度人，黑人也是大批大批移民西方发达国家；<br/>\n<br/>\n东南亚人却也非常安土重迁，东南亚11个国家，除了泰国外其他10个国家都是欧美的前殖民地，但你很少在英法美澳等国见到缅甸人，越南人，印尼人，马来人等族群……\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

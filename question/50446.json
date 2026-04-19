@@ -1,0 +1,56 @@
+{
+  "question_id": "50446",
+  "category_id": "1",
+  "title": "新浪微博目前没收了所有用户的转发键，发生了什么？",
+  "meta_description": "新浪微博目前没收了所有用户的转发键，发生了什么？ - 切换到最新的微博，或者在微博实时搜索“不能转发”，会发现最新发布微博转发键都变成了灰色，这是怎么回事？  在国内社交媒体截屏有风险，我就不截图了，有微博的葱友可以亲自验证一下",
+  "meta_keywords": "新浪,微博,目前,没收,用户,转发",
+  "tags": [
+    {
+      "id": "255",
+      "name": "新浪微博"
+    },
+    {
+      "id": "100434",
+      "name": "二十大"
+    }
+  ],
+  "author": {
+    "username": "blueballof",
+    "uid": "17808"
+  },
+  "view_count": 10130,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t切换到最新的微博，或者在微博实时搜索“不能转发”，会发现最新发布微博转发键都变成了灰色，这是怎么回事？<br/>\n<br/>\n在国内社交媒体截屏有风险，我就不截图了，有微博的葱友可以亲自验证一下\t\t\t\t\t\t\t</div>",
+  "date": "2022-10-11",
+  "agree_count": 3,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1021597",
+      "replier": {
+        "username": "wumingdaxia",
+        "uid": "17285"
+      },
+      "date": "2022-10-11",
+      "content": "请问为何截屏有风险？"
+    },
+    {
+      "id": "1021598",
+      "replier": {
+        "username": "blueballof",
+        "uid": "17808"
+      },
+      "date": "2022-10-11",
+      "content": "@wumingdaxia:有隐形的追踪码，截图需谨慎"
+    },
+    {
+      "id": "1021599",
+      "replier": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "date": "2022-10-11",
+      "content": "@wumingdaxia:没啥风险，转成 GIF再转成JPG质量百分之八十压缩一次就没水印了"
+    }
+  ],
+  "answer_count": 9
+}

@@ -1,0 +1,72 @@
+{
+  "parent_type": "question",
+  "parent_id": "58823",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "659935",
+      "is_folded": false,
+      "answerer": {
+        "username": "cong_guy",
+        "uid": "109295"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日本人知道你是外国人之后就不太在乎敬语了，日本很多规矩都是给本国人设置的，他们也知道外国人玩不来，也懒得管\t\t</div>",
+      "date": "2023-06-03",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "660260",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果是工作用的文件或者写邮件，这个确实很有用，不怕出错了。还好我工作中随便写他们也没说过什么，以后可以用用AI了。<br/>\n<br/>\n但是生活中的口语我也不会用，和日本人聊天也不在乎。能沟通就行了，我也懒得去学。\t\t</div>",
+      "date": "2023-06-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659904",
+      "is_folded": false,
+      "answerer": {
+        "username": "大音无声",
+        "uid": "108194"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tn那還是需要的，你説話不成還要打開手機電腦找AI幫忙？\t\t</div>",
+      "date": "2023-06-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659926",
+      "is_folded": false,
+      "answerer": {
+        "username": "kazami",
+        "uid": "75866"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不行最好还是系统学一下敬语体系别期待他给的答案都是对的，还有难道每天打开gpt转换一下再回答别人？\t\t</div>",
+      "date": "2023-06-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "660288",
+      "is_folded": true,
+      "answerer": {
+        "username": "永遠的零",
+        "uid": "107997"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-06-04",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

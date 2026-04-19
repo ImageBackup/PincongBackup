@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "63146",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "704626",
+      "is_folded": false,
+      "answerer": {
+        "username": "emisha",
+        "uid": "117515"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t手动安装lnmp/lamp啊<br/>\n你连有什么方法搞都不知道，不建议你弄。<br/>\n建站容易维护难\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704651",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你技术水平不行, 问出这种问题，就老老实实用docker😄<br/>\n<br/>\n技术问题永远是最简单的，问题是你要干嘛😄\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704627",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你隨便在telegram開個群不就可以了？費用全免\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

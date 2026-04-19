@@ -1,0 +1,85 @@
+{
+  "parent_type": "question",
+  "parent_id": "60425",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "675547",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t短期内不会，超导体无法做各种经典的门电路，替代半导体。<br/>\n长期不好说，有了超导体就可以做低成本超导量子计算机<br/>\n<br/>\n台积电不会消亡，光刻是人类掌握的加工精度最高的技术，超导体量子计算机肯定也离不开光刻，台积电是地球上光刻经验最丰富的公司，转型更容易\t\t</div>",
+      "date": "2023-08-01",
+      "agree_count": 13,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675805",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t对你的知识匮乏感到无语，超导体就是没有电阻和损耗的导体，就好比一个特别光滑的溜冰场，你在里面只要有初速度就可以一直滑行，不会自己停下来。这是是做电磁铁用的，比如，核磁共振的那个大圆筒，就是超导体，必须用液氮冷却才能达到超导体状态。<br/>\n<br/>\n半导体和超导体哪是一码事嘛！半导体是一种有单一方向性的导体或者是可以受控在导体和非导体状态之间切换的东西，这些东西才能组成各种逻辑电路。\t\t</div>",
+      "date": "2023-08-02",
+      "agree_count": 15,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675863",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你是不是以为超导比半导强一倍啊哈哈哈<br/>\n<br/>\n告诉你一个秘密，其实用新的超导加上一块板砖也就是绝缘，除以二就得到半导体台积电了\t\t</div>",
+      "date": "2023-08-02",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675802",
+      "is_folded": false,
+      "answerer": {
+        "username": "uprisimg",
+        "uid": "114356"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t實驗成功到商業使用中間需要長期的時間與大量的投資與研究，尤其是半導體產業本身就是走在世界的尖端，而且競爭激烈。對於這些本身擁有強大技術背景以及資金的公司，充其量就是轉能轉換而已。對於那些還在做五年、十年前技術水準的公司的影響可能比較大一些。\t\t</div>",
+      "date": "2023-08-02",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675846",
+      "is_folded": false,
+      "answerer": {
+        "username": "freedomofchina",
+        "uid": "111795"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t台积电好歹是当前芯片技术最强的公司，最强的都倒了其他不得全倒闭\t\t</div>",
+      "date": "2023-08-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675837",
+      "is_folded": false,
+      "answerer": {
+        "username": "問心",
+        "uid": "43432"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t半導體從理論提出，到現在的應用，花了多少年？<br/>\n而且台積電又不會閉門造車，他們也可以研發啊，<br/>\n說不定會有新東西呢。\t\t</div>",
+      "date": "2023-08-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

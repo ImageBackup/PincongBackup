@@ -1,0 +1,32 @@
+{
+  "question_id": "56405",
+  "category_id": "4",
+  "title": "为什么Status等匿名即时通讯不在反贼圈内流行？",
+  "meta_description": "为什么Status等匿名即时通讯不在反贼圈内流行？ - 众所周知，国内反贼的主流聊天软件是Telegram，包括【[b]白纸革命】[/b]等敏感活动都使用Telegram进行谋划。 然而，Telegram群聊【[b]没有加密】[/b]，端对端加密（E2EE）仅能在Secret Chat内使用，而群聊不支持该功能...",
+  "meta_keywords": "status,匿名,即时,通讯,不在,反贼,圈内,流行",
+  "tags": [
+    {
+      "id": "1993",
+      "name": "匿名"
+    },
+    {
+      "id": "3513",
+      "name": "telegram"
+    },
+    {
+      "id": "3660",
+      "name": "即时通讯"
+    }
+  ],
+  "author": {
+    "username": "clearlove_8964",
+    "uid": "101818"
+  },
+  "view_count": 5053,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t众所周知，国内反贼的主流聊天软件是Telegram，包括【<b>白纸革命】</b>等敏感活动都使用Telegram进行谋划。<br/>\n然而，Telegram群聊【<b>没有加密】</b>，端对端加密（E2EE）仅能在Secret Chat内使用，而群聊不支持该功能，且必须在【<b>手机App】</b>内才能开启。（手机从事敏感活动并不安全，除非你购买了Google Pixel等海外手机专门反共）<br/>\n没有E2EE意味着Telegram员工、数据中心所在地的执法机关、<b>【可能】</b>与Telegram合作的中国共产党【能】看见群聊与普通私聊的通讯内容。<br/>\n虽然在【群聊】中我们不会发送敏感信息，毕竟就算有加密，也防不住群员是晶哥。但接下来的问题比E2EE的缺乏更为严重：<br/>\n<br/>\n<center><b>Telegram注册需要【手机号】。</b><br/>\n<b>    </b>虽然使用虚拟号码可以缓解此类风险，但匿名性仍比Status这些免信息IM低。Google Voice想必反贼们都熟悉，可能不少人的Telegram就是用它注册的。然而，Google Voice注册门槛高，若是通过淘宝购买，卖家有办法找回你的GV号，且把你的实名身份与GV号关联起来。在安全领域内，信任的对象越少越好。若使用真实手机号，注册的那一刻政府即知道了你是Telegram用户。（Signal也有这个问题）<br/>\n<br/>\nstatus.im的注册不要求个人信息，且使用去中心化网络通信，默认启用端对端加密，但用户较少。若没有志同道合的组织，匿名性再好也啥也说不了。请诸位葱友解答，为何没人想过去匿名IM里建立社区，以及Telegram为何成为了反贼活动的首选软件？<br/>\n</center> </div>",
+  "date": "2023-02-26",
+  "agree_count": 1,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 1
+}

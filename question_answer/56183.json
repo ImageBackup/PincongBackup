@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "56183",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "631991",
+      "is_folded": false,
+      "answerer": {
+        "username": "支納粹",
+        "uid": "75589"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t像小學生在地上打滾哭鬧、要爸媽買東西給他。<br/>\n處理方法很簡單，無視他直接走開就會慌慌張張追過來了。\t\t</div>",
+      "date": "2023-02-18",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "631997",
+      "is_folded": false,
+      "answerer": {
+        "username": "尤瑟灰铁",
+        "uid": "73353"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t姨学家狂喜，中国人滚回黄河中下游地区，诸夏的好日子到来了\t\t</div>",
+      "date": "2023-02-18",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

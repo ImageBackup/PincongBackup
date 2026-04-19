@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "62300",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "694648",
+      "is_folded": false,
+      "answerer": {
+        "username": "又赢了",
+        "uid": "113086"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用brave浏览器，非常好用，而且自带tor，挂个梯子就能上了\t\t</div>",
+      "date": "2023-10-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "695191",
+      "is_folded": false,
+      "answerer": {
+        "username": "AsimovSolensan",
+        "uid": "117583"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其他浏览器能上是因为没有走tor网络, 或者说tor代理. 墙内我试过直接连tor是用不了的, 得用bridge, 你用的大概率是tor浏览器里内置的bridge, 可能是你的bridge被墙了, 换一个就好. tor有提供专门给中国网友的bridge服务器, tor官网有使用教程\t\t</div>",
+      "date": "2023-10-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

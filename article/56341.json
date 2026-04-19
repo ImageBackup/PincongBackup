@@ -1,0 +1,22 @@
+{
+  "article_id": "56341",
+  "category_id": "4",
+  "title": "如何隐藏你的踪迹，避免跨省追捕（扩展版本）",
+  "meta_description": "如何隐藏你的踪迹，避免跨省追捕（扩展版本） - 原文 https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html  本扩增版本基于编程随想大师的原文进行了一部分现代化扩增，增加了采取行动的简易性。  美国政府及其盟友...",
+  "meta_keywords": "隐藏,踪迹,避免,跨省,追捕,扩展,版本",
+  "tags": [
+    {
+      "id": "1993",
+      "name": "匿名"
+    }
+  ],
+  "author": {
+    "username": "DictatorDr_Xi",
+    "uid": "107789"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t原文<br/>\r\nhttps://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html<br/>\n<br/>\r\n本扩增版本基于编程随想大师的原文进行了一部分现代化扩增，增加了采取行动的简易性。<br/>\n<br/>\r\n美国政府及其盟友不是你的朋友，不要过于信任他们<br/>\n<br/>\n<br/>\r\n网络层面的防范<br/>\n<br/>\r\n对于一般浏览，对网速要求较高的情况下。采取编程随想的网关虚拟机加工作站虚拟机解决方案，不使用tor，在工作站的firefox浏览器中添加（ublock origin）（canvas blocker）（user agent switcher and manager）增强自己的抗指纹识别能力。进入browserleaks.com检查dns泄露与webrtc泄露情况，如有需要再次新增一个（disable webrtc）addons。不要访问墙内服务，除非在隐私窗口中临时访问。<br/>\n<br/>\r\n对于高风险浏览，比如你需要在网络上发言的时候。使用tails操作系统，并在tails（https://tails.boum.org/）启动前为你的电脑增加一个额外的路由共享设备，可以是一个路由器，也可以是一个有共享vpn功能的手机（linage操作系统有这功能，如果手机不能安装或没有自定义操作系统，则root并使用vpn hotspot应用程序进行共享（https://github.com/Mygod/VPNHotspot/releases））<br/>\r\n注意，这个手机必须是专用的访问境外势力的手机，上面最好什么也不要装，或者至少不要装国产软件。使用usb共享或以太网共享都可以。<br/>\r\n好了，你已经设置好了路由共享，启动tails并愉快的恶毒攻击党和国家领导人吧：）<br/>\n<br/>\r\n如果你不喜欢tails，可以去折腾一下whonix。whonix配置中文页面的输入法的过程不够傻瓜化，而且不利于快速销毁证据，所以推荐tails。<br/>\n<br/>\n<br/>\n<br/>\r\n软件层面的防范<br/>\n<br/>\r\n在tails中，不要安装任何额外的，不是自带的软件。这章主要给你各位一些扩展阅读的内容，比如https://www.kicksecure.com/<br/>\r\nhttps://github.com/Lissy93/awesome-privacy<br/>\n<br/>\r\n操作系统的防范<br/>\n<br/>\r\n销毁tails的最快方法是把装有tails的介质（u盘或sd卡或光盘）销毁，比如直接用锤子砸了，或放微波炉里辐射一下。<br/>\n<br/>\n<br/>\r\n通讯软件的防范<br/>\n<br/>\r\n考虑到中国人主流通讯软件是telegram，对于这个费拉软件，你要在虚拟机中使用它，风险等级为高。telegram有将用户数据交给政府的历史记录。对于手机号，你唯一的方案是在smspool，juicysms等一次性手机号网站中接码注册，注意不要失去带有telegram的虚拟机，不然你的telegram号就再也找不回来了。（扩增阅读：https://iyouport.substack.com/p/telegram-c2e）<br/>\r\n对于非敏感telegram活动，使用voip与美国节点注册，千万不要把数据放在data center 1 singapore（数据中心之新加坡）。不要使用任何实体手机卡注册，任何实体手机卡都不可避免地要经过基站，而基站在世界上的任何国家都是没有隐私性可言的。不推荐使用google voice，你不知道谷歌会不会出卖你，推荐使用https://jmp.chat/和https://crypton.sh/<br/>\n<br/>\r\n社会工程学的防范<br/>\n<br/>\r\n建议去https://storage.googleapis.com/qurium/iyouport.org/index.html    看看，这方面属于是师父领进门，修行靠个人。没有什么可多说的。<br/>\n<br/>\r\n各类服务的选择<br/>\n<br/>\r\n优先选择隐私友好的提供商，比如邮箱，很多人喜欢用gmail。殊不知，如果你使用gmail，那你的一举一动，就都暴露在美帝国主义的面前啦：（<br/>\r\n在https://github.com/Lissy93/awesome-privacy的收集中，你会看到很多。我就不再重复造轮子了。<br/>\n<br/>\r\n本文假设你的硬件没有遭到破坏，比如一个键盘记录器：（<br/>\n<br/>\r\n如果有新想到的内容，我会再写续章，如果没有，那就再见了：）\t\t\t\t\t\t\t</div>",
+  "view_count": 6867,
+  "date": "2023-03-26",
+  "agree_count": 9,
+  "comment_count": 8
+}

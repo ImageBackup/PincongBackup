@@ -1,0 +1,362 @@
+{
+  "parent_type": "question",
+  "parent_id": "64554",
+  "answer_count": 18,
+  "answers": [
+    {
+      "id": "719334",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t@心情不好 你记错了。<br/>\n<br/>\nSpaceX这个技术我一直很关注，马斯克和TMobile半正式宣布的时候我就讨论过。<br/>\n<br/>\n这个技术要运营商配合，把手机基站的某个频段让出来，给SpaceX，所以这个技术在中国大陆完全不可能落地，如果说星链还有可能偷偷摸摸直连卫星的话，这个技术在大陆，铁塔公司不配合，彻底用不了。<br/>\n<br/>\n另外这个需要SpaceX新版本卫星才能支持，好像新版本卫星现在在轨的是个位数，当然以星舰的发射速度，应该会很快普及就是。<br/>\n<br/>\n之外这个技术没记错的话，带宽非常有限，没记错的话马斯克在发布会原话是：“可以传输一些文字和消息，如果运气好可能能看不太大的图片”，语音通话我不记得有没有，好像是没有的。<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n如果对比华为Mate 60 Pro的话，双方特点是这样的：<br/>\n<br/>\n<br/>\n华为Mate 60 Pro能连的卫星，需要换手机，手机有这个功能才可以；SpaceX不用换手机就能直连。<br/>\n华为Mate 60 Pro连卫星要对准方向，SpaceX“可能”不用<br/>\n华为Mate 60 Pro是标准的卫星电话，能通话、短信。上网现在套餐未开放，但是资费标准已经制定，我的理解是功能上支持上网，但是暂时没开放，看套餐，流量非常贵，我瞎猜一个，可能是和早期的GPRS一样，走短信通道实现数据连接，对带宽占用比较大。SpaceX正相反，是一个标准的数据连接，但是带宽很低，所以用来通话可能效果不好。估计后期两者都会弥补自己的短板<br/>\n华为Mate 60 Pro的基础费用是10元/月，10元/分钟通话，这个价格非常低了，SpaceX的费用我估计不太会比它便宜甚至类似价位，当然也是个人瞎猜。<br/>\n华为Mate 60 Pro连接的天通卫星带宽有限，而且只覆盖东亚，不过在哪里都能用，你买一部去台湾日本新加坡也可以用，SpaceX覆盖全球，但是*必*需*当地要有运营商落地才能使用，当然在没有手机信号的地方也可以随便用。<br/>\n<br/>\n从功能定位来说，华为Mate 60 Pro的卫星功能定位就是：应急。我感觉SpaceX也是，至于应急的时候是通话功能更重要还是数据连接更重要，就见仁见智了。使用的费用还是不低的，所以短期内都不太会普遍铺开，还是以应急为主\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 7,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1237918",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2024-01-11",
+          "content": "帖子确实翻不到了，我记得华为mate60出来以后，有个讨论卫星通话的帖子，我大概意思是说他只能通话不能上网，提供的信息不足以让搜救人员来营救。我当时认为星链是可以直接手机端上网的，你说星链也不行，需要配接收设备才可以。大概就是这个意思，你没印象了吗"
+        },
+        {
+          "id": "1237923",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-01-11",
+          "content": "@心情不好: 我没印象了。\n但是我说的很清楚，SpaceX这个技术出来第一时间我就关注了，我从头至尾对它的态度都是一样的，对它的认知也是一样的，就是我上面说的。\n你如果对比华为Mate 60 Pro的话，双方特点是这样的：\n华为Mate 60 Pro能连的卫星，需要换手机，手机有这个功能才可以；SpaceX不用换手机就能直连。\n华为Mate 60 Pro连卫星要对准方向，SpaceX“可能”不用\n华为Mate 60 Pro是标准的卫星电话，能通话、短信。上网现在套餐未开放，但是资费标准已经制定，我的理解是功能上支持上网，但是暂时没开放，看套餐，流量非常贵，我瞎猜一个，可能是和早期的GPRS一样，走短信通道实现数据连接，对带宽占用比较大。SpaceX正相反，是一个标准的数据连接，但是带宽很低，所以用来通话可能效果不好。估计后期两者都会弥补自己的短板\n华为Mate 60 Pro的基础费用是10元/月，10元/分钟通话，这个价格非常低了，SpaceX的费用我估计不太会比它便宜甚至类似价位，当然也是个人瞎猜。\n华为Mate 60 Pro连接的天通卫星带宽有限，而且只覆盖东亚，不过在哪里都能用，你买一部去台湾日本新加坡也可以用，SpaceX覆盖全球，但是*必*需*当地要有运营商落地才能使用，当然在没有手机信号的地方也可以随便用。\n从功能定位来说，华为Mate 60 Pro的卫星功能定位就是：应急。我感觉SpaceX也是，至于应急的时候是通话功能更重要还是数据连接更重要，就见仁见智了。使用的费用还是不低的，所以短期内都不太会普遍铺开，还是以应急为主"
+        },
+        {
+          "id": "1237924",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2024-01-11",
+          "content": "@心情不好:现在又没有模拟信号了，数字信号走什么协议完全是软件方面的事。上网是HTTP协议，通话也是VOIP走SIP之类的协议，通话和上网本来就是一回事。天下无贼应该不会说出只能通话不能上网这种没常识的话。"
+        },
+        {
+          "id": "1237925",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-01-11",
+          "content": "@李瑞环: 不一定，也许我说的是“不能上网”是指“没有上网套餐”，目前可以办理的天通套餐确实没有带网络的。带网络的套餐很贵不说，只有套餐不能办理。"
+        },
+        {
+          "id": "1237929",
+          "replier": {
+            "username": "汉口市长",
+            "uid": "113634"
+          },
+          "date": "2024-01-11",
+          "content": "全品葱兄弟每人给十万，啥时候能兑现？网络是有记忆的"
+        },
+        {
+          "id": "1237931",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-01-11",
+          "content": "@汉口市长: 这个我也记得呢，我记得是说要等我中了千万大奖吧！？"
+        }
+      ]
+    },
+    {
+      "id": "719291",
+      "is_folded": false,
+      "answerer": {
+        "username": "苍天有井",
+        "uid": "101638"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t“开门！开门！社区排查！<br/>\n老实交代，你是不是在收听敌台？<br/>\n把这小子家里给我翻个底朝天，一个手机可好藏了，千万别漏过了！<br/>\n哟，这4090不错，你是不是用来违法交易虚拟货币了？<br/>\n小张，你把那显卡拿上，咱们打游戏...哦，不...搞革命工作要用。”\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 20,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719295",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国共产党利用技术手段阻止马列子孙的奴隶访问国际互联网目的是维持奴隶社会关系。当技术进步威胁到中国境内的社会关系，奴隶的奴隶意识开始动摇，主张废奴的中国共产党走资派与主张蓄奴的中国共产党保皇派之间的矛盾不可调和，不可避免引爆中国式南北战争。\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 13,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719298",
+      "is_folded": false,
+      "answerer": {
+        "username": "grantyang",
+        "uid": "6190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这下华为的垃圾玩意变成一派忽悠：SpaceX 的StarLink 卫星直接从天空向地面发射无线电波并直接接收普通手机微弱的电波信号，美国手机供应商 T-Mobile 2024年将开始文字通讯，各国参与供应商包括澳洲都将紧跟，报道见：<a href=\"url/link/aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vdGVjaC1wb2xpY3kvMjAyNC8wMS9zcGFjZXgtbGF1bmNoZXMtZmlyc3Qtc3Rhcmxpbmstc2F0ZWxsaXRlcy10aGF0LXdpbGwtd29yay13aXRoLXQtbW9iaWxlLXBob25lcy8\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://arstechnica.com/tech-policy/2024/01/spacex-launches-first-starlink-satellites-that-will-work-with-t-mobile-phones/\">https://arstechnica.com/tech-policy/2024/01/spacex-launches-first-starlink-satellites-that-will-work-with-t-mobile-phones/</a> </div>",
+      "date": "2024-01-11",
+      "agree_count": 10,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719289",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t@天下无贼  你以前给我科普过手机做不到，现在解释一下\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 12,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719302",
+      "is_folded": false,
+      "answerer": {
+        "username": "gameboyxx",
+        "uid": "82367"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没影响，除非绑架了马一龙全家，否则他绝对不会在天朝开放星链。\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1238047",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2024-01-11",
+          "content": "绑架Tesla 上海工厂足够了"
+        }
+      ]
+    },
+    {
+      "id": "719300",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果十四亿奴隶有助于马斯克上火星，那么马斯克是会帮着维稳的。<br/>\n<br/>\n但是共产党现在告诉大家，十四亿奴隶没有能力帮马斯克上火星。\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719329",
+      "is_folded": false,
+      "answerer": {
+        "username": "Dk2s",
+        "uid": "30315"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t真的假的<br/>\n<br/>\n手机直连就是衛星和手機之間無任何中介<br/>\n<br/>\n地面4G訊號到了對流層很弱吧<br/>\n<br/>\n更別提可被衛星 定位 (這怎麼搞 我想不出來) 和  接收<br/>\n如果都可以<br/>\n那網速衰弱到有多慢  比56k撥接慢吧\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719301",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t等星艦成功的時候，完整版本的星鏈2代衛星上天，可以直接手機上網了。\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719292",
+      "is_folded": false,
+      "answerer": {
+        "username": "齁了",
+        "uid": "120222"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在vpn三个字可以在b站搜到了，之前也上架了国内苹果商店，现在不知道还有没有了。\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1237958",
+          "replier": {
+            "username": "三分归晋",
+            "uid": "106762"
+          },
+          "date": "2024-01-11",
+          "content": "这说明了什么？在美国的高压下，共党想通了打算放开局域网了是吗？"
+        },
+        {
+          "id": "1237997",
+          "replier": {
+            "username": "齁了",
+            "uid": "120222"
+          },
+          "date": "2024-01-11",
+          "content": "@三分归晋:不知道，但是我不觉得高压会让中国更开放，高压只会让人更保守"
+        },
+        {
+          "id": "1238074",
+          "replier": {
+            "username": "跑步进入共惨主义",
+            "uid": "115556"
+          },
+          "date": "2024-01-12",
+          "content": "试了一下还真是"
+        }
+      ]
+    },
+    {
+      "id": "719557",
+      "is_folded": false,
+      "answerer": {
+        "username": "flicker_free",
+        "uid": "98663"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t2023年就已经有starlink发射的卫星携带了手机模块进行卫星-手机直连测试。当时我记得还有人不相信手机能直连starlink卫星，说什么手机功耗不行还是卫星不行。<br/>\n<br/>\nstarlink最厉害的一点就是spaceX发射部署迅速有效，这样就能配合卫星快速迭代，卫星也是模块化设计，搭载不同的载荷来实现或扩展功能。<br/>\n<br/>\n假如这次搭载的是GPRS模块，未来就能搭载4G lte模块。\t\t</div>",
+      "date": "2024-01-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719545",
+      "is_folded": false,
+      "answerer": {
+        "username": "山本一夫",
+        "uid": "9796"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t支国地区可能用不了，马斯克也不可能对支国开放\t\t</div>",
+      "date": "2024-01-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719527",
+      "is_folded": false,
+      "answerer": {
+        "username": "pc1225",
+        "uid": "79654"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看到的报道说星链前期目标是短信，后期会向语音和上网方向发展\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719305",
+      "is_folded": false,
+      "answerer": {
+        "username": "撸王",
+        "uid": "121157"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t天朝手机出厂设定应该都可以屏蔽这个信号吧，有没有懂这方面技术的人科普一下。\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719308",
+      "is_folded": false,
+      "answerer": {
+        "username": "葱花蛋汤",
+        "uid": "117702"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t手机4g信号那么弱怎么可能实现双向，还要语音，这 太不可思议了\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719309",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想要技术分析就给你来一波.<br/>\n<br/>\n如果马斯克开放, 那办法就是探测手机端信号发射, 派几架飞机在空中收集相关频段的电波, 用三角定位, 精度不高, 需要配合摄像头进行过滤筛查. 或者在马路街道附近安装固定探测装置, 在这个频段的设备成本很高. <br/>\n<br/>\n当然, 还有就是干扰这个频段的信号, 自己也别用了呗. 可以用已有的基站进行干扰, 前提是天线支持, 而且可以刷系统加功能的话. 些民用通信技术, 抗干扰能力并不强. CDMA会好些, 不知道星链有没有.\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719353",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t”这才是创新“，这句评得好。狠狠打脸中国人和老共各种吹牛逼，大忽悠。\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719356",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以我有限的常識說，商用可能性不大<br/>\n<br/>\n短波高頻率，長波低頻率，長波攜帶信息密度低，所以低頻寬，穿透力強；短波相反，攜帶信息密度高，所以高頻寬，穿透力弱<br/>\n<br/>\n實際受天氣和樓宇結構影響很大，太空如果要發射巨量輻射，可能要靠太陽能吧，高空能量轉換效率應該是很高的\t\t</div>",
+      "date": "2024-01-11",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1237939",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-01-11",
+          "content": "马斯克说了，靠大天线，所以2.0的星链卫星比原来大了好多"
+        },
+        {
+          "id": "1238048",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-01-11",
+          "content": "@天下无贼:接收器天线还是太小了"
+        },
+        {
+          "id": "1238064",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-01-12",
+          "content": "@rowlandheights: 一力降十会，spacex还是做出来了😁"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "56552",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "636916",
+      "is_folded": false,
+      "answerer": {
+        "username": "漫漫人生路",
+        "uid": "108382"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t咖啡是上癮飲品，因為裡面有咖啡因。  題主查查，咖啡因是上癮化學物質\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1159819",
+          "replier": {
+            "username": "Aizen",
+            "uid": "105799"
+          },
+          "date": "2023-03-05",
+          "content": "好吧，这个因素确实没了解。不过这样解释也还是怪怪的，上瘾是流行的一个原因，哈哈。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "parent_type": "question",
+  "parent_id": "57702",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "649080",
+      "is_folded": false,
+      "answerer": {
+        "username": "打土共分兰兰",
+        "uid": "89718"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t需要的是批量的账号+IP+手机号才行，内容目前不是最大的瓶颈\t\t</div>",
+      "date": "2023-04-18",
+      "agree_count": 8,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1171114",
+          "replier": {
+            "username": "jsfdhjdshghg",
+            "uid": "73263"
+          },
+          "date": "2023-04-18",
+          "content": "海外手机号可以无限获取，只是不知道能不能投稿"
+        }
+      ]
+    },
+    {
+      "id": "649082",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t网警也会使用AI审核内容…<br/>\n<br/>\n二十个字二十个字二十个字\t\t</div>",
+      "date": "2023-04-18",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1171108",
+          "replier": {
+            "username": "维尼包子",
+            "uid": "95045"
+          },
+          "date": "2023-04-18",
+          "content": "看谁al更高级了😆"
+        }
+      ]
+    },
+    {
+      "id": "649102",
+      "is_folded": false,
+      "answerer": {
+        "username": "BUG",
+        "uid": "110890"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实冲塔最大的问题的是如何大量获取小号而非内容，所以AI冲塔需要一个自动注册小号发帖的脚本配合创作冲塔内容的AI。\t\t</div>",
+      "date": "2023-04-18",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649098",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不仅增加王晶和审核压力，也可以降低AI学习素材准确性，积累个几年，AI就走下神坛了……\t\t</div>",
+      "date": "2023-04-18",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "649100",
+      "is_folded": false,
+      "answerer": {
+        "username": "反共先锋",
+        "uid": "88784"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不能，你的脑袋也是不清不楚，如果AI能用来上传，那么AI就能用来审核。<br/>\n搞老共要靠人脑。\t\t</div>",
+      "date": "2023-04-18",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1171113",
+          "replier": {
+            "username": "jsfdhjdshghg",
+            "uid": "73263"
+          },
+          "date": "2023-04-18",
+          "content": "chatgpt自己已经识别不出自己生成的内容，也没有任何模型可以识别chatgpt生成的内容"
+        },
+        {
+          "id": "1277340",
+          "replier": {
+            "username": "Farewell",
+            "uid": "123654"
+          },
+          "date": "2024-07-15",
+          "content": "AI不能确定的需要人工审核"
+        }
+      ]
+    },
+    {
+      "id": "649074",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t难怪最近学习强国PK老是刷到内容阴阳怪气的题目，原来是影射习近平思想毫无意义。\t\t</div>",
+      "date": "2023-04-18",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "761008",
+      "is_folded": false,
+      "answerer": {
+        "username": "Farewell",
+        "uid": "123654"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以。AI可以审核，但是AI有无法确定的。那些无法确定的需要人工审核。\t\t</div>",
+      "date": "2024-07-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

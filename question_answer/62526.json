@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "62526",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "697337",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那次75万样本被玩data science的人拣去做了个分析<br/>\n<br/>\n从年龄分布表来看 成年人以及老年人的人口数值跟你匪官方公布的年龄分布相同 而18岁以下几乎没有<br/>\n估计是18岁以下还没被纳入身份证统计\t\t</div>",
+      "date": "2023-10-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697324",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看不懂这个问题，人口普查再不靠谱也比你自己瞎琢磨的强。<br/>\n<br/>\n身份资料指什么，身份证户口本？中国个人实际地址是很难追查的，无论泄露什么资料，也不会比人口普查报告更靠谱。\t\t</div>",
+      "date": "2023-10-15",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1216981",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-10-16",
+          "content": "你没看过那条新闻吗？我想知道各省有多少人口"
+        }
+      ]
+    }
+  ]
+}

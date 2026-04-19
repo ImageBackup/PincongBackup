@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "63465",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "707252",
+      "is_folded": false,
+      "answerer": {
+        "username": "习近平的裤子",
+        "uid": "100552"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你怎么天天问问题但又没自己思考，你没长脑子吗\t\t</div>",
+      "date": "2023-11-22",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1227292",
+          "replier": {
+            "username": "游客",
+            "uid": "103299"
+          },
+          "date": "2023-11-22",
+          "content": "你怎么天天喷粪但又不回答，你没长脑子吗"
+        }
+      ]
+    },
+    {
+      "id": "707262",
+      "is_folded": false,
+      "answerer": {
+        "username": "香港廢青",
+        "uid": "11946"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是共產主義國家自己制造飢餓和各種災難去打敗自己，就像純粹的資本主義為了賺錢願意向敵人賣出吊死自己的繩索一樣。兩者都是同一個道理，制度本質有缺陷，如果不修正，最終會搞死自己。\t\t</div>",
+      "date": "2023-11-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "58359",
+  "category_id": "10",
+  "title": "如何在品葱提出一个可以有很多回复的问题？",
+  "meta_description": "如何在品葱提出一个可以有很多回复的问题？ - ",
+  "meta_keywords": "何在,品葱,提出,一个,很多,回复,问题",
+  "tags": [
+    {
+      "id": "153",
+      "name": "品葱"
+    }
+  ],
+  "author": {
+    "username": "hairlessness",
+    "uid": "103852"
+  },
+  "view_count": 2443,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2023-05-15",
+  "agree_count": 1,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1038965",
+      "replier": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "date": "2023-05-15",
+      "content": "像我一样开脑洞啊"
+    },
+    {
+      "id": "1038967",
+      "replier": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "date": "2023-05-15",
+      "content": "要么“值得讨论”要么“值得挨骂”"
+    }
+  ],
+  "answer_count": 7
+}

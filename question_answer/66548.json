@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "66548",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "740511",
+      "is_folded": false,
+      "answerer": {
+        "username": "洗脚盆74",
+        "uid": "126184"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t快了，虽然印度不一定会进步，但是<mark>支那</mark>会倒退啊。\t\t</div>",
+      "date": "2024-04-13",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1257098",
+          "replier": {
+            "username": "洗脚盆74",
+            "uid": "126184"
+          },
+          "date": "2024-04-13",
+          "content": "不过独裁政府可以一直虚报数据，玩肥猪赛大象。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "59442",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "665924",
+      "is_folded": false,
+      "answerer": {
+        "username": "中南海大学士",
+        "uid": "110080"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国的税收都是不透明的, 所以普通人根本不知道他们花了一生积蓄买的房所花费的钱究竟被谁拿走, 一旦烂尾或者是无力偿还房贷 只能是怪开发商 资本家\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "665824",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t任志强？2014年？你水贴不看时间和人的吗？懒得回答了\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1187605",
+          "replier": {
+            "username": "liangxinge666",
+            "uid": "112256"
+          },
+          "date": "2023-06-28",
+          "content": "现在刚好大面积的烂尾楼，刚好是适合。"
+        }
+      ]
+    },
+    {
+      "id": "665823",
+      "is_folded": true,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t博弈論談的是多節點去中心化的系統，有利於整體利益最大化。而中國社會是單節點，中心化的系統，例如crypto到了中國竟變成中心化貨幣。由於實際情況太複雜，單節點的系統顯然不可能考慮到所有變數並訂立一個全域最佳的方案，而中國社會並不願意放權讓人均匀博弈<br/>\n<br/>\n有點像海洋法（英美習慣法）和大陸法（羅馬成文法）的差異，前者放權讓法官因地制宜有更大的判案自主權，更適合海盜型國家<br/>\n<br/>\n爛尾是單節點系統之必然\t\t</div>",
+      "date": "2023-06-28",
+      "agree_count": -3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

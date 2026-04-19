@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "61225",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "683359",
+      "is_folded": false,
+      "answerer": {
+        "username": "钟鸣",
+        "uid": "24445"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t购买二手房贷款要比买一手房难得多，二手房就算降价，大多数人也还是没有能力全款买的\t\t</div>",
+      "date": "2023-08-26",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "683361",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t朕以前也有類似疑問，好像是銀行批按揭款的問題\t\t</div>",
+      "date": "2023-08-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "683373",
+      "is_folded": false,
+      "answerer": {
+        "username": "hashirara",
+        "uid": "115575"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t新房比二手房便宜所以你买二手？所以你的价值观是什么？买古董吗？\t\t</div>",
+      "date": "2023-08-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

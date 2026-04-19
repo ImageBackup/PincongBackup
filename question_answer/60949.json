@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "60949",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "680727",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛澤東有性病",
+        "uid": "20469"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有14億肉身不會反抗的肉娃娃<br/>\n<br/>\n嘴上批評，身體非常誠實的支持\t\t</div>",
+      "date": "2023-08-17",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "680723",
+      "is_folded": true,
+      "answerer": {
+        "username": "铁甲小驴",
+        "uid": "111516"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-08-17",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "680696",
+      "is_folded": true,
+      "answerer": {
+        "username": "moby2046",
+        "uid": "98917"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-08-17",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1200548",
+          "replier": {
+            "username": "游客",
+            "uid": "103299"
+          },
+          "date": "2023-08-17",
+          "content": "这下蒋介石2.0了"
+        }
+      ]
+    }
+  ]
+}

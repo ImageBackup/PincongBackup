@@ -1,0 +1,108 @@
+{
+  "parent_type": "question",
+  "parent_id": "67434",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "749287",
+      "is_folded": false,
+      "answerer": {
+        "username": "flicker_free",
+        "uid": "98663"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t疯了吧？华为的产品，一个都不要买，一个都不要用。<br/>\n<br/>\n运营商的网络设施用华为，你没得选，但是自己的路由器、上网卡、手机、电脑，总还是要选择安全保靠的品牌！<br/>\n<br/>\n华为的这些产品，全都内置上网黑名单，我测试过才发现的。以前用过一个华为的4G WIFI，还没插上网sim卡，开机测试一下，然后手机连上这个WIFI之后，打开浏览器之后想开启设置页面，结果浏览器里原来就开启着的“新加坡联合早报”页面先刷新了，弹出了提示说“此页面存在风险，请尽快关闭”之类的话，新加坡联合早报有个屁的风险啊，iPhone手机内置的safari浏览器打开这个联合早报从来都很正常，而且最关键是这时候这个4G WIFI都还没有插卡，没有联网啊！！！<br/>\n<br/>\n<br/>\n既然都内置了上网黑名单，你猜里面还会不会顺便内置了审查、上报、监控的功能？？？\t\t</div>",
+      "date": "2024-05-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749187",
+      "is_folded": false,
+      "answerer": {
+        "username": "zpt888",
+        "uid": "129255"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不安全，现在所谓的路由器都有手机远程管理功能，而这一功能是通过路由器厂商的服务器来中转的，要实现这一功能，路由器就必须和厂商的服务器实时握手传输信息，鉴于国内厂商都有偷窥保留用户信息隐私的嗜好，所以我个人觉得不安全，最好的办法是买支持刷openwrt的路由器，另外openwrt也要自己编译(别人编译的可有不安全的风险)\t\t</div>",
+      "date": "2024-05-22",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749189",
+      "is_folded": false,
+      "answerer": {
+        "username": "少伦少瓜子脸",
+        "uid": "85023"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t买华为就等于把老大哥的眼睛买回家了，不要命了\t\t</div>",
+      "date": "2024-05-22",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749185",
+      "is_folded": false,
+      "answerer": {
+        "username": "woganni122",
+        "uid": "129405"
+      },
+      "contents": "<div class=\"markitup-box\">\n<ol><li>任何国产的都有监控</li>[li 1]国内产的<b>苹果手机</b>也有[/li]<li>有条子24小时盯着</li></ol> </div>",
+      "date": "2024-05-22",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1266744",
+          "replier": {
+            "username": "flyfighter",
+            "uid": "97040"
+          },
+          "date": "2024-05-22",
+          "content": "苹果就扯淡了，中国都不生产，只是富士康组装，组装一部手机就赚几美元，然后还要研究电路板配置，装上间谍芯片（这芯片大概率也得美国设计），重构苹果系统，且一拆机就露馅成为国际新闻，最难绷的是，富士康还是台湾的，最近都撤出大陆了"
+        }
+      ]
+    },
+    {
+      "id": "749280",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t华为的玩意在美国政府都是禁用的，你说安不安全呢？\t\t</div>",
+      "date": "2024-05-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749193",
+      "is_folded": false,
+      "answerer": {
+        "username": "多倫多方脸",
+        "uid": "126422"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t老安全了，你就用吧，一用一个不吱声<br/>\n加油华为 加油china\t\t</div>",
+      "date": "2024-05-22",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749183",
+      "is_folded": false,
+      "answerer": {
+        "username": "初级2de",
+        "uid": "123418"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不知道欸，不过我用的移动的随身wifi呢，不知道会不会被查\t\t</div>",
+      "date": "2024-05-22",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

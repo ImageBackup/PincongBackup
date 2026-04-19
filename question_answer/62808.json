@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "62808",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "700619",
+      "is_folded": false,
+      "answerer": {
+        "username": "矢作萌夏",
+        "uid": "29415"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttp://politics.people.com. cn/n1/2023/1027/c1001-40104565.html<br/>\n<br/>\n网上还都挂着呢 没撤\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1220229",
+          "replier": {
+            "username": "矫枉必须过正",
+            "uid": "36965"
+          },
+          "date": "2023-10-26",
+          "content": "我刚刚搜百度热搜也有了，可能是刚发的时候要调整吧"
+        }
+      ]
+    }
+  ]
+}

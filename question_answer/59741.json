@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "59741",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "668844",
+      "is_folded": false,
+      "answerer": {
+        "username": "尤里X",
+        "uid": "50565"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你包的支持率还是250%，这并不妨碍照样有人在公交车上对他骂娘。\t\t</div>",
+      "date": "2023-07-08",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "668842",
+      "is_folded": false,
+      "answerer": {
+        "username": "putintheking",
+        "uid": "83455"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t政变是统治集团内部的斗争，和民众支持率有什么关系，希特勒的战时支持率和普京差不多吧，还不是一样差点被刺杀\t\t</div>",
+      "date": "2023-07-08",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1190274",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-07-08",
+          "content": "希特勒比普京强的多，希特勒等于列宁加斯大林，合法性比斯大林还高，普京只是威权强人，比弗朗哥和皮诺切特还差，也就蒋介石在大陆的情况罢了"
+        }
+      ]
+    }
+  ]
+}

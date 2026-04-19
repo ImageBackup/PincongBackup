@@ -1,0 +1,689 @@
+{
+  "parent_type": "question",
+  "parent_id": "60692",
+  "answer_count": 20,
+  "answers": [
+    {
+      "id": "678198",
+      "is_folded": false,
+      "answerer": {
+        "username": "wce3f2xi",
+        "uid": "49662"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不得不说品葱的诸位有点幼稚。<br/>\n<br/>\n你们懂翻墙，已经超越了99%的中国人。所以新政下，你们仍然能想法下载到想要的应用。<br/>\n<br/>\n但对普通人，就不是这么回事了。<br/>\n<br/>\n我自己的国内公司，已经接收到了华为应用商店要求的，要我们的app进行备案的通知。<br/>\n<br/>\n这个代表，这种备案，又会删掉一批没有能力能通过备案的开发者。<br/>\n<br/>\n这样，普通百姓能用到的app种类，就又受到了更多的限制。<br/>\n<br/>\n--------<br/>\n结局就是：尽管政府不能完全控制诸位手机上的应用列表，但通过app备案，可以尽量让绝大多数人，能在华为，小米，vivo应用商店下载到的应用，都是它允许的。<br/>\n<br/>\n这样，已经可以让99%的中国人，在某种程度上只能用它允许的app。<br/>\n<br/>\n你们这种1%的，会翻墙，会捣鼓的，目前并不在政府的考虑之内。<br/>\n<br/>\n成本 vs 产出，永远是政府的考量。\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 37,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1198388",
+          "replier": {
+            "username": "rqgd2022",
+            "uid": "91261"
+          },
+          "date": "2023-08-10",
+          "content": "大哥，真厉害，您国内公司还缺人吗，俺去找份工作"
+        },
+        {
+          "id": "1198399",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-10",
+          "content": "确实幼稚死了，一堆人大惊小怪。。。备案的是app又不是手机，能通过非官方途径下载的依然没问题"
+        },
+        {
+          "id": "1198546",
+          "replier": {
+            "username": "zhongguojiayou",
+            "uid": "101424"
+          },
+          "date": "2023-08-11",
+          "content": "问题是直接禁止没有备案app联网"
+        },
+        {
+          "id": "1198565",
+          "replier": {
+            "username": "wce3f2xi",
+            "uid": "49662"
+          },
+          "date": "2023-08-11",
+          "content": "@zhongguojiayou:这个具体得看细节，首先，如果某软件本身就完全不用网，那就不用担心联网这一块。不过这种app很少。\n其次，如果软件要连到某些云资源，例如阿里云的某些服务器。那确实可能政府可以强制要求，让阿里云实施某些限制，让没有通过app认证服务的应用，不能连到阿里云的资源。\n理论上来说，如果你的应用，用的是外国的云资源，或者是自己本身设的服务器。跟云服务器没关系。可以绕开。\n但从现实角度讲，由于墙的存在，还有各种各样别的问题。\n确确实实，政府的这个app备案，以及要求云服务商提供限制措施。可以影响到基本上所有不听党话的app。\n影响程度看两个地方：一看平台方，例如华为i应用平台实施的严不严。  二看云服务方，看他们是应付了事，还是真做了不少措施去做这种类似白名单的事。\n平台方（华为，小米应用平台），和云服务方（腾讯云，阿里云），其实都非常讨厌这些限制，他们天生是反对的。少赚钱嘛。 要看他们和政府之间的博弈了。\n但我举个例子，游戏版号这个事，一开始平台方睁一只眼闭一只眼，最后什么结果也看到了。全面实施了。"
+        },
+        {
+          "id": "1198597",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-08-11",
+          "content": "岛上人数还是挺多的"
+        },
+        {
+          "id": "1198643",
+          "replier": {
+            "username": "毛病导致恶习",
+            "uid": "104995"
+          },
+          "date": "2023-08-11",
+          "content": "你对国内的翻墙能力可能有些悲观了，中国在疫情爆发前有1.9亿的人有护照，即使没有护照也有很多人会找翻墙才能玩的网络游戏，还有大量色情片的观众会翻墙，毕竟很多热门色情网站也是屏蔽对象。我想那么多有护照的人和其他有现实需求的人应该可能凑出近亿人有翻墙能力。当然你要是说翻墙出来看被党国黑历史、新闻媒体和政论YouTuber的，那肯定少于1%的网民，但是这个数字自去年以来应该呈增加状态，毕竟糟心事太多而中共又愈发不负责任不要脸。"
+        },
+        {
+          "id": "1198669",
+          "replier": {
+            "username": "wce3f2xi",
+            "uid": "49662"
+          },
+          "date": "2023-08-11",
+          "content": "@Paisuan:翻墙人如果比我估计的1%多，那当然是好事。不过我说的1%，指的是经常翻墙使用的用户。而不是偶尔翻一次随便玩玩的，这种和没翻墙也没区别。\n不过，有2点要注意。1：墙越来越难翻了。以前随意一个vpn就行，自己建也可以。但走vpn的流量，很容易被GFW识别。所以现在传统的vpn翻墙，越来越难，基本建一个就马上被封一个。 必须得用机场（就是用的https 伪装成前往某网站的流量）。\n2. 生态圈，app备案，就是个弱化版的app白名单。政府主要打击的不是用户，是开发这些软件的开发者。当开发者面临的审核门槛越来越高，那存活下来的就越来越少。而且像大公司靠拢。\n所以，这种弱化版的app白名单，必然慢慢导致国内好用的中文应用越来越少。但这个是几年的过程，潜移默化的，普通人手里的应用列表，就变得越来越保守，越来越弱智，越来越听党话。\n这样就无解了，翻墙得人是可以下载到不受限制得应用。不过，连中文做app得源头开发者都改行了，那即使你可以翻墙，又哪里下载的到你想要的应用呢？\n除非你不用中文了，全部用西方环境下的应用，但我相信中国人能做到这个的几乎没有。如果能做到，也就不是中国人了。"
+        },
+        {
+          "id": "1199222",
+          "replier": {
+            "username": "包帝千古",
+            "uid": "86720"
+          },
+          "date": "2023-08-12",
+          "content": "如果支共考虑成本vs产出，哪来的一堆烂尾和千年大计"
+        }
+      ]
+    },
+    {
+      "id": "678027",
+      "is_folded": false,
+      "answerer": {
+        "username": "tq0826u",
+        "uid": "106782"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t后台无法得知通信协议来自哪个app，技术层面办不到，有种就开白名单<br/>\n影响不过是台面上的sbeam加速器等软件要消失<br/>\n继续加速，等着丫被拖出地道的那天\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 18,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1198068",
+          "replier": {
+            "username": "后入习大大",
+            "uid": "82928"
+          },
+          "date": "2023-08-10",
+          "content": "直接在手机里面控制就好了，通信域名和备案号进行检查。"
+        },
+        {
+          "id": "1198072",
+          "replier": {
+            "username": "近平摔进悬崖",
+            "uid": "113146"
+          },
+          "date": "2023-08-10",
+          "content": "好死，早该杀杀了，我早看那帮STEAM红色纳粹不顺眼了，这样封杀之后再也不看不见啦"
+        },
+        {
+          "id": "1198383",
+          "replier": {
+            "username": "Onioner",
+            "uid": "1105"
+          },
+          "date": "2023-08-10",
+          "content": "包子：懂了，这就去开白名单"
+        },
+        {
+          "id": "1198605",
+          "replier": {
+            "username": "SpiritualExile",
+            "uid": "51604"
+          },
+          "date": "2023-08-11",
+          "content": "@Onioner:包子连回车键都不认识，你觉得他看的懂这个？😄"
+        },
+        {
+          "id": "1199157",
+          "replier": {
+            "username": "主席聖明",
+            "uid": "20291"
+          },
+          "date": "2023-08-12",
+          "content": "这不就是要开白名单吗？国内的独享ip不备案连80端口都开不了。"
+        },
+        {
+          "id": "1199220",
+          "replier": {
+            "username": "吃瓜瓜和瓜皮",
+            "uid": "93859"
+          },
+          "date": "2023-08-12",
+          "content": "目前steam国内访问，都可以通过akamai的cdn进行请求，并修改host头绕过sni阻断，cdn的存在可能会让白名单更难实现"
+        }
+      ]
+    },
+    {
+      "id": "678156",
+      "is_folded": false,
+      "answerer": {
+        "username": "freedomofchina",
+        "uid": "111795"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tapp备案的核心我觉得不是监管，而是收钱，所有app备案主要目的是所有app都要收钱收税。<br/>\n共产党现在缺钱，出台政策目的就是为了搞钱\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 10,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678024",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最多就是国行手机系统里搞个白名单卡你一下。水货手机估计快被禁了。\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 9,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1198014",
+          "replier": {
+            "username": "Guderian0614",
+            "uid": "113463"
+          },
+          "date": "2023-08-09",
+          "content": "手机买来刷港行美版欧版日版韩版系统呢？"
+        },
+        {
+          "id": "1198015",
+          "replier": {
+            "username": "你是中国人",
+            "uid": "5810"
+          },
+          "date": "2023-08-09",
+          "content": "@Guderian0614: 暂时应该就是软件层面卡 不过港版应该也半斤八两了  能刷的话直接刷国际版系统好了。"
+        },
+        {
+          "id": "1198073",
+          "replier": {
+            "username": "近平摔进悬崖",
+            "uid": "113146"
+          },
+          "date": "2023-08-10",
+          "content": "我在这有个疑问，你们所说（千万别支产苹果手机指的是什么意思？）我买了\n支那\n产苹果然后像你说的刷国际版系统和台湾卖的苹果有什么区别，\n支那\n产的苹果除了系统还有什么和台湾不同"
+        },
+        {
+          "id": "1198204",
+          "replier": {
+            "username": "爱慕拆腻子8964",
+            "uid": "20869"
+          },
+          "date": "2023-08-10",
+          "content": "@近平摔进悬崖:我没有苹果手机，苹果手机系统也没分哪里的系统吧？只不过支产的，出厂就阉割了部分功能，这个貌似不能通过刷机恢复，也就是天生残疾，之后15怎么样就不好说了"
+        },
+        {
+          "id": "1198285",
+          "replier": {
+            "username": "近平摔进悬崖",
+            "uid": "113146"
+          },
+          "date": "2023-08-10",
+          "content": "@爱慕拆腻子8964:这个是不是要到台湾旅游才能买到手机？"
+        },
+        {
+          "id": "1198400",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-10",
+          "content": "备案app，不是备案手机厂商。。。手机里要是有个白名单那只能是本地，也不排除联网自动更新白名单的可能，但是联网意味着维护。。。"
+        }
+      ]
+    },
+    {
+      "id": "678291",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有人觉得无所谓反正可以root可以下载第三方软件，但国内手机目前安装非应用市场下载的APP都会有安全提示，老手机使用老版本APP要么自动退出要么强制升级，言下之意目前的不作为是没有法令强制性要求，一旦要求了手机立马一个自动升级封住白名单之外的APP，绝大部分的用户跟海外从此绝缘，手机是数字管控的最佳工具，那些乐观人士确实把问题想得太简单了，品葱墙内墙外人士认知差异天大，的确在这类问题上聊不来。\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678021",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t（1）手机上海外app需要 vpn 吧？<br/>\n（2）手机上的 vpn 本身也是个 app 吧？而且属于没有备案的 app 吧？<br/>\n（3）vpn 这个 app 自己都不能联网了，你怎么连海外app？<br/>\n<br/>\n结论：利好海外手机卡国际漫游业务\t\t</div>",
+      "date": "2023-08-09",
+      "agree_count": 4,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1198010",
+          "replier": {
+            "username": "youjianzhunao",
+            "uid": "99892"
+          },
+          "date": "2023-08-09",
+          "content": "第3点，现有技术他能做到？"
+        },
+        {
+          "id": "1198011",
+          "replier": {
+            "username": "youjianzhunao",
+            "uid": "99892"
+          },
+          "date": "2023-08-09",
+          "content": "如果猪头国现在能做到第3点，何不马上就干，所有翻墙工具不都直接完蛋了，一劳永逸，事实上做不到吧"
+        },
+        {
+          "id": "1198019",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-08-09",
+          "content": "@zhutoubiss:你的vpn app 首先要连国内的网，才能出海。"
+        },
+        {
+          "id": "1198127",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-08-10",
+          "content": "@zhutoubiss: 可以，反詐核心，還有垃圾，充滿backdoors和spywares的國產安卓。android本身就不行，安卓更是android之恥"
+        },
+        {
+          "id": "1198247",
+          "replier": {
+            "username": "通商宽衣颐使气指",
+            "uid": "74980"
+          },
+          "date": "2023-08-10",
+          "content": "不知道手动配置行不行"
+        }
+      ]
+    },
+    {
+      "id": "678168",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不知道你急啥，明年共产党还在不在都是一个问题\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 7,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1198172",
+          "replier": {
+            "username": "youjianzhunao",
+            "uid": "99892"
+          },
+          "date": "2023-08-10",
+          "content": "我工作要求必须每天上外网啊"
+        },
+        {
+          "id": "1198248",
+          "replier": {
+            "username": "你是中国人",
+            "uid": "5810"
+          },
+          "date": "2023-08-10",
+          "content": "真的吗 别骗我"
+        },
+        {
+          "id": "1198491",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-08-10",
+          "content": "不要天天意淫，你這麼牛逼怎麼只敢口嗨啊"
+        },
+        {
+          "id": "1198970",
+          "replier": {
+            "username": "小狗包帝",
+            "uid": "13009"
+          },
+          "date": "2023-08-12",
+          "content": "@zhutoubiss:你的老板应该比你着急"
+        },
+        {
+          "id": "1198975",
+          "replier": {
+            "username": "top1357",
+            "uid": "52402"
+          },
+          "date": "2023-08-12",
+          "content": "@zhutoubiss: 讓公司去買 VPS 建機場吧"
+        },
+        {
+          "id": "1201176",
+          "replier": {
+            "username": "youjianzhunao",
+            "uid": "99892"
+          },
+          "date": "2023-08-19",
+          "content": "@小狗包帝:我单干的"
+        }
+      ]
+    },
+    {
+      "id": "678346",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以后支国的手机就是自己的一个电子镣铐，还是得自己出钱买的那种。不带镣铐你还寸步难行，没法买东西，没法出行。<br/>\n<br/>\n全中国包括香港和澳门将是一个巨大的再教育营。细胞质领导下的中共将成为中国的红色高棉。\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678159",
+      "is_folded": false,
+      "answerer": {
+        "username": "对不起伤害了你",
+        "uid": "104840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以安卓为例：<br/>\n<br/>\n老版本的手机系统无需担心，只要Android底层版本不是特别旧，拿到apk还是能手工安装的。<br/>\n<br/>\n新版本的手机系统，特别是已经接入了反诈平台的系统，则需要特别当心。手机厂商为了合规，未来一段时间会对系统进行改造，到时候你一个不经意的系统升级操作，就可能会把手工安装apk的道路给堵死了。\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1198170",
+          "replier": {
+            "username": "youjianzhunao",
+            "uid": "99892"
+          },
+          "date": "2023-08-10",
+          "content": "我手上几个平板都刷了国际版系统，是不是影响小点，支产手机就打个电话"
+        }
+      ]
+    },
+    {
+      "id": "678225",
+      "is_folded": false,
+      "answerer": {
+        "username": "guest_s",
+        "uid": "78029"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t這個傻逼政策是對標美國禁止應用商店下載tt的吧？現在中共這群土匪就是跟著美國學，只是跟美國對著幹，他們的智商只能做到這個程度了，創新他們在任何領域都做不到。\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678618",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t三大运营商未必需要校验流量，而是要求app主动提供备案验证，通过之后才能入网，不提供全都禁止入网。没错，这就是所谓的白名单，这样一来你无论是苹果还是外国rom都没有卵用\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678232",
+      "is_folded": false,
+      "answerer": {
+        "username": "通商宽衣颐使气指",
+        "uid": "74980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在设置界面手动配置vpn加web版海外平台应该能破解吧，在墙的管控程度不变的情况下\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678157",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下旡贼",
+        "uid": "36074"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大惊小怪，真的是，<br/>\n<br/>\n除非他出台个政策：手机厂商在程序上设定未经备案的app不得安装在手机上<br/>\n<br/>\n那就完蛋了，现在他只是不给没备案的应用进入正规渠道下载，但是你从google市场下载应用跟他有什么关系呢？他只是限制了国内应用市场而已\t\t</div>",
+      "date": "2023-08-10",
+      "agree_count": 4,
+      "discussion_count": 13,
+      "discussions": [
+        {
+          "id": "1198169",
+          "replier": {
+            "username": "youjianzhunao",
+            "uid": "99892"
+          },
+          "date": "2023-08-10",
+          "content": "工猩部说了，没有备案的运营商不给接网"
+        },
+        {
+          "id": "1198196",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-10",
+          "content": "@zhutoubiss:你怎么不给？网络服务主要从手机的，你禁了我照样用vpn上推特，这完全不冲突"
+        },
+        {
+          "id": "1198197",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-10",
+          "content": "@zhutoubiss: 除非有手机运营商植入识别应用有没有备案"
+        },
+        {
+          "id": "1198199",
+          "replier": {
+            "username": "top1357",
+            "uid": "52402"
+          },
+          "date": "2023-08-10",
+          "content": "很好操作，内核整合反诈软件，阻止安装未经授权软件"
+        },
+        {
+          "id": "1198550",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-08-11",
+          "content": "@a1161aa:vpn本身就是个app，不给它接网，你手机就变成砖头了"
+        },
+        {
+          "id": "1198861",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-11",
+          "content": "@springwood:想问一下怎么不给接入？控制手机吗？那应该是针对手机法啊"
+        },
+        {
+          "id": "1198862",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-11",
+          "content": "@top1357:这个理论上是可以，但是随便改一下签名就好了，实在不行套壳也可以躲过，就像v墙一样，他们知道哪个网存在并且有威胁才会选择墙掉那个网站"
+        },
+        {
+          "id": "1198942",
+          "replier": {
+            "username": "top1357",
+            "uid": "52402"
+          },
+          "date": "2023-08-12",
+          "content": "@a1161aa: 你說的是黑名單，現在講的是白名單"
+        },
+        {
+          "id": "1199141",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-12",
+          "content": "@top1357:我反问你好了，实施到手机上的话，以前手机该怎么办？安卓有root，是不是可以更改白名单内容？除非他们有个github一样的东西联网更新，终归都是可以改的"
+        },
+        {
+          "id": "1199143",
+          "replier": {
+            "username": "top1357",
+            "uid": "52402"
+          },
+          "date": "2023-08-12",
+          "content": "@a1161aa: 以前的手機是不用管的，只要新的手機OS是採取新的內核就好，這不難理解吧"
+        },
+        {
+          "id": "1199146",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-12",
+          "content": "@top1357:如果以前的手机不用管，这是否就执行不到位，这个态度的话还会执行到新的手机上吗？就好比“反正都有这么多了现在搞新的这些也没啥必要”，当然不能用侥幸来预测。\n还是那句话，内核加入白名单，如果遇到app更新怎么办？有一些app大更的时候还会改写app内核、改签名，这个无法改写的内核怎么办？\n而且再多问一句好了，第三方rom刷机包也不是吃素的，第三方rom论坛现在也有很多很多魔改系统改写内核的"
+        },
+        {
+          "id": "1199147",
+          "replier": {
+            "username": "top1357",
+            "uid": "52402"
+          },
+          "date": "2023-08-12",
+          "content": "@a1161aa: 1. 執行不會到位的，總不能說沒有安裝新OS的手機就不能開機了吧。2. 只要主要的中國軟件（微信支付寶那些）不支持ROOT過的手機/不支持第三方ROM，很多人就要放棄了，中國人沒有辦法不使用這些軟件的"
+        },
+        {
+          "id": "1199155",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-12",
+          "content": "@top1357:要看手机厂商，其实想魔改华为的也可以，但是因为华为对第三方违法破解SDK和BL的围堵打压比较厉害，所以华为手机想解需要花更多钱。说来说去，安卓的优势即是如此，因为太开源了所以什么东西都封锁不死的，今天在跟别人讨论的时候又发现一个国内厂商加入MIUI优化什么的，关掉那个也可以安装很多原本手机管家不给装的"
+        }
+      ]
+    },
+    {
+      "id": "678170",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由之盾",
+        "uid": "112870"
+      },
+      "contents": "<div class=\"markitup-box\">\n<pre>油管这类国外软件，在中国大陆从来都没有通过备案过，包括你用的翻墙APP，也没有被准许过链接国内网络</pre> </div>",
+      "date": "2023-08-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678738",
+      "is_folded": false,
+      "answerer": {
+        "username": "Wesker1990",
+        "uid": "114776"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t白名单，不会的，权贵集团资产都在外面，白名单会严重影响权贵集团利益。<br/>\n<br/>\n中共，要的就是，把翻墙数量指标压小即可，即使十分之三韭菜翻墙，只要不超过阈值，掀起不了什么风浪。\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678840",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tCCP的政策朝三暮四、出尔反尔，没人能预料这么远的事情，说不定人家明年宣布改革开放结束，我们一起大健身，这也不是不可能。\t\t</div>",
+      "date": "2023-08-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678854",
+      "is_folded": false,
+      "answerer": {
+        "username": "担麦人吃包子",
+        "uid": "31389"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大家记住一点，中共的很多政策不可能完全堵死所有人的道路，但<b>正如楼上所说的：只要给绝大多数普通人造成困扰和障碍，就可以逼迫很多人知难而退，从投入的风险收益产出考量，中共还是赚的</b><br/>\n<br/>\n正如疫情期间不让出国出境不给办理护照通行证之类的，虽然说为了所谓的“公民安全健康着想”，但傻逼都知道为了管控屁民顺便节约一下外汇储备，<b>通过层层繁琐的手续文件吓退阻挠98%的人，中共当局也认为成功了</b> </div>",
+      "date": "2023-08-12",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1198973",
+          "replier": {
+            "username": "top1357",
+            "uid": "52402"
+          },
+          "date": "2023-08-12",
+          "content": "同時也會種下仇恨中共政府的種子，就算不仇恨也覺得很煩人"
+        }
+      ]
+    },
+    {
+      "id": "695863",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tandoird早就这样了, 各个市场都只有备案的app. 现在应该是针对apple的.\t\t</div>",
+      "date": "2023-10-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678730",
+      "is_folded": false,
+      "answerer": {
+        "username": "小橘貓",
+        "uid": "51339"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t做個設想：<br/>\n<br/>\nISP 對於手機聯網做2個驗證，任意一個不通過就不可使用網路：<br/>\n<br/>\n1) 驗證手機提供客户端證書，每個設備唯一，實名申請證書<br/>\n2) 驗證每個 App 的證書，這個證書只有通過審核備案的 App 才擁有<br/>\n<br/>\n<br/>\n<br/>\n這樣一來，可以封鎖所有未審核備案的 App <br/>\n<br/>\n<br/>\n附加資訊:<br/>\n一個專利: &lt;用于数字证书的验证的系统和方法 <br/>\nhttps://patents.google.com/patent/CN103490884A/zh\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678604",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果不让你用国外的一切东西，那不如来个白名单，一刀切了，还整这么多花里胡哨费力不讨好的东西干嘛\t\t</div>",
+      "date": "2023-08-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

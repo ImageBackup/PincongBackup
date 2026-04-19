@@ -1,0 +1,65 @@
+{
+  "question_id": "64354",
+  "category_id": "10",
+  "title": "protonmail是否安全?以及我对于这个人推荐的反驳,大家认为合理吗?",
+  "meta_description": "protonmail是否安全?以及我对于这个人推荐的反驳,大家认为合理吗? - 原帖子 [url=https://pincong.rocks/question/item_id-716163]<<用gmail交流会有危险吗？ >>[/url]  用户:cybermage 推荐了proton mail 这邮箱,出于...",
+  "meta_keywords": "protonmail,是否,安全,个人,推荐,反驳,大家,认为,合理",
+  "tags": [
+    {
+      "id": "199",
+      "name": "安全"
+    },
+    {
+      "id": "1019",
+      "name": "邮箱"
+    }
+  ],
+  "author": {
+    "username": "cuz",
+    "uid": "86506"
+  },
+  "view_count": 5733,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t原帖子 <a href=\"https://pincong.rocks/question/item_id-716163\" title=\"https://pincong.rocks/question/item_id-716163\">&lt;&lt;用gmail交流会有危险吗？ &gt;&gt;</a>  用户:cybermage 推荐了proton mail 这邮箱,出于安全考虑,我在他的回复下评论了,却发生了一些观点冲突?大家认为我反驳的是否合理,protonmail是否安全?<br/>\n<br/>\n我的观点是: <br/>\n1.你让 一个华人高官+华为那挡事(澄清)+给法国政府提供运动人员IP 的产品Pronton mail 推荐给品葱(高危),是否合理?<br/>\n<br/>\n2.哪天是否会给中共提供IP?<br/>\n<br/>\n3.他说我是\"逢中必反\"是否合理?我提出合理质疑,他却站不住脚回复\"你开心就好\",是否对品葱人士的安全负责?<br/>\n<br/>\n4.我对他的回复\"你开心就好\",是支性是否合理?<br/>\n<br/>\n5.键政,不要用华人的产品,是否是\"逢中必反\"?<br/>\n<br/>\n6.protonmail称只有面对\"极端罪案\"才会监察用户ip,然而向法国政府提供环保运动人员IP,环保组织是极端犯罪组织?<br/>\n<br/>\n7.proton创办人三个,其中两个华人,一个是台湾的,另一个是大陆的(别处看到,不是很确定)\t\t\t\t\t\t\t</div>",
+  "date": "2024-01-01",
+  "agree_count": 3,
+  "discussion_count": 4,
+  "discussions": [
+    {
+      "id": "1053018",
+      "replier": {
+        "username": "fgfg",
+        "uid": "52224"
+      },
+      "date": "2024-01-01",
+      "content": "Protonmail确实比Gmail安全，它自己也没有你的邮件内容，这是技术层面保证的。"
+    },
+    {
+      "id": "1053019",
+      "replier": {
+        "username": "cuz",
+        "uid": "86506"
+      },
+      "date": "2024-01-01",
+      "content": "@fgfg:对于他的技术我不怀疑,我现在质疑的是高官是华人,会不会向中共提供运动人士的IP?毕竟就像那个人说的,是向法国提供过运动人士ip的"
+    },
+    {
+      "id": "1053024",
+      "replier": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "date": "2024-01-01",
+      "content": "@fgfg: 这个你真不能肯定, 即使他们公布服务器代码. 唯一能保证第三方没有你邮件内容的方式是端到端的加密. 很可惜, 现在只能在懂技术的人之间使用."
+    },
+    {
+      "id": "1053202",
+      "replier": {
+        "username": "fgfg",
+        "uid": "52224"
+      },
+      "date": "2024-01-04",
+      "content": "@hahayuyu: 客户端（web, android）代码可以反编译检查的，它确实在客户端完成加密后再上传的。"
+    }
+  ],
+  "answer_count": 6
+}

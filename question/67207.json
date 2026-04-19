@@ -1,0 +1,43 @@
+{
+  "question_id": "67207",
+  "category_id": "2",
+  "title": "我是那个意思吗？",
+  "meta_description": "我是那个意思吗？ - ",
+  "meta_keywords": "我是,意思",
+  "tags": [
+    {
+      "id": null,
+      "name": "添加话题"
+    }
+  ],
+  "author": {
+    "username": "中国的皇帝",
+    "uid": "128530"
+  },
+  "view_count": 1053,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2024-05-11",
+  "agree_count": 0,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1060206",
+      "replier": {
+        "username": "中国的皇帝",
+        "uid": "128530"
+      },
+      "date": "2024-05-11",
+      "content": "已删除"
+    },
+    {
+      "id": "1060208",
+      "replier": {
+        "username": "中国的皇帝",
+        "uid": "128530"
+      },
+      "date": "2024-05-11",
+      "content": "已删除"
+    }
+  ],
+  "answer_count": 0
+}

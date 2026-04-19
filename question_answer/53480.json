@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "53480",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "602913",
+      "is_folded": false,
+      "answerer": {
+        "username": "我看要玩",
+        "uid": "97697"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t欢迎著名的瑞士生物学家爱德华兹先生，能给我签个名吗？\t\t</div>",
+      "date": "2022-11-29",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1129795",
+          "replier": {
+            "username": "Wilson_Edwards",
+            "uid": "73622"
+          },
+          "date": "2022-11-29",
+          "content": "给你签个 美方全责 通过！"
+        },
+        {
+          "id": "1129796",
+          "replier": {
+            "username": "我看要玩",
+            "uid": "97697"
+          },
+          "date": "2022-11-29",
+          "content": "@Wilson_Edwards:请问您为什么没有荣获今年的诺贝尔和平奖呢？"
+        }
+      ]
+    },
+    {
+      "id": "603005",
+      "is_folded": false,
+      "answerer": {
+        "username": "sjk23456789",
+        "uid": "104052"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一边想着拿拘留书，一边想着出境的时候完全不受影响...<br/>\n虽然我觉得“支性难改”只是你国人狗咬狗的话，但这种懦弱又投机的性格怕真是民族性了。<br/>\n实在想润出国又有决心的话，还不如走这条路：https://www.youtube.com/watch?v=TEhG_W9qhvc\t\t</div>",
+      "date": "2022-11-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

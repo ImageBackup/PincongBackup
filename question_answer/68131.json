@@ -1,0 +1,130 @@
+{
+  "parent_type": "question",
+  "parent_id": "68131",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "756162",
+      "is_folded": false,
+      "answerer": {
+        "username": "米米米卫兵",
+        "uid": "130354"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t个人观点：比起花时间阅读，不如花时间思考。思考事情的逻辑，因果。思考事物如何工作是make sense的，如果改了其中某些步骤会有哪些变化。<br/>\n<br/>\n只阅读，不思考，那不过是读了一本又一本故事会看完拉倒而已。\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1272900",
+          "replier": {
+            "username": "Luciusveritas",
+            "uid": "130863"
+          },
+          "date": "2024-06-24",
+          "content": "大量的阅读，达到一定的程度之后，会不会从量变到质变。可以边阅读边思考，如果没有素材的话，不知道从哪里开始思考"
+        }
+      ]
+    },
+    {
+      "id": "756186",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好书每天看十分钟都颇有裨益，烂书每天看三小时都浪费时间\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1272902",
+          "replier": {
+            "username": "Luciusveritas",
+            "uid": "130863"
+          },
+          "date": "2024-06-24",
+          "content": "如何分辨好书和烂书？"
+        },
+        {
+          "id": "1272903",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2024-06-24",
+          "content": "研究书内精神的人越多这书越好，大概吧"
+        }
+      ]
+    },
+    {
+      "id": "756164",
+      "is_folded": false,
+      "answerer": {
+        "username": "洼地先知",
+        "uid": "102273"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t至少一个小时<br/>\n<br/>\n具体细节你想了解<br/>\n<br/>\n可以提出来，这是个秘密，一般人不能告诉\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "756193",
+      "is_folded": false,
+      "answerer": {
+        "username": "郭敬明嗦习近平",
+        "uid": "92191"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t唉我一个从小喜欢看书的人都不怎么看书了，纸质书坐在那看头特别晕，不知道是密密麻麻的字导致的还是什么，手机看书必须用最好的屏幕看，字体必须清晰锐利，不然看着头晕，我完了。\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1272913",
+          "replier": {
+            "username": "Luciusveritas",
+            "uid": "130863"
+          },
+          "date": "2024-06-24",
+          "content": "看不进去，可以尝试听书"
+        },
+        {
+          "id": "1272920",
+          "replier": {
+            "username": "郭敬明嗦习近平",
+            "uid": "92191"
+          },
+          "date": "2024-06-24",
+          "content": "@Luciusveritas:没尝试过 可以试一下。。不知道听书和看书，区别大不大。。"
+        }
+      ]
+    },
+    {
+      "id": "756194",
+      "is_folded": false,
+      "answerer": {
+        "username": "for8964you",
+        "uid": "127727"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前很喜欢阅读，现在阅读非常少。阅读有阅读的好处。\t\t</div>",
+      "date": "2024-06-24",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1272915",
+          "replier": {
+            "username": "Luciusveritas",
+            "uid": "130863"
+          },
+          "date": "2024-06-24",
+          "content": "现在选择太多"
+        }
+      ]
+    }
+  ]
+}

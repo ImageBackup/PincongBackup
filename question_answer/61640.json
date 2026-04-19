@@ -1,0 +1,277 @@
+{
+  "parent_type": "question",
+  "parent_id": "61640",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "688005",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t请记住在天朝重要事情是只执行不说的，反而是一些无关紧要的屁事会翻来覆去的炒作，比如说网络诈骗翻来覆去几年了一点行动都没有，但是明面上对付网络诈骗的APP暗地里却是监控手机的利器。\t\t</div>",
+      "date": "2023-09-10",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1207320",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-09-10",
+          "content": "很赞同，比如墙，寻衅滋事罪，取消言论自由等等。"
+        },
+        {
+          "id": "1207454",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-10",
+          "content": "说了不做，做了不说"
+        }
+      ]
+    },
+    {
+      "id": "687798",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个新闻我还是在品葱看到的。<br/>\n<br/>\n<blockquote>近日，腾讯、华为、小米等移动应用提供商纷纷发出通知，要求新的应用程序必须提交备案的文件，否则不会推荐。</blockquote> </div>",
+      "date": "2023-09-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687978",
+      "is_folded": false,
+      "answerer": {
+        "username": "好嗨冻",
+        "uid": "113220"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t烂尾帝亲自指挥，烂尾了呗<br/>\n不然还有什么理由呢\t\t</div>",
+      "date": "2023-09-10",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1207311",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-09-10",
+          "content": "没烂尾啊，你瞎说什么呢"
+        }
+      ]
+    },
+    {
+      "id": "687987",
+      "is_folded": false,
+      "answerer": {
+        "username": "迷途小书童",
+        "uid": "113724"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t明年4月开始施行吧？不知道那时候能不能翻墙了唉😔\t\t</div>",
+      "date": "2023-09-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688031",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t目前已经陆续出现有不能安装的情况，具体会不会实施，明年4月就知道了，这里臆测也没有用。<br/>\n<br/>\n我们做最坏的打算不是坏事。\t\t</div>",
+      "date": "2023-09-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687871",
+      "is_folded": false,
+      "answerer": {
+        "username": "dodo",
+        "uid": "112815"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你买新手机试试是不是白名单？小米MIUI12就不让安装电报Twitter之类的app了。\t\t</div>",
+      "date": "2023-09-10",
+      "agree_count": 0,
+      "discussion_count": 18,
+      "discussions": [
+        {
+          "id": "1207121",
+          "replier": {
+            "username": "南极大陆",
+            "uid": "116386"
+          },
+          "date": "2023-09-10",
+          "content": "我买了乐视手机，无法下载迷雾通。现在就是本机下载得迷雾通无法翻墙，是不是白名单？"
+        },
+        {
+          "id": "1207144",
+          "replier": {
+            "username": "dodo",
+            "uid": "112815"
+          },
+          "date": "2023-09-10",
+          "content": "@南极大陆:我还以为乐视早死了"
+        },
+        {
+          "id": "1207150",
+          "replier": {
+            "username": "南极大陆",
+            "uid": "116386"
+          },
+          "date": "2023-09-10",
+          "content": "它在拼多多三百元不到卖新手机。还是可以用的。就是下载速度不如二手手机。"
+        },
+        {
+          "id": "1207151",
+          "replier": {
+            "username": "南极大陆",
+            "uid": "116386"
+          },
+          "date": "2023-09-10",
+          "content": "@dodo:迷雾通目前凉了，如何看？你试试？"
+        },
+        {
+          "id": "1207214",
+          "replier": {
+            "username": "尤里X",
+            "uid": "50565"
+          },
+          "date": "2023-09-10",
+          "content": "@南极大陆:？？我现在就在用迷雾通，好用的很。"
+        },
+        {
+          "id": "1207222",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-10",
+          "content": "我有小米手机，MIUI 14版本，实测Twitter官方APP和Telegram都可以安装使用。当然需要翻墙就是。"
+        },
+        {
+          "id": "1207263",
+          "replier": {
+            "username": "dodo",
+            "uid": "112815"
+          },
+          "date": "2023-09-10",
+          "content": "@天下无贼:你说的安装指的是关掉互联网安装吧。"
+        },
+        {
+          "id": "1207271",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-10",
+          "content": "@dodo: 不关，为什么要关掉互联网？\n我可以架上梯子，直接打开GooglePlay商店安装；也可以通过APKPure这样的网站，下载GooglePlay里软件的具体APK文件，有了APK文件就爱怎么装怎么装了。\n安装完之后要运行，还要用梯子。"
+        },
+        {
+          "id": "1207453",
+          "replier": {
+            "username": "南极大陆",
+            "uid": "116386"
+          },
+          "date": "2023-09-10",
+          "content": "@尤里X:我用的迷雾通突然没办法连接外网。而且几天如此，下载的最新版本。是否是手机老旧了无法升级？我是联通号。你是啥？新版乐视手机是另外公司的号，但是它说文件格式它打不开无法下载。当然乐视很垃圾，下载速度很慢。"
+        },
+        {
+          "id": "1207455",
+          "replier": {
+            "username": "尤里X",
+            "uid": "50565"
+          },
+          "date": "2023-09-10",
+          "content": "@南极大陆:你用国产手机当然……，我用的是PC"
+        },
+        {
+          "id": "1207456",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-10",
+          "content": "@天下无贼:没有这么简单，miui14内置反诈\n电报和迷雾通完全可以被反诈app拦下来不让装"
+        },
+        {
+          "id": "1207458",
+          "replier": {
+            "username": "南极大陆",
+            "uid": "116386"
+          },
+          "date": "2023-09-10",
+          "content": "@rowlandheights:这个非常正常。就算国内加速器反诈也可以全程监控你翻墙以及下载。抓不抓看情况。一般没在外网实名发言反共的不抓。比如油管，推特。"
+        },
+        {
+          "id": "1207459",
+          "replier": {
+            "username": "南极大陆",
+            "uid": "116386"
+          },
+          "date": "2023-09-10",
+          "content": "@rowlandheights:华为手机后门包括小米可以全程监控你的手机任何文件内容。然后数据送中。一般人觉得没啥，如果是高级反贼以及国外政府，军事情报部门的就是木马。甚至外企高层技术商业机密都可以窃取。当然国外也可以有这样的技术。所以智能手机无隐私。"
+        },
+        {
+          "id": "1207460",
+          "replier": {
+            "username": "南极大陆",
+            "uid": "116386"
+          },
+          "date": "2023-09-10",
+          "content": "@尤里X:但是就在前几天，手机里的迷雾通还是正常工作。突然前天熄火。一直不正常。只能高风险用国产的。"
+        },
+        {
+          "id": "1207462",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-10",
+          "content": "@rowlandheights: 实测没有。\n迷雾通和电报我手机上都装着。而且不让装的那些软件，都有“允许这一次”的选项，多点几下而已，都可以安装。\n运行的时候，目前MIUI 14没有任何提醒，直接运行（再次强调，联网功能需翻墙）"
+        },
+        {
+          "id": "1207466",
+          "replier": {
+            "username": "尤里X",
+            "uid": "50565"
+          },
+          "date": "2023-09-10",
+          "content": "@南极大陆:还是用PC吧，用手机还是国产的实在是……"
+        },
+        {
+          "id": "1207467",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-10",
+          "content": "@尤里X:确实，没事不要给国产系统增加有价值信息"
+        },
+        {
+          "id": "1207469",
+          "replier": {
+            "username": "南极大陆",
+            "uid": "116386"
+          },
+          "date": "2023-09-10",
+          "content": "@尤里X:问题网络网线也有问题。电脑用起来姿势无法转换。手机方便。手机用卡的流量。我实际发言建政少。国产手机后门记录了我的所有浏览记录？谷歌浏览器清除功能没用？"
+        }
+      ]
+    }
+  ]
+}

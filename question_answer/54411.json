@@ -1,0 +1,104 @@
+{
+  "parent_type": "question",
+  "parent_id": "54411",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "611845",
+      "is_folded": false,
+      "answerer": {
+        "username": "第三新索多玛",
+        "uid": "728"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那自然是小狼毫，它的同步功能完全控制在你手里——或者说，它就没有同步功能，但是复制词库很方便。<br/>\n给搜狗断网的做法会完全掐断同步，你会发现在电脑上调教好的输入法到了手机上还是不好用。<br/>\n如果人在墙外的话就更简单，直接把词库丢云盘就行了。<br/>\n之所以强调墙外是因为强烈反对你用手机翻墙，而坚果云之类的又不那么令人放心。这样定期同步词库多少会有些麻烦。但我觉得在墙内没有更好的选择了。<br/>\n<br/>\n小狼毫的另一个缺点是配置麻烦，但配置麻烦的原因就是自由度很高。这对于要求多的人来讲也是好消息。\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611826",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小狼毫輸入法 https://github.com/rime/weasel<br/>\n<br/>\n適合用拼音又要打正體的人用, 它簡體也支持.\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611921",
+      "is_folded": false,
+      "answerer": {
+        "username": "總加速濕",
+        "uid": "73156"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t也不知道你说的是什么平台，默认windows 10，微软拼音输入法ctrl+shift+f 切换繁简。\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611822",
+      "is_folded": false,
+      "answerer": {
+        "username": "Jero",
+        "uid": "4525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t电脑的话,微软的输入法设置一下就行了<br/>\n<br/>\n手机的话,谷歌/微软都挺好的\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611831",
+      "is_folded": false,
+      "answerer": {
+        "username": "a9274",
+        "uid": "88137"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t謝謝大家，因為回復有時間限制，我就不一一回復大家了。\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "611825",
+      "is_folded": false,
+      "answerer": {
+        "username": "toyoo",
+        "uid": "105290"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很简单，hosts 文件屏蔽搜狗输入法联网，或者防火墙规则禁止。就可以放心使用搜狗输入法了\t\t</div>",
+      "date": "2022-12-18",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1136611",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2022-12-18",
+          "content": "完全不可取，现在搜狗是腾讯的。你们的输入记录如果生成配置文件，那么禁用联网是没用的，因为微信、qq等其他腾讯软件是联网的，他们可能会读取搜狗输入法的输入记录"
+        },
+        {
+          "id": "1137050",
+          "replier": {
+            "username": "toyoo",
+            "uid": "105290"
+          },
+          "date": "2022-12-20",
+          "content": "@cuz:用查看一下流量，只有搜狗输入法服务实时上传内容"
+        }
+      ]
+    }
+  ]
+}

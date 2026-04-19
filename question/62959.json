@@ -1,0 +1,70 @@
+{
+  "question_id": "62959",
+  "category_id": "4",
+  "title": "通过WiFi热点名字传播标语口号有安全风险吗？",
+  "meta_description": "通过WiFi热点名字传播标语口号有安全风险吗？ - 本人想通过此方法传播，但不知是否有安全问题会泄露手机的信息？然后顺藤摸瓜查到你",
+  "meta_keywords": "wifi,热点,名字,传播,标语,口号,安全,风险",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    }
+  ],
+  "author": {
+    "username": "yuanleaf",
+    "uid": "44185"
+  },
+  "view_count": 12215,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t本人想通过此方法传播，但不知是否有安全问题会泄露手机的信息？然后顺藤摸瓜查到你\t\t\t\t\t\t\t</div>",
+  "date": "2023-10-30",
+  "agree_count": 1,
+  "discussion_count": 5,
+  "discussions": [
+    {
+      "id": "1049719",
+      "replier": {
+        "username": "dkbldkme",
+        "uid": "117144"
+      },
+      "date": "2023-10-30",
+      "content": "你不一定用手机设备啊 能发射wifi信号的有很多啊 十几块钱买一块uno开发板 刷个固件都能发热点信号。当然前提是还要有个电池模块。"
+    },
+    {
+      "id": "1049720",
+      "replier": {
+        "username": "yuanleaf",
+        "uid": "44185"
+      },
+      "date": "2023-10-30",
+      "content": "@dkbldkme:我打算在公共场所传播，你让我一直带这个主板在身上？"
+    },
+    {
+      "id": "1049732",
+      "replier": {
+        "username": "dkbldkme",
+        "uid": "117144"
+      },
+      "date": "2023-10-30",
+      "content": "@yuanleaf:这么便宜的主板 可以藏到某个不容易被发现的角落里啊"
+    },
+    {
+      "id": "1049736",
+      "replier": {
+        "username": "lbow",
+        "uid": "53236"
+      },
+      "date": "2023-10-30",
+      "content": "非常危險"
+    },
+    {
+      "id": "1049738",
+      "replier": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "date": "2023-10-30",
+      "content": "@yuanleaf:板子可以做得很小，火柴盒那么大没问题😄"
+    }
+  ],
+  "answer_count": 15
+}

@@ -1,0 +1,22 @@
+{
+  "article_id": "66044",
+  "category_id": "22",
+  "title": "自组织社区 开源项目正式建立了",
+  "meta_description": "自组织社区 开源项目正式建立了 - Self-Organizing Community,自组织社区，简称SOC。它以“对等自治、公开透明、开源开放”为基本原则，以“递进自组织”为实践操作方法，形成自下而上的自治社区。  不管未来能走多远，至少现在它开始了，这个项目正式启动了，我们在githu...",
+  "meta_keywords": "组织,社区,开源,项目,正式,建立",
+  "tags": [
+    {
+      "id": "106871",
+      "name": "自组织社区"
+    }
+  ],
+  "author": {
+    "username": "NZMjQYhMi4896",
+    "uid": "114318"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\tSelf-Organizing Community,自组织社区，简称SOC。它以“对等自治、公开透明、开源开放”为基本原则，以“递进自组织”为实践操作方法，形成自下而上的自治社区。<br/>\n<br/>\r\n不管未来能走多远，至少现在它开始了，这个项目正式启动了，我们在github上创立了项目，我们将以开源的形式，完善自组织社区的理论细节，探讨实践与辅助软件系统的实现。项目贡献规则尚未建立，后面会慢慢建立起来，soc项目地址: https://github.com/peersofequaler/soc<br/>\n<br/>\r\n另外用element建立了讨论组，matrix room地址: https://matrix.to/#/#soc-general:matrix.org<br/>\n<br/>\r\n担心信息暴露的朋友，可以使用一些注重隐私的邮箱进行注册，matrix账号可以使用临时邮箱注册，外面还可以再加一层额外的tor。\t\t\t\t\t\t\t</div>",
+  "view_count": 5088,
+  "date": "2023-11-19",
+  "agree_count": 4,
+  "comment_count": 25
+}

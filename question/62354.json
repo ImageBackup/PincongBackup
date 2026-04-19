@@ -1,0 +1,56 @@
+{
+  "question_id": "62354",
+  "category_id": "1",
+  "title": "客观分许一下、美国限制RISC-V可行吗？开源技术限制有先例吗？",
+  "meta_description": "客观分许一下、美国限制RISC-V可行吗？开源技术限制有先例吗？ - [img]https://telegra.ph/file/12e34309ea2de1dfd5b3d.jpg?width=1284&height=1079[/img]",
+  "meta_keywords": "客观,许一下,一下,美国,限制,risc-v,行吗,开源,技术",
+  "tags": [
+    {
+      "id": "163",
+      "name": "中国"
+    },
+    {
+      "id": "6888",
+      "name": "中美"
+    }
+  ],
+  "author": {
+    "username": "铁木祯",
+    "uid": "110680"
+  },
+  "view_count": 4054,
+  "contents": "<div class=\"content markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvMTJlMzQzMDllYTJkZTFkZmQ1YjNkLmpwZz93aWR0aD0xMjg0JmhlaWdodD0xMDc5\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/12e34309ea2de1dfd5b3d.jpg?width=1284&amp;height=1079\"><img alt=\"https://telegra.ph/file/12e34309ea2de1dfd5b3d.jpg?width=1284&amp;height=1079\" loading=\"lazy\" src=\"https://telegra.ph/file/12e34309ea2de1dfd5b3d.jpg?width=1284&amp;height=1079\" style=\"max-width:100%\"/></a> </div>",
+  "date": "2023-10-08",
+  "agree_count": 1,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1048378",
+      "replier": {
+        "username": "S700N",
+        "uid": "75716"
+      },
+      "date": "2023-10-08",
+      "content": "指令集没什么意义，重要的是微架构，这才是设计制造能力的体现。\nIntel如果来造基于ARM或者RISC-V的CPU，比几十年历史包袱的x86牙膏只强不弱。"
+    },
+    {
+      "id": "1048411",
+      "replier": {
+        "username": "N2o小熊",
+        "uid": "26074"
+      },
+      "date": "2023-10-09",
+      "content": "有本事就把Linux、Golang等软件的RISC-V支持去掉，不然限制也是白限制。"
+    },
+    {
+      "id": "1048412",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2023-10-09",
+      "content": "限制开源的逻辑就像把课本里核物理内容去掉防止北朝鲜制造核武器一样荒谬"
+    }
+  ],
+  "answer_count": 12
+}

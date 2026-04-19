@@ -1,0 +1,170 @@
+{
+  "parent_type": "question",
+  "parent_id": "58391",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "655758",
+      "is_folded": false,
+      "answerer": {
+        "username": "daxuesheng",
+        "uid": "14137"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t英镑10进制改革之前，一英镑换240便士，中间有个12就是为了方便分割。<br/>\n但是随着通货膨胀和电脑处理的兴起，1970年代改成10进制。<br/>\n<br/>\n当然你看美国还在使用英制度量衡，那些大多能被3整除。\t\t</div>",
+      "date": "2023-05-16",
+      "agree_count": 7,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1177908",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-05-17",
+          "content": "这些度量衡并不用于货币吧？"
+        },
+        {
+          "id": "1285738",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-08-24",
+          "content": "@屠支太君:古代货币就是重量单位，否则你以为英镑和磅是啥关系？"
+        },
+        {
+          "id": "1285824",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2024-08-24",
+          "content": "@屠支太君:分割金子銀子"
+        },
+        {
+          "id": "1285876",
+          "replier": {
+            "username": "十字军征支大佐",
+            "uid": "33363"
+          },
+          "date": "2024-08-24",
+          "content": "美国是用二进制的。1dollar=4quarter"
+        }
+      ]
+    },
+    {
+      "id": "655738",
+      "is_folded": false,
+      "answerer": {
+        "username": "SANDOLA666",
+        "uid": "78276"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t除非人類文明轉為12進制<br/>\n不然發明這些貨幣只是在自找麻煩\t\t</div>",
+      "date": "2023-05-16",
+      "agree_count": 5,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1285808",
+          "replier": {
+            "username": "橡果滾呀滾",
+            "uid": "101114"
+          },
+          "date": "2024-08-24",
+          "content": "你天天看著12進制跟30進制的時鐘會不會覺得麻煩？"
+        },
+        {
+          "id": "1285809",
+          "replier": {
+            "username": "橡果滾呀滾",
+            "uid": "101114"
+          },
+          "date": "2024-08-24",
+          "content": "@橡果滾呀滾:60"
+        }
+      ]
+    },
+    {
+      "id": "769902",
+      "is_folded": false,
+      "answerer": {
+        "username": "placebo",
+        "uid": "31987"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不符合人類的使用習慣。<br/>\n中共國曾經跟蘇聯學習，發行過三元的紙幣。後來發現實用價值不大，很快就廢除了。\t\t</div>",
+      "date": "2024-08-24",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1285819",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-08-24",
+          "content": "三元不实用是排列组合问题\n事实证明1，2，5才是需要的数字"
+        }
+      ]
+    },
+    {
+      "id": "655732",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t系統處理不了，所有crypto都是10進制，如1btc=1億聰<br/>\n<br/>\n非十進制交易所或錢包處理不了，鏈也無法\t\t</div>",
+      "date": "2023-05-16",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1177831",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-05-16",
+          "content": "😡这么重要的缺陷为什么没人改呢？"
+        },
+        {
+          "id": "1177917",
+          "replier": {
+            "username": "使命光荣责任重大",
+            "uid": "100513"
+          },
+          "date": "2023-05-17",
+          "content": "这不是问题，为了避免运算的浮点误差，钱都数量都用整数表示而不是浮点数，比如89.64元，内部实际上记为8964分，所以只要所有的钱数都可以表示为某个最小单位的整数倍就可以处理。"
+        }
+      ]
+    },
+    {
+      "id": "655755",
+      "is_folded": false,
+      "answerer": {
+        "username": "shijiaqing",
+        "uid": "80186"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我不是经济学家，但是我觉得应该会通货膨胀。比如说一块钱三个泡泡糖，一般人直接买三个就行了。而且可以找这种零钱就没办法用棒棒糖找钱了，因为没有借口说没零钱找。综上所述，如果印了1/3的钱，厂家就不得不加价。\t\t</div>",
+      "date": "2023-05-16",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "769948",
+      "is_folded": false,
+      "answerer": {
+        "username": "Roxe_2077",
+        "uid": "131879"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t3进制在某些运算中有优势，但是如果来当货币的话，单独的三元币，没啥多大用处\t\t</div>",
+      "date": "2024-08-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

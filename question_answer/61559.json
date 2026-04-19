@@ -1,0 +1,604 @@
+{
+  "parent_type": "question",
+  "parent_id": "61559",
+  "answer_count": 26,
+  "answers": [
+    {
+      "id": "686783",
+      "is_folded": false,
+      "answerer": {
+        "username": "TISU",
+        "uid": "33812"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tDUV本來就可以做7nm，問題是良率低<br/>\n網路上一堆論文可以佐證這一點<br/>\n三星也能做7nm，但是台積電厲害就贏在良率<br/>\n在你的世界裡美國又震驚地度過了一天\t\t</div>",
+      "date": "2023-09-06",
+      "agree_count": 36,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1206496",
+          "replier": {
+            "username": "pc1225",
+            "uid": "79654"
+          },
+          "date": "2023-09-07",
+          "content": "不懂就问：有报道说有台积电的技术大佬去了中芯帮助的，如果是真的，能否会对中芯良率有很大帮助"
+        },
+        {
+          "id": "1206691",
+          "replier": {
+            "username": "支共祸国殃民",
+            "uid": "111713"
+          },
+          "date": "2023-09-08",
+          "content": "@pc1225:@pc1225:如果靠挖人才就能扭转劣势的话，那匪共早就大撒币买人赢麻了"
+        },
+        {
+          "id": "1207578",
+          "replier": {
+            "username": "TISU",
+            "uid": "33812"
+          },
+          "date": "2023-09-11",
+          "content": "@pc1225:大型企業有優秀人才是一個精準的螺絲鎖在完美無誤差的地方，鎖錯地方無法發揮原本的功能。所以世界百大企業能夠歷經各種動盪不衰是有優秀的人和體系/環境，這種事情是無法彎道超車的"
+        }
+      ]
+    },
+    {
+      "id": "686773",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一般央视说美国媒体不提是谁大概就是北美华人电视台那种机构<br/>\n<br/>\n总裁还去报道两会那种\t\t</div>",
+      "date": "2023-09-06",
+      "agree_count": 24,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686815",
+      "is_folded": false,
+      "answerer": {
+        "username": "个个是人才",
+        "uid": "96673"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美媒是哪家？<br/>\n没说<br/>\n那就是经费养着<br/>\n注册在美国法拉盛按摩楼四层<br/>\n隔壁可能还是一个反共党组织总部<br/>\n的那种大媒体\t\t</div>",
+      "date": "2023-09-06",
+      "agree_count": 15,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1206126",
+          "replier": {
+            "username": "打土共分兰兰",
+            "uid": "89718"
+          },
+          "date": "2023-09-07",
+          "content": "经不起追问的强国媒体"
+        }
+      ]
+    },
+    {
+      "id": "686776",
+      "is_folded": false,
+      "answerer": {
+        "username": "The19890604",
+        "uid": "46798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tDUV波長193nm，這項工藝的極限就在7nm，EUV的原理已部分公開，只要看看IBM提供的這個影片就能知道逆向工程難度極高：<br/>\n<br/>\nIBM(國際商業機器公司)How EUV lithography works<br/>\nhttps://www.youtube.com/watch?v=RI3lCUEzSvE<br/>\n<br/>\n更何況如今最前端的整個半導體業只完成EUV還不夠，還要日本的光刻膠，美國的EDA，台積電的CoWoS等等……<br/>\n<br/>\n不過對習近平來說只要能生產軍工產品就行了吧，全速向蘇聯倒車。\t\t</div>",
+      "date": "2023-09-06",
+      "agree_count": 10,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1206125",
+          "replier": {
+            "username": "打土共分兰兰",
+            "uid": "89718"
+          },
+          "date": "2023-09-07",
+          "content": "中芯要敢生产军工用芯片分分钟被制裁倒闭"
+        },
+        {
+          "id": "1206348",
+          "replier": {
+            "username": "readonly123",
+            "uid": "115452"
+          },
+          "date": "2023-09-07",
+          "content": "明年就禁duv光刻机，不可持续了"
+        },
+        {
+          "id": "1206353",
+          "replier": {
+            "username": "蒜香小馄饨",
+            "uid": "93446"
+          },
+          "date": "2023-09-07",
+          "content": "军工产品还要什么先进工艺呀，直接28nm就够用了"
+        },
+        {
+          "id": "1206355",
+          "replier": {
+            "username": "主席聖明",
+            "uid": "20291"
+          },
+          "date": "2023-09-07",
+          "content": "@蒜香小馄饨:并不是，现在的军工产品越来越精密以及小型化，尤其是单兵电子产品（比如微软的hololens）对运算速度需求极高。"
+        }
+      ]
+    },
+    {
+      "id": "686848",
+      "is_folded": false,
+      "answerer": {
+        "username": "大音无声",
+        "uid": "108194"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国是许可中芯国际做duv 成熟制程的代工的<br/>\n所以多次曝光生产7nm并不违反制约<br/>\n华为利用了这个空子，只不过良率不超过50%，发热过人，买了这个手机的人很快会为所谓爱国心后悔\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 16,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1206366",
+          "replier": {
+            "username": "The19890604",
+            "uid": "46798"
+          },
+          "date": "2023-09-07",
+          "content": "好消息，美國開始查中芯了，遲到總比不到好"
+        }
+      ]
+    },
+    {
+      "id": "686799",
+      "is_folded": false,
+      "answerer": {
+        "username": "notaher0",
+        "uid": "116336"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t打個比喻<br/>\n中國今天做出遼寧號 美國有什麼表態嗎？？<br/>\n也不會有什麼特別反應 就是“嗯，知道了”\t\t</div>",
+      "date": "2023-09-06",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686938",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那美国到底要怎么做才能表示美国不震惊无所谓呢？难道专门召开一场发布会表示美国不震惊吗<br/>\n至于7nm本身就是duv的极限制程，中国人终于弄明白了duv咋用有什么值得吹的？难道ccp每吹一个牛美国就得发表一次看法？恐怕很多美国人对自己国家的事都没这么上心好吧<br/>\n至于央视新闻，屎，别看。除非你是萨达姆希特勒1984v字仇杀队的死忠脑残粉，特别想体验一下天天被老大哥洗礼的感觉。如果这样的话，那我推荐一个更棒的，朝鲜国家电视台，看看朝鲜是如何支援欧美难民保证西方国家的人不被饿死的\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686844",
+      "is_folded": false,
+      "answerer": {
+        "username": "baokemeng",
+        "uid": "52638"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t为什么不标出DUV光刻机是从荷兰买的？怕伤害到粉红的自尊心吗？我一开始就知道是这么回事，用的还是台积电淘汰的过时技术，所以这几天中国人到底在高潮什么？看不懂<br/>\n<br/>\n不过确实有个疑点，中芯敢用duv给华为做芯片，难道真不怕荷兰断货了吗？\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687076",
+      "is_folded": false,
+      "answerer": {
+        "username": "民主信仰者",
+        "uid": "653"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美國當然驚訝。<br/>\n「<b>居然會有人蠢到用好幾倍成本的方式做晶片？</b>」<br/>\n<br/>\n你知不知道用DUV做現在的先進製程，那成本有多高？<br/>\n台積電早就試過，良率低的可憐、成本高的讓人想死，毫無商用價值，所以早就被放棄了。<br/>\n現在只不過是撿別人放棄的技術來用而已，<b>既不是創新也沒有價值</b>。<br/>\n<hr/><br/>\n這麼說你可能沒辦法理解，舉個簡單的例子：<br/>\n性能相似晶片製程相同的手機，別人一支賣200美元還有的賺，他得賣到250甚至300美元才能平衡收支。<br/>\n這要競爭個鬼？只能用「愛國」繼續割中國韭菜，騙人去買而已。\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686876",
+      "is_folded": false,
+      "answerer": {
+        "username": "养老不能靠政府",
+        "uid": "48556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t央视怎么了，一会可防可控，一会坚持动态清零不动摇，一会每个人是自己健康的第一责任人，才一年不到就忘了\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686774",
+      "is_folded": false,
+      "answerer": {
+        "username": "xiaoxin436",
+        "uid": "94945"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t央视做新闻的懂什么技术？难道还宣传美国许可下做的？你说的那些人分析和听床没什么区别。实际上现在厂商宣传的多少nm，都是营销话语。\t\t</div>",
+      "date": "2023-09-06",
+      "agree_count": 5,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1206072",
+          "replier": {
+            "username": "The19890604",
+            "uid": "46798"
+          },
+          "date": "2023-09-06",
+          "content": "正確的，4nm可不是真的4nm，是晶體管密度達到4nm理論值，現在都走3D堆疊了"
+        },
+        {
+          "id": "1206095",
+          "replier": {
+            "username": "扎克斯",
+            "uid": "110880"
+          },
+          "date": "2023-09-06",
+          "content": "这可是央视啊，应该比较严谨"
+        },
+        {
+          "id": "1206100",
+          "replier": {
+            "username": "xiaoxin436",
+            "uid": "94945"
+          },
+          "date": "2023-09-06",
+          "content": "@扎克斯:央视又这么样？虚假的信息少了，特别是涉及到政治方面的。你要想了解芯片方面的知识，天天看媒体能了解，自己不找资料吗？"
+        }
+      ]
+    },
+    {
+      "id": "686852",
+      "is_folded": false,
+      "answerer": {
+        "username": "minisoda996",
+        "uid": "12008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在总有人说是拜登软了，暗中放了中芯国际一马，给了授权云云。<br/>\n<br/>\n我对此表示怀疑，咱就拭目以待吧。\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686867",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t居然还有人认为央视可以的，央视一直和权威专业无关，全靠嘴说的，不信你可以去提问，你看他怎么回答(ﾟoﾟ;\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686846",
+      "is_folded": false,
+      "answerer": {
+        "username": "uuu987",
+        "uid": "111126"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中芯能做到什么程度  <br/>\n美国人肯定知道  <br/>\n<br/>\n中芯现在用的   <br/>\n还是世界产业链  不是独创<br/>\n<br/>\n我真的怀疑<br/>\n这是贪官又和外国联手   挖中国政府的钱<br/>\n<br/>\n前阵子的消息  是中国政府对芯片产业失望<br/>\n被骗补<br/>\n查办了很多人  也不想再搞了<br/>\n<br/>\n结果华为芯片 <br/>\n又让中国开始    大力补贴芯片<br/>\n<br/>\n对美国来说  维持代差<br/>\n不要让中国<br/>\n得到像asml 台积电这种<br/>\n能主导产业的垄断力量就行了<br/>\n<br/>\n其他  中国要花钱给外国人<br/>\n抄袭一样的技术路线  但又有代差<br/>\n美国是ok的<br/>\n美国人   还是可以掌握  <br/>\n追踪中国的芯片科技发展<br/>\n<br/>\n又能多方面  联合世界对中国放血<br/>\n军备竞赛 (美国+日韩台)<br/>\n科技竞赛(美国+欧日韩台)<br/>\n再加上产业链外移   中国自身的债务经济危机\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 3,
+      "discussion_count": 10,
+      "discussions": [
+        {
+          "id": "1206438",
+          "replier": {
+            "username": "曾轶可赛艇",
+            "uid": "114383"
+          },
+          "date": "2023-09-07",
+          "content": "问题是华为这个手机预计能卖1500万台，也就是高通等其他美国公司少了1500万业务。这就跟汽车行业是类似的，虽然中国没有核心技术，但是国产率不断增加，虽然产品差点，还是能依靠民族主义把西方企业逼出市场，不仅能拉近代差，还能在跟西方企业的利益博弈中拿到更多筹码，利用市场引导西方企业影响政府减弱制裁，比如像nvidea搞换皮特供芯片那样搞换皮特供光刻机。"
+        },
+        {
+          "id": "1206471",
+          "replier": {
+            "username": "uuu987",
+            "uid": "111126"
+          },
+          "date": "2023-09-07",
+          "content": "@曾轶可赛艇:你只是补贴产业  扭曲市场而已\n多重曝光的良率很低   政府贴钱搞计画\n就等于中国政府\n亲自下场补贴华为手机了\n如果真的  全面把西方逼出中国市场\n那就是回到三十年前\n西方一样有钱阿。。。\n西方把低端产业  丢印度越南\n再养出市场替代中国就行\n请问中国找谁替代美国？\n俄国 巴铁吗？  哈哈"
+        },
+        {
+          "id": "1206497",
+          "replier": {
+            "username": "曾轶可赛艇",
+            "uid": "114383"
+          },
+          "date": "2023-09-07",
+          "content": "@uuu987: 西方独裁国家很少，对企业的约束能力有限，而企业股东主要愿望是赚钱，而不是国际政治，而且股东不是长期owner，完全可以赚了钱就跑，企业几十年上百年的可持续发展也不是他们的目标，总有愿意跟中国勾兑赚大钱的企业"
+        },
+        {
+          "id": "1206498",
+          "replier": {
+            "username": "曾轶可赛艇",
+            "uid": "114383"
+          },
+          "date": "2023-09-07",
+          "content": "@uuu987: 另外把低端产业丢到印度越南，也必须是出于企业自身利益的考虑，而不是西方国家某个独裁者说丢就丢的，中国在技术还未领先的情况下，不会真的把西方企业逼出市场，而是把逼出市场作为逼迫西方企业以技术换市场的筹码"
+        },
+        {
+          "id": "1206501",
+          "replier": {
+            "username": "曾轶可赛艇",
+            "uid": "114383"
+          },
+          "date": "2023-09-07",
+          "content": "@uuu987: 以前是我造不了芯片，所以你国制裁给我造成的麻烦很大，现在我不但能造勉强能用的芯片，而且在水平差的情况下我还能高价卖1500万，你国再制裁下去不但你企业的手机卖不出去，连芯片你也卖不出去了，如果你企业说服你国不制裁了，或者你企业跟我私下勾兑一下搞点nvidia那样的特供还能赚点快钱"
+        },
+        {
+          "id": "1206551",
+          "replier": {
+            "username": "uuu987",
+            "uid": "111126"
+          },
+          "date": "2023-09-07",
+          "content": "@曾轶可赛艇:低端产能丢到印度 越南  就是产业链脱钩考虑阿。。。不是企业自身利益。  否则为啥中美贸易战开打后    印度 越南才大火？   低端产能丢到印度 越南  就像当初带起中国  他们也会开始有钱消费"
+        },
+        {
+          "id": "1206709",
+          "replier": {
+            "username": "曾轶可赛艇",
+            "uid": "114383"
+          },
+          "date": "2023-09-08",
+          "content": "@uuu987: 低端产能丢到印度、越南，主要是中国用工成本上升，而不是响应国家政策。中国人均gdp已经达到1万2了，印度才3000，在印度制造对技能要求低的产品成本比中国低很多，能赚很多钱。"
+        },
+        {
+          "id": "1206710",
+          "replier": {
+            "username": "曾轶可赛艇",
+            "uid": "114383"
+          },
+          "date": "2023-09-08",
+          "content": "@uuu987: 我在美国大公司工作，其中一些工作项目跟政策相关，我的经验就是美国公司根本不鸟政府，我们公司就经常告政府政策违宪，搞到最高法院去，一拖拖几年，不可能像中国公司那样在损害自身利益的情况下相应政府号召的。"
+        },
+        {
+          "id": "1206713",
+          "replier": {
+            "username": "uuu987",
+            "uid": "111126"
+          },
+          "date": "2023-09-08",
+          "content": "@曾轶可赛艇:\n你说的那个  因人力成本上升的\n贸易战前\n就有在搬了  很多搬到东南亚又搬回来\n发现还是中国人耐操\n其实中国很多工厂  工资都很低的\n那种条件和工资  还有上班时间\n我怀疑如果没有中美贸易战  永远搬不出去的\n你看中美贸易战后  越南 印度才火\n所以那不是工资的问题"
+        },
+        {
+          "id": "1206714",
+          "replier": {
+            "username": "uuu987",
+            "uid": "111126"
+          },
+          "date": "2023-09-08",
+          "content": "@曾轶可赛艇:\n要看公司\n否则华为怎么被制裁的？\n华为可是空了好几年\n全世界市场都掉一大块。。。\n如果美国公司不听话   这事根本就做不成\n我也认识美国工具机公司\n很遵守禁令  有些东西就是不卖中国市场"
+        }
+      ]
+    },
+    {
+      "id": "687413",
+      "is_folded": false,
+      "answerer": {
+        "username": "萌萌哒",
+        "uid": "10510"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中芯理论能到7nm在几年前我调研中芯国际的时候就知道了，2023年却跟发现新大陆一样。只能说认知差异越来越大了。\t\t</div>",
+      "date": "2023-09-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686960",
+      "is_folded": false,
+      "answerer": {
+        "username": "啪啪啪WN",
+        "uid": "101745"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t制裁不彻底，就是彻底不制裁。加油，山姆大叔！反正duv也快拿不到了，光刻胶也管制了。\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686868",
+      "is_folded": false,
+      "answerer": {
+        "username": "kmvver",
+        "uid": "112733"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美國震驚了！好，馬上研擬封鎖DUV設備的辦法。<br/>\n<br/>\n都被盯上了還在高調，大家都已經知道中國的晶片上至軟體設計、材料，下至封裝都依賴外國，蠢到不可思議\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686892",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t光刻机肯定还是用的荷兰的嘛。反正不知道为什么这么高潮。<br/>\n中国是肯定造不出光刻机的。\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686947",
+      "is_folded": false,
+      "answerer": {
+        "username": "guest_s",
+        "uid": "78029"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中國的成果評定中國自己說的算，你就別太當真了，他們是為了達到目的什麼話都能說的。\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688229",
+      "is_folded": false,
+      "answerer": {
+        "username": "fel6111",
+        "uid": "47889"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tDUV 通过多重曝光确实可以生产7nm 以下的芯片，但是良品率堪忧，按照日常的理解 DUV生产7nm的芯片至少需要三次以上的曝光，比方说良品率是0.95 两次曝光就是0.95的平方，90.25%的良品率，三次曝光就是0.95的立方，良品率是85.7。<br/>\n只能说不计代价生产。性能也确实还过得去。\t\t</div>",
+      "date": "2023-09-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686780",
+      "is_folded": false,
+      "answerer": {
+        "username": "peter0027",
+        "uid": "112134"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://youtu.be/YU3PTkuahH8?feature=shared\t\t</div>",
+      "date": "2023-09-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686781",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t说明和美国谈好了<br/>\n<br/>\n“我吹吹牛逼，你假装惊讶一下”<br/>\n“好的”\t\t</div>",
+      "date": "2023-09-06",
+      "agree_count": 0,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1206080",
+          "replier": {
+            "username": "扎克斯",
+            "uid": "110880"
+          },
+          "date": "2023-09-06",
+          "content": "这可是央视"
+        },
+        {
+          "id": "1206082",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-06",
+          "content": "@扎克斯: 我的对话双方分别是中国政府和美国政府"
+        },
+        {
+          "id": "1206107",
+          "replier": {
+            "username": "notaher0",
+            "uid": "116336"
+          },
+          "date": "2023-09-06",
+          "content": "美國：中國你得給力一點 這樣可以說服議會掏錢"
+        },
+        {
+          "id": "1206138",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-07",
+          "content": "@notaher0:主语不是美国五角大楼？"
+        },
+        {
+          "id": "1206286",
+          "replier": {
+            "username": "notaher0",
+            "uid": "116336"
+          },
+          "date": "2023-09-07",
+          "content": "@rowlandheights:經費是議會批的 中國威脅大一點軍方就有理由多要點經費"
+        },
+        {
+          "id": "1206436",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-07",
+          "content": "@notaher0:\"主语“是”美国“，但是这个可以具体到五角大楼"
+        }
+      ]
+    },
+    {
+      "id": "687046",
+      "is_folded": false,
+      "answerer": {
+        "username": "独立思考的狐狸",
+        "uid": "115964"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国重要议员说要加紧制裁华为和中芯，美国重要官员说要调查清楚以后再决定如何应对。这些说明美国并不事先了解这件事，所以说是美国允许中芯为华为制造的可能性非常小。最可能的情况是华为搭建了一条美国不掌握的产线，中芯可能提供了有限但是关键的技术支持。美国会收紧制裁，但是能否打到华为并不确定。\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "686812",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国举国工程大跃进从来不需要讲效率和良率\t\t</div>",
+      "date": "2023-09-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687081",
+      "is_folded": false,
+      "answerer": {
+        "username": "pingcong813",
+        "uid": "92708"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我记得当时制裁时，明确说了两代以内产品。<br/>\n<br/>\n这7nm和3nm确实隔了两代？\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "687103",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t原本就没指望孟晚舟公主夹着尾巴做人，当然不介意尾巴翘到天上去吃屎，反正也改不掉。\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

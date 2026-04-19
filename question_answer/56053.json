@@ -1,0 +1,100 @@
+{
+  "parent_type": "question",
+  "parent_id": "56053",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "630550",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ UNIX-like 選一個發行版, 如果用 linux 可以用 https://distrochooser.de 來選, 我推薦 Debian. BSD 推薦 FreeBSD / NetBSD  / OpenBSD. 用哪一個類平臺端看你喜歡集市模式還是喜歡教堂模式.<br/>\n<br/>\n_ _ 學會使用你所選平臺的軟件包管理工具, 我覺得機場技術路綫 v2ray 或 wireguard 二選一, 推測前者用戶更多些. 在你選的平臺都有對應軟件包, 用包管理工具安裝並運行之. 測試沒問題之後, 可以選擇在自己電腦上部署.<br/>\n<br/>\n_ _ 或者去購買 VPS(Virtual private server 虛擬專用伺服器)在 VPS 供應商機房的設備上部署你的平臺、安裝軟件包和開通你的機場.<br/>\n<br/>\n按照你的排程定期維護你的機場, 發現問題解決之.<br/>\n<br/>\n_ _ 若以上你看著并不頭大, 説明你的計算機使用水準足以應付這件事. 若有雲裏霧裏的感覺請選個 DevOps engineer 的培訓參加或雇傭一個.<br/>\n<br/>\n_ _ 只是建立機場的話是不需要涉及開發技術的, 但若你要去學 DevOps engineer 順便考取證書或進階學下開發都是不錯的, 端看你是要業餘做這件事還是要把它變成職業.\t\t</div>",
+      "date": "2023-02-13",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "630763",
+      "is_folded": false,
+      "answerer": {
+        "username": "USFUXXALL_II",
+        "uid": "74211"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看你想建立的规模，如果你想靠机场盈利，那是需要相应的网络知识的，毕竟你要应对防火墙的嗅探，以及cdn分发规则调整；还需要一定的服务器系统管理知识，用来对服务器进行基础的安全设置和流量识别。<br/>\n如果你只是为了帮人翻墙，那随便找搬瓦工或者vultr租一台便宜的云服务器，通过ssh工具登录，下载一个v2ray的一键安装脚本，按照教程配置好就行了。\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 4,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1154002",
+          "replier": {
+            "username": "forestowl",
+            "uid": "82744"
+          },
+          "date": "2023-02-14",
+          "content": "感谢回复！是有想法建个规模较大的机场，但不是为了盈利，免费或者能够维持成本的收费吧，主要是考虑雇佣技术人员的话成本就更高了…  所以想请教下您提到的“需要相应的网络知识应对防火墙的嗅探以及cdn分发规则调整，还需要一定的服务器系统管理知识”, 能推荐下学习相关技术的书籍或课程吗，感谢～"
+        },
+        {
+          "id": "1154033",
+          "replier": {
+            "username": "USFUXXALL_II",
+            "uid": "74211"
+          },
+          "date": "2023-02-14",
+          "content": "其实我也是小白，不过至少你得懂点linux操作系统的常规操作，和linux的网络入门吧，cdn这块我也不太懂，属于只能搜索配置但不知道原理的，是在帮不上忙不好意思"
+        },
+        {
+          "id": "1154065",
+          "replier": {
+            "username": "坠吼的",
+            "uid": "75280"
+          },
+          "date": "2023-02-14",
+          "content": "找搬瓦工或者vultr租一台便宜的云服务器，通过ssh工具登录，下载一个v2ray的一键安装脚本，本人亲自成功过一次，但是后来被墙了。总的来说如果自己喜欢捣鼓就可以捣鼓一下，自己用或者分享给朋友。但是如果是做专业的机场，你想免费让他人用太不现实了，因为购买服务器的钱就需要大几十万-小一百万吧，还不包括雇佣其他工作人的薪水。我在几年前购买服务器的租金是40多美元一年，还只是一个单一服务器的钱，你做机场的话需要至少几十条线路，HK，TW，US,UK,等，想拓宽的话还要有支持专门游戏线路的和支持流媒体的，总之一句话，蛮困难的，实力雄厚的你当我上面的没说。祝你成功"
+        }
+      ]
+    },
+    {
+      "id": "630814",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不需要学编程，但要学<br/>\n1 基础的网络知识。因为服务器部署在托管机房内网，没有基础的网络知识，不知道自己跑管理命令是针对哪台机器，别人连你的服务器是要开放什么端口，服务器线路怎么调优怎么测试。<br/>\n<br/>\n2 基础的服务器运维知识。需要用管理工具远程登录服务器，启动服务端程序。以及部署监控软件，服务异常要及时通知到你处理。<br/>\n<br/>\n3 基础的洗钱知识。人家用支付宝微信付款的，要四清代收商收钱转给你，代收的人会跑路，会抽成，会暴露你或者机场用户的信息。<br/>\n<br/>\n所有知识都是基础的，没有难度，但多而杂，需要整合。\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "630802",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t完全不需要。<br/>\n现成的脚本。傻瓜无脑一键式。<br/>\n会安装Windows，就能部署这玩意。\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "631771",
+      "is_folded": false,
+      "answerer": {
+        "username": "梁家河妇女办主任",
+        "uid": "88147"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tYouTube上有完整的教程，但是建议你不如找个程序员合作，你负责客服推广就行，术业有专攻，去hostloc这个网站找有很多人开几场的\t\t</div>",
+      "date": "2023-02-17",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

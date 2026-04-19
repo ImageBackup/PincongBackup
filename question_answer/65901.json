@@ -1,0 +1,110 @@
+{
+  "parent_type": "question",
+  "parent_id": "65901",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "733605",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t楼主大概是文科生。这玩意非常简单，开软件扫一下，WEP就开始破，几分钟完事。扫不到就放弃，有漏洞不代表你的破Linux笔记本能破。<br/>\n<br/>\n换句话说，屁用没有，还不如直接敲门借Wi-Fi。\t\t</div>",
+      "date": "2024-03-12",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1250603",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2024-03-12",
+          "content": "你自己说你自己是文科生吧？你连跑PIN、Pixie_dust 和fluxion 是个啥都不知道"
+        },
+        {
+          "id": "1250604",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2024-03-12",
+          "content": "WEP都800年前啦"
+        }
+      ]
+    },
+    {
+      "id": "733606",
+      "is_folded": false,
+      "answerer": {
+        "username": "jack_siu",
+        "uid": "111809"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t2016年以前，在一些五星級飯店提供的wifi是可以上外網的。<br/>\n現在，連沙縣小吃提供的wifi不實名都會被處罰。\t\t</div>",
+      "date": "2024-03-12",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "733591",
+      "is_folded": false,
+      "answerer": {
+        "username": "维尼加速器",
+        "uid": "124204"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在已经很难破解WiFi了，而且就算破解WiFi有什么用，反正还不是附近几家，稍微排查下就行了\t\t</div>",
+      "date": "2024-03-11",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1250588",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2024-03-12",
+          "content": "帖子怎么这么冷清呢？难道都是文科生？"
+        },
+        {
+          "id": "1250590",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2024-03-12",
+          "content": "用大炮天线可以蹭个好几公里"
+        }
+      ]
+    },
+    {
+      "id": "733592",
+      "is_folded": false,
+      "answerer": {
+        "username": "三来子和小平子",
+        "uid": "125962"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t继续科普。<br/>\n实名以后。<br/>\n现在对 Wifi 冲浪加强管控了<br/>\n<br/>\n去年就抓了几个开放公共 Wifi 的店铺罚款<br/>\n<br/>\n要求他们实名了\t\t</div>",
+      "date": "2024-03-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "733629",
+      "is_folded": false,
+      "answerer": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t帖子别沉啊，光键政不研究破解技术和反侦查技术了么？\t\t</div>",
+      "date": "2024-03-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

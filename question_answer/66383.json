@@ -1,0 +1,74 @@
+{
+  "parent_type": "question",
+  "parent_id": "66383",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "738512",
+      "is_folded": false,
+      "answerer": {
+        "username": "华夏共和国",
+        "uid": "120258"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t防共匪的黑客的。什么防君子不防小人，谁知道谁是君子小人，平等对待。你这个君子也太懒了，搞搞验证码能有多累？\t\t</div>",
+      "date": "2024-04-05",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "738518",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该是防机器人不防真人。<br/>\n<br/>\n只有新人和观察才会要求验证码。\t\t</div>",
+      "date": "2024-04-05",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1255081",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2024-04-05",
+          "content": "不一定吧？IP不干净也算吧？"
+        },
+        {
+          "id": "1255096",
+          "replier": {
+            "username": "叶无双",
+            "uid": "76743"
+          },
+          "date": "2024-04-06",
+          "content": "@pctrk7915: IP不干净=可能是网络攻击=机器人，一个意思"
+        },
+        {
+          "id": "1255108",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2024-04-06",
+          "content": "@叶无双:对"
+        }
+      ]
+    },
+    {
+      "id": "738563",
+      "is_folded": true,
+      "answerer": {
+        "username": "品支",
+        "uid": "119299"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-04-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

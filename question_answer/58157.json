@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "58157",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "653631",
+      "is_folded": false,
+      "answerer": {
+        "username": "朝鲜第一书记",
+        "uid": "110069"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有的媒体说了是因心脏病去世的。<br/>\n<br/>\n这么年轻就去世了\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1175825",
+          "replier": {
+            "username": "杜美霜代表",
+            "uid": "99975"
+          },
+          "date": "2023-05-08",
+          "content": "是啊，很突然"
+        }
+      ]
+    },
+    {
+      "id": "653645",
+      "is_folded": false,
+      "answerer": {
+        "username": "马力123",
+        "uid": "32545"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t新京报：<br/>\n<br/>\n西藏浪卡子县人民医院工作人员告诉记者，近期，万玛才旦所在剧组在医院附近工作，多名剧组工作人员出现高原反应，前往医院吸氧。7日，万玛才旦感到身体不适。8日凌晨，他病情加重，被送至该院抢救。随后，他被送至西藏自治区人民医院再次进行抢救，医护人员对他实施了心肺复苏等抢救手段，但最终，万玛才旦还是离世了。\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

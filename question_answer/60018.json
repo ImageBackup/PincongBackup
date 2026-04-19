@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "60018",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "671695",
+      "is_folded": false,
+      "answerer": {
+        "username": "又赢了",
+        "uid": "113086"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t本来就是中年人和小粉红用的，多好，以前不知道，现在看一个手机就能判断对方是不是弱智了\t\t</div>",
+      "date": "2023-07-19",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "671887",
+      "is_folded": true,
+      "answerer": {
+        "username": "kme199331",
+        "uid": "111256"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-07-19",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

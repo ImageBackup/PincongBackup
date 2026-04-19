@@ -1,0 +1,22 @@
+{
+  "article_id": "56043",
+  "category_id": "4",
+  "title": "Pixel現重大漏洞，所有截圖都可恢復",
+  "meta_description": "Pixel現重大漏洞，所有截圖都可恢復 - 近日新發現的漏洞CVE-2023-21036影響了至今所有pixel手機。 該漏洞於Android 10被引入，存在於Android default markup的API總，這意味著很多調用原生API截圖的第三方ROM也受到了影響。 該漏洞在Google ...",
+  "meta_keywords": "pixel,重大,漏洞,截圖,都可,恢復",
+  "tags": [
+    {
+      "id": "332",
+      "name": "谷歌"
+    }
+  ],
+  "author": {
+    "username": "一個東方人",
+    "uid": "95125"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t近日新發現的漏洞CVE-2023-21036影響了至今所有pixel手機。<br/>\r\n該漏洞於Android 10被引入，存在於Android default markup的API總，這意味著很多調用原生API截圖的第三方ROM也受到了影響。<br/>\r\n該漏洞在Google March security patch中被修復，請立即更新手機。<br/>\r\n漏洞發現研究員建立了一個網頁avropalypse.app可以一鍵還原已編輯的截圖，雖然還原並不完整，但的確能揭示極多不存在於截圖中的元數據，非常致命。\t\t\t\t\t\t\t</div>",
+  "view_count": 3384,
+  "date": "2023-03-18",
+  "agree_count": 2,
+  "comment_count": 0
+}

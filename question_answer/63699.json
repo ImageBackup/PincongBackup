@@ -1,0 +1,48 @@
+{
+  "parent_type": "question",
+  "parent_id": "63699",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "709844",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t经济增长点不多，能利用的都要利用。作为城市来说，找个大兴土木的借口就不容易。<br/>\n<br/>\n亏钱亏的是建体育场馆的政府，旅馆业餐饮业都会受益。\t\t</div>",
+      "date": "2023-12-03",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1230023",
+          "replier": {
+            "username": "dearkate00820",
+            "uid": "112674"
+          },
+          "date": "2023-12-03",
+          "content": "真的会受益么?如果是运动会,运动员是不吃当地东西的"
+        },
+        {
+          "id": "1230024",
+          "replier": {
+            "username": "dearkate00820",
+            "uid": "112674"
+          },
+          "date": "2023-12-03",
+          "content": "旅游和世界博览会不挂钩呀"
+        },
+        {
+          "id": "1230025",
+          "replier": {
+            "username": "BITMajo",
+            "uid": "120014"
+          },
+          "date": "2023-12-03",
+          "content": "不是只有運動員要吃飯啊，還有觀光客。"
+        }
+      ]
+    }
+  ]
+}

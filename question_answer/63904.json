@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "63904",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "712663",
+      "is_folded": false,
+      "answerer": {
+        "username": "王德成",
+        "uid": "20643"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t报道称，这项统计中的新婚夫妇是指截至2022年11月1日结婚不满五年、居住在韩国并保持婚姻关系的夫妻。<br/>\n这是连前五年结婚的也算上了。。。。<br/>\n并不是当年结婚人数<br/>\n<br/>\n看统计学数字之前先看统计口径<br/>\n也就是说这个数字包含了5年内结婚并且没离婚的人数<br/>\n除以五，差不多就是一年平均下来的人数，<br/>\n正好和19.17万差不多。\t\t</div>",
+      "date": "2023-12-14",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712646",
+      "is_folded": false,
+      "answerer": {
+        "username": "wumingdaxia",
+        "uid": "17285"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那为什么出生率都差不多，难道韩国人只婚不生？\t\t</div>",
+      "date": "2023-12-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712648",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为你查到的数字不对。<br/>\n<br/>\n这是韩联社的新闻：https://cn.yna.co.kr/view/ACK20230316003400881<br/>\n<br/>\n韩联社世宗3月16日电 据韩国统计厅16日发布的一份统计资料，2022年韩国婚姻登记数为19.17万对，同比减少0.4%，创下历史最低纪录。平均初婚年龄则创下历史新高。\t\t</div>",
+      "date": "2023-12-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "64301",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "716710",
+      "is_folded": false,
+      "answerer": {
+        "username": "Pullthetrigger",
+        "uid": "45474"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t胡耀邦，胡锦涛的胡就不要选了，下场太惨。<br/>\n<br/>\n习明泽已经抢注了关键字“泽”，不好意思。\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716716",
+      "is_folded": false,
+      "answerer": {
+        "username": "极权之下无产权",
+        "uid": "19340"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有 任泽平 了  任弼时的任<br/>\n<br/>\n任我行的任<br/>\n<br/>\n哈哈哈哈哈多付多所付所多付\t\t</div>",
+      "date": "2023-12-31",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716431",
+      "is_folded": true,
+      "answerer": {
+        "username": "白头翁",
+        "uid": "111559"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-12-30",
+      "agree_count": 7,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1235592",
+          "replier": {
+            "username": "德州仪器",
+            "uid": "93127"
+          },
+          "date": "2023-12-31",
+          "content": "邓和习二人名字里也不见水啊"
+        },
+        {
+          "id": "1235597",
+          "replier": {
+            "username": "白头翁",
+            "uid": "111559"
+          },
+          "date": "2023-12-31",
+          "content": "@德州仪器:邓那几年可不是差点就没了么，习还用我说么？"
+        }
+      ]
+    }
+  ]
+}

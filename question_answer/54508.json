@@ -1,0 +1,104 @@
+{
+  "parent_type": "question",
+  "parent_id": "54508",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "612852",
+      "is_folded": false,
+      "answerer": {
+        "username": "N2o小熊",
+        "uid": "26074"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t机场服务器知道你的源IP/端口和目标域名或IP地址。如果使用家用网络，网络运营商通过源IP/端口可以定位到人。所以如果机场服务器出卖你的信息，中共就可以知道你访问了哪些域名和IP地址。\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612843",
+      "is_folded": false,
+      "answerer": {
+        "username": "尤里X",
+        "uid": "50565"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t品葱首页右上角有迷雾通的下载链接，不知道为什么还会有人问这个问题？\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612839",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t假設你的設備軟硬件沒漏洞, 而你又使用了 tor 或 VPN 或某種加密代理, 想竊聽你的話就很困難.\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612861",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t使用风险机场，要么配合tor使用，要么再加一层VPN，多层跳转更安全\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612871",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怕就別用<br/>\n還有要看哪裡機場、怎麼走<br/>\n入境中國是很危險，但要是歐美機場就安全很多<br/>\n要是你在中國機場登機門等30分鐘後起飛去瑞士的飛機，我也不覺得中國能為了你上了次品蔥就把你攔下來\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1137494",
+          "replier": {
+            "username": "Grecap1",
+            "uid": "39784"
+          },
+          "date": "2022-12-22",
+          "content": "等等...哪种\"机场\"？"
+        },
+        {
+          "id": "1137548",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2022-12-22",
+          "content": "@Grecap1:我以為是free wifi\n（ps 一句隨便的廢話，輸入法給我打成free wifu）"
+        }
+      ]
+    },
+    {
+      "id": "612842",
+      "is_folded": false,
+      "answerer": {
+        "username": "antipc",
+        "uid": "103111"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你就穷死吧，你要不然就完全不碰政治，要不然就等进到监狱以后就开始后悔每月为什么就要省那么十块钱。\t\t</div>",
+      "date": "2022-12-22",
+      "agree_count": -2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "parent_type": "question",
+  "parent_id": "62746",
+  "answer_count": 15,
+  "answers": [
+    {
+      "id": "699942",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为够用<br/>\n实际上大部分动画原盘分辨率连1080都没有,都是通过算法拉伸到1080的<br/>\n<br/>\n想要上4K,首先画师的工作量上来几倍,制作成本相应的也会得到大幅提升<br/>\n还有,根据steam上的硬件统计,仍有60%以上的用户使用1920 1080的分辨率<br/>\n本来现在业界就不太行,搞4K纯费力不讨好,观众还是得压缩回1080看,省省吧<br/>\n<br/>\n大部分人也就在电视上看,流媒体上看.就那个码率本来就糟糕,音频也是有损压缩的.但大部分人不在意这些<br/>\n会在意的,都是下载各大压制组制作的BT看<br/>\n壕的话就自行购买蓝光机+动画BD盘.\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699906",
+      "is_folded": false,
+      "answerer": {
+        "username": "wce3f2xi",
+        "uid": "49662"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不否认民间是有高手。但你举得例子不恰当。<br/>\n<br/>\n首先压缩确实是门技术活。不过压缩后再解压，需要很长时间。基本是用时间换空间了。每个平台（steam或者gog或者epic都有自己的算法），例如某游戏增加一个更新，这个更新要替换多少内容，与它使用的游戏引擎，平台更新补丁算法，都有关系。<br/>\n<br/>\n曾经gog的算法就很糟糕，导致更新一个2077，比自己重新下几十g更慢。<br/>\n<br/>\n如何快速的更新一个游戏，有时候下载量并不是最重要的考量，现在cdn的流行以及高速带宽下，动辄几g的下载也就是几分钟的事情。反而如果为了省点空间，在那不停地计算，花的时间更慢。<br/>\n<br/>\n至于你说的动画的例子，我不了解也没发言权。\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1219511",
+          "replier": {
+            "username": "严防网警比对信息",
+            "uid": "112279"
+          },
+          "date": "2023-10-24",
+          "content": "谢谢解惑，游戏这方面确实理解一些原因了"
+        }
+      ]
+    },
+    {
+      "id": "699905",
+      "is_folded": false,
+      "answerer": {
+        "username": "nyny",
+        "uid": "115318"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1. 你自己都說了一個是補幀放大 一個是原生能比嗎，AI生成一鍵放大，動畫公司可以這麼做 但觀眾會接受嗎。<br/>\n2. 因為用正版能直接從steam下載，不需要刻意壓縮檔案，那是盜版用家BT下載才有這個需求。\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1219509",
+          "replier": {
+            "username": "严防网警比对信息",
+            "uid": "112279"
+          },
+          "date": "2023-10-24",
+          "content": "意思是动画公司可以用商业级软件和硬件渲染到60甚至120帧再把作品推出市场，但是业界不这么做，是哪里出了问题呢，知乎也没有答案"
+        },
+        {
+          "id": "1219512",
+          "replier": {
+            "username": "nyny",
+            "uid": "115318"
+          },
+          "date": "2023-10-24",
+          "content": "@严防网警比对信息: 在日本電視台訊號規格就這，4k60hz什麼的看不到的啦。如果藍光碟這麼做不得被人罵死，可是花錢買的。"
+        }
+      ]
+    },
+    {
+      "id": "700028",
+      "is_folded": false,
+      "answerer": {
+        "username": "kiritokun",
+        "uid": "44964"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t单说动画这块，你也要考虑原画师的薪资成本啊<br/>\n<br/>\n业界说实在本来就很压榨原画师，如果要追求高帧数动画，一季动画12集下来我估计一原，二原，中割还有作监会直接累死在桌子上<br/>\n<br/>\n而且不论是制作委员会和动画公司都是想着降本增效的，为了追求高帧数和画质，自家画师和后期累的半死，公司出钱还多了，最后动画出来要是没火bd没卖出去多少，版权费又不够赚的话那就等着扑街了<br/>\n<br/>\n所以动画这块，可以追求高品质，那就是去买BD。但一般的TV动画，追求这些对制作方来说完全是没有任何的好处（除非你公司已经打出了名气，那还追求一下画面的要求。比如说飞碟社或者京阿尼\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700065",
+      "is_folded": false,
+      "answerer": {
+        "username": "wget",
+        "uid": "51008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t动画你还不如研究本地插帧补帧来的好, 游戏你需要了解一下压缩算法, 之前见到过丧心病狂用PAQ压缩的盗版, 基本上50g的数据量要花一个星期\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700070",
+      "is_folded": false,
+      "answerer": {
+        "username": "同人志",
+        "uid": "22020"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你想想一个“民间高手”做出一段4k动画要花多长时间，如果换算成正常工资，再请多点人要多少成本？\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700077",
+      "is_folded": false,
+      "answerer": {
+        "username": "問心",
+        "uid": "43432"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t廠商的目的是賺錢，又不是在做慈善事業，<br/>\n控制「成本」，才是是最優先考慮的吧。\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699917",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t民间大神精简掉了游戏里大量的广告，赚钱，推广程序。\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700088",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得是考虑“兼容性”<br/>\n<br/>\n民间修改的版本，可能只有在“主流”“教高性能”电脑上才能愉快的跑起来，但是游戏发行商要考虑几乎“所有”的电脑配置，可能包含一些很奇葩或者很低性能的配置也要跑起来，各自面对的消费群体不一样。\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699904",
+      "is_folded": false,
+      "answerer": {
+        "username": "SANDOLA666",
+        "uid": "78276"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在這流量免費的年代<br/>\n誰跟你壓縮比??<br/>\n吃飽太閒???<br/>\n<br/>\n提高壓縮比那不是做不到<br/>\n是沒有必要，除了盜版以外\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699907",
+      "is_folded": false,
+      "answerer": {
+        "username": "ax1350",
+        "uid": "117588"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你說的元素沒有其他更能賺錢的元素重要<br/>\n儲存空間不夠是你家的事\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700696",
+      "is_folded": false,
+      "answerer": {
+        "username": "于万物之中",
+        "uid": "14650"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t动画不是帧数越高越好的。动画作画中经常有所谓的“一拍二”“一拍三”的说法，就是原本每秒24帧的画面，故意做成每秒12帧，每秒8帧的，这样可以通过每帧之间的停顿来塑造动画的节奏，该快的地方快，该慢的地方慢。<br/>\n3d动画转二维时也会模仿手绘动画的做法，故意抽帧来模拟手绘动画的节奏感。\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700021",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t买不起新款显卡的，大概率也买不起正版游戏。<br/>\n何必浪费时间\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1219689",
+          "replier": {
+            "username": "少尉",
+            "uid": "117074"
+          },
+          "date": "2023-10-25",
+          "content": "此言差矣，大部分人买不起奔驰宝马，但所有人都加得起98汽油"
+        }
+      ]
+    },
+    {
+      "id": "700124",
+      "is_folded": false,
+      "answerer": {
+        "username": "freedomofchina",
+        "uid": "111795"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t目前游戏百分之50以上的空间应该就是高清贴图和高清cg。你只要把高清改低一点游戏内容不就瞬间变小\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "699902",
+      "is_folded": false,
+      "answerer": {
+        "username": "如龙",
+        "uid": "23507"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t游戏厂商 和显卡公司之间肯定有py交易 否则每年那么多新卡卖给谁\t\t</div>",
+      "date": "2023-10-24",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1219513",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-10-24",
+          "content": "挖矿"
+        },
+        {
+          "id": "1219544",
+          "replier": {
+            "username": "如龙",
+            "uid": "23507"
+          },
+          "date": "2023-10-24",
+          "content": "去年加密货币就放弃了算力挖矿末世，否则怎么会有那么多3系矿卡在市场上"
+        }
+      ]
+    }
+  ]
+}

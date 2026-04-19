@@ -1,0 +1,83 @@
+{
+  "parent_type": "question",
+  "parent_id": "56261",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "632924",
+      "is_folded": false,
+      "answerer": {
+        "username": "kazami",
+        "uid": "75866"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这些がち中華很多还不提供日语服务，日本人大概是自己高档日料法料意料吃腻了，要去尝尝化学调料地沟油料理\t\t</div>",
+      "date": "2023-02-21",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "632914",
+      "is_folded": false,
+      "answerer": {
+        "username": "xpking2",
+        "uid": "103042"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一邊吃一邊拍抖音再抓著一整筒的公筷往嘴裡抽插就完美了\t\t</div>",
+      "date": "2023-02-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "632950",
+      "is_folded": false,
+      "answerer": {
+        "username": "种族社会共产主义",
+        "uid": "102603"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国菜的特色就是复合调料，特别香。对日本这种清淡口的民族确实有吸引力。\t\t</div>",
+      "date": "2023-02-21",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1155913",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-02-21",
+          "content": "都是油咸麻辣，不如西方香料香草"
+        },
+        {
+          "id": "1155914",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-02-21",
+          "content": "其实就是为了掩盖食材不新鲜"
+        },
+        {
+          "id": "1155954",
+          "replier": {
+            "username": "种族社会共产主义",
+            "uid": "102603"
+          },
+          "date": "2023-02-21",
+          "content": "@billzt:古代可没这问题，不还是堆酱料"
+        },
+        {
+          "id": "1155955",
+          "replier": {
+            "username": "种族社会共产主义",
+            "uid": "102603"
+          },
+          "date": "2023-02-21",
+          "content": "@dogg0五入拖拉曼:香料全是香味，迷迭香坚果香味，香草植物清香，口味太淡"
+        }
+      ]
+    }
+  ]
+}

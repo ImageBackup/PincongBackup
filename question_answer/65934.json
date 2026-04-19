@@ -1,0 +1,293 @@
+{
+  "parent_type": "question",
+  "parent_id": "65934",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "733934",
+      "is_folded": false,
+      "answerer": {
+        "username": "Antonov一500",
+        "uid": "73460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t告诉我，哪些恐怖分子这么笨<br/>\n<br/>\n字数字数字数字数\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 4,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1250840",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-03-13",
+          "content": "我觉得吧，即使用邮箱，最起码要用密码写邮件，而不是明文吧😅"
+        },
+        {
+          "id": "1250844",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-03-13",
+          "content": "@Nederland:有阅后即焚的手段不用，这样做简直要么就是太笨要么就是钓鱼...."
+        },
+        {
+          "id": "1250847",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-03-13",
+          "content": "中国恐怖分子"
+        },
+        {
+          "id": "1251210",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-03-15",
+          "content": "@rowlandheights:这下我不知道是黑还是啥了！"
+        },
+        {
+          "id": "1251255",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-03-16",
+          "content": "@Studebaker史刁碧嘉:中国产的恐怖分子，智商比较低，就直接明码通信，大声密谋"
+        },
+        {
+          "id": "1251278",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-03-16",
+          "content": "@rowlandheights:什麼該大聲的時候不大聲，不該大聲的時候比誰都響"
+        },
+        {
+          "id": "1251322",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-03-16",
+          "content": "@Studebaker史刁碧嘉:重庆姐弟坠楼案，男人和小三合谋杀害男人的两个亲生孩子，两人用微信直接聊，不保密，也不用暗语"
+        }
+      ]
+    },
+    {
+      "id": "734015",
+      "is_folded": false,
+      "answerer": {
+        "username": "billzhan",
+        "uid": "88055"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以我聽聞常常問題是出在安全工具之外的地方。<br/>\n很多痕跡無法抹去的。<br/>\n之前看過一個笑話:<br/>\n以為很安全的密碼，特工靠板手就可以把你的密碼敲出來。\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734416",
+      "is_folded": false,
+      "answerer": {
+        "username": "Jsuxhbeb",
+        "uid": "126159"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不如protonmail，邮件不是加密的，所以不够安全，要E2E加密的话还是用proton吧\t\t</div>",
+      "date": "2024-03-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734469",
+      "is_folded": false,
+      "answerer": {
+        "username": "Anny_Lee",
+        "uid": "121878"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我看李老师用的也是gmail，虽然被攻击了好几次但目前还能正常接收投稿来看安全性应该还是不错的<br/>\n连这个这么重要的目标都没被攻破我们这些小鱼小虾应该也不用担心<br/>\n当然前提是你密码不是常见的密码也没在国内账户上面使用，绑定的手机号邮箱等安全验证也不是国内的\t\t</div>",
+      "date": "2024-03-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734014",
+      "is_folded": false,
+      "answerer": {
+        "username": "黑桃花树",
+        "uid": "125825"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t安全地还得是线下 人来传递 保证人不是内鬼就行了\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734396",
+      "is_folded": false,
+      "answerer": {
+        "username": "稀世暴君",
+        "uid": "77118"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不安全，不建议用来收发重要邮件。真心的忠告，gmail对隐私保证比中国邮箱稍好，但是好不到多少。\t\t</div>",
+      "date": "2024-03-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742844",
+      "is_folded": false,
+      "answerer": {
+        "username": "仰止",
+        "uid": "124157"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t日常使用肯定安全，几亿人天天用的服务，安全有保证。<br/>\n<br/>\n但用Gmail策划恐怖袭击还是洗洗睡吧，美国政府有办法进入任何人的Google账号。<br/>\n<br/>\n用Google的服务基本就是只要你不做美国政府不喜欢的事，隐私就有保证。\t\t</div>",
+      "date": "2024-04-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "733938",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t還可以吧，沒啥問題，恐怖分子的話，alphabet llc是美國公司，要遵守美國的反恐法<br/>\n<br/>\n真要安全，自己搭一個server FTP NAS mail VPN\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 0,
+      "discussion_count": 13,
+      "discussions": [
+        {
+          "id": "1250848",
+          "replier": {
+            "username": "爱喝可乐阿",
+            "uid": "122479"
+          },
+          "date": "2024-03-13",
+          "content": "邮件服务器搭建看着容易，不知道实际操作怎么样？"
+        },
+        {
+          "id": "1250853",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-13",
+          "content": "@爱喝可乐阿: 不就是lamp嗎，最近reddit看到個帖，說在openSUSE上安裝asp.net失敗，笑死我了，這東西是microsoft framework，在linux上裝這玩意，太奇怪了"
+        },
+        {
+          "id": "1250855",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-13",
+          "content": "估計apt-get install mail-server，然後再config一下，買個域名，啥 .xyz .club 之類，很便宜"
+        },
+        {
+          "id": "1250856",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-13",
+          "content": "還有ipv4或v6"
+        },
+        {
+          "id": "1250859",
+          "replier": {
+            "username": "爱喝可乐阿",
+            "uid": "122479"
+          },
+          "date": "2024-03-13",
+          "content": "@四邑漁農牧工商總會:好像不同域名，接收邮件的反应速度不一样"
+        },
+        {
+          "id": "1250861",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-13",
+          "content": "@爱喝可乐阿: 怎麼可能，mailbox數秒內能收到mails，和im instant messenger差不多"
+        },
+        {
+          "id": "1250862",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-13",
+          "content": "域名不是真正地址，真正地址是ipv4 ipv6，一串數字，英文域名要映射到ip，ip才是真地址"
+        },
+        {
+          "id": "1250865",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-13",
+          "content": "ping pincong.rocks\nPING pincong.rocks (172.67.27.93) 56(84) bytes of data.\n64 bytes from 172.67.27.93 (172.67.27.93): icmp_seq=1 ttl=57 time=1.96 ms\n64 bytes from 172.67.27.93 (172.67.27.93): icmp_seq=2 ttl=57 time=1.34 ms\n64 bytes from 172.67.27.93 (172.67.27.93): icmp_seq=3 ttl=57 time=1.36 ms\n64 bytes from 172.67.27.93 (172.67.27.93): icmp_seq=4 ttl=57 time=1.95 ms\n64 bytes from 172.67.27.93 (172.67.27.93): icmp_seq=5 ttl=57 time=2.07 ms\n64 bytes from 172.67.27.93 (172.67.27.93): icmp_seq=6 ttl=57 time=1.96 ms\n64 bytes from 172.67.27.93 (172.67.27.93): icmp_seq=7 ttl=57 time=1.98 ms\n64 bytes from 172.67.27.93 (172.67.27.93): icmp_seq=8 ttl=57 time=1.70 ms\n64 bytes from 172.67.27.93 (172.67.27.93): icmp_seq=9 ttl=57 time=1.65 ms\nhttps://whatismyipaddress.com/ip/172.67.27.93\n品蔥server在美國加州"
+        },
+        {
+          "id": "1250868",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-13",
+          "content": "debian@debian:~/Downloads/64Gram Desktop/8/DCIM/Camera$ ping pincong.rocks"
+        },
+        {
+          "id": "1250881",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-13",
+          "content": "oh原來品蔥的ip是cloudflare，難怪和香討lihkg的ip都在同一個地方"
+        },
+        {
+          "id": "1250907",
+          "replier": {
+            "username": "爱喝可乐阿",
+            "uid": "122479"
+          },
+          "date": "2024-03-13",
+          "content": "香討lihkg是什么？"
+        },
+        {
+          "id": "1250914",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-13",
+          "content": "@爱喝可乐阿:\nping discuss.com.hk\nping lihkg.com\ncloudflare好像可以隱藏真實ip，抵抗ddos洪流"
+        },
+        {
+          "id": "1250915",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-03-13",
+          "content": "ip入口都在San Francisco"
+        }
+      ]
+    }
+  ]
+}

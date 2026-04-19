@@ -1,0 +1,32 @@
+{
+  "question_id": "67909",
+  "category_id": "4",
+  "title": "有没有大神来讨论一下编程随想到底是不是因为同名豆瓣被社工识破的？",
+  "meta_description": "有没有大神来讨论一下编程随想到底是不是因为同名豆瓣被社工识破的？ - 已知细节: ①同名豆瓣账号现在直接输入url仍可访问 https://douban.com/people/program_think/ ②豆瓣账号创建时间早于博客第一篇文章发布时间 ③豆瓣账号09年发布的书评符合编程随想行业  未确定的: ①据传阮说他注销...",
+  "meta_keywords": "大神,讨论,一下,编程,随想,到底,是因为,同名,豆瓣,社工,识破",
+  "tags": [
+    {
+      "id": "708",
+      "name": "网络"
+    },
+    {
+      "id": "1363",
+      "name": "编程随想"
+    },
+    {
+      "id": "5160",
+      "name": "社会工程学"
+    }
+  ],
+  "author": {
+    "username": "平疫禁人忍民领袖",
+    "uid": "105080"
+  },
+  "view_count": 5773,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t已知细节:<br/>\n①同名豆瓣账号现在直接输入url仍可访问<br/>\nhttps://douban.com/people/program_think/<br/>\n②豆瓣账号创建时间早于博客第一篇文章发布时间<br/>\n③豆瓣账号09年发布的书评符合编程随想行业<br/>\n<br/>\n未确定的:<br/>\n①据传阮说他注销了豆瓣账号，但这账号不像近年的注销了就什么信息也看不到了一样，只是搜索不到，信息还在库里存着<br/>\n②不排除有好事者在编成名后假装是他本人的豆瓣账号\t\t\t\t\t\t\t</div>",
+  "date": "2024-06-13",
+  "agree_count": 0,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 7
+}

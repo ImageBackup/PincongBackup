@@ -1,0 +1,34 @@
+{
+  "question_id": "56893",
+  "category_id": "7",
+  "title": "我想收集中国政治笑话，发布在哪个网站上比较好？",
+  "meta_description": "我想收集中国政治笑话，发布在哪个网站上比较好？ - ",
+  "meta_keywords": "我想,收集,中国,政治,笑话,发布,站上,较好",
+  "tags": [
+    {
+      "id": "1799",
+      "name": "政治笑话"
+    }
+  ],
+  "author": {
+    "username": "平疫禁人忍民领袖",
+    "uid": "105080"
+  },
+  "view_count": 2822,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2023-03-14",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1035166",
+      "replier": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "date": "2023-03-15",
+      "content": "GitHub建个repo"
+    }
+  ],
+  "answer_count": 5
+}

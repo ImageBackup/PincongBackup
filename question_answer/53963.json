@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "53963",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "607560",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tobfs4：混淆流量，使 Tor 的流量看起来是随机的。内置的obfs4网桥已经被封锁ip，墙内无法连接，只能手动添加obfs4服务器地址。不过，从众多论文来看，obfs4已经被GFW识别。与SSR一样，混淆会有较强的流量特征。随着GPU算力的增强，深度学习被用于流量识别领域。<br/>\n<br/>\nmeek：meek 方式使您看起来像在浏览正常网站，而不是使用 Tor。 meek-azure 使您看起来像在使用 Microsoft 网站。 meek本质上也是obfs4传输，国内大部分地区已无法使用<br/>\n<br/>\nSnowflake：Snowflake 是对 Flashproxy 的改进。 它通过 WebRTC 发送流量，WebRTC 是一种具有内置网络地址转换（NAT）穿透的对等（P2P）协议。 使流量看起来像网络视频传输<br/>\n<br/>\nSnowflake是伪装方式，安全性比混淆方式要好，突破封锁的能力也越强<br/>\n由于Snowflake是UDP传输，某些运营商（如中国电信）对UDP做了QOS限速，速度会比较慢\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 5,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1133455",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-07",
+          "content": "已删除"
+        },
+        {
+          "id": "1133457",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-07",
+          "content": "感谢"
+        }
+      ]
+    },
+    {
+      "id": "607516",
+      "is_folded": false,
+      "answerer": {
+        "username": "Surge",
+        "uid": "19471"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t参考Tor官方帮助文档：<a href=\"url/link/aHR0cHM6Ly90Yi1tYW51YWwudG9ycHJvamVjdC5vcmcvY2lyY3VtdmVudGlvbi8\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://tb-manual.torproject.org/circumvention/\">https://tb-manual.torproject.org/circumvention/</a><br/>\n<br/>\n安全性没有区别，三种Bridge的实现方式上有差异。Tor官方认为中国的用户可以通过私有的未公开的obfs4节点规避审查（<i>Users in China will likely have to connect with a private and unlisted obfs4 bridge. </i>）\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

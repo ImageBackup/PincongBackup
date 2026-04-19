@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "55725",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "627024",
+      "is_folded": false,
+      "answerer": {
+        "username": "傲视群雄",
+        "uid": "107406"
+      },
+      "contents": "<div class=\"markitup-box\">\n<br/>\n<pre>想看，来个真实链接，最近确实感觉缺点营养，嘿嘿</pre><br/>\n</div>",
+      "date": "2023-02-02",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "626515",
+      "is_folded": false,
+      "answerer": {
+        "username": "墙国壬民",
+        "uid": "84766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tblogspot、medium、matters等都是极好的选择\t\t</div>",
+      "date": "2023-01-31",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

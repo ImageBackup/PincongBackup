@@ -1,0 +1,26 @@
+{
+  "article_id": "68291",
+  "category_id": "22",
+  "title": "使用现成的空白音频制作彭立发喇叭",
+  "meta_description": "使用现成的空白音频制作彭立发喇叭 - 之前，俺发布了[url=https://pincong.rocks/article/68245]彭立发喇叭生成器[/url]，用来帮助不懂音频编辑的葱油快速制作彭立发音频。但是后来俺发现，其实根本不用这么复杂。如果各位想要使用音乐播放器来播放彭立发音频的话...",
+  "meta_keywords": "使用,现成,空白,音频制作,彭立发,喇叭",
+  "tags": [
+    {
+      "id": "107364",
+      "name": "勇武战术"
+    },
+    {
+      "id": "107589",
+      "name": "彭立发喇叭"
+    }
+  ],
+  "author": {
+    "username": "cybermage",
+    "uid": "29130"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t之前，俺发布了<a href=\"https://pincong.rocks/article/68245\" title=\"https://pincong.rocks/article/68245\">彭立发喇叭生成器</a>，用来帮助不懂音频编辑的葱油快速制作彭立发音频。但是后来俺发现，其实根本不用这么复杂。如果各位想要使用音乐播放器来播放彭立发音频的话，完全可以把空白音频文件放到有声音的音频文件前面。这样如果播放器是按顺序播放的，在播放完空白音频之后，会自动播放有声音的音频。<br/>\n<br/>\r\n具体步骤如下：<br/>\r\n1. 下载一个空白音频。在GitHub上有一小时的空白音频，可以直接下载：https://github.com/anars/blank-audio/raw/master/1-hour-of-silence.mp3<br/>\r\n2. 将下载下来的音频命名成 1.mp3<br/>\r\n3. 如果想要更长时间的空白，可以把它复制几次，分别命名成 2.mp3、3.mp3 ……<br/>\r\n4. 把你要用到的音频放到最后。比如，如果前面有3个空白音频（1-3），就把它命名成 4.mp3<br/>\r\n5. 把这几个文件直接放进播放器里，启动按顺序播放即可。\t\t\t\t\t\t\t</div>",
+  "view_count": 2824,
+  "date": "2024-01-25",
+  "agree_count": 7,
+  "comment_count": 7
+}

@@ -1,0 +1,24 @@
+{
+  "question_id": "63957",
+  "category_id": "6",
+  "title": "站长能否修复一下帖子首行无法缩进的BUG，强迫症者用着难受？",
+  "meta_description": "站长能否修复一下帖子首行无法缩进的BUG，强迫症者用着难受？ - 估计是过滤掉文本最前面和最后面的空格了。",
+  "meta_keywords": "站长,能否,修复,一下,帖子,首行,无法,缩进,bug,强迫症,用着,难受",
+  "tags": [
+    {
+      "id": "319",
+      "name": "Bug"
+    }
+  ],
+  "author": {
+    "username": "soto35",
+    "uid": "120394"
+  },
+  "view_count": 1046,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t估计是过滤掉文本最前面和最后面的空格了。\t\t\t\t\t\t\t</div>",
+  "date": "2023-12-14",
+  "agree_count": 1,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 3
+}

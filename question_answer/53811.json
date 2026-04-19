@@ -1,0 +1,1021 @@
+{
+  "parent_type": "question",
+  "parent_id": "53811",
+  "answer_count": 41,
+  "answers": [
+    {
+      "id": "606086",
+      "is_folded": false,
+      "answerer": {
+        "username": "民主信仰者",
+        "uid": "653"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t真要說這個，得講一些比較偏向非常識類的知識。<br/>\n<b>科技奇異點</b>。<br/>\n<hr/><br/>\n總體來說，人類的科學發展速度是隨時間而上升的。<br/>\n從最初知曉用火開始到中世紀，花費了上千年；從文藝復興開始到工業革命時，花費了數百年；從最初還需要依靠大量頂尖數學家輔助計算的巨人電腦，到如今只需要一個普通人用手指輕輕一按就能得出答案的智慧手機，只花費數十年。<br/>\n這些是逐漸積累的過程。<br/>\n<br/>\n但也有另一種觀點，認為這是某種「奇點」，一種<b>因為偶然間的突破而帶動科學和技術突飛猛進的發現</b>。<br/>\n比如說火，人類從發現火以前經過的時間，比知曉用火後的時間還長；<br/>\n比如說工業革命，若非蒸汽機的出現，也沒有瓦特改良的餘地，而經他之手改良的蒸汽機，又反過來加快科學的進步；<br/>\n比如說現代電子工業的誕生，要是沒有美國從無到有發明出積體電路，現在還用真空管的話，那別說智慧手機，就算是家用電腦都不會誕生。<br/>\n<hr/><br/>\n所以如果你相信科技奇異點，那你只要等待就好。<br/>\n下一個奇點什麼時候到來，誰也不知道，但在奇點到來之前，科技不會有什麼實質上的突破。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 24,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609317",
+      "is_folded": false,
+      "answerer": {
+        "username": "i5xFvUTRky0a",
+        "uid": "105066"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t非专业人士，部分观点可能存在问题，欢迎指正。<br/>\n感觉到停滞的原因有两个。<br/>\n<br/>\n第一个是因为，当前主流科学技术，也就是硅基半导体的工艺制程技术已经发展到一个平台期，也就是在饱和曲线的后半部分，在这个部分当中，新工艺制程与旧工艺制程的性能提升差（Δ）越来越小，例如：14nm的芯片之于32nm的芯片性能提升差（Δ）比7nm的芯片之余14nm的芯片性能提升差（Δ'）更大（Δ&gt;=Δ'）,这种提升差的变小会让人有一种科技“停滞”感，这种感觉一般会以如下形式出现：<br/>\n“十几年前的电脑需要十几个小时干的工作，几年前的电脑一台只需要几个小时就能干完。但是现在买新的电脑好像跟我旧的电脑比性能提升不是很大啊”<br/>\n这是一种生活上的感受，但实际上硅基科技技术，也就是硅基半导体工艺制程技术还是在成长的，只不过成长水平跟原来那种变化不会那么大了。而且其他科技也在成长当中，但主流技术是硅基的科技，感受就没有硅基强。（硅基作为主要技术带领其他技术成长）<br/>\n<br/>\n第二个是因为，基于第一点的原因，即当前的硅基半导体技术研发进入平台期后，制程提升需要更多的人力资源进行，然而所获得的成果（也就是性能的提升）不足以覆盖商业运作，即该科技所能带来的利润率降低，这将导致商业上的技术投入研发门槛提升（成本提升），在这个情况下，商业运作则会逐渐阻碍硅基技术发展。当然，目前各大公司也在想其他的方法提升单位硅基产品的效率（注意这里说的是单位硅基产品，而不是单片硅基，本质上单片硅基的效率最大决定因素还是工艺制程），比如在存储芯片上面使用的3D NAND技术，以及CPU上使用的3D Foveros技术，他们就是利用技术手段，将原本只能叠放一层的半导体，做到多层立体式叠放，以堆量的方式来提升单位硅基产品的性能，从而延缓上述第一点原因所说的性能提升差的下降。但这种方式长期还是无法阻止物理规律，当到达大量人力资源投入研发但制程提升后的效率产出不足以覆盖研发投入的情况，这时的利润率开始为负。从这点开始之前，商业运作就会逐渐抛弃硅基半导体技术转而去寻求新兴研发技术来继续进行生产提升，并且在量产技术突破后覆盖市场，成为新的主流科学技术。而当前的硅基半导体技术研发将从“联合研发”开始、商业会逐步暂停或封锁研发，最终转变为学院派研发，直至硅基技术出现下一个爆发点。这时，作为原主流研发技术的硅基半导体科技才会进入真正的“停滞”阶段。这一点可以简单理解为“内卷”。<br/>\n但无论如何，科技的发展不会停滞，人类对于认知上面的物理探索还远未达到覆盖大部分实际物理的程度，至少我目前认为是这样的。<br/>\n<br/>\n总结一下就是，目前的科技“停滞”的感受主要来源于当前主流技术已经进入平台期，而新兴技术暂未实现大规模应用可能性时出现的一段时间，至于时间长短，目前真的不可知。而一个技术想让人类社会带来翻天覆地的变化，相对就需要对应时间的技术积累，就如同谚语所说的那样，”一口吃不成个胖子“，而能够让人类社会带来翻天覆地变化的技术，所需要的积累和多方面科技的要求与给各方面带来的变革程度也是成正比的。\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2022-12-11",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606079",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 只是如帖主般的一部分人, 適應了科技增長曲綫而已. 僅說一個便携充電器能 150W 功率做成產品了簡直嚇人. 在我年輕時 5W 或以下功率的芯片才能依靠被動散熱工作, 少數也要上主動散熱例如一個小風扇. 現在非功率型芯片 100--200 溫度下工作就看燒結挺的住否著實嚇人, 沿著插脚傳遞的高溫還不把電路板搞胡了? \"沒事, 電路板能抗450度\" 一綫研發小夥對我真誠的說. 二十到三十年前不敢想的科技飛躍.<br/>\n<br/>\n_ _ 但是人們的科技發展是不平衡的, 帖主也點到其中一個死穴: 電池. 好電池有還是太貴, 而且化工產品總有性能指標漂變或不穩的問題, 精細化工也無法避免這一點. 本身鋰材料儲能特性體積大, 能量密度與常用燃料相比偏低. 十年前每次自行車充電老婆都要喊我搬電池, 如今她自己搬電池. 也算進步了吧.<br/>\n<br/>\n嗯, 也要過濾掉商人炒作胡吹的情況.<br/>\n<br/>\n2014y 11m 12d 追加:<br/>\n[转]顛覆細胞運作機制！不起眼的 miRNA 竟然是癌症治療的突破關鍵！？2024諾貝爾生醫獎！ - 新·品葱<br/>\nhttps://pincong.rocks/video/9682<br/>\n<br/>\n大停滞? 没发现的还好多呢, 阿姊老兄~\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 10,
+      "discussion_count": 9,
+      "discussions": [
+        {
+          "id": "1132230",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2022-12-04",
+          "content": "我也想说，现在很多科技简直是以前的科幻。车能自己变道？？？"
+        },
+        {
+          "id": "1132263",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-04",
+          "content": "@Studebaker史刁碧嘉:\n路況好如美國、澳洲等再使用有聲譽的自動駕駛技術吧. 我是不會把人命交給AI黑盒的."
+        },
+        {
+          "id": "1132267",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2022-12-04",
+          "content": "@ismynewmail:我就是做这个的... 是蛮难的，想得都头疼"
+        },
+        {
+          "id": "1132274",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-04",
+          "content": "@Studebaker史刁碧嘉:\n_ _ 等不忙的時候寫個 AI 驗證程序, 以 AI 的毒攻 AI 驗證的坑. 運氣好能得圖靈獎. 全盤驗證顯然涉及停機問題和 NP, 模塊級驗證或可行."
+        },
+        {
+          "id": "1132290",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2022-12-04",
+          "content": "@ismynewmail:我对IT一窍不通，我是搞系统的，这个东西堪比MiG-27的复杂程度了，或者更高"
+        },
+        {
+          "id": "1132292",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-04",
+          "content": "@Studebaker史刁碧嘉:\n_ _ 噢, 要是設計的話遷就美學我舉得你沒問題. 遷就工程那就收錢了嘛, 操心受累沒人能救你~ 兩樣都遷就的話...我只會做個大方盒子出來..."
+        },
+        {
+          "id": "1132301",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2022-12-04",
+          "content": "@ismynewmail:我对设计很挑剔，但是我又不搞设计。我搞研发，看得头疼，真累啊。不过收入是还可以，比转码靠谱多了也固定多了。"
+        },
+        {
+          "id": "1314467",
+          "replier": {
+            "username": "dabaichi1",
+            "uid": "99779"
+          },
+          "date": "2025-01-30",
+          "content": "治疗癌症喊了几十年了"
+        },
+        {
+          "id": "1314468",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2025-01-30",
+          "content": "@dabaichi1\n数种乳癌能治, 晚期癌症还是治不了, 即便是败血症综合衰竭的 \"晚期\" 也是治不了的.\n十岁前就抽烟的我预定肺癌, 也不打算治.\n期望医学进步能惠及乐生者与畏死者吧. 拉面~"
+        }
+      ]
+    },
+    {
+      "id": "606390",
+      "is_folded": false,
+      "answerer": {
+        "username": "Shalllearning",
+        "uid": "44368"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI 是大数据分析？真敢说啊。在alphaGO 战胜李世石之前，也许深度学习也就是搞个图像识别什么的。然而，李世石失败后，再战胜柯杰就是顺理成章的事情。当时国内那些傻逼不懂，还觉得出奇招、傻招会然让alphaG O傻掉。其实，alphaGO 的学习机理是动态规划。从名局中学习只是其中的一小部分，那东西可以自己和自己下棋。<br/>\n      从目前来看，可以明确表达目标函数的问题已经不是问题了。对智能的探索也进了一大步。深度学习能攻克围棋问题是因为围棋的目标函数表达简单，尽管求解困难。对深度学习而言，模仿人类利用直觉和推导求解已经没有问题。<br/>\n        然而，智能问题远远不是直觉和推导。有一大类问题是无法描述的，比方说，你为什么觉得美女好看，丑女难看。一个美女，大家都觉得美。这些问题其实非常重要，这是决策偏好的问题。运筹学知道偏好对决策的重要性。重要到是社会主义消灭资本主义；还是资本主义消灭社会主义的地步。可是偏好从哪里来，偏好怎么计算却没人知道。<br/>\n      在AI 界有句名言，有一个问题在没解决之前是AI 问题，不过解决了之后就不是了。围棋已经不是AI问题了，尽管围棋真曾经是AI问题。<br/>\n       事实上，深度学习alphaFold几乎把颜宁那样的科学家弄到失业。让那伙结构生物学的专家变成农民工一样的存在，您还敢轻视AI 吗？<br/>\n      当然，AI 的运用还是比较难，最大的难题是技术门槛太高（成功了你也不知道为什么，失败了你要也不知道为何，如何改进）。AI 项目成功的比例很低，而且和你做过多少成功的AI项目没什么关系。也就是说AI 技术还是一种艺术的存在。无他，数据是一个问题，没有数据什么都不用说了。更难的是做出一个最省力又有用的应用？太简单的不值得做，不赚钱；太复杂的，数据量要求太大，做下来也不赚钱。更糟糕的是，你不知道为啥有的问题能做，有的问题做不成。到目前为止，有很多为什么深度学习成功的理论。可是给定一个问题，问你能不能用深度学习解决，你不知道。为什么？没有理论，也没有测度问题的方法。<br/>\n        坦率地说，目前最重要的三大领域就是核聚变、量子计算、深度学习。深度学习作为其中之一，其重要程度不言而喻。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134857",
+          "replier": {
+            "username": "redstormss",
+            "uid": "45808"
+          },
+          "date": "2022-12-12",
+          "content": "alphastar确实是被几个歪招给办了，比起星际围棋的选择还是少。alphastar的成绩远不如alphago"
+        }
+      ]
+    },
+    {
+      "id": "606058",
+      "is_folded": false,
+      "answerer": {
+        "username": "tuyouyou",
+        "uid": "101697"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t造福人类的科技停滞了，控制奴役人类的科技得到长足发展。比如人脸识别技术、微型摄像头。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 58,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606066",
+      "is_folded": false,
+      "answerer": {
+        "username": "Jackie",
+        "uid": "19787"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你这种可能是“爱恩斯坦综合征”，现在的科技的确很难出现颠覆性的突破，所以跟工业革命比完全没意义，科学刚刚萌芽的时候当然有那种大爆发，但发展到一定程度的时候，都是在小步慢走，偶尔可能会出现一两个颠覆性的发现，但绝大时候都是在打补丁，修修补补加以完善，这才是正常的。还想出现工业革命那种跳跃式翻天覆地的改变，根本就不可能。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 11,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606110",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人文跟不上，科技最好停滞，免得自我毁灭了。想想为啥没有外星生命来找我们，是不是巴别塔盖完了就完了。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 11,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132176",
+          "replier": {
+            "username": "千凌",
+            "uid": "27417"
+          },
+          "date": "2022-12-04",
+          "content": "有时候甚至指望外星人反共，直接投放机甲作战之类"
+        }
+      ]
+    },
+    {
+      "id": "606074",
+      "is_folded": false,
+      "answerer": {
+        "username": "Ygg358",
+        "uid": "102771"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t主要是能源没有革命<br/>\n<br/>\n即便你要发展vr好了<br/>\n<br/>\n过两年后  可能Nvidia的消费级显卡<br/>\n能耗和一个空调一样  <br/>\n你要怎么发展?<br/>\n<br/>\n要機器人服務人類  除了驅動機器人的電 要大量的算力<br/>\n又要電<br/>\n<br/>\n等下一阶段<br/>\n人類發明跨世紀的儲能或新的乾淨能源<br/>\n大概才有下一次的工業革命\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 12,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132141",
+          "replier": {
+            "username": "SPAM",
+            "uid": "90653"
+          },
+          "date": "2022-12-04",
+          "content": "4090用450W的总功耗做到了1.8倍于3090Ti 480W总功耗下的性能，能效比是在提升的"
+        }
+      ]
+    },
+    {
+      "id": "606178",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI都被你和大數據畫等號了，那我看你別聊科技了<br/>\n所謂大數據，就是不同數據庫連在一起。理論上你讓小學生站在老大哥視角瞪著那些數據都可以算大數據<br/>\n所謂AI，是一種類別。有的AI需要盡可能多的數據，但其實你手寫一些什麼喂進去他也是個AI。有的AI只需要規則和時間，不需要數據\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 6,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1132232",
+          "replier": {
+            "username": "唐川普II",
+            "uid": "55392"
+          },
+          "date": "2022-12-04",
+          "content": "大数据的重点是数据分析而不是数据存储索引。是你搞错了。"
+        },
+        {
+          "id": "1132302",
+          "replier": {
+            "username": "backsex",
+            "uid": "101383"
+          },
+          "date": "2022-12-04",
+          "content": "确实AI就是 大数据, AI好多都是大力出奇迹"
+        },
+        {
+          "id": "1132305",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2022-12-04",
+          "content": "@唐川普II:我說的是不夠嚴謹\n嚴謹的說法，大數據之所以不是普通的數據分析，是因為要涉及大量的複雜的數據\n因為傳統算法通常難以負荷，所以是專門的領域，但大數據的算法不一定得是AI或現在你想的方式\n極端的說法，你要是能用一支鉛筆和一張A4紙就分析完世界電腦蒐集到的數據，那也算大數據了。那張A4紙上寫的大概就是算法"
+        },
+        {
+          "id": "1132306",
+          "replier": {
+            "username": "NZRdlClr5",
+            "uid": "26898"
+          },
+          "date": "2022-12-04",
+          "content": "@backsex:強化學習: Am I a joke to you?"
+        }
+      ]
+    },
+    {
+      "id": "606077",
+      "is_folded": false,
+      "answerer": {
+        "username": "唐川普II",
+        "uid": "55392"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这话看怎么说了。无人机你可能觉得是玩具。但是现在已经改变现代战争的形态了。<br/>\n<br/>\nsteam deck把游戏本做到掌机大小。加上399的价格我觉得已经很了不起了。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134711",
+          "replier": {
+            "username": "德州仪器",
+            "uid": "93127"
+          },
+          "date": "2022-12-11",
+          "content": "steam deck这东西最多算得上一个小改进"
+        }
+      ]
+    },
+    {
+      "id": "606109",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别国不知道，中国共产党精神上的祖国的科技发展水平早在苏联解体的前夕，在切尔诺贝利的列宁核电厂因官僚僵化指令爆发核灾难就已经发展到顶了。高端人口都润到别国了，就只能搞搞小聪明去哄骗迷失的邪教徒。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606305",
+      "is_folded": false,
+      "answerer": {
+        "username": "不吃蔥",
+        "uid": "39352"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t為什麼說電動車1910年就有了，今天的電動車和1910的電動車是一種東西嗎？<br/>\n1910年的電動車可以零百3秒內嗎，當年的充電速度是多快，今天是多快？<br/>\n當年的電動車有動力回收嗎，當年的電動車的續航是多少，電池的壽命是多久？<br/>\n<br/>\n如果要說名字都叫電動車，就認為他們是相同的東西，那麼1970年代的電腦(今天我們還是叫電腦)，基本架構和今天其實沒有什麼不同，也能說半個世紀沒有進步咯？<br/>\n<br/>\n現在的AI和10年前的比已經厲害了很多了，10年前只有從業者才會知道AI，AI甚至不會進入公共議題，普通人只有看科幻片的時候會了解到這方面的概念。<br/>\n<br/>\nAI和大數據有關，但大數據不是AI的全部而只是AI發展的工具。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606061",
+      "is_folded": false,
+      "answerer": {
+        "username": "白糸射在黑丝腿上",
+        "uid": "50583"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t整个战后好像都是在整合19世纪～20世纪的发明。围绕着电脑这个东西如何做小→冷战后花了30年进化成了今天人手一部的智能手机。从只有少数人用得起的电脑到大众的普及和应用的确是需要一些时间来沉淀的。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606064",
+      "is_folded": false,
+      "answerer": {
+        "username": "习总大秘",
+        "uid": "104569"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是的，这也是习总闭关锁国的底气所在，锁上100念，新的世界在迎接我们\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606126",
+      "is_folded": false,
+      "answerer": {
+        "username": "刁明澤",
+        "uid": "22739"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t正相反，智人文明已經逼近巨大變革的前夕<br/>\nAI+生物科技會完全改變智人文明的型態<br/>\n或者說也許不能再稱為「智人」文明了<br/>\n<br/>\n奇點到來之後究竟會發生什麼事有太多變因了<br/>\n2050回來驗證看看\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606073",
+      "is_folded": false,
+      "answerer": {
+        "username": "DEMfreedom",
+        "uid": "103265"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t芯片毫无疑问一年比一年强。进步还是明显的。只不过进步不如以前了。<br/>\n如果闭关锁国的话，芯片拉开差距，会体现在方方面面上，以为现在电子产品都要芯片\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132277",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-04",
+          "content": "芯片到现在的制程已经是成本增加越来越超过性能增加了。只是烧钱游戏。"
+        }
+      ]
+    },
+    {
+      "id": "606143",
+      "is_folded": false,
+      "answerer": {
+        "username": "Xenitar",
+        "uid": "87302"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有下一次科技革命的话应该就是赛博飞升，元宇宙实体化，就像科幻小说《盲视》里描述的一样，因为目前基于旧有科学范式的技术进步事实上都陷入瓶颈，民用可控核聚变完全死翘、摩尔定律走向终点、太阳系的大门无法跨出、各种能源和资源的危机、地球生态不堪重负。<br/>\n至于下一次飞跃是什么时候，悲观一点可能要上千年，人类文明的余火在现阶段反正是要熄灭了的\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606308",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人类的基础理论自从广义相对论和狭义相对论之后，就停滞不前了。所以现在就是修修补补，在现有的基础上做一些应用上的提高。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606140",
+      "is_folded": false,
+      "answerer": {
+        "username": "梁振英",
+        "uid": "100153"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t算力的發展是明顯的，反映出來就是AI技術的進步，建議樓主注冊個GPT account玩玩。<br/>\n至於其他能源和基礎材料，確實沒大發展。核聚變和常溫超導體還有慢慢長路，只有電池變好了一點點。<br/>\n生物科技受益於人工智能，相信在短期內可以突飛猛進。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606142",
+      "is_folded": false,
+      "answerer": {
+        "username": "SPAM",
+        "uid": "90653"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tLZ关心PC的话就知道今年无论是CPU还是内存还是显卡都是史诗级大提升，摩尔定律并没有失效。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 18,
+      "discussions": [
+        {
+          "id": "1132279",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-04",
+          "content": "没看出来。intel依然是十几年前的core架构，不过到了十二代。 内存还是ddr，到了第五代。没有真正进展。"
+        },
+        {
+          "id": "1132283",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-04",
+          "content": "而且现在制程微缩的成本已经超过效益了，晶圆代工价格狂飚，性能增长完全不成比例，而且能耗反而更高了。"
+        },
+        {
+          "id": "1132799",
+          "replier": {
+            "username": "SPAM",
+            "uid": "90653"
+          },
+          "date": "2022-12-05",
+          "content": "@kisuki:CORE只是一个营销命名，内部的微架构一直在大改。今年的13代酷睿也就是raptorlake是架构和工艺的又一次大突破，架构上在alderlake的基础上大幅修改缓存结构，增加小核心和缓存容量，在低功率段能耗比和高功率段绝对性能上都实现了30%+的提升，工艺上更是打磨到了6GHz，无论是游戏性能还是专业性能都是大飞跃。"
+        },
+        {
+          "id": "1132800",
+          "replier": {
+            "username": "SPAM",
+            "uid": "90653"
+          },
+          "date": "2022-12-05",
+          "content": "@kisuki:DDR5内置了PMIC，DRAM IC自带ECC纠错，通道也等效拆分为32bit效率更高，目前频率已经突破8000大关，之后还会破10000大关，实现了家用双通道DDR5就超越了四通道DDR4带宽的实力。这么大的提升你看不到吗？还是说只看到一个DDR命名就以为都是一种东西？"
+        },
+        {
+          "id": "1134640",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-11",
+          "content": "@SPAM:小修小补小功能当然不少, 突破是没有的. 这就是任何技术到了瓶颈后的普遍状态."
+        },
+        {
+          "id": "1134641",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-11",
+          "content": "已删除"
+        },
+        {
+          "id": "1134644",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-11",
+          "content": "@SPAM:@SPAM:ddr从sdram继承下来原理和实现以后,倍增运作原理没变,倍数不断提高从而频率提高,拆通道,把原先的ecc弄进chip,不影响结论,确实是同一种东西."
+        },
+        {
+          "id": "1134649",
+          "replier": {
+            "username": "SPAM",
+            "uid": "90653"
+          },
+          "date": "2022-12-11",
+          "content": "已删除"
+        },
+        {
+          "id": "1134650",
+          "replier": {
+            "username": "SPAM",
+            "uid": "90653"
+          },
+          "date": "2022-12-11",
+          "content": "@kisuki:那是因为你只盯着家用看，商用server端现在已经是HBM/3D-Cache+8Gbps MCR DIMM这种完全创新的产品了，总线技术也发展到CXL了，你不了解这些行业大进步的东西就不要妄下结论说科技停滞了，这种说法都是2020年前的了，毕竟当时工艺撞墙了，但2021年开始intel和TSMC工艺又来了个huge leap，更何况DRAM技术和规范在2021年也井喷了。还有一个就是你们科技爱好者永远不会当回事，但是实际对芯片性能影响比工艺还大的封装技术，也在突飞猛进。"
+        },
+        {
+          "id": "1134769",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-11",
+          "content": "@SPAM:先说说ddr5是不是确实还是一种东西,再讨论别的."
+        },
+        {
+          "id": "1134791",
+          "replier": {
+            "username": "SPAM",
+            "uid": "90653"
+          },
+          "date": "2022-12-11",
+          "content": "@kisuki:DDR现在只是一个marketing名词，D5和D4已经在物理结构和内部设计上完全不是一种东西了，你只是盯着DDR这个名字看，并不清楚内部的质变。JEDEC官网的doc就在那里，你但凡看过一眼都不会把这个marketing名词当真还以为DDR都是“DDR\"呢。傲腾非易失性内存和海力士MCR都已经和传统内存八竿子打不着了，不都还是管着一个DDR的marketing name? 同样的，现在的CPU已经不是单纯的processing unit，集成了大量的I/O和GPU还有cache, 已经和以前的CPU不是一种东西了，但是厂商还是会用CPU作为marketing name,就和DDR5已经集成了PMIC和on-die ecc但是还是用DDR的marketing name一样，懂了没？"
+        },
+        {
+          "id": "1134793",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-11",
+          "content": "@SPAM:说着说着扯到optane和mcr去了,哈哈.ddr5集成了pmic还有把ecc弄到on-die, 不影响他还是ddr, 和market name毛关系没有,懂了没?"
+        },
+        {
+          "id": "1134796",
+          "replier": {
+            "username": "SPAM",
+            "uid": "90653"
+          },
+          "date": "2022-12-11",
+          "content": "@kisuki:那你告诉我，DRAM除了加带宽还有其它的途径吗？on-die ECC和PMIC就是让D5突破频率瓶颈的两大关键。你若是觉得DDR到现在都没有你理解的”创新“，你大可以否认一切X86框架下的技术更迭。你可以一天到晚哀叹技术已死，但不妨碍科技企业更迭硬件技术，以及利用这些技术越来越强大的应用对现实的改变。光一个ChatGPT就足够全球网民狂热了，你以为这些技术的背后不是算力的巨幅提升？"
+        },
+        {
+          "id": "1134801",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-11",
+          "content": "@SPAM: 所以你说的对啊, 在SDRAM基础上再接着下去,除了你说的这些东西,确实没有什么可以做的了. 但是呢, 现有player都希望在这个状态下继续平稳挣钱,能多久就多久, 即使有某一项很有前途的进展出来,也会被整个行业不动声色排挤. 也就是说, \"竞争\"已经被扼杀, 所以不会有真正创新, 不会有\"行业破坏者\". 就这就是现状,不只是计算机界,所有科技都差不多. 为什么几十年前可以有超音速客机,现在反而没有了, 是类似的逻辑"
+        },
+        {
+          "id": "1134812",
+          "replier": {
+            "username": "SPAM",
+            "uid": "90653"
+          },
+          "date": "2022-12-11",
+          "content": "@kisuki:但凡你真能举个初创芯片独角兽被扼杀的例子我都能接受你这套理论，你哪壶不开提哪壶，DRAM算个屁的保守稳固无竞争行业啊？还排挤？DRAM纯纯就是拼出货和压价的行业，几大IC厂之间拼频率和杀价都杀红了眼。\nDRAM这种结构，要么跟着JEDEC规范玩，谁能规范谁就能入场，合肥长鑫不就是么？\n要么就是不跟JEDEC指导玩，自己另外做一套规范，只要CPU配合就行，那intel不就在做傲腾和HBM2么？海力士不就在和AMD合作做MCR么？\n关键是你觉得这种基础设备是值得小公司去初创的么？我不知道你是什么脑回路会觉得一个初创企业要做DRAM这种废力不讨好的技术。\n现在流行的初创企业都在玩GPU和AI，什么摩尔线程，什么壁仞科技，还有就是ARM server, 什么AMPERE，等等。你这么执着于DRAM，那你总该知道NAND产业的情况吧？但NAND行业也和DRAM一样，就是拼价格，即使如此还是有YMTC杀入。\n谈到NAND相关企业,英韧现在作为主控都抢占了很大的市场了，然而也不会去趟NAND和DRAM这趟混水，除非像YMTC和长鑫这样有国资无底线打钱的。\n所以结论就是，DRAM这种行业，并不需要你去在规范上玩什么革新，变革，因为需要大带宽的都去玩cache了，需要大容量的都去玩CXL/gen-Z了，需要DRAM创新的SOC/CPU/GPU都会选择用chache去解决问题，DRAM纯纯就是跟着新规范然后提频压价就行了，因为真没人需要DRAM来个翻天覆地的创新，你觉得你需要你可以自己想象个需求出来安慰一下自己。\n你在这里杞人忧天了半天，结果居然是拿错误的例子得出了错误的结论，我真的觉得很搞笑。"
+        },
+        {
+          "id": "1134818",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-11",
+          "content": "@SPAM:笑啊, 你说的不就是另一方向证明了我的观点么. 没看到我\"竞争\"引号了,是啊拉到水平线上拼出货和压价,是这种\"竞争\""
+        },
+        {
+          "id": "1134820",
+          "replier": {
+            "username": "SPAM",
+            "uid": "90653"
+          },
+          "date": "2022-12-11",
+          "content": "@kisuki:那是因为你看到HBM和3D-Vcache就装瞎了，并没意识到现在大cache就是在逐步替代DRAM，你并没有意识到在DRAM这个概念内的创新已经都不在DRAM上了。但凡稍微关注过这两年PC和server平台CPU设计的方向都不会得出你之前那种可笑的观点。"
+        },
+        {
+          "id": "1134883",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-12",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "609536",
+      "is_folded": false,
+      "answerer": {
+        "username": "黄河清999",
+        "uid": "105093"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还记得费米的外星人悖论吗：外星人有没有，外星人在哪里？<br/>\n很多人对此有很多fancy的解答，但真实的答案恐怕很简单，也很令人沮丧：智慧生物的科技发展终究有限，他们征服自然，改造自然的能力也终究有限，有些事，不能突破就是不能突破。比如星际空间，就是智慧生物的科技永远无法克服的，因此我们永远无法见到外星人。<br/>\n人在大自然面前要谦卑。\t\t</div>",
+      "date": "2022-12-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609303",
+      "is_folded": false,
+      "answerer": {
+        "username": "黄鹤楼",
+        "uid": "100751"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t和你想的相反，现在是巨大临界点时代，主要是人类人文没有跟上。\t\t</div>",
+      "date": "2022-12-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609588",
+      "is_folded": false,
+      "answerer": {
+        "username": "欽定匪軍經商",
+        "uid": "102983"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t進步是有，但幅度較小，要幾十年才能看出一點進步，成熟的新技術所需要投入的跨部門資源要求越來越多，不可能在由一兩個數學家，物理學家，化學家閉門研究就能發明出新的科技，現在則是很看重國家的工業體系水平和企業發展環境，缺少某個領域技術環節就不得不要和外國合作了，有時很多有錢國家就算是聲音叫得震天響，投入再多也未必在十幾年內取得一丁點進步。就像奧巴馬的治愈癌症的登月計劃，現在看來錢倒是投了不少，效果不明顯，也不見有任何迴響。\t\t</div>",
+      "date": "2022-12-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609352",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只能说现在工程与技术理论进入了一个缓慢增长的阶段，技术原理上的问题没有大规模改变，科学范式不在存在所谓低垂果实，而进入到类似19世纪中叶蒸汽机的缓慢优化状态。<br/>\n实际上如果论科学，我个人认为把理论和技术分开讲比较好，因为单讲理论自互联网时代以及大学扩招以后，论文是井喷式发展的，只不过大部分论文要么没有显著使用价值，要么就是理论和弦理论一样基本无法证伪。如果单从纯数学和逻辑角度上讲，关于弦理论的模型都是很复杂而且迭代很快的，至于这算不算科技进步就不好说了，如果从实用主义来说，这些很复杂无法证伪的各种模型确实在近期没有什么实用价值。\t\t</div>",
+      "date": "2022-12-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609362",
+      "is_folded": false,
+      "answerer": {
+        "username": "nijigen",
+        "uid": "12386"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最近ai的势头有点猛 ai绘图，ai做题，ai写小说等方面都出现了让人眼前一亮的成果\t\t</div>",
+      "date": "2022-12-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606302",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t科技进步其实很快，而且是触及人类本质的进步。世界到底是精神的还是物质的，很快科技就可以给人类这个选择。<br/>\n认为世界是物质的人可以通过基因工程和生物医学工程设计改造自己的身体，认为世界是精神的人可以抛弃肉体活在虚拟世界。达到这些目标的底层技术理论实际上已经完成了，只是需要时间完善罢了。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606055",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t元宇宙啊，可以参与一下<br/>\n<br/>\n为什么凑二十字凑二十字凑二十字凑二十字\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1132089",
+          "replier": {
+            "username": "唐川普II",
+            "uid": "55392"
+          },
+          "date": "2022-12-04",
+          "content": "元宇宙的傻逼程度远胜于电车大数据区块链。现在都她妈成为笑话了。"
+        },
+        {
+          "id": "1132095",
+          "replier": {
+            "username": "民主信仰者",
+            "uid": "653"
+          },
+          "date": "2022-12-04",
+          "content": "騙局中的騙局，不過就是個被炒作的虛擬遊戲。"
+        },
+        {
+          "id": "1132103",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-04",
+          "content": "@唐川普II: 现在确实还不行，但未来的目标是头号玩家你的绿洲，如果达到那个级别就很革命性了"
+        },
+        {
+          "id": "1132129",
+          "replier": {
+            "username": "唐川普II",
+            "uid": "55392"
+          },
+          "date": "2022-12-04",
+          "content": "@心情不好:meta是Facebook改名之后的噱头名字。其实还是VR。明年初PS VR2加上穿戴设备看看能不能在游戏上有所建树。但真正成长为几十亿级别市场还是要等AR技术成熟。现在瓶颈在功耗电池和成本的平衡上。\n元宇宙新概念救不了一直走下坡路的Facebook"
+        },
+        {
+          "id": "1132139",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-04",
+          "content": "@唐川普II: vr和元宇宙又不矛盾，vr是展现形式。成熟的元宇宙产品我都玩很久了，VRC魅力无穷，并不需要硬件上再拓展，一个quest2足以。酒吧，古寺，霓虹灯，迷幻的氛围，雨夜的情调，未来世界的浪漫，跨国的恋情，想要的应有尽有"
+        },
+        {
+          "id": "1132148",
+          "replier": {
+            "username": "雙加不好的鴨語者",
+            "uid": "22079"
+          },
+          "date": "2022-12-04",
+          "content": "@唐川普II:目前看元宇宙的概念，相關技術還未成熟。加上疫情後，生活開始恢復正常，市場對元宇宙的需求並不急切。\n但在VR和AR之類等技術成熟和普及後，才可能有發展。"
+        },
+        {
+          "id": "1132233",
+          "replier": {
+            "username": "唐川普II",
+            "uid": "55392"
+          },
+          "date": "2022-12-04",
+          "content": "@心情不好:@雙加不好的鴨語者:我这句话摆在这里。改变人类生活形态的下一个产品是AR。而且是苹果走在前面占有利润最大的那部分市场。就跟iPad watch AirPods一样。（不是说苹果全都能成功。路由器 TV走的早但是失败了。音箱和MAX是跟风产品所以也无法引领市场。）Facebook搞的硬件是上限一千万的发烧友产品。谈不上失败但是肯定无法成功。元宇宙就是个笑话。不服明年这时候再看。"
+        }
+      ]
+    },
+    {
+      "id": "606335",
+      "is_folded": false,
+      "answerer": {
+        "username": "GreekMyth",
+        "uid": "79633"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n<a href=\"url/link/aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3poLWNuLyVFNSU5RiVCOSVFNiVBNCU4RCVFOCU4MiU4OQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://zh.wikipedia.org/zh-cn/%E5%9F%B9%E6%A4%8D%E8%82%89\">https://zh.wikipedia.org/zh-cn/%E5%9F%B9%E6%A4%8D%E8%82%89</a><br/>\n培植肉<br/>\n<a href=\"url/link/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ3VsdHVyZWRfbWVhdA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://en.wikipedia.org/wiki/Cultured_meat\">https://en.wikipedia.org/wiki/Cultured_meat</a><br/>\n<br/>\n维基百科，自由的百科全书<br/>\nDisambig gray.svg  此条目介绍的是通过生物工程培养动物肌肉细胞而成的人工培植肉。关于植物原料制作的口感似肉的食物，请见“素肉”。<br/>\n<br/>\n2013年生产的第一块人造汉堡肉<br/>\n培植肉，亦作人造肉、工程肉、人工肉[1]、试管肉、清洁肉[2]或合成肉，指任何并非从动物身上取得的肉类，而是透过生物工程培养动物的肌肉细胞而成。原理是先从动物体内抽取干细胞，再放进试管或培养皿上让其分裂生长，最后产生肌肉组织。培植肉所培植的不一定只是牛肉[3]，但由于牛肉在各种肉类的生产成本中最高，所以有关培植肉的研究基本上都以牛肉为主。<br/>\n<br/>\n目前这项技术虽然已有多个研究计划在测试，初期生产成本极高，未能提供与公众享用，但随着生产技术日渐成熟，生产成本也不断降低。举例说：在2012年时用试管肉来弄一个汉堡包的成本要25万欧元[1]，但据俄罗斯以安格斯牛的组织制成的试管肉在2023年投产时可降至每公斤100美元[4]。当低成本的大量生产方法研究成功，将有可能解决全球粮食危机问题[5]。<br/>\n<br/>\n<br/>\n目录<br/>\n1 制作方法<br/>\n1.1 组织工程学应用在培植肉<br/>\n1.2 培植肉所需东西<br/>\n1.3 技术问题<br/>\n2 优缺点<br/>\n2.1 优点<br/>\n2.2 缺点<br/>\n3 与素肉的分别<br/>\n4 参考文献<br/>\n5 参见<br/>\n6 外部链接<br/>\n制作方法<br/>\n组织工程学应用在培植肉<br/>\n组织工程学最主要是解决移植器官后的细胞，是否能在新宿主有好的反应，解决新宿者的免疫系统对新细胞的攻击，组织工程学有一系列研究，在于解决成长因子，或是改变成长过程对新细胞有什么影响。<br/>\n<br/>\n组织细胞应用在培植肉，最主要是在解决味道，组织结构，成本，健康价值还有食品安全。 味道分子包含上千种，包括氨基酸、血红素蛋白、硫化物与羰基化物、脂类、肽、其他味道挥发剂。<br/>\n<br/>\n光衍射技术可以观察培植肉的主要成分，色层分析与质谱定位可以分析味道分子结构。<br/>\n<br/>\n影响培植肉的因子有细胞外阵列(ECM)( extracellular matrix)，肌肉细胞成长方式，肌内脂肪成分(IMF)，架构(scaffold)成分与结构。静力拉扯可以增加肌肉细胞与细胞外阵列的排列，就是可以增加肌肉的纤维化程度。架构(scaffolding)的规模化是困难的。<br/>\n<br/>\n培植肉所需东西<br/>\n成长因子(growth factor)让细胞喂食营养并且成长。2.3D的架构(scaffolds)使细胞可以像体内血管持续供应养分。<br/>\n细胞外基质使细胞之间可以有黏性，支持细胞外阵列的细胞来用于让组织纤维化<br/>\n内皮细胞的养成，模仿血管的流通<br/>\n脂肪母细胞，持续分裂成脂肪子细胞，肌肉母细胞，分裂成肌肉细胞，间充质干细胞和诱导性多能干细胞(ipsc)也是干细胞候选人，间充质干细胞是指肌肉细胞以外的物质，通常对再生修复有很大的作用，ipsc诱导性多能干细胞，是将原本已经从干细胞分化之后的细胞，重新诱导成干细胞，使之重新分裂生长。<br/>\n技术问题\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606088",
+      "is_folded": false,
+      "answerer": {
+        "username": "licoris",
+        "uid": "104382"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有个希望是，最近科技富豪越来越多了  有远见，聪明，有能力   愿意推动人类进步    典型的像马斯克（生命科技，火箭，脑机接口，电动车） 贝佐斯 （太空技术） 美国那批科技富豪里这种人挺多的\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606857",
+      "is_folded": false,
+      "answerer": {
+        "username": "theX",
+        "uid": "42399"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t机器学习和大数据分析不一样，两码事。<br/>\n<br/>\n电动车确实挺无语的。<br/>\n<br/>\n去中心化货币比较有革命性。\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609675",
+      "is_folded": false,
+      "answerer": {
+        "username": "powerrrrr",
+        "uid": "93715"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t先看看chatGPT能做什么吧，哈哈哈<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvOGVjMWZmODYwN2NhZTNhYzYwZjI2LmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/8ec1ff8607cae3ac60f26.jpg\"><img alt=\"https://telegra.ph/file/8ec1ff8607cae3ac60f26.jpg\" loading=\"lazy\" src=\"https://telegra.ph/file/8ec1ff8607cae3ac60f26.jpg\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2022-12-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606877",
+      "is_folded": false,
+      "answerer": {
+        "username": "迷路麋鹿",
+        "uid": "79366"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAI確實需要投餵大量數據讓它變得越來越“聰明”，可也不是說成大數據分析那麼簡單吧<br/>\n<br/>\n瀏覽器和購物網站可以通過大數據分析用戶喜好，從而對用戶推廣他們可能感興趣的廣告，可這背後的演算法也是人想出來的，都不需要用到AI<br/>\n<br/>\nAI的神經網絡可比這個要複雜得多，連工程師自己都很難搞懂數據經過裡面的時候到底發生了什麼。只能像做實驗一樣，丟一堆數據進去訓練，但可能訓練了幾千幾萬次都沒能得出預期的效果<br/>\n<br/>\n神經網絡也算是在模擬人腦。如果AI是大數據分析，那人類從出生到學會母語的過程是不是也算一種大數據分析？\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606111",
+      "is_folded": false,
+      "answerer": {
+        "username": "末世红尘客",
+        "uid": "74378"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怎么会停止，生物医学不是在爆发前夜吗。欧美科技大佬都在谈论永生了。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1132134",
+          "replier": {
+            "username": "民主信仰者",
+            "uid": "653"
+          },
+          "date": "2022-12-04",
+          "content": "炒作而已，跟元宇宙一樣的把戲。"
+        },
+        {
+          "id": "1132234",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2022-12-04",
+          "content": "这才是问题 一面是永生一面叫人别生娃 5亿老不死的世界🤩能想象么"
+        },
+        {
+          "id": "1132289",
+          "replier": {
+            "username": "萨格尔王掀翻池塘",
+            "uid": "91374"
+          },
+          "date": "2022-12-04",
+          "content": "我不敢想象一个永生的包帝，不如给我个痛快好了"
+        },
+        {
+          "id": "1132299",
+          "replier": {
+            "username": "ofthelord",
+            "uid": "93290"
+          },
+          "date": "2022-12-04",
+          "content": "江泽民：是吗？"
+        }
+      ]
+    },
+    {
+      "id": "606881",
+      "is_folded": false,
+      "answerer": {
+        "username": "民主中國萬歲",
+        "uid": "98898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html<br/>\n<br/>\n推荐这篇文章。AI会改变人类社会。\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609699",
+      "is_folded": false,
+      "answerer": {
+        "username": "MasonQian",
+        "uid": "15361"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看了MidJourney 和 ChatGPT了嗎？<br/>\nAI可以拿走一半人類的工作，真的超級雞肋的......<br/>\n電動車AI也已經發展到了可以完全代替人類開車的邊緣了<br/>\n(今天的新消息，美國核聚變技術有突破了)\t\t</div>",
+      "date": "2022-12-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606373",
+      "is_folded": false,
+      "answerer": {
+        "username": "sart_nre",
+        "uid": "92515"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从计算机到PC，从大哥大到智能手机，科技在飞速进步。从现在往后展望，我们是看不到未来的场景，每次的产品发布都跟自己看到科幻片差距太大，所以才无法感知科技的进步\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "797643",
+      "is_folded": false,
+      "answerer": {
+        "username": "西瓜甜",
+        "uid": "131460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得算是了，近期没有什么可以能改变生活的科技发明\t\t</div>",
+      "date": "2025-02-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606161",
+      "is_folded": false,
+      "answerer": {
+        "username": "mancityfc",
+        "uid": "90591"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t科技再发展，人类也不可能永生。<br/>\n人类那碳水化合物的躯体，经不住几十年的风化。<br/>\n现在的人，跟2000年前的人，活着并没有本质上的不同。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132354",
+          "replier": {
+            "username": "漢室不可興復",
+            "uid": "48003"
+          },
+          "date": "2022-12-04",
+          "content": "太對了。現在富人都怕死，中共高層研究換器官，美國富人投資研究不老技術。但是物理定律凡人逃不了的，再換器官再基因重組的，照樣得死"
+        }
+      ]
+    },
+    {
+      "id": "606184",
+      "is_folded": false,
+      "answerer": {
+        "username": "Newboy",
+        "uid": "12842"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t过度理性会对自由反噬！<br/>\n科技可能成为极权的利器，精算自己的行为可能会陷入宿命论，唯利是图可能会中了独裁者威逼利诱的圈套，迷信达尔文、遗传学、基因论、大数据可能掉入不平等的深渊。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606193",
+      "is_folded": false,
+      "answerer": {
+        "username": "山大长沙曾思佳",
+        "uid": "83748"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你对ai有很大的误会是不是，之前谷歌有个员工因为说谷歌的ai已经有人类意识了结果被下放了，这还比不过第一二次工业革命？\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1132281",
+          "replier": {
+            "username": "kisuki",
+            "uid": "9014"
+          },
+          "date": "2022-12-04",
+          "content": "都还是弱人工智能。什么时候有强人工智能的迹象了再来说。"
+        },
+        {
+          "id": "1132307",
+          "replier": {
+            "username": "山大长沙曾思佳",
+            "uid": "83748"
+          },
+          "date": "2022-12-04",
+          "content": "@kisuki: 嗯嗯，支持ai干死低道德没下限的恶臭人类"
+        },
+        {
+          "id": "1132844",
+          "replier": {
+            "username": "迷路麋鹿",
+            "uid": "79366"
+          },
+          "date": "2022-12-06",
+          "content": "這個只能說該AI通過圖靈測試了，但我們根本無法證明一個AI是否真的有人類意識"
+        }
+      ]
+    },
+    {
+      "id": "606194",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我留意到中国宣传科技停滞(比如芯片)来塑造东升西降<br/>\n<br/>\n科技进步和民主化浪潮一样,一波一波, 在平缓的时候虽然没那么多耀眼的成绩但是在积累下一波爆发的基础。<br/>\n<br/>\n中国内循环已经失去了许多你看不见而已<br/>\n<br/>\nps: 如果AI只是统计,林志玲也只是哺乳动物 (丧失了定义的精确性)\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134698",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2022-12-11",
+          "content": "技术相对发展变缓是事实，不然按照八十年代的雁行理论，你匪应该技术至少一直落后两代以上，以至于根本没有挑战西方大希望。当然你匪在内循环以后，现有水平耶肯定无法维持，会一点点衰败。但历史会给你匪动员力量能打败西方的错觉，，事实也是因为西方技术增长的相对边缓。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "parent_type": "question",
+  "parent_id": "64257",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "716048",
+      "is_folded": false,
+      "answerer": {
+        "username": "第三新索多玛",
+        "uid": "728"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这明显是毛时代“赤脚医生”的遗毒。反正治不好又不死人，就糊弄着呗。\t\t</div>",
+      "date": "2023-12-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716040",
+      "is_folded": true,
+      "answerer": {
+        "username": "hamasauce",
+        "uid": "120815"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t你好像在骂你妈什么？你这样真的好吗？<br/>\n要理解他们那一代人的经历和背景\t\t</div>",
+      "date": "2023-12-28",
+      "agree_count": 0,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1234999",
+          "replier": {
+            "username": "hamasauce",
+            "uid": "120815"
+          },
+          "date": "2023-12-28",
+          "content": "@习露诺xirno: 你的态度不错，祝愿你生活顺利，心平静气"
+        },
+        {
+          "id": "1235004",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2023-12-28",
+          "content": "理解不代表接受ta的作为。\nta受苦，ta把受苦当作把屠刀挥向你的理由，你会心甘情愿觉得理所当然被宰吗"
+        },
+        {
+          "id": "1235005",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2023-12-28",
+          "content": "理解不等于接受。\n你可以理解一个杀人犯一个强奸犯为什么会变成杀人犯强奸犯，但你不可以因此为他开脱"
+        }
+      ]
+    }
+  ]
+}

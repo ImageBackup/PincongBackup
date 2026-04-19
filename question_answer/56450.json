@@ -1,0 +1,98 @@
+{
+  "parent_type": "question",
+  "parent_id": "56450",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "635148",
+      "is_folded": false,
+      "answerer": {
+        "username": "base64",
+        "uid": "35183"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t建议使用食品不锈钢或者食品耐高温玻璃做的饭盒\t\t</div>",
+      "date": "2023-02-28",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "635206",
+      "is_folded": false,
+      "answerer": {
+        "username": "Sediria",
+        "uid": "96959"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用铝制饭盒加热是没有危害的，铝制品在其表面都有自然的氧化层，非常坚固，不会被加热所破坏，哪怕碱性食物也不会破坏。<br/>\n<br/>\n铝制品的危害，在于我们吃饭的时候，难免会有金属勺子或者筷子刮擦饭盒，会将表面的铝氧化层剥脱下来。当然，剥落了也没事，还会很快形成新的氧化层。问题就出在剥落的碎屑里面，这些碎屑会被我们吃进去，在胃酸的作用下被分解，最后被消化道吸收，从而导致身体摄入过量的铝。这就是危害的来源了。<br/>\n<br/>\n所以，结论就是<b>仅仅贮存食物或者加热食物是没有问题的，但是作为餐具就不合适了。</b> </div>",
+      "date": "2023-02-28",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "635150",
+      "is_folded": false,
+      "answerer": {
+        "username": "司马难过",
+        "uid": "108493"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我查过了，目前没有确切的证据证明铝制餐具对健康有威胁。<br/>\n<br/>\n我也经常用铝箔纸烤食物。\t\t</div>",
+      "date": "2023-02-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "635163",
+      "is_folded": false,
+      "answerer": {
+        "username": "SWZ",
+        "uid": "96182"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t多谢LS两位回复，我在考虑是否换成不锈钢，主要我觉得德式复古风好看，所以想买\t\t</div>",
+      "date": "2023-02-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "635200",
+      "is_folded": false,
+      "answerer": {
+        "username": "仲长若谷",
+        "uid": "13710"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t铝制饭盒是否危害健康不得而知<br/>\n<br/>\n但中国几代人是不是人人都痴呆 这个某种程度上还真不好说\t\t</div>",
+      "date": "2023-02-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "635204",
+      "is_folded": false,
+      "answerer": {
+        "username": "zsy2023",
+        "uid": "92543"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t铝制饭盒有没有毒，这个不清楚，但是铝制饭盒加热食物，食物会变味，这个可以确定；而且铝制饭盒会把食物染色，食物上明显会有铝的银灰色。你自己考虑是啥原因吧。\t\t</div>",
+      "date": "2023-02-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "635292",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t酸碱盐都不行，三者都能攻击氧化铝薄膜<br/>\n<br/>\n所以铝制品只能装饭。\t\t</div>",
+      "date": "2023-02-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

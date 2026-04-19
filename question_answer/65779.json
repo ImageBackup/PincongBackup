@@ -1,0 +1,124 @@
+{
+  "parent_type": "question",
+  "parent_id": "65779",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "732304",
+      "is_folded": false,
+      "answerer": {
+        "username": "doublea4548",
+        "uid": "119592"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你在一个需要手机号注册的俄罗斯人开发的软件上谈敏感话题？\t\t</div>",
+      "date": "2024-03-05",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732430",
+      "is_folded": false,
+      "answerer": {
+        "username": "风吹过戈壁滩",
+        "uid": "124804"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我个人觉得很安全，迄今为止也没有出啥幺蛾子，不过也看你发什么东西\t\t</div>",
+      "date": "2024-03-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732432",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\ttelegram安全性不错，但由于它的需要手机号注册，我建议葱油们转移到Matrix（<a href=\"url/link/aHR0cHM6Ly9tYXRyaXgub3JnL2Vjb3N5c3RlbS9jbGllbnRzLw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://matrix.org/ecosystem/clients/\">https://matrix.org/ecosystem/clients/</a>）上去，使用更为匿名和去中心化的方式进行交流，也许你需要邮箱，但你可以临时创建一个和你身份隔绝的邮箱地址通过protonmail、skiffmail或别的隐私性较好的商家。\t\t</div>",
+      "date": "2024-03-06",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732294",
+      "is_folded": false,
+      "answerer": {
+        "username": "Xmoskpm",
+        "uid": "125282"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t会被请喝茶，十五字十五字十五字十五字十五字（十五字真的好脑残啊）\t\t</div>",
+      "date": "2024-03-05",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1249493",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2024-03-05",
+          "content": "那么监控人员是如何确定现实中的具体人员的呢？"
+        },
+        {
+          "id": "1249657",
+          "replier": {
+            "username": "Xmoskpm",
+            "uid": "125282"
+          },
+          "date": "2024-03-06",
+          "content": "我咋知道。。。反正不要暴露自己的地区，你不知道那个clash就被逮到了吗 就是暴露车牌号的属地"
+        }
+      ]
+    },
+    {
+      "id": "732302",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t电报可是用手机号注册的，这个查你太容易了。我觉得安全性还不如品葱油管。\t\t</div>",
+      "date": "2024-03-05",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1249600",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2024-03-06",
+          "content": "google voice可以注册。"
+        }
+      ]
+    },
+    {
+      "id": "732312",
+      "is_folded": false,
+      "answerer": {
+        "username": "中華聯邦共和國",
+        "uid": "20514"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用一次性验证收码来注册，不暴露个人信息，只要你名气不是大到编程随想那样，就安全得很。\t\t</div>",
+      "date": "2024-03-05",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1249644",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2024-03-06",
+          "content": "google voice呢"
+        }
+      ]
+    }
+  ]
+}

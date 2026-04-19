@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "57909",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "651224",
+      "is_folded": false,
+      "answerer": {
+        "username": "明日香",
+        "uid": "73965"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你应该去问私塾里的老师，怎么跑到这里来问。<br/>\n<br/>\n首先JLPT和EJU的成绩就不是线性关系的。\t\t</div>",
+      "date": "2023-04-27",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1173408",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-04-27",
+          "content": "私塾也上过，感觉没什么帮助，就是做题嘛。而且单独申请私塾也不会成功吧"
+        }
+      ]
+    },
+    {
+      "id": "651233",
+      "is_folded": false,
+      "answerer": {
+        "username": "不能留个人信息",
+        "uid": "1020"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还是得看你高中成绩啊 你学习能力强 就快 高中学习也不会差 你高中一言难尽 完了觉得半年能到东大水平不是吧\t\t</div>",
+      "date": "2023-04-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

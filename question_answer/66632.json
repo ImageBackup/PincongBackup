@@ -1,0 +1,79 @@
+{
+  "parent_type": "question",
+  "parent_id": "66632",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "741371",
+      "is_folded": false,
+      "answerer": {
+        "username": "Oni",
+        "uid": "75695"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要想当然。做gal game的公司一般量级都不大，处境基本和小型独立游戏工作室类似，没有那么多成本重复造轮子。更何况gal game属于很小众的niche，销量很难到很高，而且盗版严重。<br/>\n多支持游戏开发者，以后才有更多高质量的作品可以玩。\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 5,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1258352",
+          "replier": {
+            "username": "葱姜豆瓣汁",
+            "uid": "125727"
+          },
+          "date": "2024-04-17",
+          "content": "@新用户12555:一般传统的galgame是视觉小说的子类别，和轻小说更靠近一些"
+        }
+      ]
+    },
+    {
+      "id": "741761",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因為中國人本來就不會買正版，不給他盜版他就不玩了\t\t</div>",
+      "date": "2024-04-18",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741760",
+      "is_folded": false,
+      "answerer": {
+        "username": "wget",
+        "uid": "51008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t对计算资源要求不大呗, 然后游戏业界目前盾是斗不过矛的\t\t</div>",
+      "date": "2024-04-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741554",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tgal其实买的人也挺多的，虽然盗版也多，但是gal同捆有cd，这cd有的是主题歌，有的是ost，而且我告诉你一件事，同捆的cd有的抄的价格很高，当然了，多支持他们会增加他们制作的信心\t\t</div>",
+      "date": "2024-04-17",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1258509",
+          "replier": {
+            "username": "韭国",
+            "uid": "93534"
+          },
+          "date": "2024-04-18",
+          "content": "@新用户12555:我说的是CD，不是cg，这玩意没有见过盗版，现在也没有什么盗版了，这些同捆买的人其实蛮多的，有的人不玩游戏也要买cd"
+        }
+      ]
+    }
+  ]
+}

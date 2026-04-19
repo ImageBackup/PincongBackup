@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "60420",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "675534",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我不太明白<br/>\n<br/>\n中国人也没有系统学习 训练过逻辑<br/>\n<br/>\n和他们辩论 不是找屎吗？\t\t</div>",
+      "date": "2023-08-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675548",
+      "is_folded": false,
+      "answerer": {
+        "username": "hirozawayui",
+        "uid": "98874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没有科学观念，完全唯领导权威是从，几千年封建社会练就的奴性本领<br/>\n如果赵高现在指鹿为马，会有一大批专家出来论证这就是马，然后把所有说是鹿的人扣上卖国帽子\t\t</div>",
+      "date": "2023-08-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675525",
+      "is_folded": true,
+      "answerer": {
+        "username": "Thermospodium",
+        "uid": "102787"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-08-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "56190",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "632072",
+      "is_folded": false,
+      "answerer": {
+        "username": "WeedGeorge",
+        "uid": "74867"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t品葱可不是什么容易钓鱼的地方，我们可不是善茬。\t\t</div>",
+      "date": "2023-02-18",
+      "agree_count": 2,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1155213",
+          "replier": {
+            "username": "WeedGeorge",
+            "uid": "74867"
+          },
+          "date": "2023-02-18",
+          "content": "已删除"
+        },
+        {
+          "id": "1155214",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-02-18",
+          "content": "已删除"
+        }
+      ]
+    }
+  ]
+}

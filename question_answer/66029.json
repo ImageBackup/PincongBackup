@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "66029",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "735069",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果你的tor浏览器是13.0.11以前的版本，snowflake不能用的话有可能是因为fastly禁止domain fronting。<br/>\n<pre>https://blog.torproject.org/new-release-tor-browser-13011/</pre><br/>\n在连着VPN的时候一般不使用网桥也可以用Tor的。<br/>\n你要试手动添加的话，去<br/>\n<pre>https://bridges.torproject.org/options/</pre><br/>\n获取一个粘贴进去就可以了，建议类型选webtunnel，是否需要ipv6也选yes。\t\t</div>",
+      "date": "2024-03-19",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "735582",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t内置的obfs4网桥早就被封锁了，snowflake因为fastly禁止domain也连不上了<br/>\n唯一的meek-azure还能用，就是速度比较慢<br/>\n新型网桥webtunnel目前还比较坚挺\t\t</div>",
+      "date": "2024-03-21",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1252417",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-03-21",
+          "content": "[code]\nhttps://gitlab.torproject.org/tpo/applications/tor-browser-build/-/blob/main/projects/tor-expert-bundle/pt_config.json\nhttps://gitlab.torproject.org/tpo/applications/tor-browser-build/-/commit/0554d981793e6beb280cd8bd12e01081ca0e4c59\n[/code]\nsnowflake还能用的，把url换成\nhttps://1098762253.rsc.cdn77.org/\n，fronts那里换成 www.cdn77.com,www.phpmyadmin.net 就行了。"
+        },
+        {
+          "id": "1252698",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2024-03-23",
+          "content": "@Streptopelia:确实，更新后解决了"
+        }
+      ]
+    },
+    {
+      "id": "735158",
+      "is_folded": false,
+      "answerer": {
+        "username": "cartwheel",
+        "uid": "126331"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用你现在访问本站的浏览器打开<a href=\"url/link/aHR0cHM6Ly93d3cudG9ycHJvamVjdC5vcmcvemgtQ04vZG93bmxvYWQv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.torproject.org/zh-CN/download/\">Tor官网</a>下载最新版本尝试\t\t</div>",
+      "date": "2024-03-19",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

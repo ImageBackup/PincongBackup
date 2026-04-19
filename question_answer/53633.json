@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "53633",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "604343",
+      "is_folded": false,
+      "answerer": {
+        "username": "mancityfc",
+        "uid": "90591"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个张氏家族来龙去脉很明确，应该不是。<br/>\n是不是习家白手套就不好说。\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "604359",
+      "is_folded": false,
+      "answerer": {
+        "username": "qushizhen100",
+        "uid": "95875"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t六月份爆出了习近平军队大密，中央军委秘书长钟绍军涉及核酸腐败，后来给压下去了，我相信绝不是空穴来风。\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

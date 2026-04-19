@@ -1,0 +1,347 @@
+{
+  "parent_type": "question",
+  "parent_id": "54055",
+  "answer_count": 13,
+  "answers": [
+    {
+      "id": "608436",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t请参照安全置顶帖：一定有的。<br/>\n<br/>\n但是，品葱是一个去中心化的论坛，拥有所有境外网站独有的完全匿名性：申请无需邮箱和手机号码，不记录用户ip地址。<br/>\n<br/>\ncloudflare里面作为网站架构是有你ip地址的，但是，品葱的去中心化意味着：即便是这个ip地址锁定了你的位置，也只能查到你在这个时间浏览了品葱，账号是谁发了什么，除了你本人是没人知道的。<br/>\n<br/>\n<b>那么理论上品葱是安全的，除非：</b><br/>\n<br/>\n<b>你在站内或者站外相关网站公开暴露自己的真实邮箱、电话、姓名等等敏感信息，境外其他网站可以通过渗透拦截确认用户身份。国安可以请你喝茶后威逼利诱让你交出品葱账号和密码。</b><br/>\n<br/>\n<b>你使用了不靠谱的vpn搭建让国安锁定了你在境内的地址，让你的屏幕操作也被黑入并截图。</b><br/>\n<br/>\n<b>你使用境内或者已经被盯上的境外邮箱相似的用户名。</b><br/>\n<br/>\n<br/>\n<b>虽然有可能，但是概率不大：</b><br/>\n<br/>\n<b>国安为了冲业绩对你境内外怀疑账号进行大数据分析认为你两个账号的发言语气和性格类似，从而认为品葱的这个号就是你的。</b><br/>\n<br/>\n<b>你在一个非密闭隐私空间，被摄像头拍下来刚好在上品葱，该视频被国安找到了。</b><br/>\n<br/>\n<br/>\n品葱公开有人被查表原因是使用不靠谱vpn或者telegram聊天时泄漏了品葱用户身份，在telegram已经被渗透泄漏的前提下，国安上门逼你交出品葱账号。<br/>\n<br/>\n所以，为了安全，请勿在站外泄漏自己的品葱身份，除非你敢保证这个账号绝对不会被国安渗透破解。更不要作死用境内账号和境外、品葱关联，取一样的名字和一样的密码（后者为了保险都不推荐）<br/>\n<br/>\n<br/>\n<br/>\n品葱是朝廷的眼中钉，实际上朝廷知道抓几个人查水表根本没啥意义。但干掉品葱这几年朝廷该用的都用了，国安估计一半的经费用在了品葱上。但无可奈何。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 19,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1134102",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "已删除"
+        },
+        {
+          "id": "1134103",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "很详细的回答，很有帮助，也打消了我心里的疑虑，感谢"
+        },
+        {
+          "id": "1134115",
+          "replier": {
+            "username": "十二中民主小组",
+            "uid": "104018"
+          },
+          "date": "2022-12-09",
+          "content": "哈哈哈哈哈哈 一半经费"
+        },
+        {
+          "id": "1134194",
+          "replier": {
+            "username": "windXforce",
+            "uid": "86160"
+          },
+          "date": "2022-12-09",
+          "content": "那么那些看似脑残的反攻言论时他们故意发的吧"
+        }
+      ]
+    },
+    {
+      "id": "608457",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没有，除非网警太闲了，把裸连上品葱的都请去喝茶。<br/>\n<br/>\n裸连上品葱会在电信宽带那边留下访问记录，不过品葱早就被墙了，直连只能显示404。网警只能假设你是不小心点开了品葱连接，而不是故意访问品葱，因为故意访问品葱肯定是要通过代理访问。代理服务器上的东西网警一般不会破解，除非是钓鱼节点。<br/>\n<br/>\n黑掉品葱意义不大，因为查获不到用户的有效信息。<br/>\n<br/>\n只有一种可能，就是黑掉品葱后偷偷设置木马，然后利用木马攻击你的电脑。这种事情暂时没有发生过，尤其是使用了cloudflare的防护之后。<br/>\n<br/>\n如果你的电脑里本来就有木马（包括<mark>支那</mark>特色软件），肯定很危险。<mark>支那</mark>特色手机更不能用来上品葱。<br/>\n<br/>\n现在网警的思路主要是干烂品葱，没事就来个ddos攻击，逼迫品葱关站。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 7,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1134189",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2022-12-09",
+          "content": "晶哥文化水平太低，除了ddos什么都不会"
+        },
+        {
+          "id": "1134261",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "前段时间我看到有人说品葱可以直连了，没敢试，不知道真假"
+        }
+      ]
+    },
+    {
+      "id": "608496",
+      "is_folded": false,
+      "answerer": {
+        "username": "初冬",
+        "uid": "99673"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我认识一个网警，他说他们只管知名人物，一般民众网上骂骂他们根本不管，如果都要管，警力增加一千倍都是杯水车薪，所以大家根本不用担心\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 14,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1134160",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2022-12-09",
+          "content": "知名人物指的是什么标准？比如微博几百粉丝的爱国小v，晶哥会盯上他吗？"
+        },
+        {
+          "id": "1134167",
+          "replier": {
+            "username": "无依之地",
+            "uid": "81239"
+          },
+          "date": "2022-12-09",
+          "content": "@孙笑川4422: 几百粉丝.....新浪微博只要你开通都能有几十个僵尸粉"
+        }
+      ]
+    },
+    {
+      "id": "608446",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛邓习全面战争",
+        "uid": "99727"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我怕什么，我干爹是县长，我家好几个副县级。他们还指望我参与反共成为开国元勋呢。看品葱的罪行是毛毛雨了，估计当即没事\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 12,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134107",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "牛逼"
+        }
+      ]
+    },
+    {
+      "id": "608540",
+      "is_folded": false,
+      "answerer": {
+        "username": "广陵散",
+        "uid": "104774"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该是有的，真出了事就没机会或胆量再上品葱了，造成一个错觉好像没人出过事。有些很活跃的ID突然销声匿迹，除了退葱，应该就是喝茶了\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608472",
+      "is_folded": false,
+      "answerer": {
+        "username": "葱白",
+        "uid": "94300"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t群里有一个发习近平家人照片的女孩，在新加坡，后来在品葱贴了一张悔过书，把以前的帖子都删除了。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 9,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1134258",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "我操😱"
+        },
+        {
+          "id": "1134329",
+          "replier": {
+            "username": "已润的阿葱",
+            "uid": "98763"
+          },
+          "date": "2022-12-09",
+          "content": "那个帖我当时就看到了，不排除国安故意恐吓的可能性"
+        },
+        {
+          "id": "1134419",
+          "replier": {
+            "username": "Hugh",
+            "uid": "97344"
+          },
+          "date": "2022-12-10",
+          "content": "什么时候的事…"
+        }
+      ]
+    },
+    {
+      "id": "608427",
+      "is_folded": false,
+      "answerer": {
+        "username": "smfbds",
+        "uid": "96382"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有又怎么样，不用品葱还不是被习近平囚禁了三年\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608431",
+      "is_folded": false,
+      "answerer": {
+        "username": "盐一辉",
+        "uid": "18399"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从来没有过，品葱好像被网军攻击过，不过那是不是政府所为都不好说，说不定只是愤怒的小粉红。<br/>\n<br/>\n品葱人数还是太少了，现在肯定都不到10w，而且只是注册人数不是活跃人数，红迪光chinairl就15w了，更别说加上其他小的sub。<br/>\n<br/>\n被喝茶最多的应该还是推特，等品葱到了迪友那个体量，说不定也会被喝茶了。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1134096",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "没有就好，我用手机上的品葱，一看到葱友说我是在自寻死路我就害怕（胆子本来就小）。\n本来就不敢公开辱骂，给他们说的我发言前都要仔细斟酌。\n妈的来了自由世界还要偶尔当回太监，太窝囊了😓😓😓"
+        },
+        {
+          "id": "1134104",
+          "replier": {
+            "username": "自由时代号",
+            "uid": "96407"
+          },
+          "date": "2022-12-09",
+          "content": "已经超过十万了，估计活跃人数不多罢了"
+        }
+      ]
+    },
+    {
+      "id": "608492",
+      "is_folded": false,
+      "answerer": {
+        "username": "秦政国家",
+        "uid": "102681"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t朝廷把一半经费攻击品葱？品葱小众，估计没那么重要把。推特油管才是重点把。我觉得品葱未必是呼喊民主自由最厉害的一群人。但是对于墙国文化韭菜理解最透彻的一群人。可以说大部分反共反华。比民运彻底！民运还有大一统观念，法轮功还有卖国！品葱不存在的！秦桧是伟人呢！\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1134255",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "😆"
+        },
+        {
+          "id": "1134325",
+          "replier": {
+            "username": "秦政国家",
+            "uid": "102681"
+          },
+          "date": "2022-12-09",
+          "content": "按照姨学说法，崇祯皇帝是傻子，宋高宗才是聪明人。杀了岳飞，皇位稳了。葱油不是喜欢诸夏吗？确实不是大中华主义者。我也觉得那种征服四方的大中华其实就是殖民地，过时了。法轮功说给俄爹领土卖国。不过我觉得那些土地太偏僻了，跟一般人关系不大。"
+        }
+      ]
+    },
+    {
+      "id": "608448",
+      "is_folded": false,
+      "answerer": {
+        "username": "我非常想去美国",
+        "uid": "104735"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要不需要邮箱或者手机号注册的网站都很安全，没有通过手机号注册的邮箱也很安全，最不安全的就是推特了，同样在电报群和推特发言论，在推特就会被共匪的狗腿子找到，而电宝群就不会。已经不止一次听说因为推特被喝茶，但是从来没有听说过用电报被喝茶。推特就不是个好东西，马斯克收购了推特，推特依然很垃圾，为什么用推特会被找到喝茶？在油管，在电报，在其他平台都没用，用手机号注册的应用没有一个是安全的。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134110",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-09",
+          "content": "推特是真的垃圾"
+        }
+      ]
+    },
+    {
+      "id": "608531",
+      "is_folded": false,
+      "answerer": {
+        "username": "Ahasinsimito",
+        "uid": "101023"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想请教一下，注册时看到推荐用梯子+TOR方案，但我这边如果使用了TOR之后会频繁跳出安全验证或者人机验证，有时候点进去帖子或者翻页都会弹出验证。（还经常验证不成功或图片加载太慢非常影响浏览体验）。有什么办法解决吗？\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134215",
+          "replier": {
+            "username": "TrumpT",
+            "uid": "99751"
+          },
+          "date": "2022-12-09",
+          "content": "我也遇到过你这种情况，我的解决办法是把浏览器所有内容清空，然后重新打开就不用验证了"
+        }
+      ]
+    },
+    {
+      "id": "608542",
+      "is_folded": false,
+      "answerer": {
+        "username": "sysut",
+        "uid": "99533"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有的，我很久以前在国内用百度搜过品葱，你知道那种指向性么，还真有。不过那时叫旧品葱了吧。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608451",
+      "is_folded": true,
+      "answerer": {
+        "username": "敏感词滚蛋",
+        "uid": "101666"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2022-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

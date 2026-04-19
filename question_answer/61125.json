@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "61125",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "682270",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t生不带来，死不带去。一条白绫足矣。连一只忠犬守在尸体边都不配。\t\t</div>",
+      "date": "2023-08-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682311",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从哪里来，到哪里去，化粪池是猪头的最好归宿，它就应该扔进去制造点沼气。\t\t</div>",
+      "date": "2023-08-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

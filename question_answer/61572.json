@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "61572",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "686959",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t骗子统治的教育系统必然产出一堆骗子，今天早上我才看到上学期考试中调查出来的作弊行为，学院最后的决定是法不责众，保留所有人原本成绩，真是太令我悲哀了。\t\t</div>",
+      "date": "2023-09-07",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1206387",
+          "replier": {
+            "username": "AntiCCP01",
+            "uid": "79104"
+          },
+          "date": "2023-09-07",
+          "content": "是很多人一起作弊？这对诚实守信的学生来说真的太不公平"
+        },
+        {
+          "id": "1206388",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-09-07",
+          "content": "@bigapple01:yes，那个教室里桌子是长条的，人是多的，他们趁我不注意弄虚作假，但是被摄像头拍到了。"
+        }
+      ]
+    }
+  ]
+}

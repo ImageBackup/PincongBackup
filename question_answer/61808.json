@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "61808",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "689515",
+      "is_folded": false,
+      "answerer": {
+        "username": "問心",
+        "uid": "43432"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t香港這麼小，香港反送中運動的時候，<br/>\n香港黑警還是開槍了。\t\t</div>",
+      "date": "2023-09-16",
+      "agree_count": 13,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "689544",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你是中國人嗎？有沒有聽過一句話「爹親娘親不如毛主席親」？<br/>\n全世界的暴政黑警大概都是這樣\t\t</div>",
+      "date": "2023-09-16",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

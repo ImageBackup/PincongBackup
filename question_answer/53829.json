@@ -1,0 +1,323 @@
+{
+  "parent_type": "question",
+  "parent_id": "53829",
+  "answer_count": 11,
+  "answers": [
+    {
+      "id": "606202",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t恭喜你成功发明轮子。<br/>\n<br/>\n小众的没人用。做大了被封。跟电报有什么区别？<br/>\n<br/>\n另外现在支持自驾服务器的加密通讯项目有不少，自己去开源社区搜一下。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 10,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1132195",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "轮子  小轮子  总归能转几圈  也是临时用  要不然有什么办法捏"
+        },
+        {
+          "id": "1132196",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "想说话是不是真的只能到墙外了 唉"
+        },
+        {
+          "id": "1132239",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2022-12-04",
+          "content": "@爱吃蜂蜜的维尼:我说了啊，找开源项目自己架设服务器。AWS azure有没被封的IP，你的ISP允许自己用旧电脑也可以。"
+        },
+        {
+          "id": "1132320",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "@华国锋:OKOK"
+        }
+      ]
+    },
+    {
+      "id": "606256",
+      "is_folded": false,
+      "answerer": {
+        "username": "Shit进瓶",
+        "uid": "93874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实不用重复造轮子呢，开源社区有很多开源的im源代码，拿来用就行了，甚至qq的早期源代码都有，哈？你可能会奇怪，qq这种独裁者怎么会开放源代码？当年还真是，因为它自己抄的icq，所以标榜开源呗，当然早前放出的源代码只有能发最基本的富文本（rich text）消息的功能，另外电报本身也是开源的，所以一个im的使用，其实不是软件本身的问题<br/>\n无非是三点：1，如何推广（还记得新浪uc和易信吗？），2，如何搭建中心服务器（中心化就会容易被封，去中心化就要像tor或zeronet一样很难接入，然后就是持续性，也就是钱的问题），3，如何防止被封杀（与第二点不同，指的是针对包的封杀，类似电报等）<br/>\n<br/>\nps：说到qq源代码，以前读书时，计算机专业的人秀本事，根据qq源代码开发了一个校内qq，不用连外网，只要插着学校拉的网线就能通讯，甚至都不用开通学校的上网账号，当时真是泡妹子利器，哈哈<br/>\nps2：本人不是计算机专业的，以上表述如有不专业的地方，包涵哈\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132325",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "谢谢指导"
+        }
+      ]
+    },
+    {
+      "id": "606261",
+      "is_folded": false,
+      "answerer": {
+        "username": "fadgeagdf",
+        "uid": "99833"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最近在看基于ipfs的聊天系统的一些东西<br/>\n<br/>\n<a href=\"url/link/aHR0cHM6Ly9kb2NzLmlwZnMudGVjaC9ob3ctdG8vY3JlYXRlLXNpbXBsZS1jaGF0LWFwcC8jaG93LWl0LXdvcmtz\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://docs.ipfs.tech/how-to/create-simple-chat-app/#how-it-works\">https://docs.ipfs.tech/how-to/create-simple-chat-app/#how-it-works</a><br/>\n<br/>\n另，楼主可以在3DES的基础上加上Diffie-Hellman Key Exchange 来建立私钥。用时间做密钥太容易被搞了。楼主可以看看 Double Ratchet Algorithm，大体上是 Diffie-Hellman + MAC + AES. Signal和WhatsApp 好像用的都是这个算法。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132336",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "666  太厉害了  我看不懂[doge]  不过小众软件这样子搞就太麻烦了  普通的加密就足了罢  毕竟除非做大  要不然不会有共匪去分析的  谢谢分享"
+        }
+      ]
+    },
+    {
+      "id": "606233",
+      "is_folded": false,
+      "answerer": {
+        "username": "哈囉",
+        "uid": "103818"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a href=\"url/link/aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPW9yZy5icmlhcnByb2plY3QuYnJpYXIuYW5kcm9pZCZobD16aF9UVyZnbD1VUw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://play.google.com/store/apps/details?id=org.briarproject.briar.android&amp;hl=zh_TW&amp;gl=US\">Briar</a><br/>\n<br/>\n看來是<a href=\"url/link/aHR0cHM6Ly9icmlhcnByb2plY3Qub3JnL21hbnVhbC96aC1oYW5zLw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://briarproject.org/manual/zh-hans/\">使用說明</a><br/>\n<br/>\n看看？<br/>\n<br/>\n我們看得到的晶哥都看得到，必定要找個open source的。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132333",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "谢谢分享"
+        }
+      ]
+    },
+    {
+      "id": "606225",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t必要, 適合抗爭著與斷海纜后確保能用的一個都沒有.<br/>\n<br/>\n1.匿名、分佈式無中心的内容和數據庫存儲, 且滿足 CAP 定理<br/>\n2.有抗爭者被斷網后的自組網和分組交換功能<br/>\n3.使用 DHT/KAD/de Bruijn graph 三種技術任意, 自組網<br/>\n4.從桌面平臺到移動平臺<br/>\n5.針對 GFW 有 HTTPS 封套<br/>\n6.加密使用 PGP 算法和證書<br/>\n7.能指定設備的帶寬、鏈接數、CPU/RAM 與存儲的使用上限<br/>\n8.某一設備有一或多個互聯網訪問時進行負載均衡<br/>\n<br/>\n一直都在構思和技術選型, 目前還不成熟沒進入到設計階段呢. 先吧磚塊扔出來吧.\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1132339",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "6  神级难度  先停留在设想阶段罢"
+        },
+        {
+          "id": "1132346",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-04",
+          "content": "@爱吃蜂蜜的维尼:\n_ _ 目前設想是互加公鑰之後雙方可解開密文, 密文之前存在誰那裏并不要緊. 實現上鏈接 GPG 的庫和頭文件, 和另一個 PGP 的代碼給予用戶選擇在 GPG 選擇處標明推薦就好. 斷續想了大半年了, 感覺整個項目過大要砍開, 由不同的設計小組分別來實現才好."
+        },
+        {
+          "id": "1132353",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "@ismynewmail:想法總是很好的  開發起來很麻煩  這個源碼寫出來了可以賣20000"
+        },
+        {
+          "id": "1132364",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-04",
+          "content": "@爱吃蜂蜜的维尼:\n_ _ 嗯, 所以説開源貢獻者都是用愛發電啊, 一個 GNU Compiler 當初就能值上百萬美元的. 雖是自黑為碼農真的可説扛著金鋤頭刨食喲, 既是IT科技的先鋒又藉助了古往今來大師的智慧.\n_ _ 在大陸錢不錢都不重要了, 錢多如馬雲也只能逃, 就地贖身是休想了. 說難聼的, 老婆是老爺和衙内看不上的, 孩子是未來權貴享樂的燃料. 房子只有七十年使用權, 車子票子也只是暫時寄存在咱手裏的. 少做孽是真格的, 人權不完整沒自由別的都是假的."
+        },
+        {
+          "id": "1132367",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "@ismynewmail:唉"
+        }
+      ]
+    },
+    {
+      "id": "606258",
+      "is_folded": false,
+      "answerer": {
+        "username": "steven380",
+        "uid": "34431"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t断网情况下的紧急通讯软件，也很必要。<br/>\n<br/>\n比如说让大家打开 wifi guest 权限 和 手机组网，类似蛙跳那样找到有效的互联网节点和外部联系。<br/>\n<br/>\n当然可能带宽有限只支持文字信息。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132331",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "要搞多节点成本很高捏  除非可以开放自建服务器  不过那样的写法有些麻烦  直接拿网上现成的就好啦"
+        }
+      ]
+    },
+    {
+      "id": "606265",
+      "is_folded": false,
+      "answerer": {
+        "username": "唐川普II",
+        "uid": "55392"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是有一个去中心化的twitter吗。人人都能架服务器。你怕被封自己建一个私有服务器不公开。一小撮人用就好了。用私信功能交流。实在没必要自己从头写一个。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132329",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "对哦"
+        }
+      ]
+    },
+    {
+      "id": "606291",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t影响大了之后中共才会开始关注，包括逮捕作者，禁止传播\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132327",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "小范围用那就不会有事的啦"
+        }
+      ]
+    },
+    {
+      "id": "606297",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实很简单，送他一个二手的iphone，用imessage聊天<br/>\n<br/>\n我就是这样给家母传递反贼信息的\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132328",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "666"
+        }
+      ]
+    },
+    {
+      "id": "606323",
+      "is_folded": false,
+      "answerer": {
+        "username": "寒露成霜",
+        "uid": "74933"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t镰刀会立法：韭菜们使用加密手段进行通讯违法。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132330",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "众所周知，中共的网军是用来打自己人的"
+        }
+      ]
+    },
+    {
+      "id": "606411",
+      "is_folded": false,
+      "answerer": {
+        "username": "ooo0o0000",
+        "uid": "31045"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用Tox这种不需要中心服务器的协议吧。Antidote@iOS, aTox@Android, qTox@desktop。<br/>\n不过因为我是个孤立个体，没有人可以跟我测试是否需要翻墙。<br/>\n<br/>\nhttps://tox.chat/index.html\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1132370",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "謝謝分享"
+        }
+      ]
+    }
+  ]
+}

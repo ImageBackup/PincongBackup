@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "67257",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "747476",
+      "is_folded": false,
+      "answerer": {
+        "username": "madanne",
+        "uid": "90026"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你和你的朋友完全生活在疯狂的盒子中，十年都不联系的朋友突然找你！瞎子在群里也可以看见药方！ICU急救后眼睛还能喷浓！方子你看了相当猛！中医专家诊断是气血不足！你还是早点去看医生吧\t\t</div>",
+      "date": "2024-05-13",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1264898",
+          "replier": {
+            "username": "蝈氨小老鼠",
+            "uid": "90383"
+          },
+          "date": "2024-05-13",
+          "content": "已删除"
+        },
+        {
+          "id": "1264901",
+          "replier": {
+            "username": "中国的皇帝",
+            "uid": "128530"
+          },
+          "date": "2024-05-13",
+          "content": "@蝈氨小老鼠:你还解释，楼上说你是编的"
+        }
+      ]
+    }
+  ]
+}

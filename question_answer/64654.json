@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "64654",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "720266",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这水是脑子注水吧。甭管一头猪被美帝和俄爹联手耍得团团转，也要嘴硬把编故事编下去。\t\t</div>",
+      "date": "2024-01-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "720256",
+      "is_folded": false,
+      "answerer": {
+        "username": "guanyuhan426",
+        "uid": "111049"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t导弹燃料烧火锅绷不住了。怎么烧？用海绵蘸一下当酒精块使吗？\t\t</div>",
+      "date": "2024-01-14",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1238770",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2024-01-14",
+          "content": "把固体燃料切成小块扔炉子里烧。"
+        }
+      ]
+    },
+    {
+      "id": "720270",
+      "is_folded": false,
+      "answerer": {
+        "username": "徐婷娟",
+        "uid": "109844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t后清师从前清，记得电影甲午战争里是炮弹内灌满黄沙。\t\t</div>",
+      "date": "2024-01-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "720275",
+      "is_folded": false,
+      "answerer": {
+        "username": "被锤爆的季节",
+        "uid": "121109"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t确实有那股天朝上国的味道，现在就差威震四海了\t\t</div>",
+      "date": "2024-01-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

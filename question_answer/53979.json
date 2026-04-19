@@ -1,0 +1,621 @@
+{
+  "parent_type": "question",
+  "parent_id": "53979",
+  "answer_count": 26,
+  "answers": [
+    {
+      "id": "607621",
+      "is_folded": false,
+      "answerer": {
+        "username": "红白蓝",
+        "uid": "40599"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国疫苗有很多种<br/>\n但是在国外大规模推广过的只有科兴和国药的灭活疫苗<br/>\n这里面最大的问题是<br/>\n中国疫苗的三期临床数据普遍造假和不公布<br/>\n在疫情早期，有些国家病急乱投医（特别是南美国家如智利、巴西）用了中国灭活疫苗<br/>\n从第三方透露出的信息来看，有效性是很差的<br/>\n长期免疫效果差，抗感染能力趋近于0<br/>\n两者相比，科兴又好于国药。国药分为北京和武汉，都是烂泥扶不上墙。<br/>\n<br/>\n自从2021年下半年，基本上有条件的国家都使用欧美疫苗作为加强针，国产疫苗很难卖出去了<br/>\n这么多国家用脚投票了<br/>\n<br/>\n至于副作用，中国从未公布。但是网传的肺结节和白血病都有背景发病率，未必和疫苗有关系。<br/>\n<br/>\n但是，在国内的人实在是没得选择。<br/>\n如果非要打的话，如果你仅仅是为了避免被疫苗毒到，就打智飞生物的重组蛋白疫苗。这疫苗没有用但是有害的可能性也小<br/>\n如果你寄希望于疫苗可以有一定的重症和死亡保护，可以打灭活疫苗。但同时风险也比较大。<br/>\n<br/>\n至于孩子，如果你不想打而你孩子又很健康的话，其实打疫苗作用不大。因为现在疫苗对防感染用处不大，而新冠病毒对于没有基础病的孩子的致死率极低极低。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 18,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133678",
+          "replier": {
+            "username": "lbow",
+            "uid": "53236"
+          },
+          "date": "2022-12-08",
+          "content": "泰國之前說科興要有保護力大概要打十劑XD"
+        }
+      ]
+    },
+    {
+      "id": "607699",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t已经从某墙内疫苗公司辞职的来答一下。<br/>\n<br/>\n工作原因我个人更推荐打疫苗，这里不列举也不讨论具体原因，只回答帖主问题。在墙内的话推荐智飞重组蛋白，或者康希诺腺病毒。小孩子加上现在Omicron无/轻症，更推荐打全重组蛋白（三针）。腺病毒（一针），很简单粗暴地描述原理的话，是把“阉割”过的活体病毒打进人体，所以接种者反应相对来说比较大（局部疼痛，发热等）。根据几个月前的信息（近几月没有关注），智飞的WHO审核尚未通过，康希诺已获WHO认证。康希诺新出的雾化疫苗暂未关注。<br/>\n<br/>\n另外除疫苗有效率和副作用这些疫苗研发层面上的问题外，不必太担心疫苗生产/管理/卫生等安全性问题。一来申请国际认证的公司，完全按照国际化标准；二来墙内医药/疫苗公司近年的审查极严，对疫苗研发生产不仅严格且频率极高，有时甚至达到了影响工作的地步。<br/>\n<br/>\n也算是体验了一把封建体制下的“御笔钦点”工程。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 9,
+      "discussion_count": 24,
+      "discussions": [
+        {
+          "id": "1133520",
+          "replier": {
+            "username": "shellcat",
+            "uid": "78316"
+          },
+          "date": "2022-12-07",
+          "content": "重组可以，腺病毒载体本质上原理和灭活区别不大，吸入式可以考虑，注射式就算了"
+        },
+        {
+          "id": "1133588",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-07",
+          "content": "身处前景这么好的行业为何辞职呢"
+        },
+        {
+          "id": "1133635",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2022-12-07",
+          "content": "@心情不好: 辞职不代表离开这个行业啊，也许是润到更好的公司了呢！"
+        },
+        {
+          "id": "1133649",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2022-12-08",
+          "content": "@shellcat:层主也是推荐重组啊。并说明了腺病毒载体的副作用"
+        },
+        {
+          "id": "1133685",
+          "replier": {
+            "username": "BeyonceNews",
+            "uid": "96530"
+          },
+          "date": "2022-12-08",
+          "content": "请问一下，前两针灭活，第三针加强针可以打重组蛋白吗？"
+        },
+        {
+          "id": "1133688",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2022-12-08",
+          "content": "@BeyonceNews: 如果要打的话第三针可打重组或者mRNA，但不建议打第三针灭活或者腺病毒。"
+        },
+        {
+          "id": "1133702",
+          "replier": {
+            "username": "BeyonceNews",
+            "uid": "96530"
+          },
+          "date": "2022-12-08",
+          "content": "@一Watcher一:感谢"
+        },
+        {
+          "id": "1133723",
+          "replier": {
+            "username": "ooo0o0000",
+            "uid": "31045"
+          },
+          "date": "2022-12-08",
+          "content": "不是吧，以我的了解，腺病毒载体疫苗和mRNA疫苗的原理在本质上是一致的，都是通过让Covid病毒负责制造S蛋白的RNA片段进入人体细胞，让人体细胞自身制造抗原S蛋白引发免疫反应，两者的区别主要在于运输RNA到人体细胞指示核糖体制造S蛋白的手段。"
+        },
+        {
+          "id": "1133727",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2022-12-08",
+          "content": "@ooo0o0000: 腺病毒疫苗是以腺病毒为载体，也就是带Covid蛋白DNA序列的活体腺病毒；跟mRNA疫苗直接送mRNA的路径和实现人体细胞制造病毒蛋白的手段都完全不同。"
+        },
+        {
+          "id": "1134002",
+          "replier": {
+            "username": "ooo0o0000",
+            "uid": "31045"
+          },
+          "date": "2022-12-08",
+          "content": "@一Watcher一: 这不就是我说的运输手段不同吗？但本质上都是让制造S蛋白的RNA片段进入人体病毒，利用人体细胞自身在细胞表面制造Covid S蛋白引起免疫反应。你这一口一个DNA的，看似也不了解腺病毒和腺病毒载体技术，莫非是疫苗公司的前保安？😅"
+        },
+        {
+          "id": "1134004",
+          "replier": {
+            "username": "ooo0o0000",
+            "uid": "31045"
+          },
+          "date": "2022-12-08",
+          "content": "@ooo0o0000: 笔误：“进入人体病毒” 实为 “进入人体细胞”。特此订正。"
+        },
+        {
+          "id": "1134137",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2022-12-09",
+          "content": "@ooo0o0000: 看清楚我说的后半句话。另外你在这里不停重复一个大概念完全不知细节和实现没有什么讨论基础。Covid是RNA病毒，但是实现时腺病毒带的是dsDNA，且并不是只带Spike protein coding sequence，而是带敲掉两个基因的完整序列（不同公司独立研发实现不同）。这个路径上实际实现手段上跟mRNA完全不同，只能说最后一步制造Spike protein的步骤（步骤也不可能不一致）和目标一致。"
+        },
+        {
+          "id": "1134240",
+          "replier": {
+            "username": "ooo0o0000",
+            "uid": "31045"
+          },
+          "date": "2022-12-09",
+          "content": "@一Watcher一:这下我信了，向你道歉。PS: 早一步讲解这么清楚不是好得多吗。"
+        },
+        {
+          "id": "1134249",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2022-12-09",
+          "content": "@ooo0o0000: 没事儿，我的锅，有时候很懒得打字"
+        },
+        {
+          "id": "1137062",
+          "replier": {
+            "username": "希伯来",
+            "uid": "95270"
+          },
+          "date": "2022-12-20",
+          "content": "请问大神，我打了一针北京生物。两针科兴，现在我阳了，等转阴之后有必要去打复必泰吗？"
+        },
+        {
+          "id": "1137142",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2022-12-20",
+          "content": "@希伯来: ……三针灭活，又阳了，不建议再打了。特别想打的话可以等6个月再看，但个人来讲不是很建议。"
+        },
+        {
+          "id": "1137279",
+          "replier": {
+            "username": "希伯来",
+            "uid": "95270"
+          },
+          "date": "2022-12-21",
+          "content": "@一Watcher一:谢谢大神"
+        },
+        {
+          "id": "1137280",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2022-12-21",
+          "content": "@希伯来: 不敢当不敢当，祝健康"
+        },
+        {
+          "id": "1137342",
+          "replier": {
+            "username": "nash1988",
+            "uid": "18171"
+          },
+          "date": "2022-12-21",
+          "content": "已删除"
+        },
+        {
+          "id": "1137343",
+          "replier": {
+            "username": "nash1988",
+            "uid": "18171"
+          },
+          "date": "2022-12-21",
+          "content": "大神你好~~~拜读了你的回复深表钦佩。关于重组蛋白疫苗，我有个问题，我看到国内网上有说虽然效果和安全性都是重组疫苗的强项，但是需要打足3针才有完整的免疫效果，这是否和你推荐两针灭活后第三针打智飞有偏差？"
+        },
+        {
+          "id": "1137346",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2022-12-21",
+          "content": "@nash1988: 不敢当。不冲突，我不推荐灭活，但是如果已经打全灭活（理论上是两针）后再选加强针，可打重组蛋白或者mRNA。就像腺病毒打全一针，加强可补一针mRNA而不是两针mRNA。"
+        },
+        {
+          "id": "1137349",
+          "replier": {
+            "username": "nash1988",
+            "uid": "18171"
+          },
+          "date": "2022-12-21",
+          "content": "@一Watcher一:我的理解是前两针灭活可以部分替代前两针重组，使得原来需要3针起效的重组疫苗在只打一针的情况下同样起作用？"
+        },
+        {
+          "id": "1137350",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2022-12-21",
+          "content": "@nash1988: 不太准确，但大致可以这样理解。要求打2-3针的疫苗有至少两针或以上才能在大部分人身上有有效免疫反应的；也有第一针就有显著效果，但第二针强化免疫反应的（更持久等），辉瑞等公司就属于第二种。（如果一直没有感染的话）4-6月后打加强针是为了增加抗体水平。"
+        },
+        {
+          "id": "1137353",
+          "replier": {
+            "username": "nash1988",
+            "uid": "18171"
+          },
+          "date": "2022-12-21",
+          "content": "@一Watcher一:感谢解惑"
+        }
+      ]
+    },
+    {
+      "id": "607709",
+      "is_folded": false,
+      "answerer": {
+        "username": "gogostar",
+        "uid": "73236"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t現在一堆大白小號在鼓吹開放了死多少人 不打疫苗不行 而且60歲以上必須要打滿3針<br/>\n<br/>\n1，去年巴西還是阿根廷 報出說中國疫苗面對omicron防護力為0還是只有20～30%<br/>\n<br/>\n2，老年人打完疫苗幾個月就死了，大人小孩打疫苗後診斷白血病等等<br/>\n<br/>\n所以放不下心的話去打就好 畢竟中國人民基本打的都是這個疫苗<br/>\n<br/>\n----------------------------------------------------------<br/>\n<br/>\n題外話：<b><mark>支那人</mark>的7天記憶力決定了必須要接受共產黨的領導 </b><br/>\n<br/>\n屑站華農殺過一次豬，剩下的豬都離他遠遠的，<mark>支那人</mark>連豬都不如\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607896",
+      "is_folded": false,
+      "answerer": {
+        "username": "卡萨布兰卡",
+        "uid": "55429"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不建议打，我舅舅是三甲医院主任医师，他说光他们医院儿童白血病发病率今年猛增。很多中老年人打完副作用明显。\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 9,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607705",
+      "is_folded": false,
+      "answerer": {
+        "username": "神州陆沉",
+        "uid": "89962"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不能绝对不能。国产疫苗臭名昭著。常规疫苗都屡次出事故，更何况这个人工病毒\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607741",
+      "is_folded": false,
+      "answerer": {
+        "username": "wce3f2xi",
+        "uid": "49662"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想看真正的国产和国外大规模对比数据，去找新加坡的，因为这边是大多数人打mRNA，小部分人打国产。<br/>\n<br/>\n结论：国产效率差，持续性差，副作用强。<br/>\n<br/>\n但差多少？根据数据，大概效率差一倍，持续性差一倍，副作用强一倍。<br/>\n<br/>\n-----------<br/>\n所以，想打可以打国产疫苗，毕竟不是0。<br/>\n<br/>\n但千万注意，一定要在觉得自己被感染前2,3月打。否则，<b>国产疫苗的持续性也就2,3个</b>月，你隔太久打了，岂不是已经失效了。<br/>\n<br/>\n所以我看你们说什么国产疫苗覆盖率还行，一问，都是去年打的，效率早就呵呵哒了。就连mRNA，持续性也就半年，隔了一年，也是呵呵哒。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133586",
+          "replier": {
+            "username": "nancyapple",
+            "uid": "92674"
+          },
+          "date": "2022-12-07",
+          "content": "mRNA半年就无效的观点不对，半年后抗体基本上是没了，但是像免疫细胞是有的。这方面有研究，mRNA疫苗半年之后甚至一年之后防重症死亡都不差的，不过确实打一针booster效果更好。"
+        }
+      ]
+    },
+    {
+      "id": "607912",
+      "is_folded": false,
+      "answerer": {
+        "username": "總加速濕",
+        "uid": "73156"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还是两年前那句话，问就是不打，谁劝我打我祝他全家都能打国产疫苗\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607617",
+      "is_folded": false,
+      "answerer": {
+        "username": "心理不稳定的韭菜",
+        "uid": "75115"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国没有三期临床数据或者说现在打得这些就是三期临床数据，你愿意当小白鼠吗\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607758",
+      "is_folded": false,
+      "answerer": {
+        "username": "shellcat",
+        "uid": "78316"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t智飞的重组蛋白可以打，副作用小+保护率还可以，而且不会大幅度损伤免疫力<br/>\n约不上就别打<br/>\n灭活疫苗不建议打，如果非要打，就2灭活+1重组，重组最后打<br/>\n灭活加强针千万别打，身边就没有打了这个没副作用的，原理上加强针的剂量差不多就相当于你感染一次原始毒株轻症，对免疫系统负担太大\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607823",
+      "is_folded": false,
+      "answerer": {
+        "username": "fkjpx",
+        "uid": "93535"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t众所周知的原因，没有大样本数据，但是门诊间或会遇到疫苗接种后短期内发生血液肿瘤和肺结节的患者，有无因果关系也没办法确定。<br/>\n<br/>\n回答楼主问题，保险起见，就不用接种了，因为奧米克绒本身就致病力不大。反正我是这么给家里老人叮嘱的。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607712",
+      "is_folded": false,
+      "answerer": {
+        "username": "无明",
+        "uid": "96706"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果武汉肺炎病毒是自然产生的，那么我会选择用自然免疫来对抗它，而不会接受一种我对其成份一无所知的针剂注射，因为后者需要我对注射者抱有极大的信任才可以，显然公信力已经严重破产的共匪不满足这一点。<br/>\n<br/>\n如果武汉肺炎病毒是人工制成的，那我更不会接受所谓疫苗的注射，因为我不知道它究竟在哪一步等着我，是病毒，还是打针？如果是后者，细思极恐。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607824",
+      "is_folded": false,
+      "answerer": {
+        "username": "亡共进行时",
+        "uid": "7969"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别人我不清楚，我有打了一针墙国的特色疫苗，手臂疼了几天，我有贴膏药才好起来的，这就是我自身当小白鼠体验出来的真实副作用。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607774",
+      "is_folded": false,
+      "answerer": {
+        "username": "真实姓名",
+        "uid": "78636"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小孩打个屁啊，最强免疫力，大人都死光了，小孩子也不会死\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607696",
+      "is_folded": false,
+      "answerer": {
+        "username": "廣寒秋",
+        "uid": "87463"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中國的疫苗打了也不會有毛線用處的，還可能會有副作用。新冠早弱化了，除非是老弱群體，不打疫苗大概率都不會有事。我得過delta或delta以前比較強勁的病毒，也不過是發了將近一星期燒而已。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607700",
+      "is_folded": false,
+      "answerer": {
+        "username": "叶子的寂寞",
+        "uid": "101118"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国疫苗也出问题了 墙国疫苗还可以打？ 哈哈 看看科兴疫苗现在怎么样了？ 没有打更加安全可靠. 自然免疫.\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607770",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没啥效果建议不打，国外开局用了国产疫苗的大都非常垃圾，后面直接不用了改打西方疫苗。<br/>\n可能你感染一次获得的免疫力提高都比国产疫苗强，还不用提前承担副作用风险，副作用这种东西国外数据没有参考意义，众所周知，同一个品牌的食品如果是香港特供价格就会翻倍，毕竟人家送给国外的都是用来赚吆喝的，品控不可同日而语。疫苗无效是技术本身的问题，副作用可不是。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608647",
+      "is_folded": false,
+      "answerer": {
+        "username": "ck2031",
+        "uid": "104975"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别打。本人居住在美国南部红州。家里孩子去年九月开始上幼儿园，从不带口罩。他班里和学校的孩子和老师经常有爆出新冠病例，我家孩子也因该感染过，但是从来没有测试过，因为孩子除了时不时有些轻微感冒症状，从来没有过严重感染。从去年三月流感季结束后，孩子到现在基本没病过。 <br/>\n我自己已经至少一年半没带口罩了。周围很多人都感染过这个病毒，要么没症状，要么很快恢复。本人没有测试过，因为没有症状。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1134262",
+          "replier": {
+            "username": "ck2031",
+            "uid": "104975"
+          },
+          "date": "2022-12-09",
+          "content": "补充：孩子没打过疫苗。家里大人打过两针Moderna"
+        },
+        {
+          "id": "1134297",
+          "replier": {
+            "username": "养习吃人",
+            "uid": "99821"
+          },
+          "date": "2022-12-09",
+          "content": "我们也没有打，得过一次轻症两三天就好。好多朋友也没打都没事。反而打过的一直重复感染有的每次都有症状。"
+        }
+      ]
+    },
+    {
+      "id": "607615",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能打，中国输出了很多疫苗到国外。<br/>\n<br/>\n那些国家有对应的数据，查了如果你觉得可以就打。\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612611",
+      "is_folded": false,
+      "answerer": {
+        "username": "远野",
+        "uid": "87726"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以打，虽然效果不好，但是一定程度上还是能降低重症率死亡率。由于在现在的形势下感染几率极大，所以有什么就打什么吧，总比什么都不打强\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137365",
+          "replier": {
+            "username": "baozi3311",
+            "uid": "99088"
+          },
+          "date": "2022-12-21",
+          "content": "感染都防不了，咋防的重症？"
+        }
+      ]
+    },
+    {
+      "id": "612443",
+      "is_folded": false,
+      "answerer": {
+        "username": "埃塞尔雷德",
+        "uid": "102193"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t安慰剂罢了，公司没逼就不要给自己找罪受。正常疫苗都得3-5年上市，几个月时间整出来的东西没适得其反就挺难得了\t\t</div>",
+      "date": "2022-12-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608639",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t效果： 现有疫苗效果都一般，即使是欧美疫苗也不防感染。并且国内没有疫苗通行证优待，打了之后照样隔离你。<br/>\n<br/>\n副作用： 不良反应比欧美疫苗要高，但有限。<br/>\n主要问题一个是不透明，你也不知道官方公布的不良反应有多少水分，或者说不良反应的定义都没有统一；另一个是不良反应的影响超出医药健康领域，就是你打了出现不良反应，不仅不能像欧美那样，能获得政府垫付的大笔赔偿，反而投诉无门，甚至子女就学，父母领取养老金都会受到影响。<br/>\n<br/>\n至于是不是打，是见仁见智的。疫苗的效用对每个人都不一样，万一出现副作用的影响也是因人而异的。我不认为有什么统一的答案。<br/>\n<br/>\n就我个人来说，首先对于疫苗防止感染没有任何期望，我完全不认为武汉肺炎病毒对我的健康构成什么威胁，我认为所谓阳性只是大数据随机抽取的。我打疫苗是为了出国入境不受阻，如果达不到这个效果，疫苗对于我的效用为0。此外我也不认为疫苗有很大副作用，但是因为效用为0，我没有动机去承担哪怕一丝一毫的风险。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607916",
+      "is_folded": false,
+      "answerer": {
+        "username": "宪政民主的中国",
+        "uid": "45581"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t既没有效果，又有副作用，别打。20字。20字20字够了吗够了吗够了吗\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607920",
+      "is_folded": false,
+      "answerer": {
+        "username": "tb120923",
+        "uid": "86772"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果能出国，则出国打辉瑞莫得那这些，实在不行的话就只打 WHO 认证的\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607722",
+      "is_folded": false,
+      "answerer": {
+        "username": "初冬",
+        "uid": "99673"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你们上次大规模接种疫苗的时候都没打吗？我们这边基本全部都打了，除了部分老人和孩子，没感觉有啥副作用\t\t</div>",
+      "date": "2022-12-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607623",
+      "is_folded": true,
+      "answerer": {
+        "username": "moby2046",
+        "uid": "98917"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2022-12-07",
+      "agree_count": 17,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608324",
+      "is_folded": true,
+      "answerer": {
+        "username": "simadadi123",
+        "uid": "104638"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t动不动就<mark>支那人</mark>，你不是<mark>支那人</mark>？？你爸妈不是<mark>支那人</mark>？你写的是不是<mark>支那人</mark>的文字？你说的是不是<mark>支那人</mark>的话？？如果你在我面前说这话，信不信我劈了你！数典忘祖的东西！！！马勒戈壁的，你反对共产党可以，但你污蔑整个中国民族，你是什么东西？你妈是从屁眼里生的你吗？\t\t</div>",
+      "date": "2022-12-08",
+      "agree_count": -2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1134253",
+          "replier": {
+            "username": "wangtiancai",
+            "uid": "90025"
+          },
+          "date": "2022-12-09",
+          "content": "说的好"
+        }
+      ]
+    }
+  ]
+}

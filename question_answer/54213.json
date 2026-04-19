@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "54213",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "609811",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t富贵不还乡，如锦衣夜行<br/>\n<br/>\n这就叫沐猴而冠<br/>\n<br/>\n另外别用东北词汇污染本来就已经糟糕透顶的中文了\t\t</div>",
+      "date": "2022-12-12",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609806",
+      "is_folded": true,
+      "answerer": {
+        "username": "看客",
+        "uid": "96406"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2022-12-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609818",
+      "is_folded": true,
+      "answerer": {
+        "username": "ofthelord",
+        "uid": "93290"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2022-12-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

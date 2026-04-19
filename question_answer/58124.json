@@ -1,0 +1,314 @@
+{
+  "parent_type": "question",
+  "parent_id": "58124",
+  "answer_count": 20,
+  "answers": [
+    {
+      "id": "653449",
+      "is_folded": false,
+      "answerer": {
+        "username": "daxuesheng",
+        "uid": "14137"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这贴里面很多都是只对机械硬盘有效，用到SSD上属于严重误导，可能会导致楼主有牢狱之灾，建议大家把不正确的回答删掉。<br/>\n<br/>\n正确的答案在 Arch wiki上面有专门页面： https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing<br/>\n<br/>\n（@weibao 引用的也是Arch wiki，但是那个页面上只有6.6和6.7对SSD是真正保险的。)<br/>\n<br/>\n---<br/>\n<br/>\n我的理据：<br/>\n<br/>\n一、与传统磁介质不同，Flash芯片是有写入次数限制的，现在主流的TLC芯片一个单元其实只能写几百次，所以SSD都有非常强大的主控芯片，运行着很复杂的耗损平均（Wear Leveling）算法，把每次写入映射到不同的单元上，让每个单元使用的次数都比较平均。这也意味着以前写入的数据，虽然不能通过主机读出来，物理上可能还存在于芯片里，通过刑侦工具可以恢复。<br/>\n<br/>\n二、即使有耗损平均，但是不可避免会有单元会因为制造瑕疵而提前坏掉，所以SSD都保留了一部分储存空间来代替坏掉的单元，这叫做over provisioning（不这样设计的话SSD的空间会越用越小，没有文件系统支持这个)。一般SSD至少有5%的保留，QLC和企业级SSD会保留更多。如果只进行数据覆盖，不会覆盖到保留空间。<br/>\n<br/>\n三、其实SSD的厂家早就考虑过安全擦除的问题，所以基本上近年来所有SSD存在Flash芯片上的数据都是加密的（参见TCG-Opal标准），密钥存在主控芯片里面，只需要使用专门的命令就可以产生一个新的随机密钥，之前芯片上的数据就全部不可读了。部分SSD也支持用特殊的命令物理擦除芯片。<br/>\n<br/>\n四、即便是磁硬盘用写0擦除或者低格也是没有保障的，上古时期就有论文通过统计学方法恢复写0以前的数据，甚至通过专业仪器还能读出前几次写入的数据。对于SSD来说为了节省写入次数通常会对数据进行压缩，如果看到一堆0只会做一个记录说这个地址范围都是0，根本不会覆盖几个单元。\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 8,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1175789",
+          "replier": {
+            "username": "關文虎",
+            "uid": "91325"
+          },
+          "date": "2023-05-08",
+          "content": "低階格式化是不可還原的，論文在哪? 一般商用公司也好，政府單位也好是沒有技術用你所謂論文方式把低階格式化後的硬碟資料重讀出來的，那是不可能的，不 可 能。\n用在SSD是把硬碟填零，傳統碟是柱面、磁軌、磁區重新劃分，低階格式化工具對於原PO的問題已經足夠有用。\n只要低階格式化就已足夠。謝謝。\n不要把簡單的問題亂搞得很複雜。而所謂的SSD擦出工具跟本也就是低階工具，就是把SSD碟填零抹寫，所以低階格式一但完成後，根本上沒有可能恢復原本的資料，不 可 能。\n低階格式化過程中拔除，還有一丁點機會救，完成後就不可能，千萬不要誤導。\n低階格式化就是答案!"
+        },
+        {
+          "id": "1175790",
+          "replier": {
+            "username": "關文虎",
+            "uid": "91325"
+          },
+          "date": "2023-05-08",
+          "content": "@關文虎:SSD低階格式化也不是什麼壓縮填零，他就是完整的抹寫，自己要真的操作真的懂再回覆這個問題，甚至通過專業儀器還能讀出前幾次寫入的數據???\n哪個儀器?給個名字，真的是講一堆夢幻泡影。"
+        },
+        {
+          "id": "1175792",
+          "replier": {
+            "username": "關文虎",
+            "uid": "91325"
+          },
+          "date": "2023-05-08",
+          "content": "@關文虎:低階磁碟控制指令ATA Command幾乎對於SSD的FTL層控制是可以完全避開，意味著不可能只刪除註記，而不抹寫block，(所以不可能執行低階格式化之後，還能救回來)，就算用特殊工具(如果真的有)。也僅僅能找到無法使用的片段，因為SSD一份檔案不是存在一個地方，它是透過FTL層提供檔案系統和實體資料層之間的對應，同時將資料分散在多達十二的地方(或少)。SSD儲存資料的方式和傳統硬碟截然不同。\n所以SSD低階格式化的過程非常耗時，全世界的SSD廠商也都有自己的專門低階工具，但你用通用的方式，就幾乎涵蓋所有的SSD品牌，繞過FTL層直接把紀錄以外的block抹寫(當然FTL也刪除了，但不是低階格式化只刪除FTL)。\n所以低階格式化幾乎100%有用，如果你遇到特例，那也僅是某一個品牌為了特化自己的產品而已(有一家)，它所提供的所謂抹寫工具，也一樣就是低階格式化工具。\nSSD會用FTL會模擬出像硬碟一樣的檔案系統，讓作業系統用同樣控制硬碟的指令，來控制SSD的寫入，ATA Command 的目的就是為了繞過FTL!~~"
+        },
+        {
+          "id": "1175793",
+          "replier": {
+            "username": "關文虎",
+            "uid": "91325"
+          },
+          "date": "2023-05-08",
+          "content": "@關文虎:\nhttps://www.usenix.org/legacy/events/fast11/tech/full_papers/Wei.pdf\nhttps://security.stackexchange.com/questions/145950/how-to-erase-as-much-as-possible-an-ssd-without-ata-secure-erase\nhttps://thesai.org/Downloads/Volume5No8/Paper_20-Secure_Deletion_of_Data_from_SSD.pdf\n請多參考"
+        }
+      ]
+    },
+    {
+      "id": "653336",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t俺认为阁下更加需要的是加密该磁盘或分区而不是怎么格式化<br/>\n<br/>\n推荐使用veracrypt<br/>\n<a href=\"url/link/aHR0cHM6Ly9wcm9ncmFtLXRoaW5rLmJsb2dzcG90LmNvbS8yMDExLzA1L3JlY29tbWVuZC10cnVlY3J5cHQuaHRtbCNpbmRleA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://program-think.blogspot.com/2011/05/recommend-truecrypt.html#index\">https://program-think.blogspot.com/2011/05/recommend-truecrypt.html#index</a><br/>\n<a href=\"url/link/aHR0cHM6Ly9wcm9ncmFtLXRoaW5rLmJsb2dzcG90LmNvbS8yMDE1LzEwL1ZlcmFDcnlwdC5odG1s\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://program-think.blogspot.com/2015/10/VeraCrypt.html\">https://program-think.blogspot.com/2015/10/VeraCrypt.html</a> </div>",
+      "date": "2023-05-07",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653283",
+      "is_folded": false,
+      "answerer": {
+        "username": "robert510922",
+        "uid": "111407"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该只能物理消除了，怎样删都能从技术层面恢复。我比较好奇你存了书真的看吗\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1175568",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-05-07",
+          "content": "能问出这种问题来，大概没看"
+        }
+      ]
+    },
+    {
+      "id": "653366",
+      "is_folded": false,
+      "answerer": {
+        "username": "wget",
+        "uid": "51008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t加密就完事了, 密钥放拆了壳的u盘, 遇事不对就物理(煤气灶, 微波炉, 电磁炉, 半分钟都不要)销毁比你擦除文件快多了, 覆写数据也得有要时间让你慢慢写\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653454",
+      "is_folded": false,
+      "answerer": {
+        "username": "Surge",
+        "uid": "19471"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t机械硬盘复写是有用的，<b>对于SSD这种办法不能完全清除数据</b>。不要误导别人。<br/>\n<br/>\nSSD的储存颗粒现在主流是TLC甚至QLC。如果没有SSD的主控的算法平衡磨损，很快就挂掉了。SSD还有一部分保存空间，用来替换损坏的单元。标称500G的SSD，可能还有5-10GB的空间备用。SSD的删除也许主控只是标记了可删除，等计算机空闲时才会执行Trim指令。<br/>\n<br/>\n以上原因造成了<b>SSD删除数据后不易完整恢复</b>和<b>不易彻底删除数据</b>的特性。<br/>\n<br/>\n要彻底的擦出SSD上的数据，有的厂商提供了安全擦出的软件。或者物理摧毁。安全起见最好使用前就用bitlocker，veracrypt做好全盘加密。<br/>\n<br/>\n一般人不用那么紧张。中共警察要去挨个抓看过外网的人，得累死。\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653284",
+      "is_folded": false,
+      "answerer": {
+        "username": "民主信仰者",
+        "uid": "653"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t丟微波爐開最高溫，理論上十幾秒內就能清除所有資料。<br/>\n但不保證安全，以我淺薄的知識，SSD非常有可能會起火或導致微波爐損壞。<br/>\n<hr/><br/>\n其實你希望無法復原資料，想要完全破壞，那就只能物理破壞。<br/>\n非物理破壞其實都有資料被復原的風險，就算你格式化後，寫入新資料覆蓋，再次格式化，這樣也都有風險。\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653329",
+      "is_folded": false,
+      "answerer": {
+        "username": "假行僧",
+        "uid": "41163"
+      },
+      "contents": "<div class=\"markitup-box\">\n<s>CCleaner不行，但专门用于擦除数据的免费软件Eraser可以 https://eraser.heidi.ie/</s><br/>\n<s>原理就是多次写入数据，可以设置写入什么数据和写入次数，功能完善强大</s><br/>\n<br/>\n<s>补充：SSD的寿命和写入次数有关系，如果是打算擦除旧数据后继续使用的话，不是非得按设置里的最大次数来写</s><br/>\n<br/>\n修改：后面有回答指出来此方法不适合SSD的擦除，搜了一下好像是这样，Eraser应该是只对机械硬盘有用，擦除SSD还是得使用专门的工具\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653371",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t给磁盘的方法不太可行，因为ssd写在哪是它自己控制的，为了平衡各个储存单元的寿命。往里反复写也可能损害ssd。<br/>\n但是很多ssd可以有快速重置数据的功能，几秒钟之内，用的是物理电路给所有单元重新重置。<br/>\n如果没这个功能就只剩蠢办法了，往里面塞数据直到1Byte都塞不下，但这个方法有多有效就不清楚了。<br/>\n最好是在事前就整硬盘加密，就没这事了。\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653395",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t先用大铁锤砸碎，再用浓硫酸浸泡，再用坩埚加热融化，最后把残渣丢入下水道，即可把数据彻底毁灭\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653291",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t操作前声明：备份备份备份数据，然后再看下面，操作不当引起数据丢失与除题主外的旁人无关，<br/>\n<br/>\nhttps://wiki.archlinux.org/title/Securely_wipe_disk<br/>\n<br/>\nhttps://wiki.archlinux.org/title/Securely_wipe_disk/Tips_and_tricks#Wipe_a_single_file<br/>\n<br/>\nhttps://unix.stackexchange.com/questions/636677/filling-my-hard-drive-with-zeros<br/>\n<br/>\n－－－－<br/>\n参看顶楼@daxuesheng的补充，感谢，\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653351",
+      "is_folded": false,
+      "answerer": {
+        "username": "和气生财",
+        "uid": "95081"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tssd的原理和以前的磁片不一样，重复擦一次就恢复不了了\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653353",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有专门的低级格式化软件，可以用0-1填充，达到彻底无法恢复的效果。\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653574",
+      "is_folded": false,
+      "answerer": {
+        "username": "生在同仁街",
+        "uid": "73494"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最简单的方法就是BitLock全盘加密，然后删除密钥。<br/>\n这样做神仙也恢复不了了。\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653328",
+      "is_folded": false,
+      "answerer": {
+        "username": "喜欢吃蒸包子",
+        "uid": "110657"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t简单，用PE里面的工具给SSD的磁盘序列多写入几次0，最后再格式化一遍\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653335",
+      "is_folded": false,
+      "answerer": {
+        "username": "關文虎",
+        "uid": "91325"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我教你一個簡單的方法　去下載低階格式化工具<br/>\n<br/>\nhttps://zhtwnet.com/hdd-low-level-format-tool/<br/>\n<br/>\n這個低階的格式化之後　神仙都沒辦法還原回去的　放心　這就是安全清除！～<br/>\n<br/>\n(叫人家燒烤什麼的真莫名其妙 每次回答問題都對大陸蔥油的切身問題 帶一種傲慢跟嘲笑)<br/>\n<br/>\n低階格式化你就理解成徹底把磁碟的排列全部打散 還原即可 就算SSD也是一樣。<br/>\nSSD沒有磁柱磁軌等等構造，但它的排列方式也是模擬機械硬碟的，低階格式化後(打散)，一樣神仙無救<br/>\n<br/>\n但你原來要保存的資料 要找一個硬碟或雲端先存起來，等低階格式完整個SSD之後 再存回這個處理過的SSD硬碟<br/>\n請笑納!~\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657969",
+      "is_folded": false,
+      "answerer": {
+        "username": "S700N",
+        "uid": "75716"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t比较有操作性的做法是全盘加密，需要销毁数据时只需确保摧毁密钥即可。\t\t</div>",
+      "date": "2023-05-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657752",
+      "is_folded": false,
+      "answerer": {
+        "username": "天天吃腊肉",
+        "uid": "111737"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有时间的话建议每种软件删除方法都尝试一次, 因为如果SSD设计不合理甚至可能不存在能彻底删除的软件方法.<br/>\n时间充裕的话硬件销毁应在尝试全部软件删除方法后进行, 以防硬件销毁方式不恰当造成数据被恢复.<br/>\n全部方法尝试后应放弃使用SSD存储敏感数据这种行为, 因为SSD的特性就是难以彻底覆盖敏感数据.<br/>\n编程随想的博文已经提到过SSD(固态硬盘)的局限性: <a href=\"url/link/aHR0cHM6Ly9wcm9ncmFtLXRoaW5rLmJsb2dzcG90LmNvbS8yMDE5LzAyL1VzZS1EaXNrLUVuY3J5cHRpb24tQW50aS1Db21wdXRlci1Gb3JlbnNpY3MuaHRtbCNoZWFkLTg\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://program-think.blogspot.com/2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.html#head-8\">https://program-think.blogspot.com/2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.html#head-8</a> </div>",
+      "date": "2023-05-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653560",
+      "is_folded": false,
+      "answerer": {
+        "username": "shit_jin_pig",
+        "uid": "96072"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别听业余的人瞎扯，最保险的数据抹除方法就是删除后往释放出的空间写入随机数据直到填满，神仙也不可能恢复，一个python脚本几行代码就能实现\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657449",
+      "is_folded": true,
+      "answerer": {
+        "username": "miketere",
+        "uid": "111664"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-05-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657965",
+      "is_folded": true,
+      "answerer": {
+        "username": "番茄三號",
+        "uid": "111700"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-05-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

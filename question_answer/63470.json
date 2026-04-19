@@ -1,0 +1,61 @@
+{
+  "parent_type": "question",
+  "parent_id": "63470",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "707277",
+      "is_folded": false,
+      "answerer": {
+        "username": "Antonov一500",
+        "uid": "73460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t基本上歐洲美洲都是，<br/>\n<br/>\n只有亞洲窪地不太行。（亞洲國家裡面美國親善派一般也還好，除了日本）<br/>\n<br/>\n其中歐洲烏克蘭俄國是例外，這兩個國家都承認雙重國籍，除了對方俄國和烏克蘭\t\t</div>",
+      "date": "2023-11-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "707279",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t主国籍原则（master nationality)：你如果拥有我国和外国国籍，我只承认你的我国国籍，你的外国国籍视为不存在。\t\t</div>",
+      "date": "2023-11-22",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1227310",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-11-22",
+          "content": "那不就跟支国一样"
+        },
+        {
+          "id": "1227313",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-22",
+          "content": "@屠支太君:支国会找理由剥夺你的中国籍或者恢复你的中国籍，这个顶不住v"
+        },
+        {
+          "id": "1227389",
+          "replier": {
+            "username": "屠支太君",
+            "uid": "83470"
+          },
+          "date": "2023-11-23",
+          "content": "@rowlandheights:还有被剥夺\n支那\n国籍的例子？比如呢？"
+        }
+      ]
+    }
+  ]
+}

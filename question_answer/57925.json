@@ -1,0 +1,103 @@
+{
+  "parent_type": "question",
+  "parent_id": "57925",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "651451",
+      "is_folded": false,
+      "answerer": {
+        "username": "中国女人没道德",
+        "uid": "91072"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t去银行弄免费啊？打印的时候需要身份证跟人脸识别，实时的\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1180901",
+          "replier": {
+            "username": "hj1985",
+            "uid": "36260"
+          },
+          "date": "2023-05-29",
+          "content": "我是要指定某个人的 不是要自己的。而且我查别人，也不可能告诉别人去银行一趟，因为我要查你对吧"
+        },
+        {
+          "id": "1180902",
+          "replier": {
+            "username": "hj1985",
+            "uid": "36260"
+          },
+          "date": "2023-05-29",
+          "content": "况且我也不知道欠了几个银行的钱对吧"
+        },
+        {
+          "id": "1180903",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2023-05-29",
+          "content": "@hj1985:得内部有人才行"
+        }
+      ]
+    },
+    {
+      "id": "651420",
+      "is_folded": false,
+      "answerer": {
+        "username": "stop111",
+        "uid": "107571"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t去银行买就行了，但是你指定要某一个人的估计比较难，如果只是想要别人的征信，你只要找到那些搞贷款的或者自己认识银行里的人，随便买一大把的，指定个人的那你要么花多一些钱找银行内部熟悉的人弄\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1180900",
+          "replier": {
+            "username": "hj1985",
+            "uid": "36260"
+          },
+          "date": "2023-05-29",
+          "content": "没有这个渠道，都是在电报里找这类服务。靠谱的都说目前这个业务暂停了"
+        }
+      ]
+    },
+    {
+      "id": "651444",
+      "is_folded": false,
+      "answerer": {
+        "username": "baozi3311",
+        "uid": "99088"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t要这玩意干嘛？你要查人家欠了多少钱，贷了多少款？？\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1173722",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-04-28",
+          "content": "信用卡诈骗吧"
+        },
+        {
+          "id": "1180898",
+          "replier": {
+            "username": "hj1985",
+            "uid": "36260"
+          },
+          "date": "2023-05-29",
+          "content": "是的 查某个人的信贷情况 不是搞诈骗 纯粹自保"
+        }
+      ]
+    }
+  ]
+}

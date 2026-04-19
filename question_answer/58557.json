@@ -1,0 +1,82 @@
+{
+  "parent_type": "question",
+  "parent_id": "58557",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "657467",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是的，<br/>\n知乎，站内搜索海外IP给出空结果，什么都搜不出来。<br/>\n微博，登陆墙，不登陆搜索/查看微博，无法匿名访问。<br/>\n哔哩哔哩，登陆墙，不登陆没法查看评论区。\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657537",
+      "is_folded": false,
+      "answerer": {
+        "username": "郭芯毓",
+        "uid": "110410"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墙内用搜索引擎频繁搜 习近平 都会让莫名奇妙断网\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657475",
+      "is_folded": false,
+      "answerer": {
+        "username": "水浅茶清",
+        "uid": "2333"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很多媒体影像是有地区单独的版权的，各地区法律也不尽相同，有的时候图省事直接ban IP。\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657523",
+      "is_folded": false,
+      "answerer": {
+        "username": "yogafire",
+        "uid": "3317"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我在海外有时候也会遇到没办法访问很多墙内的网站<br/>\n前年有一段时间我英国家里的宽带完全无法访问墙内网站，后来过了几个月之后自动变好了<br/>\n这个帖子有反应类似问题<br/>\nhttps://www.incnjp.com/thread-5100666-1-1.html<br/>\n解决方法是用手机的4g/5g流量访问就可以了。<br/>\n推测原因还是GFW干的，我自己不是程序员所以无法说的很专业，但是我的猜测是GFW封锁一些代理服务器的一种方法是，它怀疑某个海外IP或者IP段在为翻墙者提供代理服务的时候，就直接断开墙内网络和这个IP或者IP段的连接，这导致有些家庭网络容易在某些时候别GFW识别为翻墙代理提供者而躺枪，这时候用该Ip段访问服务器全部设在墙内的百度和一些. cn网站就会访问不了。而因为几乎没有人会用海外的手机流量为国内的翻墙者进行代理，所以流量访问国内的这些网站都是没有问题的。<br/>\n当然，不能访问的仅限于那些服务器全设在墙内的网站，B站，知乎和微信似乎不在此列，在网络环境无法访问很多墙内网站的时候，B站知乎和微信都是可以正常访问的，似乎因为它们在墙外有服务器\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657530",
+      "is_folded": false,
+      "answerer": {
+        "username": "xiaotouming",
+        "uid": "89115"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你们现在还登陆吗？不登陆应该可以看吧，就是没办法回复，很多功能也没法使用了。但是登录太麻烦了，而且不想给那么多个人信息。<br/>\n顺其自然，慢慢淡出社交网站好了\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1179804",
+          "replier": {
+            "username": "xiaotouming",
+            "uid": "89115"
+          },
+          "date": "2023-05-24",
+          "content": "@dsresgeg:就算你有账号那也不是想用就用的。我都是用了十多年的账号。好像前年开始吧，非要实名认证人脸认证之类的，我就不登了。反正门槛挺高了"
+        }
+      ]
+    }
+  ]
+}

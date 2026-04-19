@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "63006",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "702493",
+      "is_folded": false,
+      "answerer": {
+        "username": "吾儿禁评",
+        "uid": "73706"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvZjFjZTVlOGYxMmIyMjdmYmI2OGJjLmpwZz93aWR0aD0xNDQwJmhlaWdodD0xMzYw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/f1ce5e8f12b227fbb68bc.jpg?width=1440&amp;height=1360\"><img alt=\"https://telegra.ph/file/f1ce5e8f12b227fbb68bc.jpg?width=1440&amp;height=1360\" loading=\"lazy\" src=\"https://telegra.ph/file/f1ce5e8f12b227fbb68bc.jpg?width=1440&amp;height=1360\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-11-01",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "702492",
+      "is_folded": false,
+      "answerer": {
+        "username": "ejdw32",
+        "uid": "93484"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t蒙古国能润么？感觉比中共强不少啊 至少是民主国家\t\t</div>",
+      "date": "2023-11-01",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1222148",
+          "replier": {
+            "username": "吾儿禁评",
+            "uid": "73706"
+          },
+          "date": "2023-11-01",
+          "content": "不怎么好，对待中国人和俄罗斯对待中国人差不多"
+        }
+      ]
+    }
+  ]
+}

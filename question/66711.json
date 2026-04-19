@@ -1,0 +1,32 @@
+{
+  "question_id": "66711",
+  "category_id": "4",
+  "title": "Tails系统要怎么在墙内连网?",
+  "meta_description": "Tails系统要怎么在墙内连网? - 在墙内Tor都被墙的情况下,在Tails系统上没法连接Tor,目前Tails系统还不支持Webtunnel网桥,内建网桥也无法连接",
+  "meta_keywords": "tails,系统,墙内,连网",
+  "tags": [
+    {
+      "id": "1117",
+      "name": "GFW"
+    },
+    {
+      "id": "1174",
+      "name": "Tor"
+    },
+    {
+      "id": "5344",
+      "name": "Tails"
+    }
+  ],
+  "author": {
+    "username": "衝浪TV",
+    "uid": "124941"
+  },
+  "view_count": 3891,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t在墙内Tor都被墙的情况下,在Tails系统上没法连接Tor,目前Tails系统还不支持Webtunnel网桥,内建网桥也无法连接\t\t\t\t\t\t\t</div>",
+  "date": "2024-04-19",
+  "agree_count": 0,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 4
+}

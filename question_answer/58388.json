@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "58388",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "655756",
+      "is_folded": false,
+      "answerer": {
+        "username": "Kongepingvin",
+        "uid": "26687"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t连传说都算不上，属于《地海传奇》《镜花缘》一类的个人创作。\t\t</div>",
+      "date": "2023-05-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655757",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t地质学不是早就说了北太平洋中部海底并没有大陆的遗迹了吗？\t\t</div>",
+      "date": "2023-05-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655753",
+      "is_folded": true,
+      "answerer": {
+        "username": "arnaka",
+        "uid": "94816"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-05-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

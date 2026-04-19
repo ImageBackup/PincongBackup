@@ -1,0 +1,43 @@
+{
+  "question_id": "66640",
+  "category_id": "4",
+  "title": "js没问题，css和html也没问题，为什么还会出现奇怪的问题？",
+  "meta_description": "js没问题，css和html也没问题，为什么还会出现奇怪的问题？ - [video]https://files.catbox.moe/3fqk7y.MOV[/video] 我看js文件没有问题，但是为什么sidebar会出现这种情况？",
+  "meta_keywords": "js,没问题,css,html,还会,出现,问题",
+  "tags": [
+    {
+      "id": "108366",
+      "name": "javascript"
+    }
+  ],
+  "author": {
+    "username": "rampage",
+    "uid": "123646"
+  },
+  "view_count": 2703,
+  "contents": "<div class=\"content markitup-box\">\n<div class=\"ab-player\"><div class=\"ab-video\"><video controls=\"\" preload=\"metadata\" src=\"https://files.catbox.moe/3fqk7y.MOV\" style=\"max-width:100%\"></video> </div></div><br/>\n我看js文件没有问题，但是为什么sidebar会出现这种情况？\t\t\t\t\t\t\t</div>",
+  "date": "2024-04-16",
+  "agree_count": 0,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1058709",
+      "replier": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "date": "2024-04-16",
+      "content": "这种问题不是应该去StackOverflow问吗？"
+    },
+    {
+      "id": "1058710",
+      "replier": {
+        "username": "rampage",
+        "uid": "123646"
+      },
+      "date": "2024-04-16",
+      "content": "@Meltdown:找到问题了，修改完后没刷新页面"
+    }
+  ],
+  "answer_count": 0
+}

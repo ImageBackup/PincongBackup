@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "58349",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "655323",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t首先，美国的《芯片法案》除了美国本土企业，其他国家都很难说是受益国吧？因为拿到补贴的条件是放弃大陆市场，但是在漫长的以十年计的时间里，你拿到的补贴是否能够弥补在大陆市场的损失，还未可知。<br/>\n美国人制定一部美国法律，首先是要有利于自己，而不是有利于盟友。<br/>\n<br/>\n其次，你这张图和英国是不是《芯片法案》受益方有什么关系？\t\t</div>",
+      "date": "2023-05-15",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655324",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个图里都没有英国，你怎么看出来有利于英国。<br/>\n<br/>\n芯片法案利好英国企业，如果他们愿意去美国建工厂，但不利好英国。\t\t</div>",
+      "date": "2023-05-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

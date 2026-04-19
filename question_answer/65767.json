@@ -1,0 +1,48 @@
+{
+  "parent_type": "question",
+  "parent_id": "65767",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "732092",
+      "is_folded": false,
+      "answerer": {
+        "username": "ccc163599",
+        "uid": "123083"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t第二个他折腾火柴制造炸药研磨过程中药粉起爆听起来像真的。\t\t</div>",
+      "date": "2024-03-05",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1249354",
+          "replier": {
+            "username": "VINI",
+            "uid": "117440"
+          },
+          "date": "2024-03-05",
+          "content": "火柴药粉都是稀释＋钝化过的，他可能真买到高质量火柴了"
+        },
+        {
+          "id": "1249489",
+          "replier": {
+            "username": "ccc163599",
+            "uid": "123083"
+          },
+          "date": "2024-03-05",
+          "content": "@VINI:也没准稀释的用量太大了。"
+        },
+        {
+          "id": "1249490",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-03-05",
+          "content": "怎么像武昌起义里那个在俄租界搞火药炸了的仁兄"
+        }
+      ]
+    }
+  ]
+}

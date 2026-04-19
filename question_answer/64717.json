@@ -1,0 +1,165 @@
+{
+  "parent_type": "question",
+  "parent_id": "64717",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "720996",
+      "is_folded": false,
+      "answerer": {
+        "username": "嗨_世界",
+        "uid": "122148"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGradient Vector本身是Partial Derivatives Vector, 但如果你强调gradient descent, 那么可以在gradient vector前面加上负号来表示这个gradient \"descent\"。简单来讲，这些不过是定义问题，如果你定义gradient descent = - gradient，那么它就是这样表示的了。\t\t</div>",
+      "date": "2024-01-17",
+      "agree_count": 3,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1239453",
+          "replier": {
+            "username": "主席也有难处",
+            "uid": "119334"
+          },
+          "date": "2024-01-17",
+          "content": "你没看懂问题，我再试着表述一下：下降最快的方向是negative gradient，但当gradient本身为负时，此时再对其negate则方向上升，无法取得最小值。"
+        },
+        {
+          "id": "1239456",
+          "replier": {
+            "username": "嗨_世界",
+            "uid": "122148"
+          },
+          "date": "2024-01-17",
+          "content": "我认为如果考虑“方向”的话，那么我们最好采用gradient vector；对于vector来说，其绝对值的大小与量改变的速率成正比，此时vector的正负只表示这个量与某个坐标系unit vector的方向关系。如果采用gradient scalar的表示方法，那么此时的gradient就简化为了只表示magnitude的速率变化值。抱歉，我不太理解具体的题目想表达的意思."
+        },
+        {
+          "id": "1239485",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2024-01-17",
+          "content": "@嗨_世界:👍 @主席也有难处 你把gradient换成它的绝对值就清楚了。"
+        },
+        {
+          "id": "1239487",
+          "replier": {
+            "username": "神州陆沉",
+            "uid": "89962"
+          },
+          "date": "2024-01-17",
+          "content": "@Meltdown:数学上面有严格的定义，不是为了符合你的直觉就随意修改"
+        }
+      ]
+    },
+    {
+      "id": "720995",
+      "is_folded": false,
+      "answerer": {
+        "username": "盼望台湾民不聊生",
+        "uid": "122003"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t品葱现在这么可爱了吗哈哈，竟然有认真讨论物理学问题的。我也问一个，三价铁离子，氯离子，次氯酸根，碘离子，氧化性怎么排？\t\t</div>",
+      "date": "2024-01-17",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1239446",
+          "replier": {
+            "username": "主席也有难处",
+            "uid": "119334"
+          },
+          "date": "2024-01-17",
+          "content": "铁离子能被氧化，剩下三个带电子，不能被氧化"
+        },
+        {
+          "id": "1239469",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-01-17",
+          "content": "标准还原电势，请"
+        },
+        {
+          "id": "1239490",
+          "replier": {
+            "username": "bxbxbxbxbx",
+            "uid": "80948"
+          },
+          "date": "2024-01-17",
+          "content": "这是算法问题"
+        },
+        {
+          "id": "1254529",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-04-02",
+          "content": "@bxbxbxbxbx:这个问题的问法不对，因为在酸性碱性中性环境下同样一个离子，被氧化还原的产物是不同的。比如高锰酸根，碱性环境下还原成六价的锰酸根，中性环境下还原成四价的二氧化锰，酸性环境下还原成二价的锰离子。那你问我高锰酸根氧化性如何，我肯定会反问你pH多少"
+        }
+      ]
+    },
+    {
+      "id": "720989",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你都写descent了当然要加负号<br/>\n<br/>\n而且gradient不是给多元函数的吗，你的y=x^2是一元函数\t\t</div>",
+      "date": "2024-01-17",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1239443",
+          "replier": {
+            "username": "主席也有难处",
+            "uid": "119334"
+          },
+          "date": "2024-01-17",
+          "content": "已删除"
+        },
+        {
+          "id": "1239445",
+          "replier": {
+            "username": "主席也有难处",
+            "uid": "119334"
+          },
+          "date": "2024-01-17",
+          "content": "在最小值右侧加负号我能理解，因为此处tangent指向上方，在最小值左侧时，tangent本身就是指向下方，此处再乘-1会使其指向上方"
+        }
+      ]
+    },
+    {
+      "id": "721029",
+      "is_folded": false,
+      "answerer": {
+        "username": "主席也有难处",
+        "uid": "119334"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个问题是我问的，我最后在论坛上找到了答案——gradient总是指向steepest ascend<br/>\nsource：https://math.stackexchange.com/questions/223252/why-is-gradient-the-direction-of-steepest-ascent\t\t</div>",
+      "date": "2024-01-17",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "721043",
+      "is_folded": false,
+      "answerer": {
+        "username": "治法正公等平由自",
+        "uid": "85483"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t梯度为 - 时，x要向 + 方向变化；梯度为 + 时，x要向 - 方向变化。\t\t</div>",
+      "date": "2024-01-17",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

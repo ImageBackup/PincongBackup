@@ -1,0 +1,132 @@
+{
+  "parent_type": "question",
+  "parent_id": "59117",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "662706",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t知乎的匿名是因为墙内实名制怕被暴民开盒，和品葱完全不是一回事，品葱本来就是匿名的，再叠一层匿名反而让晶格化身两面派更加容易。以前他还得多注册几个号，受到新用户的限制，且小号即便注册很久，八百年不发言突然集体发言也可以被大家看到并定位出异常，你搞个匿名他就可以拿匿名当挡箭牌了\t\t</div>",
+      "date": "2023-06-14",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "662647",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我记得以前有，后来不知道为什么去掉了，或者我没有权限使用。至少有匿名回答。<br/>\n<br/>\n根据我使用的经验，这个功能比较鸡肋，至少我宁可骂人傻逼被折叠，也不太想匿名回复。不知道别人怎么看？\t\t</div>",
+      "date": "2023-06-14",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1184242",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-15",
+          "content": "我也记得以前是有的，好像你会发出以“匿名用户”的账号"
+        }
+      ]
+    },
+    {
+      "id": "662648",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有都被玩烂了，先不说知乎这种实名平台，匿名匿前不匿后<br/>\n<br/>\n就说quora吧，他们也取消了匿名提问，改为允许人注册假名提问。\t\t</div>",
+      "date": "2023-06-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662828",
+      "is_folded": false,
+      "answerer": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有些用户，比如我（尼德兰），可以使用admin的身份来发表内容，这应该算是一种匿名；但是应该大多数葱油是不能的。可见，按照当前站规，品葱还没有打算普及它。\t\t</div>",
+      "date": "2023-06-15",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1184251",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-15",
+          "content": "大概就是像这样"
+        },
+        {
+          "id": "1184303",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-06-15",
+          "content": "@尼德兰:greater power comes greater responsibility and I don’t want to have it lol"
+        },
+        {
+          "id": "1184307",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-15",
+          "content": "@李瑞环:Yes, and I think you're awesome."
+        },
+        {
+          "id": "1184516",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-06-15",
+          "content": "@尼德兰:mucha gracias señor"
+        }
+      ]
+    },
+    {
+      "id": "662737",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t注册个小号即可 反正你葱又不要你验证手机<br/>\n不过新号好像要20声望才能发问来着？\t\t</div>",
+      "date": "2023-06-15",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "662740",
+      "is_folded": false,
+      "answerer": {
+        "username": "斩首习近平",
+        "uid": "52179"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你自己不就是注册的新号来匿名提问吗...<br/>\n<br/>\n有点像打着电话突然发现自己手机丢了的那个段子\t\t</div>",
+      "date": "2023-06-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

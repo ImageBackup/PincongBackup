@@ -1,0 +1,111 @@
+{
+  "parent_type": "question",
+  "parent_id": "65266",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "726892",
+      "is_folded": false,
+      "answerer": {
+        "username": "唐川普II",
+        "uid": "55392"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不能。因为带宽乘以时间是有限的。<br/>\n<br/>\n除非你拥有无限IP无限带宽。而这是不可能的。\t\t</div>",
+      "date": "2024-02-09",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1244512",
+          "replier": {
+            "username": "Farewell",
+            "uid": "123654"
+          },
+          "date": "2024-02-09",
+          "content": "磁带存储量也是有限的吧"
+        },
+        {
+          "id": "1244515",
+          "replier": {
+            "username": "唐川普II",
+            "uid": "55392"
+          },
+          "date": "2024-02-09",
+          "content": "@Farewell:乘法不会算吗。"
+        }
+      ]
+    },
+    {
+      "id": "726936",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t够呛吧，别说文本了，直播网站很多都是不限制时间的，你可以24小时直播，twitch可以让你全部保存成1080p画质的视频。人家存储设备也不会爆炸。\t\t</div>",
+      "date": "2024-02-09",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1244551",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-02-09",
+          "content": "说白了流量和收入成正比，给墙国网站增加流量是爱国的表现"
+        }
+      ]
+    },
+    {
+      "id": "726945",
+      "is_folded": false,
+      "answerer": {
+        "username": "mhbkq466",
+        "uid": "51704"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我总觉着你是在说抖音<br/>\n大规模 ：大量短视频 动辄百八十兆 每天数以万计新增…<br/>\n无用： 这些短视频大部分都是无用垃圾…<br/>\n抖音服务器爆了吗？你的上传速度能超过那群营销号吗？党国安全服务器是不是比挨千刀的抖音布局还大？你已经知道答案了…<br/>\n好吧，但单从理论上讲，楼主说的没错，服务器总会有上限，如果你能绕过ip封锁，限速，等等防火墙机制玩了命的上传空文件，总有一天会撑爆它，甚至你有这资源都不需要传文件，直接简单粗暴无限ping攻击就行，只要肉鸡够多一切都好说…<br/>\n<br/>\n或者让我们把事情搞得更简单一点～目标机房+一桶汽油 分布式储存你也得恢复半天不是\t\t</div>",
+      "date": "2024-02-09",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1244610",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2024-02-09",
+          "content": "空文件？Ping攻击？？"
+        }
+      ]
+    },
+    {
+      "id": "726946",
+      "is_folded": false,
+      "answerer": {
+        "username": "rampage",
+        "uid": "123646"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我一开始以为你在说ddos attack，点进来一看，靠，什么鬼东西啊\t\t</div>",
+      "date": "2024-02-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "726994",
+      "is_folded": false,
+      "answerer": {
+        "username": "蘑菇云",
+        "uid": "77623"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要对着河里撒泡尿，造成整个长江流域洪水泛滥，是不是这个逻辑。\t\t</div>",
+      "date": "2024-02-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

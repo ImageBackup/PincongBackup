@@ -1,0 +1,78 @@
+{
+  "parent_type": "question",
+  "parent_id": "62040",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "692005",
+      "is_folded": false,
+      "answerer": {
+        "username": "pedestrian",
+        "uid": "14111"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t列出新闻来源吧，我所了解的信息是给非法移民发EAD卡，跟绿卡有本质区别\t\t</div>",
+      "date": "2023-09-25",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "692238",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t歸化取綠卡及美國國籍（非美國出生）只有聯邦政府能批吧，州和縣都沒權，批的是工卡，這個可能要法院配合一下\t\t</div>",
+      "date": "2023-09-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "692000",
+      "is_folded": false,
+      "answerer": {
+        "username": "dearkate00820",
+        "uid": "112674"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这要是绿卡嗯发,我都想走线了<br/>\n<br/>\n字数字数字数字数\t\t</div>",
+      "date": "2023-09-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "692002",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这些人今后是民主党的票仓啊。太明显不过的事情了。\t\t</div>",
+      "date": "2023-09-25",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1211179",
+          "replier": {
+            "username": "pedestrian",
+            "uid": "14111"
+          },
+          "date": "2023-09-25",
+          "content": "这些人拿的不是绿卡，并且绿卡也不可以投票，公民才可以"
+        },
+        {
+          "id": "1211180",
+          "replier": {
+            "username": "小土豆",
+            "uid": "80532"
+          },
+          "date": "2023-09-25",
+          "content": "@pedestrian: “今后”，意思是以后他们入籍。"
+        }
+      ]
+    }
+  ]
+}

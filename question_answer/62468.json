@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "62468",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "696693",
+      "is_folded": false,
+      "answerer": {
+        "username": "pz221",
+        "uid": "51046"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tQ:所以中國開始嘗試從黑市流通販賣武裝了?<br/>\nA：可能一直有在走私贩卖军火吧，尼古拉斯凯奇主演的《战争之王》，就有一段从中国走私军火的片段，凯奇被中国边境士兵问为什么车上这么多武器？凯奇用中文回答：“我比较喜欢打枪。”然后就拿着一叠钱给了士兵，这个片段应该是真实故事改编的，我也听闻过一些传言，某位大官的儿子可能就是靠走私军火发财了。\t\t</div>",
+      "date": "2023-10-13",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "696696",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好像卖武器给非洲穷国之类并不违反国际法吧，中国武器只能卖给穷国家了\t\t</div>",
+      "date": "2023-10-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

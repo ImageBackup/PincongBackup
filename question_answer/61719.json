@@ -1,0 +1,123 @@
+{
+  "parent_type": "question",
+  "parent_id": "61719",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "688595",
+      "is_folded": false,
+      "answerer": {
+        "username": "不吃蔥",
+        "uid": "39352"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t基建沒有做，像澳洲的nfc基建是由大銀行部署的。最初是信用卡tap n go，後來手機有nfc功能了就自然過度。<br/>\n<br/>\n這會要求商家接受銀行信用卡，而這個服務不是白給的，所以很早以前不是所有的商家都接受信用卡，有些商家會規定某個金額以上才可刷卡，而有些就完全不接受信用卡。<br/>\n<br/>\n不過我發覺這個現象越來越少見，我已經無現金生活了好幾年，基本上只有一些亞裔開的理髮店會要求只能支付現金。<br/>\n<br/>\nnfc對付錢的那一端特別友好，不需要用app進行操作，像蘋果就是拿起來雙擊電源鍵，然後靠近一下，除非有綁定多個信用卡，否則基本不需要用屏幕，所以手錶用也非常便捷。<br/>\n<br/>\n缺點是nfc需要收錢的一方也要有接受設備，成本略高，像中國這種地區發展差異巨大的國家無法普及。比如中國農貿市場賣菜的，利潤太低可能就無法接受nfc設備，還不如用紙印一下二維碼。<br/>\n<br/>\n看到有人說有些手機沒有nfc⋯這個我有點意外，因為我一直用蘋果或中高端安卓，可能有點何不食肉糜。那麼這依然是nfc成本高的一個因素。<br/>\n<br/>\n———<br/>\n以上字數補丁<br/>\n<br/>\n好用但是貴。\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688561",
+      "is_folded": false,
+      "answerer": {
+        "username": "pcpcppc",
+        "uid": "115762"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t低端手机上没有NFC，但是有个屏幕就能显示二维码。\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688605",
+      "is_folded": false,
+      "answerer": {
+        "username": "观云先生",
+        "uid": "73140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t扫码门槛低成本更低，普及起来容易很多<br/>\n而且还具有一个不小的优势，就是可以远距离、跨介质使用。<br/>\n二维码可以印刷在各种材质，显示在任意屏幕上，扫码也不需要贴很近，多人一起扫码基本不会有先后排队的尴尬。这些优点在人口基数大的中国是十分必要的。\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1207972",
+          "replier": {
+            "username": "不吃蔥",
+            "uid": "39352"
+          },
+          "date": "2023-09-12",
+          "content": "不用二維碼也可以遠距離，最近我發現很多web電商可以Apple pay，結帳時雙擊確認，帳號都不用，billing和shipping直接從Apple pay調用。這年頭花錢真是越來越容易了，嘆氣。"
+        }
+      ]
+    },
+    {
+      "id": "688591",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为支付是软件公司搞的，如果你是阿里，要设计一个方便快捷的电子支付，你会选择适配起来麻烦的要死的NFC，还是基于软件，识别速度很高，日本人发明的二维码？😄<br/>\n<br/>\n如果是硬件公司搞的，比如苹果三星，就会选择NFC作为支付手段😄\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "688594",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为在中国是个手机就有屏幕和摄像头，但不一定有nfc……<br/>\n<br/>\n紫薯布丁\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1207949",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-09-12",
+          "content": "日本是非智能机都有nfc"
+        },
+        {
+          "id": "1207950",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-09-12",
+          "content": "谁叫日本用的这套nfc本身就是自研而且世界领先的呢"
+        },
+        {
+          "id": "1207951",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-09-12",
+          "content": "@矢作萌夏:对啊，所以这个条件在中国并不适用"
+        }
+      ]
+    },
+    {
+      "id": "688617",
+      "is_folded": false,
+      "answerer": {
+        "username": "fk007",
+        "uid": "75717"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t说白了，NFC需要发送和接受的双端硬件+软件支持。<br/>\n而扫码则简单很多，硬件是所有智能手机都有的，而收付软件，可以挂在社交和消费软件里，几乎没有成本还能给社交和消费软件带去可观的收益。<br/>\n扫码支付成本低，推广容易，也支持多人同时使用。<br/>\n<br/>\n对于中国来说，选哪个，一目了然。\t\t</div>",
+      "date": "2023-09-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "53936",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "607253",
+      "is_folded": false,
+      "answerer": {
+        "username": "XJP06153019",
+        "uid": "94210"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也发现了，今天没水印<br/>\n还有品葱怎么发问题帖啊，一直卡在选择话题那里，无论我输入什么都提示没有相关内容，我想问问机场的事情半天发不出去帖😭<br/>\n我是个智障，我发现了😭没想到我水平那么低\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133254",
+          "replier": {
+            "username": "敏感词滚蛋",
+            "uid": "101666"
+          },
+          "date": "2022-12-07",
+          "content": "有葱友说了是品葱改版面了，取消了水印。也好，可以正大光明做反贼不担心被人知道了。\n发帖时时需要添加一个话题标签。\n毛病得改，否则积恶成习"
+        }
+      ]
+    },
+    {
+      "id": "607369",
+      "is_folded": true,
+      "answerer": {
+        "username": "敏感词滚蛋",
+        "uid": "101666"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2022-12-07",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "parent_type": "question",
+  "parent_id": "66104",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "735831",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t遇到过类似的事，但是是京东快递。<br/>\n以前京东买货到付款的东西，因为临时出了点事没法拿，手机也打不通，当时那个京东快递员把电话打到我妈那去了，因此我才知道原来一个京东账号下留的所有收件地址收件手机号，一个普通的京东快递员就能查到\t\t</div>",
+      "date": "2024-03-22",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1252583",
+          "replier": {
+            "username": "嫩豪耶",
+            "uid": "120853"
+          },
+          "date": "2024-03-22",
+          "content": "吓人啊"
+        }
+      ]
+    },
+    {
+      "id": "735882",
+      "is_folded": false,
+      "answerer": {
+        "username": "久念",
+        "uid": "125666"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t什么叫偷，他们就是光明正大的拿的，好像个人信息多保密似的，别说快递了，移动联通电信你的信心都随便扔的，根本没保护，个人隐私说是保护你，其实就是有用时候拿出来说说，没用就放起来了，滴滴好的时候都不说侵犯个人隐私，去美国上市要整滴滴的时候，就是侵犯个人隐私了，这就是个尿壶，有用就拿出来，没用放着扔一边。\t\t</div>",
+      "date": "2024-03-22",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "735910",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t楼上已经点出了三个字: <b>社工库</b><br/>\n<br/>\n曾经下单的时候,俺把收件人的名字改成昵称,然后去取件的时候,对方还是能报出真实姓名<br/>\n<br/>\n实名的快递,只要你的电话号码是自己的,就能根据户口关系给你查出来\t\t</div>",
+      "date": "2024-03-23",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "735858",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>点踩的脑子有病？</blockquote><br/>\n<br/>\n你自己才literally脑子有病吧，上个月留了老婆电话让帮取邮件之后忘了这回事了。<br/>\n<br/>\n欢迎点踩。\t\t</div>",
+      "date": "2024-03-22",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1252621",
+          "replier": {
+            "username": "嫩豪耶",
+            "uid": "120853"
+          },
+          "date": "2024-03-22",
+          "content": "写的很清楚，买的东西，地址留的小区，电话留的我自己，下单账号跟我对象没任何关系，但是货物出问题之后驿站把电话打到我对象那去了，你哪个子看不懂？"
+        },
+        {
+          "id": "1252623",
+          "replier": {
+            "username": "嫩豪耶",
+            "uid": "120853"
+          },
+          "date": "2024-03-22",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "735876",
+      "is_folded": false,
+      "answerer": {
+        "username": "我不爱吃包子",
+        "uid": "125484"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看到电报群里的那些社工库都说如果你是快递、移动营业厅、警察等等工种的可以来赚米合作，这估计买的就是个人信息了。有些免费的社工库，输个qq号手机号，都可以直接搜到这个人的名字，身份证号，还有银行卡号，真是一点隐私的没有了。\t\t</div>",
+      "date": "2024-03-22",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "735879",
+      "is_folded": false,
+      "answerer": {
+        "username": "李老师的supervisor",
+        "uid": "50992"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>我买的东西配送有些问题，菜鸟驿站给我打电话打到我对象那去了。前提是，我留的是我自己的电话，我帐号跟我对象也没关系，我地址只留到小区而已。我就很奇怪菜鸟怎么会把电话打到我对象那？我们帐号和地址，根本关联不上。</blockquote><br/>\n<br/>\n如果你的帐号从来没有留过你男人的号码，那只可能是你们以前留过相同的地址然后被关联上了。驿站略过你本个订单的留的号码直接给你男人打的电话，那你们的信息在后台应该是个被聚合的状态，简直就是社工库啊。\t\t</div>",
+      "date": "2024-03-22",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1252630",
+          "replier": {
+            "username": "嫩豪耶",
+            "uid": "120853"
+          },
+          "date": "2024-03-22",
+          "content": "我突然想到可能因为我留的号码归属地是外地，菜鸟的人看到外地号码就直接略过打了本地的号。真吓人啊，一个驿站都有这么多信息，谁是谁，谁和谁是一家人，家住哪，家里几口人，电话多少……遇到别有用心的经营者那真的是个安全隐患。"
+        }
+      ]
+    }
+  ]
+}

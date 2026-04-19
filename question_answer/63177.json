@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "63177",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "704234",
+      "is_folded": false,
+      "answerer": {
+        "username": "匿名月戶",
+        "uid": "92119"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t應該是你最後一個代理服務器（洋蔥就是一個代理套一個代理）的IP地址。\t\t</div>",
+      "date": "2023-11-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "63322",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "706344",
+      "is_folded": false,
+      "answerer": {
+        "username": "谢玉阳",
+        "uid": "40809"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t戴高乐算啥法奸?他只是法国的大法兰西主义主导欧陆路线的代言人罢了。而这条路线现在也被马克龙执行了。\t\t</div>",
+      "date": "2023-11-18",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "705844",
+      "is_folded": false,
+      "answerer": {
+        "username": "你是中国人",
+        "uid": "5810"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实很可能就只是条件反射……中国人有这种见到伟人雕像就鞠躬的传统……习包子大概只知道那是个伟人，具体干嘛的不清楚……\t\t</div>",
+      "date": "2023-11-15",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1225672",
+          "replier": {
+            "username": "孤弱",
+            "uid": "118827"
+          },
+          "date": "2023-11-15",
+          "content": "已删除"
+        }
+      ]
+    }
+  ]
+}

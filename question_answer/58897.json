@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "58897",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "660637",
+      "is_folded": false,
+      "answerer": {
+        "username": "abyyyy",
+        "uid": "112186"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvMjkzMGI0OGRhY2NjOWEyN2FiYmJmLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/2930b48daccc9a27abbbf.jpg\"></a> </div>",
+      "date": "2023-06-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "660658",
+      "is_folded": true,
+      "answerer": {
+        "username": "pincon00723",
+        "uid": "84581"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-06-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

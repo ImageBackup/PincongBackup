@@ -1,0 +1,78 @@
+{
+  "parent_type": "question",
+  "parent_id": "67438",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "749217",
+      "is_folded": false,
+      "answerer": {
+        "username": "FourPass",
+        "uid": "127922"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t致敬这位来自中华民国自由地区（又称台湾）的勇士！\t\t</div>",
+      "date": "2024-05-22",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749494",
+      "is_folded": false,
+      "answerer": {
+        "username": "飛廉",
+        "uid": "129505"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看到這篇有想哭的感覺，台灣加油!假日我也會去立法院外支援\t\t</div>",
+      "date": "2024-05-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749314",
+      "is_folded": false,
+      "answerer": {
+        "username": "猫司机",
+        "uid": "113058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这真的不是段子？感觉像蒋时期的论调，实际上应该说中台双方互不隶属，请尊重我方主权？还是两方都是自己人，喊着玩而已？\t\t</div>",
+      "date": "2024-05-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749316",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t台湾就没有国安法吗<br/>\n搞个国安法<br/>\n<br/>\n<br/>\n到时候有法可依，把狗日的国民党和民主党扔到海上自生自灭，看大陆要不要他们\t\t</div>",
+      "date": "2024-05-23",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1266785",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2024-05-23",
+          "content": "国民党和民众党"
+        },
+        {
+          "id": "1267578",
+          "replier": {
+            "username": "FourPass",
+            "uid": "127922"
+          },
+          "date": "2024-05-26",
+          "content": "@幸福中国:看成川粉"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "parent_type": "question",
+  "parent_id": "59020",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "661924",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tv2ray 只是一个免费工具，有加密/伪装功能，但是不涉及节点，只是翻墙中的一个重要工具。如果自己翻墙，我建议自己从国外节点供应商租用节点（通常需要付费，但有时候利用供应商提供的福利能白嫖），然后自己搭建节点。换句话说，墙外的节点上放一个 v2ray，你本地的电脑上放一个 v2ray， 两个 v2ray 各自配置一下，然后你就翻墙了。这个缺点就是学习成本较高，费用也可能较高（主要取决于你选择的节点服务器的硬件配置），一些新人往往感觉学不会，优点就是可靠性会比较好，可玩性比较好，你自己完全掌控节点服务器。打个比喻相当于你自己当自己的网管。<br/>\n<br/>\n所谓机场，就是有专门的一群人，做这个事情的中间商，为大众提供服务，你只需要付费出一份份子钱，本质上相当于和很多用户一起共享中间商搭建的这种服务。好处就是简单方便省事，学习成本很低，相当于购买傻瓜化服务，价格也便宜，所有麻烦事，中间商都替你做好了。缺点就是服务没有保障，有中间商跑路风险。打个比喻相当于你雇佣了别人当你的网管。<br/>\n<br/>\n<br/>\n<br/>\n比如说迷雾通，和早期法论功推出的免费翻墙软件，都相当于或者十分类似机场的模式。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1183503",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2023-06-11",
+          "content": "必须不能用大陆的任何支付手段，只要付款就等着被抓；还是喜欢用免费的"
+        }
+      ]
+    },
+    {
+      "id": "661922",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t品葱推荐的迷雾通<br/>\n美国之音和自由亚洲电台推荐的nthlink<br/>\n法轮功背景的梯子也不错\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661804",
+      "is_folded": false,
+      "answerer": {
+        "username": "Antonov一500",
+        "uid": "73460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我到现在也不明白机场是个什么，但是我感觉很不可靠的样子，<br/>\nRAM运行的VPN还蛮好，但是现在没几个能用的了。<br/>\n<br/>\n自由亚洲不能上的必定是蜜罐风险\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661806",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t真是从境外回国吗？不试试华为孟晚舟公主御用境外sim卡？除开中国国营网络运营商。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1183332",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2023-06-11",
+          "content": "漫游费太贵，没公主有钱啊。"
+        }
+      ]
+    },
+    {
+      "id": "661869",
+      "is_folded": false,
+      "answerer": {
+        "username": "忧乐为天下",
+        "uid": "23699"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://github.com/Alvin9999/new-pac/wiki<br/>\n<br/>\n免费，稳定，安全，快速。我用了十多年了，没一点问题。\t\t</div>",
+      "date": "2023-06-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "661923",
+      "is_folded": true,
+      "answerer": {
+        "username": "justin_lee",
+        "uid": "28794"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-06-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

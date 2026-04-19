@@ -1,0 +1,302 @@
+{
+  "parent_type": "question",
+  "parent_id": "63241",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "705021",
+      "is_folded": false,
+      "answerer": {
+        "username": "习近平的裤子",
+        "uid": "100552"
+      },
+      "contents": "<div class=\"markitup-box\">\n<b>先问是不是 再问为什么</b><br/>\n<br/>\n因为你用错工具了。花钱去试试用gpt4，楼上一堆回复的人估计是不懂科技行业的<br/>\n<br/>\n我来类比一下<br/>\n<br/>\n“为什么汽车如此发达的今天，我开的老头乐却跟个破烂似的”\t\t</div>",
+      "date": "2023-11-12",
+      "agree_count": 10,
+      "discussion_count": 14,
+      "discussions": [
+        {
+          "id": "1224736",
+          "replier": {
+            "username": "习近平的裤子",
+            "uid": "100552"
+          },
+          "date": "2023-11-12",
+          "content": "实在是懒得和你废话，gpt3时代的text-davinci-003已经吊打大部分翻译了，对于中文日文英文这种高资源语言，大语言模型本来就是吊打传统翻译软件（google翻译），唯一的问题是费token。 至于为什么浏览器的机翻那么烂，因为便宜+速度快，压根用不到什么算力。"
+        },
+        {
+          "id": "1224745",
+          "replier": {
+            "username": "大修",
+            "uid": "26911"
+          },
+          "date": "2023-11-12",
+          "content": "@sasasasasa: 現在很多人用AI達不到那個效果,除了模型之外,還需要一些插件設置,環境變量之類的調適,去專門優化,這會導致效果差距很大.."
+        },
+        {
+          "id": "1224747",
+          "replier": {
+            "username": "redstormss",
+            "uid": "45808"
+          },
+          "date": "2023-11-12",
+          "content": "@习近平的裤子:感觉GPT4的翻译确实比Google强很多，但是准确率应该还比不上人翻。意思能翻译准，但是用词有点奇怪。感觉GPT4有特殊的用词习惯。"
+        },
+        {
+          "id": "1224748",
+          "replier": {
+            "username": "习近平的裤子",
+            "uid": "100552"
+          },
+          "date": "2023-11-12",
+          "content": "已删除"
+        },
+        {
+          "id": "1224749",
+          "replier": {
+            "username": "习近平的裤子",
+            "uid": "100552"
+          },
+          "date": "2023-11-12",
+          "content": "@redstormss:需要给点上下文和用词习惯的prompts"
+        },
+        {
+          "id": "1224772",
+          "replier": {
+            "username": "redstormss",
+            "uid": "45808"
+          },
+          "date": "2023-11-12",
+          "content": "@习近平的裤子:用词习惯感觉挺难让Ai搞懂的。我的意思是说GPT4特别喜欢把短句连起来说，而且不会用太复杂和隐晦的表达方式。我感觉就是人写东西思维没有那么连贯性，而Ai的连贯性特别强。人写的比较破碎的文章AI也会自动给你连起来。现在的反chatgpt作弊软件基本就是基于这一逻辑来的。"
+        },
+        {
+          "id": "1224855",
+          "replier": {
+            "username": "我真的不知道",
+            "uid": "73219"
+          },
+          "date": "2023-11-12",
+          "content": "已删除"
+        },
+        {
+          "id": "1224864",
+          "replier": {
+            "username": "我真的不知道",
+            "uid": "73219"
+          },
+          "date": "2023-11-12",
+          "content": "@sasasasasa:自己动手查下3.5和4的区别，我每个月23.99美元付费用4.0，差距非常大。GPT-4的优势与不足GPT-4的优势在于其对于复杂任务的处理能力更强，例如生成更加准确和流畅的文本、进行高质量的翻译等。同时，GPT-4在语言支持上也有所扩展，可以处理更多语言的文本。然而，GPT-4的缺点在于其模型规模较大，可能导致计算成本增加，实时性和响应速度方面的表现仍有待提高。\nChatGPT 4和3.5的对比分析模型性能对比从性能上看，GPT-4相较于GPT-3.5在许多任务上都有所提升。例如，在文本生成、翻译和摘要等任务中，GPT-4的生成结果更加准确和流畅。这得益于GPT-4在模型结构和算法优化方面的创新。"
+        },
+        {
+          "id": "1224872",
+          "replier": {
+            "username": "fel6111",
+            "uid": "47889"
+          },
+          "date": "2023-11-12",
+          "content": "@我真的不知道: 为啥我的是20美元？"
+        },
+        {
+          "id": "1224900",
+          "replier": {
+            "username": "我真的不知道",
+            "uid": "73219"
+          },
+          "date": "2023-11-12",
+          "content": "已删除"
+        },
+        {
+          "id": "1224901",
+          "replier": {
+            "username": "我真的不知道",
+            "uid": "73219"
+          },
+          "date": "2023-11-12",
+          "content": "@fel6111:手误，不是23.99，是23.80美元。我在德国，有一个19%的增值税，ChatGPT Plus Subscription $20.00 Tax: $3.80，Total: $23.80"
+        },
+        {
+          "id": "1225019",
+          "replier": {
+            "username": "习近平的裤子",
+            "uid": "100552"
+          },
+          "date": "2023-11-13",
+          "content": "Me\n有个中国网友回复 awsl，是什么意思\nChatGPT\n\"awsl\" 是一种网络用语，源自中国的网络文化。它是 “啊我死了”的拼音首字母缩写，常用来表达某事让人觉得非常搞笑或惊讶到难以置信的地步。这个词经常在轻松、幽默的上下文中使用，用以表达一种夸张的反应。它类似于英文中的 \"LOL\"（大笑）或 \"OMG\"（哦我的天）。"
+        }
+      ]
+    },
+    {
+      "id": "704970",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t俺猜翻译是很复杂的,不仅仅在于表面<br/>\n很多人说话并不会那么正式,所以拿翻译软件去译新闻文章就有不错的效果<br/>\n<br/>\n日常对话的话,还会牵扯到一些术语,缩写,翻译软件根本没法识别\t\t</div>",
+      "date": "2023-11-11",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "705053",
+      "is_folded": false,
+      "answerer": {
+        "username": "大修",
+        "uid": "26911"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那是因為你用錯了<br/>\n<br/>\n 不是翻譯專業性較強的文本<br/>\n<br/>\n 設置好的AI去翻譯,現在看起來挑不出甚麼毛病,大多數情況下潤色都不用<br/>\n<br/>\n <br/>\n AI真的很強\t\t</div>",
+      "date": "2023-11-12",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "705018",
+      "is_folded": false,
+      "answerer": {
+        "username": "肉肉小主菌",
+        "uid": "97623"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t他们没有钱买OpenAI ChatGPT的API，或者有钱也舍不得花在这里，或者觉得没必要花这个钱。\t\t</div>",
+      "date": "2023-11-12",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704973",
+      "is_folded": false,
+      "answerer": {
+        "username": "Dk2s",
+        "uid": "30315"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t事實上 , 現今的AI根本不是真正定義上的AI<br/>\n<br/>\n你想成依靠龐大資料庫的一種試錯漸對演算法<br/>\n<br/>\n比較合理\t\t</div>",
+      "date": "2023-11-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "705080",
+      "is_folded": false,
+      "answerer": {
+        "username": "fel6111",
+        "uid": "47889"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t翻译软件和AI翻译差别很大，翻译软件我的理解是从类似的的库中去找答案。<br/>\n翻译是真正理解了，甚至有些话一语双关甚至有暗讽GPT都能看出来。<br/>\n你要想用好翻译，花20美元订阅一个GPT-4，别说翻译了，你只要表达一下你的想法，人家就直接给你生成一篇规范的文章。翻译软件根本比不了，AI是要用AI卡（或者通俗点说显卡也可以）工作的，不论是购买成本还是电费成本都很高，一直免费确实不现实。<br/>\n如果你不想花太多钱，那就弄个梯子，弄个国外的手机号注册一个chatGPT，用3.5，95%以上的场景也够用，但是弄梯子也得花钱，只是少一点点而已。<br/>\n如果连梯子都不想买，那就老老实实用百度翻译有道翻译吧。<br/>\n当然楼主都能到这里提问了，梯子的问题也就不用说了。\t\t</div>",
+      "date": "2023-11-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704997",
+      "is_folded": false,
+      "answerer": {
+        "username": "维尼熊两百斤",
+        "uid": "22948"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那么是不是可以反过来证明，其实Ai并没有他们吹的那么利害？\t\t</div>",
+      "date": "2023-11-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "705084",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我倒覺得最近幾年的機翻已經是非常不錯了，只要你心裡惦記著這是機翻，那就還能勉強湊合著用了<br/>\n我學英語時的機翻可是完全連湊合的餘地也沒有的那種，大概會把How are you翻譯成怎麼是你、How old are you翻譯成怎麼老是你的那種<br/>\n能湊合著用已經是很大的進步了<br/>\n<br/>\nGPT是完全不一樣的東西，現在所謂的『能出一篇文章』也只不過是『以AI寫作而言不錯，沒有明顯一看就是AI的痕跡』的程度，有時候甚至會聯繫上下文<br/>\n但要是你不知道他是GPT，以一個人的角度看，還是狗屁不通，讀做GP不T<br/>\n必須要牢記著他是AI不是人類<br/>\n<br/>\n也就是說，要是我一個西語廢物拿著機翻和GPT去西班牙，大概能買到一塊火腿，雖然未必是我心目中的那塊但對我這個外行而言足夠了。連帶我這個法語廢物去法國我都怕，肯定不比直接說英語（which，你知道不會有任何用處的）好\t\t</div>",
+      "date": "2023-11-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704974",
+      "is_folded": false,
+      "answerer": {
+        "username": "小春日和",
+        "uid": "95566"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tai到底沒有意識，只是分析而已，沒有數據就不行了。文字的使用方法是無限的，而且每個人的都有自己的一套習慣。除非蒐集世上大部分人的文字習慣，不然不可流暢，基本意思正確已經很了不起了\t\t</div>",
+      "date": "2023-11-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704995",
+      "is_folded": false,
+      "answerer": {
+        "username": "MasonQian",
+        "uid": "15361"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tDeepL 已經很強了，好嗎？<br/>\n大部份簡單的句子都翻譯得OK了\t\t</div>",
+      "date": "2023-11-12",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1224685",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-11-12",
+          "content": "DeepL是真的不错,就是有的时候一大段话就只会翻译一部分"
+        }
+      ]
+    },
+    {
+      "id": "705006",
+      "is_folded": false,
+      "answerer": {
+        "username": "坏了一边的耳机",
+        "uid": "114916"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中文语机翻难度远大于字母文字，同时由于中文市场太小，大厂根本没兴趣特意去优化，所以翻译口语化内容效果很不理想。<br/>\n<br/>\n但你看字母语言之间的互译效果就很好，谷歌翻译的水平99%的第二语言学习者一辈子都达不到。\t\t</div>",
+      "date": "2023-11-12",
+      "agree_count": -1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1224780",
+          "replier": {
+            "username": "vic81324",
+            "uid": "43926"
+          },
+          "date": "2023-11-12",
+          "content": "歐洲語系之間互翻似乎就沒翻成中文那麼慘烈"
+        }
+      ]
+    },
+    {
+      "id": "704993",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t本来现在的所谓AI都是炒作的产物。<br/>\n<br/>\nAi是人工智能，但现阶段最热炒的什么chatgpt一类 最欠缺的就是逻辑。没有逻辑谈什么智能？<br/>\n<br/>\n就这类“大型语言合集”被愚昧众生捧成AI。真是时代的悲哀。是这个又蠢又坏的时代的悲哀，<br/>\n<br/>\n欠缺炒作热点的股票市场，缺乏自我反省和审视，被大数据和社交媒体牵着鼻子走的芸芸众生。<br/>\n<br/>\n我们这个时代 是没有AU的 没有一个人造智能接近狗的思维能力。\t\t</div>",
+      "date": "2023-11-12",
+      "agree_count": -2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1224701",
+          "replier": {
+            "username": "习近平的裤子",
+            "uid": "100552"
+          },
+          "date": "2023-11-12",
+          "content": "不懂装懂，鉴定完毕"
+        }
+      ]
+    }
+  ]
+}

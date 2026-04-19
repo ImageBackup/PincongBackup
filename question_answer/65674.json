@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "65674",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "731064",
+      "is_folded": false,
+      "answerer": {
+        "username": "知不知所以然",
+        "uid": "123451"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t建个像品葱一样匿名的聊天软件，解决联合的问题。\t\t</div>",
+      "date": "2024-02-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

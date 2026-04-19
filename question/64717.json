@@ -1,0 +1,47 @@
+{
+  "question_id": "64717",
+  "category_id": "4",
+  "title": "Gradient descent为什么要加负号？",
+  "meta_description": "Gradient descent为什么要加负号？ - j举例f(x,y),y=（x-5)^2,在大于5的部分任取一点x_1, 此时partial derivative df/dx在这点是正的，所以加上负号通过iteration得到最小值，但是在小于5的部分任取一点x_2，此时partial derivariv...",
+  "meta_keywords": "gradient,descent,负号",
+  "tags": [
+    {
+      "id": "1646",
+      "name": "数学"
+    },
+    {
+      "id": "9031",
+      "name": "算法"
+    }
+  ],
+  "author": {
+    "username": "主席也有难处",
+    "uid": "119334"
+  },
+  "view_count": 11763,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tj举例f(x,y),y=（x-5)^2,在大于5的部分任取一点x_1, 此时partial derivative df/dx在这点是正的，所以加上负号通过iteration得到最小值，但是在小于5的部分任取一点x_2，此时partial derivarive df/dx在这点是指向最小值的，也就是说此时是负的，再加上负号就把原本负值变成正的了，这样iteration结果只能往上方走（uphill）啊？能否有人答疑解惑？<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvYWMyMTVlOWYzNGM0NGRhNjZlYWRjLnBuZz93aWR0aD04MTMmaGVpZ2h0PTQyNA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/ac215e9f34c44da66eadc.png?width=813&amp;height=424\"><img alt=\"https://telegra.ph/file/ac215e9f34c44da66eadc.png?width=813&amp;height=424\" loading=\"lazy\" src=\"https://telegra.ph/file/ac215e9f34c44da66eadc.png?width=813&amp;height=424\" style=\"max-width:100%\"/></a> </div>",
+  "date": "2024-01-17",
+  "agree_count": 1,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1054009",
+      "replier": {
+        "username": "吃包子的小學生",
+        "uid": "90380"
+      },
+      "date": "2024-01-17",
+      "content": "一元？\n但anyways，符號在這裡是表左右移動 不是上下slope，表示出 在5左側，所以需要向”+“方向（右）移動，而在右側時 需要向“-”方向（左）移動。上下是值，這裡是直接尋找位置不是f (找出的是x, 不是y，只是因為有fx所以可以再算出y而已。"
+    },
+    {
+      "id": "1054010",
+      "replier": {
+        "username": "神州陆沉",
+        "uid": "89962"
+      },
+      "date": "2024-01-17",
+      "content": "这样的问题找本教材翻一翻不就清楚了？一般来说，国外的教材写的更好一些。"
+    }
+  ],
+  "answer_count": 5
+}

@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "56844",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "639511",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t显然不是，历史上曾经有人获得过2970票的全票通过。<br/>\n<br/>\n2970&gt;2954\t\t</div>",
+      "date": "2023-03-13",
+      "agree_count": 6,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1162491",
+          "replier": {
+            "username": "kent",
+            "uid": "108303"
+          },
+          "date": "2023-03-14",
+          "content": "中国以外呢？"
+        }
+      ]
+    },
+    {
+      "id": "639900",
+      "is_folded": false,
+      "answerer": {
+        "username": "The19890604",
+        "uid": "46798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t蔡英文都有689萬票<br/>\n碩大中國泱泱14億人湊不出3000張選票\t\t</div>",
+      "date": "2023-03-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

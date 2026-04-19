@@ -1,0 +1,88 @@
+{
+  "parent_type": "question",
+  "parent_id": "62510",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "697131",
+      "is_folded": false,
+      "answerer": {
+        "username": "贪狼",
+        "uid": "45453"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我只有两个字：<b>加速！</b><br/>\n<br/>\n紫薯布丁紫薯布丁紫薯布丁！\t\t</div>",
+      "date": "2023-10-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "697133",
+      "is_folded": false,
+      "answerer": {
+        "username": "rewcsa",
+        "uid": "87034"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t肉身不在墙内的怎么认证？随便弄个假名微博能查？\t\t</div>",
+      "date": "2023-10-15",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1216755",
+          "replier": {
+            "username": "贪狼",
+            "uid": "45453"
+          },
+          "date": "2023-10-15",
+          "content": "举护照，知乎是这么人工认证海外用户的。"
+        },
+        {
+          "id": "1216773",
+          "replier": {
+            "username": "Hayashi",
+            "uid": "16805"
+          },
+          "date": "2023-10-15",
+          "content": "挺好，曝光那些身在美國靠反美吃飯的所謂大V"
+        }
+      ]
+    },
+    {
+      "id": "697136",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t说明没钱了<br/>\n连技术侦查手段都付不起<br/>\n<br/>\n小同志们可以现身说法?\t\t</div>",
+      "date": "2023-10-15",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1216922",
+          "replier": {
+            "username": "你是中国人",
+            "uid": "5810"
+          },
+          "date": "2023-10-15",
+          "content": "全网实名，只要粉丝超过1W不管带不带V都会自动公开实名信息"
+        }
+      ]
+    },
+    {
+      "id": "697295",
+      "is_folded": false,
+      "answerer": {
+        "username": "做点什么吧",
+        "uid": "103484"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t百度热度前三，应该是真的。<br/>\n这是好事，不止反贼，但凡有点隐私意识的也就是有潜力成为反贼的人，只要不是靠简中互联网吃饭的，都会退网的。这相当于墙内做了个二次隔离，以后简中互联网就只有蛆没有人了。\t\t</div>",
+      "date": "2023-10-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

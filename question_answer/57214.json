@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "57214",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "643646",
+      "is_folded": false,
+      "answerer": {
+        "username": "Onioner",
+        "uid": "1105"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t李自成能成为闯王是因为有饥荒，有源源不断的饥民加入他的军队，这样全军覆没再多次都能重新拉起队伍，甚至会有欠饷的明军来投奔。被开除那只是比较次要的一个原因。\t\t</div>",
+      "date": "2023-03-28",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "643645",
+      "is_folded": false,
+      "answerer": {
+        "username": "习家包子",
+        "uid": "27158"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t李自成不至于，但气急败坏粉转黑是100%可以确定的\t\t</div>",
+      "date": "2023-03-28",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

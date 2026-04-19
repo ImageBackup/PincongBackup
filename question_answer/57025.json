@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "57025",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "641451",
+      "is_folded": false,
+      "answerer": {
+        "username": "snowingnight",
+        "uid": "53957"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tgithub等代码托管所多了去了<br/>\n<br/>\n不过，这个机器人用起来要慎重。<br/>\n<br/>\n能动脑子的东西就自己动脑子搜索，<br/>\n<br/>\n全部依赖机器人，一年后你可能会发现自己丢失了很多一直以来的技能经验\t\t</div>",
+      "date": "2023-03-20",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1164508",
+          "replier": {
+            "username": "johnx",
+            "uid": "90048"
+          },
+          "date": "2023-03-20",
+          "content": "其实并不会，以前的人会因为公式被总结出来了，不用自己去动脑了，而不用公式自己去从头到尾计算一遍吗？机器人可以帮忙做一些繁琐的事情，或者繁琐的步骤，仅仅是一个工具而已。"
+        }
+      ]
+    },
+    {
+      "id": "641480",
+      "is_folded": false,
+      "answerer": {
+        "username": "明天天氣不錯",
+        "uid": "74748"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我是使用網頁版，據說應用程式版會限制提問次數，不過我沒用過不確定兩者差異！但我使用網頁版後覺得沒有太好用，還是有很多訊息錯誤的狀況！<br/>\n<br/>\n例如我問妃英里是誰，他回：「妃英里是名偵探柯南裡的角色，是名律師，因為一次敗訴經驗，過於悔恨而自殺。」，我補充提問她怎麼自殺的，他還可以回答：「妃英里是在浴室服毒自盡的」我不太確定他的數據庫運作模式，但這種半真半假，且假的部分錯的很離譜的狀況讓我不太敢放心的運用他給予的資訊！<br/>\n<br/>\n感覺如果講究訊息正確性的話還是得自己多方查證，如果只把他當成聊天工具的話就也不用想那麼多，好玩就好！\t\t</div>",
+      "date": "2023-03-20",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

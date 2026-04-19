@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "63436",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "706940",
+      "is_folded": false,
+      "answerer": {
+        "username": "RobotRepublic",
+        "uid": "101437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t都一样，有一阵子每天都接到印度不知哪个shit hole的诈骗电话，后来打一个我屏蔽一个，最近消停了。管不了的没用，\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "706943",
+      "is_folded": false,
+      "answerer": {
+        "username": "yogafire",
+        "uid": "3317"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在电话号码都可以改的<br/>\n相信最近几年在英国很多华人都接到显示为中国驻英国大使馆的号码的诈骗电话\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

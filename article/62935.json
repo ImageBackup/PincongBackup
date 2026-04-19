@@ -1,0 +1,22 @@
+{
+  "article_id": "62935",
+  "category_id": "4",
+  "title": "分享一种翻墙方法",
+  "meta_description": "分享一种翻墙方法 - 回国之前已经准备好了云上openvpn翻墙，无奈一到国内发现速度被卡而且没几个小时端口就被封了。然后就找同学要了他们的翻墙软件，发现有些网站打不开，比如voa，轮子等，不知道是不是官方梯子，虽然速度很快，但感觉不安全。 随后我就捣鼓了一种把两者结合的办法，...",
+  "meta_keywords": "分享,一种,翻墙,方法",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    }
+  ],
+  "author": {
+    "username": "hahayuyu",
+    "uid": "86146"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t回国之前已经准备好了云上openvpn翻墙，无奈一到国内发现速度被卡而且没几个小时端口就被封了。然后就找同学要了他们的翻墙软件，发现有些网站打不开，比如voa，轮子等，不知道是不是官方梯子，虽然速度很快，但感觉不安全。<br/>\r\n随后我就捣鼓了一种把两者结合的办法，用着还行。<br/>\n<br/>\n<ol><li>首先在国外架设openvpn，很多云都送免费服务器，用linux和这个 <a href=\"url/link/aHR0cHM6Ly9naXRodWIuY29tL055ci9vcGVudnBuLWluc3RhbGw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://github.com/Nyr/openvpn-install\">脚本</a></li><li>购买一个支持v2ray里面协议的梯子</li><li>安装v2ray，有很多开源选择</li><li>连接梯子，测试一下是否能翻墙</li><li>关闭v2ray全局模式</li><li>把openvpn设置为tcp，并且使用本地的v2ray代理</li><li>需要把梯子的ip单独路由（这个我没找到办法让openvpn自动设置，望高手赐教）。比如linux中使用sudo ip route add \"$(getent hosts 梯子域名 | awk '{ print $1 }')\" via 局域网网关 dev wlo1 proto static metric 600</li><li>然后启动openvpn连接即可</li></ol><br/>\n<br/>\r\n这样翻墙流量会被openvpn加密，通过买的梯子，传到你自己的服务器，不会被梯子监视。梯子只能看到有openvpn流量去那个服务器，但不知道在干嘛。同时还能保证速度。\t\t\t\t\t\t\t</div>",
+  "view_count": 11907,
+  "date": "2023-08-24",
+  "agree_count": 0,
+  "comment_count": 6
+}

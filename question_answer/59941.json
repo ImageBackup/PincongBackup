@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "59941",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "670840",
+      "is_folded": false,
+      "answerer": {
+        "username": "万寿吾江",
+        "uid": "97018"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别的我不知道，但我挺同意你最后一句话的——感觉包子最近这些日子确实不知道自己要干嘛。\t\t</div>",
+      "date": "2023-07-15",
+      "agree_count": 6,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1191882",
+          "replier": {
+            "username": "啪啪啪WN",
+            "uid": "101745"
+          },
+          "date": "2023-07-16",
+          "content": "他知道：他要保住自己独裁统治。"
+        }
+      ]
+    },
+    {
+      "id": "670999",
+      "is_folded": false,
+      "answerer": {
+        "username": "庆丰包子的梦帝",
+        "uid": "1283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中俄关系的常态就是互相坑对方，有点像孙刘联盟抗曹，但背地里也是相互算计相互坑对方。\t\t</div>",
+      "date": "2023-07-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "parent_type": "question",
+  "parent_id": "54224",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "609888",
+      "is_folded": false,
+      "answerer": {
+        "username": "萨格尔通商宽衣",
+        "uid": "96905"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t根据知乎数据帝chenqin的测算，北京目前阳性率35%以上，日增30万以上，全国日增可能接近1000万\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 6,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1135110",
+          "replier": {
+            "username": "安那其2022",
+            "uid": "99387"
+          },
+          "date": "2022-12-13",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "609921",
+      "is_folded": false,
+      "answerer": {
+        "username": "晕晕",
+        "uid": "41210"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有个表，已经完成<br/>\n石家庄84%，第一波高峰12月13，结束1月22<br/>\n保定77<br/>\n北京38<br/>\n邢台71<br/>\n邯郸44<br/>\n洛阳48<br/>\n甘肃庆阳51<br/>\n定西32<br/>\n等等<br/>\n其他城市，个位数，或1x\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609890",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不知道，没法统计，因为现在无法检测抗原也买不到在。我就不知道我自己是不是阳性\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609891",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 和一個在北京的軍隊大夫扯閑篇, 我: \"聽説每天北京地方上有四萬?\"; 他: \"甭管報多少你能信?\"<br/>\n<br/>\n_ _ 我覺得超級城每平方公里人數密度 R0 10+ 的話就沒可能幸免, 當然我這1.5綫城市也沒可能躲過.\t\t</div>",
+      "date": "2022-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

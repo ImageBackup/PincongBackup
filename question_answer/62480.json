@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "62480",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "696837",
+      "is_folded": false,
+      "answerer": {
+        "username": "欽定匪軍經商",
+        "uid": "102983"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t本來就是無主之地，奧斯曼帝國當年也沒說那些地方一定是阿拉伯人某個部落的，那就只能憑實力和外國關係來說話了，反正阿拉伯部落在一起本來也是會打來打去的。\t\t</div>",
+      "date": "2023-10-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "696835",
+      "is_folded": false,
+      "answerer": {
+        "username": "我佛山人",
+        "uid": "111091"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有个恶霸过来抢了你媳妇，你又打不过他，怎么办？\t\t</div>",
+      "date": "2023-10-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

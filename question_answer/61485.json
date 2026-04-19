@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "61485",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "685930",
+      "is_folded": false,
+      "answerer": {
+        "username": "MasonQian",
+        "uid": "15361"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t平台為的是賺錢，早點成交對他有利吧？<br/>\n所以可能是政府強迫不可掛低價，怕樓市崩盤？\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1205353",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-09-04",
+          "content": "👍🏻👍🏻👍🏻👍🏻👍🏻"
+        }
+      ]
+    },
+    {
+      "id": "685928",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t他怎么订出的95万？  考虑了哪些因素，比如像面积，位置，小区名\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "685929",
+      "is_folded": false,
+      "answerer": {
+        "username": "hashirara",
+        "uid": "115575"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你就挂100万，然后说具体面议，打骨折<br/>\n字数字数字数\t\t</div>",
+      "date": "2023-09-04",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": []
+    }
+  ]
+}

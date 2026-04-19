@@ -1,0 +1,92 @@
+{
+  "question_id": "66974",
+  "category_id": "4",
+  "title": "向网络跟踪说不，如何保护自己免受网络跟踪者骚扰？",
+  "meta_description": "向网络跟踪说不，如何保护自己免受网络跟踪者骚扰？ - 创意来源：  我的互联网踪迹似乎是被定向跟踪了，即使是登录品葱，这是怎么发生的？求教神通广大的网友。 https://pincong.rocks/question/66972  如何消除youtube观看时候被跟踪？哪怕是在没有登录的情况下？ https:...",
+  "meta_keywords": "网络,跟踪,说不,保护,免受,骚扰",
+  "tags": [
+    {
+      "id": "156",
+      "name": "隐私安全"
+    },
+    {
+      "id": "353",
+      "name": "隐私"
+    }
+  ],
+  "author": {
+    "username": "Deceiving4271",
+    "uid": "117645"
+  },
+  "view_count": 5848,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t创意来源：<br/>\n<br/>\n我的互联网踪迹似乎是被定向跟踪了，即使是登录品葱，这是怎么发生的？求教神通广大的网友。<br/>\nhttps://pincong.rocks/question/66972<br/>\n<br/>\n如何消除youtube观看时候被跟踪？哪怕是在没有登录的情况下？<br/>\nhttps://pincong.rocks/question/66971<br/>\n<br/>\n------------------------------------------<br/>\n<br/>\n定义：<br/>\n<br/>\n网络跟踪的定义非常简单，“使用互联网或其他电子手段骚扰和恐吓选定的受害者”。<br/>\n<br/>\n数字足迹：每当您使用互联网时，您都会留下一串信息，这就是您的数字足迹。数字足迹以多种方式增长 - 例如，在社交媒体上发帖、订阅时事通讯、在线写评论或在线购物。<br/>\n<br/>\n----------------------------------------------<br/>\n<br/>\n泄露隐私的途径：<br/>\n<br/>\n1. 网站可以通过在您的设备上用 Cookie 来跟踪您的活动。<br/>\n<br/>\n2. 应用程序可以在您不知情的情况下整理您的数据（包括任何中国应用）。<br/>\n<br/>\n3. 一旦您允许其访问您的信息，他们就可以向第三方出售或共享您的数据。<br/>\n<br/>\n4. 超级指纹，通过一串特殊的字符串，尽管你使用了隐私模式依然会被追踪。<br/>\n<br/>\n5. 光纤入网后，你的路由器可能在监视你。<br/>\n<br/>\n如此等等——<br/>\n<br/>\n--------------------------------------<br/>\n<br/>\n首先我们需要规范自己的行为，准则如下：<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvNzVhYjUyYTU2OTFiNDIzNTA2MjJkLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/75ab52a5691b42350622d.png\"><img alt=\"https://telegra.ph/file/75ab52a5691b42350622d.png\" loading=\"lazy\" src=\"https://telegra.ph/file/75ab52a5691b42350622d.png\" style=\"max-width:100%\"/></a><br/>\n<br/>\n===================================================<br/>\n<br/>\n你需要询问自己：<br/>\n<br/>\n您的系统是否为官方网站下载的镜像？<br/>\n<br/>\n你的系统是否安装了任何中国软件，如QQ，360等？<br/>\n<br/>\n你是否使用了不知名的VPN而不是国际知名的VPN？<br/>\n<br/>\n你的火狐浏览器是否为中国特供版？<br/>\n<br/>\n===================================================<br/>\n<br/>\n如果你调查清楚以后，我推荐你执行如下操作：<br/>\n1.从微软下载官方镜像进行重装系统<br/>\n2.使用开源软件来替代“国产软件”<br/>\n3.使用国际知名的匿名性高的VPN<br/>\n4.推荐使用<s>Brave浏览器</s>，官方火狐（非中国特供）也行。<br/>\n5.对浏览器安装EFF的插件，如 隐私獾（privacybadger.org）。<br/>\n<br/>\n<br/>\n===================================================<br/>\n<br/>\n如果你非要使用中国软件，可以通过虚拟化技术（比如Vmware play）创建一个虚拟容器并进行操作。<br/>\n<br/>\n===================================================<br/>\n<br/>\n修改记录:<br/>\n<br/>\nBrave浏览器: 通过 Brave 的 TOR 根本不安全,且劣迹也挺多,为了你的安全请不要继续使用了.\t\t\t\t\t\t\t</div>",
+  "date": "2024-05-01",
+  "agree_count": 2,
+  "discussion_count": 9,
+  "discussions": [
+    {
+      "id": "1059627",
+      "replier": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "date": "2024-05-01",
+      "content": "操作不当发成问题了。不过这是一篇文章。"
+    },
+    {
+      "id": "1059646",
+      "replier": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "date": "2024-05-02",
+      "content": "@chibi123:超级指纹指的是2016年以后所有主要技术平台都在使用一种称为 Canvas Fingerprinting 的跟踪技术。"
+    },
+    {
+      "id": "1059647",
+      "replier": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "date": "2024-05-02",
+      "content": "@chibi123:无痕模式/隐私模式，只是不记录我们的浏览历史和使用临时 Cookie。你需要电子前哨基金会的隐私獾来停止网页中的跟踪器，本质他们都是JS脚本，要拜托追踪你就需要使其无法工作。"
+    },
+    {
+      "id": "1059648",
+      "replier": {
+        "username": "Freehand4252",
+        "uid": "128351"
+      },
+      "date": "2024-05-02",
+      "content": "最好用linux的debian等发行版本，微软和中共匪帮的关系相当暧昧不清楚。"
+    },
+    {
+      "id": "1059656",
+      "replier": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "date": "2024-05-02",
+      "content": "@Freehand4252:至少目前来看官方镜像还是没问题的。linux发行版中debian,ubuntu,fedora 是我推荐的，新手建议直接ubuntu。"
+    },
+    {
+      "id": "1059657",
+      "replier": {
+        "username": "Freehand4252",
+        "uid": "128351"
+      },
+      "date": "2024-05-02",
+      "content": "@Deceiving4271:  ubuntu虽然一般没什么问题，但是ubuntu的apt库有相当部分是未经认证的，debian的库则是全部开源的。"
+    },
+    {
+      "id": "1062910",
+      "replier": {
+        "username": "麦克白",
+        "uid": "123903"
+      },
+      "date": "2024-07-10",
+      "content": "FreeFrom还不错啊现在，web3的优势很明显"
+    }
+  ],
+  "answer_count": 3
+}

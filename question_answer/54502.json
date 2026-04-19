@@ -1,0 +1,88 @@
+{
+  "parent_type": "question",
+  "parent_id": "54502",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "612734",
+      "is_folded": false,
+      "answerer": {
+        "username": "cpp",
+        "uid": "100565"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大概就是图片里这个情况<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvNmU1NDg4YTQyMjliMmI5MWQwNzdkLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/6e5488a4229b2b91d077d.jpg\"><img alt=\"https://telegra.ph/file/6e5488a4229b2b91d077d.jpg\" loading=\"lazy\" src=\"https://telegra.ph/file/6e5488a4229b2b91d077d.jpg\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137400",
+          "replier": {
+            "username": "telsa10",
+            "uid": "20107"
+          },
+          "date": "2022-12-21",
+          "content": "這張圖看不出來 不過我覺得你的理解是對的 具體可以看\nhttps://en.wikipedia.org/wiki/Offside_\n(association_football) Application 裡面第二張圖"
+        }
+      ]
+    },
+    {
+      "id": "612740",
+      "is_folded": false,
+      "answerer": {
+        "username": "维尼砸缸",
+        "uid": "100672"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t直播画面好像显示横传不越位，这球进了完全不同的结果，梅西现在都被吹爆了\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1137410",
+          "replier": {
+            "username": "邓匪小平",
+            "uid": "52927"
+          },
+          "date": "2022-12-21",
+          "content": "进了就是23岁球员在世界杯决赛独进四球卫冕成功。 无敌。"
+        },
+        {
+          "id": "1137425",
+          "replier": {
+            "username": "cpp",
+            "uid": "100565"
+          },
+          "date": "2022-12-21",
+          "content": "这球进了就换成法国被吹爆"
+        }
+      ]
+    },
+    {
+      "id": "612822",
+      "is_folded": false,
+      "answerer": {
+        "username": "无依之地",
+        "uid": "81239"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不越位，很简单，任何情况下传球只要不是向前传就一定不算越位。\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "612834",
+      "is_folded": false,
+      "answerer": {
+        "username": "李强",
+        "uid": "100119"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t进了也会被吹，或者再拖一下时间给阿根廷点球，这场就不会让法国赢\t\t</div>",
+      "date": "2022-12-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "55230",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "621004",
+      "is_folded": false,
+      "answerer": {
+        "username": "总钻风",
+        "uid": "103468"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t买disney的流媒体服务好像可以看discovery还有历史的所有纪录片吧，或是国家地理？反正这俩都有合作的流媒体，你查查就知道了\t\t</div>",
+      "date": "2023-01-15",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1145025",
+          "replier": {
+            "username": "奥威尔1984",
+            "uid": "22793"
+          },
+          "date": "2023-01-15",
+          "content": "谢谢"
+        }
+      ]
+    }
+  ]
+}

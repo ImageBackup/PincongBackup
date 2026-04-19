@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "64207",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "715519",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\toled比lcd好吧<br/>\n。。。。。。。。。。。。\t\t</div>",
+      "date": "2023-12-26",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1234493",
+          "replier": {
+            "username": "学做地球人",
+            "uid": "92067"
+          },
+          "date": "2023-12-26",
+          "content": "oled伤眼 因为发光部分刷新率低（区别于屏幕刷新率） 2000左右刷新率是底线 这种不太伤眼的大约今年才开始普及 另外颜色太鲜艳也会对眼睛造成负担"
+        },
+        {
+          "id": "1234494",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-12-26",
+          "content": "@学做地球人:之前我用華為mate 20 pro BOE京東方，現在的samsung手機也是oled，用這麼多年好像眼睛也沒啥事。另一部oneplus也是oled"
+        }
+      ]
+    },
+    {
+      "id": "715523",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tiPhone系列即可。中华人民共和国简中圈内由内容农场炒作的特色概念可一笑而过。\t\t</div>",
+      "date": "2023-12-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "715518",
+      "is_folded": false,
+      "answerer": {
+        "username": "Dk2s",
+        "uid": "30315"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t覺得瞎眼 , 應該乾眼症前兆喔<br/>\n得乾眼症和你用啥螢幕  用什麼保護的都無關<br/>\n純粹就是用眼過度<br/>\n<br/>\n乾眼症痛苦超乎想像<br/>\n連工作都不行<br/>\n<br/>\n我認為2027年(2007 iphone出世)全世界會爆發一波<br/>\n眼疾大爆發<br/>\n人工淚液價格暴漲\t\t</div>",
+      "date": "2023-12-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

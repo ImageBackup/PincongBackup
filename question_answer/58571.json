@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "58571",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "657635",
+      "is_folded": false,
+      "answerer": {
+        "username": "Artemis",
+        "uid": "11"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t三个囚犯在赛博监狱里聊天﹐他们互相问起对方怎么被关进来的。<br/>\n第一个犯人说﹕“我在10月24日吃蛋炒饭”<br/>\n第二个犯人说﹕“我在10月24日说不吃蛋炒饭”<br/>\n第三个犯人说：“我就是蛋炒饭”\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657640",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t刚刚爆火的淄博烧烤摊不脊梁骨瑟瑟发抖吗？有了举报，到哪儿吃带烤的食物都不要钱了。\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

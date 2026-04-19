@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "58877",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "660394",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t旅社的都是韭菜，韭菜天天被压榨，谁不知道社会真相<br/>\n<br/>\n你煽动韭菜没用\t\t</div>",
+      "date": "2023-06-05",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1182089",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-06-05",
+          "content": "有不少文艺青年"
+        },
+        {
+          "id": "1182098",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-06-05",
+          "content": "有没有一种可能，他们觉得这还是比美国的“自由放荡”要好"
+        }
+      ]
+    },
+    {
+      "id": "660468",
+      "is_folded": false,
+      "answerer": {
+        "username": "少伦少瓜子脸",
+        "uid": "85023"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t哈哈，你是个人才，有想法，相比飞蛾扑火，这种方式更具幽默感，更有意思\t\t</div>",
+      "date": "2023-06-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

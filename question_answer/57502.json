@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "57502",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "646844",
+      "is_folded": false,
+      "answerer": {
+        "username": "俄勒冈总统",
+        "uid": "109941"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t台湾需要像战前的乌克兰一样，对台军进行全面调查和换血，亲中的军官要全部清洗掉\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1169082",
+          "replier": {
+            "username": "Cheney",
+            "uid": "92254"
+          },
+          "date": "2023-04-09",
+          "content": "這種事情沒有戒嚴令和其他授權做不太到，然而戒嚴令、刑法100條（叛國罪）、動員戡亂時期臨時條款這類東西在台灣人的心中......"
+        }
+      ]
+    }
+  ]
+}

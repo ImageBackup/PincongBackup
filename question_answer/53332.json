@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "53332",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "601542",
+      "is_folded": false,
+      "answerer": {
+        "username": "忧乐为天下",
+        "uid": "23699"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以。我觉得也能在后背贴一张A4白纸，响应抗议勇士。\t\t</div>",
+      "date": "2022-11-27",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "601558",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好办法 从高层楼往下撒也不错<br/>\n开动脑筋创意无限\t\t</div>",
+      "date": "2022-11-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "601577",
+      "is_folded": false,
+      "answerer": {
+        "username": "万寿吾江",
+        "uid": "97018"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我有一个类似的号召：海外的朋友们可以在自家窗户上贴一张A4纸以表示声援。\t\t</div>",
+      "date": "2022-11-27",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1129032",
+          "replier": {
+            "username": "忧乐为天下",
+            "uid": "23699"
+          },
+          "date": "2022-11-27",
+          "content": "挺好。"
+        }
+      ]
+    }
+  ]
+}

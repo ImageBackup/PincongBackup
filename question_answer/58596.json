@@ -1,0 +1,256 @@
+{
+  "parent_type": "question",
+  "parent_id": "58596",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "657899",
+      "is_folded": false,
+      "answerer": {
+        "username": "蘑菇云",
+        "uid": "77623"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我以前做过铁海联运，铁空联运的研究。<br/>\n<br/>\n1，先说优势，时间大概是海运的一半或者1/3。<br/>\n2，成本大概是空运的几分之一。<br/>\n<br/>\n缺点：<br/>\n<br/>\n铁路一路上穿越很多国家，货物会遇到很多奇奇怪怪的清关问题。<br/>\n<br/>\n如果是铁路转飞机或者铁路传船运，货物会出于无法监控的失控状态。就是完全不知道自己的集装箱在什么位置。<br/>\n<br/>\n实操，为什么要用铁路？<br/>\n主要是去一些奇怪的内陆国家，那里没有港口，大宗货物的话，飞机运力不足。<br/>\n<br/>\n比如有5000吨通讯设备从中国到白俄罗斯，基站可以用飞机走，铁塔也用飞机吗？必须用火车啊…<br/>\n<br/>\n类似北约的坦克不也是用铁路运到乌克兰的嘛。大宗货物去内陆，有火车最方便。比如发电厂的汽轮机，化工厂的裂解塔…<br/>\n<br/>\n或者我有1万吨设备运到非洲某个奇怪国家，内陆国。那个地方压根没有飞机来中国，那我可能先把设备用火车拉到欧洲或者海运迪拜，然后一点点转运。<br/>\n<br/>\n总结，铁路运输还是可以满足一些大宗货物的运输的，但是真心不太方便。<br/>\n<br/>\n<br/>\n再补充一点，芯片这类东西，体积小，价值高，当然是用飞机方便。粮食单价低，体积大，用海运。<br/>\n<br/>\n锂电池属于危险品不能上飞机，为了满足供应链的交货时间用海运太慢，于是火车挺方便。\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 25,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1179912",
+          "replier": {
+            "username": "flicker_free",
+            "uid": "98663"
+          },
+          "date": "2023-05-25",
+          "content": "行家呀，在中兴华为干过吧"
+        }
+      ]
+    },
+    {
+      "id": "657926",
+      "is_folded": false,
+      "answerer": {
+        "username": "朝鲜第一书记",
+        "uid": "110069"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t成本可能没有10倍那么大，但是处境比较尴尬。比空运便宜，比海运快，反过来说就是比空运慢，比海运贵，而且火车单次运力40-50个集装箱，跟远洋船一次几千到上万的集装箱运力比，九牛一毛。<br/>\n<br/>\n集装箱海运非常成熟了，而且是标准化运作，集装箱的类型、规格，全球是一样的标准，不管是港口的装卸和是陆运的拖车，都是按这个标准来配置的。<br/>\n<br/>\n铁路就奇葩了，铁轨宽距全球不统一，从中国去欧洲，中间要换车或者换轮子、换司机，折腾不少。有一部分尺寸的铁路的集装箱和海运的不兼容，不适合多式联运。<br/>\n<br/>\n另外去欧洲的班列，回程的货运需求严重不足，夸张的情况下一趟车只装了一箱重货，其他都是空箱。<br/>\n<br/>\n像疫情期间，因为海运港口拥堵导致货物转向铁路的情况以后相对少见了。<br/>\n<br/>\n之前一直是靠国家大额补贴，才维持出口运量。现在听说补贴一年一年下降了。接下来可能也要黄了\t\t</div>",
+      "date": "2023-05-25",
+      "agree_count": 8,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1179938",
+          "replier": {
+            "username": "fk007",
+            "uid": "75717"
+          },
+          "date": "2023-05-25",
+          "content": "对，这才是内行人。成本是比上不足比下有余。空载率海运的也不低，但铁路高多了。"
+        }
+      ]
+    },
+    {
+      "id": "657897",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t新时代算啥经济账？没瞧见习近平同志做中国梦正香吗？别吵醒她！\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663979",
+      "is_folded": false,
+      "answerer": {
+        "username": "minisoda996",
+        "uid": "12008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t行家说的很到位啊，最大的问题在于沿途的稳定性。<br/>\n<br/>\n举个例子，俄乌打仗，你如何保障中欧快线的运营？\t\t</div>",
+      "date": "2023-06-20",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "685080",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t运不了大宗产品 连乌克兰的粮食都运不出去 哪怕俄罗斯一再搞禁运还得走海运 除了装逼自嗨没有任何意义\t\t</div>",
+      "date": "2023-09-01",
+      "agree_count": 1,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1204601",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-01",
+          "content": "粮食太便宜了，哪怕从乌克兰坐火车到罗马尼亚和波兰，再从两国港口出海，都因为运费增加而失去国际市场竞争力"
+        },
+        {
+          "id": "1204602",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-09-01",
+          "content": "@rowlandheights:关键是一船粮食不知道要多少节火车 土共养的巴西大豆更惨 要用联动的卡车从内陆延山地运到海边港口 都是撒钱的面子工程 一旦没钱马上死翘"
+        },
+        {
+          "id": "1204609",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-01",
+          "content": "巴西的另外一个选项是用拉普拉塔河走巴拉圭，乌拉圭，阿根廷沿线出海"
+        },
+        {
+          "id": "1204611",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-01",
+          "content": "@Vinobianco:乌克兰的粮食产地也不都沿海沿第聂伯河，很多也是用火车拉到敖德萨的"
+        },
+        {
+          "id": "1204614",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-09-01",
+          "content": "@rowlandheights:一般是第聂伯河到敖德萨上船 跟美国中部西部粮食沿密西西比到新奥尔良上船类似 那个拉普拉塔河其实就是个大的入海口 非常短 粮食产区运到河边还得用陆第运输"
+        },
+        {
+          "id": "1204615",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-01",
+          "content": "@Vinobianco:那个是我说的不具体，应该是“拉普拉塔河流域”"
+        },
+        {
+          "id": "1204616",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-09-01",
+          "content": "@rowlandheights:巴西内陆粮食产区属于highland地区 途径河流到入海口有多少可航运的河道难说 一般认知上巴西粮食出口都是公路运输到港口的"
+        },
+        {
+          "id": "1204617",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-09-01",
+          "content": "@Vinobianco:\nhttps://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Riodelaplatabasinmap.png/1024px-Riodelaplatabasinmap.png"
+        }
+      ]
+    },
+    {
+      "id": "697611",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要来回全双向满载就肯定合算，如果单程拉满回程空驶就不好说了\t\t</div>",
+      "date": "2023-10-17",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "685083",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t和品多多海外的业务差不多, 你要是看赚钱是亏本<br/>\n<br/>\n但是洗钱还是不错的渠道\t\t</div>",
+      "date": "2023-09-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "685084",
+      "is_folded": false,
+      "answerer": {
+        "username": "莉莉粒粒",
+        "uid": "115726"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t陸運要克服摩擦力是什麼鬼，鐵路運輸是除貨輪以外單位貨運量能耗最小的運輸方式了。<br/>\n<br/>\n鐵路貨運的優劣樓上蘑菇雲已經說得挺清楚了，只從實際體驗說一下。從中國運貨物到歐洲某國，用過空運，鐵路和卡車。空運最貴，小宗貨物單價大概是卡車的兩倍（最近跌了大概只有1.5倍），卡車又是鐵路的兩倍。那麼看起來怎麼選擇就只是錢包和緊急程度的平衡，但鐵路有個致命問題，時效不穩定。空運15天，卡車25天，基本上每次都只會短不會長太多，鐵路正常是兩個月，但是莫名其妙會遇到晚到十幾天甚至有朋友的貨耽誤了一個月的情況。\t\t</div>",
+      "date": "2023-09-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "685085",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tj具体也得看是什么货物<br/>\n不过我是想不出来到底有什么货物在铁路的情况下更有优势<br/>\n<br/>\n比如我看纪录片时看到的一些输送情况 美国一些工厂会用铁路来运输玉米糖浆 牛奶等液体 这些货物有固定的保质期 当然铁路运跟卡车运都差不多 包括一些农产品 比如土豆 谷物等<br/>\n其他的还有煤矿 木材等大宗商品<br/>\n这些都是国内贸易<br/>\n<br/>\n至于空运 挪威出口的水产很多都是空运 因为这类商品的 保质期更短<br/>\n<br/>\n而其他跨国贸易 比如原油 煤炭 废金属 谷物等都是海运<br/>\n<br/>\n所以铁路就处于一种很尴尬的地位 保质期短的商品是直接空运 无需保质期的大宗商品完全可以走海运<br/>\n铁路刚好就处于高不成低不就的情况 比如美国的玉米糖浆以及牛奶 基本上这些东西都是本国消费市场以及本国制造的<br/>\n反正我是真的想不出有什么货物在纯铁路运输的情况下会更有优势、<br/>\n即便某些国家没有港口 需要铁路运输<br/>\n符合智商的行为是先海运 找个距离最近的港口卸货后再转铁路/陆路 而不是从你支走铁路到欧陆<br/>\n<br/>\n至于经济利益么 大概就是你支向外出口本国产能过剩的基建<br/>\n你支的钢铁产业一直都是产业过剩的情况<br/>\n除了中东这些本来就没债务偿还能力的国家 对他们来说借钱等于不还钱之外 我是看不出欧洲有发达国家需要你支输出基建产能的\t\t</div>",
+      "date": "2023-09-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663969",
+      "is_folded": false,
+      "answerer": {
+        "username": "freedomofchina",
+        "uid": "111795"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t意义是跑路更方便了，要支持啊，能直接逃到欧洲还不好吗\t\t</div>",
+      "date": "2023-06-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657964",
+      "is_folded": true,
+      "answerer": {
+        "username": "番茄三號",
+        "uid": "111700"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-05-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657896",
+      "is_folded": true,
+      "answerer": {
+        "username": "李老师的supervisor",
+        "uid": "50992"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-05-24",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

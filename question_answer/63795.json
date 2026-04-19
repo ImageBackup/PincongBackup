@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "63795",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "711092",
+      "is_folded": false,
+      "answerer": {
+        "username": "kmvver",
+        "uid": "112733"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t特地從這麼偏遠的地方搭飛機? 可能不想讓沿海都市的人們隨意移動，進而管控沿海邊界的政策\t\t</div>",
+      "date": "2023-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "711095",
+      "is_folded": false,
+      "answerer": {
+        "username": "rrrrrrrrrrrrr",
+        "uid": "107800"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你也写了这个是持护照因私，大部分人持的都是大通证（大陆居民往来台湾通行证）\t\t</div>",
+      "date": "2023-12-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

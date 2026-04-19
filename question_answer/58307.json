@@ -1,0 +1,373 @@
+{
+  "parent_type": "question",
+  "parent_id": "58307",
+  "answer_count": 14,
+  "answers": [
+    {
+      "id": "654889",
+      "is_folded": false,
+      "answerer": {
+        "username": "打土共分兰兰",
+        "uid": "89718"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从直觉上是对的，房地产就是个虚假GDP灌水机制，去掉啤酒泡沫，真实的啤酒就1/3\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 15,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654910",
+      "is_folded": false,
+      "answerer": {
+        "username": "tb120923",
+        "uid": "86772"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t包猪国的GDP很明显是假的，不止GDP 只要叫的上名的统计数据都是有很大问题的。\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654926",
+      "is_folded": false,
+      "answerer": {
+        "username": "啪啪啪WN",
+        "uid": "101745"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我如果没记错，原文应该说的是独裁政权会平均夸大30%。\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654890",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是多算了1/3 就是实际只有2/3<br/>\n<br/>\n你们小同志以后不要犯这种明显的错误\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 3,
+      "discussion_count": 14,
+      "discussions": [
+        {
+          "id": "1177012",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-05-13",
+          "content": "笑死 Sixty Percent Smaller 是1/3还是2/3？"
+        },
+        {
+          "id": "1177013",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-05-13",
+          "content": "外交杂志大概不会用这种smaller的英文表达\n你给组织显眼没有后果么?"
+        },
+        {
+          "id": "1177014",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-05-13",
+          "content": "而且忘了说了 不是2/3而是 ”a true growth rate of 1% is reported as 1.35%“。\nhttps://pbs.twimg.com/media/FeAj8dKXoAQuXG-?format=png&name=large\n自己慢慢看。"
+        },
+        {
+          "id": "1177021",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-05-13",
+          "content": "增长率高估了1／3和GDP高估1／3差别挺大的"
+        },
+        {
+          "id": "1177027",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-05-13",
+          "content": "@rowlandheights: 增长率每年高估1/3，二十年下来GDP总量高估1/3也正常。"
+        },
+        {
+          "id": "1177033",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-05-13",
+          "content": "https://pincong.rocks/question/10531\n这是原始出处  用92到06年积累的数据 预测的增长57% 官方数据122%"
+        },
+        {
+          "id": "1177037",
+          "replier": {
+            "username": "矢作萌夏",
+            "uid": "29415"
+          },
+          "date": "2023-05-13",
+          "content": "@fb_china_today: 很显然Michael Owyang和luis martinez根本不是一个人，使用模型完全不同。"
+        },
+        {
+          "id": "1177038",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-05-13",
+          "content": "已删除"
+        },
+        {
+          "id": "1177039",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2023-05-13",
+          "content": "考考你们小同志数学题\n57/122 ~ 1/2\n你自己算算14年的差距是多少"
+        },
+        {
+          "id": "1177041",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-05-13",
+          "content": "@Meltdown:连续20年高估1/3？"
+        },
+        {
+          "id": "1177043",
+          "replier": {
+            "username": "世代更替还有20年",
+            "uid": "99866"
+          },
+          "date": "2023-05-13",
+          "content": "1/(1+1/3)=2/3？"
+        },
+        {
+          "id": "1177053",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-05-13",
+          "content": "@rowlandheights: 我看到的研究文章认为中国GDP年增速高估2-3%，譬如官方报10%，实际是7-8%。20年下来实际的GDP大约是官方GDP的2/3。"
+        },
+        {
+          "id": "1177060",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-05-13",
+          "content": "@Meltdown: 以往長期是多報2～3%，但習包子更多報了"
+        },
+        {
+          "id": "1177080",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-05-13",
+          "content": "没想到文化水平那么低"
+        }
+      ]
+    },
+    {
+      "id": "654933",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t通过民主国家的模型估算独裁国家听上去就是挺搞笑的一种操作，怕不过是哗众取宠拉政治票罢了\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655048",
+      "is_folded": false,
+      "answerer": {
+        "username": "朝鲜第一书记",
+        "uid": "110069"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前还经常听到用克强指数来判断真实GDP<br/>\n<br/>\n克强指数最早是《经济学人》提出的，源于李克强在2007年任职中共辽宁省委书记时，向当时来访的美国驻华大使雷德解释，用于分析当地经济状况的数据。他更喜欢通过全省铁路货运量、用电量和银行已放贷款量，作为指标因素来追踪辽宁经济变化，以挤掉统计数字的水分。<br/>\n<br/>\n后来随着李克强权力被架空，这个词好像消失了<br/>\n，\t\t</div>",
+      "date": "2023-05-14",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654955",
+      "is_folded": false,
+      "answerer": {
+        "username": "我送近平上西天",
+        "uid": "13149"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有一說一，第三產業和第一第二產業/房地產泡沫GDP的燈光量肯定是不同的<br/>\n<br/>\n一家工廠的燈光可能比不上10家餐館\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1177072",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-05-13",
+          "content": "这个有传递效应 有一家工厂能养活几百几千个工人 那么晚上多10，20个餐馆的灯光就很正常了"
+        },
+        {
+          "id": "1177213",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-05-14",
+          "content": "@Vinobianco:能传递多少，高科技行业需要的人工少，一个台积电产值是一个普通钢铁厂成百上千倍但员工数反而只有十分之一不到"
+        }
+      ]
+    },
+    {
+      "id": "654924",
+      "is_folded": false,
+      "answerer": {
+        "username": "维尼熊吃包子",
+        "uid": "96600"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t恕我直言，感觉扯淡。<br/>\n那相当于多报了百分之五十，这怎么可能。。。\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1177047",
+          "replier": {
+            "username": "斩首习近平",
+            "uid": "52179"
+          },
+          "date": "2023-05-13",
+          "content": "当然不是谎报了这么多，那么多出来的部分是啥，很明显那部分就是泡沫啊"
+        },
+        {
+          "id": "1177052",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2023-05-13",
+          "content": "空置房率相当高 很难理解么"
+        },
+        {
+          "id": "1177069",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-05-13",
+          "content": "@斩首习近平:哦，原来意思是泡沫大"
+        }
+      ]
+    },
+    {
+      "id": "654925",
+      "is_folded": false,
+      "answerer": {
+        "username": "negi",
+        "uid": "74403"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用谎言来反对坏人，只会丧失自己的正义性，我印象中这个id不是一次这么搞了。\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1177059",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-05-13",
+          "content": "怎麼確定是謊言的？"
+        }
+      ]
+    },
+    {
+      "id": "654930",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t俄爹及传声筒这些年一直把中国吹得跟花一样。习近平同志对这种超级大国的麻醉感上瘾了，戒不掉了。\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655043",
+      "is_folded": false,
+      "answerer": {
+        "username": "末世红尘客",
+        "uid": "74378"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要纠结GDP啦，那是忽悠独裁者的。<br/>\n<br/>\nGDP可以类比工地建筑规模，老板是西方人，把公司开到你家地盘而已，你说这财富大头是建筑工人的、包工头的，还是老板的？\t\t</div>",
+      "date": "2023-05-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655059",
+      "is_folded": false,
+      "answerer": {
+        "username": "大清已亡",
+        "uid": "95229"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t伟光正需要一个好看的数据，即使这个数据是假的。\t\t</div>",
+      "date": "2023-05-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654956",
+      "is_folded": true,
+      "answerer": {
+        "username": "arnaka",
+        "uid": "94816"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-05-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655047",
+      "is_folded": true,
+      "answerer": {
+        "username": "李老师的supervisor",
+        "uid": "50992"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-05-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

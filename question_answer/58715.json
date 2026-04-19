@@ -1,0 +1,65 @@
+{
+  "parent_type": "question",
+  "parent_id": "58715",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "658936",
+      "is_folded": false,
+      "answerer": {
+        "username": "喜欢吃蒸包子",
+        "uid": "110657"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最好把家人都转移出来，再谈游行的事情，争取把风险降到最低。\t\t</div>",
+      "date": "2023-05-29",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "658927",
+      "is_folded": false,
+      "answerer": {
+        "username": "精忠报国",
+        "uid": "111234"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你在美国政治庇护 国内的这帮傻狗知道？边控不可能这么严格\t\t</div>",
+      "date": "2023-05-29",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1180893",
+          "replier": {
+            "username": "小坏蛋",
+            "uid": "111887"
+          },
+          "date": "2023-05-29",
+          "content": "参加游行肯定要露面啊，怕露面被中共狗腿子盯上"
+        },
+        {
+          "id": "1180894",
+          "replier": {
+            "username": "精忠报国",
+            "uid": "111234"
+          },
+          "date": "2023-05-29",
+          "content": "我在国内都没事 乌鲁木齐那会抗议  最后只是警察驱逐分散开 严重的只是拘留"
+        }
+      ]
+    },
+    {
+      "id": "658934",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要你身边的人不出卖你，我不认为国内的有关部门会认真彻查每一个在海外参加反共活动的人，没那个资源也没那个必要<br/>\n<br/>\n但是你不露脸的话，能当作你反共的证据吗？我觉得这才是你应该操心的。\t\t</div>",
+      "date": "2023-05-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

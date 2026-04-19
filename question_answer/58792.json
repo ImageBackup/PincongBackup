@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "58792",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "659592",
+      "is_folded": false,
+      "answerer": {
+        "username": "庆丰包子的梦帝",
+        "uid": "1283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t把两件毫不相关的事情强行联系在一起，你也是够水的。\t\t</div>",
+      "date": "2023-06-01",
+      "agree_count": 5,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1181413",
+          "replier": {
+            "username": "斩首习近平",
+            "uid": "52179"
+          },
+          "date": "2023-06-01",
+          "content": "杀自己人来震慑美国也勉强说的通，哈哈"
+        },
+        {
+          "id": "1181418",
+          "replier": {
+            "username": "kme199331",
+            "uid": "111256"
+          },
+          "date": "2023-06-01",
+          "content": "品葱的初级反贼和油管上的低级反贼博主一样，喜欢跳跃性联想，美其名曰“幽默”"
+        }
+      ]
+    },
+    {
+      "id": "659609",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t找了半天为啥要极限思维，惊涛骇浪在哪里？原来又是习近平同志说笑话，不是说梦话啊？\t\t</div>",
+      "date": "2023-06-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

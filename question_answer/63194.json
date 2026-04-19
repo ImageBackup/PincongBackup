@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "63194",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "704426",
+      "is_folded": false,
+      "answerer": {
+        "username": "曹浩彬",
+        "uid": "117763"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只记得能改名，要花费1000游戏币，其他就不知道了。<br/>\n<br/>\n二十字二十字\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1224125",
+          "replier": {
+            "username": "总得说两句",
+            "uid": "112835"
+          },
+          "date": "2023-11-09",
+          "content": "谢谢"
+        }
+      ]
+    }
+  ]
+}

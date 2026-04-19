@@ -1,0 +1,82 @@
+{
+  "parent_type": "question",
+  "parent_id": "63935",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "712607",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我10年前就知道了，拿asus zenfone + google map + GPS 在江門看到的地理都是不準的，在蓬江區市仲裁委站可以漂到河對岸江海區，知乎也經常說這個，我聽說在國內用百度地圖和高德會很準，google maps不行<br/>\n<br/>\n這個沒啥用，美國衛星看得清清楚楚，衛星自動計算座標和經緯度，誤差很低，防自己人多於防美國<br/>\n<br/>\nGPS是準的，是地圖不準，如果用手機的exif記錄拍照時的GPS（jpeg有，不知道heic / heif有沒有這東西），是很準的，只是這個GPS映射到地圖上就錯了<br/>\n<br/>\nhttps://zh.wikipedia.org/zh-hk/中华人民共和国地理数据限制<br/>\n<br/>\n維基說沒有精確解，只能近似<br/>\n<br/>\n由於GCJ-02大量使用正弦函數製造高頻噪音，形成了一個超越方程，導致基本不可能獲得解析解。\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712606",
+      "is_folded": false,
+      "answerer": {
+        "username": "极权之下无产权",
+        "uid": "19340"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t哇哇哇，每个点都在一个小范围内随机震荡，人為添加50到500公尺不等的偏移，这个思路非常巧妙啊，国家上层的精英们真是太牛了！\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712608",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只能防住百姓，但百姓没有火箭，无必要。<br/>\n外国是防范目标，但外国有卫星侦查\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712612",
+      "is_folded": false,
+      "answerer": {
+        "username": "Shit进瓶",
+        "uid": "93874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这什么年代的旧闻，火星坐标的偏移算法早就被逆向了，oruxmaps这类专业户外地图都能纠偏，无语，反贼就是喜欢一惊一乍\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712616",
+      "is_folded": false,
+      "answerer": {
+        "username": "nyny",
+        "uid": "115318"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t軍用GPS衛星和民用的是不一樣的，中國的座標系統如何影響美國軍用衛星? 看不懂，有人科普一下嗎\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1232292",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-12-13",
+          "content": "對美國沒影響"
+        }
+      ]
+    }
+  ]
+}

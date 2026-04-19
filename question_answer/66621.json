@@ -1,0 +1,66 @@
+{
+  "parent_type": "question",
+  "parent_id": "66621",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "741301",
+      "is_folded": false,
+      "answerer": {
+        "username": "德州仪器",
+        "uid": "93127"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t猜想：如果这些书是毛时代出来的，那么就好理解了火起来的原因，到底是不是我懒得查证了。<br/>\n确定的观点：至于大洪水自保，绝大部分人没这个觉悟。\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1258259",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-04-17",
+          "content": "问题在于这套书中有很多知识是错的"
+        }
+      ]
+    },
+    {
+      "id": "741480",
+      "is_folded": false,
+      "answerer": {
+        "username": "下一回合",
+        "uid": "119291"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这几本我都有，翻印的，印刷粗劣，真看起来挺费劲的\t\t</div>",
+      "date": "2024-04-17",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1258276",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-04-17",
+          "content": "是的\n都是扫描版\n扫描得极其不清楚"
+        }
+      ]
+    },
+    {
+      "id": "741324",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t为了将来的全国军事化管理打基础，但最搞笑的是敌人根本就不存在\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

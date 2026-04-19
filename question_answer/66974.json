@@ -1,0 +1,130 @@
+{
+  "parent_type": "question",
+  "parent_id": "66974",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "744832",
+      "is_folded": false,
+      "answerer": {
+        "username": "小春日和",
+        "uid": "95566"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不止中國，所有國家所有公司都想得到你的數據，所以只能選擇危害最小的，這取決於你身在何處。不過基本上所有設備都準備兩臺然後儘量使用不同公司的服務比較好\t\t</div>",
+      "date": "2024-05-02",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1262018",
+          "replier": {
+            "username": "Deceiving4271",
+            "uid": "117645"
+          },
+          "date": "2024-05-02",
+          "content": "选择开源软件再适合不过了。"
+        }
+      ]
+    },
+    {
+      "id": "744811",
+      "is_folded": false,
+      "answerer": {
+        "username": "乌鸦",
+        "uid": "107558"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t求老哥推荐一款比较安全的电脑，或者哪种电脑适合改装系统\t\t</div>",
+      "date": "2024-05-02",
+      "agree_count": 0,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1262000",
+          "replier": {
+            "username": "Deceiving4271",
+            "uid": "117645"
+          },
+          "date": "2024-05-02",
+          "content": "https://telegra.ph/file/ad6889e87cc93324fa2b0.png"
+        },
+        {
+          "id": "1262001",
+          "replier": {
+            "username": "Deceiving4271",
+            "uid": "117645"
+          },
+          "date": "2024-05-02",
+          "content": "我认为自己组装的台式机最安全。具体你可以参考YouTube组装教程。"
+        },
+        {
+          "id": "1262010",
+          "replier": {
+            "username": "多倫多方脸",
+            "uid": "126422"
+          },
+          "date": "2024-05-02",
+          "content": "苹果的MacBook最安全"
+        },
+        {
+          "id": "1262019",
+          "replier": {
+            "username": "乌鸦",
+            "uid": "107558"
+          },
+          "date": "2024-05-02",
+          "content": "@多倫多方脸: MacBook 然后登美区吗？现在国内买的好像不能改IP地址了"
+        },
+        {
+          "id": "1262020",
+          "replier": {
+            "username": "乌鸦",
+            "uid": "107558"
+          },
+          "date": "2024-05-02",
+          "content": "@Deceiving4271:台式机不方便带走"
+        },
+        {
+          "id": "1262033",
+          "replier": {
+            "username": "Deceiving4271",
+            "uid": "117645"
+          },
+          "date": "2024-05-02",
+          "content": "@多倫多方脸:在安全上我的评价是和其他Linux系统差不多。"
+        }
+      ]
+    },
+    {
+      "id": "745463",
+      "is_folded": false,
+      "answerer": {
+        "username": "lambdadelta",
+        "uid": "125176"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t老哥你發的圖裏面的文章原文鏈接能發一下嗎\t\t</div>",
+      "date": "2024-05-05",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1262908",
+          "replier": {
+            "username": "Deceiving4271",
+            "uid": "117645"
+          },
+          "date": "2024-05-05",
+          "content": "已删除"
+        },
+        {
+          "id": "1262939",
+          "replier": {
+            "username": "lambdadelta",
+            "uid": "125176"
+          },
+          "date": "2024-05-05",
+          "content": "@Deceiving4271:老哥，怎麼我看是已刪除"
+        }
+      ]
+    }
+  ]
+}

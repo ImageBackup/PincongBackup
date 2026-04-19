@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "65649",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "730751",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t這很正常，牆內的apk版本和google play store上架版本不是同一版，play store有上架條款和規限的<br/>\n<br/>\n舉例，itunes（app store前身）和play的交友apps必需確保使用者是成年人，滿18歲，未成年禁止玩交友apps，違者下架\t\t</div>",
+      "date": "2024-02-28",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730764",
+      "is_folded": false,
+      "answerer": {
+        "username": "kiritokun",
+        "uid": "44964"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t海外版是这样的，而且界面什么的都比大陆版好得多，能用肯定是用海外版\t\t</div>",
+      "date": "2024-02-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730772",
+      "is_folded": false,
+      "answerer": {
+        "username": "罗比",
+        "uid": "26792"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tB站海外store可以下载的版本没有广告，但也没有打赏受赏和上传作品的功能，只能观看和评论\t\t</div>",
+      "date": "2024-02-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

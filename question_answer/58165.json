@@ -1,0 +1,389 @@
+{
+  "parent_type": "question",
+  "parent_id": "58165",
+  "answer_count": 18,
+  "answers": [
+    {
+      "id": "653681",
+      "is_folded": false,
+      "answerer": {
+        "username": "hydraxten",
+        "uid": "78237"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不知道你在哪里学习。如果是中国的话，数学本质上还是要靠记忆力和时间堆砌，而不是什么智商，需要依靠刷题积累相关经验，就连数学也能弄得像八股文一样，有特定格式和套路。有点像低端码农干的活，程序为了实现特定的目标，已经有了公认常用的代码了，只需要搜索一下就行。中国高中数学也是一样，本质上就是给你有限的工具，你需要做的只是识别需要达成的目标，再从刷题的经验库里搜索工具资源到目标实现的过程，具体的过程不需要你操心，而且反而没有时间允许你自己思考。你庞大的经验库和反应速度才是最重要的，这种苏式教育可能和计划经济的理念有关，要求你合理的调动现有的资源，而不是开拓新的市场。美国这边的话无论是计算量还是时间限制都没有那么严格，不过要求你发挥一定的联想能力，当然如果说只谈考试毕竟两国都是应试，本质上差不多，差别也是程度上的差别而已\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 9,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1175883",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-05-08",
+          "content": "那是因为你没有碰过怪题难题，所以以为所有题目都有固定套路的。"
+        },
+        {
+          "id": "1175885",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-05-08",
+          "content": "@lyyzandy:奥赛里怪题有的是，不过意义不大，顶多是智商筛选。极限论数学分析泛函分析一路走下去，做题什么的都是浮云，是不是真明白自己最清楚。"
+        },
+        {
+          "id": "1175899",
+          "replier": {
+            "username": "hydraxten",
+            "uid": "78237"
+          },
+          "date": "2023-05-08",
+          "content": "@lyyzandy:所以我才要强调程度上的差别，特征并不是绝对的。解题达人，中式教育要多少有多少，但是从来没人知道目前的出题能不能真正筛选出数学专业人才，很难通过解题来模拟数学探究的过程"
+        },
+        {
+          "id": "1176510",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-05-11",
+          "content": "@hydraxten:但是数学研究的根本不都是解题吗？你说哪个数学发现不是因为解开了某道题目呢？（当然我眼界太窄，可能有不是的）"
+        },
+        {
+          "id": "1176515",
+          "replier": {
+            "username": "hydraxten",
+            "uid": "78237"
+          },
+          "date": "2023-05-11",
+          "content": "@lyyzandy:是我有点没表达清楚，我的意思是。许多数学家获得的解决数学问题的能力，到底是否在本质上依靠着他曾经积累的解题经验获得的。\n也许培养一个数学家需要的能力是ABCD等等，数学家在解题时需要用到BC能力，而其他时间需要通过AD等能力找到灵感或者运用直觉整理无关的线索之类的。而数学教育只能把解题时的过程还原给学生，而且顺序还是逆序的，有很多正向思考时的细节和其他可能性无法还原，就像熵增定律，牙膏只能挤出来不能塞回去，房间不整理只会越住越乱。所以导致解题只能还原BC的一部分能力，而可能一个优秀的数学家需要ABCD多种能力缺一不可，而AD能力具体是什么都有哪些怎么培养也是很复杂的思考心理学问题，可能数学教育家本人都弄不清楚。\n总之我想说的是应试教育受到很多因素的制约和限制，主要是在表达和转换过程中的信息缺损，我个人相信好的教育还是尊重学生的好奇心和探索能力的自由教育，而不是应试教育"
+        },
+        {
+          "id": "1176516",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-05-11",
+          "content": "@hydraxten:我高中解数学题时，特别反感那种反复出现的题型。靠，一看题目就知道该怎么做的，没有什么挑战性。\n老实说我没看懂你说的ABCD。这种东西你只有举具体例子才能看得懂你想说什么。"
+        },
+        {
+          "id": "1176517",
+          "replier": {
+            "username": "hydraxten",
+            "uid": "78237"
+          },
+          "date": "2023-05-11",
+          "content": "@lyyzandy:我想说的就是这种举例子也难以解释的部分。我可以试着举一个并不完全解释清楚的例子：\n比如说，某个数学家在研究是通过A1能力找到了一个可能有研究价值的领域，又通过A2能力将这个领域的大部分问题翻译为了少数几个关键问题。然后又通过D1能力将自己知识领域里可能有用武之处的知识按照有用度大概排序，先使用更可能发挥作用的知识。然后着手开始用B能力解决问题，在他失败了9次之后的第10个思路奏效了，最后他使用C能力运用大量的数学经验和功底攻破了第10个思路的关键问题。然后整理一下相关思路之类的。这些个每一种能力都和他从小接受的独特的自由教育息息相关。\n一个做题家可能只需要用到B和C能力解决问题，当然其他能力可能也有用到，但是要求没那么高。而且更何况BC能力通过考试的锻炼可能和数学家本人有微妙的区别，根本无法通过考试复制出来\n你可能会对我例子里的细节反驳，比如说数学家研究的那几个功能没有明确定义，或者某些能力其实是相同的之类的。我想说我这个例子只是说明了主动研究和通过出题还原研究肯定是有区别的，某些区别很重要而且可能是应试教育的根本缺陷。\n还有解题并不完全是数学研究，你可以了解一下数学危机史，了解一下某些数学家是如何巧妙的构建定义和形式语言来破解数学危机的"
+        },
+        {
+          "id": "1176519",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-05-11",
+          "content": "@hydraxten:我好像明白了。但是如果你能举实例的话，我想我大概就能更明白了。"
+        }
+      ]
+    },
+    {
+      "id": "653647",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你的思想抽象程度不太高，数学方面走不太远。虽然微积分在牛顿莱布尼兹创建的时代有几何意义，但不用matllab根本无法想象稍微复杂一点的复合函数的微积分，不理解抽象概念，连现代数学的门槛都进不去。<br/>\n<br/>\n那数学这种东西理解不了就是理解不了，不要太在意。一般工科学生能照猫画虎把线性代数的题做对就够用了，不需要像高等代数一样严格论证，而且实际工作中各行各业都有自己的计算软件，除了编写图像引擎，AI算法之类的底层工作，数学知识也不太会用得上。\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 16,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653718",
+      "is_folded": false,
+      "answerer": {
+        "username": "ZhangWWCP",
+        "uid": "107850"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t数字是门纯看天赋的学科，没有天赋就正常学好了，学不好很正常\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653755",
+      "is_folded": false,
+      "answerer": {
+        "username": "WinnieThePooh",
+        "uid": "461"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t数学学不好主要是没遇到好老师 而且数学到了近代越来越抽象 学不好是正常的 建议多看外国相关的视频 至少对于理解是有帮助的\t\t</div>",
+      "date": "2023-05-09",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653729",
+      "is_folded": false,
+      "answerer": {
+        "username": "tinkywinky",
+        "uid": "5868"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t高中化学: 理想气体状态方程.<br/>\n<br/>\n　 pV = nRT 　 <br/>\n<br/>\n你要怎么用画图推演出理想气体状态方程式? (不记公式) 化学天才请示范给我看.<br/>\n<br/>\n<br/>\n<br/>\n數學裡也有幾何證明的方法, 比如 1+2+3+...+n = n(n+1)/2 的畫圖推演(幾何證明)如下:<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy8xLzFlL0FsaGF6ZW5TdW1tYXRpb24ucG5n\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://upload.wikimedia.org/wikipedia/commons/1/1e/AlhazenSummation.png\"><img alt=\"https://upload.wikimedia.org/wikipedia/commons/1/1e/AlhazenSummation.png\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/1/1e/AlhazenSummation.png\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-05-08",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1175916",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-05-09",
+          "content": "氣體方程可以在腦中想像大量分子隨溫度運動的模型"
+        },
+        {
+          "id": "1175918",
+          "replier": {
+            "username": "tinkywinky",
+            "uid": "5868"
+          },
+          "date": "2023-05-09",
+          "content": "@MasonQian:  原提問者說的是「画出来」推演，你把你的模型畫出來貼上來。"
+        }
+      ]
+    },
+    {
+      "id": "654443",
+      "is_folded": false,
+      "answerer": {
+        "username": "pimmaexya",
+        "uid": "107413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我在初中数学也还不错，大多数是公式定义去套，平面几何也不难，但是立体几何需要空间想象力，还有找规律的领悟能力，高中对于空间想象力差我的确实不是很友好\t\t</div>",
+      "date": "2023-05-11",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653643",
+      "is_folded": false,
+      "answerer": {
+        "username": "VyYxpU5oCezbWr",
+        "uid": "111251"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我不明白，如果是『背公式』來計算，這樣算是『學』數學嗎？<br/>\n<s>雖然Von Neumann講我們習慣數學而不是理解數學</s> </div>",
+      "date": "2023-05-08",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1175852",
+          "replier": {
+            "username": "小魔女",
+            "uid": "92406"
+          },
+          "date": "2023-05-08",
+          "content": "不背公式，级数展开和积分这种高等数学里最基础的运算，你要一个一个推导吗😄"
+        },
+        {
+          "id": "1175920",
+          "replier": {
+            "username": "VyYxpU5oCezbWr",
+            "uid": "111251"
+          },
+          "date": "2023-05-09",
+          "content": "@小魔女: 我所理解的『背』，是指未經思索，直接記憶。\n高等數學我不清楚，數學系由數學分析到泛函分析，從未試過『直接記憶公式』，所到之處都有推演。\n當然，若是做研究，無可能事事都求證，如你無需了解long exact sequence所有細節去學algebraic topology，即管用便是\n但淺層如初等微積分就直接記憶計算題目，不是個好習慣"
+        },
+        {
+          "id": "1175921",
+          "replier": {
+            "username": "windXforce",
+            "uid": "86160"
+          },
+          "date": "2023-05-09",
+          "content": "你们俩不要说的太极端...公式当然要背 但也不能闭着眼睛瞎背 至少要知道怎么来的  在什么情况下能用   最好能做到一个个都会推导啊"
+        },
+        {
+          "id": "1175922",
+          "replier": {
+            "username": "windXforce",
+            "uid": "86160"
+          },
+          "date": "2023-05-09",
+          "content": "然后他们又会说 你这样还怎么创新啊...还有数学的灵魂吗？ 没关系 反正就是扯淡抬扛呗"
+        }
+      ]
+    },
+    {
+      "id": "653710",
+      "is_folded": false,
+      "answerer": {
+        "username": "明日香",
+        "uid": "73965"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大部分情况下，背公式直接算就可以了，<br/>\n<br/>\n论证公式不是初中高中生应该去干的事情。<br/>\n<br/>\n刨根问底本身没有错，但是要结合自己的能力和当下的主要目标。\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653782",
+      "is_folded": false,
+      "answerer": {
+        "username": "xiaotouming",
+        "uid": "89115"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t证明你就是天生不擅长数学。跟记不记公式没关系。<br/>\n<br/>\n因为每个人都有自己擅长和不擅长的部分。我高中真的很努力的学化学，最后依然是一窍不通，考试得20多分，到现在都不理解化学公式。但是我其它科目都很好，尤其是数学，物理和地理，不需要多么努力学 成绩就很好。可是我为了补自己的短板，天天都在学化学 都快崩溃了。<br/>\n<br/>\n理念不理念的不重要，主要还是了解自己接受自己。\t\t</div>",
+      "date": "2023-05-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654371",
+      "is_folded": false,
+      "answerer": {
+        "username": "极权之下无产权",
+        "uid": "19340"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t加减乘除是没必要画几个苹果几个梨来想象的，但是比如积分求一个不规则图形的面积，把它想象成是一个个长度不一宽度无限小的薄片的叠加，挺好的啊。四维空间是怎样的，也是用从二维到三维是怎样的去想象。<br/>\n<br/>\n还是要具体看吧，比如鸡兔同笼，明明可以列方程，非要画线段去解，就很没必要还复杂。\t\t</div>",
+      "date": "2023-05-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654404",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我在中学学平面几何的成绩很好。但是一到立体几何，成绩就一落千丈。高等数学和微积分更是惨不忍睹。<br/>\n<br/>\n我觉得主要是头脑思维模式的不同。平面几何 如果你大脑很注重图形，那么学平面几何就还可以。但是到了微积分和立体几何，大脑没办法再直观的看到题目，需要在脑中构想。这就涉及到抽象思维。<br/>\n<br/>\n换言之，平面几何 大脑先看到图形再构想公式。而高等数学 是从公式 大脑去构想图形。这个过程做不好 是没办法学高等数学的\t\t</div>",
+      "date": "2023-05-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653720",
+      "is_folded": false,
+      "answerer": {
+        "username": "lxybjcn",
+        "uid": "98018"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t抽线思维的训练需要很早开始，最好的年纪是6岁之前。人的思维都有自己的舒适区，就是所说的思维惯性，这是慢慢形成的。早期儿童阶段注重培养的就是兴趣，一旦兴趣被成功引导，后续的思维习惯就会自己慢慢养成。然后到了小学阶段后期慢慢就会看出这种思维模式差异造成的理科能力的分化。很多人把这认为天赋，其实不完全正确。\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653749",
+      "is_folded": false,
+      "answerer": {
+        "username": "tkzsalks",
+        "uid": "111437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t教育方式方法问题，孩子个人理解与成人不同，按你自己想法不靠谱。\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653763",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t数学本来就是一个非常依赖智商的东西。。。确实不是那么好学的。比如你能不能在数学上证明，从焦点（p/2,  0）出发像任何方向发射的光线经过抛物线（y² = 2px）面反射之后，和 x 轴平行？\t\t</div>",
+      "date": "2023-05-09",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1175923",
+          "replier": {
+            "username": "windXforce",
+            "uid": "86160"
+          },
+          "date": "2023-05-09",
+          "content": "你无非就是想来秀优越吗？ 好吧你优越"
+        },
+        {
+          "id": "1176514",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-05-11",
+          "content": "大一微积分就能算出来"
+        }
+      ]
+    },
+    {
+      "id": "653764",
+      "is_folded": false,
+      "answerer": {
+        "username": "史上最强小学生",
+        "uid": "73513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t正常，不过应试教育阶段备好考点公式也够考试了。能够非常灵活的掌握高中后期到大学数学的那些东西，还能很好利用的话，那说明有相当的数学天赋了。\t\t</div>",
+      "date": "2023-05-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653766",
+      "is_folded": false,
+      "answerer": {
+        "username": "windXforce",
+        "uid": "86160"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个好像跟我们的教育体制有关吧  我是个loser 啥也没学会  但是就我个人的体验来讲 整个小学都在讲我知道的东西  也就是说 这还用你讲？老子知道的  但是如果你把它表现出来 你肯定会被拉出去罚站   哦 不对 英语当时是没有接触过的  虽然也就学那几个单词 但是确实是新东西   初中开始有一些新奇的东西出现 比如三角函数  但是老师专注讲的其实是解题 也就是这些条件 给你 然后拐几个弯  你还能找出正确答案  可是距离生活就越来越遥远  学你这些东西 除了考试能得分以外 实在没什么用   政治课就尤其如此了    上了高中那就更遥远了  还好那会儿还不讲微积分  就说数学课吧 我们班是数学老师当班主任  他是某村儿里考出来的  做题能力极强 非师范类数学专业...能来高中当老师  那也是找了关系的   但是他普通话说的很烂 他讲话我只能听懂一半 而且极其不舒服  我就记得 解析几何 数列 函数 ....每一种都是走马观花  他也不讲数学史  也就是人类对数学的认识  如何从结绳记事 一步步到解析几何 再到微积分  知道这些 也能更好的理解数学吧  但是这些对做题没有帮助 当然也就不讲了..后来听某些up主讲这些 我觉也很有趣   但是我也就听个乐 毕竟这些跟买菜做饭也没多大关系了啊 学了这些你也斗不赢 共惨党\t\t</div>",
+      "date": "2023-05-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653768",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国机械脑做题家擅长这些，还沾沾自喜。并不是智商高，会机械运算，创造力不行\t\t</div>",
+      "date": "2023-05-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653790",
+      "is_folded": false,
+      "answerer": {
+        "username": "勇敢面对",
+        "uid": "111362"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你基础差不可能懂，如果你真想学，我劝你先做几套模拟初中数学的试卷，95分以上才看懂高中内容， 不然过几天你就会忘了白学。<br/>\n如果初中数学考不到95分，说明根基薄弱，经不起风浪，学习高中数学举步维艰，\t\t</div>",
+      "date": "2023-05-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "parent_type": "question",
+  "parent_id": "61158",
+  "answer_count": 25,
+  "answers": [
+    {
+      "id": "682727",
+      "is_folded": false,
+      "answerer": {
+        "username": "legend2020",
+        "uid": "52363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t莫名其妙，引擎是引擎，游戏是游戏，为什么做游戏的一定要用自研引擎？两者分工完全不同好吗。“游戏开发”跟“游戏引擎开发”完全是两种业务。反之如果他是一个专注搞引擎的公司，那肯定要把这个引擎推给其他团队用，自己专注做维护，哪有资源做游戏开发？<br/>\n<br/>\n如果某大中型公司有专门的引擎团队，那大部分情况也仅限于对内维护已有的引擎代码（至于这个代码是开源的、买来的还是偷来的就是另一码事了）服务业务部门。但是一个以游戏为主营业务的公司很少会转而从事游戏引擎业务。<br/>\n<br/>\n绝大部分草根游戏开发团队，凑齐策划+程序+美工的最小组合都难。《杀戮尖塔》也才两个人（程序+美工）。即使游科这样的团队，也是靠风投续命的，能坚持下去迭代游戏进度就很不易了，怎么可能搞一个自研3d引擎出来，开玩笑么\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 9,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1202613",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-08-24",
+          "content": "所以游戏本身怎么样算不算突破？国内有朋友说是PPT公司Demo 游戏。"
+        },
+        {
+          "id": "1202616",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-08-24",
+          "content": "有日本手游公司转型开发engine去了"
+        },
+        {
+          "id": "1202633",
+          "replier": {
+            "username": "legend2020",
+            "uid": "52363"
+          },
+          "date": "2023-08-24",
+          "content": "@加速师本人:游戏看起来不错，但是之前有新闻说嫌弃效果不佳重做了一次，这种事是软件开发的大忌。我感觉开发周期太长，有很大概率要烂尾"
+        }
+      ]
+    },
+    {
+      "id": "682672",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看名字我就知道，“爱国”的名义已经足以让一群没有独立思考能力的人抱着它转了，通过他们可以一个新的炒作成功。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 8,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1202570",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-08-24",
+          "content": "@打倒匪帮:在哪？"
+        },
+        {
+          "id": "1202573",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-08-24",
+          "content": "@打倒匪帮:流氓无产者是这样的"
+        }
+      ]
+    },
+    {
+      "id": "682737",
+      "is_folded": false,
+      "answerer": {
+        "username": "同人志",
+        "uid": "22020"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这不能说明什么，市面上有不少3a公司的作品用的都不是自家引擎，弄自家引擎要砸更多的钱我想这是常识<br/>\n<br/>\n至少科隆的试玩表现得还不错，在动作衔接和画面肯定是有3a的规格了，至于游戏关卡和任务设计的水平还得看成品，前者可以靠钱砸出来，后者就非常困难了。<br/>\n<br/>\n而且中国特别缺少单机游戏开发的积累，你国在世界上也没多少低成本单机游戏是比较出名的<br/>\n<br/>\n像俄罗斯上半年也出了个3a，画面不错但玩起来问题就很大。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 6,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1202649",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-08-24",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "682679",
+      "is_folded": false,
+      "answerer": {
+        "username": "剑心",
+        "uid": "2533"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t民族主义汹涌的年代就是这样啊，只有宣扬民族主义才能利益最大化，看看这几年国产手机，国产电动车，国产ssd，国产系统，国产电影，国产自媒体，甚至连音乐都得加几句京剧腔，凡是打着民族旗号的无不赚的盆满钵满，游戏能例外？要明白公知十年前就被打倒了，现在是司马南，张维维们的天下。在一个满是义和团的国家，最好卖的是大刀，不是洋火。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 10,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682691",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t虽然看不惯国产游戏吹，但老老实实做大开发投入的单机游戏，总比克金手游好吧。<br/>\n<br/>\n而且要喷，喷引擎也没什么道理。玩游戏又不是玩引擎，虽然我喜欢的doom，生化鬼泣，合金装备都是自研引擎，但好玩的还是游戏本身。<br/>\n<br/>\nPS 查了一下，虚幻引擎的大作我还真不太喜欢，比如FF7重制，王国之心3，战争装备5，堡垒之夜啥的。不过不喜欢也跟引擎无关，单纯是游戏性不对路，通关一遍就没重玩价值了。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1202615",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2023-08-24",
+          "content": "氪金手游真的太傻逼了"
+        }
+      ]
+    },
+    {
+      "id": "682739",
+      "is_folded": false,
+      "answerer": {
+        "username": "亲自宽衣",
+        "uid": "29336"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就是个黑魂类（目前来看比较像只狼）打了mod的大型DLC，还拖了7，8年，逼里逼里和贴吧各种造势，有个阿婆主发了一个什么终于不用在设置里打开简体中文直接进游戏就可以玩了，评论区一片哭天喊娘的，典中点的是，这个阿婆主视频配的BGM是英文歌，老中壬进化到今天这个局面，真的是无法评价！\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682752",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那我可不可以说，只要不是c++ java的创始国，做出任何软件都是垃圾呢？\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682746",
+      "is_folded": false,
+      "answerer": {
+        "username": "禁评一世熊",
+        "uid": "103456"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t问题是以前真没有过啥国产3A大作吧，这游戏虽然放到世界范围内没啥，可在国产领域真是开创性的。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682713",
+      "is_folded": false,
+      "answerer": {
+        "username": "共同赴狱",
+        "uid": "76174"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用别人的引擎，想把游戏做好也很困难，黑神话的这次公开呈现比许多人的预期要好，不少人觉得一个新组，又是中国的，就抱着低预期，结果做出的东西比预想的好；这个游戏是有不少其他游戏的影子，但这就是文化对人的影响，比如刺客信条新作如果出个中国背景的，哪怕玩法都是旧的，也会有许多中国人愿意玩。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682749",
+      "is_folded": false,
+      "answerer": {
+        "username": "關文虎",
+        "uid": "91325"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我覺得感覺好像很神，如果出我一定買，不管哪國不哪國，玩遊戲就跟看A片差不多，盡量不要讓噁心的民族主義口水影響判斷!~~<br/>\n<br/>\n玩，就是為了樂，好玩自然評價高，難玩就低，是驢是馬，等這個遊戲出來遛遛。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682795",
+      "is_folded": false,
+      "answerer": {
+        "username": "pjifodahnui",
+        "uid": "115446"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别无脑黑，即使很多真正的3A大作也和黑神话一样用的是虚幻引擎。<br/>\n<br/>\n不过国内遍地手游快餐捞钱，能出一个还不错的游戏还是值得鼓励的。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682728",
+      "is_folded": false,
+      "answerer": {
+        "username": "valengosu",
+        "uid": "106812"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为人的潜意识会有意无意暴露他们的真实想法 比如一边骂加拿大又穷又破 一边说我是vpn伪装加拿大<br/>\n背后的原因是他潜意识否认不了加拿大人比他们高贵<br/>\n<br/>\n黑神话也一样 甚至都不是中规中矩的3A 中国人却为他们的突破自豪兴奋 只能说明他们潜意识也知道中国够烂\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682723",
+      "is_folded": false,
+      "answerer": {
+        "username": "北京FC",
+        "uid": "89726"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有没有用自研引擎，从来也不是评判游戏的标准吧。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682716",
+      "is_folded": false,
+      "answerer": {
+        "username": "矫枉必须过正",
+        "uid": "36965"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怎么，赛尔达也没有自研，是用的哈沃克物理引擎，还是不妨碍吹上天啊。<br/>\n游戏还是看它本身做得好不好玩，是否对行业有启发性。<br/>\n这游戏没出来之前我是不会下什么定论的。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682780",
+      "is_folded": false,
+      "answerer": {
+        "username": "badistuta6",
+        "uid": "73535"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看到魂LIKE就吐了，西游记齐天大圣你玩个毛的魂LIKE，跟暗黑血统3一个样，分不清主次。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1202670",
+          "replier": {
+            "username": "Cheney",
+            "uid": "92254"
+          },
+          "date": "2023-08-24",
+          "content": "看遊戲裡的設定好像不是大聖本人出場的樣子（也有可能是我搞錯了"
+        },
+        {
+          "id": "1202674",
+          "replier": {
+            "username": "badistuta6",
+            "uid": "73535"
+          },
+          "date": "2023-08-24",
+          "content": "@Cheney:等游戏本体出了就知道，魂LIKE游戏玩完艾尔登法环后是彻底审美疲劳不想碰。"
+        },
+        {
+          "id": "1202678",
+          "replier": {
+            "username": "Cheney",
+            "uid": "92254"
+          },
+          "date": "2023-08-24",
+          "content": "@badistuta6:這倒是"
+        }
+      ]
+    },
+    {
+      "id": "682810",
+      "is_folded": false,
+      "answerer": {
+        "username": "stop111",
+        "uid": "107571"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要是靠着国产营销的都是垃圾，这垃圾游戏免费给我玩都懒得玩，国产的尿性那么多例子居然还有人对它们抱有期望，我巴不得它们都死\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682790",
+      "is_folded": false,
+      "answerer": {
+        "username": "suiyuan",
+        "uid": "115817"
+      },
+      "contents": "<div class=\"markitup-box\">\n<b>自发引擎</b> 你要了解什么是自发 现在引擎是有框架的 大型3A都大差不差 有内部人士说他的框架是抄的对马岛之魂 风格模式“模仿”只狼  就像是我临摹了一幅AI制图的画 没人见过这幅画 我画的还不错 但我说我是原创 你如何应对啊？\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682807",
+      "is_folded": false,
+      "answerer": {
+        "username": "androider",
+        "uid": "115745"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一个优秀的厨师，会因为用的食材不是自己种的或养的，就被否认吗？\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682767",
+      "is_folded": false,
+      "answerer": {
+        "username": "d29C",
+        "uid": "101586"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t游戏具体如何要上手玩了之后才能评，现在不好说，但就目前看到的我感觉挺尴尬的。<br/>\n一方面美术是缝合怪，下限不会低，毕竟借鉴了成功的先例，但上限也不会高，毕竟都是别人玩剩下的。<br/>\n另一方面，策划文案看得我想呕吐。看得出来走的是黑深残+谜语人的路子。问题是要内涵没内涵，要底蕴没底蕴，要表达没表达。全是那种类似个人体验的发泄的东西，两个字概括叫：刻奇。偶尔玩一点特别低级的文字游戏，半文半白四不像，和之前那什么《罗刹海市》一路货色的东西。关键墙国巨婴还就吃这套，觉得这才叫艺术。那个制作人各种迷惑发言，喜欢挑战自我的葱油可以去看看，尴尬到爆。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1202650",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-08-24",
+          "content": "75后喜欢的风格"
+        }
+      ]
+    },
+    {
+      "id": "682803",
+      "is_folded": false,
+      "answerer": {
+        "username": "敏感字敏感字",
+        "uid": "114032"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t都是拿着父母搬砖和卖逼钱交网费上网的铁头学生娃在尬吹罢了。 都没经历过血狮的年代。制作组几年前用CG上p上UI伪装游戏实机画饼，后来被人怀疑后面放出的CG故意就抽帧处理，加强了伪装，几年后终于做出了这点内容，总体还算理想，总之目的还是吸引投资，如果投资不理想，明年夏天也可能出不来，或者远低于预期，最终吹上天也还是平庸之作，大约7.5/10的样子。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1202687",
+          "replier": {
+            "username": "同人志",
+            "uid": "22020"
+          },
+          "date": "2023-08-24",
+          "content": "前车之鉴就是原子之心，画面好看，动作衔接也可以，怎么看都是3a游戏了，但玩起来就是个平庸作品。"
+        }
+      ]
+    },
+    {
+      "id": "682813",
+      "is_folded": false,
+      "answerer": {
+        "username": "a_bc",
+        "uid": "112501"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t营销拉满，甚至铺垫好几年。最近玩的&lt;卧龙&gt;,已然不太行了，三国题材代入感按理说比西游强，结果还是发现这类游戏没意思了，讲故事能力不如fromsoft。如果弄出个比不上甚至是比得上&lt;法环&gt;的魂like，我都是不买账了。爱国与营销完全是负分项。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682665",
+      "is_folded": false,
+      "answerer": {
+        "username": "The19890604",
+        "uid": "46798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t除了任天堂我不覺得有什麼遊戲公司能做到真正的創新，我說的是那種前無古人的那種創新。<br/>\n<br/>\n不過光是能把上古冷飯炒好就已經超越99%遊戲了，在等機戰傭兵6。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682673",
+      "is_folded": false,
+      "answerer": {
+        "username": "S700N",
+        "uid": "75716"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t相对于某某剑等其它中国游戏，现在吹一下不过分。<br/>\n吹死婊活的可能性也是有的，游戏玩家不怎么吃爱国牌这一套。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682697",
+      "is_folded": false,
+      "answerer": {
+        "username": "costen",
+        "uid": "99405"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就是一个拿视频画饼公司，游戏开发6年了，运气好下一个2077，不好公司就没了\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1202591",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2023-08-24",
+          "content": "看来比米哈游敬业"
+        }
+      ]
+    },
+    {
+      "id": "682769",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很久没关注这个游戏了，怎么又出来炒作了？<br/>\n<br/>\n什么狗屁3a……就他们那个水平，不说其他的，外包给其他公司做的看着都很差。又是抄只狼。这么外包➕抄袭能做好就怪了。\t\t</div>",
+      "date": "2023-08-24",
+      "agree_count": 0,
+      "discussion_count": 10,
+      "discussions": [
+        {
+          "id": "1202644",
+          "replier": {
+            "username": "同人志",
+            "uid": "22020"
+          },
+          "date": "2023-08-24",
+          "content": "具体哪里抄袭？"
+        },
+        {
+          "id": "1202645",
+          "replier": {
+            "username": "同人志",
+            "uid": "22020"
+          },
+          "date": "2023-08-24",
+          "content": "水平？你指哪方面？"
+        },
+        {
+          "id": "1202655",
+          "replier": {
+            "username": "zhengyi",
+            "uid": "1766"
+          },
+          "date": "2023-08-24",
+          "content": "@同人志:哪里抄袭？应该说哪里不是抄袭吧！动作视角 游戏流程，怪物造型"
+        },
+        {
+          "id": "1202656",
+          "replier": {
+            "username": "zhengyi",
+            "uid": "1766"
+          },
+          "date": "2023-08-24",
+          "content": "@同人志:你看过那些外包的boss建模没有？丑的一笔"
+        },
+        {
+          "id": "1202659",
+          "replier": {
+            "username": "同人志",
+            "uid": "22020"
+          },
+          "date": "2023-08-24",
+          "content": "@zhengyi:你自己提出论点，拿不出来反而要别人帮你证明，你自己不觉得搞笑吗？"
+        },
+        {
+          "id": "1202660",
+          "replier": {
+            "username": "同人志",
+            "uid": "22020"
+          },
+          "date": "2023-08-24",
+          "content": "已删除"
+        },
+        {
+          "id": "1202666",
+          "replier": {
+            "username": "同人志",
+            "uid": "22020"
+          },
+          "date": "2023-08-24",
+          "content": "@zhengyi:我自己就接触这种3d项目，至少在我看来他们的外包水准确实很强，各种细节都做的挺到位，比如毛发皮肤质感，以及衣服细节那些都是挺扣时间"
+        },
+        {
+          "id": "1202672",
+          "replier": {
+            "username": "同人志",
+            "uid": "22020"
+          },
+          "date": "2023-08-24",
+          "content": "@zhengyi:\n你说游戏流程抄袭？\n哪方面？指的是打开游戏然后主角走过个地图，然后通关就算抄吗？\n篝火机制？其实不止魂，仁王和星球大战绝地都弄过，还有一些我记不起名字的独立游戏，那他们也算“抄袭”？\n这在千禧年都被讨论烂的玩意，如果不是素材明确挪用，或者某些游戏技术专利，只是抄个游戏流程和玩法机制连告官司都困难，因为九十年代后就没有人能做出“彻底不一样”的游戏了"
+        },
+        {
+          "id": "1202675",
+          "replier": {
+            "username": "同人志",
+            "uid": "22020"
+          },
+          "date": "2023-08-24",
+          "content": "@zhengyi:\n动作视角都能拿出来说，这更搞笑了。\n这段话要是截图做成meme绝对能成为单机圈的典中典。"
+        },
+        {
+          "id": "1202682",
+          "replier": {
+            "username": "XEtri31_",
+            "uid": "112272"
+          },
+          "date": "2023-08-24",
+          "content": "经典抄只狼,你们这些人眼里万物起源不是只狼就是黑魂,要么就是原神."
+        }
+      ]
+    }
+  ]
+}

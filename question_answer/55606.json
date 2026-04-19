@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "55606",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "625234",
+      "is_folded": false,
+      "answerer": {
+        "username": "TIAN_KUAI_HUO",
+        "uid": "88301"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为本就不是人口密度影响经济吧<br/>\n<br/>\n我猜测更可靠的说法是经济影响人口密度，谁不想搬去经济更发达的地方呢\t\t</div>",
+      "date": "2023-01-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "625233",
+      "is_folded": false,
+      "answerer": {
+        "username": "种族社会共产主义",
+        "uid": "102603"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t共产党的地区政策，不发达的地区给发达地区输血，逼着人们往大城市跑\t\t</div>",
+      "date": "2023-01-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "article_id": "54636",
+  "category_id": "4",
+  "title": "在大陆用远端桌面方式登陆浏览海外网站以完全绕过共匪防火长城",
+  "meta_description": "在大陆用远端桌面方式登陆浏览海外网站以完全绕过共匪防火长城 - 今天看到有人介绍在大陆用微软视窗电脑的远端桌面Remote Desktop 方式连接海外电脑然后上网尽情浏览海外网页并完全不必忌讳共匪的防火墙及监控：[url=https://www.wenxuecity.com/blog/202302/13923/858...",
+  "meta_keywords": "大陆,远端,桌面,方式,登陆,浏览,海外,网站,完全,绕过,共匪,防火,长城",
+  "tags": [
+    {
+      "id": "163",
+      "name": "中国"
+    },
+    {
+      "id": "606",
+      "name": "防火长城"
+    },
+    {
+      "id": "103869",
+      "name": "远程桌面"
+    }
+  ],
+  "author": {
+    "username": "grantyang",
+    "uid": "6190"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t今天看到有人介绍在大陆用微软视窗电脑的远端桌面Remote Desktop 方式连接海外电脑然后上网尽情浏览海外网页并完全不必忌讳共匪的防火墙及监控：<a href=\"url/link/aHR0cHM6Ly93d3cud2VueHVlY2l0eS5jb20vYmxvZy8yMDIzMDIvMTM5MjMvODU4Mi5odG1s\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.wenxuecity.com/blog/202302/13923/8582.html\">https://www.wenxuecity.com/blog/202302/13923/8582.html</a>， 但事实上一般的远端桌面连接都有这类安全绕过防火墙的功能，比方Google 免费的<a href=\"url/link/aHR0cHM6Ly9yZW1vdGVkZXNrdG9wLmdvb2dsZS5jb20v\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://remotedesktop.google.com/\">Chrome Remote Desktop</a> 及（有免费版的）第三方的程序<a href=\"url/link/aHR0cHM6Ly93d3cuYW55dmlld2VyLmNvbS8\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.anyviewer.com/\">Anyvewer</a>：<a href=\"url/link/aHR0cHM6Ly93d3cuYW55dmlld2VyLmNvbS9ob3ctdG8vY2hyb21lLXJlbW90ZS1kZXNrdG9wLXRpbWVvdXQtMjU3OC5odG1sIzp.OnRleHQ9V2UlMjBhbGwlMjBrbm93JTIwdGhhdCUyMHRoZXJlLHdoaWNoJTIwZXhwaXJlcyUyMGluJTIwNSUyMG1pbnV0ZXMu\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.anyviewer.com/how-to/chrome-remote-desktop-timeout-2578.html#:~:text=We%20all%20know%20that%20there,which%20expires%20in%205%20minutes.\">https://www.anyviewer.com/how-to/chrome-remote-desktop-timeout-2578.html#:~:text=We%20all%20know%20that%20there,which%20expires%20in%205%20minutes.</a> 另外一般企业用的Tea<a href=\"url/link/aHR0cHM6Ly93d3cudGVhbXZpZXdlci5jb20vZW4tYXUv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.teamviewer.com/en-au/\">mViewer</a>等等都行。缺点是这些都需要在海外有一个电脑供你从大陆匪区向其连接。我就帮人从美国向澳洲的苹果电脑连接过：在美国的苹果手机可远程连接到澳洲苹果电脑上的Google Chrome Remote Desktop从而用手机操纵该苹果电脑进行各种操作包括浏览网页。这种操作由于是用程序间的私有通讯规程进行所以共匪的防火长城等等监控系统根本探测不到你的内容也无法限制你访问任何网页。<br/>\n<br/>\r\n参见：<br/>\n<a href=\"https://pincong.rocks/article/61054\" title=\"https://pincong.rocks/article/61054\"><b>制造推翻共匪自动播放扬声器 —— 彭立发喇叭</b></a> </div>",
+  "view_count": 25001,
+  "date": "2023-02-09",
+  "agree_count": 8,
+  "comment_count": 36
+}

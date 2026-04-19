@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "62869",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "701179",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tB站有tts语音合成教程，你自己合成一个打包音源导入变声软件就行。<br/>\n<br/>\n先剪辑李克强声音然后tts合成出音源然后倒入变声器就这么简单。\t\t</div>",
+      "date": "2023-10-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

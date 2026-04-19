@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "66892",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "743914",
+      "is_folded": false,
+      "answerer": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你的VPN或机场姓共了！<br/>\n<br/>\n“那些愿意放弃自由来换取保障的人，最后既得不到保障，也不会有自由” - 哈耶克\t\t</div>",
+      "date": "2024-04-27",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744237",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也有遇到过，虽然持续时间很短。如果当时是HTTPS访问，那可能是品葱的问题或遭到Denial-of-Service攻击。<br/>\n<pre>https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status#%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%94%99%E8%AF%AF%E5%93%8D%E5%BA%94</pre><br/>\n虽然rfc2616里面定义了，但是实现不一定会遵循。等等看管理员怎么说。\t\t</div>",
+      "date": "2024-04-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

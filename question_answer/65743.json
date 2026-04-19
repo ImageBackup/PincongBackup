@@ -1,0 +1,150 @@
+{
+  "parent_type": "question",
+  "parent_id": "65743",
+  "answer_count": 11,
+  "answers": [
+    {
+      "id": "731771",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t说实话，如果你没有用任何大陆手机号码注册国外网站，或者接受过国外的注册码，那么使用最新协议的安全性还是有的，毕竟现在的最新协议都是混淆的https流量，掺杂在大部队中，要认出你还是需要花费不小的代价的。<br/>\n注意这里是花费的代价很大，并非不能锁定，根据你在国外的发言时间和内容，锁定你的省市，并排查这一时间段内的访问流量，再安排人工排查，是完全有可能找出你的。\t\t</div>",
+      "date": "2024-03-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731836",
+      "is_folded": false,
+      "answerer": {
+        "username": "fft2000",
+        "uid": "87644"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t发表反对言论一般没事<br/>\n如果嚷嚷着何时何地去聚集造反杀人，那肯定要逮你了<br/>\n<br/>\n警哥回家也翻墙刷推特，看电报撸管呢\t\t</div>",
+      "date": "2024-03-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731803",
+      "is_folded": false,
+      "answerer": {
+        "username": "niu111",
+        "uid": "123430"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t手机翻墙安全吗？我从来没用过手机翻墙，都是用电脑，感觉好像安全点，不会被发现。\t\t</div>",
+      "date": "2024-03-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "733969",
+      "is_folded": false,
+      "answerer": {
+        "username": "yuki2018",
+        "uid": "126081"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果用一些國外品牌想谷歌pixel這種相對比較安全而且不受中共的管控只要不安裝任何牆內國產軟件，建議大家平時專門準備兩台手機一台國產專門用牆內軟件，一台pixel專門翻牆，而且像一些推特之類的平台的用戶名和頭像都不要和國內平台有一點點的相似，一般很多被喝茶的網友一般都是用了國產手機被自動上報，還有一些用戶名被開盒的。建議準備一張國外的手機卡專門注冊國外平台\t\t</div>",
+      "date": "2024-03-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "732205",
+      "is_folded": false,
+      "answerer": {
+        "username": "JoeGonzales",
+        "uid": "112521"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想要最高等级的安全就别用手机，用电脑。<br/>\n<br/>\n说几个缺点（对于高安全级别），就当参考了<br/>\n<br/>\n1、操作系统有问题：苹果公司毕竟在中国业务比较多，要是中共向苹果公司施压有可能会被卖了<br/>\n2、输入法：别用国产输入法，用开源的（虽然不太好用）<br/>\n3、国产软件问题：国产软件是会读取应用列表的，有些也会读取剪切板<br/>\n4、自建梯子有时反而更不安全：翻墙后使用的网站会记录IP地址，这个地址一般是代理服务器的地址。要是中共通过内鬼或其他方式拿到了IP记录，就能找到你的服务器。只有一个人的流量会使用这台服务器，猜猜是谁？没错，就是你。正确的方式是买信得过的梯子（比如迷雾通、国外的梯子等等），再通过梯子访问国外的VPN服务（Proton家有免费的VPN），这样套两层就比较安全了，速度也可以接受。当然，最安全的方式肯定是Tor，但它慢，无法达到日常使用的需求<br/>\n<br/>\n至于你问的手机卡问题，还真不太影响你的安全，因为手机卡的缺点一般只有在需要高安全级别时才会暴露出来。一般追查翻墙都是通过梯子服务商找到“实名”翻墙的，比如直接用手记号、qq号注册的，很少从流量层面查。\t\t</div>",
+      "date": "2024-03-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731767",
+      "is_folded": false,
+      "answerer": {
+        "username": "可莉",
+        "uid": "125449"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你只要用了中国大陆的软件app，有了信息交换，你的信息就不是绝对稳，推荐你删掉微信什么的大陆app换Telegram这类的加密聊天软件。<br/>\n我有个朋友，在香港就是用的大陆的微信，被监控了，人就被抓走了，用的是美国产的iphone11，和sim卡\t\t</div>",
+      "date": "2024-03-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731772",
+      "is_folded": false,
+      "answerer": {
+        "username": "functional",
+        "uid": "112730"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t手机有编号，手机发送的报文中包含这个编号。水货手机则没有编号，不过用这种手机在国外非法。不要以为换了卡就无法认出你来。另外，你如果用这个电话打过熟人的话，人家你的熟人也能找到你。一句话，手机的被追踪性非常好，不是一种适合业余人士干地下活动的工具。\t\t</div>",
+      "date": "2024-03-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731777",
+      "is_folded": false,
+      "answerer": {
+        "username": "长白云之乡",
+        "uid": "125341"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t涉及到政治的言論一定要通過Tor洋蔥路由發聲，不然黑皮有可能找你喝茶。\t\t</div>",
+      "date": "2024-03-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731797",
+      "is_folded": false,
+      "answerer": {
+        "username": "Punchit",
+        "uid": "79254"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国行不好的地方是功能有阉割和默认云端资料存储云上贵州。不用iCloud，不在意阉割掉的功能，国行和外版iPhone的安全性基本没有差别。<br/>\n<br/>\n手机卡不会影响翻墙的安全性。相比之下，手机同时安装微信等墙内软件和使用不安全的输入法，导致IP或DNS泄漏影响更大。手机没有防火墙控制，网络的个性化设置没有电脑细致。对安全性要求高还是用电脑吧，，\t\t</div>",
+      "date": "2024-03-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731800",
+      "is_folded": false,
+      "answerer": {
+        "username": "中華聯邦共和國",
+        "uid": "20514"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t多学点网络知识，现在都是加密通讯，只知道你上了什么网站，你发什么内容是不知道的。\t\t</div>",
+      "date": "2024-03-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "731806",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你把13賣了，添點錢買15，就有esim<br/>\n。。。。。。。\t\t</div>",
+      "date": "2024-03-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

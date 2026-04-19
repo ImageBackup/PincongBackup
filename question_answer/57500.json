@@ -1,0 +1,59 @@
+{
+  "parent_type": "question",
+  "parent_id": "57500",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "646832",
+      "is_folded": false,
+      "answerer": {
+        "username": "徐谷雨",
+        "uid": "95064"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国人的记性是很差的，受了三年的苦几个月就给忘光了\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646836",
+      "is_folded": false,
+      "answerer": {
+        "username": "Antonov一500",
+        "uid": "73460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就是因爲記性如此的差，所以才會一遍一遍重複\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646824",
+      "is_folded": false,
+      "answerer": {
+        "username": "有一说一",
+        "uid": "77887"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人太多了，景点挤得水泄不通，很多小吃店排队几小时，本地人被烦死了\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "646829",
+      "is_folded": false,
+      "answerer": {
+        "username": "Satyagraha",
+        "uid": "109241"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t包子及其党羽构建的谎言体系，在逐步的塌陷和崩溃之中，当然，他们也在构建新的谎言体系\t\t</div>",
+      "date": "2023-04-09",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

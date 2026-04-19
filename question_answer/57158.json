@@ -1,0 +1,117 @@
+{
+  "parent_type": "question",
+  "parent_id": "57158",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "643605",
+      "is_folded": false,
+      "answerer": {
+        "username": "yuta08",
+        "uid": "47016"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其實，根據不少人的推論，你現在所處的世界就是一個虛擬的世界。所以AI以假亂真讓你以為身在虛擬世界是沒什麼不可能的。我還記得我第一次接觸到網路的震憾，那時用的還是2400bps的數據機。但是光寄封信到美國只要幾秒鐘這件事已讓當時的我久久不能自己。科技進步的很快，也許像一級玩家裡的那樣的人同時活在虛擬世界與現實世界，虛擬世界破產，人也會跟著走上絕路這種事會在現實發生。\t\t</div>",
+      "date": "2023-03-28",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1166448",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-03-28",
+          "content": "那时候不已经有长途电话和卫星直播了吗？为何寄一封信也要激动？"
+        },
+        {
+          "id": "1167252",
+          "replier": {
+            "username": "daxuesheng",
+            "uid": "14137"
+          },
+          "date": "2023-04-01",
+          "content": "@elsaanna 因为电子邮件可以写正式内容、长篇大论，还可以邮件列表群发，收到以后可以保存、打印、转发。那时候就用网络的人主要都是进行商务、学术往来的。你设想一下你需要知道学界最新的论文，人家转发一个邮件就可以，谁有功夫和钱财在国际长途电话里把一篇论文读完。"
+        }
+      ]
+    },
+    {
+      "id": "642953",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有专门的AI用来识别AI生成的东西，其中隐藏着人类难以察觉的痕迹。所以说，战斗在这条赛道为红色血脉忽悠低端人口做奴隶的蛆们还是找一家工厂上班，或者贿赂当地的城管，摆地摊去吧！\t\t</div>",
+      "date": "2023-03-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "643650",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t眼见为实的前提是亲眼见到事情发生，而不是亲眼见到图片。暗房技术和照相技术是同步发展的，跟什么PS AI没直接关系。都只是环境证据而已。\t\t</div>",
+      "date": "2023-03-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "644697",
+      "is_folded": false,
+      "answerer": {
+        "username": "小春日和",
+        "uid": "95566"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t眼見爲實本來就是個僞命題，首先眼見看到的景象投射到網膜時是倒映的，我們的大腦在這時已經做過修正了。最重要的是，你唯一能證明真實的只有我事故我在\t\t</div>",
+      "date": "2023-04-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642944",
+      "is_folded": false,
+      "answerer": {
+        "username": "timing2023",
+        "uid": "107681"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t乱花渐欲迷人眼。你这个问题就是太高深了。眼见为实的实，怎么定义，什么是不实，都是千年争论不休的问题。\t\t</div>",
+      "date": "2023-03-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642957",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在Ai出现以前，p图术就足以让眼见不为实了。<br/>\n<br/>\n<br/>\n至于要达到现实中眼见都不一定为实时，再等AI发展五十年吧。\t\t</div>",
+      "date": "2023-03-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "642966",
+      "is_folded": false,
+      "answerer": {
+        "username": "JohnPaulus",
+        "uid": "96314"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你要表达的意思，大概是AI创造一个以假乱真的世界，从而骗过大脑无法分出真假吗？这是缸中大脑的模型。<br/>\n那开始推论：<br/>\n1我在现实世界说这是一块石头，那么我说的石头就是现实的石头<br/>\n2如果我在AI的世界，且我并不知道这一点，这时候，我说这是一块石头，那么我说的石头一定是AI的石头 而非现实的石头<br/>\n3因为AI世界，我说的石头跟现实世界我说的石头不是一个东西，所以AI世界的语言并不是现实世界的语言<br/>\n4推出结论，我并不是活在AI的世界当中。<br/>\n<br/>\n<br/>\n凡事多想想，咳咳，逻辑课是很重要滴，很多能想明白的事，总搞得很玄学，国内很多只看马克思的人属实是被马克思毒的不轻\t\t</div>",
+      "date": "2023-03-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

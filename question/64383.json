@@ -1,0 +1,38 @@
+{
+  "question_id": "64383",
+  "category_id": "8",
+  "title": "如何解释莫名其妙被删贴？",
+  "meta_description": "如何解释莫名其妙被删贴？ - 没有一点痕迹  有人反馈过了  如何解释？",
+  "meta_keywords": "解释,莫名其妙,删贴",
+  "tags": [
+    {
+      "id": "5999",
+      "name": "删评"
+    },
+    {
+      "id": "11659",
+      "name": "删帖"
+    }
+  ],
+  "author": {
+    "username": "mc狗咬狗",
+    "uid": "120577"
+  },
+  "view_count": 296,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t没有一点痕迹<br/>\n<br/>\n有人反馈过了<br/>\n<br/>\n如何解释？\t\t\t\t\t\t\t</div>",
+  "date": "2024-01-02",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1053125",
+      "replier": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "date": "2024-01-03",
+      "content": "请详细说明您遇到的情况"
+    }
+  ],
+  "answer_count": 0
+}

@@ -1,0 +1,974 @@
+{
+  "parent_type": "question",
+  "parent_id": "63181",
+  "answer_count": 40,
+  "answers": [
+    {
+      "id": "704266",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t听说迷雾通才更新了4.00版，解决了中国经常连不上的问题，不知道你说的问题是否现在存在。本人在海外没法测试。海外使用迷雾通因为不需要翻墙根本没什么连接速度，都是秒连接，但是在国内使用会有一些破墙连接速度。<br/>\n<br/>\n但回国期间，大约两三个月前（具体什么时候就不说了以免党国要通过边检去查），回国使用迷雾通大概没问题，但不买高级版本基本上不要想看视频。浏览品葱还是没问题的。<br/>\n<br/>\n我的建议是通过外区的苹果商城不断寻找vpn, 排除带有中文字符的，现在很多vpn都引入了广告可以白嫖，我在商城找到了几款可以使用的，但是免费你不要奢求太高，多数vpn都必须在使用一段时间后断开重连。少数抵抗差的连对抗生成学习都没法弄<br/>\n<br/>\n对抗生成学习就是防火墙现在的高级反翻墙术，即发现一个节点在翻墙就禁掉全部的流量，这就导致有的vpn刚下下来可以翻墙，但是第二天再用，打死也翻不了了。不过我在商城里找到了一些可以对抗这种技术的，但这些都需要长期的节点维护。<br/>\n<br/>\n不要来问我做推荐，不好意思，我无法告诉你，因为我是品葱高危人士，随时都要被党国摘器官，如果我说了党国就会知道我在用苹果商城的哪些vpn，于此可以从后台进行渗透和收买。为了保持匿名，我只能告诉你，你不断在苹果商城找，总有几款可以，国师也是这么找到的。而且不要钱。<br/>\n<br/>\n安卓机？<br/>\n<br/>\n不建议使用安卓华为等机型翻墙，这是很危险的。即使苹果机也建议最好肉身到海外或者代购，以免留后门。由于有人说用手机翻墙不安全，国师建议使用手机速度略快的vpn看视频，但不要发表任何消息。<br/>\n<br/>\n发表消息，请建议使用电脑，然后用前置vpn+tor。<br/>\n<br/>\n<br/>\n<b>请注意前提：使用非中国大陆区苹果商城，不要告诉你不会，都会翻墙了转区不会？（实在你真的不会，回复我我来教你）</b><br/>\n<br/>\n<b>最后再对有实力的人说一句话：千翻，万翻都不如肉翻。任何vpn的翻墙运营不可能达到4K不断连。能翻都不错了，指不定哪天，维尼开倒车，网都没了。</b><br/>\n<br/>\n<b>除非，你人就在墙外。</b> </div>",
+      "date": "2023-11-09",
+      "agree_count": 26,
+      "discussion_count": 12,
+      "discussions": [
+        {
+          "id": "1224018",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-09",
+          "content": "感谢你的建议，我在苹果商城寻找了替代者，它们都工作得不太好。另外一边，付费不是问题，我宁愿付出1M USD也要在中国连接国际互联网。虽然本人就是美国人，但我决定长期在亚洲，包括中国进行民主运动，这也是为什么我现在要问这个问题。"
+        },
+        {
+          "id": "1224019",
+          "replier": {
+            "username": "王匪沪宁",
+            "uid": "13988"
+          },
+          "date": "2023-11-09",
+          "content": "@Nederland: 如果要付费，那么推荐express vpn或者反共自媒体普遍接着的surf shark vpn，还有如果你非常在意安全，可以考虑楼下说的机场，vpn确实经常有安全漏洞。"
+        },
+        {
+          "id": "1224021",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-09",
+          "content": "@王匪沪宁:它们可以是一个好建议，但我已经试过了，甚至买了它们一年的套餐。总之，谢谢你的帮助热心。"
+        },
+        {
+          "id": "1224022",
+          "replier": {
+            "username": "王匪沪宁",
+            "uid": "13988"
+          },
+          "date": "2023-11-09",
+          "content": "@Nederland: 我没有使用它们，所以我才敢说，但我找到了一些很不起眼，但是可以专门针对防火墙，翻墙比较迅速，但是也很不稳定，不过一定能翻。而且不要钱，这些你去仔细找一下就可以。我就不说是什么了。"
+        },
+        {
+          "id": "1224135",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2023-11-09",
+          "content": "@王匪沪宁:ExpressVPN还能用么"
+        },
+        {
+          "id": "1224193",
+          "replier": {
+            "username": "王匪沪宁",
+            "uid": "13988"
+          },
+          "date": "2023-11-09",
+          "content": "@Studebaker史刁碧嘉: 有的人说不能用，有的人说可以，不清楚"
+        },
+        {
+          "id": "1246360",
+          "replier": {
+            "username": "总是忘记账号密码",
+            "uid": "107684"
+          },
+          "date": "2024-02-19",
+          "content": "@王匪沪宁:这两个都不能用"
+        },
+        {
+          "id": "1261477",
+          "replier": {
+            "username": "wumingdaxia",
+            "uid": "17285"
+          },
+          "date": "2024-04-29",
+          "content": "迷雾通安装后点不开"
+        },
+        {
+          "id": "1267145",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-05-24",
+          "content": "@王匪沪宁:ExpressVPN现在还能用？！\n我2023年建议给别人在赤匪区使用，效果非常糟糕以至于让别人怀疑我对审查最近的了解程度....."
+        },
+        {
+          "id": "1267146",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-05-24",
+          "content": "等等，我似乎已经问过了......"
+        }
+      ]
+    },
+    {
+      "id": "704354",
+      "is_folded": false,
+      "answerer": {
+        "username": "snowingnight",
+        "uid": "53957"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://github.com/Alvin9999/new-pac/wiki/<br/>\n<br/>\n熟读这里面的内容<br/>\n保证你以后畅通无阻<br/>\n<br/>\n海盗哥有钱人，如果要自建服务器，一定要买个贵的。<br/>\n然后宽带要快，这样，<br/>\n<br/>\n<br/>\n你就能看<br/>\n<br/>\n8k youtube自制咖啡教程了\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 18,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1224072",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-09",
+          "content": "谢谢雪夜（这个名字美瞎我了）"
+        },
+        {
+          "id": "1261476",
+          "replier": {
+            "username": "wumingdaxia",
+            "uid": "17285"
+          },
+          "date": "2024-04-29",
+          "content": "clash.meta、Xray…使用这些不是得搭配节点吗？没节点有个毛线用啊？？"
+        }
+      ]
+    },
+    {
+      "id": "704415",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tsurfshark vpn这种vpn别用，一点也不好用还很贵，都不如订阅类用clash等协议的vpn，surfshark电脑用还是全局，更难用了，维尼云此前不错，现在好像跑路了，不知道还有什么好用的了\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 9,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1251638",
+          "replier": {
+            "username": "翅膀硬了",
+            "uid": "125257"
+          },
+          "date": "2024-03-18",
+          "content": "sufshark这种主要是用于网络安全的，不是供上外网的其实"
+        }
+      ]
+    },
+    {
+      "id": "704473",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能肉翻请肉翻，不能肉翻请降低键政频率，看看就行别发帖说话，都不是私有机场，还敢跑来品葱发帖，也真是不怕死啊。你大陆搜索引擎、应用商店能搜到的VPN，我不敢说100%，但起码99%是和官方有合作的。<br/>\n另外你还跑品葱求VPN？晶哥看到不得笑死，之前还不一定能确认你身份，那最近只要查查机场后台，大致上就能锁定你的身份范围了。现在剩下的就是要不要抓你充绩效了。\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 11,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1224183",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-09",
+          "content": "你知道我的话，自从今年六四，我就在品葱半实名了"
+        },
+        {
+          "id": "1224187",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-11-09",
+          "content": "唉，祝你好运吧。想要翻墙的话自己搭个机场其实比较合适，现在都有一键搭建脚本了。熟练的话，从安装服务器端到客户端配置，所耗费时长不会超过5分钟，就是成本贵点，好点的VPS服务商最便宜的机器租用费用也要4刀/月，自己用流量小，被干扰的概率也低。技术上可以选择当下比较流行的xray的reality,vless+ws+tls(cdn), sing-box的shadowtls。\nP.S 现在大部分机场的底层技术协议用的都是V2ray的vmess+ws+tls\n总之翻墙的门槛会越来越高，如果你肉身还在墙内，建议多少学一点吧"
+        }
+      ]
+    },
+    {
+      "id": "704289",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自己搞个节点，然后用 v2ray 自己搭建。。。。。。多学点 linux 的操作知识。\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 11,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704418",
+      "is_folded": false,
+      "answerer": {
+        "username": "deatholder2",
+        "uid": "74314"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那你怎么不用cloudflare?<br/>\nWarp + zerotrust套餐<br/>\n用过的都说好👍<br/>\n<br/>\nzsbd zsbd zsbd zsbd zsbd zsbd\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704340",
+      "is_folded": false,
+      "answerer": {
+        "username": "nyny",
+        "uid": "115318"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tSurfshark<br/>\nNordVPN<br/>\nProtonVPN<br/>\n都是紀錄良好的vpn<br/>\n個人在用Proton, 但比較貴, 考慮轉用Surfshark\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 8,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1246870",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-02-22",
+          "content": "proton在国内连不上"
+        }
+      ]
+    },
+    {
+      "id": "704334",
+      "is_folded": false,
+      "answerer": {
+        "username": "民人",
+        "uid": "108220"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t徐某人的<b>Surfshark</b> ?我用过一次，但感觉还是不如迷雾通，如果你急需替代可以试试。\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704287",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t“在它的工作记录里极速”很难理解是什么意思。<br/>\n<br/>\n不过把迷雾通形容成卡住的游戏村民很生动形象。<br/>\n<br/>\n<br/>\n你可以用谷歌官方的vpn，谷歌play商店搜索googleone app，需要付费但很廉价。<br/>\n<br/>\n甚至谷歌pixel7和8系列手机可以使用免费的googleone vpn，然而免费vpn的服务不支持中国大陆\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 6,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1224031",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-09",
+          "content": "感谢葱油推荐"
+        },
+        {
+          "id": "1224101",
+          "replier": {
+            "username": "MrDemocracy",
+            "uid": "55369"
+          },
+          "date": "2023-11-09",
+          "content": "googleone VPN大陆用不了欸？"
+        },
+        {
+          "id": "1224114",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-09",
+          "content": "不针对大陆gfw设计的代理服务器或者vpn软件都不能翻墙。"
+        }
+      ]
+    },
+    {
+      "id": "704281",
+      "is_folded": false,
+      "answerer": {
+        "username": "QTiger",
+        "uid": "49663"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你是外国人吗？这中文说的,,,,..................................................,,。\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 6,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1224026",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-09",
+          "content": "是的。但是我其实严肃的时候不是这样说的，我在中国度过了小时候的大部分时光，只是有时这样说着玩儿玩儿。"
+        },
+        {
+          "id": "1224027",
+          "replier": {
+            "username": "聖勵騎士",
+            "uid": "112599"
+          },
+          "date": "2023-11-09",
+          "content": "反正没人(愿意)当中国人.   抱歉.谢谢."
+        },
+        {
+          "id": "1224030",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-09",
+          "content": "@香蕉共和:对了，以防你不知道，Jesus (F word) Christ是我国的俗语，用来表示惊讶或无法忍受某事，就像基督徒为主的其他美国人这样说的时候，我并不是认真地侮辱宗教，而我会对伊斯兰教的对象也如此说，为了表示文化融入和平等。\n如果你发现这类俗语有冒犯性，我会删除它。"
+        },
+        {
+          "id": "1224033",
+          "replier": {
+            "username": "聖勵騎士",
+            "uid": "112599"
+          },
+          "date": "2023-11-09",
+          "content": "@Nederland:没有，这是你的帖子，也是你的个人自由，我没权利更没理由 因为我个人宗教信仰的缘故 就 要求你怎么做，就像那些在我帖子里的任何言论 我不会选择 折叠 或者 对骂的原因，因为耶稣基督不是这么教导我们的，\n而我并不觉得 你有冒犯到我，  我的神是慈爱宽容的， 祂愿意为人舍命，我不会说 因为如此 我就要找害他的人算账 痛恨或者反过来迫害当年害主耶稣的那个族群或者人群， 一样的道理.\n抱歉.一不留心 又扯远了.\n您请放宽心的 运用你自由言论的权利，我无权干涉，这是你在品葱自然而然的全力，更是全能的上帝赐给有品葱这么个地方 然后我们大家都能进来 各抒己见的权利 和 恩典，\n如果您问我是不是觉得有被冒犯，那您放心， 我的回答是  没有.\n最后  愿全能独一的造物主 常与你同在，赐给你祝福，amen.  也让我们共同感赞 全能的祂 一切的给予! amen.\n放心大胆的行属于你自己的道吧，全能的父上帝  在每个人或者说“不同流派”之间的 规划和安排 都是不同的 且有其智慧和原因的，作为人类，我们想不明白很正常，只需记住 常常感赞 感恩祂，最后，May God Bless You. my friend. amen."
+        },
+        {
+          "id": "1224036",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-09",
+          "content": "@香蕉共和:Thank you for understanding, have a good one, amen"
+        },
+        {
+          "id": "1224037",
+          "replier": {
+            "username": "聖勵騎士",
+            "uid": "112599"
+          },
+          "date": "2023-11-09",
+          "content": "@Nederland:amen."
+        },
+        {
+          "id": "1224109",
+          "replier": {
+            "username": "初春饰利",
+            "uid": "29940"
+          },
+          "date": "2023-11-09",
+          "content": "@Nederland:君中国语本当上手，来自哪个国家？"
+        },
+        {
+          "id": "1224182",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-11-09",
+          "content": "@初春饰利:私米国人"
+        }
+      ]
+    },
+    {
+      "id": "704615",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\texpress、surfshark、nord這幾個大牌現在都不建議用了被針對的很厲害。尤其是express一直有小道消息傳它有紅色資本背景，并且實際公司運營是在香港，不過傳聞一直沒有被證實。<br/>\n<br/>\n現階段比較好的是自建節點，安全性和單一性相對要好，需要一個質量好些的VPS可以使用vmess+ws或者vless+vision搭建（vmess+ws+tls+web目前已被針對），相關教程油管上有很多可以參考。\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704324",
+      "is_folded": false,
+      "answerer": {
+        "username": "新免武蔵守藤玄信",
+        "uid": "119149"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tclash verge, shadowsocks<br/>\nzsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd zsbd\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704330",
+      "is_folded": false,
+      "answerer": {
+        "username": "被水淹没不知所措",
+        "uid": "52322"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得迷雾通4.10.1升级后表现还可以啊，至少在我所在区域和网络条件下一直都是可用的状态(我个人对连接速度和带宽没有特别高的要求)。\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1246357",
+          "replier": {
+            "username": "UsugiiiS",
+            "uid": "118431"
+          },
+          "date": "2024-02-19",
+          "content": "用不了一点"
+        }
+      ]
+    },
+    {
+      "id": "704347",
+      "is_folded": false,
+      "answerer": {
+        "username": "忧乐为天下",
+        "uid": "23699"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://pincong.rocks/article/58958<br/>\n<br/>\n用了十多年，从来没断过<br/>\n用了十多年，从来没断过<br/>\n用了十多年，从来没断过\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 4,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1224067",
+          "replier": {
+            "username": "Constantine_K",
+            "uid": "74623"
+          },
+          "date": "2023-11-09",
+          "content": "你好，安卓手机端的名字是网必通？看到汉字有点怕😅"
+        },
+        {
+          "id": "1224070",
+          "replier": {
+            "username": "忧乐为天下",
+            "uid": "23699"
+          },
+          "date": "2023-11-09",
+          "content": "@Constantine_K: 手机VPN的话，用\nhttps://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88\n这个网址前面两个"
+        },
+        {
+          "id": "1224094",
+          "replier": {
+            "username": "Constantine_K",
+            "uid": "74623"
+          },
+          "date": "2023-11-09",
+          "content": "@忧乐为天下:谢谢"
+        },
+        {
+          "id": "1225523",
+          "replier": {
+            "username": "忧乐为天下",
+            "uid": "23699"
+          },
+          "date": "2023-11-15",
+          "content": "@Constantine_K:是用第二第三。第一是自由门，这个可以试试，都知道了"
+        },
+        {
+          "id": "1225614",
+          "replier": {
+            "username": "Constantine_K",
+            "uid": "74623"
+          },
+          "date": "2023-11-15",
+          "content": "@忧乐为天下:好的"
+        }
+      ]
+    },
+    {
+      "id": "705856",
+      "is_folded": false,
+      "answerer": {
+        "username": "ASD1234",
+        "uid": "26668"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t蓝灯 应该是最好用的了   还不贵  个人推荐。。紫薯补丁 。紫薯补丁 。紫薯补丁\t\t</div>",
+      "date": "2023-11-15",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704496",
+      "is_folded": false,
+      "answerer": {
+        "username": "eurocb",
+        "uid": "118790"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t强烈建议不用surfshark。从7月开始一直到现在，就没正常过，问客服就是耐心等待。\t\t</div>",
+      "date": "2023-11-09",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704634",
+      "is_folded": false,
+      "answerer": {
+        "username": "刁软软",
+        "uid": "119205"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thotspot shield可用，挺贵的，一个月100元左右。<br/>\n但不太清楚有没有<mark>支那</mark>资本在里面，这有点担心。\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "705718",
+      "is_folded": false,
+      "answerer": {
+        "username": "台湾国的周杰伦",
+        "uid": "114126"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也是觉得迷雾通不好用，我买了一个月的会员网飞也看不了，网还卡。\t\t</div>",
+      "date": "2023-11-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "705726",
+      "is_folded": false,
+      "answerer": {
+        "username": "ghost660",
+        "uid": "91783"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t下个v2ray然后随便搜搜一些翻墙机场，再把机场的url导入到v2ray里边<br/>\n<br/>\nhttps://www.youtube.com/watch?v=Tcke9G8OIYw&amp;t=172s<br/>\n<br/>\nv2ray使用可以参考下这个视频\t\t</div>",
+      "date": "2023-11-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704620",
+      "is_folded": false,
+      "answerer": {
+        "username": "antixjp098",
+        "uid": "118269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国内的很多啊。百度搜机场，一大堆。<br/>\n费用并不贵，至少比手机费用便宜多了。<br/>\n买国内有专线到国外的。\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1226829",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-20",
+          "content": "baidu一堆机场你也敢用确实心大，将来地方警局手紧优先抓你罚款凑钱"
+        },
+        {
+          "id": "1227049",
+          "replier": {
+            "username": "antixjp098",
+            "uid": "118269"
+          },
+          "date": "2023-11-21",
+          "content": "@rowlandheights:谁有心思监控你的流量"
+        },
+        {
+          "id": "1227050",
+          "replier": {
+            "username": "antixjp098",
+            "uid": "118269"
+          },
+          "date": "2023-11-21",
+          "content": "@antixjp098:懂点网络知识和it就知道他能不能监控得了"
+        },
+        {
+          "id": "1246363",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2024-02-19",
+          "content": "@antixjp098:怎么说？"
+        }
+      ]
+    },
+    {
+      "id": "738042",
+      "is_folded": false,
+      "answerer": {
+        "username": "xxxooo918",
+        "uid": "125435"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t给你避坑，我用过最不好用的是PureVPN，因为便宜买了两年，只用了几个月，后来就很难连上，从2023年10月被封，到2024年4月还连不上。\t\t</div>",
+      "date": "2024-04-03",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744403",
+      "is_folded": false,
+      "answerer": {
+        "username": "mingzhu",
+        "uid": "115453"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t维尼云我建议你多用，主席亲自部署，亲自抓铺，走中南海专线\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744316",
+      "is_folded": false,
+      "answerer": {
+        "username": "李源潮",
+        "uid": "93319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t老习VPN，我劝你多用😄😄😄😄😄😄😄😄😄😄😄😄😄😄👍👍👍😄😄👍👍😄😄😄😄😄\t\t</div>",
+      "date": "2024-04-29",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "707165",
+      "is_folded": false,
+      "answerer": {
+        "username": "wangdachui",
+        "uid": "119546"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\texpress、surfshark在大陸無法使用，一直連結不上。找客服也沒有任何用\t\t</div>",
+      "date": "2023-11-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744319",
+      "is_folded": false,
+      "answerer": {
+        "username": "仰止",
+        "uid": "124157"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t买一个vps然后自建V2Ray吧，不建议用机场，因为有许多爱国机场主屏蔽品葱这类网站。当然也不推荐用大牌翻墙软件（NordVPN、ProtonVPN）因为在国内大概率连不上。<br/>\n<br/>\n这是我的V2Ray搭建过程，仅供参考：<a href=\"url/link/aHR0cHM6Ly9qdWVrZS5vcmcvVjJSYXklRTYlOUMlOEQlRTUlOEElQTElRTclQUIlQUYlRTUlQUUlODklRTglQTMlODU\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://jueke.org/V2Ray%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%AE%89%E8%A3%85\">https://jueke.org/V2Ray%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%AE%89%E8%A3%85</a> </div>",
+      "date": "2024-04-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "729477",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果你会自己搭建, 用什么vpn无所谓, 快就行, 你在上面架设多一层自己的就ok了.\t\t</div>",
+      "date": "2024-02-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "729482",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下名楼",
+        "uid": "120862"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我用的cyberghost，有时候也很难连上，但一旦连上则很稳定，不会出现卡顿，断连的现象，可以流畅观看外网在线影视，<br/>\n<br/>\n因为有时候也不好连上，所以我用迷雾通和cyberghost交替使用，一方不好用就换另一方<br/>\n<br/>\n与迷雾通不同，使用cyberghost可以访问大纪元等网站，不会出现屏蔽现象，就是要收费，不过第一年还不算贵，可以尝试下。\t\t</div>",
+      "date": "2024-02-22",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1264384",
+          "replier": {
+            "username": "平疫禁人忍民领袖",
+            "uid": "105080"
+          },
+          "date": "2024-05-11",
+          "content": "我在墙内，Cyberghost直接连不上"
+        }
+      ]
+    },
+    {
+      "id": "744414",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大哥别钓了。（笑）<br/>\n我记得江峰以前推荐过express可以试一下。\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749617",
+      "is_folded": false,
+      "answerer": {
+        "username": "禁登sqj",
+        "uid": "124638"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tm迷雾通废了，像香港一样，感觉迷雾通已死，推特都打不开。\t\t</div>",
+      "date": "2024-05-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "749621",
+      "is_folded": false,
+      "answerer": {
+        "username": "baowule",
+        "uid": "83991"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看你说话，感觉像是一个外国人先写好一段外语， 然后再用翻译软件翻译成中文。 有一股译制片的感觉\t\t</div>",
+      "date": "2024-05-24",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1267144",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-05-24",
+          "content": "这个叫翻译腔，\n现在常见于中文是习得语言的人士"
+        }
+      ]
+    },
+    {
+      "id": "729424",
+      "is_folded": false,
+      "answerer": {
+        "username": "维尼加速器",
+        "uid": "124204"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tWindscribe，加拿大的一个VPN，有严格的无日志原则，免费版每月10G，网速十多mb，有几十个免费节点，保证连得上（连不上开Wstunnel模式就连上了）\t\t</div>",
+      "date": "2024-02-21",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "729506",
+      "is_folded": false,
+      "answerer": {
+        "username": "有一说一",
+        "uid": "77887"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是，你不是在国外吗？要迷雾通干嘛？<br/>\n不是，你不是在国外吗？要迷雾通干嘛？\t\t</div>",
+      "date": "2024-02-22",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1249790",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-03-07",
+          "content": "我是美国人，但我工作在中国。"
+        }
+      ]
+    },
+    {
+      "id": "746917",
+      "is_folded": false,
+      "answerer": {
+        "username": "司马脱",
+        "uid": "76468"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷雾通很好。感谢不知名的捐赠者。<br/>\n<br/>\n比我其它的翻墙工具要更自由，对一个工具不能要求更多，希望有朝一日能当面感谢他。我觉得只要能提供几个基本海外数据和新闻，作为墙内对照参考，已经价值非凡，不要求更多了\t\t</div>",
+      "date": "2024-05-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "729512",
+      "is_folded": false,
+      "answerer": {
+        "username": "doublea4548",
+        "uid": "119592"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t尤达大师吗你是？用倒装句说话。<br/>\n<br/>\n站里提过的tor的网桥，你为什么不试试？\t\t</div>",
+      "date": "2024-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "733366",
+      "is_folded": false,
+      "answerer": {
+        "username": "qrcaz648",
+        "uid": "125948"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小三vpn個人感覺不錯，目前沒有負面消息。速度還可以能流暢看YouTube4k視頻。我手機上面用的小三和warp+，電腦上是自建的節點\t\t</div>",
+      "date": "2024-03-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "729017",
+      "is_folded": false,
+      "answerer": {
+        "username": "盼望台湾民不聊生",
+        "uid": "122003"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t顺道问下，手机上的冲鸭加速，狗急加速之类的怎么样，用起来确实比expressvpn, surfshark这种快多了，而且界面非常简单又相似，感觉是一个模板里出来的。为什么速度这么快？\t\t</div>",
+      "date": "2024-02-19",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1246876",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2024-02-22",
+          "content": "这是钓鱼的"
+        },
+        {
+          "id": "1246989",
+          "replier": {
+            "username": "盼望台湾民不聊生",
+            "uid": "122003"
+          },
+          "date": "2024-02-23",
+          "content": "@幸福中国: 但是大纪元什么都能上啊，关键是巨快无比，为什么？"
+        },
+        {
+          "id": "1246992",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2024-02-23",
+          "content": "@盼望台湾民不聊生:可以上啊，但是同时给你本人列入不稳定分子，长期监控，你要是说了啥就有人上门找你，你要是上品葱用这个，公安现在都知道你的品葱账号和密码，也知道你在品葱说什么，什么时候看，看的什么。\n你在网络上完全透明，对公安来说，假如你用钓鱼vpn"
+        },
+        {
+          "id": "1247524",
+          "replier": {
+            "username": "盼望台湾民不聊生",
+            "uid": "122003"
+          },
+          "date": "2024-02-26",
+          "content": "@幸福中国: 这样啊，多谢告知。你是通过我的描述判断的，还是说这两个vpn已经有坏名声了？"
+        }
+      ]
+    },
+    {
+      "id": "744377",
+      "is_folded": false,
+      "answerer": {
+        "username": "三民不散命",
+        "uid": "128013"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tw迷雾通至少比大多数安全，现在国内还存活的vpn，大多都有支共的影子，通过监视ip来找人\t\t</div>",
+      "date": "2024-04-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "734967",
+      "is_folded": false,
+      "answerer": {
+        "username": "稀世暴君",
+        "uid": "77118"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一个建议，机场主是否在沦陷区比他的立场更重要。当然粉红机场不要选。而墙外的机场主比墙内的安全无数倍。\t\t</div>",
+      "date": "2024-03-18",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744339",
+      "is_folded": true,
+      "answerer": {
+        "username": "Sechi",
+        "uid": "126729"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-04-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704271",
+      "is_folded": true,
+      "answerer": {
+        "username": "HHHeYYYe",
+        "uid": "102855"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-11-09",
+      "agree_count": 12,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1225526",
+          "replier": {
+            "username": "如月",
+            "uid": "83462"
+          },
+          "date": "2023-11-15",
+          "content": "vps有个问题是服务器ip可能会被封，请问有稳定靠谱墙内可用的服务器推荐吗？"
+        },
+        {
+          "id": "1225635",
+          "replier": {
+            "username": "HHHeYYYe",
+            "uid": "102855"
+          },
+          "date": "2023-11-15",
+          "content": "@如月:bwg吧，就是贵，可以付费换ip，目前大部分vps都能付费换ip"
+        },
+        {
+          "id": "1226828",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-11-20",
+          "content": "@如月:用vmess/vless+tls+ws协议，外部用cdn方式保护你的ip，除了GFW干扰cloudflare(你也可以不用cloudflare的cdn)时候会慢一点，其他时候相当好用，缺点就是自己得买个域名，每年大概5-10刀的额外支出"
+        },
+        {
+          "id": "1246890",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2024-02-22",
+          "content": "@如月: 你把节点删了再新申请一个，ip 就换掉了。当然节点上的一些东西需要你自己记录好，反正这些东西折腾的越多越频繁，你越熟。一年折腾一回的话，那确实好多东西你都记不住了。"
+        }
+      ]
+    }
+  ]
+}

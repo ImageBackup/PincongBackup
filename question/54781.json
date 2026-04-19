@@ -1,0 +1,38 @@
+{
+  "question_id": "54781",
+  "category_id": "1",
+  "title": "苹果Apple已经公开宣称要将香港用户的数据传送给腾讯了！怎么没有任何外媒报道此事？？",
+  "meta_description": "苹果Apple已经公开宣称要将香港用户的数据传送给腾讯了！怎么没有任何外媒报道此事？？ - Safari浏览器的隐私政策页面 https://www.apple.com/tw/legal/privacy/data/zh-tw/safari/ 的“詐騙網站警告”这段文字当中，上个月（2022年11月）的时候文字是“Google（和對於使用區域設定為...",
+  "meta_keywords": "苹果,apple,已经,公开,宣称,要将,香港,用户,据传,送给,腾讯,外媒,报道,此事",
+  "tags": [
+    {
+      "id": "1547",
+      "name": "网络审查"
+    },
+    {
+      "id": "8418",
+      "name": "Apple"
+    }
+  ],
+  "author": {
+    "username": "irwzk",
+    "uid": "34021"
+  },
+  "view_count": 4064,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tSafari浏览器的隐私政策页面 https://www.apple.com/tw/legal/privacy/data/zh-tw/safari/ 的“詐騙網站警告”这段文字当中，上个月（2022年11月）的时候文字是“Google（和對於使用區域設定為中國大陸的使用者：騰訊）可能也會記錄你的IP位址。”，( https://web.archive.org/web/20221125014351/https://www.apple.com/tw/legal/privacy/data/zh-tw/safari/ ) ，现在已经变成了“Google（和對於使用區域設定為中國大陸或香港的使用者：騰訊）可能也會記錄你的IP位址。”( https://archive.ph/7en7L )，多出了“或香港”三个字。 许多网民昨天使用safari访问www.gitlab.com的时候被提示是“诈骗网站”，  https://twitter.com/kachuxyz/status/1608804763097006083 估计就是这个原因导致的。<br/>\n<br/>\n用Google搜索了一下，没有任何报道。2019年的时候，Apple可是口口声声说仅仅会在中国区使用腾讯的服务： https://chinese.engadget.com/chinese-2019-10-15-apple-safari-response.html\t\t\t\t\t\t\t</div>",
+  "date": "2022-12-31",
+  "agree_count": 3,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1030202",
+      "replier": {
+        "username": "irwzk",
+        "uid": "34021"
+      },
+      "date": "2022-12-31",
+      "content": "苹果在2019年的时候那可是口口声声说不会对香港区的用户使用腾讯服务的哦"
+    }
+  ],
+  "answer_count": 2
+}

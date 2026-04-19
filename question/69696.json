@@ -1,0 +1,70 @@
+{
+  "question_id": "69696",
+  "category_id": "4",
+  "title": "【自己搭翻墙】谁能回俺的疑惑？为什么刚建好的协议前两天速度很快，之后就速度变慢？",
+  "meta_description": "【自己搭翻墙】谁能回俺的疑惑？为什么刚建好的协议前两天速度很快，之后就速度变慢？ - 刚建好俺一般直接4k看，看YouTube直播不卡。没两天，看个720都卡。这是主机商的原因还是？   俺目前用的是kamatera这家",
+  "meta_keywords": "搭翻,谁能,回俺,疑惑,刚建,协议,两天,速度,很快,之后,变慢",
+  "tags": [
+    {
+      "id": "2991",
+      "name": "VPS"
+    }
+  ],
+  "author": {
+    "username": "洼地先知",
+    "uid": "102273"
+  },
+  "view_count": 5264,
+  "date": "2024-08-28",
+  "agree_count": 0,
+  "discussion_count": 5,
+  "discussions": [
+    {
+      "id": "1065621",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2024-08-29",
+      "content": "QoS"
+    },
+    {
+      "id": "1065833",
+      "replier": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "date": "2024-09-01",
+      "content": "路过看看，没有能力搭，只能买机场，我的电脑太老了不支持"
+    },
+    {
+      "id": "1065843",
+      "replier": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "date": "2024-09-02",
+      "content": "@pctrk7915: 一般只要能运行SSH客户端就能控制VPS了，你的电脑的操作系统是啥？"
+    },
+    {
+      "id": "1065844",
+      "replier": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "date": "2024-09-02",
+      "content": "@Streptopelia:7"
+    },
+    {
+      "id": "1065846",
+      "replier": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "date": "2024-09-02",
+      "content": "@pctrk7915: Windows 7？PuTTY应该还是能用的。这是它的网站：\nhttps://www.chiark.greenend.org.uk/~sgtatham/putty/\n如果你对这个URL不放心，可以看看一些Linux发行版的putty的信息，它们写的上游也是这个网站。\n不过我建议多装个Linux的发行版，因为很多软件都要停止支持Windows 7了。"
+    }
+  ],
+  "answer_count": 7,
+  "content": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t刚建好俺一般直接4k看，看YouTube直播不卡。没两天，看个720都卡。这是主机商的原因还是？<br/>\n<br/>\n<br/>\n俺目前用的是kamatera这家\t\t\t\t\t\t\t</div>"
+}

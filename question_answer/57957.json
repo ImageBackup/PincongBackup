@@ -1,0 +1,133 @@
+{
+  "parent_type": "question",
+  "parent_id": "57957",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "651787",
+      "is_folded": false,
+      "answerer": {
+        "username": "BreakingWave",
+        "uid": "50441"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t民主政治下组党是自由的，你随便谁都可以组党。但是美国是选举人团制度，州法律决定选举人团怎么投票，一般都是胜者全得Winner Takes All也就是即使某一个党得票比第二名多一票，这个州的选举人团也会都给这个党。最开始是得到最多选举人团投票的人士当总统第二多的当副总统，但是后来出现过总统副总统得票一致之后的情况就改成总统副总统分别投票了。美国宪法还规定了如果没有一个总统副总统候选人拿到过半选举人团，那就应该由国会参众两院选总统和副总统，所以如此一来，小党除了分票就没有什么别的作用了，只能依附于大党（比如Bernier Sanders本身在参议院是无党籍，但是竞选总统还是需要挂在民主党下）。美国的制度和台湾一样，都是利好大党的，所以天然会造成两党制。加拿大、英国的单一选区议会制稍微好一点会有一些小党议员，但是也会造成只有两大党的情况。欧陆国家使用的比例代表制（根据实际得票率分配议席）则不会有这种情况，一般议会里都有多个小党可以联合组阁。美国上一次总统竞选有非民共两党拿到选举人团票的选举是https://en.wikipedia.org/wiki/1968_United_States_presidential_election ，这次大选中反对民权运动的阿拉巴马前州长拿下了圣经带的南方州。\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651761",
+      "is_folded": false,
+      "answerer": {
+        "username": "大江东去",
+        "uid": "111190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t选票长这个样子：https://ballotpedia.org/Official_sample_ballots,_2020<br/>\n<br/>\n可以看出，（至少就总统选举而言），不能投弃权票或者none of the above，只能从给出的几个选项中选一个（民主党、共和党、几个到十几个小党）。<br/>\n<br/>\n但是，一些州允许write-in，即自己填一个候选人。理论上，如果write-in的候选人拿到多数，也可以赢下选举。（实际上）历史上一个著名的例子是2010年阿拉斯加州参议员Murkowski靠write-in赢下选举。因为手写选举人名字需要写对才能算数，这位参议员有一个著名的竞选广告，教选民写她的名字：https://vimeo.com/21179499\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1174125",
+          "replier": {
+            "username": "shijiaqing",
+            "uid": "80186"
+          },
+          "date": "2023-04-29",
+          "content": "感谢分享，但是我怎么感觉这个是州长（省长）的选举而不是总统的选举"
+        },
+        {
+          "id": "1174127",
+          "replier": {
+            "username": "大江东去",
+            "uid": "111190"
+          },
+          "date": "2023-04-29",
+          "content": "@shijiaqing:这个例子是州长"
+        },
+        {
+          "id": "1174131",
+          "replier": {
+            "username": "shijiaqing",
+            "uid": "80186"
+          },
+          "date": "2023-04-29",
+          "content": "@大江东去:总统的有吗"
+        }
+      ]
+    },
+    {
+      "id": "651771",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是的，差不多每次选举都有第三方参选，所以说美国是“事实上的两党制”，实际制度上是多党制\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1174121",
+          "replier": {
+            "username": "shijiaqing",
+            "uid": "80186"
+          },
+          "date": "2023-04-29",
+          "content": "也就是说每次最终选举都有不止两组人吗"
+        },
+        {
+          "id": "1174123",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-29",
+          "content": "@shijiaqing:不同州不一样，只有两大党的候选人能保证出现在五十个州和DC的选票上，其他政党候选人不一定，毕竟出现在选票上需要有一定支持率才行。"
+        },
+        {
+          "id": "1174128",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-29",
+          "content": "@shijiaqing: 是否“每次”没有研究过，反正极少出现能够对战局产生影响的第三方候选人，所以一般也不太关注"
+        },
+        {
+          "id": "1174129",
+          "replier": {
+            "username": "shijiaqing",
+            "uid": "80186"
+          },
+          "date": "2023-04-29",
+          "content": "@天下无贼:我知道不影响，但是我说是不是几乎每次都有至少四种选项【共和党民主党其它党派（可能不止一个）和不参与投票】"
+        },
+        {
+          "id": "1174132",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-29",
+          "content": "@shijiaqing: 哦，你就是想知道具体的选票上是什么样的，那我不清楚，看看在美国的葱友能不能回答你"
+        }
+      ]
+    },
+    {
+      "id": "651760",
+      "is_folded": false,
+      "answerer": {
+        "username": "weini8964",
+        "uid": "25225"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美國總統和副總統視為一組<br/>\n共和民主兩黨各派一組人出賽<br/>\n其他獨立候選人或者小黨的組別<br/>\n你獲得足夠的人提名你也能進入選舉<br/>\n全國投票就幾組人選擇(共和、民主、小黨、獨立)<br/>\n如果都不滿意當然可以投棄權票，但該選票被視為無效<br/>\n理論上是不會出現大多數無效票的情況，不可能全美都放棄選舉\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

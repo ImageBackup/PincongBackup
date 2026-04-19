@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "56396",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "634492",
+      "is_folded": false,
+      "answerer": {
+        "username": "通商宽衣颐使气指",
+        "uid": "74980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t苹果手机系统自带，在图库中选择一张含有文字的图片选择需要使用的文字长按就可以复制\t\t</div>",
+      "date": "2023-02-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "634502",
+      "is_folded": false,
+      "answerer": {
+        "username": "半场",
+        "uid": "105808"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t外国那些OCR软件我大多试过，识别简体汉字的一个有用的都没有。<br/>\n墙内识别度最高的应该是搜狗和讯飞。\t\t</div>",
+      "date": "2023-02-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

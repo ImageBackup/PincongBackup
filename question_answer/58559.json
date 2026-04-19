@@ -1,0 +1,220 @@
+{
+  "parent_type": "question",
+  "parent_id": "58559",
+  "answer_count": 9,
+  "answers": [
+    {
+      "id": "657508",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t与其说有多少职业被取代，我看对人类更大的影响是教育。这个影响比当年发明电子字典可大多了。\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 9,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1179623",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-05-23",
+          "content": "英雄所见略同。我觉得在AI的辅助下我的学习效率完全和以前不可同日而语。我之前完全没有想到AI可以如此夸张地提高人类学习的效率。而且在全球大多数地方，AI比人类老师更加affordable and accessible，可以预见将来学习的门槛将大幅降低，愿意学习的人将淘汰不愿意学习固步自封的人。"
+        }
+      ]
+    },
+    {
+      "id": "657529",
+      "is_folded": false,
+      "answerer": {
+        "username": "yogafire",
+        "uid": "3317"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t个人体验<br/>\nweb browsing感觉还行，就是速度慢了些<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9RaXA1Sml3LnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/Qip5Jiw.png\"><img alt=\"https://i.imgur.com/Qip5Jiw.png\" loading=\"lazy\" src=\"https://i.imgur.com/Qip5Jiw.png\" style=\"max-width:100%\"/></a><br/>\n插件还不成熟，感觉很多都很瞎\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1179689",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2023-05-24",
+          "content": "您感觉和new bing比区别大吗？我感觉联网功能下new bing反而更好一些，不过chatgpt答案更准确关键是还有官方插件可用，大大拓展了使用范围。"
+        },
+        {
+          "id": "1180006",
+          "replier": {
+            "username": "yogafire",
+            "uid": "3317"
+          },
+          "date": "2023-05-25",
+          "content": "@自由与革命:new bing没怎么用过我"
+        }
+      ]
+    },
+    {
+      "id": "657532",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t每月20美元速度还慢，太贵太贵。每月2美元还可以接受\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "658046",
+      "is_folded": false,
+      "answerer": {
+        "username": "eleven_day",
+        "uid": "43504"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t开放插件就是自然语言模型和其他程序集成应用，这方面可以关注langchain框架或langflow桌面操作。\t\t</div>",
+      "date": "2023-05-25",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1180062",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2023-05-25",
+          "content": "谢谢"
+        }
+      ]
+    },
+    {
+      "id": "657584",
+      "is_folded": false,
+      "answerer": {
+        "username": "隐匿之影",
+        "uid": "103339"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我这里因为ip不稳定账号被封了，在墙内被隔绝交流才是最难受的，可能会导致行业的分化吧。\t\t</div>",
+      "date": "2023-05-23",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657667",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我个人认为除了会员价格太贵以外，总的来说chatgpt的最近一次更新还是非常令人惊艳的。<br/>\n我个人感觉新的互联网革命已经就在眼前了。\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "658037",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tBard免费版直接就是联网的，不过好像只有美国的IP可以用。\t\t</div>",
+      "date": "2023-05-25",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1180022",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2023-05-25",
+          "content": "bard不如new bing的回答好，而且new bing不仅仅可以联网还有三种模式，据说还用了chatgpt 4的模型。"
+        },
+        {
+          "id": "1180030",
+          "replier": {
+            "username": "小土豆",
+            "uid": "80532"
+          },
+          "date": "2023-05-25",
+          "content": "@自由与革命:没有具体比较过.改文章看不出来。\nNew Bing的问题有时候回答得太简单，在网上查不到它就说没有或者不会。ChatGPT有时候虽然胡说，但是也给人一些灵感。\n可能还是看问题是啥吧。"
+        },
+        {
+          "id": "1180049",
+          "replier": {
+            "username": "eleven_day",
+            "uid": "43504"
+          },
+          "date": "2023-05-25",
+          "content": "@自由与革命:New Bing所谓的三种模式八成只是预先设计好模型temperature系数。感觉微软对New Bing在搜索引擎方向微调太过，实际使用体验不如chatgpt3.5"
+        },
+        {
+          "id": "1180061",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2023-05-25",
+          "content": "@eleven_day:但是new bing的联网回复快呀，chatgpt 4的官方联网模式很慢，但是如果是使用web polite插件确实比new bing好。"
+        }
+      ]
+    },
+    {
+      "id": "658055",
+      "is_folded": false,
+      "answerer": {
+        "username": "黄鹤楼",
+        "uid": "100751"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一旦联网，智商下降很多，因为不是数据库训练出来的答案，而是实时访问，或者说实时访问的数据会影响答案。\t\t</div>",
+      "date": "2023-05-25",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1180066",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-05-25",
+          "content": "实时访问，那跟google搜索有啥区别"
+        }
+      ]
+    },
+    {
+      "id": "657680",
+      "is_folded": false,
+      "answerer": {
+        "username": "FreedomExisted",
+        "uid": "104409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能聯網確實是很大進步，我用的免費的GPT3.5實時性相當不足\t\t</div>",
+      "date": "2023-05-24",
+      "agree_count": -1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1179709",
+          "replier": {
+            "username": "自由与革命",
+            "uid": "52678"
+          },
+          "date": "2023-05-24",
+          "content": "如果不想花钱可以试试new bing"
+        }
+      ]
+    }
+  ]
+}

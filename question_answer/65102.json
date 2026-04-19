@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "65102",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "725371",
+      "is_folded": false,
+      "answerer": {
+        "username": "汉族传统美食汉堡",
+        "uid": "91375"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t基本上重要话题的常见观点阿姨都多少提过。很多大v当新闻黑听还不错。\t\t</div>",
+      "date": "2024-02-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "725328",
+      "is_folded": false,
+      "answerer": {
+        "username": "neverdie",
+        "uid": "53720"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>刘总统把庇护权这事简单捋了捋<br/>\n比散人这个专门做的<br/>\n深度广度都大多了</blockquote><br/>\n<br/>\n谁是刘总统？\t\t</div>",
+      "date": "2024-02-03",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1243098",
+          "replier": {
+            "username": "zhengyi",
+            "uid": "1766"
+          },
+          "date": "2024-02-03",
+          "content": "刘仲敬阿姨"
+        }
+      ]
+    }
+  ]
+}

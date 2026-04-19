@@ -1,0 +1,80 @@
+{
+  "parent_type": "question",
+  "parent_id": "61044",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "681489",
+      "is_folded": false,
+      "answerer": {
+        "username": "衡匡偷光",
+        "uid": "111241"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要是中文平台，墙内农民占90%，低学历低智商，看看就行了，别以为是耸人听闻\t\t</div>",
+      "date": "2023-08-20",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1201693",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-08-21",
+          "content": "已删除"
+        },
+        {
+          "id": "1202201",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-08-23",
+          "content": "嗯嗯"
+        }
+      ]
+    },
+    {
+      "id": "681518",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛澤東有性病",
+        "uid": "20469"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t是中國人的人均素質和文化水平的體現<br/>\n<br/>\n接受了共產先鋒隊的政治文化，並結合了<br/>\n<br/>\n中國傳統的舊封建主義式大帝國文明<br/>\n<br/>\n就誕生了嘴巴很髒的「中國人」\t\t</div>",
+      "date": "2023-08-20",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1201692",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-08-21",
+          "content": "已删除"
+        },
+        {
+          "id": "1201694",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-08-21",
+          "content": "已删除"
+        },
+        {
+          "id": "1202202",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-08-23",
+          "content": "嗯嗯，明白"
+        }
+      ]
+    }
+  ]
+}

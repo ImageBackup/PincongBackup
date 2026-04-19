@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "63973",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "712986",
+      "is_folded": false,
+      "answerer": {
+        "username": "GJT11",
+        "uid": "10864"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGoogle Colab付點銀子，搭建個Stable Diffusion WebUI，跑到爽。<br/>\n本地跑需要Nvidia (VRAM &gt; 4GB)以上顯卡配置\t\t</div>",
+      "date": "2023-12-15",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1232636",
+          "replier": {
+            "username": "绝不换肩",
+            "uid": "50844"
+          },
+          "date": "2023-12-15",
+          "content": "4Gb出不了高分辨率的图。至少得12G显存。"
+        }
+      ]
+    },
+    {
+      "id": "712984",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t跑离线版的SD。<br/>\n玩了一下，太懒，放弃了。<br/>\nAMD的显卡不如狗。\t\t</div>",
+      "date": "2023-12-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

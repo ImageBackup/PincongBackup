@@ -1,0 +1,30 @@
+{
+  "article_id": "63555",
+  "category_id": "4",
+  "title": "GFW部份功能已经下放到用户线路，墙内用户小心，不要使用“云宽带”产品、FTTR套餐",
+  "meta_description": "GFW部份功能已经下放到用户线路，墙内用户小心，不要使用“云宽带”产品、FTTR套餐 - 不看不知道，一看吓一跳，所谓的“云宽带”竟然是把用户家的内网延伸至运营商的云平台。 来源：《电信 云网关 云宽带 怎么取消？网络突然变 71.X》https://www.v2ex.com/t/967811  一直以来的宽带使用方式是，用户报装了宽带，运营商...",
+  "meta_keywords": "gfw,部份,功能,已经,放到,用户,线路,墙内,小心,不要,使用,云宽带,产品,fttr,套餐",
+  "tags": [
+    {
+      "id": "1117",
+      "name": "GFW"
+    },
+    {
+      "id": "3033",
+      "name": "GFW防火墙"
+    },
+    {
+      "id": "5317",
+      "name": "宽带"
+    }
+  ],
+  "author": {
+    "username": "workingpaper",
+    "uid": "21337"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t不看不知道，一看吓一跳，所谓的“云宽带”竟然是把用户家的内网延伸至运营商的云平台。<br/>\r\n来源：《电信 云网关 云宽带 怎么取消？网络突然变 71.X》https://www.v2etwitter.com/t/967811<br/>\n<br/>\r\n一直以来的宽带使用方式是，用户报装了宽带，运营商把光纤拉到用户家里，然后再配个光猫。<br/>\r\n用户既可以直接用光猫上网，把光猫当作路由器来用；<br/>\r\n也可以自己在后面配个路由器，光猫此时仅仅是接入器。<br/>\n<br/>\r\n前者的做法，相当于光猫成了自家内网的一部份，要是中了毒的话，完全可以变成肉鸡，扫描用户内网设备。<br/>\r\n但好在，运营商配的光猫本身性能就不算很好，功能也不多，甚至还需要内置硬件加速芯片才能跑满带宽上限。通常只有高端路由器才会配置性能优异、能跑满千兆的加速芯片。可想而知，运营商的光猫CPU性能高不到哪里去（大家在闲鱼搜一下二手光猫就知道大概价格了）<br/>\n<br/>\r\n而后者的做法，相当于光猫和自家网络做了层分隔，光猫无法扫描用户内网设备。<br/>\n<br/>\r\n但“云宽带”改变了这个做法。<br/>\r\n那么“云宽带”为什么需要警惕？这是因为这是“云宽带”相当于把网关路由器放到了运营商云平台那里去，只要用户家里没有多一层路由器保护，而是直连，那么只要运营商愿意，就可以在云平台直接扫描用户内网。<br/>\r\n请记住一件事情，在云平台那里，可以调用的机器性能远比十几瓦的光猫高得多！<br/>\n<br/>\n<br/>\n<b>接下来是重点部份，GFW功能下放</b><br/>\n<br/>\r\n根据刚才发的v2ex内的讨论来看，发帖者发现云内网多了个新设备，“Wuhan Greenet infomation Service Co.,Ltd”，热心人经过调查，发现这个设备就是专门搞流量分析的。<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9zc0l1YVkwLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/ssIuaY0.png\"><img alt=\"https://i.imgur.com/ssIuaY0.png\" loading=\"lazy\" src=\"https://i.imgur.com/ssIuaY0.png\" style=\"max-width:100%\"/></a><br/>\n<br/>\r\n根据热心人的提示，FTTR等同于运营商全盘接管用户家的内网。我后续查了下，发现危害很大<br/>\r\n不用我多说，你也能想<br/>\r\n《为什么我们要拒绝 PON 方案的 FTTR》https://v2etwitter.com/t/938105<br/>\r\n《终于解决坑爹的 FTTR 搭配软路由的问题了》https://www.v2etwitter.com/t/961082<br/>\r\n根据这些讨论贴的情况来看，FTTR的做法是，每个房间都配一个光猫，每个房间之间的互通流量都会经过运营商的光猫来传送。<br/>\n<br/>\r\n不用我多说，你也能想象到危害有多大了吧？\t\t\t\t\t\t\t</div>",
+  "view_count": 22758,
+  "date": "2023-09-08",
+  "agree_count": 19,
+  "comment_count": 43
+}

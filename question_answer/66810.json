@@ -1,0 +1,89 @@
+{
+  "parent_type": "question",
+  "parent_id": "66810",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "743100",
+      "is_folded": false,
+      "answerer": {
+        "username": "Antonov一500",
+        "uid": "73460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是欽定的，<br/>\n<br/>\n是自然形成的，聲望足夠高，自動成為管理員\t\t</div>",
+      "date": "2024-04-24",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1260107",
+          "replier": {
+            "username": "实事求是",
+            "uid": "123573"
+          },
+          "date": "2024-04-24",
+          "content": "谢谢朋友，❤️"
+        }
+      ]
+    },
+    {
+      "id": "743390",
+      "is_folded": true,
+      "answerer": {
+        "username": "Sechi",
+        "uid": "126729"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-04-25",
+      "agree_count": 1,
+      "discussion_count": 9,
+      "discussions": [
+        {
+          "id": "1260362",
+          "replier": {
+            "username": "实事求是",
+            "uid": "123573"
+          },
+          "date": "2024-04-25",
+          "content": "同问 @Nederland"
+        },
+        {
+          "id": "1260364",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-25",
+          "content": "声望达到128,你就是管理员了"
+        },
+        {
+          "id": "1260373",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-25",
+          "content": "@Sechi:很抱歉, 但是这是规则如何运作. 如果想谈论色情内容的话, 可以前往水区或葱轮TV."
+        },
+        {
+          "id": "1260389",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-25",
+          "content": "@Sechi:polska krowa!"
+        },
+        {
+          "id": "1260617",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2024-04-25",
+          "content": "@新用户12555:很抱歉,我没有这样的权限"
+        }
+      ]
+    }
+  ]
+}

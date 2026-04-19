@@ -1,0 +1,109 @@
+{
+  "parent_type": "question",
+  "parent_id": "63534",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "708002",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大陆政权的很多机构名称都不是原创，而是从中华民国抄过来的，国务院和国务院总理是其中之二。\t\t</div>",
+      "date": "2023-11-25",
+      "agree_count": 5,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1228106",
+          "replier": {
+            "username": "Guelph",
+            "uid": "119408"
+          },
+          "date": "2023-11-25",
+          "content": "为什么一定要叫国务院总理？直接叫中央人民政府总理不行吗？\n比如北京市人民政府不是北京市务院，那么为什么中央人民政府是国务院？"
+        },
+        {
+          "id": "1228107",
+          "replier": {
+            "username": "Shit进瓶",
+            "uid": "93874"
+          },
+          "date": "2023-11-25",
+          "content": "@Guelph:那又为什么要叫总理呢？叫国长不好吗？就像省长市长县长🤣"
+        },
+        {
+          "id": "1228143",
+          "replier": {
+            "username": "elsaanna",
+            "uid": "24409"
+          },
+          "date": "2023-11-25",
+          "content": "@Shit进瓶:国长容易和总统混淆"
+        },
+        {
+          "id": "1228281",
+          "replier": {
+            "username": "weibao",
+            "uid": "41372"
+          },
+          "date": "2023-11-26",
+          "content": "１９５４年的时候还叫政务院，后来改了，"
+        }
+      ]
+    },
+    {
+      "id": "708026",
+      "is_folded": false,
+      "answerer": {
+        "username": "汉口市长",
+        "uid": "113634"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国务院，省务院，市务院，区务院，乡务院，屯务院，村儿务院<br/>\n国务卿，省务卿，市务卿，区务卿，乡务卿，屯务卿，村儿务卿\t\t</div>",
+      "date": "2023-11-25",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708028",
+      "is_folded": false,
+      "answerer": {
+        "username": "畜平首寄",
+        "uid": "111902"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t本来是杂物院，觉得不好听，改个国字。<br/>\n中国这么大，不是每个地方都那么乱的。。。\t\t</div>",
+      "date": "2023-11-25",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708197",
+      "is_folded": false,
+      "answerer": {
+        "username": "耿浩伦",
+        "uid": "119720"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t叫国务院主要是为了跟“政府”分开，并不是地方政府的唯一上级，是毛为了限制周的权力所以这样叫，直接叫政府总理给人一种全国政府都归总理管的感觉，但国务院主要管那几十个部委。\t\t</div>",
+      "date": "2023-11-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708205",
+      "is_folded": false,
+      "answerer": {
+        "username": "MrJerry",
+        "uid": "96142"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最初的“中央人民政府”效仿的是“國民政府”。<br/>\n<br/>\n“國民政府”實行的是“委員會”制，“中央人民政府”也是“委員會”制。<br/>\n<br/>\n“國民政府”下轄行政院等等，還有軍委；“中央人民政府”下轄政務院等等，也有軍委。<br/>\n<br/>\n後來的“國務院”算是介於“中央人民政府”和“中央人民政府政務院”的機構，沒有原來“中央人民政府”的司法權軍權等等，但享有原來“中央人民政府”的部分立法權。<br/>\n<br/>\n“政務院”總理由“中央人民政府委員會”表決後由“中央人民政府主席”任命，“國務院”總理由“全國人民代表大會”表決後由國家主席任命。<br/>\n<br/>\n“國務院”不直接叫“中央人民政府”，可能是為了防止跟之前集立法行政司法軍事大權於一體的超級政府混淆吧！\t\t</div>",
+      "date": "2023-11-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

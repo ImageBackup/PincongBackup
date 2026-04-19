@@ -1,0 +1,186 @@
+{
+  "parent_type": "question",
+  "parent_id": "56528",
+  "answer_count": 13,
+  "answers": [
+    {
+      "id": "636028",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t兵推理论上是一种战争军事游戏，只能作为参考，而不是说开战了就按照这个趋势走，人工智能远还没到这么先进的地步。<br/>\n<br/>\n兵推可以模拟什么：<br/>\n<br/>\n1.在双方拥有的战斗单位数目知晓，攻击方式知晓的前提下，可以粗略估计开战后的损失和胜负<br/>\n<br/>\n2.粗略看出哪些单位还需要加强。<br/>\n<br/>\n<br/>\n兵推无法建模的量：<br/>\n<br/>\n1.当发生战争时，同步战争以外的因素对战争造成的影响（经济制裁、国力）<br/>\n<br/>\n2.在敌我力量极端悬殊之下，发生非正常结局。比如在双方10:1坦克数量下，兵推只会得出占优势的一方必胜。但是，现实状态下，因为各种原因发生劣势的一方胜，并不是完全不可能。<br/>\n<br/>\n3.兵推依照的数据是公开的，没有包括各国的国防机密。而这一点无可避免。<br/>\n<br/>\n以上都是2023年1月报告所提到的。<br/>\n<br/>\n———-<br/>\n<br/>\n鉴于最近小白太多，再多说几句关于人工智能的事。<br/>\n<br/>\n最近chatgpt的火爆让很多人认为人工智能已经远超人类，因而战场无人化的趋势很快就要到来。而作为搞人工智能的告诉你们，这个chatgpt就是一个机器翻译的高级版，根本谈不上多聪明，它是通过训练数据进入来教授机器学习，并且规避了政治和敏感话题，这是防冒犯的基本准则。<br/>\n<br/>\n于是，出现了小白对敏感话题机器不做正面回答，或是不是满意的回答，以及随便一个圈子外都不认识的人弄进去让机器要回答，然后吐槽一番，就可以看出知识面的匮乏。<br/>\n<br/>\n你可以去做一个独立的机器聊天系统，全部输入政治倾向反共的数据进行训练，然后机器自然会回答你满意的答案，但这些作为公开团队不会这么做，他只能表示对争执话题占中立，而从这一点上看chatgpt完全正确。<br/>\n<br/>\n团队已声明，对政治话题和色情内容设置了自我规避和保护，并警示用户不要拿这些内容去和机器聊天。<br/>\n<br/>\n至于战场人工智能，目前，尽管机器人正在发展，但是，要想完全取代人作战，还远达不到。你可以训练一个机器尝试按照指令去做事，但战场情况复杂多变，目前还难以建模，机器遇到突发情况无法反应和反应过慢的弱点都表明士兵仍然不可缺少。在游戏里看到的机器人大作战，再等50-100年吧。\t\t</div>",
+      "date": "2023-03-02",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1158963",
+          "replier": {
+            "username": "王匪沪宁",
+            "uid": "13988"
+          },
+          "date": "2023-03-03",
+          "content": "@sasasasasa:基本上可以这么认为，现阶段人类的科技和深度学习能力根本不足以让机器有自主思考能力，因为仍是传统的数学解析，如果一个东西不能转化成数学问题，或者转换的数学问题无解，那么就没法用机器去学习。\n除非未来有一天，机器完全设计出来按照人类神经的思考方式去思考问题，那才能真正让机器比人聪明"
+        }
+      ]
+    },
+    {
+      "id": "635992",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就是因为不承认推演结果才要打真的战争啊<br/>\n<br/>\n如果双方都认为推演结果是如此，弱势一方是会选择接受强势一方的条件的。\t\t</div>",
+      "date": "2023-03-02",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636017",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从一战开始 人类战争就进入到总体战了<br/>\n就是不打死对方 对方是不会投降\t\t</div>",
+      "date": "2023-03-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636032",
+      "is_folded": false,
+      "answerer": {
+        "username": "Germany2014",
+        "uid": "105134"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t承认损失的能力算不算<br/>\n？<br/>\n打越南美军死五w撤退<br/>\n换强国死五十万没问题\t\t</div>",
+      "date": "2023-03-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636048",
+      "is_folded": false,
+      "answerer": {
+        "username": "Shalllearning",
+        "uid": "44368"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t关键是胜负的标准很难定义。比如阿富汗战争，美军撤出，可是他们败了吗？乌克兰战争，如果普丁知道一个星期无法占领乌克兰，他还会打吗？<br/>\n       弱势方自然是要让步，可是让多少，取决于他能给对方制造多大的麻烦。因此，弱势方要打，是认为他能给对方制造一个超过对方认知的麻烦。如苏芬战争，就是苏联对芬兰制造麻烦的能力估计不足，要价太高。\t\t</div>",
+      "date": "2023-03-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636063",
+      "is_folded": false,
+      "answerer": {
+        "username": "NamelessPERSON",
+        "uid": "107120"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不说远的，要是按照俄乌开战之前的认知进行兵推，乌克兰已经没了，但是现在呢。\t\t</div>",
+      "date": "2023-03-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636163",
+      "is_folded": false,
+      "answerer": {
+        "username": "萌萌哒",
+        "uid": "10510"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t目前数十名乌军参谋部高级军官已抵达德国威斯巴登美军基地，将在这里与美军参谋军官利用美国和北约最先进超级军用计算机和作战模拟系统进行推演下一阶段作战方案。2022年9月伊久姆反击战爆发前，乌军参谋军官就是利用美国超级计算机和作战模拟系统预先进行多次兵棋推演才真正发动伊久姆战役取得大胜。\t\t</div>",
+      "date": "2023-03-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636168",
+      "is_folded": false,
+      "answerer": {
+        "username": "xpking2",
+        "uid": "103042"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你不如說直接在品蔥發文打嘴炮分勝負算了<br/>\n拿聲望作得分點\t\t</div>",
+      "date": "2023-03-03",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636190",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛澤東有性病",
+        "uid": "20469"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t也就是說，以後可以讓我和習進平打麻將來分配我和他的財產？還是讓達賴和習近平玩撲克來決定西藏的未來？<br/>\n<br/>\n你個什麼東西敢提這種屁話？<br/>\n<br/>\n出來混要勢力有背景！你個小癟三\t\t</div>",
+      "date": "2023-03-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "635995",
+      "is_folded": false,
+      "answerer": {
+        "username": "muromi",
+        "uid": "87682"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t推荐阅读一篇你们不待见的刘电工作品：《光荣与梦想》\t\t</div>",
+      "date": "2023-03-02",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "636012",
+      "is_folded": false,
+      "answerer": {
+        "username": "logitgo20",
+        "uid": "44516"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t兵推只是理論上的，真實戰爭肯定有變數，人的意志可以改變結果。\t\t</div>",
+      "date": "2023-03-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636016",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 就算我會相信人們能文明到上戰場只跳類似毛利人戰舞來對決的文明境界, 也不會相信人們能聼機器的建議. 或許只有通用量子機展示它那天書一般的精巧代碼, 證明了智能碾壓人類. 它再對戰爭一方說 \"你們一定戰敗\" 或許人們才會半信半疑的再一次去證明智不如它.\t\t</div>",
+      "date": "2023-03-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636082",
+      "is_folded": false,
+      "answerer": {
+        "username": "tk9999",
+        "uid": "73635"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t戰爭是最後的手段,又或者說戰爭是政治紛爭的延續(=二戰以來,意識形態的紛爭=民主體制對抗專制體制)。<br/>\n兵推之前,其實要先推的是兩種意識形態的優劣。<br/>\n<br/>\n那其實是不用計算了,專制是必敗無疑(民主體制和專制體制的對抗,本質是道和反道體制,正常和不正常....等等的競爭)。<br/>\n那戰爭是什麼?<br/>\n人類在進入地球圈大一統前的無謂的內耗(時間和生命財產);或是說....不必要的流血犧牲。<br/>\n可憐嗎?<br/>\n沒辦法,人類的智慧就到這裡....看不穿的部分,只能靠優勝劣敗來處理....。<br/>\n<br/>\n民主體制的疑問和似是而非的解讀.... <br/>\nhttps://pincong.rocks/article/50175\t\t</div>",
+      "date": "2023-03-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

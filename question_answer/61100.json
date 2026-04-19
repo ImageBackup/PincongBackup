@@ -1,0 +1,78 @@
+{
+  "parent_type": "question",
+  "parent_id": "61100",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "682100",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你要用就专门搞台玩游戏的电脑用<br/>\n鬼知道会不会扫硬盘\t\t</div>",
+      "date": "2023-08-22",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "682116",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t几年前有人破解UU加速器，实现全局VPN功能<br/>\n不过这种方法，基本上等于实名翻墙了\t\t</div>",
+      "date": "2023-08-22",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "681999",
+      "is_folded": false,
+      "answerer": {
+        "username": "kiritokun",
+        "uid": "44964"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用倒是没啥问题，UU我记得是steam加速免费，方便还是方便的<br/>\n<br/>\n但假如说要花钱的话，我的建议还是花钱买个梯子实在的多，打游戏用完还能拿来翻墙啥的，不比花钱买个只能加速游戏的加速器更好嘛\t\t</div>",
+      "date": "2023-08-22",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1201959",
+          "replier": {
+            "username": "skosko",
+            "uid": "108801"
+          },
+          "date": "2023-08-22",
+          "content": "这种加速器应该是拉的专线 所以延迟会比机场低(*￣3￣)╭"
+        },
+        {
+          "id": "1201992",
+          "replier": {
+            "username": "dodo",
+            "uid": "112815"
+          },
+          "date": "2023-08-22",
+          "content": "梯子打不了游戏，"
+        }
+      ]
+    },
+    {
+      "id": "682001",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能用且好用，暗黑三亚服一直在用<br/>\n<br/>\n-----二十---------二十字----------------二十字----二十-------\t\t</div>",
+      "date": "2023-08-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

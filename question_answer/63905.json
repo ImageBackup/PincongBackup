@@ -1,0 +1,466 @@
+{
+  "parent_type": "question",
+  "parent_id": "63905",
+  "answer_count": 16,
+  "answers": [
+    {
+      "id": "713195",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t代码行数没有任何意义。楼上还有一个什么国家二级的，简直搞笑。你怎么不说信息学竞赛。<br/>\n<br/>\n楼主你要明白，没什么编程高手这么一说，因为编程能做的事情太多了。就好像你说的后端开发，本身就是一个非常专门的领域，如果你写后端代码的目的是就业，那一个人写一辈子代码，也不会有large scale的经验。同样，你有BAT支持千万并发的经验，在一个startup里也是屠龙之技，人家要你三个月出个POC，你花了两个月给人写架构，不是说有万能高手的。<br/>\n<br/>\n而且代码行数也没有任何意义，同样以后端为例子，一大堆代码都是chatgpt都能根据数据库schema生成的，这种代码不能说质量不高，但重复性高的话，上千行代码两个小时连单元测试都写好了。这能根个人水平有关系？<br/>\n<br/>\n编程要看实战环境。我举两个例子。第一，你给自己写代码，不找工作。这样，你写代码的意义就是满足自己的要求，比如办个反共论坛，从开源代码开始，加自己的功能，比如品葱投票帖之类。如果你的论坛发展很好，你会学到各种scale方面的东西，如果很多人攻击，你会学到安全方面的东西，如果你给你用的开源项目提交PR，你会学到开源协作方面的东西。然而，假设你的论坛注册人数几百，跟你的个人blog没啥区别，那你一直写代码加功能，也只是闭门造车，很可能代码质量非常垃圾，最后自己也看不下去了直接放弃项目。你写了十个项目，总用户一千，活跃用户就你一个，开源PR为零，那你写了一百个新功能五万行代码，对你来说提升价值也不大。<br/>\n<br/>\n再举个例子，你写代码是合同工，别人让干嘛就干嘛，卖点是便宜，一百人民币一小时。让你做的都是两三个月的小项目，你写了十年，什么语言，框架热门就用什么，结果可能是自己融会贯通，也可能是变成代码胶水工。连何为高手都说不好，又何谈代码行数？<br/>\n<br/>\n以上两个场景都不是常见场景。常见场景是找工作。根据你的技术水平，你的时间能否换成每小时三四百人民币起薪的钱（睡前），是一般人衡量水平的能力，因为毕竟创业成功率低，freelancer合同不是长久之计。那么我们怎么衡量编程水平？无非是项目经验，因为一般来说，以前没做过什么不代表不能做什么，但以前做过什么一般能说明可以做什么。主要包括：<br/>\n<br/>\n项目数量<br/>\n项目人数<br/>\n项目内容<br/>\n你的day to day work<br/>\n<br/>\n如果你的沟通能力不是很差，基本上面试中都会被摸的八九不离十。不是说你本人是java的发明人之一，你就能胜任所有编程工作了，还是要看岗位协调性。\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2023-12-16",
+      "agree_count": 5,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1232745",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-16",
+          "content": "感谢建议！ 非常中肯。  不是职业程序员，目前不靠这个吃饭，近几年也没有想法转行，单纯感兴趣而已。 但是有想法把coding 水平再提高一个台阶。"
+        },
+        {
+          "id": "1232746",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-16",
+          "content": "BTW 你提到的时薪水平， 早几年就实现了，哈哈哈哈"
+        },
+        {
+          "id": "1232772",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-12-17",
+          "content": "@AAPLTSLA:在中国吗？那很厉害啊👍"
+        }
+      ]
+    },
+    {
+      "id": "712477",
+      "is_folded": false,
+      "answerer": {
+        "username": "legend2020",
+        "uid": "52363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t楼主问的问题是有实际意义的，不懂的不要瞎几把回答误人子弟。代码行数不是一个精确的指标，但确实是一个有意义的指标。<br/>\n<br/>\n我自己从事编程十几年，游戏应用都做过，也教过学生，从个人经历回答一下这个问题。以下仅涉及C/C++，不讨论其他语言。<br/>\n<br/>\n3000～5000行代码，相当于基础语法过了一遍，写了几个俄罗斯方块，可以考国家二级<br/>\n<br/>\n2～3万行代码，足够掌握基础算法和API编程了，补一补网络原理和数据库之类的辅助知识，可以大学毕业实习找工作<br/>\n<br/>\n5万行左右代码，相当于持续工作几年，工作中需要用到的基本都接触过了。如果拿个什么比赛的名次，可以有机会进BAT当炮灰。<br/>\n<br/>\n10万+代码，那么一定是自己专研某个领域或者独立开发某个项目到达一定程度，在这个领域有一定的自信的人物了。我实习的时候看过一本书，说某个日本企业委托美国人做游戏机。里面偶然提到能研发芯片的美国工程师最低必须是博士生，博士生的门槛是写过10万行代码。<br/>\n<br/>\n<br/>\nlinux 2.x内核，kernel目录下7万行代码，driver目录下占了几百万行代码，一个职业程序员如果在特定领域能攒下十万行代码，是有本事的。\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 2,
+      "discussion_count": 11,
+      "discussions": [
+        {
+          "id": "1232184",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-13",
+          "content": "感谢回复。 coding的世界确实太大了，人的精力有限，只可能在若干几个领域有所建树。"
+        },
+        {
+          "id": "1232189",
+          "replier": {
+            "username": "legend2020",
+            "uid": "52363"
+          },
+          "date": "2023-12-13",
+          "content": "@AAPLTSLA:能在一个领域有所建树就行。编程领域学历要求很高，建议考个好一点的大学的博士，不要跟广大本科生卷"
+        },
+        {
+          "id": "1232205",
+          "replier": {
+            "username": "德州仪器",
+            "uid": "93127"
+          },
+          "date": "2023-12-13",
+          "content": "搞芯片的需要这么强的编程能力吗真的假的，到底是搞芯片还是搞芯片生态"
+        },
+        {
+          "id": "1232216",
+          "replier": {
+            "username": "legend2020",
+            "uid": "52363"
+          },
+          "date": "2023-12-13",
+          "content": "@德州仪器:美国it圈的学历歧视也是很严重的，这一段文字我记得很清楚"
+        },
+        {
+          "id": "1232267",
+          "replier": {
+            "username": "德州仪器",
+            "uid": "93127"
+          },
+          "date": "2023-12-13",
+          "content": "@legend2020:芯片设计那当然，本科生干基本不了的"
+        },
+        {
+          "id": "1232279",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-12-13",
+          "content": "国家二级是什么垃圾考试啊"
+        },
+        {
+          "id": "1232280",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-12-13",
+          "content": "芯片这个嘛\n软件工程师比硬件工程师要容易当，工资还要高，上限还要高\n你说气人不气人\n最好笑的是还有这么多人在EE/ECE/CS这个大类里选各种偏硬件的方向\n你都会觉得tmd是不是有些人真的爱硬件啊，"
+        },
+        {
+          "id": "1232300",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-12-14",
+          "content": "@rowlandheights: 软件的更新迭代很快，需要不断学习，经验再足的软工，要进大厂还得刷题；硬工靠经验吃饭，越老越吃香，跳槽换工作反而会越来越容易。新毕业的入行，头十年硬工拿的钱肯定不如软工，但是十年之后就不一定了。"
+        },
+        {
+          "id": "1232304",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-12-14",
+          "content": "@AAPLTSLA: 术业有专攻，倒退个四五十年，这个行业里还有样样精通的全才，现在肯定没有了。我工作中用过的编程语言不下十门，但是主要还是在两三门里打转。"
+        },
+        {
+          "id": "1232460",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-14",
+          "content": "@Meltdown: 同意，现在的技术栈太丰富了，一个人的精力没有办法cover过来。  而且各个技术栈越来越有融合和交叉的趋势，从这个意义上说， 现在反而是程序员的黄金时代。"
+        },
+        {
+          "id": "1232738",
+          "replier": {
+            "username": "习近平的裤子",
+            "uid": "100552"
+          },
+          "date": "2023-12-16",
+          "content": "junior到mid这个可能有道理，但再往上和代码的行数就没关系了，每天CRUD水行数就算是几十万行理解也是个普通人"
+        }
+      ]
+    },
+    {
+      "id": "712361",
+      "is_folded": false,
+      "answerer": {
+        "username": "daxuesheng",
+        "uid": "14137"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我现在提交的很多PR净行数都是负的（底下小朋友堆的屎山不及时清理就清不掉了）。<br/>\n<br/>\n真正可以称为算法的东西用编程语言几行就描述出来了。好的程序员一般是思考的时间多，可能需要查很多资料和已有的实现，然后用最少的功夫（包括代码量和时间）把自己的想法实现。<br/>\n<br/>\n差的或者懒的程序员一般是把已有的代码复制一遍，把几个地方改一改就交差了。纯粹算代码量，感觉这些人还写得多，但是因为是复制粘贴来的，可维护性等都很差，优化什么更无从谈起。<br/>\n<br/>\n所以楼主以代码量来衡量自己的水平，无疑是连门路都没找对。\t\t</div>",
+      "date": "2023-12-12",
+      "agree_count": 8,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1232160",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-12-13",
+          "content": "真的猛士,敢于直面屎山,重构屎山"
+        },
+        {
+          "id": "1232191",
+          "replier": {
+            "username": "legend2020",
+            "uid": "52363"
+          },
+          "date": "2023-12-13",
+          "content": "代码行数肯定是有意义的。你能清理屎山bug海，也是因为你比写下了那些代码的小朋友写过更多的代码。"
+        }
+      ]
+    },
+    {
+      "id": "712297",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t高手与否怎么可能能用行数来衡量<br/>\n<br/>\n论算法能力的话,跟你写出的运行复杂度是有关的.<br/>\n不过这方面差不多就行了,除非你对这方面是真感兴趣<br/>\n<br/>\n论合作,你写的代码他人要能看懂,良好的注释行为,单文件行数需要进行限制<br/>\n<br/>\n论个人,如果不是<mark>支那</mark>公司那种赶猪上线项目.多思考能不能重构这些代码,有没有更好的实现方式?<br/>\n失败了也不要紧,大不了还原再来.在失败的过程中你就会发现你对这门语言的不足,从而提升自己的水平\t\t</div>",
+      "date": "2023-12-12",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1232019",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-12",
+          "content": "非常中肯的建议。谢谢! 可以多讲点"
+        },
+        {
+          "id": "1232023",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2023-12-12",
+          "content": "@AAPLTSLA:讲多了也没用，你自己写多了才有体会。"
+        }
+      ]
+    },
+    {
+      "id": "712414",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得写到不用看文档不用上网查询就能实现一个简单的算法或者功能逻辑就说得过去了，要写多少行能达到这个水平因语言和个人学习能力而异。再往上就是对软件和系统架构的熟悉和掌握，跟写过多少行就没啥关系了。\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712479",
+      "is_folded": false,
+      "answerer": {
+        "username": "NZRdlClr5",
+        "uid": "26898"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你抄寫幾萬遍print hello world也是幾萬行代碼，有進步嗎？<br/>\n放棄做題家思維吧，重點是要懂<br/>\n比方說什麼算法效率高，為什麼這裡要用算法a而不是算法b<br/>\n或者這個package的原理是什麼，package a和package b看上去功能差不多有什麼實際不同嗎<br/>\n再進階的，不同語言有什麼不同，為什麼看似都能解決問題但這裡你要用這種語言\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712419",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t比行数比语言，感觉没有太大意义，主要是看你要解决什么问题，解决问题用什么方式，<br/>\n<br/>\n比如说ｆｕｎｃｔｉｏｎａｌ　ｐｒｏｇｒａｍｍｉｎｇ，<br/>\n<br/>\nhttps://typelevel.org/<br/>\n<br/>\n这一支技术栈要解决的问题，别的语言也许也可以解决，但是他们有他们特别的长处，最近因为ｌｉｃｅｎｓｅ变化的ａｋｋａ／ｐｅｋｋｏ，主要也是解决问题网络后端的ａｐｐｒｏａｃｈ比较特别，有一类特别适合他们这种解决方式的问题，<br/>\n<br/>\n总的来说，特别是学习了ｆｕｎｃｔｉｏｎａｌ　ｐｒｏｇｒａｍ之后，看待问题的方式会有不同，解决问题的方式也会不同，<br/>\n<br/>\n行数和用什么语言，自己得心应手的语言，都可以，\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1232741",
+          "replier": {
+            "username": "主席也有难处",
+            "uid": "119334"
+          },
+          "date": "2023-12-16",
+          "content": "python算functional programming吗？"
+        },
+        {
+          "id": "1232761",
+          "replier": {
+            "username": "weibao",
+            "uid": "41372"
+          },
+          "date": "2023-12-16",
+          "content": "@主席也有难处:正儿八经的ｆｐ还是要学ｈａｓｋｅｌｌ一类的，但是觉得这些语言太刁钻的话，还是学习ｓｃａｌａ这种比较折衷的好，ｊａｖａｓｃｒｉｐｔ／ｔｙｐｅｓｃｒｉｐｔ甚至ｃ＋＋都可以按ｆｐ使用，但是一般使用ｃ＋＋，ｊｓ的人不会拿来用作ｆｐ，"
+        }
+      ]
+    },
+    {
+      "id": "712433",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t代码行数是一个很粗糙的指标，通常不是衡量人水平的主要指标。一个好的程序员，最主要的能力在于，写出”可维护性“好，”可扩展性“强的代码。而这些代码意味着代码质量”高“，可维护性好意味着代码的可读性好，结构合理，清晰，容易理解，注释恰到好处，代码格式好看，让人读起来不头疼不头大。代码行数不能说明太大问题，因为垃圾代码的行数越多，越是一种”灾难“。\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1232739",
+          "replier": {
+            "username": "华国锋",
+            "uid": "16360"
+          },
+          "date": "2023-12-16",
+          "content": "说得很好"
+        }
+      ]
+    },
+    {
+      "id": "712326",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t蛋用没有, 你找下一份工作人家还是看你刷题和吹nb的能力\t\t</div>",
+      "date": "2023-12-12",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712604",
+      "is_folded": false,
+      "answerer": {
+        "username": "红冬里的青鱼",
+        "uid": "449"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t普通写crud之类的东西，通常5万到10万可以达到mid-senior及以上。<br/>\n<br/>\n但是更进一步当技术专家的话，行数意义不大，要的是知道怎么写出好代码。<br/>\n<br/>\n技术大牛不是你能写出多么复杂的东西，而是能写出极其简洁易懂的有效代码。每一个func和内容都言之有物，定义得恰到好处，内容逻辑别人一看就懂，并且绝不会出现几百行一个func的东西。<br/>\n<br/>\n这个不是写多少行能练出来的，更需要学习其它大牛的代码进行模仿。有的人可以写得简洁，但是调用极其复杂，很绕。有的人写得逻辑很直接，但是都放到一个文件里，func极其长，难以维护和阅读。<br/>\n<br/>\n不过绝大多数程序员到了一定程度，都不想继续练技术了。更多人转管理，专注以系统设计\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "713194",
+      "is_folded": false,
+      "answerer": {
+        "username": "习近平的裤子",
+        "uid": "100552"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t和行数有关系，但不多（不要杠，入门的时候可能有点用，但也只是从新手变成熟手而已）<br/>\n<br/>\n最重要的是你的理解和知识有没有随着代码的行数增加而提高<br/>\n在印度外包公司每天写一样的垃圾代码，就算累积到几十万行那也只是个高级流水线工人而已\t\t</div>",
+      "date": "2023-12-16",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1232747",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-16",
+          "content": "高级流水线工人也有存在的价值呢"
+        },
+        {
+          "id": "1232749",
+          "replier": {
+            "username": "习近平的裤子",
+            "uid": "100552"
+          },
+          "date": "2023-12-16",
+          "content": "低水平也有存在的价值，但这个不代表你问题里说的“高手”"
+        }
+      ]
+    },
+    {
+      "id": "712299",
+      "is_folded": false,
+      "answerer": {
+        "username": "极权之下无产权",
+        "uid": "19340"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t等你做了个几个不同类型的大项目后，就会感觉自己实力稳固了很多了。而不是以行数来算的。要做综合的项目，涉及到很多方面的那种\t\t</div>",
+      "date": "2023-12-12",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "713238",
+      "is_folded": false,
+      "answerer": {
+        "username": "新免武蔵玄信",
+        "uid": "120572"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果连编程都要当成做题的话，那我劝你别欺负电脑了\t\t</div>",
+      "date": "2023-12-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712417",
+      "is_folded": false,
+      "answerer": {
+        "username": "ddxxx",
+        "uid": "98317"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t高手不需要写代码，高手只要知道如何去做，有人会帮你实现的\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712435",
+      "is_folded": false,
+      "answerer": {
+        "username": "cris_x",
+        "uid": "96109"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t高手不是看写了多少行代码，而是算法水平，计算机基础知识，项目架构和编写能力综合评判的，顶尖高手看的就不是这些了，而是看能不能有前瞻性的眼光给industry做出多少impact\t\t</div>",
+      "date": "2023-12-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712619",
+      "is_folded": true,
+      "answerer": {
+        "username": "justin_lee",
+        "uid": "28794"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-12-13",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1232462",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-14",
+          "content": "现在早就找到工作了，工作好几年了，已经过了刷题的阶段了，而是工作中需要自我提升。"
+        },
+        {
+          "id": "1232737",
+          "replier": {
+            "username": "justin_lee",
+            "uid": "28794"
+          },
+          "date": "2023-12-16",
+          "content": "已删除"
+        },
+        {
+          "id": "1232748",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-16",
+          "content": "@justin_lee: 机器学习正是我从事的方向，NLP没有太怎么接触过，就写过几个练手的模型。"
+        },
+        {
+          "id": "1232760",
+          "replier": {
+            "username": "justin_lee",
+            "uid": "28794"
+          },
+          "date": "2023-12-16",
+          "content": "已删除"
+        }
+      ]
+    }
+  ]
+}

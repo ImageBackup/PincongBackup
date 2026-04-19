@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "67274",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "747663",
+      "is_folded": false,
+      "answerer": {
+        "username": "長生劍白玉京",
+        "uid": "114596"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好像已经注册不了啦。前几天登录要验证邮箱，验证完还要验证手机号，但是手机号收不到短信验证码。原来可以直接用短信验证码登录\t\t</div>",
+      "date": "2024-05-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

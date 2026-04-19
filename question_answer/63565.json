@@ -1,0 +1,526 @@
+{
+  "parent_type": "question",
+  "parent_id": "63565",
+  "answer_count": 13,
+  "answers": [
+    {
+      "id": "708456",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一楼已经说得很明白，不再就这个问题过多详述。<br/>\n<br/>\n但是给你提出的问题做一些回答：<br/>\n<br/>\n如果一个国内人使用了身份隔离不使用国内手机注册也不使用国内邮箱，仍然被喝茶了，那是怎么查到的？<br/>\n<br/>\n<b>可以通过大数据分析系统，进行个人习惯用语和国内的信息进行匹配，特别是，有一些人喜欢境内外转发或写作相同的文章，原封不动照搬，那么这么做，你再身份隔离都没用了。如果不是，那么如果系统认为，你的发言风格和某个境外账号相似，具有可能的地方俗语或者个人习惯用语，错别字等等，可以通过这一点进行单点圈定筛查，逐步缩小范围。</b><br/>\n<br/>\n<b>但是，这么做的话，国安需要动用一定的技术侦察和成本，一般小人物是没有兴趣去这么做的，除非你是一个影响力很大的人。但如果你不是被喝茶了，那么多半就是你某个身份隔离出现了自身没有意识到的错误，比如转发了带有国内链接暴露了个人境内账号或ip，或者某一句俗语恰巧被国安无意间注意到了。（clash被喝茶的原因，就是在照片里暴露了一个车牌号码。另外，有个在推特活跃的反贼，就是转发了一条哔哩哔哩链接里带有个人国内身份信息注册的后缀）</b><br/>\n<br/>\n<br/>\n<br/>\n搞不懂为啥有人注册境外账号要使用国内信息？<br/>\n<br/>\n<b>因为国内的部分人士没有能力去搞境外号码，境外合法电话号码一般需要肉身到当地，对留学生或境外工作人士，以及拥有海外长期签证的人才有能力。而如果不具备外籍永久身份或旅居权就比较难搞。虚拟个人号码需要一定的技术门槛，在国内也找不到合法的平台去搞。</b><br/>\n<br/>\n<b>建议如果实在没有能力搞到境外号码，那么请考虑使用一个临时国内号码，使用身份证注册一个临时号码后，即用即销，用于注册google账号后，这个号码在接受验证码后废弃，重新注册用那个进行常用。废弃号码注册的google邮箱至少间隔三个月再进行启用，以便转移国安的注意力，如果有条件可以考虑间隔1-3年增加信息库废弃信息概率。</b><br/>\n<br/>\n<b>并且，不建议使用这类账号进行海外发表不当言论。（品葱等极度匿名平台除外）</b> </div>",
+      "date": "2023-11-27",
+      "agree_count": 14,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1228612",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "我遇到一个同学用国内手机号来注册telegram，我寻思你疯了吗？你是嫌自己死得不够快吗？但他也没办法：他没有google voice,也不会这些技术的东西。只好别再用telegram了。"
+        },
+        {
+          "id": "1228613",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "文章这个事情我想过了：绝对在两地同时发表。你在境外发的文章，万不要在墙内发。同理，在墙内发的文章，也绝不能在墙外发。\n当然，最重要的是：我们得是小猫猫，让他们不值得为我们去浪费警力。这样就相对安全了罢？"
+        },
+        {
+          "id": "1228683",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-27",
+          "content": "其实没有技术也还好，没有技术就不要发表反动言论，单纯翻墙绝对不是优先打击对象"
+        }
+      ]
+    },
+    {
+      "id": "708431",
+      "is_folded": false,
+      "answerer": {
+        "username": "shitinampoule",
+        "uid": "108798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不需要间谍发力，甚至大部分情况甚至都不需要技术人员出场。<br/>\n1.你注册推特用的是手机--点击找回密码--相关时点国内哪个手机收到信息，这个账号就能锁定具体人员<br/>\n2.你注册推特用的是邮箱--找到相关邮箱--找回密码--相关时点国内哪个手机收到信息，这个账号就能锁定具体人员<br/>\n<br/>\n所以别用国内的手机注册推特，telegram等墙外建政平台，能用邮件的用邮件（邮箱别用国内手机注册）。不能用邮件的，俄罗斯的sms接码平台也能用。国内外身份一定要隔离。\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 16,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1228572",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "你这两个都跟国内手机没有关联啊。它怎么查？"
+        },
+        {
+          "id": "1228573",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "我无法理解上这些网站却还用国内手机的行为。"
+        },
+        {
+          "id": "1229135",
+          "replier": {
+            "username": "shitinampoule",
+            "uid": "108798"
+          },
+          "date": "2023-11-29",
+          "content": "@lyyzandy:相信我，很多人用国内手机注册电报和谷歌邮箱。"
+        },
+        {
+          "id": "1229216",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-29",
+          "content": "@shitinampoule:我相信你说的事实，我只是觉得这个行为逻辑不对。"
+        }
+      ]
+    },
+    {
+      "id": "708499",
+      "is_folded": false,
+      "answerer": {
+        "username": "罗比",
+        "uid": "26792"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t推特，谷歌，微软有内鬼通共纯属放屁，暴露的都是自己不小心露出马脚，百密终有一疏<br/>\n<br/>\n搜集可以找到的被喝茶抓捕的案例，都是很蠢的暴露了自己的隐私被共匪识别，<br/>\n<br/>\n不幸的是编程随想，教会别人大风大浪，自己却在平地摔倒，有点黑色幽默\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 8,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1228685",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-27",
+          "content": "因为他一开始并没有那么高的警惕度，其实他早期一堆IT博文已经可以让党国大幅度缩小侦查范围\n他那么喜欢键政就应该开个新号专门键政，老号专门讲it，这样新号吸引国安注意"
+        },
+        {
+          "id": "1228687",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "@rowlandheights:也就是说他的老号和新号其实有某种程度重叠？"
+        },
+        {
+          "id": "1228702",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-27",
+          "content": "@lyyzandy:他就一个号"
+        },
+        {
+          "id": "1228720",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "@rowlandheights:啊？编程随想就一个号？我在品葱都得多个号。"
+        },
+        {
+          "id": "1356133",
+          "replier": {
+            "username": "zooom",
+            "uid": "137919"
+          },
+          "date": "2026-01-27",
+          "content": "哎 编程随想真的可惜"
+        }
+      ]
+    },
+    {
+      "id": "708462",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还要注意 随着技术发展<br/>\n<br/>\n转的国内截图<br/>\n<br/>\n还有链接 很有可能都植入了代码 可以追到id<br/>\n<br/>\n一定要分开手机 科学上网 插了国内的sim卡手机别翻墙<br/>\n<br/>\n国产手机谨慎翻墙\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 7,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1228605",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "你不用sim卡上网，你用WiFi，那走的也是国内网络啊。那照你这样说，国内的网络都不能用了啊。"
+        }
+      ]
+    },
+    {
+      "id": "708460",
+      "is_folded": false,
+      "answerer": {
+        "username": "同人志",
+        "uid": "22020"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大部分都是因为使用国内手机注册twitter所致，一些是直接拿真人头像和姓名，跟墙内论坛同名的。<br/>\n<br/>\n我想警方针对普通网民的思路是大数据筛查那些可以关联真实身份的，然后关键词识别哪些账号发言比较严重再请人喝茶。\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1228611",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "推上实名的人脑子秀逗了吗？"
+        }
+      ]
+    },
+    {
+      "id": "708508",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t方法很多 除了社工不小心转发中国网站链接<br/>\n<br/>\n最高级的大概就是利用系统漏洞和内部的员工间谍（沙特这样作被捉到了）但是代价巨大 <br/>\n<br/>\n如果你达到这个级别等于彩票中奖<br/>\n<br/>\n说明已经对党国有严重的伤害, 是时候考虑公开身份收获人气了<br/>\n<br/>\n此外保留好证据 以后打官司可以保证下半辈子衣食无忧\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708523",
+      "is_folded": false,
+      "answerer": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其他人都说的差不多了。<br/>\n<br/>\n分享一个最近看到的网站：<br/>\n<br/>\nhttps://xoen.notepin.co/<br/>\n<br/>\nnotepin是匿名写作平台，虽然是最近才更新，但这里面的内容基本上对我帮助很大。<br/>\n<br/>\ntelegram的Who can find me by number没法设置成nobody，和中共合作的公司拿几台手机设备加一堆号码号码慢慢测就行，外加打个电话就知道你IP，用机场的或者压力给到VPN厂商的基本得G，我极度的不推荐任何葱友使用，我强烈建议使用Session这种内置tor洋葱协议的软件，匿名基本上已经吊打同类产品了，包括simplex<br/>\n<br/>\nTwitter确实出卖了信息给中国，比起推特（X）我更推荐各位使用mastodon（乳齿象）。如果可能的话，mastodon永远不会变成推特（X）。\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708458",
+      "is_folded": false,
+      "answerer": {
+        "username": "民人",
+        "uid": "108220"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大部分都是靠社会工程学，因此不主动暴露个人真实信息是第一要务\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1228609",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "这条纪律我严格遵守。"
+        }
+      ]
+    },
+    {
+      "id": "708490",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t主要依靠监控+86手机号注册短信，很多人就是栽在了这个上面，后面解绑换号也没用<br/>\n另外推特公司内部也有内鬼，中共可以拿到登陆ip，然后给VPN公司施压，就能够溯源到个人了\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 3,
+      "discussion_count": 9,
+      "discussions": [
+        {
+          "id": "1228608",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "你说推特有内鬼，关键推特他是怎么知道我是哪个人呢？我啥也没告诉他啊。"
+        },
+        {
+          "id": "1228615",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-11-27",
+          "content": "@lyyzandy:简而言之，就是顺着网线来抓你。如果你用带SIM卡的手机登录推特，app还能获取你的手机号和IMEI"
+        },
+        {
+          "id": "1228617",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "@客观评价习近平:你认真的吗？app会有我的手机号信息，甚至还有IMEI??"
+        },
+        {
+          "id": "1228686",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-27",
+          "content": "@lyyzandy:app会要权限，你看有没有授权"
+        },
+        {
+          "id": "1228688",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "@rowlandheights:推特会要这些权限吗？我没有这个印象啊。"
+        },
+        {
+          "id": "1228692",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-27",
+          "content": "@lyyzandy:自己检查一下手机设置"
+        },
+        {
+          "id": "1228721",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "@rowlandheights:没有imei这个权限。"
+        },
+        {
+          "id": "1228724",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-27",
+          "content": "@lyyzandy:那就没有，但是他可以读取你的通讯录吗"
+        },
+        {
+          "id": "1228782",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-28",
+          "content": "@rowlandheights:这个权限可以给也可以不给。"
+        }
+      ]
+    },
+    {
+      "id": "708406",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t首先，你的注册信息会被马斯克出卖给中共，用大陆信息注册实际上是裸奔，如果你是大人物。<br/>\n<br/>\n如果你是小人物。<br/>\n<br/>\n1.你的语气，常用词契合墙内的个人<br/>\n2.上传了带信息的图片<br/>\n3.点了钓鱼链接\t\t</div>",
+      "date": "2023-11-27",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "841042",
+      "is_folded": false,
+      "answerer": {
+        "username": "王大可95",
+        "uid": "152608"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不一定需要技术人员，当年因为关注李老师不是你老师，被请喝茶的持续了半年以上，我也是半年后被请的，我就纯出来看帖子的，没发表过任何言论。<br/>\n个人推测这个应该是改X后，X把全部关注李老师不是你老师的人的信息全给出去了，这次需要半年以上审问那么多人。\t\t</div>",
+      "date": "2026-01-27",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "841063",
+      "is_folded": false,
+      "answerer": {
+        "username": "水浅茶清",
+        "uid": "2333"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t三种方法。<br/>\n1、被粉红开盒。有和国内联系的账号信息关联，社工就会开合。<br/>\n2、注册用的国内手机号或者手机。容易泄露手机号或者IMEI。<br/>\n3、国外各大网站内有商业间谍。钱到位什么信息都能搞到。\t\t</div>",
+      "date": "2026-01-27",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708459",
+      "is_folded": true,
+      "answerer": {
+        "username": "Cd9208",
+        "uid": "88787"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-11-27",
+      "agree_count": 2,
+      "discussion_count": 14,
+      "discussions": [
+        {
+          "id": "1228581",
+          "replier": {
+            "username": "Cd9208",
+            "uid": "88787"
+          },
+          "date": "2023-11-27",
+          "content": "已删除"
+        },
+        {
+          "id": "1228610",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "@Cd9208:你重新注册一个不行吗？\n你的推特是怎么被中共发现的？你是透露个人信息了吗？"
+        },
+        {
+          "id": "1228635",
+          "replier": {
+            "username": "Cd9208",
+            "uid": "88787"
+          },
+          "date": "2023-11-27",
+          "content": "已删除"
+        },
+        {
+          "id": "1228636",
+          "replier": {
+            "username": "Cd9208",
+            "uid": "88787"
+          },
+          "date": "2023-11-27",
+          "content": "已删除"
+        },
+        {
+          "id": "1228681",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "@Cd9208:预约博物馆的二维码？这个推为什么要搭理啊？"
+        },
+        {
+          "id": "1228682",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "推特只能从你的ip地址来判定你的身份吧？当你使用魔法的时候，你的ip地址应该是灵活多变的吧？他如果不能确认你的身份，又怎么能够限制你创建新的账号？"
+        },
+        {
+          "id": "1228716",
+          "replier": {
+            "username": "Cd9208",
+            "uid": "88787"
+          },
+          "date": "2023-11-27",
+          "content": "已删除"
+        },
+        {
+          "id": "1228717",
+          "replier": {
+            "username": "Cd9208",
+            "uid": "88787"
+          },
+          "date": "2023-11-27",
+          "content": "已删除"
+        },
+        {
+          "id": "1228719",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-11-27",
+          "content": "@Cd9208:马英九访华？"
+        },
+        {
+          "id": "1228731",
+          "replier": {
+            "username": "Cd9208",
+            "uid": "88787"
+          },
+          "date": "2023-11-27",
+          "content": "已删除"
+        },
+        {
+          "id": "1228732",
+          "replier": {
+            "username": "庄志刚",
+            "uid": "93670"
+          },
+          "date": "2023-11-27",
+          "content": "申诉就好了，twitter应该告诉了你申诉入口。态度强硬点，跟他讲我啥也没干，你们没理由封禁我，请给我解封（当然是用英文这么说）。我的账号一句话一个人都没关注过，就只看，结果给我封了，我申诉了两次给我解掉了"
+        },
+        {
+          "id": "1228733",
+          "replier": {
+            "username": "Cd9208",
+            "uid": "88787"
+          },
+          "date": "2023-11-27",
+          "content": "已删除"
+        },
+        {
+          "id": "1228735",
+          "replier": {
+            "username": "Cd9208",
+            "uid": "88787"
+          },
+          "date": "2023-11-27",
+          "content": "已删除"
+        },
+        {
+          "id": "1228736",
+          "replier": {
+            "username": "Cd9208",
+            "uid": "88787"
+          },
+          "date": "2023-11-27",
+          "content": "已删除"
+        }
+      ]
+    }
+  ]
+}

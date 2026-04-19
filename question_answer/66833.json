@@ -1,0 +1,74 @@
+{
+  "parent_type": "question",
+  "parent_id": "66833",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "743389",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t全匿名的话，很快就会被广告、卖淫、诈骗和满嘴脏话的帖子占领\t\t</div>",
+      "date": "2024-04-25",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1260391",
+          "replier": {
+            "username": "rampage",
+            "uid": "123646"
+          },
+          "date": "2024-04-25",
+          "content": "只是小群体使用，而且重新再开一个也不难"
+        },
+        {
+          "id": "1260435",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2024-04-25",
+          "content": "@rampage: 小群体不是你能决定的。\n如果是熟人之间，何必匿名？如果是公开的，被一个垃圾制造者发现，其他的垃圾制造者很快就蜂拥而至了"
+        },
+        {
+          "id": "1260582",
+          "replier": {
+            "username": "rampage",
+            "uid": "123646"
+          },
+          "date": "2024-04-25",
+          "content": "@天下无贼:可以不停地换，制作一个的时间比吃包子的时间还短"
+        }
+      ]
+    },
+    {
+      "id": "743498",
+      "is_folded": false,
+      "answerer": {
+        "username": "ASD1234",
+        "uid": "26668"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t支持做一个 做好管理就行了  紫薯补丁  紫薯补丁 紫薯补丁\t\t</div>",
+      "date": "2024-04-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "743499",
+      "is_folded": true,
+      "answerer": {
+        "username": "新用户12555",
+        "uid": "127142"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-04-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

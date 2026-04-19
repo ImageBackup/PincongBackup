@@ -1,0 +1,121 @@
+{
+  "parent_type": "question",
+  "parent_id": "58278",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "654664",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t设计者无视语言发展中，屈折变化越来越少的事实，强行上马屈折程度非常高的世界语。我个人认为，创作者是井底之蛙，哪怕是奥威尔半开玩笑发明的新话，也是比世界语更合格的人造新语言。<br/>\n<br/>\n当然你可以说，自然语言和编程语言不同，冗余度高不代表设计的不好。但是我认为这是扯淡，低冗余度可以做到更高的信息密度，更严谨的表达，上面有人说计算机语言更像自然语言根本就是外行人看到的表象，事实是计算机语言从来都是具有精确的一意性。这么说吧，在自然语言用机器学习生成代码的过程中，一定会有一个中介，目前的中介就是NPL处理之后的结果。如果真要设计什么世界语（首先这就是个糟糕的主意）类似NPL处理后token化的语言内核才是更合适的candidate。该内核一定是低屈折低黏着的，换句话说就是世界语的反面。\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654672",
+      "is_folded": false,
+      "answerer": {
+        "username": "巴山2000",
+        "uid": "105178"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t世界语其实是简化版、改良版的西班牙语。所谓的易学易上口，那是针对欧洲人，人为设计，照顾他们各国的组词、语法、发音习惯的。至于其他语言大支，比如阿拉伯语、东亚语言等，那对不起，咱无法面面俱到，爱莫能助，你们自己设法克服吧。<br/>\n因此欧洲以外，比如中国人学世界语，除了觉得语法稍稍简单（可中文成文的语法比它还简单呢），背单词稍稍容易，总体一点不比英语易学。真想学到听说自如，心口如一，同样难于上青天。相信日韩人同感。<br/>\n其“世界”二字，如同第一次世界大战，名为世界，实为欧战。所谓的世界语，实际顶多只能算欧洲语罢了。<br/>\n问题是，欧洲各国相互学习语言，难度本来就比外人学他们的语言要小得多。再人为设计一个共同语言，显然画蛇添足。<br/>\n所以啊，世界语的初衷是好的，但是想就此克服巴比塔难题，却并不成功。最后难免成鸡肋。\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654651",
+      "is_folded": false,
+      "answerer": {
+        "username": "蝇鹅大博弈",
+        "uid": "106748"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有英语了还要什么世界语？<br/>\n<br/>\n自然语言是自发秩序最生动的例子，靠几个人设计出来一种“科学语言”推广到全世界是绝无可能的。甚至计算机语言也越来越像自然语言。\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1176866",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-05-12",
+          "content": "计算机语言还是需要设计的，毕竟计算机也是设计的"
+        }
+      ]
+    },
+    {
+      "id": "654673",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支太君",
+        "uid": "83470"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t学过一点，现在基本弃了。<br/>\n词汇创自拉丁系，语法来自日耳曼，语音偏偏又是斯拉夫那套的大杂烩\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654678",
+      "is_folded": false,
+      "answerer": {
+        "username": "雙加不好的鴨語者",
+        "uid": "22079"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t特點就是重視邏輯，沒有特例。<br/>\n而設計者是醫生，不是語言學家，所以認為單簡沒有特例，大家都學會就可以更有效率。<br/>\n<br/>\n而會被推崇，立意是好。但真的人人使用，那是很困難。一方面一種語言會被推崇，那必須要背後有文化，一些大文豪那種。或是在二戰前學術界的中心還是德國，搞科研的人多少要接觸德語。\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654680",
+      "is_folded": false,
+      "answerer": {
+        "username": "屮尼玛",
+        "uid": "78795"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t想法很好，推行太难。<br/>\n假设蛋疼星人用无边法力让地球上现在只有世界语了，一切书籍、信息都是以世界语记录，意味着现在这个世界上99.99%的人都是纯文盲。\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655961",
+      "is_folded": false,
+      "answerer": {
+        "username": "立华忠次郎",
+        "uid": "93743"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t西欧版协和语(就是中国抗日神剧里面日军大佐讲的\"八嘎呀路，死啦死啦地\"那种)\t\t</div>",
+      "date": "2023-05-17",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654790",
+      "is_folded": false,
+      "answerer": {
+        "username": "besiegetyranny",
+        "uid": "41982"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t說世界語簡單的，如果世界語有類似英語的考覈系統，比如說ielts，toefl，gre，gmat等等，你還會覺得世界語簡單嗎？<br/>\n像上面有人說了世界語簡單只是相對使用歐洲語言的人而言，如果不是使用歐洲語言或者印歐語系的，那肯定比較困難，更何況世界語曲折程度高，有斯拉夫語系的發音，日耳曼的語法以及拉丁式的文字，學習起來肯定不好學的。<br/>\n英語在印歐語系中也是十分簡單，但是學習雅思託福gre，有幾個中國人（或者母語不是歐洲語言的人）雅思7-8，託福80-90？隨着時代的變遷新詞會越來越多，語言當然也會越來越複雜，雖然有電腦和電子詞典的輔助難度大量下降。\t\t</div>",
+      "date": "2023-05-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

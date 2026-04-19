@@ -1,0 +1,75 @@
+{
+  "parent_type": "question",
+  "parent_id": "53939",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "607230",
+      "is_folded": false,
+      "answerer": {
+        "username": "zsy2023",
+        "uid": "92543"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我表弟20年前在北京做过，之后恢复很好，至今没戴眼镜。\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "607232",
+      "is_folded": false,
+      "answerer": {
+        "username": "JBDW",
+        "uid": "101668"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t前两年美国有个电视台女主持人手术后恢复不佳结果自杀了…<br/>\n<br/>\n我都已经交了300美元定金了，看到这个新闻，果断决定定金不要了，不做了<br/>\n<br/>\n眼睛手术有风险，后遗症因人而异，这个是眼睛，慎之又慎；再吹破天成熟安全的手术只要不是100%安全，万一出事落在自己头上，悔之晚矣<br/>\n<br/>\n戴眼镜装斯文没啥不好\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1133164",
+          "replier": {
+            "username": "zsy2023",
+            "uid": "92543"
+          },
+          "date": "2022-12-06",
+          "content": "说得对，眼睛手术确实风险很大、"
+        }
+      ]
+    },
+    {
+      "id": "607221",
+      "is_folded": false,
+      "answerer": {
+        "username": "养老不能靠政府",
+        "uid": "48556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t真正做过又出了问题的基本就告别电脑手机屏幕了，又怎么可能来回答你的问题呢\t\t</div>",
+      "date": "2022-12-06",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1133161",
+          "replier": {
+            "username": "变形金刚糖糖",
+            "uid": "77287"
+          },
+          "date": "2022-12-06",
+          "content": "手术出问题也不一定就失明了，有的人做完手术出现严重干眼症，甚至有忍受不了干眼症自杀的。无法想象干眼症怎么能让人痛苦到自杀，但是太吓人了。"
+        },
+        {
+          "id": "1133313",
+          "replier": {
+            "username": "养老不能靠政府",
+            "uid": "48556"
+          },
+          "date": "2022-12-07",
+          "content": "@变形金刚糖糖:失明的很少，有视力检查一切正常但总有炫光的，角膜随时间逐渐变形无法挽回的，无论远近全都看不清的，入个激光手术后遗症患者群就知道。能上网的还都是不太严重的，真严重的那真是跟失明了也差不多。"
+        }
+      ]
+    }
+  ]
+}

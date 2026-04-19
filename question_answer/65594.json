@@ -1,0 +1,59 @@
+{
+  "parent_type": "question",
+  "parent_id": "65594",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "730192",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t比如巴黎这种地方城建不让修空调<br/>\n<br/>\n不过其实问题也不大，欧洲西海岸夏天也不热<br/>\n<br/>\n我在南加州住过没有空调的屋子，夏天问题不大，只要拉上窗帘挡太阳室内温度可以接受。\t\t</div>",
+      "date": "2024-02-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730198",
+      "is_folded": false,
+      "answerer": {
+        "username": "okamiyu",
+        "uid": "81756"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也想啊，我用外国的工资在国内花当然舒服。<br/>\n当然买房是不可能买房的。\t\t</div>",
+      "date": "2024-02-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730235",
+      "is_folded": true,
+      "answerer": {
+        "username": "雨落",
+        "uid": "117639"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-02-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "730191",
+      "is_folded": true,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-02-26",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

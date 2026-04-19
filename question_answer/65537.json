@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "65537",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "729728",
+      "is_folded": false,
+      "answerer": {
+        "username": "维尼大战美稀宗",
+        "uid": "83055"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这钩太直点了，新加坡最近才和中国互免，正在如胶似漆的阶段，谁不知道你整这出是想干嘛\t\t</div>",
+      "date": "2024-02-23",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "729721",
+      "is_folded": false,
+      "answerer": {
+        "username": "地球是我家乡",
+        "uid": "86380"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t好好生活不行吗？为什么非得找这样那样的社区社群？\t\t</div>",
+      "date": "2024-02-23",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1247001",
+          "replier": {
+            "username": "Shenqian",
+            "uid": "73267"
+          },
+          "date": "2024-02-23",
+          "content": "找社群不就是好好生活的一部分。人怎么能脱离社群独立生活呢，那不是小仓鼠。"
+        }
+      ]
+    }
+  ]
+}

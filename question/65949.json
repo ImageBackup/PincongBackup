@@ -1,0 +1,52 @@
+{
+  "question_id": "65949",
+  "category_id": "6",
+  "title": "",
+  "meta_description": "你们使用chatGPT有遇到这种问题吗？ - 因为人在墙内，我手头是有两个软件里面内置有chatGPT，其中A软件的chatGPT，我问他属于第几代GPT，给我的回答是GPT3代。而B软件，说自己是基于3.5模型的chatGPT。  随后，我问了它们两个同样的脑筋急转弯话题，发现A软件所宣称的GPT3...",
+  "meta_keywords": "使用,chatgpt,遇到,这种,问题",
+  "tags": [
+    {
+      "id": "103445",
+      "name": "ChatGPT"
+    }
+  ],
+  "author": {
+    "username": "毛星火",
+    "uid": "126030"
+  },
+  "view_count": 1788,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2024-03-14",
+  "agree_count": 0,
+  "discussion_count": 4,
+  "discussions": [
+    {
+      "id": "1056929",
+      "replier": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "date": "2024-03-14",
+      "content": "都是大忽悠软件，用别人免费的套个壳就来赚你钱了。"
+    },
+    {
+      "id": "1056931",
+      "replier": {
+        "username": "freecanton",
+        "uid": "120152"
+      },
+      "date": "2024-03-14",
+      "content": "国家3是标错了"
+    },
+    {
+      "id": "1056934",
+      "replier": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "date": "2024-03-14",
+      "content": "看你的表述就是说明有时候训练的语料质量也对回答质量也很重要"
+    }
+  ],
+  "answer_count": 4
+}

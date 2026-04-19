@@ -1,0 +1,48 @@
+{
+  "parent_type": "question",
+  "parent_id": "67432",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "749205",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t遇到过公职服务人员暴力对待<br/>\n差点没给他一刀杀了<br/>\n最后投诉了\t\t</div>",
+      "date": "2024-05-22",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1266642",
+          "replier": {
+            "username": "delaynomorezkp",
+            "uid": "111318"
+          },
+          "date": "2024-05-22",
+          "content": "投诉结果是啥"
+        },
+        {
+          "id": "1266644",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2024-05-22",
+          "content": "@delaynomorezkp:\n后续根本没有给我回复\n石沉大海"
+        },
+        {
+          "id": "1266645",
+          "replier": {
+            "username": "delaynomorezkp",
+            "uid": "111318"
+          },
+          "date": "2024-05-22",
+          "content": "@幸福中国:强国普遍水平。弄死了人也就是不再担任某岗位或者某职务。雷洋案就是个典型"
+        }
+      ]
+    }
+  ]
+}

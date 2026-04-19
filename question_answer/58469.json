@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "58469",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "656632",
+      "is_folded": true,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n\t\t\t这种话题就算了，广岛也进行了大范围管制，也给民众带来了不便\t\t</div>",
+      "date": "2023-05-19",
+      "agree_count": -3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1178619",
+          "replier": {
+            "username": "wct888",
+            "uid": "73678"
+          },
+          "date": "2023-05-19",
+          "content": "廣島的管制是會場範圍加上車隊經過時的交通管制，你在家喜歡怎樣拉窗簾都可以。\n你匪是差不多封城，那有可比性"
+        }
+      ]
+    }
+  ]
+}

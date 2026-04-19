@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "57383",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "645554",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t韩国日本已经是北约观察员身份了 情报互通有无早就有了<br/>\n美国给太平洋地区打造的小北约应该是aukus\t\t</div>",
+      "date": "2023-04-04",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "645553",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t韩国没可能 加入北约的前提就是该国不存在任何领土纠纷\t\t</div>",
+      "date": "2023-04-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

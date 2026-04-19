@@ -1,0 +1,82 @@
+{
+  "parent_type": "question",
+  "parent_id": "60109",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "672639",
+      "is_folded": false,
+      "answerer": {
+        "username": "HartBus",
+        "uid": "90700"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t众所周知，监狱和集中营里面治安最好，所有的人都被解除了武装和自卫的权利\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "672649",
+      "is_folded": false,
+      "answerer": {
+        "username": "True1234",
+        "uid": "73516"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t东亚国家，包括缅甸泰国吗？去那里走一趟看看好不好？\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1193346",
+          "replier": {
+            "username": "雪緒",
+            "uid": "111798"
+          },
+          "date": "2023-07-22",
+          "content": "不包括吧，那是東南亞，東亞（英語：East Asia）泛指亞洲東部，具有地理和文化層面上的雙重意義。東亞地區通常包括中國大陸、日本列島、台灣島、朝鮮半島、海南島、琉球群島和蒙古高原等地，面積約1170萬平方公里"
+        }
+      ]
+    },
+    {
+      "id": "672646",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t加拿大治安就不错啊，北欧的丹麦、芬兰也治安不错吧\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "672647",
+      "is_folded": false,
+      "answerer": {
+        "username": "毛澤東有性病",
+        "uid": "20469"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t香港大遊行就他媽被你給「正確歷史記憶」？<br/>\n<br/>\n我要檢舉你\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "672903",
+      "is_folded": false,
+      "answerer": {
+        "username": "沐浴新风",
+        "uid": "113790"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你看到的，只是他们想让看到的。你以为的，只是他们想让你以为的。\t\t</div>",
+      "date": "2023-07-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

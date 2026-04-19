@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "55152",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "620257",
+      "is_folded": false,
+      "answerer": {
+        "username": "EmpireBreaks",
+        "uid": "106570"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在改成标识名了，应该是为了防止重名误会以及冒充，之前应该会收到一封邮件说明可以选择自己的标识名，没有选择的话会自动分配的\t\t</div>",
+      "date": "2023-01-13",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

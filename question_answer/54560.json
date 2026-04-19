@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "54560",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "613220",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t根据我的不正确的历史记忆，2019年下旬北京出现鼠疫疫情，早于武汉肺炎疫情爆发。官方说不会人传人，已经控制住了。<br/>\n<br/>\n当时北京各大车站严阵以待，首次看到穿汉服的防疫人员给旅客测温。网上N95口罩被抢，和武汉肺炎时口罩买不到有一定关系。<br/>\n<br/>\n这就是北京，疫情之都。\t\t</div>",
+      "date": "2022-12-23",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "613281",
+      "is_folded": false,
+      "answerer": {
+        "username": "驗證碼說我不是人",
+        "uid": "47200"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t香港現在鼠疫也很嚴重，有可能是清潔工都忙著消殺，大樓又多了很多外賣盒所致。感覺還有大的還沒來...\t\t</div>",
+      "date": "2022-12-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "613228",
+      "is_folded": true,
+      "answerer": {
+        "username": "李老师的supervisor",
+        "uid": "50992"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2022-12-23",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1137744",
+          "replier": {
+            "username": "游客",
+            "uid": "103299"
+          },
+          "date": "2022-12-23",
+          "content": "建议氢弹消毒"
+        }
+      ]
+    }
+  ]
+}

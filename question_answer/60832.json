@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "60832",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "679522",
+      "is_folded": false,
+      "answerer": {
+        "username": "The19890604",
+        "uid": "46798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t還在實驗中，目前沒有實驗室證明LK-99其有超導性<br/>\n<br/>\n實驗都沒做完我很難跟你下結論\t\t</div>",
+      "date": "2023-08-14",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "679524",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t炒股局属实是屁民太过自以为是了<br/>\n紫薯紫薯紫薯\t\t</div>",
+      "date": "2023-08-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "679556",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由与革命",
+        "uid": "52678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以肯定是一个性质独特的新材料，至于是不是室温超导则不好说。我个人倾向于lk99是一种难以提纯的一维超导材料。<br/>\n总之lk99就算是真的，离应用也有相当长的距离。\t\t</div>",
+      "date": "2023-08-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "parent_type": "question",
+  "parent_id": "55737",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "626673",
+      "is_folded": false,
+      "answerer": {
+        "username": "Justitia",
+        "uid": "42231"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t台灣的「背包客棧」參考一下？<br/>\n<br/>\n也是台灣知名老牌的旅遊論壇了，也有一些東南亞華人參與，偶爾有幾個討人厭的大陸小粉紅在大陸旅遊版面出沒，不過整體氣氛溫馨輕鬆，也有人認真回覆。\t\t</div>",
+      "date": "2023-02-01",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1150255",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2023-02-01",
+          "content": "多谢，已收藏"
+        }
+      ]
+    },
+    {
+      "id": "626687",
+      "is_folded": false,
+      "answerer": {
+        "username": "一個東方人",
+        "uid": "95125"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墙内允许的东西往往都是屎，要在屎堆里找出金子太难了，你试试wanderlog看看能不能用吧，其他一下子想不到了，即使真有这样的平台，上面往往有你不喜欢的东西。\t\t</div>",
+      "date": "2023-02-01",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1150263",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2023-02-01",
+          "content": "你说的对，我再考虑一下吧，不行就找一个国内访问不了的网站写，然后里面有下载功能，可以下一个本地版本"
+        }
+      ]
+    },
+    {
+      "id": "626697",
+      "is_folded": false,
+      "answerer": {
+        "username": "都市火枪手",
+        "uid": "85988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t楼主想去哪里玩？如果之前去过的话，其实游记的用处就不大了。\t\t</div>",
+      "date": "2023-02-01",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1150267",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2023-02-01",
+          "content": "只是想把去过的地方都用游记的形式记录下来，以后可以翻阅回忆。上班下班都是重复劳动消耗生命，只有旅游的时候才感觉是真正活过"
+        },
+        {
+          "id": "1150269",
+          "replier": {
+            "username": "都市火枪手",
+            "uid": "85988"
+          },
+          "date": "2023-02-01",
+          "content": "@心情不好:好品味啊，我旅游一般只顾着体验和感受，完了之后也不想着怎么去记录它。"
+        }
+      ]
+    }
+  ]
+}

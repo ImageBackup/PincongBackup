@@ -1,0 +1,104 @@
+{
+  "parent_type": "question",
+  "parent_id": "59137",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "662924",
+      "is_folded": false,
+      "answerer": {
+        "username": "The19890604",
+        "uid": "46798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因為從伺服器的角度來看你就是不停的在飛行，就⋯⋯滿像機器人的\t\t</div>",
+      "date": "2023-06-15",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663201",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tPC端的tor基本上没啥问题，移动端的tor会比较难进入品葱，可能电脑版和移动版的user-agent不一样<br/>\n对于tor不友好的网站，可以加一个后置代理<br/>\n这个后置代理必须要支持socks5代理<br/>\n<br/>\n以无界浏览为例<br/>\n在后置代理指上设置127.0.0.1:9150，代理类型socks5<br/>\n最后将浏览器代理或系统代理，设置为127.0.0.1:9666<br/>\n这样，出口ip就是无界的服务器，ip不会全世界乱跳\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1184696",
+          "replier": {
+            "username": "欽定匪軍經商",
+            "uid": "102983"
+          },
+          "date": "2023-06-16",
+          "content": "現在pc上用tor進入google也是會無限驗證的"
+        },
+        {
+          "id": "1184699",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-06-16",
+          "content": "@欽定匪軍經商:谷歌有一个ip黑名单，即便是一个正常的VPN，单位时间内，访问次数过多，也会触发验证"
+        }
+      ]
+    },
+    {
+      "id": "663187",
+      "is_folded": false,
+      "answerer": {
+        "username": "penima",
+        "uid": "13424"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这几天cloudflare验证就有问题，不是出在tor上<br/>\n<br/>\nCopyright © 2023, All Rights Reserved. Powered By Pincong Center\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663184",
+      "is_folded": false,
+      "answerer": {
+        "username": "liangxinge666",
+        "uid": "112256"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为tor的出口ip是公用的，很容易被机器人使用，所以就会出现频繁的验证。\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "662929",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t换circuit再连接，有些ip可能上了cloudflare的黑名单<br/>\n就这样，有些时候用tor不能google有些时候就可以\t\t</div>",
+      "date": "2023-06-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "663195",
+      "is_folded": false,
+      "answerer": {
+        "username": "JoeGonzales",
+        "uid": "112521"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t验证实在通不过可以用其他浏览器使用Tor的socks代理，Tor浏览器的socks端口是9150<br/>\n<br/>\n流量方面与用Tor一样，都通过Tor代理。但Tor浏览器本身带的一些抵抗浏览器指纹的相关功能就没了（应该就是这些功能通不过验证），会降低一些安全性\t\t</div>",
+      "date": "2023-06-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "parent_type": "question",
+  "parent_id": "54065",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "608553",
+      "is_folded": false,
+      "answerer": {
+        "username": "reddit_suck",
+        "uid": "93135"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t禁用私信可以防止钓鱼，网警常用的招数就是给你发送钓鱼链接，打开之后就能得到你的真实IP地址。<br/>\n<br/>\n如果开启私信功能，必须假定品葱用户都是用tor访问，即便点开钓鱼链接也不怕。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608554",
+      "is_folded": false,
+      "answerer": {
+        "username": "electric_rain",
+        "uid": "25574"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t开放私信就是很容易被钓鱼的。<br/>\n电报上就已经有不少被钓鱼的，被黑皮捉住。<br/>\n匿名论坛永远不要相信任何人。\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608512",
+      "is_folded": false,
+      "answerer": {
+        "username": "打包",
+        "uid": "104743"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我说的是点击右上角用户头像就有的私信功能\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608557",
+      "is_folded": false,
+      "answerer": {
+        "username": "Driving",
+        "uid": "103850"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以设置自定义开关私信啊，别老是什么事都内部决定不跟用户商量，有本事搞个投票啊，让用户来个公民自决呗，连一小群人的民主都做不到还指望去给中国人民主自由呢，<mark>支人</mark>多可笑\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "608527",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有志同道合的交換聯係方式私下說吧, 沒法指望品蔥提供驅逐共匪一條龍服務的呀.\t\t</div>",
+      "date": "2022-12-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

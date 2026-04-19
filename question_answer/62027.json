@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "62027",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "691837",
+      "is_folded": true,
+      "answerer": {
+        "username": "uahjm",
+        "uid": "117109"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-09-24",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1211090",
+          "replier": {
+            "username": "kane888",
+            "uid": "31952"
+          },
+          "date": "2023-09-25",
+          "content": "留学生就是去了国外才粉红的，国内他们是人上人，国外他们顶多是普通人"
+        }
+      ]
+    }
+  ]
+}

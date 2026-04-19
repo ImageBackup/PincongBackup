@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "58273",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "654620",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t大学封闭化是在疫情开始前就逐渐布局了。像北大一直是全封闭，清华原先是东开西闭，后来也查的越来越严，现在应该一样了。上财、复旦和交大5年前是可随便进的，武大和厦大我进去玩过多次，大学是被当作旅游景点必去的。现在全都悬了吧。人脸识别这个东西自从出现后从单位、车站开始逐渐侵入学校，挡也挡不住，好像2019年初大学就已经开始全面普及刷脸，现在的学校里全是这玩意，多年不在学校一来吓一跳，一个破二本，进学校找个人居然过4道闸机。\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1176816",
+          "replier": {
+            "username": "喜欢吃蒸包子",
+            "uid": "110657"
+          },
+          "date": "2023-05-12",
+          "content": "校友有电子校友卡回校就很方便，但外校的就容易被层层审查"
+        }
+      ]
+    },
+    {
+      "id": "654650",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我们那会觉得没有门禁不够气派，现在反过来了。\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

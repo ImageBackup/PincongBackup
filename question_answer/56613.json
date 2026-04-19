@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "56613",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "637027",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 請找周邊地質專家咨詢, 和土質、降雨量和微地震等都有關係. 如果沒法找到又需要替代方案代用的話, 建議是在上面建個簡易測量站, 根據 GPS 測一下年移動量的趨勢, 并在大位移出現時能獲得警報.<br/>\n<br/>\n非地質專業建議或有誤區, 請自行衡量風險.\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "64602",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "719803",
+      "is_folded": false,
+      "answerer": {
+        "username": "隔岸觀火",
+        "uid": "102219"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我八年前已經聽過了，地動山搖是吧？<br/>\n<br/>\n該幹嘛就幹嘛\t\t</div>",
+      "date": "2024-01-13",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "719807",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果阿辉伯说空包弹，说漏嘴导致间谍网被破坏，<br/>\n<br/>\n这次导弹灌水是美军提供的情报，有本事杀美碟，\t\t</div>",
+      "date": "2024-01-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719800",
+      "is_folded": true,
+      "answerer": {
+        "username": "李老师的supervisor",
+        "uid": "50992"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-01-13",
+      "agree_count": 6,
+      "discussion_count": 2,
+      "discussions": []
+    }
+  ]
+}

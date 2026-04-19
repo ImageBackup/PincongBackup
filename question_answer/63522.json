@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "63522",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "707855",
+      "is_folded": false,
+      "answerer": {
+        "username": "silverball",
+        "uid": "28939"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t裝修工和修理工在英國屬於技術人員，當然會越來越貴。一般便利店、奶茶店、快餐店的工資還是很便宜的\t\t</div>",
+      "date": "2023-11-25",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "707884",
+      "is_folded": false,
+      "answerer": {
+        "username": "flyfighter",
+        "uid": "97040"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这是因为中国各地为了刺激房地产都在清退城中村，这就导致城市劳动力进一步减少，能留下来的生存成本大幅增高，而且你说的这几个工种还是有一些技术门槛的，不像网约车和快递这些很容易被失业大军入侵\t\t</div>",
+      "date": "2023-11-25",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

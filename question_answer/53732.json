@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "53732",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "605112",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t包子没有原来十里山路不换肩的气魄了，我哭死，我的包包😭\t\t</div>",
+      "date": "2022-12-02",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1131401",
+          "replier": {
+            "username": "我看要玩",
+            "uid": "97697"
+          },
+          "date": "2022-12-02",
+          "content": "清零政策差不多快完蛋了"
+        }
+      ]
+    },
+    {
+      "id": "605114",
+      "is_folded": false,
+      "answerer": {
+        "username": "cnm2022831",
+        "uid": "94616"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要不验核酸就没有增长，阳了也不知道了。他妈的包子想通过这种方式来共存，蒙混过去？清零也事实上烂尾了。\t\t</div>",
+      "date": "2022-12-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "605118",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没换肩，动态清零没变，只是核酸减少了<br/>\n<br/>\n为什么凑二十字凑二十字凑二十字凑二十字\t\t</div>",
+      "date": "2022-12-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

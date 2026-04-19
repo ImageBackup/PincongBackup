@@ -1,0 +1,246 @@
+{
+  "parent_type": "question",
+  "parent_id": "56292",
+  "answer_count": 11,
+  "answers": [
+    {
+      "id": "633331",
+      "is_folded": false,
+      "answerer": {
+        "username": "W5uUfKEuEZ",
+        "uid": "108332"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t很简单，现在封锁的墙是ai学习的，只要有流量特征就封。<br/>\n但这种频繁检查出入流量的方式对他们也很伤，费电费cpu。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 6,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1156339",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-02-22",
+          "content": "很好学习吧，客户端在北京时间08:00-24:00有较多流量活动且24:00-08:00较少流量活动的，一律封掉，准没错。"
+        },
+        {
+          "id": "1156429",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-23",
+          "content": "@billzt:工作时间通过网络同步数据的公司怎么办？晚高峰上网变卡，就是晚上上外网的人多，IX（互联网交换中心）的流量速度在0点后才会缓缓下降，5点降到最低，然后又回升。中国人都是这个时间段上外网的，怎么切。"
+        },
+        {
+          "id": "1156495",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-02-23",
+          "content": "GFW使用了NVIDIA的GPU做机器学习"
+        }
+      ]
+    },
+    {
+      "id": "633310",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t三年以来，哪怕两会、六四,、x中全会，迷雾通也岿(kui)然不动\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156336",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-02-22",
+          "content": "好的"
+        }
+      ]
+    },
+    {
+      "id": "633506",
+      "is_folded": false,
+      "answerer": {
+        "username": "安县包子大王",
+        "uid": "107405"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为两会快到了，建议使用express这种大牌的vpn，朋友在用的opwpvpn还行，直接Google搜索就能搜到。然后再用tor浏览器科学上网最安全。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1156566",
+          "replier": {
+            "username": "pimmaexya",
+            "uid": "107413"
+          },
+          "date": "2023-02-23",
+          "content": "这个opwpvpn用了一段时间，很稳，不卡"
+        },
+        {
+          "id": "1156616",
+          "replier": {
+            "username": "fxxkingxi",
+            "uid": "107407"
+          },
+          "date": "2023-02-24",
+          "content": "兄弟 我现在用的迷雾通有点慢 用了你说的那个opwp试了试 倒是挺快的 就可惜还没有Windows版"
+        }
+      ]
+    },
+    {
+      "id": "633650",
+      "is_folded": false,
+      "answerer": {
+        "username": "水浅茶清",
+        "uid": "2333"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t当前GFW策略，对国外的vps拉了黑名单，黑名单的流量一但检测到阈值（大概100M左右）就会在凌晨5点封端口。每月23号清空上月23号前的端口黑名单。<br/>\n这种策略对于小机场是非常致命的，因为服务的人员太多，端口封的多了极大影响用户体验。<br/>\n对于自建服务器只能每天换个端口，一个月一个轮回。\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633610",
+      "is_folded": false,
+      "answerer": {
+        "username": "肖战嗦习维尼牛子",
+        "uid": "84670"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自建vps，用XRAY+WS+TLS协议稳如老狗，不过我是有多个服务器分流，不会让单一服务器一次跑大量流量。<br/>\n<br/>\nWS路径要藏得深一点，最好做到连接的IP和出口上网IP不同，且避免访问墙内网站。\t\t</div>",
+      "date": "2023-02-23",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1156465",
+          "replier": {
+            "username": "水浅茶清",
+            "uid": "2333"
+          },
+          "date": "2023-02-23",
+          "content": "用的哪里的vps？"
+        },
+        {
+          "id": "1156609",
+          "replier": {
+            "username": "肖战嗦习维尼牛子",
+            "uid": "84670"
+          },
+          "date": "2023-02-24",
+          "content": "@水浅茶清:晶哥摇命，随便弄一个速度差不多的，然后连接tor上网"
+        }
+      ]
+    },
+    {
+      "id": "633945",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为两会要开了<br/>\n<br/>\n另外再吹一波迷雾通，受干扰非常严重，长期当主力工具用可能不太方便，但是应急从未让人失望👍\t\t</div>",
+      "date": "2023-02-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633473",
+      "is_folded": false,
+      "answerer": {
+        "username": "神爱共产",
+        "uid": "108395"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有点一刀切，我平时上个维基百科查资料，或者看看有什么国际大事都不行，我还需要经常翻墙看台湾的道藏，港台道教文化保留的确实很好\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633516",
+      "is_folded": false,
+      "answerer": {
+        "username": "海阔天空686",
+        "uid": "99612"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t技术不断推陈出新，新陈代谢，一定有一款翻墙软件可以用。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633315",
+      "is_folded": false,
+      "answerer": {
+        "username": "cnm2022831",
+        "uid": "94616"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的自建梯子没有这些问题。一个域名+一个便宜的VPS+CF（网上很多相关技术贴）。\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "633335",
+      "is_folded": false,
+      "answerer": {
+        "username": "sitewithIce",
+        "uid": "13863"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://delta.winnie.cloud/auth/register?code=cGzY<br/>\n试试维尼云（机场）<br/>\n用的是Clash for Windows<br/>\n用了三个月只坏过一次，1080p没问题\t\t</div>",
+      "date": "2023-02-22",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156337",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-02-22",
+          "content": "这名字好笑"
+        }
+      ]
+    },
+    {
+      "id": "633306",
+      "is_folded": true,
+      "answerer": {
+        "username": "永遠的零",
+        "uid": "107997"
+      },
+      "contents": "<div class=\"markitup-box collapse\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-02-22",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1156496",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-02-23",
+          "content": "有testflight测试版，可惜testflight名额已满"
+        }
+      ]
+    }
+  ]
+}

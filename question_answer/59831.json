@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "59831",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "669842",
+      "is_folded": false,
+      "answerer": {
+        "username": "godofkiller",
+        "uid": "111594"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t抑郁症就是心理水平到了极限，突破无门，但是又不得不寻求突破。这个东西只能文化层面和社会教育去引导，一个人心理水平停滞，严重不符合社会需求，就会内外不协调\t\t</div>",
+      "date": "2023-07-12",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1191644",
+          "replier": {
+            "username": "nonsugar",
+            "uid": "13038"
+          },
+          "date": "2023-07-15",
+          "content": "你看他不就想办法突破了吗？跟吴谢宇的突破方式相似"
+        },
+        {
+          "id": "1192293",
+          "replier": {
+            "username": "godofkiller",
+            "uid": "111594"
+          },
+          "date": "2023-07-18",
+          "content": "@nonsugar:那个是已经扭曲了，人要么心理扭曲，转移矛盾，要么抑郁而终"
+        }
+      ]
+    }
+  ]
+}

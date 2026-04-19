@@ -1,0 +1,208 @@
+{
+  "parent_type": "question",
+  "parent_id": "63093",
+  "answer_count": 11,
+  "answers": [
+    {
+      "id": "703444",
+      "is_folded": false,
+      "answerer": {
+        "username": "edmxspll0171",
+        "uid": "83239"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t停更后，虽然安全性下降了，新应用也会抛弃旧系统，但是之前一直困扰我们的每次大更新必然占用大量硬件资源影响使用体验的问题也彻底解决了。究其原因，微软就是在W10转向了“软件既服务” (SaaS) 的模型，用户不再只是买到一个系统，而是一整套在系统预定的生命周期结束之前都需要微软主动维持的服务，系统更新就在此列。想想，从前的W7多好啊，更新少，它只做一个系统本身应该做的事，不会代替用户做决定，也没有那么多的隐私问题。\t\t</div>",
+      "date": "2023-11-05",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703424",
+      "is_folded": false,
+      "answerer": {
+        "username": "民主信仰者",
+        "uid": "653"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t別傻了，你遲早得換的。<br/>\n（我也沒錢換硬體，所以我也用win10，CPU還是十年前的I5-4590。）<br/>\n<br/>\n作業系統失去技術支援，也就表示在停止更新升級後，與其他不斷更新的程式相容性會越來越低，更容易遭受入侵和病毒攻擊，同時也表示你的電腦會越來越老舊。<br/>\n還是乖乖存錢換個新電腦吧，不然你就得像我一樣，玩個3A大作還得用PS5。\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703423",
+      "is_folded": false,
+      "answerer": {
+        "username": "qwe123qwe123",
+        "uid": "91660"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t换新电脑就行，管他这么多？<br/>\n字数字数字数字数字数字数\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1223201",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2023-11-05",
+          "content": "都没饭吃了，吃肉就行，管他这么多？"
+        }
+      ]
+    },
+    {
+      "id": "703427",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一台电脑不可能永远陪在你身边,硬盘到了时间哪怕没出问题都要换<br/>\n该寿终正寝的就让它去吧,它的使命已经完成了<br/>\n<br/>\n配一台能用的电脑并不需要那么多钱<br/>\n看你的描述应该也不是追求那种3A大作的<br/>\n5K就能配一台够用的电脑了(系统盘外的硬盘,显示器,音响系统不在这价钱里面,要另算)<br/>\n不会装机就花钱请人装,不要用免费的装机服务\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1223063",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-04",
+          "content": "i3二千元左右，pentium更便宜"
+        }
+      ]
+    },
+    {
+      "id": "703420",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a href=\"url/link/aHR0cHM6Ly9jZGltYWdlLmRlYmlhbi5vcmcvZGViaWFuLWNkL2N1cnJlbnQvYW1kNjQvaXNvLWNkL2RlYmlhbi0xMi4yLjAtYW1kNjQtbmV0aW5zdC5pc28\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.2.0-amd64-netinst.iso\">https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.2.0-amd64-netinst.iso</a> </div>",
+      "date": "2023-11-04",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703437",
+      "is_folded": false,
+      "answerer": {
+        "username": "郭敬明嗦习近平",
+        "uid": "92191"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t装正版win11啊，很好用，播视频打游戏都比win10清晰不少。甚至比win10快，我知道还有什么理由选择win10.。\t\t</div>",
+      "date": "2023-11-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703629",
+      "is_folded": false,
+      "answerer": {
+        "username": "Fenrir",
+        "uid": "55949"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t微软做Windows跟间歇性精神病差不多，一个版本做得好，下个版本就经常往烂里做。Windows XP很受欢迎，Windows Vista就不咋地；Windows 7做的不错，然后就出了Windows 8这坨💩。之后的Windows 10和11比8好不少，可以说是屎味的巧克力，也可以说是巧克力味的屎……\t\t</div>",
+      "date": "2023-11-05",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1223212",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2023-11-05",
+          "content": "我早期的电脑是Windows 98, 然后我换电脑分别换了Windows ME, Windows Vista, Windows 8, 最近这个Windows 10才终于好用一些了，用了15年的差系统"
+        }
+      ]
+    },
+    {
+      "id": "703416",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t什么影响都没有。该吃吃，该喝喝。<br/>\n<br/>\n-----二十---------二十字----------------二十字----二十-------\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703441",
+      "is_folded": false,
+      "answerer": {
+        "username": "lene",
+        "uid": "98819"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在还有人用win8.1<br/>\n闲鱼上300就能买一些工控主机或者chromebook了，大概配置是8代i3或3500c这种，足够装win11了\t\t</div>",
+      "date": "2023-11-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703429",
+      "is_folded": false,
+      "answerer": {
+        "username": "gratesque",
+        "uid": "23931"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你的「杞人忧天」向你自己证明了「从今开始LINUX」的极端重要性。\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703413",
+      "is_folded": true,
+      "answerer": {
+        "username": "HHHeYYYe",
+        "uid": "102855"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-11-04",
+      "agree_count": 2,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1223031",
+          "replier": {
+            "username": "HHHeYYYe",
+            "uid": "102855"
+          },
+          "date": "2023-11-04",
+          "content": "@肆意醉飲思緒清:有邪道方法装的，基本都能装"
+        },
+        {
+          "id": "1223038",
+          "replier": {
+            "username": "HHHeYYYe",
+            "uid": "102855"
+          },
+          "date": "2023-11-04",
+          "content": "@肆意醉飲思緒清:拿pe装就行，跳过安全模块检测方式请自行查询"
+        },
+        {
+          "id": "1223052",
+          "replier": {
+            "username": "民主信仰者",
+            "uid": "653"
+          },
+          "date": "2023-11-04",
+          "content": "@肆意醉飲思緒清:那方法你要是不懂硬體配置，我建議最好別用。\n主要是win11對資源的佔用量，以舊電腦而言挺高的，而且那個煩死人的檢測主要是為了某些新功能，不是找你麻煩的。"
+        }
+      ]
+    }
+  ]
+}

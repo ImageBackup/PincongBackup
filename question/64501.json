@@ -1,0 +1,88 @@
+{
+  "question_id": "64501",
+  "category_id": "4",
+  "title": "AMD的CPU和显卡真的不如英特尔和英伟达吗？",
+  "meta_description": "AMD的CPU和显卡真的不如英特尔和英伟达吗？ - 同事小孩要买电脑（主要就是玩steam），让我问问价格，墙内一问全是狂推英特尔和英伟达，我说AMD看上去便宜一点，似乎更有性价比。马上一片嘲笑之声，说微软都看不起AMD，经常强制更新驱动导致AMD显卡出各种bug，AMD官方也是躺平摆烂，修bug的速度都要...",
+  "meta_keywords": "amd,cpu,显卡,英特尔,英伟,达吗",
+  "tags": [
+    {
+      "id": "3484",
+      "name": "现实生活"
+    }
+  ],
+  "author": {
+    "username": "SWZ",
+    "uid": "96182"
+  },
+  "view_count": 19351,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t同事小孩要买电脑（主要就是玩steam），让我问问价格，墙内一问全是狂推英特尔和英伟达，我说AMD看上去便宜一点，似乎更有性价比。马上一片嘲笑之声，说微软都看不起AMD，经常强制更新驱动导致AMD显卡出各种bug，AMD官方也是躺平摆烂，修bug的速度都要笑死人，AMD能活到今天的唯一原因就是英特尔、英伟达要防止反垄断法<br/>\n<br/>\n上面都是真的吗？洋人对AMD是什么态度？\t\t\t\t\t\t\t</div>",
+  "date": "2024-01-08",
+  "agree_count": 4,
+  "discussion_count": 7,
+  "discussions": [
+    {
+      "id": "1053400",
+      "replier": {
+        "username": "哆哆老米",
+        "uid": "90416"
+      },
+      "date": "2024-01-08",
+      "content": "AMD的cpu已经超过英特尔了。显卡之所以选英伟达，是因为英伟达的显卡本就是为桌面消费而准备的。CPU选AMD或者英特尔都没问题。AMD的性价比依然优于英特尔。这些说英特尔比AMD强的，一看就是N多年没换过CPU了。"
+    },
+    {
+      "id": "1053401",
+      "replier": {
+        "username": "吾儿禁评",
+        "uid": "73706"
+      },
+      "date": "2024-01-08",
+      "content": "笔记本里想选AMD处理器和显卡貌似不多，没办法我只能选英特尔和英伟达。"
+    },
+    {
+      "id": "1053419",
+      "replier": {
+        "username": "习下李上2022",
+        "uid": "97085"
+      },
+      "date": "2024-01-08",
+      "content": "本来AMD的CPU已经超过Intel了，可惜换赛道了。"
+    },
+    {
+      "id": "1053420",
+      "replier": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "date": "2024-01-08",
+      "content": "玩儿游戏啊，那选什么有区别嘛"
+    },
+    {
+      "id": "1053421",
+      "replier": {
+        "username": "习下李上2022",
+        "uid": "97085"
+      },
+      "date": "2024-01-08",
+      "content": "原来是玩游戏啊，无脑推荐AMD"
+    },
+    {
+      "id": "1055486",
+      "replier": {
+        "username": "sososos",
+        "uid": "21066"
+      },
+      "date": "2024-02-14",
+      "content": "intel宰制太久，导致游戏对A家优化不足"
+    },
+    {
+      "id": "1057662",
+      "replier": {
+        "username": "Okabe2024",
+        "uid": "126440"
+      },
+      "date": "2024-03-29",
+      "content": "Intel的单核每频效能还是海放农企的zen4，6核以下的低阶市场还是牙膏厂制霸，在中高阶会玩不过农企只不过是制程劣势塞不进更多核芯与内存而已。"
+    }
+  ],
+  "answer_count": 27
+}

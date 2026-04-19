@@ -1,0 +1,66 @@
+{
+  "parent_type": "question",
+  "parent_id": "58369",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "655539",
+      "is_folded": false,
+      "answerer": {
+        "username": "yuta08",
+        "uid": "47016"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t依個人需求吧，我喜歡春天賞花踏青，夏天大口吃冰泳池海灘或路上看穿著清涼的妹，秋天感受涼爽看楓紅，冬天吃著暖呼呼的薑母鴨、羊肉爐、火鍋。四季如春這點樂趣就沒有了\t\t</div>",
+      "date": "2023-05-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "655558",
+      "is_folded": false,
+      "answerer": {
+        "username": "朝鲜第一书记",
+        "uid": "110069"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该会的。<br/>\n<br/>\n而且气候变化影响所有人，这些地方也不会例外的。只不过不同地区的影响程度和阶段不一样<br/>\n<br/>\n昆明其实这几年的连续高温天气上新闻的频率还挺高的。\t\t</div>",
+      "date": "2023-05-16",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1177701",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-05-16",
+          "content": "其实个旧比昆明气候更好，红河州那一片都不错，只不过因为昆明是省会，比较出名，旅游资源多。"
+        }
+      ]
+    },
+    {
+      "id": "655583",
+      "is_folded": false,
+      "answerer": {
+        "username": "心理不稳定的韭菜",
+        "uid": "75115"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t现在四季如春的地方，在非冰河期或者说冰河期的反面，可能会像火炉一样\t\t</div>",
+      "date": "2023-05-16",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1177734",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-05-16",
+          "content": "如果这种地方都像火炉一样，那其他地方更热到没法住了。"
+        }
+      ]
+    }
+  ]
+}

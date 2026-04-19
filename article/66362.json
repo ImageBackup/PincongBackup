@@ -1,0 +1,30 @@
+{
+  "article_id": "66362",
+  "category_id": "4",
+  "title": "微信内編輯圖片會上傳並審查原圖",
+  "meta_description": "微信内編輯圖片會上傳並審查原圖 - 原帖：https://www.v2ex.com/t/995953 （原帖如果遇到需要賬號登錄查看或者直接返回首頁列表等情況則是被該站站長Livid（劉昕）進行了維穩操作）  v2ex論壇最近有用戶抓包曝光，在iOS系統微信中對圖片進行編輯（打碼）等操作并發...",
+  "meta_keywords": "微信,内編,輯圖片,傳並,審查,原圖",
+  "tags": [
+    {
+      "id": "282",
+      "name": "微信"
+    },
+    {
+      "id": "6083",
+      "name": "審查"
+    },
+    {
+      "id": "9020",
+      "name": "隱私"
+    }
+  ],
+  "author": {
+    "username": "厉害了冲国人",
+    "uid": "96938"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t原帖：https://www.v2etwitter.com/t/995953<br/>\r\n（原帖如果遇到需要賬號登錄查看或者直接返回首頁列表等情況則是被該站站長Livid（劉昕）進行了維穩操作）<br/>\n<br/>\r\nv2ex論壇最近有用戶抓包曝光，在iOS系統微信中對圖片進行編輯（打碼）等操作并發送圖片後，幾秒之後便會收到來自騰訊機房120.233.19.186（廣東移動）對該圖片内容（重點網址鏈接）的訪問審查<br/>\n<br/>\r\n{\"time\":1700801419.550,\"host\":\"XXX:443\",\"req\":\"GET /YYY/snapshotsMethodPOSTHeaders<b>Authorizati...Bearer</b>\",<b>\"req_size\":980,\"ip\":\"120.233.19.186\"</b>,\"ua\":\"Mozilla/5.0 (Linux; Android 13; M2007J1SC Build/TKQ1.221114.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.141 Mobile Safari/537.36 XWEB/5127 MMWEBSDK/20230405 MMWEBID/1151 MicroMessenger/8.0.35.2360(0x2800235D) WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64 qcloudcdn-xinan Request-Source=3 Request-Channel=99\",\"status\":404,\"resp_time\":0.000,\"resp_size\":1482,\"protocol\":\"HTTP/1.1\",\"tls\":\"TLSv1.3\"}<br/>\n<br/>\r\n原帖附件還放出了很多來自騰訊機房的主機IP<br/>\n<br/>\r\n其實微信這應該已經不是第一次被實錘隱私審查問題了，葱裏的各位大概也都清楚微信是個什麽貨色，許久之前的某版本後臺掃描用戶手機相冊也是，只不過這件事情在微信版本升級后不了了之了。還是提醒下大多數仍不能完全擺脫微信的葱友，有條件的建議微信單獨一機并且最好不要在裝有微信的機器上同時進行代理和翻墻等操作，<b>現在基本能實錘在微信内你的任何動作都可能會被後臺進行審查</b>，哪怕是一些正常訪問，同時也不要相信網傳私聊單對單沒有審查就和對方私聊過激的衝塔言論等。蘋果手機日常建議關閉微信相冊和定位的訪問授權，需要時開啓，敏感圖片用系統自帶圖片編輯功能提前做好破壞hash值等規避審查，支產安卓手機建議解放系統刷原生安卓使用。雖然在墻内可能基本已經沒什麽隱私可言了，但對支產的各路流氓軟件還是盡量不要給他們留任何空子去鉆\t\t\t\t\t\t\t</div>",
+  "view_count": 6466,
+  "date": "2023-11-29",
+  "agree_count": 8,
+  "comment_count": 1
+}

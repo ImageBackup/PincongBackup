@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "64494",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "718644",
+      "is_folded": false,
+      "answerer": {
+        "username": "Surge",
+        "uid": "19471"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国内ISP会诱导用户使用光猫的路由功能。装机时要求ISP关掉光猫的路由功能，用你自己的路由器（可靠的）桥接拨号上网。<br/>\n<br/>\n一般没有安全问题\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1237560",
+          "replier": {
+            "username": "giuuio8897",
+            "uid": "109426"
+          },
+          "date": "2024-01-09",
+          "content": "谢谢你"
+        }
+      ]
+    }
+  ]
+}

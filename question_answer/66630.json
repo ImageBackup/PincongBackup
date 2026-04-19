@@ -1,0 +1,404 @@
+{
+  "parent_type": "question",
+  "parent_id": "66630",
+  "answer_count": 19,
+  "answers": [
+    {
+      "id": "741285",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t把你身份证号发出来, 我派几名民警去保护你, 不要慌张, 有困难找警察\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 14,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1258014",
+          "replier": {
+            "username": "吾王陛下",
+            "uid": "127454"
+          },
+          "date": "2024-04-16",
+          "content": "已删除"
+        },
+        {
+          "id": "1258023",
+          "replier": {
+            "username": "phant9576",
+            "uid": "102729"
+          },
+          "date": "2024-04-16",
+          "content": "110108197911068924"
+        },
+        {
+          "id": "1258040",
+          "replier": {
+            "username": "吾王陛下",
+            "uid": "127454"
+          },
+          "date": "2024-04-16",
+          "content": "@phant9576:擦，谁让乱贴朕的身份号"
+        }
+      ]
+    },
+    {
+      "id": "741328",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t裸連正常情況是知道你訪問了品葱但不知道你在做些什麽，品蔥本身也有Cloudflare提供的網絡安全服務，網站正常的防護還是有的，除非站方出現了内鬼不過這種連郵箱都不需要的賬號可能也沒啥價值，也就出賣你的IP還能有些用但品蔥又號稱自己是不記錄用戶訪問IP的\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741284",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果你号召中国人都去这样做, 党国就没办法一个个追查<br/>\n不然只有个把人党国就会挨个去上们<br/>\n<br/>\n结论: 多号召更多的人来这里, 不发言, 党国来找麻烦就说磨练爱国意志, 人多了自然就没事\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1258013",
+          "replier": {
+            "username": "吾王陛下",
+            "uid": "127454"
+          },
+          "date": "2024-04-16",
+          "content": "墙内可以直接打开吗？"
+        },
+        {
+          "id": "1258017",
+          "replier": {
+            "username": "fb_china_today",
+            "uid": "8633"
+          },
+          "date": "2024-04-16",
+          "content": "防火墙也会偶尔开条缝, 建议打不开也多试试\n这也可以加重党国负担"
+        },
+        {
+          "id": "1258120",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-04-16",
+          "content": "@fb_china_today:中国的屏蔽成功率本来就不是100%，你可以看一下 Even Censors Have a Backup: Examining China's Double HTTPS Censorship System\nhttps://geneva.cs.umd.edu/papers/2021-foci-censors-have-backup.pdf\n浏览器不够快，想耗多点资源应该用程序高速发送client hello，顺便说一下\"pincong.rocks\"从中国外面发进来也能触发TCP RST。"
+        }
+      ]
+    },
+    {
+      "id": "741287",
+      "is_folded": false,
+      "answerer": {
+        "username": "洼地先知",
+        "uid": "102273"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t电信宽带确实有时候不需要vpn就可以看品葱<br/>\n<br/>\n但是你一点访问就会被登记\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1258118",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-04-16",
+          "content": "有策略可以绕过中国对HTTP和TLS的过滤的，不需要运气，好奇的话你可以玩一下byedpi\nhttps://github.com/hufrea/byedpi\n可以自己编译或者下作者编译的可执行文件。\n./ciadpi-x86_64 --ip 127.0.0.1 --port 54321 --fake 6 --ttl 11 --fake-tls \":AAAAAA\" --fake-http \":AA A A\"\nciadpi.exe --ip 127.0.0.1 --port 54321 --fake 6 --ttl 11 --fake-tls \":AAAAAA\" --fake-http \":AA A A\"\nwindows用户用第二条命令，运营商不一样的话ttl可能要设置成其它的值，启动byedpi后把浏览器的socks5服务器设成它，并启用DoH。\nbyedpi还支持一些不依赖TTL的策略，如 --tlsrec 2\n（只对TLS有效），你也可以玩一下。\n还有一些需要特权（linux上可能是cap_net_raw和cap_net_admin，windows的话我不了解）的工具，如goodbyeDPI，比较耗字数暂时不写。"
+        },
+        {
+          "id": "1258155",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2024-04-17",
+          "content": "@Streptopelia:搞这些浪费时间，还不安全\n直接用tor"
+        },
+        {
+          "id": "1258226",
+          "replier": {
+            "username": "Streptopelia",
+            "uid": "115196"
+          },
+          "date": "2024-04-17",
+          "content": "@洼地先知:这类技术也可以用来访问tor的官网，EFF和Calyx Institute的镜像在有些地方比官网慢很多。"
+        }
+      ]
+    },
+    {
+      "id": "741409",
+      "is_folded": false,
+      "answerer": {
+        "username": "我先杠路了",
+        "uid": "124740"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能有啥危险，没喝过茶的葱油不是好葱油，记得清理浏览记录，账号不要保存。喝茶的时候一概不认，耗死共匪。\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741393",
+      "is_folded": false,
+      "answerer": {
+        "username": "民人",
+        "uid": "108220"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不会，没有影响力他们懒得理你。<br/>\n而且也查不出来你是谁，你又没有暴露你的个人信息。\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741439",
+      "is_folded": false,
+      "answerer": {
+        "username": "RobotRepublic",
+        "uid": "101437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没像我们一样天天羞辱讽刺习包子就没事，主人最在意的才是黑皮狗干活的重点。\t\t</div>",
+      "date": "2024-04-17",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741441",
+      "is_folded": false,
+      "answerer": {
+        "username": "JZG8964",
+        "uid": "127709"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实吧, 裸奔比用什么国产的梯子更安全... 现在能上品葱的梯子一般是都是钓鱼的, 那种更危险\t\t</div>",
+      "date": "2024-04-17",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741289",
+      "is_folded": false,
+      "answerer": {
+        "username": "wgw2",
+        "uid": "122847"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t裸奔上品葱没登陆账号党国可能还有可能不管，账号一登上，党国马上连你的账号密码都知道了，犯罪事实完全掌握\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 2,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1258019",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2024-04-16",
+          "content": "账号密码不大可能知道, 除非他电脑安装了恶意根证书, TLS还是能确保这点安全的"
+        },
+        {
+          "id": "1258032",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-04-16",
+          "content": "@takesipon:确实，这位是懂计算机的"
+        },
+        {
+          "id": "1258035",
+          "replier": {
+            "username": "Farewell",
+            "uid": "123654"
+          },
+          "date": "2024-04-16",
+          "content": "@takesipon:输入法会出卖密码"
+        },
+        {
+          "id": "1258036",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2024-04-16",
+          "content": "@Farewell:你说得对, 还是建议楼主把这个号注销了, 过几天再注册过一个号"
+        },
+        {
+          "id": "1258038",
+          "replier": {
+            "username": "吾王陛下",
+            "uid": "127454"
+          },
+          "date": "2024-04-16",
+          "content": "@takesipon:没事儿，这号我友情送人"
+        }
+      ]
+    },
+    {
+      "id": "741394",
+      "is_folded": false,
+      "answerer": {
+        "username": "维熊人生",
+        "uid": "127333"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tz最好还是做好自我保护为主，想方设法的规避自己的IP，防止被倒查，被请喝茶。<br/>\n已经发生的事情，自己要想好后续应对措施。\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741401",
+      "is_folded": false,
+      "answerer": {
+        "username": "赵富强",
+        "uid": "124566"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t请教各位个事，就是怎么知道别人正在尝试登录自己的品葱账号。另外品葱是连续输错密码就暂时不能登录了吗\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741292",
+      "is_folded": false,
+      "answerer": {
+        "username": "尤里X",
+        "uid": "50565"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用谷歌和搜狐要稍好点，360之类的就不要提了。<br/>\n<br/>\n紫薯布丁紫薯布丁紫薯布丁紫薯布丁紫薯布丁\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741310",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你先撸100万网贷不还，然后裸奔上品葱，保证没人抓你。\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741903",
+      "is_folded": false,
+      "answerer": {
+        "username": "android7",
+        "uid": "127596"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我直连赌博网站，公安局立刻打我手机报出刚浏览的网址，说小心被骗\t\t</div>",
+      "date": "2024-04-19",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741392",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t品葱不是被防火长城屏蔽了吗，弄不清为何有人在墙内还能裸奔上。\t\t</div>",
+      "date": "2024-04-16",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1258144",
+          "replier": {
+            "username": "吾王陛下",
+            "uid": "127454"
+          },
+          "date": "2024-04-16",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "741671",
+      "is_folded": false,
+      "answerer": {
+        "username": "包帝的最期",
+        "uid": "120624"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t品葱还能裸奔？不是早墙了<br/>\n洼地不挂个迷雾通啥的根本上不来吧\t\t</div>",
+      "date": "2024-04-18",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1258639",
+          "replier": {
+            "username": "尤里X",
+            "uid": "50565"
+          },
+          "date": "2024-04-19",
+          "content": "意思是说没有用Tor Browser浏览器，可能用360就上来了"
+        }
+      ]
+    },
+    {
+      "id": "742526",
+      "is_folded": false,
+      "answerer": {
+        "username": "Atlantas",
+        "uid": "118294"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要怕，有困难找警察叔叔。不过有一说一，朝廷是不是故意放开，钓鱼执法？\t\t</div>",
+      "date": "2024-04-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "742283",
+      "is_folded": false,
+      "answerer": {
+        "username": "哈哈_你也想",
+        "uid": "127870"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不会真的有人用360上品葱吧陆产浏览器最用不得\t\t</div>",
+      "date": "2024-04-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "741434",
+      "is_folded": true,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2024-04-17",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

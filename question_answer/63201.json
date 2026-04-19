@@ -1,0 +1,170 @@
+{
+  "parent_type": "question",
+  "parent_id": "63201",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "704519",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的Tele，Goolge，Kindle，Apple都可以。<br/>\n<br/>\n不过现在墙内运营商比较混乱，有一些所谓“虚拟运营商”，比较大的如小米，还有一些小的不知名的。他们的号码有的在墙内都不认，用他们的号码注册账号常常会被拒绝\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 2,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1224208",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-10",
+          "content": "err，不是，no，不是虛擬號碼，我用我婆婆的老人手機，收不到驗證碼"
+        },
+        {
+          "id": "1224209",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-11-10",
+          "content": "@四邑漁農牧工商總會: 确定是三大（移动联通电信）的号码吗？老人会不会听网上的宣传买了一些虚拟运营商的号。另外老人手机是不是有一些短信过滤的设置，把验证码过滤掉了"
+        },
+        {
+          "id": "1224210",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-10",
+          "content": "@天下无贼:我有機會問問"
+        },
+        {
+          "id": "1224222",
+          "replier": {
+            "username": "shitsocialism",
+            "uid": "74157"
+          },
+          "date": "2023-11-10",
+          "content": "已删除"
+        }
+      ]
+    },
+    {
+      "id": "704521",
+      "is_folded": false,
+      "answerer": {
+        "username": "qbc",
+        "uid": "51169"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1.要开通国际漫游，国际数据才能接受国外短信。开通基本免费，有些可能需要你的话费余额大于200元。<br/>\n2.要手机通过google play验证的。才能接受telegram短信验证码。有些手机卡开通的国际漫游依然收不到telegram的短信，但可以接受其他国外短信就是因为手机没有通过google play验证。打开google play，点击右上角你的账号名字的图标，设置，关于，拉到最下面会显示设备已经过认证。这个手机才能接受telegram发出的短信验证码。\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1224211",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-10",
+          "content": "第2點就是android和安卓的區别"
+        },
+        {
+          "id": "1224223",
+          "replier": {
+            "username": "shitsocialism",
+            "uid": "74157"
+          },
+          "date": "2023-11-10",
+          "content": "只开通国际漫游是不够的，国际短信是另外的功能"
+        }
+      ]
+    },
+    {
+      "id": "704522",
+      "is_folded": false,
+      "answerer": {
+        "username": "泼涛汹涌",
+        "uid": "74052"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t多省运营商默认关闭接听国际电话、短信：防电信诈骗，可开通<br/>\n澎湃新闻记者 邵冰燕 周玲<br/>\n2022-05-15 20:42<br/>\n来源：澎湃新闻<br/>\n电信运营商再出“硬招”严控境外诈骗。<br/>\n<br/>\n近日，有部分网友反映收到了来自中国移动浙江的短信，内容称将默认关闭接听国际及港澳台电话。“近年来境外诈骗电话案件频发，为保护财产安全，根据上级主管部门要求，浙江移动全面落实国际及港澳台电话接听功能按需开通工作。”<br/>\n<br/>\n“很大比例的诈骗电话是境外拨入的。”付亮表示，随着境内电话实施严格实名制，且对诈骗行为打击不断深入，不法分子的生存空间越来越小，一些不法分子就把诈骗“呼叫中心”转移到了境外。此前三大电信运营商也做了大量工作，制止电信诈骗。对于很多用户来说，没有接听国际电话需求，默认关闭该功能，对其没有影响，而对一些国际业务较多或有亲友在境外的用户，也可以主动开通。因此调整为“默认关闭”，“需主动开通”后，对大部分用户影响较小。<br/>\n<br/>\n除语音电话外，此前已有江西和河南等地通知用户将国际及港澳台短信接收功能调整为“默认关闭”。<br/>\n<br/>\n4月26日，河南移动、河南联通、河南电信联合发布公告称，近年来，境外诈骗短信案件高发，为保护人民群众财产安全，根据河南省打击治理电信网络新型违法犯罪工作厅际联席会议办公室工作要求，自5月7日零时起已将国际及港澳台短信接收业务办理调整为依用户申请开通，国际及港澳台短信接收功能默认为关闭状态。\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1224212",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-10",
+          "content": "我認為應該就是這個"
+        }
+      ]
+    },
+    {
+      "id": "704525",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的是联通，好像收不到 google 的电话了。。。。不知道什么原因呢。\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1224224",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-10",
+          "content": "google voice吧，如果用了VPN仍然收不到，那應該是google檢測到你人在大陸，不提供服務給你。我兩三天前在牆內，也發現google maps即使開了GPS也無法準測定位，只能模糊地定位到市，拉來拉去，左拉右拉都看不到自己在哪"
+        },
+        {
+          "id": "1224226",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-10",
+          "content": "201x年的時候是可以的，儘管有些圖層座標漂移（牆內禁止提供準確座標），但google maps + GPS可以看到自己在哪。現在google maps查江門的地點都非常模糊，放大來看啥都沒有，一整條街只顯示一兩間商店"
+        }
+      ]
+    },
+    {
+      "id": "704529",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭菜好了",
+        "uid": "114272"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tiiPhone可以收到短信，同事的小米收不到~<br/>\n阉割了，即使root也没有~\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "704541",
+      "is_folded": false,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t手机设置-移动网络-移动数据，把数据漫游功能打开就行，免费的，各种手机都这样操作\t\t</div>",
+      "date": "2023-11-10",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

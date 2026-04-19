@@ -1,0 +1,30 @@
+{
+  "article_id": "64618",
+  "category_id": "4",
+  "title": "硬核翻墙系列3：翻墙线路",
+  "meta_description": "硬核翻墙系列3：翻墙线路 - [b]CN2线路（Chinatelecom Next Carrier Network，中国电信下一代承载网络）[/b]  CN2线路相比在用的老一代的163骨干网更加的通畅，也搭载了很先进的QoS技术，主要面向政企大客户来保证高质量的国际访问。  QoS的...",
+  "meta_keywords": "硬核,翻墙,系列,线路",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "406",
+      "name": "技术"
+    },
+    {
+      "id": "470",
+      "name": "vpn"
+    }
+  ],
+  "author": {
+    "username": "白夜烟火",
+    "uid": "116289"
+  },
+  "contents": "<div class=\"content markitup-box\">\n<b>CN2线路（Chinatelecom Next Carrier Network，中国电信下一代承载网络）</b><br/>\n<br/>\r\nCN2线路相比在用的老一代的163骨干网更加的通畅，也搭载了很先进的QoS技术，主要面向政企大客户来保证高质量的国际访问。<br/>\n<br/>\r\nQoS的全称是Quality of Service ，意思是服务质量。QoS能够识别网络中的流量的需求，需要延迟低的服务优先通行。拥有QoS的网络能够动态的根据服务内容来调节网络带宽的通畅性。<br/>\n<br/>\r\n另外解释一个概念叫做被QoS，经常用于描述翻墙之后网络出现卡顿断线的这种情况。原理上讲其实就是被QoS服务针对流量优先级而限了速。<br/>\n<br/>\r\nCN2的缺点也很明显，那就是价格非常高，个人用户很少。<br/>\n<br/>\r\nCN2线路包括<b>CN2GT(Global Transmit)</b>和<b>CN2GIA(Global Internet Access)</b>。CN2GT更便宜，出国线路拥堵程度比较一般，比163骨干网要强。CN2GIA最贵，也是最好的，出国线路最通畅，理论上也是最稳定的。购买时，需注意是单向CN2还是双向CN2。<br/>\n<br/>\n<b>BGP（Border Gateway Protocol，边界网关协议）</b><br/>\n<br/>\r\nBGP机房一般也叫多线机房。BGP可以自动识别线路是电信还是移动还是联通，并且自动使用最适合当前连接的这个服务器的线路。而且在当前网络不通的时候还会自动切换到其他的线路来连接服务器。<br/>\n<br/>\n<b>三大巨头线路</b><br/>\n<br/>\n<b>GCP</b>（Google Cloud Platform，谷歌云平台）<br/>\r\n价格贵，敏感期断网<br/>\n<br/>\n<b>AWS</b>（Amazon Web Service，亚马逊云服务）<br/>\r\n流量少<br/>\n<br/>\n<b>Azure</b>（Microsoft云服务）<br/>\r\n申请麻烦<br/>\n<br/>\r\n通用优点：可更换IP；带宽大。<br/>\n<br/>\n<b>IPLC（International Private Leased Circuit ，国际私有租用线路）</b><br/>\n<br/>\r\n传说中的专线。有两个特点，第一价格奇贵，动辄几千上万一个月租金，看张图。<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvNGU5ZTZmNjY2N2EzMmJhOTNjN2M2LnBuZz93aWR0aD0yNTYwJmhlaWdodD0xMDg0\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/4e9e6f6667a32ba93c7c6.png?width=2560&amp;height=1084\"><img alt=\"https://telegra.ph/file/4e9e6f6667a32ba93c7c6.png?width=2560&amp;height=1084\" loading=\"lazy\" src=\"https://telegra.ph/file/4e9e6f6667a32ba93c7c6.png?width=2560&amp;height=1084\" style=\"max-width:100%\"/></a><br/>\n<br/>\r\n第二个特点在于IPLC不过GFW审查，没有墙就不用翻所以贵。因此IPLC线路的游戏加速器效果是最好的。<br/>\n<br/>\r\n这里分享一点我的体验。很多标榜自己IPLC的线路的这些人，把很多东西做了隐性处理。前段时间有个YouTube就推荐了一个机场的IPLC线路，广告视频放出没多久按月收费的套餐瞬间就没了，你只能买那个半年或者一年的套餐。所以大家在看到IPLC的时候一定要稳住，水很深，一定要多一个心眼。<br/>\n<br/>\r\n以上内容来自硬核翻墙技术专栏：<a href=\"url/link/aHR0cHM6Ly9oYXJkY29yZXEuY29tLzMuJTIwJUU3JUJGJUJCJUU1JUEyJTk5JUU3JUJBJUJGJUU4JUI3JUFGLw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://hardcoreq.com/3.%20%E7%BF%BB%E5%A2%99%E7%BA%BF%E8%B7%AF/\">立即查看</a> </div>",
+  "view_count": 10005,
+  "date": "2023-10-10",
+  "agree_count": 1,
+  "comment_count": 3
+}

@@ -1,0 +1,121 @@
+{
+  "parent_type": "question",
+  "parent_id": "64008",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "713253",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你真寄，我也不敢留地址啊。<br/>\n<br/>\n-----二十---------二十字----------------二十字----二十------------二十---------二十字----------------二十字----二十-------\t\t</div>",
+      "date": "2023-12-17",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1232775",
+          "replier": {
+            "username": "肃托委员会",
+            "uid": "120562"
+          },
+          "date": "2023-12-17",
+          "content": "你在大陆的话，给你寄到菜鸟驿站.我这里准备关掉公司回老家农村开养猪场，这些手机早点出掉"
+        },
+        {
+          "id": "1232799",
+          "replier": {
+            "username": "肃托委员会",
+            "uid": "120562"
+          },
+          "date": "2023-12-17",
+          "content": "@qwe123123qwe:需要的.你可以让亲属朋友帮你取，这样就追查不到你了"
+        }
+      ]
+    },
+    {
+      "id": "713262",
+      "is_folded": false,
+      "answerer": {
+        "username": "東亞病夫",
+        "uid": "119542"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t成品VPN我信不过 包括ExpressVPN<br/>\n<br/>\n自建也不麻烦 服务器日志数据只有自己知道<br/>\n<br/>\n支持支付宝付款的商家不要选<br/>\n<br/>\n一键脚本也别用<br/>\n<br/>\n<br/>\n另外 寄华为<br/>\n<br/>\n是想活摘葱友的器官吗\t\t</div>",
+      "date": "2023-12-17",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1232802",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2023-12-17",
+          "content": "华为是用来闲鱼出手的，不是平时用的，诱惑力还是很大的，货值小1万呢，普通人1月工资吧"
+        }
+      ]
+    },
+    {
+      "id": "713256",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t试试狗急<br/>\n<br/>\n没办法的事, 你总得相信一个. <br/>\n<br/>\n最好的办法是自己搭建, 但是技术对很多人来说太复杂, 速度也不一定快.\t\t</div>",
+      "date": "2023-12-17",
+      "agree_count": -1,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1232776",
+          "replier": {
+            "username": "肃托委员会",
+            "uid": "120562"
+          },
+          "date": "2023-12-17",
+          "content": "狗急和老王是一家的.有个悖论，能在大陆下载的VPN都是老王，不是老王的无法下载"
+        },
+        {
+          "id": "1232778",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2023-12-17",
+          "content": "@肃托委员会: 大陆不太好下载. 而且现在国外网页都有https, 老王也看不到啥."
+        },
+        {
+          "id": "1232779",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-12-17",
+          "content": "这名字就辱"
+        },
+        {
+          "id": "1232780",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-12-17",
+          "content": "@hahayuyu:老王可以key logging和截屏"
+        },
+        {
+          "id": "1232782",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2023-12-17",
+          "content": "@rowlandheights: 那就得看windows的安全性了, 以前是可以的, 不知道现在咋样."
+        }
+      ]
+    }
+  ]
+}

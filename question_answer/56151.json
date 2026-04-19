@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "56151",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "631632",
+      "is_folded": false,
+      "answerer": {
+        "username": "OrphenOfKos",
+        "uid": "73371"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tz自唐两税法改革后是土地所有者交税 之前是交人头税<br/>\n但是徭役依然是个人承担 无论你是否拥有土地<br/>\n<br/>\n秦晖说过由于洼地的这种有产者纳税 无产者不纳税的情况<br/>\n导致宋以后的政府有强迫富人买地纳税的现象<br/>\n而洼地历史上出现土地税比土地产出收入还要多的情况也有过很多次 导致的结果就是土地大规模抛荒\t\t</div>",
+      "date": "2023-02-17",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "631629",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那种并不是不需要交税，而是<br/>\n1.投献。土地挂靠在具有免税特权的人（士绅）名下。政府数据上显示为税率为0，所以免征。<br/>\n2.投靠。地方家族（豪强）为隐匿的人口和土地提供庇护，由于这部分人口和土地并不记载在政府的账簿上，政府不知道他们的存在。因为政府数据上显示为应纳税额为0，所以不收。\t\t</div>",
+      "date": "2023-02-17",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

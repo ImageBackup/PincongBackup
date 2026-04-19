@@ -1,0 +1,100 @@
+{
+  "parent_type": "question",
+  "parent_id": "55001",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "618551",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人太多,经费不够<br/>\n<br/>\n我常说五千万上街 共产党就完了\t\t</div>",
+      "date": "2023-01-08",
+      "agree_count": 15,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "618549",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t抗议者不是通过QQ、微信来串联的，而是通过外网的App（电报、推特、LINE、whatsapp……）来联系的<br/>\n而访问境外ip是很常见的行为（即使不使用VPN），通过ip来查水表是不现实的<br/>\n上海警方是通过微型基站，能够将抗议地点区域内的手机全部侦测出来（手机，有IMEI设备识别码；SIM卡，包括独有的IMSI用户识别码），再通过人脸识别、摸底排队、步态对比等手段将抗议人士找出来\t\t</div>",
+      "date": "2023-01-08",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1142193",
+          "replier": {
+            "username": "同人志",
+            "uid": "22020"
+          },
+          "date": "2023-01-08",
+          "content": "当时还真是主要通过微信串联的，甚至是抖音和快手的直播吸引不少人到现场。之所以能串联成功主要是因为时间太短了，网警来不及反应。包括这次工人抗议以及周口烟花事件的主力也是抖音那些人。\n推特和电报的作用主要是往外传播和保留讯息或者海外留学生串联。\n电报推特在墙内的用户实在是太少，在一个城市里面的密度太低了，很难撑得起一场示威"
+        },
+        {
+          "id": "1142197",
+          "replier": {
+            "username": "同人志",
+            "uid": "22020"
+          },
+          "date": "2023-01-08",
+          "content": "当时还有好几场被截胡的白纸抗议，如湖南大学和广州美术学院，就是因为有老师在微信群发现有学生准备要抗议，就提前安排人给截胡了。"
+        },
+        {
+          "id": "1142200",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-01-08",
+          "content": "@同人志:所以《六韬》中提出，发起要秘密，会师要公开，敢为天下先，就能够得到天下人的响应。经济下行，中国现在不稳定因素太多，维稳系统对某些随机事件来不及反应，多点开花的抗议事件也极大的消耗维稳力量"
+        }
+      ]
+    },
+    {
+      "id": "618556",
+      "is_folded": false,
+      "answerer": {
+        "username": "国家二级暖床师",
+        "uid": "102932"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t专制政权很多时候可以把他的权力的触角四通八达深入到各个角落 但是令人吊诡的是 看历史时  会发现 虽然专制政权控制社会严丝合缝 但 总在关键点 关键时刻 专制这套玩法会突然匪夷所思的 翻车跟失灵   内藤湖南曾经在研究东亚史的时候仔细斟酌过这个问题  专制制度会时不时 间歇性抽风跟局部痉挛 这是常态  不必大惊小怪  上海这个事情 有很多人用的VPN和加密的社交媒体   不被查获也是中共一时的疏忽 但 你这个零星原子化个体还是不要轻易舍身对抗  共党毕竟是个组织 他调用所有的社会资源蹂躏你一个人   单薄的VPN和一些手机信息安全规程 恐怕在共党的天罗地网下支撑不了太久\t\t</div>",
+      "date": "2023-01-08",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "618579",
+      "is_folded": false,
+      "answerer": {
+        "username": "随机新用户",
+        "uid": "9858"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t晶哥能干什么， 只要出了GFW，人家能做的唯一一件事情就是开盒，以及依靠sim卡等设备识别，这也是为什么国内所有的设备都不支持esim的原因之一。什么ip抓包这种都是做梦，现在的信息报文都是加密过的抓什么包，真的要依靠抓包那可太乐了一辈子不可能被晶哥抓到。\t\t</div>",
+      "date": "2023-01-08",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "618576",
+      "is_folded": false,
+      "answerer": {
+        "username": "rockroll",
+        "uid": "103904"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没抓到你头上而已。据说已经抓了上百人了（不过基本都放了）。<br/>\n感觉现在墙里处理这些事已经炉火纯青，这么大的事，就这么不声不响的解决了\t\t</div>",
+      "date": "2023-01-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "55698",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "626185",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tChrome os是基于linux的，理论上Linux的独显驱动都能用，但做到这一步为啥不直接用正经的linux发行版，chrome os本质上还是云计算为主\t\t</div>",
+      "date": "2023-01-30",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1149716",
+          "replier": {
+            "username": "匿名bot",
+            "uid": "46152"
+          },
+          "date": "2023-01-30",
+          "content": "肝不动.追求稳定"
+        }
+      ]
+    },
+    {
+      "id": "626232",
+      "is_folded": false,
+      "answerer": {
+        "username": "pincong360",
+        "uid": "17793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我给我的一个好多年前的老笔记本安装了ChromeOS flex。很方便好用，但是不是独显的，就不知道独显的驱动支持了。\t\t</div>",
+      "date": "2023-01-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

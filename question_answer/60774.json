@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "60774",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "678901",
+      "is_folded": false,
+      "answerer": {
+        "username": "养老不能靠政府",
+        "uid": "48556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t那得先投匪，还得成为重要岗位涉密人员才能有利用价值，这还不能保证事成之后会不会被cia一脚踢开呢\t\t</div>",
+      "date": "2023-08-12",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "678907",
+      "is_folded": false,
+      "answerer": {
+        "username": "Germany2014",
+        "uid": "105134"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你先入个党<br/>\n参个军<br/>\n这不难吧？<br/>\n将来当了线人退役拿绿卡\t\t</div>",
+      "date": "2023-08-12",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

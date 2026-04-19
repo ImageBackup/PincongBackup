@@ -1,0 +1,79 @@
+{
+  "parent_type": "question",
+  "parent_id": "58271",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "654610",
+      "is_folded": false,
+      "answerer": {
+        "username": "朱见深",
+        "uid": "90097"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t推荐你读一本书叫做《信任的进化》，也可以直接谷歌搜索同名的在线小游戏。所谓的好人难做，根本上是一个关于博弈论的问题。只不过，由于国内没有法治，所以很多时候做好事不仅没有收益，还会有风险。但这不意味着我们就要彻底黑化，而是意味着我们要更加理性，更加善于博弈。\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654632",
+      "is_folded": false,
+      "answerer": {
+        "username": "Germany2014",
+        "uid": "105134"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没活明白吧<br/>\n强国人都是欺软怕硬柿子捏软的<br/>\n紫薯紫薯紫薯\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "654626",
+      "is_folded": false,
+      "answerer": {
+        "username": "吾儿禁评",
+        "uid": "73706"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t当然是得寸进尺，在中国要么你踩别人头上，要么别人踩你头上。\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1176812",
+          "replier": {
+            "username": "MickyMouse",
+            "uid": "96165"
+          },
+          "date": "2023-05-12",
+          "content": "so sad"
+        }
+      ]
+    },
+    {
+      "id": "654625",
+      "is_folded": false,
+      "answerer": {
+        "username": "六嬸",
+        "uid": "85411"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t忍一時激閪親自己，退一步益鳩埋人地。一個字，殺！獻忠有理，圖紙無罪，殺出個黎明！\t\t</div>",
+      "date": "2023-05-12",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1176811",
+          "replier": {
+            "username": "MickyMouse",
+            "uid": "96165"
+          },
+          "date": "2023-05-12",
+          "content": "Hahaha"
+        }
+      ]
+    }
+  ]
+}

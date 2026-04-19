@@ -1,0 +1,24 @@
+{
+  "question_id": "59020",
+  "category_id": "4",
+  "title": "刚回国内，如何翻墙？",
+  "meta_description": "刚回国内，如何翻墙？ - 好多问题 我自己搭的openvpn貌似速度不够。 找朋友要了个机场，付了支付宝（居然），但是发现有些服务器在国内（居然），有些政治网站比如自由亚洲居然上不去。 有靠谱的机场推荐么？ v2ray软件好像是中国人参与的，会有恶意后门么？ 自己搭用什么比较靠谱？...",
+  "meta_keywords": "刚回,国内,翻墙",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    }
+  ],
+  "author": {
+    "username": "hahayuyu",
+    "uid": "86146"
+  },
+  "view_count": 9344,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t好多问题<br/>\n我自己搭的openvpn貌似速度不够。<br/>\n找朋友要了个机场，付了支付宝（居然），但是发现有些服务器在国内（居然），有些政治网站比如自由亚洲居然上不去。<br/>\n有靠谱的机场推荐么？<br/>\nv2ray软件好像是中国人参与的，会有恶意后门么？<br/>\n自己搭用什么比较靠谱？如何防止被墙或者限速？<br/>\n<br/>\n谢谢\t\t\t\t\t\t\t</div>",
+  "date": "2023-06-11",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [],
+  "answer_count": 6
+}

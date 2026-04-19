@@ -1,0 +1,304 @@
+{
+  "parent_type": "question",
+  "parent_id": "62774",
+  "answer_count": 17,
+  "answers": [
+    {
+      "id": "700206",
+      "is_folded": false,
+      "answerer": {
+        "username": "麦子二百斤",
+        "uid": "50895"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国产输入法有可能记录你输入的词汇并上传给赵家<br/>\n所以我现在都使用谷歌拼音输入法，虽然比起国内输入法少了点联想功能，但是至少用得安心。\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 11,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1220103",
+          "replier": {
+            "username": "麦子二百斤",
+            "uid": "50895"
+          },
+          "date": "2023-10-26",
+          "content": "@大西洋海风:看你用的是什么手机了。现在谷歌输入法叫Gboard 可以试着下载下"
+        },
+        {
+          "id": "1220105",
+          "replier": {
+            "username": "麦子二百斤",
+            "uid": "50895"
+          },
+          "date": "2023-10-26",
+          "content": "@大西洋海风:国产手机的话最好还是避免下。你用的是是安卓手机么？手机应用商店没有这款app的话，可以在浏览器里面输入“Gboard”后下载，你既然已经翻墙上品葱了肯定能下载。"
+        }
+      ]
+    },
+    {
+      "id": "700224",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t手机使用Gboard输入法<br/>\nwindows自带的没问题,要觉得不安全的话倒也可以换成小狼毫\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700302",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你好，会的。以前有人使用国产输入法，拼写大量敏感词，然后被公安传唤的案例，希望葱油们卸载国产输入法，改用谷歌输入法或其它外国输入法，如Grammarly。\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700209",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t别人的不一定华为三六零的肯定会<br/>\n其实你可以利用这点<br/>\n输入看上去都是铭感词其实赞扬共产党的屁话<br/>\n让党国白忙活\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700303",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t俺用讯飞和搜狗输入法，但禁止了它们联网的权限\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700212",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t準確的說所有輸入法都會做收集數據的事，但第三方輸入法尤其支產是一定會把你的核心數據上傳（送中）的。目前比較好的方法是使用系統原生自帶的，手機如果一定要用第三方可以限制他的完全訪問權限，但會失去很多聯網功能\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "700274",
+      "is_folded": false,
+      "answerer": {
+        "username": "观云先生",
+        "uid": "73140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t当然会，这还需要怀疑么？<br/>\n不仅会收集你输入的文字，还有语音声纹。<br/>\n<br/>\nPC上用系统自带的微软拼音就很好了<br/>\n手机上可以用Gboard或者谷歌拼音\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 1,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1220107",
+          "replier": {
+            "username": "观云先生",
+            "uid": "73140"
+          },
+          "date": "2023-10-26",
+          "content": "@大西洋海风: 你说的应该是词库。词库这东西一方面可以靠比较麻烦的导入外部词库，一方面靠养。用的久了，打字就越来越顺。另外，我说的不是手指的指纹，我说的是声纹。根据语音输入，一段时间之后识别记录下来的你个人的声音特征，这个就叫声纹。国内的语音输入法与其说是方便用户，不如说就是收集声纹。声纹对于刑侦和维稳监控有着巨大的作用。"
+        },
+        {
+          "id": "1220114",
+          "replier": {
+            "username": "观云先生",
+            "uid": "73140"
+          },
+          "date": "2023-10-26",
+          "content": "@大西洋海风: 因为声音信息的采集成本很低。低到，声纹数据的识别可以直接在用户的设备上就完成，只需要把处理过后的识别结果发送到服务器做判定就可以了。如此一来，就大大扩展了可以部署监控的范围和深度。"
+        },
+        {
+          "id": "1220127",
+          "replier": {
+            "username": "观云先生",
+            "uid": "73140"
+          },
+          "date": "2023-10-26",
+          "content": "@大西洋海风:人脸识别配合密布在大街小巷的监控摄像头，可以轻易的了解并记录你的行踪。并且，还可能通过其他你想不到的途径，比如路人在视频聊天的时候拍到了你的脸，识别出来了，再根据GPS定位，就精确的定位了真实的你当前的位置。  你要知道，每台国产手机，都是共党的监控。"
+        },
+        {
+          "id": "1220131",
+          "replier": {
+            "username": "观云先生",
+            "uid": "73140"
+          },
+          "date": "2023-10-26",
+          "content": "@大西洋海风: 躲避人脸识别很难，中共早就以所谓正当手段，各种采集了你的人脸数据。你唯一能做的也只有口罩眼镜帽子化妆这样的手段了。 输入法送中当然主要是联网。有些聪明的朋友会不给网络权限，值得注意的是，也不要给文件访问权限。早已有人发现，一些输入法会通过保存数据到隐秘位置，再让同厂/友厂其他APP读取，这样就实现了不需要联网也可以偷偷传走数据。"
+        }
+      ]
+    },
+    {
+      "id": "700207",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t会的，比如你这会输入了啥，过一会广告和淘宝拼多多就给你推荐啥\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700523",
+      "is_folded": false,
+      "answerer": {
+        "username": "Hinomoto",
+        "uid": "106020"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我都用Gboard的，适配多种语言，打日文和特殊字母都方便，还能打出🇹🇼\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700270",
+      "is_folded": false,
+      "answerer": {
+        "username": "Streptopelia",
+        "uid": "115196"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t🤣甚至网信办以外的人也能监视你。<br/>\n<pre>https://citizenlab.ca/2023/08/vulnerabilities-in-sogou-keyboard-encryption/<br/>\nhttps://tspace.library.utoronto.ca/bitstream/1807/128769/1/Report%23170-sogou-keyboard-encryption.pdf</pre> </div>",
+      "date": "2023-10-25",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1220159",
+          "replier": {
+            "username": "pz221",
+            "uid": "51046"
+          },
+          "date": "2023-10-26",
+          "content": "谢谢分享"
+        }
+      ]
+    },
+    {
+      "id": "700479",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t理论上是可以做到的，我因为这个用了一年多的谷歌键盘，后来还是受不了，换回讯飞了。中文语音这块，我评测过外国的能找到的所有输入法，全是垃圾。\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700484",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t要知道 输入法会了解你的习惯 于9如果这个上传 自然就泄露你的输入信息了\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700491",
+      "is_folded": false,
+      "answerer": {
+        "username": "少伦少瓜子脸",
+        "uid": "85023"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t肯定啊，我以前是关闭输入法所有权限，包括照片麦克风和网络，关闭联想功能<br/>\n后来骂包子骂共产党骂的太多了，感觉还是不放心，就直接换成谷歌的了\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700503",
+      "is_folded": false,
+      "answerer": {
+        "username": "左胶太多了",
+        "uid": "111667"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以用rime中州韵输入法，开源、免费、不联网和可客制化。\t\t</div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700277",
+      "is_folded": false,
+      "answerer": {
+        "username": "严防网警比对信息",
+        "uid": "112279"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t担心这个还不如担心品葱本身的保密程度。我这几年几次测试过，品葱说自己不记录ip，但是注册小号是会被识别为连续注册小号的，已经清空浏览器缓存，几天内同一个私有vpn地址注册几个号的情况下就会被识别，私有地址也不会有别人用这个ip了\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "700301",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tfcitx5怎么样,在pc和安卓上都有. 开源的. 有人知道有安全隐私问题么?\t\t</div>",
+      "date": "2023-10-25",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1220140",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-10-26",
+          "content": "我就是用fcitx5的cangjie5"
+        }
+      ]
+    },
+    {
+      "id": "700478",
+      "is_folded": true,
+      "answerer": {
+        "username": "大西洋海风",
+        "uid": "118293"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-10-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

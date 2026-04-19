@@ -1,0 +1,110 @@
+{
+  "parent_type": "question",
+  "parent_id": "63740",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "710290",
+      "is_folded": false,
+      "answerer": {
+        "username": "藍白拖",
+        "uid": "106244"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小米OV嘛....基本上能想到的黑點都是軟體噁心人，價格/行銷/粉絲噁心人，或是產品有明顯瑕疵就推托認為這樣居多，我是覺得V的品質是好很多，通病硬體維修國內外的服務和承擔都很大方（綠線問題他們都直接修），手機硬件也從高價低配出來了，oppo也是從高價低配跳出來（或是把高價低配轉嫁到低階，另一種說法）現在也算海外常見的品牌了，我個人覺得目前只有行銷和軟體差，買了一加10陸版韌體黃遊安裝包沒刪也一直報警告（可以關，但更新後恢復默認開啟）<br/>\n<br/>\n<br/>\n<br/>\n小米大概是我覺得最噁心的，行銷搞過，水軍也搞過，而且在我這邊用米系的粉絲或機主句句不離性價比，高階安卓都太貴其使用者該被批評這種心態，再來小米售後和部分硬件品質也就是一分錢一分貨，旗艦機容易掛逼或是部分產品效果很差的也不少（印象中有飛行器/3D列印這種根本是測試品的），系統軟件也是廣告很多（回收成本方法），售後頻頻修壞手機上酷安或牆內媒體，現在又把新機解鎖限制了（hyperOS的解鎖資格變得難拿），越走越霸道\t\t</div>",
+      "date": "2023-12-05",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1285881",
+          "replier": {
+            "username": "v50看实力",
+            "uid": "127380"
+          },
+          "date": "2024-08-24",
+          "content": "跟滑伪比真的太善良了"
+        }
+      ]
+    },
+    {
+      "id": "710297",
+      "is_folded": false,
+      "answerer": {
+        "username": "事已至此先吃饭吧",
+        "uid": "102283"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小米全系统全UI都有广告，而且反诈APP是深度植入在系统之中，每代手机总会出些幺蛾子硬伤，反观VIVO、OPPO两家不打爱国牌也不少见水军捣乱，从音质到影像画质上踏踏实实进步，系统也极少有自作主张的行为。\t\t</div>",
+      "date": "2023-12-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "769961",
+      "is_folded": false,
+      "answerer": {
+        "username": "momo123",
+        "uid": "134086"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1. 可能内置“國家監控中心”（小米客服使用的原詞)<br/>\n2. 前幾年MIUI的BUG特別多，一度被稱爲BUGUI，也有因爲系統廣告多稱之爲ADUI的，現在變成所謂的HyperOS不知道什麽樣了<br/>\n3. 飢餓營銷，中國消費者稱之爲“耍猴”，熱門產品經常不放貨<br/>\n4. 品控一般<br/>\n5. 想到再説\t\t</div>",
+      "date": "2024-08-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "710300",
+      "is_folded": false,
+      "answerer": {
+        "username": "丽可酱",
+        "uid": "119273"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t2017年那段时间小米p2p暴雷，有兴趣的可以去查。<br/>\n<br/>\n这个黑点对反贼来说应该问题不大，目前反贼用小米手机翻墙，最需要注意国行系统的安全问题。<br/>\n<br/>\n<b>小米可能内置反诈中心</b><br/>\n<br/>\n目前国行安卓手机都具有安装应用时检测的功能，前段时间已经有小米用户因为使用安装包安装telegram而被当地96110电询是否安装违法软件。<br/>\n<br/>\n有翻墙需求的小米用户最好尽快将手机刷机成欧版ROM，实在不行换国外品牌手机的非国行版本水货。\t\t</div>",
+      "date": "2023-12-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "769964",
+      "is_folded": false,
+      "answerer": {
+        "username": "没有能力逃离中国",
+        "uid": "134107"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t安装翻墙软件会提示你安装违法软件，华为小米之类的不要考虑。\t\t</div>",
+      "date": "2024-08-24",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1285872",
+          "replier": {
+            "username": "[已注销]",
+            "uid": null
+          },
+          "date": "2024-08-24",
+          "content": "这已经不是小米的问题了，基本上是个支国手机都有这个毛病"
+        },
+        {
+          "id": "1285878",
+          "replier": {
+            "username": "没有能力逃离中国",
+            "uid": "134107"
+          },
+          "date": "2024-08-24",
+          "content": "@天安门现碾肉末:没有的，其他国产的没有。"
+        },
+        {
+          "id": "1285884",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-08-24",
+          "content": "不提示的不一样监控你，不要关心这种false sense of security"
+        }
+      ]
+    }
+  ]
+}

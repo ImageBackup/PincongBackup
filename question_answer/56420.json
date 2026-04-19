@@ -1,0 +1,39 @@
+{
+  "parent_type": "question",
+  "parent_id": "56420",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "634764",
+      "is_folded": false,
+      "answerer": {
+        "username": "cnqjf",
+        "uid": "108618"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要收到黑钱，账户还是免不了被冻结，最多就是帮你还了一笔信用卡，没有必要这样。<br/>\n最好是找熟人对敲或者是ATM机取现：办个境外账户，申请提款卡，把加密货币换成法币存入账户，然后提款卡去线下ATM机取现，不过可能要收一定的费用，比如货币转换费、手续费等，一般ATM机取现费率是5-8不等，看各家银行或者是金融机构的要求。\t\t</div>",
+      "date": "2023-02-27",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1157608",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-02-27",
+          "content": "这不适合大额的付款吧！"
+        },
+        {
+          "id": "1157843",
+          "replier": {
+            "username": "cnqjf",
+            "uid": "108618"
+          },
+          "date": "2023-02-27",
+          "content": "@periodspell:\n主要是看你的需求在哪，如果是为了防止黑钱，境外账户ATM取现是可以避免黑钱冻卡，每天提一笔攒起来，一两个月下来也能有几十万；如果是信用卡确实可以是立刻用上，但是很可能还上一两笔账户就冻了，主要是看你的大额消费急不急用吧，不急用的话ATM取现最安全，急的话信用卡刷确实也可以。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "parent_type": "question",
+  "parent_id": "66121",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "735986",
+      "is_folded": false,
+      "answerer": {
+        "username": "Surge",
+        "uid": "19471"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\ttor浏览器本质是经过特别设计预防隐私泄露的Firefox ESR版本的浏览器和tor bundle组件的结合。<br/>\n<br/>\nfirefox可以安装插件的。因为第三方插件可能会引起的隐私泄露，tor官方不建议tor浏览器安装其他插件。\t\t</div>",
+      "date": "2024-03-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "735987",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t除了Adguard,不建议再在TOR安装任何其他扩展<br/>\n日常可以用Brave浏览器\t\t</div>",
+      "date": "2024-03-23",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "735988",
+      "is_folded": false,
+      "answerer": {
+        "username": "jerry123123123",
+        "uid": "117745"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\thttps://medium.com/@jasonjayjacobs/using-the-tor-bundle-on-windows-for-complete-traffic-proxying-658f995f75e4<br/>\n<br/>\n在 Windows 上使用 Tor 捆绑包进行完整的流量代理<br/>\n<br/>\n介绍<br/>\n让我们考虑一下，今天您很高兴在多个加密代理之间跳转，但您没有要实施的 VPN。您还希望所有操作系统的网络流量都通过此门户反弹，而不仅仅是浏览器。<br/>\n<br/>\n本指南将提供有关如何在 Windows 上下载和配置 Tor Expert Bundle 以通过 Tor 网络代理所有互联网流量的分步说明。<br/>\n<br/>\n第 1 步：下载 Tor Expert 捆绑包<br/>\n访问下载地址（https://dist.torproject.org/torbrowser/）。<br/>\n浏览目录并选择适合您的操作系统的发行版。<br/>\n解压缩 Expert Bundle 文件夹并导航到/tor目录。<br/>\n.\\tor.exe从当前目录在命令行中执行即可启动Tor连接并启用SOCKS5代理，以便我们在Windows中进行配置。<br/>\n<br/>\nTor 引导成功。<br/>\n步骤 2：在 Windows 上配置 SOCKS5 代理<br/>\n使用 Internet 选项（所有 Windows 版本）：<br/>\n<br/>\n打开（通过在Internet Options开始/搜索栏中搜索，或通过Control Panel&gt;&gt; Network and Internet）Internet Options<br/>\n<br/>\n屏幕截图由超级用户提供（Gabriel Grant，2021）<br/>\n2. 打开Connections选项卡并单击LAN Settings<br/>\n<br/>\n<br/>\n屏幕截图由超级用户提供（Gabriel Grant，2021）<br/>\n3. 选中“为 LAN 使用代理服务器”复选框。您可能还想检查“绕过本地地址的代理服务器”。然后点击“高级”按钮：<br/>\n<br/>\n<br/>\n屏幕截图由超级用户提供（Gabriel Grant，2021）<br/>\n4. 在“Socks”部分中，输入 Tor 服务的以下 IP 地址和端口号：<br/>\n<br/>\n袜子：127.0.0.1<br/>\n<br/>\n端口：9050<br/>\n<br/>\n将“HTTP”、“安全”和“FTP”字段留空。在所有打开的窗口上单击“确定”以保存更改。<br/>\n<br/>\n第 3 步：验证 Tor 连接<br/>\n打开网络浏览器（例如 Chrome、Firefox）。<br/>\n访问 Tor 项目网站 ( https://check.torproject.org/ )。<br/>\n<br/>\nTor 代理已成功配置。<br/>\n您的流量已成功通过 Tor 网络进行代理。<br/>\n<br/>\n额外提示<br/>\n考虑安装一些基于隐私的浏览器扩展：如果不阻止广告和跟踪器，您是否安全？<br/>\n<br/>\n基于隐私的浏览器扩展。<br/>\nPrivacy Badger和uBlock Origin是处理此问题的首选扩展。 Privacy Badger 纯粹是一个跟踪器拦截器。该扩展程序不会阻止广告，除非它们恰好在跟踪您。另一方面，uBlock Origin 则兼顾两者以增强隐私性。<br/>\n<br/>\n考虑一下您的“浏览器指纹”以及您的追踪难度：<br/>\n<br/>\n掩盖你的踪迹，EFF<br/>\n您还可以通过访问 EFF 的Cover Your Tracks网站在浏览器上执行此指纹测试，以了解浏览器指纹中存在的保护级别。<br/>\n<br/>\n我们还可以注意到，尽管您的 IP 地址现在已被隐藏，并且您平均每五分钟从德国和荷兰访问一次 Google，但您的“时区”仍可能会被跟踪。<br/>\n<br/>\n<br/>\n我们的浏览器指纹中的时区跟踪。<br/>\n为了弥补这一点，我们实际上可以考虑使用 Tor 浏览器来获得更好的匿名性和隐私性，从而在浏览时隐藏这些信息。<br/>\n<br/>\n禁用 JavaScript：禁用 JavaScript 可以提供更安全的浏览级别，以防止网站对 Tor 用户进行去匿名化。<br/>\n请注意局限性：Tor 无法防范所有形式的监视或流量分析。<br/>\n结论<br/>\n充分考虑这些注释将实现匿名和一定程度的隐私，使您能够更安全地浏览网络。请记住负责任地使用 Tor 并了解其局限性\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2024-03-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "735989",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tTOR浏览器，默认的代理地址是127.0.0.1，端口号为9150<br/>\n而TOR专家版的端口号为9050，地址可以设置为0.0.0.0，这样就可以共享给虚拟机或内网其他用户了\t\t</div>",
+      "date": "2024-03-23",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

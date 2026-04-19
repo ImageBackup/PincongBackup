@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "60359",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "675321",
+      "is_folded": false,
+      "answerer": {
+        "username": "meltgod",
+        "uid": "99503"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t个人建议你得让自己沉浸在纯英语环境，所见所闻皆是英语。另外，你得主观想学英语，而不是总是用英文翻译成中文这样去学。学语言没有那么简单，需要长期积累和练习\t\t</div>",
+      "date": "2023-07-31",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675322",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tX 人脑翻译<br/>\nO 使用DeepL<br/>\n只要内容没有黑话术语,翻译出来的结果都能看\t\t</div>",
+      "date": "2023-07-31",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "675323",
+      "is_folded": true,
+      "answerer": {
+        "username": "justin_lee",
+        "uid": "28794"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-07-31",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "parent_type": "question",
+  "parent_id": "66972",
+  "answer_count": 10,
+  "answers": [
+    {
+      "id": "744717",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t检查你浏览器是不是有陌生网站的授权 (弹开提示, 下载, 语音访问之类)<br/>\n<br/>\n党国小同志的这些手法很业余, 有经验不难发现\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744803",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你有两个选择。<br/>\n<br/>\n第一个是用firebox之类口碑好的浏览器，然后无条件信任之。别疑神疑鬼。<br/>\n<br/>\n第二个是学会流量分析，设置中间人证书，用Wireshark分析自己的所有流量。一般网站会用cookie追踪用户，与其禁用cookie并无条件信任浏览器，不如自己动手，追踪所有封包。<br/>\n<br/>\n第二种方法是安全研究员采用的方法，可以治本，但是费时费力，反正我不会操这么多心。都是nobody，何必呢。\t\t</div>",
+      "date": "2024-05-02",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1262101",
+          "replier": {
+            "username": "李瑞环",
+            "uid": "33525"
+          },
+          "date": "2024-05-02",
+          "content": "@chibi123:cookie只是一个txt文件而已，”能不能”完全取决于浏览器具体实现。当年IE的activeX还能让浏览器运行任何本地代码呢。\n互联网是基于信任的。你要是无法信任别人，就必须自己检查实现。极端的说，用curl抓网页下来看，也能过日子。问题是你自己受的了受不了。"
+        }
+      ]
+    },
+    {
+      "id": "744703",
+      "is_folded": false,
+      "answerer": {
+        "username": "Antonov一500",
+        "uid": "73460"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t留意浏览器版本，<br/>\n<br/>\n是中国版还是中文版....<br/>\n<br/>\n还有的地方搞DPI，也不太行\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1261885",
+          "replier": {
+            "username": "Antonov一500",
+            "uid": "73460"
+          },
+          "date": "2024-05-01",
+          "content": "@chibi123:你点开定向是这个吧\nhttps://www.mozilla.org/zh-CN/firefox/new/\n不要因为是中国IP就定向到了\nhttp://www.firefotwitter.com.\ncn/就不好了"
+        }
+      ]
+    },
+    {
+      "id": "744707",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t操作系统和后台运行的软件<br/>\n<br/>\n还有这些软件的权限<br/>\n<br/>\n360全家桶我劝你多用\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1262404",
+          "replier": {
+            "username": "MrJerry",
+            "uid": "96142"
+          },
+          "date": "2024-05-03",
+          "content": "你是認真的還是開玩笑的！360可是共匪的家奴！"
+        },
+        {
+          "id": "1262406",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-05-03",
+          "content": "@MrJerry:这不就是给“被监控”提供一个解释嘛\n使用360全家桶，那上品葱这个事情本身就会导致自动生成一个报告"
+        }
+      ]
+    },
+    {
+      "id": "744751",
+      "is_folded": false,
+      "answerer": {
+        "username": "korcory",
+        "uid": "126906"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t搞这些也得花费不少功夫的，如果是网狗可能会直接请喝茶，题主可能多虑了\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "745086",
+      "is_folded": false,
+      "answerer": {
+        "username": "孤烟暮蝉8964",
+        "uid": "128187"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t清理国产软件，先翻墙，再用tor打开品葱，这样才安全。\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "745125",
+      "is_folded": false,
+      "answerer": {
+        "username": "iski_jiefang",
+        "uid": "128409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t下面是不更换设备的前提下的一些解决方法<br/>\n如果你使用手机的话，可能是输入法或是浏览器的问题，嫌疑最大的是输入法，浏览器最好也换成Firefox。最简单的方式是换上gboard，然后再用你的翻墙软件连接Tor浏览器来上pincong。<br/>\ngboard中文自带的词库太落后了，可以自己导入下面的字典<br/>\nhttps://github.com/DiexMi/Gboard_Dictionary_With_Sougo_Dictionary<br/>\n如果是电脑的话，最好照编程随想的博客配置虚拟机+三重代理，例如迷雾通（命令行代理模式）+tor+虚拟机后的vpngate。虚拟机后面可以装windows10延长支持版，基本上可以防止微软瞎折腾。专用的翻墙虚拟机要设置加密，并且DNS要配置成国外可信的，电脑浏览器可以使用mullvad浏览器。\t\t</div>",
+      "date": "2024-05-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744698",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nakamoto",
+        "uid": "73696"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t应该是使用了带有恶意插件的VPN吧，我倒觉得不太可能是什么黑客来敲诈你，除非你是科研人员或政府部门人员，否则跟踪你价值也不大。\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "744697",
+      "is_folded": true,
+      "answerer": {
+        "username": "chibi123",
+        "uid": "120926"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-05-01",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1261869",
+          "replier": {
+            "username": "靈魂漫遊",
+            "uid": "125675"
+          },
+          "date": "2024-05-01",
+          "content": "一般要跟踪一个人还是需要蛮多技术支持的，最起码是要有所图的"
+        }
+      ]
+    },
+    {
+      "id": "745002",
+      "is_folded": true,
+      "answerer": {
+        "username": "Sechi",
+        "uid": "126729"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-05-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

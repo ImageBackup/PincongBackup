@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "62210",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "694326",
+      "is_folded": false,
+      "answerer": {
+        "username": "春天",
+        "uid": "116942"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tip是国内的估计是因为你没开全局代理（设置里面找一下），tor的话直接连接比较困难（如果你在国内的话），可以翻墙用电报机器人获取一下网桥再尝试连接（TOR设置里面导入）要想更快的话就在设置里面调一下TOR的联网方式，选择“使用代理连接互联网”然后填入你的翻墙软件的本地代理地址，个人比较推荐使用V2rayN这样的客户端，节点去Youtube或者github上面搜免费节点就行，要是愿意付费就去找机场，个人感觉开源的安全一些，\t\t</div>",
+      "date": "2023-10-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

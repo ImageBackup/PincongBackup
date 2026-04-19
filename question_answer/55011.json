@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "55011",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "618651",
+      "is_folded": false,
+      "answerer": {
+        "username": "wct888",
+        "uid": "73678"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t這新聞在牆內應會被封鎖，不準談論的吧。那粉蛆怎敢犯禁？\t\t</div>",
+      "date": "2023-01-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "618654",
+      "is_folded": false,
+      "answerer": {
+        "username": "O0O0O",
+        "uid": "106421"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为他们大多也参加重庆杭州工人运动了（但是不要太开心，过没多久他们大多也会变回粉蛆）\t\t</div>",
+      "date": "2023-01-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

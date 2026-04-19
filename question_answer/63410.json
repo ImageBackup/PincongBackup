@@ -1,0 +1,186 @@
+{
+  "parent_type": "question",
+  "parent_id": "63410",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "706893",
+      "is_folded": false,
+      "answerer": {
+        "username": "台湾国的周杰伦",
+        "uid": "114126"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也是最近发现好多节点不能用了还有vpn,最近力度很大吗？真他妈的希望共产党早点灭亡，再也不用他妈的翻墙，咳咳，我知道灭不灭亡不是我说的算，真的要看外来变量才可以，我们这代注定是耗材。\t\t</div>",
+      "date": "2023-11-20",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "707034",
+      "is_folded": false,
+      "answerer": {
+        "username": "RobotRepublic",
+        "uid": "101437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t怕中国人看到习包子在apec不受待见的丑态呗，墙内有几个知道包子又被肯定了一次独裁者。就是不让你看，让你啥也不知道，这招最有效。\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "707086",
+      "is_folded": false,
+      "answerer": {
+        "username": "sweatdog",
+        "uid": "43098"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最近墙的封锁已经完全是丧心病狂，在我这里已经达到5分钟不到，国际链接连接就要被全面截断一会（从数秒到数分）的程度。<br/>\n而且并不区分翻墙和非翻墙流量，只要是国际链接，无论是bt下载，还是没有被封锁的网站。这造成浏览网页以外的行为基本上已经完全不可行，流量网页的过程也充满阻碍。<br/>\n<br/>\n个人并不推荐自建VPS，因为维护起来特别麻烦。无论使用什么协议，能稳定使用的时间并不会特别长，ip被墙了以后又需要重新获得一个没有被墙的ip，服务也要重新折腾一遍。\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "707009",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我怀疑微信的PC客户端，有可能是它出卖了我，这玩意绝对不是好东西，没有任何功能更新但是他总是想要主动更新。所以我想卸载，发现卸载还卸不掉。。。。\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1227036",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-21",
+          "content": "linux + tg / status / session"
+        },
+        {
+          "id": "1227044",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-11-21",
+          "content": "debian + .appimage"
+        },
+        {
+          "id": "1227146",
+          "replier": {
+            "username": "crayfish",
+            "uid": "24041"
+          },
+          "date": "2023-11-21",
+          "content": "微信绝对在出卖用户数据，我只在微信发过的图片，没过几天，B乎就给我推送相关文章了，估计是图片里面的文字被微信OCR识别，卖给广告联盟，然后被所有互联网公司利用，包括B乎，，，，之前张小龙还说，是输入法在出卖用户信息，真是乌鸦别笑猪黑啊,,,"
+        },
+        {
+          "id": "1227149",
+          "replier": {
+            "username": "风清扬",
+            "uid": "115464"
+          },
+          "date": "2023-11-21",
+          "content": "用于翻墙的手机电脑一个国产软件都不能装啊"
+        }
+      ]
+    },
+    {
+      "id": "706666",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t被封了你怎么过来发帖的？能发帖就说明没事嘛\t\t</div>",
+      "date": "2023-11-20",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1226589",
+          "replier": {
+            "username": "FXXKXIJINPING",
+            "uid": "79556"
+          },
+          "date": "2023-11-20",
+          "content": "用了迷雾通。"
+        },
+        {
+          "id": "1226879",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-11-21",
+          "content": "@exlifeisexlife:我一般用v2，迷雾通刚开始我用起来还可以最近也是一直出问题，很多都看不了"
+        },
+        {
+          "id": "1226881",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-11-21",
+          "content": "@exlifeisexlife:我是充了会员的迷雾通，就是刚开始各方面还可以，后面不知道为什么越来越不行，我就换v2了"
+        }
+      ]
+    },
+    {
+      "id": "706889",
+      "is_folded": false,
+      "answerer": {
+        "username": "畜平首寄",
+        "uid": "111902"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t使用家世清白的IP地址，<br/>\n<br/>\n翻墙配置使用：<br/>\nVLESS + Reality + Vision<br/>\n这协议很强，目前无被爆记录<br/>\n<br/>\n确保配置正确的前提下，<br/>\n<br/>\n如果再被封了你就厉害了，<br/>\n可以去Github提交Issue，<br/>\n帮助大佬改进协议。\t\t</div>",
+      "date": "2023-11-20",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1226878",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-11-21",
+          "content": "怎么去找？"
+        }
+      ]
+    },
+    {
+      "id": "707013",
+      "is_folded": false,
+      "answerer": {
+        "username": "antixjp098",
+        "uid": "118269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用国内专线不过墙，ielp专线。<br/>\ntrojan,v2ray了解一下。<br/>\n懂点it知识不会错。\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "707050",
+      "is_folded": false,
+      "answerer": {
+        "username": "绝不换肩",
+        "uid": "50844"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t得找个小众点的运营商。<br/>\n大的云服务商被封得一塌糊涂\t\t</div>",
+      "date": "2023-11-21",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

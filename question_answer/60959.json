@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "60959",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "680753",
+      "is_folded": false,
+      "answerer": {
+        "username": "核子可乐",
+        "uid": "83886"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t百度的文心都有用户水印的，你截个图传播都能找到你，谁给你承担掉脑袋的风险做免费代理呢？\t\t</div>",
+      "date": "2023-08-17",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "680746",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tChatGPT好像是開源的可以自己下載個包，然後有獨顯就能本地run\t\t</div>",
+      "date": "2023-08-17",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

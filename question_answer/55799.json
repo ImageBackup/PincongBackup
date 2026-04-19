@@ -1,0 +1,20 @@
+{
+  "parent_type": "question",
+  "parent_id": "55799",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "627421",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\twhois 是個好工具 Unix-like 系統上都帶, Android 與 M$ 平臺可以透過 busybox 來使用.\t\t</div>",
+      "date": "2023-02-03",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+{
+  "parent_type": "question",
+  "parent_id": "57929",
+  "answer_count": 36,
+  "answers": [
+    {
+      "id": "652080",
+      "is_folded": false,
+      "answerer": {
+        "username": "teleporter",
+        "uid": "15063"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t數學本應是很有趣的+1<br/>\n一般教科書的寫法，就是先把觀念跟公式帶完，接著就開始練習題目了<br/>\n長期下來好像只為了教你答對題目一樣，毫無啟發性<br/>\n<br/>\n講個自己的例子給大家笑一下，我就是大家口中的做題家<br/>\n以前高中數學課，還有大學的應數課，矩陣一直是我最痛苦且不明所以的章節...<br/>\n我雖然閉著眼睛都知道矩陣、eigenvalue怎麼算，但我真的一點也不知道這到底代表什麼<br/>\n<br/>\n直到出社會多年，某次刷油管無意間發現「<a href=\"url/link/aHR0cHM6Ly93d3cueW91dHViZS5jb20vcGxheWxpc3Q_bGlzdD1QTFpIUU9iT1dUUURQRDNNaXp6TTJ4VkZpdGdGOGhFX2Fi\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab\">Essence of linear algebra 3Blue1Brown</a>」系列<br/>\n第一次看的感覺非常震撼，一看就停不下來...一直驚呼向量空間原來這麼美<br/>\n<br/>\n也許 linear algebra 是個好例子，<br/>\n對我這種沒概念的初學者來說，比起看一百次教科書描述矩陣的意義跟算法<br/>\n不如先配合動畫的重複播放，去領略矩陣的本質是一種線性變化，再去練習應用<br/>\n<br/>\n影片下面的評論，也有很多類似的感慨，其中有條評論說到我的心坎：<br/>\n以前高中學的矩陣，不強調意義，只要求你記下算法，原因永遠是「因為會考」<br/>\n就像高中的第二外語課一樣，只是教你拼湊句子，並不是教你如何溝通<br/>\n<br/>\n我很感謝3Blue1Brown讓我重拾對數學的好奇心，後來油管演算法也推了我許多不錯的教學影片<br/>\n像是這個「<a href=\"url/link/aHR0cHM6Ly93d3cueW91dHViZS5jb20vcGxheWxpc3Q_bGlzdD1QTGkwMVhvRThqWW9pM1Nnbm5Hb3JSX1hPVzNJY0stVFA2\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6\">Abstract Algebra</a>」的系列影片，也成功地勾起了我對代數的興趣<br/>\n<br/>\n有點離題了，不過我深深覺得，這個世代受惠於科技的進步，學習資源非常容易取得<br/>\n加上現在很火的ChatGPT，都能弭補許多傳統教學的不足<br/>\n希望更多的學習者，也能夠通過一點契機，得到一些對數學的啟發，領略數學的美\t\t</div>",
+      "date": "2023-05-01",
+      "agree_count": 4,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1175374",
+          "replier": {
+            "username": "Nederland",
+            "uid": "73269"
+          },
+          "date": "2023-05-06",
+          "content": "三蓝一棕真的好，唉，当年他是我的学长来着，我都没怎么跟他讲过话"
+        },
+        {
+          "id": "1175724",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-05-08",
+          "content": "工程中用到矩阵太常见了，个人理解，大学时候学习基本原理，不懂用途也没关系，到了工作中，自然会明白其用途，这时候再返回去看就好了，这本来就是大学教育的目的。"
+        }
+      ]
+    },
+    {
+      "id": "651780",
+      "is_folded": false,
+      "answerer": {
+        "username": "T33ya",
+        "uid": "89314"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国的数理化教材是向苏联学习的，但是因为中国本身没有苏联那种高度数理化的能力，同时又要保留苏式教材的严谨，所以写出来的很多教材都仅仅限于形式而没有“数学”的思维，特别是大学的自编教材很多都是东抄西抄，误人子弟。<br/>\n我想中国在初高中数学竞赛能取得好成绩而少出数学家和数学大师也是同样的原因：<br/>\n初高中数学竞赛本身并不具备高等数学那种“高度的抽象”，限于形式的推导，竞赛题目几乎都是“人为创造巧合”，没有任何普遍性。<br/>\n而高等数学建立在严谨的公理化和高度的抽象下，注重普遍而不注重巧合，所以中国难出成绩。<br/>\n用一句话来说：中国人的抽象能力不如白种人。<br/>\n<br/>\n为了证明我的观点，题主可以去阅读苏联的教材，与中国的教材一对比，谁高谁低一眼便知。\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 7,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1175811",
+          "replier": {
+            "username": "喜欢吃蒸包子",
+            "uid": "110657"
+          },
+          "date": "2023-05-08",
+          "content": "卓里奇数学分析躺枪……那是我个人感觉为数不多的、有深度的教材"
+        }
+      ]
+    },
+    {
+      "id": "651460",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我认为数学或其他理科学科最能激起人学习和探索兴趣的情况是代例子，或Case study. 让学生在知道自己在干什么/有一个目标/要解决问题的情况下学习/理解理论知识事半功倍。这点我在实践中也不断验证。<br/>\n<br/>\n纯粹且无背景/代入的理科学习或其他学习本身表述十分抽象，对于初学者来说更难以理解，自然让多数人望而却步。\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 17,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651468",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t数学只适合被数学选中的人，数学教材超过读者的智力程度必然枯燥。好的教材对读者的智商要求低一些，但仍然不能低太多\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 14,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651478",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t数学这种东西在俺认知内就是专业人士才去搞得东西<br/>\n<br/>\n小学开始不及格,初中开始听天书.<br/>\n根本没有丝毫兴趣<br/>\n<br/>\n题目上的证明是否垂直,俺直接用量角器来证明行不行\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 8,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1173780",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-28",
+          "content": "题目是平面几何，你用量角器证明属于工程技术，学科错误了\n平面几何的证明题本来就是按照平面几何的公里体系去证明几何关系"
+        },
+        {
+          "id": "1175773",
+          "replier": {
+            "username": "免於恐懼的自由",
+            "uid": "10428"
+          },
+          "date": "2023-05-08",
+          "content": "题目上的证明是否 “垂直” 是絕對的垂直，所有量角器都存在偏差，只有差不多的垂直。"
+        }
+      ]
+    },
+    {
+      "id": "651625",
+      "is_folded": false,
+      "answerer": {
+        "username": "木叶萧萧",
+        "uid": "109947"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t觉得数学书枯燥无味，有数学书编写的问题，也有学数学的人思维确实跟不上的问题。<br/>\n知识还是有一定门槛的。<br/>\n数学又不是《故事会》、《童话大王》、《静夜思》、《咏鹅》。<br/>\n见过电视综艺节目表演唱歌、说笑的，什么时候见过电视综艺节目去表演怎么解微积分、解三角函数的？<br/>\n每年高考作文都有人拿来品头论足，但你什么时候见过有人拿高考数学最后一道压轴题来讨论的？<br/>\n数学枯燥无味，除了数学书编写不好，更多的可能是数学确实有一定门槛。\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651961",
+      "is_folded": false,
+      "answerer": {
+        "username": "梅莺毒",
+        "uid": "105602"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t数学教科书目前的写法绝对是反人类的。先是大量概念一堆，然后推导几个结论，经常有一种吃包子咬三口肯不到馅的感觉。历史上肯定是反过来的，一定是先有问题，然后对模糊的概念进行提纯澄清，最后解决问题。这才是符合人类认知规律的，而教科书也必须按这个规律写，先引出问题，再给出探索方向，再找到答案。<br/>\n<br/>\n有些写数学教科书的，他以为先堆概念的写法叫严谨，殊不知对于初学者来说，这些概念让人很陌生，甚至不清楚为什么要有这些东西，那学起来一定非常痛苦。<br/>\n<br/>\n这个问题是所有教材的通病，至于中国的书那不叫教材，那叫备忘录\t\t</div>",
+      "date": "2023-04-30",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1174310",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-04-30",
+          "content": "对，现在有的数学家做研究喜欢以问题为导向，让人目标明确，引起学习者的求知欲。"
+        }
+      ]
+    },
+    {
+      "id": "651493",
+      "is_folded": false,
+      "answerer": {
+        "username": "mpc8240",
+        "uid": "50857"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为真有学问的人很少去当老师教人，选择当老师的基本是处于谋生的需要。另外，有学问不代表有表达能力，写书可能也写不好。<br/>\n当年读了研究生才明白，给本科生写教材的教授知名度高，但那是因为受众多。真的大家只会给研究生写书。选导师不要选给本科生写教材的。:)\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652000",
+      "is_folded": false,
+      "answerer": {
+        "username": "雨打萍",
+        "uid": "110403"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t国内所谓高等数学书故作高深罢了，他们的本事就是把简单的东西复杂化，让人看的云里雾里，制造壁垒。后来我悟到一个道理：假传万卷书，真传一案列   高等数学书越薄越好，公式越少越好\t\t</div>",
+      "date": "2023-04-30",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651792",
+      "is_folded": false,
+      "answerer": {
+        "username": "罗密欧与猪过夜",
+        "uid": "107734"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国出版的数学专业教科书全是垃圾,稍微好点的学校都用外文的教科书,汉语在表达逻辑上是有欠缺的\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651591",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在任何学科的学习中遇到无聊的时候是十分正常的。请问楼主正在学习哪部分的内容？作为一个数学专业出来的人，我希望我能帮到你，也许能为你推荐一些我评价不错的教材。\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651496",
+      "is_folded": false,
+      "answerer": {
+        "username": "valengosu",
+        "uid": "106812"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国人缺乏把事情说清楚的能力 我从来没见过比我还善于解释清楚问题的人 所以我知道这一点 背后的原因是中国人缺乏逻辑 从小不教逻辑学\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1175812",
+          "replier": {
+            "username": "喜欢吃蒸包子",
+            "uid": "110657"
+          },
+          "date": "2023-05-08",
+          "content": "说到点子了！没有逻辑学，小镇做题家们到了大学和工作中才显得手足无措"
+        }
+      ]
+    },
+    {
+      "id": "653629",
+      "is_folded": false,
+      "answerer": {
+        "username": "zzzzz11111",
+        "uid": "41398"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t美国不枯燥的数学教材一大把，中共主要是俄系教材的原因\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1175815",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-05-08",
+          "content": "这就是我为什么喜欢看英语书的原因，其实俄系教材也有很多不错的，可惜到国内全变味了。"
+        }
+      ]
+    },
+    {
+      "id": "653247",
+      "is_folded": false,
+      "answerer": {
+        "username": "免於恐懼的自由",
+        "uid": "10428"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t對。數學是非常有趣的。數學本身只是一種語言，訴說著人類對一些偉大想法的探索。開初數學就是為了想要解決一些問題而發展，但教科書根本就不交代問題和背景，就直接上公式，讓學生背誦。<br/>\n<br/>\n再加上，中小學教科書很差一點，就是支離破碎。為了應試，一個分支學一點點，就跳到另一個分支再學一點點，一直循環，缺少了脈絡，讓學生根本看不到 big picture。\t\t</div>",
+      "date": "2023-05-07",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651469",
+      "is_folded": false,
+      "answerer": {
+        "username": "六嬸",
+        "uid": "85411"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t書寫的有趣一點也最多讓你入門的時候舒服些，但只要考試機制還在，數學天份上限不夠的人還是會因為趕不上需要的分數而討厭數學\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652760",
+      "is_folded": false,
+      "answerer": {
+        "username": "司马脱",
+        "uid": "76468"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小镇做题家写的教材嘛，他们自己都痛恨这门学问还指望能深入浅出娓娓道来写满乐趣与思考，<br/>\n<br/>\n我小时候读到一本美国人写的《不爱物理者的启蒙物理学》，真是一本好书足以开智，从基本力到黑洞行云流水充满人类探索世界的骄傲和乐趣。后来我物理再也没不及格过，成了我最喜欢的一门课，成为我终生看待世界的乐趣，如果我有理性，一定来自那本书。<br/>\n<br/>\n谢谢那位美国教授\t\t</div>",
+      "date": "2023-05-04",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652065",
+      "is_folded": false,
+      "answerer": {
+        "username": "ms8674380",
+        "uid": "40799"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为中国的经济学和统计学是废物。统计局的数字都是为了迎合皇上喜好，编出来的。政府官员的财务信息不公开。在缺乏足够大的数据量喂模型的情况下，数学公式和中医玄学没有差别。<br/>\n<br/>\n欧洲的Eurostat每年会统计进出口数据、消费者满意度等信息。每年欧洲委员会也会采购一系列统计报告，以支持立法活动，气候变化就是其中之一。中国的酒懵子官员根本搞不懂气候边界税和2030年气候目标，那玩意是怎么算出来的，碳排放配额又是怎么监管的?<br/>\n<br/>\n中国的统计学者从欧美抄来公式，但事实上，中国的金融业和财政都是建立在关联交易的基础上。公式抄来了，然后政府官员就按照公式去演，但事实上，缺乏公共监督的情况下，西方公式根本不适用中国。<br/>\n<br/>\n总结一下，其实不是西方数学复杂或者中国教材写得不好，核心问题是数学代表着文明和诚实，但上述两个价值并不是中文所追求的。中文追求的是，假如我是皇上...\t\t</div>",
+      "date": "2023-05-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651564",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t学不会当然就觉得枯燥，如果你真觉得数学很有趣，那应该会从学习中找到乐趣。我上学的时候拿着日本人写的《数学辞典》研究的津津有味。那书写的并不有趣，就是非常严谨的数学研究。\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 1,
+      "discussion_count": 33,
+      "discussions": [
+        {
+          "id": "1173892",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-29",
+          "content": "@sasasasasa: 你怎么判断看不懂是因为写书人水平不行还是你自己的智商不行呢？"
+        },
+        {
+          "id": "1174044",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-29",
+          "content": "@sasasasasa: 我上的还是985，高数我们是二级要求，就比数学系低一级，当时没觉得很难🙂可能对你很难吧"
+        },
+        {
+          "id": "1174053",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-29",
+          "content": "@sasasasasa: 呵呵，你也发现自己又是“没上过中国本科”，又是“中国数学教科书很难看懂”，这其中是有矛盾的吧😂"
+        },
+        {
+          "id": "1174111",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-04-29",
+          "content": "@sasasasasa: 你没在中国上过大学怎么了解中国数学教科书的情况？你会特意找中国的教科书看？呵呵，鬼都不信。"
+        },
+        {
+          "id": "1174287",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-04-30",
+          "content": "@天下无贼:这不是穷酸屌丝无贼吗？ 你都没看过国外的教材 连对比都没有就敢放屁 不巧 我是国内研究生 国外因为工作需要重新拾起高数 两边对比就知道中国教材就是垃圾 你就是垃圾教材培养出来的垃圾 英文都不懂看不了西方教材 可怜的屌丝"
+        },
+        {
+          "id": "1174289",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-04-30",
+          "content": "@sasasasasa:他最大的毛病就是脑子不行还以为自己聪明 遇到逻辑强的就抓瞎"
+        },
+        {
+          "id": "1174299",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-04-30",
+          "content": "@sasasasasa:我估计没有 身上一股子典型的华人five的味道 就是不管自己有没有本事 就怕别人瞧不起他 他说的一切言论 核心就是一句话 你不能瞧不起我 我真的很聪明的"
+        },
+        {
+          "id": "1174760",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-04",
+          "content": "@valengosu: 遇到您这种奇葩逻辑特别强的，我还真有点抓瞎~~~~"
+        },
+        {
+          "id": "1174801",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-05-04",
+          "content": "@天下无贼:你就是一个穷酸的five 你这号我见得多了 先去回答人家的问题 数学专业学啥 允许你百度"
+        },
+        {
+          "id": "1174802",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-04",
+          "content": "@valengosu: 呵呵，手淫健体，意淫强国。我不介意你这个穷屌丝意淫我没上过大学又穷又酸"
+        },
+        {
+          "id": "1174820",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-05-04",
+          "content": "@天下无贼:哈哈哈哈 看读个大学把你自豪的 生怕人家不承认你读过大学 一看就是个five底层"
+        },
+        {
+          "id": "1174823",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-04",
+          "content": "@valengosu: 你也差不多，天天贬低别人是屌丝，因为你自己这辈子都是屌丝，你以为被人说屌丝是最大的侮辱是吧😂"
+        },
+        {
+          "id": "1174902",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-05-04",
+          "content": "@天下无贼:屌丝着急了？"
+        },
+        {
+          "id": "1174909",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-04",
+          "content": "@valengosu: 着不着急你自己才知道呀"
+        },
+        {
+          "id": "1175371",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-05-06",
+          "content": "@天下无贼:人家还在问你问题呢 怎么还不回答？都说了允许你百度 屌丝"
+        },
+        {
+          "id": "1175373",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-06",
+          "content": "@valengosu: 你10个字的问题，我回答你如果超过100个字，我就傻了，哪有那个闲工夫，呵呵"
+        },
+        {
+          "id": "1175405",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-05-06",
+          "content": "@天下无贼:不是我的问题 是人家的问题 怎么我一问就不回答了？ 你的屌丝脑子能分的清楚对象吗？"
+        },
+        {
+          "id": "1175447",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-06",
+          "content": "@valengosu: 这里的“你”是个虚拟的指代，不管是你，还是问问题的那个人，我换个说法，“别人10个字的问题，我回答你如果超过100个字，我就傻了”，懂了吧？问个宏大的话题，让我花时间去打很多字解释，我才不上当，呵呵。\n要不你给我证明你上过大学？呵呵"
+        },
+        {
+          "id": "1175488",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-05-07",
+          "content": "@天下无贼:原来你从小接受的教育是用你代替他？ 这种时候找任何人都会用他这个字吧？ 不得不说屌丝的脑回路就是和我们这些人不一样 怪不得穷酸"
+        },
+        {
+          "id": "1175490",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-07",
+          "content": "@valengosu: 还真是个说话习惯而已，指代词用“你”“他”都很正常，看来你这个屌丝不仅又穷又酸，见识也很短浅，不过可能不怪你，你可能很早就出国了，没怎么在国内活动。"
+        },
+        {
+          "id": "1175492",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-05-07",
+          "content": "@天下无贼:说话习惯？ 我早就说了你没有逻辑 是个屌丝 连用词都做不到准确 说的越多你暴露的越充分 你读的哪个野鸡大学？ 毕业论文别人代笔的吧？"
+        },
+        {
+          "id": "1175493",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-05-07",
+          "content": "@天下无贼:头一次见到该说他的时候用你代替还说用法正常的 也难怪 脑子不好的人都不认为自己脑子不好 我见多了"
+        },
+        {
+          "id": "1175494",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-07",
+          "content": "@valengosu: “脑子不好的人都不认为自己脑子不好 我见多了”您这个社交圈子很可怜…………"
+        },
+        {
+          "id": "1175495",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-05-07",
+          "content": "@天下无贼:哦 我懂了 愤怒刺激了你的大脑 你大脑充血过度 无法把我和他区分出来 所以笼统的用你代替 智力低的确是一种生理现象 你永远在证明这一点 你甚至无法做到一句话回答数学系学不学高数 天哪"
+        },
+        {
+          "id": "1175497",
+          "replier": {
+            "username": "valengosu",
+            "uid": "106812"
+          },
+          "date": "2023-05-07",
+          "content": "@天下无贼:你除了绕圈子一个问题都没办法做到正面回答 显然脑子不好 生怕被人瞧不起 很可悲的屌丝典型现象"
+        },
+        {
+          "id": "1175501",
+          "replier": {
+            "username": "天下无贼",
+            "uid": "19319"
+          },
+          "date": "2023-05-07",
+          "content": "@valengosu: 给您一个建议：远离脑子不好的圈子吧。不过估计以你的智商也只能混那种圈子了😅"
+        }
+      ]
+    },
+    {
+      "id": "651461",
+      "is_folded": false,
+      "answerer": {
+        "username": "unis14wis",
+        "uid": "108840"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t印象中从小学到大学的数学老师讲课本来就不用教科书，自学更是用不着。中学得看教辅书，大学自学就选本国外的教材，最好是原版的。数学教科书的存在价值估计就是给那些出书的人评职称用，再没有别的用处了。\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652544",
+      "is_folded": false,
+      "answerer": {
+        "username": "wangjulong",
+        "uid": "111166"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t覺得枯燥乏味，那是因為你看不懂啦！等你看懂了，看看還是不是覺得枯燥乏味？\t\t</div>",
+      "date": "2023-05-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651582",
+      "is_folded": false,
+      "answerer": {
+        "username": "TIAN_KUAI_HUO",
+        "uid": "88301"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是数学书枯燥乏味，是你觉得数学很枯燥乏味，我看英文书也觉得很乏味阿<br/>\n<br/>\n党史写的再生动，你也不会看党史也看的津津有味吧\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1175723",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-05-08",
+          "content": "我很喜欢看英文书，喜欢英文字母，当初翻墙看到英文内容就像打开一片新的世界，看到中文圈就感到恶臭不堪。"
+        }
+      ]
+    },
+    {
+      "id": "651584",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t抽象的东西当然无聊，政治经济哲学也无聊，数学化学也无聊，物理有趣些。觉得有趣的思想异于常人，可能是亚斯伯格症\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1173891",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-04-29",
+          "content": "欣赏音乐很有趣，但是光学习乐理很无聊，如果让一个没听过音乐的人上来就学习乐理肯定觉得枯燥。"
+        }
+      ]
+    },
+    {
+      "id": "651598",
+      "is_folded": false,
+      "answerer": {
+        "username": "多尔衮",
+        "uid": "106119"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t数学书要怎样写才能跌宕起伏，荡气回肠？楼主脑子里的水太多了吧？\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652630",
+      "is_folded": false,
+      "answerer": {
+        "username": "minisoda996",
+        "uid": "12008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t学任何东西，不介绍产生的背景就直接来讨论的，都是抽象的，有些人可能以为自己稍微懂点就沾沾自喜，其实这种懂是不可持续的。\t\t</div>",
+      "date": "2023-05-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651631",
+      "is_folded": false,
+      "answerer": {
+        "username": "Groupoid",
+        "uid": "74161"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你先举一下你认为写得有趣的书和写得枯燥乏味的书的例子，好了解一下你的数学程度和评价标准。\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653170",
+      "is_folded": false,
+      "answerer": {
+        "username": "自由China",
+        "uid": "23843"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你应该看看加拿大McMaster大学的Stewart教授写的微积分，版税高达一亿美元，写的简单深刻，非常好读。\t\t</div>",
+      "date": "2023-05-06",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652935",
+      "is_folded": false,
+      "answerer": {
+        "username": "missionsanjose",
+        "uid": "111353"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有些书的写作目的是评职称，而不是教书育人。不少学校都强制使用校内老师的自编教材，而不用市面上收到认可的教科书。\t\t</div>",
+      "date": "2023-05-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652708",
+      "is_folded": false,
+      "answerer": {
+        "username": "guest_s",
+        "uid": "78029"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中國的書最不擅長告訴讀者所以然，作者開篇通常直接進入灌輸漠視，據我感覺，人通常只有在被說服的情況下才會甘願地投入一件事，否則，他們只是在訓練技能，而不是在掌握知識。\t\t</div>",
+      "date": "2023-05-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651963",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞坏",
+        "uid": "106229"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t经济学phd表示MWG也很无聊啊。第一年老师推荐的治疗失眠的读物。技术层面的教材到一定深度怎么会有趣\t\t</div>",
+      "date": "2023-04-30",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1175810",
+          "replier": {
+            "username": "zzzzz11111",
+            "uid": "41398"
+          },
+          "date": "2023-05-08",
+          "content": "这本高微教材的作者之一号称一般均衡第一人，本来就喜欢数学炫技"
+        }
+      ]
+    },
+    {
+      "id": "652731",
+      "is_folded": false,
+      "answerer": {
+        "username": "dukenuke",
+        "uid": "45720"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t换个角度来看这个问题，题主实际上从侧面描述了数学这个东西的一个重要本质，也是<u><b>数学和其他自然科学不一样的地方</b></u>，数学是<u><b>绝对抽象</b></u>的概念，或者更进一步说：<u><b>数学是可以不依托于实体世界单独存在的，完全由人类构建起来的科学逻辑体系</b></u>。<br/>\n<br/>\n这就是数学为什么枯燥难学的根本原因，不要说什么国内国外教学和教材的差距，外国普通人学数学的时候也会感到极其痛苦。<br/>\n<br/>\n如果深的说就进入了细思极恐的境界。<u><b>数学这个完全由人类构建的抽象体系，是不能自洽的</b></u>，而且这个竟然是被数学自己证明了的！具体参见哥德尔不完备定理，这个结论还有一个推论：<u><b>理论上人类不能建立完美运行而不崩溃的人工智能</b><b>系统</b></u>。\t\t</div>",
+      "date": "2023-05-04",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1174968",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-05-04",
+          "content": "希尔伯特第二问还有争议，很多数学家认为歌德尔并没有完全解决这个问题，歌德尔只是证明了不完备性。如果p=np，数学机器证明就实现了。"
+        }
+      ]
+    },
+    {
+      "id": "651462",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我觉得学习数学挺累的，但是对我来说不算枯燥无味，我就喜欢烧脑的事情\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "651464",
+      "is_folded": false,
+      "answerer": {
+        "username": "VyYxpU5oCezbWr",
+        "uid": "111251"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可能與Bourbaki有關？公式化編寫教材，像Visual Complex Analysis那樣可能更吸引人？<br/>\n不過最好是能快速引出研究主題，既『有趣』又『充實』\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1173867",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-04-28",
+          "content": "我所说的有趣是说一本书前面能把读者带入进去，后面写的抽象和专业一些也无所谓，但是最好每一章都有关联，逻辑严谨，让人读完整本书有一种恍然大悟的感觉。"
+        },
+        {
+          "id": "1174008",
+          "replier": {
+            "username": "VyYxpU5oCezbWr",
+            "uid": "111251"
+          },
+          "date": "2023-04-29",
+          "content": "@yrnqb_705p:\n我明白了。\n但這很困難，開篇引人入勝，首先讀者要看得明其主旨。\n然後『每章都有關聯』，也難，數學研究中各種奇思妙想，正是在其『看似毫無關聯』。除非是數學史，或前代人(如Euler)，如今數學分支太雜，各方面都有所觸及。\n簡明扼要：數學發展很多時候『背離』其初衷(如cohomology)，故『支離破碎』，我猜讀者是『驚喜』多於『恍然大悟』"
+        }
+      ]
+    },
+    {
+      "id": "651472",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你看数学书有支离破碎的感觉，是因为你学的还不够，很多数学书，不是你第一次看就能看懂的\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1173859",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-04-28",
+          "content": "这种书不适合一上来入门，适合第二遍学习或补充，但说实话真的要学会了再给你本多糟糕的书也能看懂，但谁浪费时间去学第二遍呢。"
+        },
+        {
+          "id": "1174222",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-04-30",
+          "content": "@yrnqb_705p:  数学教材都是工具书啊"
+        },
+        {
+          "id": "1175726",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-05-08",
+          "content": "@yrnqb_705p: 你会一遍把新华字典看一遍，然后再也也不碰了吗？"
+        },
+        {
+          "id": "1175732",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-05-08",
+          "content": "@AAPLTSLA:数学教材也分几种，有的是入门引导性质的，有的类似词典，以供随时查阅。"
+        }
+      ]
+    },
+    {
+      "id": "651485",
+      "is_folded": false,
+      "answerer": {
+        "username": "少伦少瓜子脸",
+        "uid": "85023"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t数学本身就是看天赋，就跟数学家也会觉得诗歌文学枯燥无趣一样<br/>\n诗人和作家可能会因为对一篇文笔奇绝，情感深沉细腻的诗作或文章产生共情而意往神驰，甚至热泪盈眶，这是数学家很难体会到的感受<br/>\n而数学及其衍生学科对人类社会的巨大改造和依赖理科而创造出的工业产品之精密之壮观，也总是能让诗人和作家对数学叹为观止<br/>\n所以有没有数学天赋的人，其实是活在两个思维方式不同的世界，对没有数学天赋的人来说，数学很难和有趣联系在一起\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1175504",
+          "replier": {
+            "username": "免於恐懼的自由",
+            "uid": "10428"
+          },
+          "date": "2023-05-07",
+          "content": "完全不是。1950年諾貝爾文學獎得主羅素也是一個數學家。我一個老師是先拿了音樂系學位再去攻讀數學博士學位的。"
+        }
+      ]
+    },
+    {
+      "id": "651488",
+      "is_folded": false,
+      "answerer": {
+        "username": "Shit进瓶",
+        "uid": "93874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没有啊，我觉得m克莱因写的《古今数学思想》写得很有趣，我高中就读完了，从阿基米德讲到泛函\t\t</div>",
+      "date": "2023-04-28",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1173779",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-04-28",
+          "content": "看了以后，本来不懂数学，还是不懂数学"
+        },
+        {
+          "id": "1173863",
+          "replier": {
+            "username": "yrnqb_705p",
+            "uid": "110702"
+          },
+          "date": "2023-04-28",
+          "content": "是的，我也是看完此书才对数学有了新的认识。"
+        },
+        {
+          "id": "1173914",
+          "replier": {
+            "username": "德州仪器",
+            "uid": "93127"
+          },
+          "date": "2023-04-29",
+          "content": "这是数学史，不是数学"
+        }
+      ]
+    },
+    {
+      "id": "651767",
+      "is_folded": false,
+      "answerer": {
+        "username": "ArasakaLico",
+        "uid": "88776"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中国数学的根基，加减乘除四则运算本来就是建立在错误的基础上的，现在的父母都拿印度教学法教孩子。而且小地方数理化师资本来就差，我落魄时卖过公募基金，基金公司有个大凉山助学项目，决定给不给孩子援助标准就是他们的数理化成绩。\t\t</div>",
+      "date": "2023-04-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

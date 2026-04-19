@@ -1,0 +1,138 @@
+{
+  "parent_type": "question",
+  "parent_id": "63954",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "712859",
+      "is_folded": false,
+      "answerer": {
+        "username": "bun",
+        "uid": "92655"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在冷战中美国核武器的发射密码就是若干个1， 因为怕太复杂化太多时间输入密码影响反击的速度。\t\t</div>",
+      "date": "2023-12-15",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1232507",
+          "replier": {
+            "username": "lyyzandy",
+            "uid": "16137"
+          },
+          "date": "2023-12-15",
+          "content": "为什么不是生物识别？"
+        },
+        {
+          "id": "1232510",
+          "replier": {
+            "username": "bun",
+            "uid": "92655"
+          },
+          "date": "2023-12-15",
+          "content": "@lyyzandy:因为那时候不能保证发射人员还能活着或者按时赶到发射基地。"
+        }
+      ]
+    },
+    {
+      "id": "712837",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t然后老美一看，密码居然是admin123， 做梦都想不到，哈哈哈\t\t</div>",
+      "date": "2023-12-14",
+      "agree_count": 1,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1232464",
+          "replier": {
+            "username": "斩首习近平",
+            "uid": "52179"
+          },
+          "date": "2023-12-14",
+          "content": "不是明泽的生日吗"
+        },
+        {
+          "id": "1232466",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-14",
+          "content": "@斩首习近平:  你看他像疼爱家人的好父亲吗"
+        },
+        {
+          "id": "1232470",
+          "replier": {
+            "username": "flicker_free",
+            "uid": "98663"
+          },
+          "date": "2023-12-14",
+          "content": "你让我包帝输入这么难的英文单词和数字组合，不是故意让我包帝难堪吗？！\n依我看这密码就是123456。"
+        },
+        {
+          "id": "1232471",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-14",
+          "content": "@flicker_free: 哈哈哈，那这么说来，就他那智商，你觉得他会改密码吗？"
+        },
+        {
+          "id": "1232474",
+          "replier": {
+            "username": "蘑菇云",
+            "uid": "77623"
+          },
+          "date": "2023-12-14",
+          "content": "美军的密码是0000000\nhttps://arstechnica.com/tech-policy/2013/12/launch-code-for-us-nukes-was-00000000-for-20-years/"
+        },
+        {
+          "id": "1232475",
+          "replier": {
+            "username": "AAPLTSLA",
+            "uid": "31122"
+          },
+          "date": "2023-12-14",
+          "content": "@蘑菇云: hahaha， 都这么随意，就是让你想不到"
+        },
+        {
+          "id": "1232476",
+          "replier": {
+            "username": "flicker_free",
+            "uid": "98663"
+          },
+          "date": "2023-12-14",
+          "content": "@AAPLTSLA: 我觉得不会，没必要改。\n关键是打开发射按钮的两把钥匙，得同时插入开锁。发射密码自然是越简单越好，这样才不耽误发射。"
+        },
+        {
+          "id": "1232499",
+          "replier": {
+            "username": "屠支大佐毛遮洞",
+            "uid": "107972"
+          },
+          "date": "2023-12-15",
+          "content": "既然泄密了，现在改成888888了"
+        }
+      ]
+    },
+    {
+      "id": "712861",
+      "is_folded": false,
+      "answerer": {
+        "username": "hahayuyu",
+        "uid": "86146"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有密码也没用, 你得有加密的发令设备才行啊. 那东西都是重重保护的.\t\t</div>",
+      "date": "2023-12-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

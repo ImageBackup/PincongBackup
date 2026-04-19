@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "64112",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "714423",
+      "is_folded": false,
+      "answerer": {
+        "username": "橡果滾呀滾",
+        "uid": "101114"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t泵阿，不然你以為屎到底都會自動橫移去化糞池？\t\t</div>",
+      "date": "2023-12-21",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "714464",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果你看不见水塔的话，上水是怎么跑到二楼的，下水就是怎么跑到化粪池的💦\t\t</div>",
+      "date": "2023-12-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "714956",
+      "is_folded": false,
+      "answerer": {
+        "username": "Ruby",
+        "uid": "16255"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有污水泵，先汇集到污水池，然后抽到污物管网，如果不这样做，有污物回流的风险。\t\t</div>",
+      "date": "2023-12-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

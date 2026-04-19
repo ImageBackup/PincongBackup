@@ -1,0 +1,48 @@
+{
+  "parent_type": "question",
+  "parent_id": "63089",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "703385",
+      "is_folded": false,
+      "answerer": {
+        "username": "Ribeyrolles",
+        "uid": "2482"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t因为作者身份暴露，所以一是软件可能会被匪警植入后门，二是无法继续维护了有漏洞也无法修复\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1223014",
+          "replier": {
+            "username": "肉身翻墙才是王道",
+            "uid": "79584"
+          },
+          "date": "2023-11-04",
+          "content": "对翻墙影响如何？"
+        },
+        {
+          "id": "1223020",
+          "replier": {
+            "username": "吃包子的小學生",
+            "uid": "90380"
+          },
+          "date": "2023-11-04",
+          "content": "@肉身翻墙才是王道: 雖然不瞭解翻牆軟件，但我想他的意思是，Dev可能被抓，即使是他本人不招供，不得在被控制的情況下軟件控制權被土共掌握，那麼之後的版本更新，很可能就不再是原作者而是土共的東西了。"
+        },
+        {
+          "id": "1223022",
+          "replier": {
+            "username": "肉身翻墙才是王道",
+            "uid": "79584"
+          },
+          "date": "2023-11-04",
+          "content": "@吃包子的小學生:谢谢回答。"
+        }
+      ]
+    }
+  ]
+}

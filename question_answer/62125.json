@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "62125",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "692915",
+      "is_folded": false,
+      "answerer": {
+        "username": "屠支大佐毛遮洞",
+        "uid": "107972"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t把你刷手机的时间都用来背单词吧，可能对你来说，没有比这更有意义的事情了。\t\t</div>",
+      "date": "2023-09-28",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "692912",
+      "is_folded": false,
+      "answerer": {
+        "username": "pedestrian",
+        "uid": "14111"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不看b站还可以看油管，不过视频少看点是对的，看书是不错的，如果不反感和他人接触的话适当社交也是可以的，既然已经翻墙出来了网络上的东西还是非常丰富的，我还试过在可汗学院上面学数学，也很有意义\t\t</div>",
+      "date": "2023-09-28",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1212016",
+          "replier": {
+            "username": "郭敬明嗦习近平",
+            "uid": "92191"
+          },
+          "date": "2023-09-28",
+          "content": "可是我也不看书，我的意思是，闲暇之余想赚点外快。。"
+        },
+        {
+          "id": "1212024",
+          "replier": {
+            "username": "pedestrian",
+            "uid": "14111"
+          },
+          "date": "2023-09-28",
+          "content": "@郭敬明嗦习近平:不用技能去赚钱效率都比较低吧，像刷单那些的，长远来看还不如学一个技能之后赚钱更好"
+        }
+      ]
+    }
+  ]
+}

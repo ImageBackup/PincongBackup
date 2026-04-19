@@ -1,0 +1,279 @@
+{
+  "parent_type": "question",
+  "parent_id": "53673",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "604789",
+      "is_folded": false,
+      "answerer": {
+        "username": "周瀚坤",
+        "uid": "76413"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAndroid的话，只要自己开发一款第三方桌面launcher，桌面显示什么app名字叫什么都可以伪装，Twitter名字叫推箱子，图标是推箱子图标。\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1131184",
+          "replier": {
+            "username": "SuperPlan0825",
+            "uid": "94962"
+          },
+          "date": "2022-12-01",
+          "content": "嗯，但是大部分人不会用啊，我的意思还是希望telegram开发者本身能开发应用伪装功能，哪怕被警察强制要求打开telegram，我们也可以输入另一个密码，进入没有违禁内容伪装对话页面，应付检查。本质上是什么东西都搞真假两套，一套应付检查，一套真实自用。"
+        },
+        {
+          "id": "1131196",
+          "replier": {
+            "username": "周瀚坤",
+            "uid": "76413"
+          },
+          "date": "2022-12-01",
+          "content": "@SuperPlan0825:改造单个app太麻烦。桌面工具很方便，应用商店里就有很多桌面工具，无非是安装一下。"
+        }
+      ]
+    },
+    {
+      "id": "604777",
+      "is_folded": false,
+      "answerer": {
+        "username": "爱吃蜂蜜的维尼",
+        "uid": "104243"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t這樣的加密器 開發難度不大<br/>\n但是單獨開發一個通訊軟件是很難的<br/>\n<br/>\n不過加密器 是可以寫出來的<br/>\n<br/>\n第一點 應用偽裝 在windows平台很好實現<br/>\n第二點 我觉得没必要  用一个密码感觉没啥不妥\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 1,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1131176",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-01",
+          "content": "但是你這個東西就很雞肋  第一 開發出來 你是傳播不開的 沒幾個人用  第二 有現成的telegram 只需要做應用偽裝 就直接OK了 沒必要什麼加密之類的"
+        },
+        {
+          "id": "1131178",
+          "replier": {
+            "username": "SuperPlan0825",
+            "uid": "94962"
+          },
+          "date": "2022-12-01",
+          "content": "对第一个就是应用伪装的思路，不仅是应用图标和名称，关键还是要应用本身内容也要变，否则墙国马上开发违禁应用扫描工具(内嵌到系统里面或微信里面)还是可能会被发现。\n第二个思路的本质是加密压缩包工具的改进，只是提醒使用者打开转发必须输入一个新的密码。"
+        },
+        {
+          "id": "1131180",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-01",
+          "content": "@SuperPlan0825:我的建議是 真的沒有必要 我還是建議使用telegram 因為整出來一個這樣的加密是真的推廣不開 只做好應用偽裝就OK了"
+        },
+        {
+          "id": "1131182",
+          "replier": {
+            "username": "SuperPlan0825",
+            "uid": "94962"
+          },
+          "date": "2022-12-01",
+          "content": "telegram开发者没有想到应用伪装功能，还是它是一个商业公司，也要自己的品牌？所以故意不开发？"
+        },
+        {
+          "id": "1131185",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-01",
+          "content": "@SuperPlan0825:把TG套個密碼殼子 太容易了 應用偽裝可以自己實現滴"
+        },
+        {
+          "id": "1131189",
+          "replier": {
+            "username": "SuperPlan0825",
+            "uid": "94962"
+          },
+          "date": "2022-12-01",
+          "content": "但是大部分都不会去干，大多数人是不懂，懂的人嫌麻烦，而且被警察查是在街上随时可能发生的事情，大多数人可能都没有准备。\n我的意思还是希望telegram开发者本身能开发应用伪装功能，哪怕被警察强制要求打开telegram，我们也可以输入另一个密码，进入没有违禁内容伪装对话页面，应付检查。本质上是什么东西都搞真假两套，一套应付检查，一套真实自用。通过登录密码区分。"
+        },
+        {
+          "id": "1131194",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-01",
+          "content": "美汁汁"
+        }
+      ]
+    },
+    {
+      "id": "604799",
+      "is_folded": false,
+      "answerer": {
+        "username": "赵乐际招了妓",
+        "uid": "100970"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t简单的电脑软件技术差的，临时删除某app 就可以了。<br/>\n就像临时用下微信，把安装包安装下再删除就可以了。<br/>\n拥有两部以上手机。把各种数据保留在安全地方多备份就可以了。\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1131186",
+          "replier": {
+            "username": "SuperPlan0825",
+            "uid": "94962"
+          },
+          "date": "2022-12-01",
+          "content": "这样操作起来麻烦，而且大多人也没有两个手机，我的意思还是希望telegram开发者本身能开发应用伪装功能，哪怕被警察强制要求打开telegram，我们也可以输入另一个密码，进入没有违禁内容伪装对话页面，应付检查。本质上是什么东西都搞真假两套，一套应付检查，一套真实自用。"
+        }
+      ]
+    },
+    {
+      "id": "604838",
+      "is_folded": false,
+      "answerer": {
+        "username": "opengcd",
+        "uid": "103945"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t找到了一个软件可以对app作出修改, 例如更改图标, 更改名称, 甚至完全移除图标而通过在拨号界面输入特定密码启动app. 参考以下链接.<br/>\n<br/>\n<a href=\"https://www.reddit.com/r/China_irl/comments/z7kcap/%E5%9C%A8%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E4%BD%BF%E7%94%A8_%E8%99%9A%E6%8B%9F%E6%9C%BA_%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83_%E6%9C%89%E6%95%88%E8%A7%84%E9%81%BF%E6%99%B6%E6%A0%BC%E6%9F%A5%E6%89%8B%E6%9C%BA/\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://www.reddit.com/r/China_irl/comments/z7kcap/%E5%9C%A8%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E4%BD%BF%E7%94%A8_%E8%99%9A%E6%8B%9F%E6%9C%BA_%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83_%E6%9C%89%E6%95%88%E8%A7%84%E9%81%BF%E6%99%B6%E6%A0%BC%E6%9F%A5%E6%89%8B%E6%9C%BA/\">在安卓手机使用 [\"虚拟机\"] /[虚拟环境] 有效规避晶格查手机</a> </div>",
+      "date": "2022-12-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "604584",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就第二点我发表一下意见。<br/>\n<br/>\n密码学中有一个问题叫密钥分发，是<br/>\n<br/>\n<blockquote>在没有通过可信方式直接分发密钥的前提下（比如不可以线下接触）。   </blockquote><br/>\n<br/>\n通过一些复杂的方法将文件的解密密钥安全的交给对方。<br/>\n<br/>\n<br/>\n<br/>\n他之所以叫密钥分发不叫文件分发仅仅是因为直接分发被加密的文件效率低，不是安全问题，所以也可以用来发送文件（其实密钥就是个文件）。<br/>\n<br/>\n<blockquote>其他途径隐晦告知解密密码</blockquote><br/>\n<br/>\n但你既然已经有可信方式交付密码了，完全没必要弄这些花里胡哨的东西，为什么不直接交付文件？\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1131041",
+          "replier": {
+            "username": "SuperPlan0825",
+            "uid": "94962"
+          },
+          "date": "2022-12-01",
+          "content": "通过电话或语音隐晦告诉对方解密密码，一两句话搞定了，一两句话你怎么描述几十兆的视频/图片？"
+        },
+        {
+          "id": "1131060",
+          "replier": {
+            "username": "使命光荣责任重大",
+            "uid": "100513"
+          },
+          "date": "2022-12-01",
+          "content": "@SuperPlan0825:既然你有了可靠的密钥交付渠道，那只需要将原文件用k个密钥加密成k个加密文件，然后发送给k个人，然后交付对应的密钥即可。"
+        },
+        {
+          "id": "1131069",
+          "replier": {
+            "username": "SuperPlan0825",
+            "uid": "94962"
+          },
+          "date": "2022-12-01",
+          "content": "@使命光荣责任重大:这样相当于用winrar等压缩软件用n个密码分别加密相同内容然后给n个人，区别不大。操作麻烦，我的意思是把加密解密功能做到软件本身里，这样便于使用者操作，编辑然后在转发，一个软件功能/加密内容始终相同，表现形式不同。避免被监管识审查。"
+        }
+      ]
+    },
+    {
+      "id": "606207",
+      "is_folded": false,
+      "answerer": {
+        "username": "叶子的寂寞",
+        "uid": "101118"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t买两个手机就可以解决了 你的建议很多人知道了 共匪也一样知道 两个手机一个上网翻墙一个平常日常生活中使用 现在基本有工作的买两个手机有问题吗o\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1132300",
+          "replier": {
+            "username": "SuperPlan0825",
+            "uid": "94962"
+          },
+          "date": "2022-12-04",
+          "content": "既然能被搜身，警察一般也会想到两个手机的可能性。大陆警察大多数，文化水平低，没有法律素养，直接上来就搜身，措不及防。\ntg这类软件本身应该有应用伪装和加密功能才是最优解。内置N套系统入口，只有一个是真的（超过n秒没有操作自动退出）。这样才是最安全的，哪怕被强制搜身，或者手机警察被抢去研究，只要咬死不松口，技术手段是破解不了的。"
+        },
+        {
+          "id": "1132304",
+          "replier": {
+            "username": "叶子的寂寞",
+            "uid": "101118"
+          },
+          "date": "2022-12-04",
+          "content": "@SuperPlan0825都是已经搜身了 那就没有办法了 就不要随身携带 需要的时候再上网了 我想要是这样共匪早他妈的累死累活了 那些畜生吃喝嫖赌 我和共匪打交道多年 他们都是好吃懒做都是运动式的工作 过一段时间马上松弛下来 没有必要在乎这段时间 一万年太久远 不争朝夕"
+        }
+      ]
+    },
+    {
+      "id": "604792",
+      "is_folded": false,
+      "answerer": {
+        "username": "田野老流氓",
+        "uid": "103958"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tr如果是我，我会当场把手机损坏，但是我是两部手机，一部专门用来翻墙\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "604785",
+      "is_folded": false,
+      "answerer": {
+        "username": "樊荣0817",
+        "uid": "8679"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看看这样可不可行：<br/>\n下载一个假的锁机勒索工具，警察查手机就说手机被锁了，解不了。\t\t</div>",
+      "date": "2022-12-01",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1131181",
+          "replier": {
+            "username": "SuperPlan0825",
+            "uid": "94962"
+          },
+          "date": "2022-12-01",
+          "content": "也是一个思路，还有一个思路就是手机有两个系统，一个是真实系统，一个伪装系统，通过不同的开锁密码区分，\n被警察查手机用另一个密码开锁会进入伪装系统，只有少量几个假的应用，和假的微信聊天记录。"
+        },
+        {
+          "id": "1131227",
+          "replier": {
+            "username": "truelife",
+            "uid": "85655"
+          },
+          "date": "2022-12-02",
+          "content": "@SuperPlan0825:主流手机都自带这个分身系统功能啊"
+        },
+        {
+          "id": "1132198",
+          "replier": {
+            "username": "爱吃蜂蜜的维尼",
+            "uid": "104243"
+          },
+          "date": "2022-12-04",
+          "content": "哈哈哈哈   有画面了"
+        }
+      ]
+    }
+  ]
+}

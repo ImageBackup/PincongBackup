@@ -1,0 +1,113 @@
+{
+  "parent_type": "question",
+  "parent_id": "64354",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "716937",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就目前而言,你注册proton不需要手机号.能识别你的方式就只靠你的账户名跟密码<br/>\n单论记录IP这种不可靠的方式来定位个人,还是太粗糙.有太多的方式可以规避<br/>\n<br/>\n你要这个都不放心,就套个TOR登录proton<br/>\n就算泄露IP也是出口节点的IP<br/>\n<br/>\n你要TOR也不放心,那就在TOR前再套一层前置代理<br/>\n要还不放心,就别上互联网了,最安全<br/>\n<br/>\nISP你是不可能绕过的\t\t</div>",
+      "date": "2024-01-01",
+      "agree_count": 6,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1235797",
+          "replier": {
+            "username": "cuz",
+            "uid": "86506"
+          },
+          "date": "2024-01-01",
+          "content": "有道理,不用手机邮箱的网络服务,直接走tor"
+        },
+        {
+          "id": "1235817",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2024-01-01",
+          "content": "你用tor出口的话，proton会要你手机号。"
+        },
+        {
+          "id": "1235823",
+          "replier": {
+            "username": "hahayuyu",
+            "uid": "86146"
+          },
+          "date": "2024-01-01",
+          "content": "这个是在捡芝麻了, 如果能看邮件, 直接一锅端了, 还用看ip么"
+        }
+      ]
+    },
+    {
+      "id": "716977",
+      "is_folded": false,
+      "answerer": {
+        "username": "Deceiving4271",
+        "uid": "117645"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t从技术层面来说，即使protonmail出售你的IP，只要你使用tor和安全且匿名的VPN就不会出问题。<br/>\n<br/>\n目前攻破protonmail的方法只有劫持和爆破账户，换句话说就算你的数据库的信息被出售了，他们最多也只能知道你向谁发了邮件，并不知道你发了什么。<br/>\n<br/>\n尽管存在华人高管，proton mail成功上架华为应用商店，国内也无法正常提供服务。<br/>\n<br/>\n或者华为上架的proton mail会被山寨顶替，这是可能的，但是来品葱基本上没人会用华为，其他可能性则为：学生没得选或者CCP自己人，或者脑前额叶受损以及智力发育过缓。<br/>\n<br/>\nprotonmail 使用了 OpenPGP 提供服务。<br/>\n<br/>\n且Tuta 的声明有严重的误导性（请记住，对邮件地址的加密本身就是自欺欺人），所以这就是为什么我使用proton邮箱服务的原因。\t\t</div>",
+      "date": "2024-01-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716942",
+      "is_folded": false,
+      "answerer": {
+        "username": "海岳",
+        "uid": "117287"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tProtonmail服務只遵守瑞士聯邦法律。<br/>\n<br/>\n可參考閲讀下文，根據您的情況來決定是否選擇使用該服務：<br/>\n<a href=\"url/link/aHR0cHM6Ly9wcm90b24ubWUvYmxvZy9jbGFyaWZ5aW5nLXByb3Rvbm1haWwtYW5kLWh1YXdlaQ\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://proton.me/blog/clarifying-protonmail-and-huawei\">https://proton.me/blog/clarifying-protonmail-and-huawei</a> </div>",
+      "date": "2024-01-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716952",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果楼主不放心，可以使用skiff mail，它是一个类似的端对端加密邮箱，而且似乎还没什么丑闻。\t\t</div>",
+      "date": "2024-01-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "716987",
+      "is_folded": false,
+      "answerer": {
+        "username": "Muaie",
+        "uid": "119915"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有几个外国人发邮件给你 你拿去接受中国网站的验证码再安全的邮箱对你有屁用\t\t</div>",
+      "date": "2024-01-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "717033",
+      "is_folded": false,
+      "answerer": {
+        "username": "cybermage",
+        "uid": "29130"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t作为当事人，俺有几点需要澄清<br/>\n<br/>\n1. 对您的前两条观点，俺要分成几部分：<br/>\n<br/>\n<b>华人高管问题</b>：首先俺不认为一个产品是否有华人高管对其隐私的影响是<b>决定性</b>滴，因为族群不代表其一定与中共有利益来往。“血统论”不是一个有效看待问题的方法。<br/>\n<br/>\n<b>protonmail登录华为商店</b>：作为一个商品，其首要目标一定是扩大其收益，而增加其受众也是扩大收益的一种方式。但这不代表protonmail会将其服务端的用户数据交给华为，因为这是对其产品声誉有害的。此外，绝大多数的主流app都登录了华为商店（欧美），包括 Youtube, WhatsApp, Facebook, Gmail, Instagram, Twitter, Telegram. （<a href=\"url/link/aHR0cHM6Ly9jb25zdW1lci5odWF3ZWkuY29tL2VuL2NvbW11bml0eS9kZXRhaWxzL0NoZWNrLU91dC10aGUtVG9wLTEzLVBvcHVsYXItQXBwcy1pbi1IVUFXRUktQXBwR2FsbGVyeS90b3BpY0lkXzE4NTIzOS8\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://consumer.huawei.com/en/community/details/Check-Out-the-Top-13-Popular-Apps-in-HUAWEI-AppGallery/topicId_185239/\">来源</a> 华为链接注意）<br/>\n<br/>\n<b>提供IP地址给法国政府</b>：根据瑞士的法律，任何合法运营的公司都必须在法院的要求下提供其用户信息，信息包括注册时提交的手机号（如果你真的提交了的话）、用户访问账户时的时间和IP地址。而法国与瑞士之间有信息交换协议，因此protonmail也可以将其交给法国政府。<br/>\n<br/>\n这里有几点需要澄清：<br/>\n（1）这不代表protonmail会将用户信息交给中国政府，因为瑞士与中国之间<b>没有信息交换协议</b>。<br/>\n（2）遗憾的是，俺目前还没有找到一个没有此类法律的国家，也没有找到一个声称自己不会遵守这类法律的<b>邮件</b>产品。俺们能做的只有在一开始就不将此类信息提供给邮件供应商。比如使用VPN或者tor来访问邮箱。<br/>\n（3）目前还没有迹象表明protonmail会将用户的邮件内容提供给政府。然而，从理论上而言，<b>所有的邮件提供商都有将邮件内容提供给政府的可能性</b>。这一点俺在之前的回答里就有过说明。如果您真的非常在乎隐私的话，您需要跟邮件交流的另一方一起使用GPG进行端对端加密。<br/>\n<br/>\n2. 您这里的“逢中必反”就是偷换概念了。因为俺在原回复里所说的是“逢华必反”，一字之差，含义却大不相同。您在一开始回复的时候用的也是“华人”，而不是“中国人”，也没有证据表明protonmail的高管是“中国公民”。否定一切与华人有关的产品，对华裔和努力脱支的人都是不公平的。<br/>\n<br/>\n3. 俺不想就“血统论”这种文化糟粕与您进行辩论，所以选择退一步淡化这种讨论。而您却不依不饶，先是给俺贴上“支”的标签，又把俺的回复曲解成“神一样的产品”、“造神”。可俺明明在回答的前几行就说过protonmail有被窃取资料的可能，随后也说protonmail有黑点。难道这部分就被您无视了吗？<br/>\n<br/>\n4. 面对俺的长篇回答，您先是没头没尾的丢下几个关键词，在俺试图避开血统论的时候，您才预设俺的立场，然后用长篇大论来批判俺，这不是交流问题的好方法。如果您是真心想要交流，就应该在一开始把您的观点写成完整的一段话。\t\t<div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2024-01-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

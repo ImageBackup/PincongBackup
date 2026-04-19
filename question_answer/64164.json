@@ -1,0 +1,82 @@
+{
+  "parent_type": "question",
+  "parent_id": "64164",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "715102",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我啥都不说了 就引用你问题里的一句话吧<br/>\n<br/>\n<blockquote>如果保险公司是要赚钱的 要衡量风险的 不是做慈善的 那就太失望</blockquote><br/>\n<br/>\n你这让人怎么回答呢…\t\t</div>",
+      "date": "2023-12-24",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "715116",
+      "is_folded": false,
+      "answerer": {
+        "username": "UAV",
+        "uid": "32217"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t医疗保险都是卖给大量普通人的，平时收一点小钱，防止他们因为小概率的大病而倾家荡产。所以对于赌王级别的极少数巨富来说，医疗保险的存在没有意义。\t\t</div>",
+      "date": "2023-12-24",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "715146",
+      "is_folded": false,
+      "answerer": {
+        "username": "禁评的ICU病房",
+        "uid": "85376"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t保费是有额度的，保险公司的重疾险，确诊一次给完，合同结束。额度自己选，额度越高保费越高。保额1000万，保费累积所有年份加起来不同公司不一样，500万左右要的。\t\t</div>",
+      "date": "2023-12-25",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1234229",
+          "replier": {
+            "username": "反华分子",
+            "uid": "92367"
+          },
+          "date": "2023-12-25",
+          "content": "@禁评的ICU病房 就算是1000万额度 那也和何鸿燊差很远啊 何鸿燊住院的时候养和他家通过医院请了8个国际专家 每人负责他一个器官24小时监护他健康 这种正国级的超级待遇 有没有一家医疗保险能报销？"
+        }
+      ]
+    },
+    {
+      "id": "715152",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t本来想说老干部医保，但是一想，老干部医保不是市场上售卖的医保，<br/>\n<br/>\n又一想，我在这里妄加猜测巨富合共桑的老年医保是不是皇帝金锄头，<br/>\n<br/>\n还是算了，不乱说了，\t\t</div>",
+      "date": "2023-12-25",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "715129",
+      "is_folded": true,
+      "answerer": {
+        "username": "大校",
+        "uid": "119184"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-12-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

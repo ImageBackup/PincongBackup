@@ -1,0 +1,50 @@
+{
+  "question_id": "62300",
+  "category_id": "6",
+  "title": "Tor浏览器，最近更新后就连接不上了，是怎么回事？",
+  "meta_description": "Tor浏览器，最近更新后就连接不上了，是怎么回事？ - 最近更新了tor浏览器后，也是连不上，还让选地区，vpn开着的，网络也连着的，其他谷歌浏览器都可以上，就偏偏tor不行，换了网桥也连不上，它提示说被屏蔽了。可是其他浏览器都可以啊，vpn也能用。重启后也连接不上，有懂的葱油吗？",
+  "meta_keywords": "tor,浏览器,最近,更新,就连,接不,怎么回事",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "605",
+      "name": "防火墙"
+    },
+    {
+      "id": "1174",
+      "name": "Tor"
+    },
+    {
+      "id": "3743",
+      "name": "屏蔽"
+    },
+    {
+      "id": "106452",
+      "name": "网络连接"
+    }
+  ],
+  "author": {
+    "username": "[已注销]",
+    "uid": null
+  },
+  "view_count": 2174,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t最近更新了tor浏览器后，也是连不上，还让选地区，vpn开着的，网络也连着的，其他谷歌浏览器都可以上，就偏偏tor不行，换了网桥也连不上，它提示说被屏蔽了。可是其他浏览器都可以啊，vpn也能用。重启后也连接不上，有懂的葱油吗？\t\t\t\t\t\t\t</div>",
+  "date": "2023-10-06",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1048243",
+      "replier": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "date": "2023-10-06",
+      "content": "https://pincong.rocks/question/item_id-694629"
+    }
+  ],
+  "answer_count": 2
+}

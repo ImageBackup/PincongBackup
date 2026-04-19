@@ -1,0 +1,124 @@
+{
+  "parent_type": "question",
+  "parent_id": "57844",
+  "answer_count": 9,
+  "answers": [
+    {
+      "id": "650588",
+      "is_folded": false,
+      "answerer": {
+        "username": "關文虎",
+        "uid": "91325"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tfragmentation是指儲存空間使用效率降低，功能、效率下降或兼而有之。碎片化的影響取決儲存系統以及碎片(不是硬碟毀損，是指存儲不連貫或者夾雜各種閒置空間等等)型式。但這個是講硬碟，不過這是這個詞fragmentation一開始的意思。<br/>\n<br/>\nAndroid碎片化的主要原因可以概括為兩個詞：開源。<br/>\n<br/>\n製造商可以根據自己的意願自由使用 Android，但有一些限制。當然，不同製造商還負責證明針對其設備上提供的特定 Android 版本量身定制的更新。現在每個製造商可能不會始終如一地提供更新。此外 Android 版本可能經過大量修改，甚至不會響應為其他版本創建的更新。<br/>\n<br/>\n開源特性導致製造商經常為他們的 Android 版本“換膚”。這是指製造商對操作系統的獨特修改，如為特定設備創建的。例如在 Nexus 和 MIUI 上運行的手機之間的區別。儘管在相同的操作系統上運行，但它們在視覺和功能上存在巨大差異。<br/>\n<br/>\n以小米和三星 Galaxy Note 7 為例。三星這款手機帶有虹膜掃描儀，這是現有 Android 版本無法使用的功能。而小米具有特色的小米分身，這個不是別的版本的安卓預設的特性。<br/>\n因此，小米和三星修改了操作系統，讓大家能夠使用他們的特性!~<br/>\n<br/>\n涉及多個製造商和每個製造商下的設備還有多個版本的安卓，因此安卓的碎片化，代表他們的版本、程式和各種不同設備之間開發的差異，這也會造成使用者在應用程序管理和安全管理變得複雜而繁瑣。<br/>\n<br/>\n就舉例來說，小米分身裡面的各種安全權限與多開，就會造成不同應用程序的執行問題，這個只要一出現問題，就很不容易解決。這也就是碎片化的影響有太多不同版本不同修改的安卓系統了!~<br/>\n<br/>\n不知道以上的解釋有幫助到您嗎\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650617",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t首先这个词用的越来越少了，因为以前主要是对比苹果说安卓手机有碎片化，现在苹果自己也碎片化了<br/>\n<br/>\n碎片化的意义上面很多人都解释了，基本上就是说硬件的规格比较多，比较杂，开发起来呢，适配很麻烦<br/>\n<br/>\n同时硬件的碎片化也造成了软件的碎片化，比如这安卓的软件有很多的版本，可能一个低分辨率，一个版本高分辨率，甚至高密度屏幕（分辨率超高但屏幕尺寸并不大）还要有一个版本<br/>\n而且不像苹果，很多安卓软件的新版本在旧的硬件机器上是跑不了的，因为实在老的机器硬件配置太低，这也是一种碎片化，硬件性能的碎片化，有的低端机器上市的时候性能就很落后，和下一代的旗舰机器发布时间上说是只差一代，其实硬件上可能差了好几代\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650637",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就跟基督教名下各种不同派别（ｄｅｎｏｍｉｎａｔｉｏｎ）很多，但是同属于信仰基督一样，\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650576",
+      "is_folded": false,
+      "answerer": {
+        "username": "小土豆",
+        "uid": "80532"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的理解是有各种版本的安卓，没有统一的使用体验，用户群碎片化。不像苹果。\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650578",
+      "is_folded": false,
+      "answerer": {
+        "username": "JohnSmith",
+        "uid": "7850"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAndroid有很多不同release，由于手机厂家众多，系统更新支持情况不同，导致有大量设备跑在旧版本上，无法统一，网上搜一下Android版本的市占率就明白了。\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650594",
+      "is_folded": false,
+      "answerer": {
+        "username": "劳斯莱斯",
+        "uid": "74487"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t安卓碎片化是指安卓手机做得五花八门、品种繁多、系统繁多、屏幕繁多，等等\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650618",
+      "is_folded": false,
+      "answerer": {
+        "username": "民主信仰者",
+        "uid": "653"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t這是種相對蘋果而言的「說法」。<br/>\n你應該知道android從硬體上來說，就有很多品牌、很多不同配備的手機（比如三星旗下就有很多種類）；然後再到軟體，android也釋出很多不同的版本，新出的手機自然是最新版，但在沒那麼新的手機上，運行的就是舊版本。<br/>\n<br/>\n仔細分析一下就知道，android手機從硬體到軟體都有大量不同的用戶。<br/>\n這種破碎化的現況，就是所謂的<b>碎片化</b>。\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650632",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t谢谢上面认真解答的，我有chatgpt，我询问了它，它的回答容易理解\t\t</div>",
+      "date": "2023-04-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "650691",
+      "is_folded": false,
+      "answerer": {
+        "username": "dukenuke",
+        "uid": "45720"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t说个简单的理解，你碰到有些app在你的手机上闪退，在别人手机上运行正常的时候，你就碰到android碎片化的问题了。\t\t</div>",
+      "date": "2023-04-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

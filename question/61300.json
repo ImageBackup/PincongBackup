@@ -1,0 +1,38 @@
+{
+  "question_id": "61300",
+  "category_id": "4",
+  "title": "想问下电脑端的迷雾通为什么有时候打开就自动连接上了？",
+  "meta_description": "想问下电脑端的迷雾通为什么有时候打开就自动连接上了？ - 本人不懂技术，所以还是想问一下这种情况是bug么？我认为不是自己的错觉，故问一下懂这块的朋友。",
+  "meta_keywords": "想问,电脑,迷雾,打开,自动,连接",
+  "tags": [
+    {
+      "id": "470",
+      "name": "vpn"
+    },
+    {
+      "id": "6220",
+      "name": "迷雾通"
+    }
+  ],
+  "author": {
+    "username": "科斯儿",
+    "uid": "74722"
+  },
+  "view_count": 5801,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t本人不懂技术，所以还是想问一下这种情况是bug么？我认为不是自己的错觉，故问一下懂这块的朋友。\t\t\t\t\t\t\t</div>",
+  "date": "2023-08-29",
+  "agree_count": 0,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1045848",
+      "replier": {
+        "username": "pctrk7915",
+        "uid": "75018"
+      },
+      "date": "2023-08-29",
+      "content": "开始菜单CMD运行：msconfig 把自启关掉"
+    }
+  ],
+  "answer_count": 1
+}

@@ -1,0 +1,114 @@
+{
+  "parent_type": "question",
+  "parent_id": "61302",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "684140",
+      "is_folded": false,
+      "answerer": {
+        "username": "芝加哥批脸",
+        "uid": "115785"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以用Google one  还有iCloud，注册账号就有5G空间，可以按需求订阅更大的空间\t\t</div>",
+      "date": "2023-08-29",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1203826",
+          "replier": {
+            "username": "skosko",
+            "uid": "108801"
+          },
+          "date": "2023-08-29",
+          "content": "在国内下载什么资源基本都是他们几个🙃不知道要怎么下载"
+        }
+      ]
+    },
+    {
+      "id": "684169",
+      "is_folded": false,
+      "answerer": {
+        "username": "clearlove_8964",
+        "uid": "101818"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果非要用百度网盘，建议开一个虚拟机专门用，百度系软件间谍行为早就是众所周知了，在<mark>支那</mark>系里都是佼佼者。\t\t</div>",
+      "date": "2023-08-29",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684152",
+      "is_folded": false,
+      "answerer": {
+        "username": "厉害了冲国人",
+        "uid": "96938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGoogle drive應該是目前相對最好的選擇。再一個實體硬碟也可以考慮，雖然需要地方來存放\t\t</div>",
+      "date": "2023-08-29",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1203845",
+          "replier": {
+            "username": "skosko",
+            "uid": "108801"
+          },
+          "date": "2023-08-29",
+          "content": "问题是 在国内下载什么资源基本都是他们几个🙃"
+        },
+        {
+          "id": "1203852",
+          "replier": {
+            "username": "厉害了冲国人",
+            "uid": "96938"
+          },
+          "date": "2023-08-29",
+          "content": "@skosko:這類資源我猜大概率是一些破解游戲和工具軟件、動漫海外各種影視作品和圖片、補丁包和各種用途的壓縮包吧，如果真正是因爲工作上的各類文檔或者學術資料我覺得也沒有什麽非用不可得價值，畢竟我相信真正有價值的東西阿里百度一定會給你和諧的片甲不留，你如果確實離不開這個生態圈那也沒什麽好辦法，Google網盤現在確實沒法達到這種層面"
+        }
+      ]
+    },
+    {
+      "id": "684168",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果你还要下载那些用<mark>支那</mark>网盘分享的数据,那没法躲<br/>\n要么降低自己的需求,不再主动去找这种可能会用网盘分享的东西<br/>\n要么就充钱<br/>\n<br/>\n存储就选择本地存储方案这个是最简单,也没有任何被审查的风险的<br/>\n<br/>\nGoogle drive这种你要是带宽够,那可以用.但是如果你想要长期使用,那肯定是要扩容的<br/>\n扩容的支付方式会是个问题.\t\t</div>",
+      "date": "2023-08-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684182",
+      "is_folded": false,
+      "answerer": {
+        "username": "王匪沪宁",
+        "uid": "13988"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不要在百度里下载敏感政治和黄色内容，你实名也没有任何关系。<br/>\n<br/>\n做好身份隔离不要让境内实名的东西和你的境外反贼身份联系起来，就行了。\t\t</div>",
+      "date": "2023-08-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "684269",
+      "is_folded": false,
+      "answerer": {
+        "username": "xtrs",
+        "uid": "107658"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我建议使用mediafire，国内国外都能用，还不限速，甚至可以用idm批量下载。\t\t</div>",
+      "date": "2023-08-29",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

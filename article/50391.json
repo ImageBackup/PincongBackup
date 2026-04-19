@@ -1,0 +1,30 @@
+{
+  "article_id": "50391",
+  "category_id": "4",
+  "title": "padavan是ipv6与翻墙共存最好的路由器固件了",
+  "meta_description": "padavan是ipv6与翻墙共存最好的路由器固件了 - 先介绍下ipv6与翻墙在路由器上的情况 一般在路由器上用的是前置分流，也就是在流量被代理前提前分清直连与代理。这个模式在ipv4上运行的没问题，但是一旦开启ipv6，就会变成强穿透，出现系统性的直连。ipv6会直连并优先返回无法访问的响应，导致各种代理bu...",
+  "meta_keywords": "padavan,ipv6,翻墙,共存,路由器,固件",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "7564",
+      "name": "IPv6"
+    },
+    {
+      "id": "11037",
+      "name": "代理"
+    }
+  ],
+  "author": {
+    "username": "bitcoins",
+    "uid": "89936"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t先介绍下ipv6与翻墙在路由器上的情况<br/>\r\n一般在路由器上用的是前置分流，也就是在流量被代理前提前分清直连与代理。这个模式在ipv4上运行的没问题，但是一旦开启ipv6，就会变成强穿透，出现系统性的直连。ipv6会直连并优先返回无法访问的响应，导致各种代理bug，最典型的就是Netflix，强制ipv6，所有建议都是关闭ipv6<br/>\r\n直接解决的办法就是后置分流，也就是流量全部进入代理，再区分直连代理。两个问题：1、目前为止没有任何路由固件能做到完美的ipv6全局转发代理。2、即使未来可以实现，全局代理已经是软路由的工作模式，完全丧失了硬件路由的价值，用这个不如直接软路由、旁路由<br/>\n<br/>\r\n既然没法实现完美分流代理，那就充分利用ipv6的穿透特性：让ipv6走国内直连，ipv4走国外代理<br/>\r\n要实现这点，最好的方案就是dns分流，简单理解：国内的dns请求保留完整的结果（即使是dns4开启v6后也会有v6的结果）而国外dns6请求则舍弃v6结果，只有v4，这样可以顺利被代理<br/>\n<br/>\r\n而hiboy的padavan固件是最方便实现这点<br/>\n<br/>\r\n1、要破坏设备获取ipv6的dns，任何设备只要获取到公共dns6，会优先用这个dns，导致各种设置都白费。进入ipv6设置，把获取dns6自动分配功能关闭。之后去dhcp设置，把dhcp6改成路由器的本地ipv6地址，fe80开头（其实只要是个没dns解析的v6地址就行）<br/>\n<br/>\r\n2、开启clash的ipv4透明代理，注意是只开启v4透明代理，不要开启v6相关透明代理<br/>\n<br/>\r\n3、找到ChinaDNS-NG，开启ChinaDNS-NG跟smardns，然后在smardns配置中，找到bind 0.0.0.0:8052 -group office（国外dns的分组），在这行设置中改成 bind 0.0.0.0:8052 -group office -force-aaaa-soa        这个舍弃制定分组的ipv6解析是新版smartdns，可能需要手动更新smartdns<br/>\n<br/>\n<br/>\r\n最后测试下国内的网络，特别是纯ipv6能顺利访问；而很多因为v6影响代理的网站也能正常代理\t\t\t\t\t\t\t</div>",
+  "view_count": 6064,
+  "date": "2022-11-20",
+  "agree_count": 3,
+  "comment_count": 1
+}

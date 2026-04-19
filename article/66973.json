@@ -1,0 +1,26 @@
+{
+  "article_id": "66973",
+  "category_id": "7",
+  "title": "Matrix Switcher矩阵开关系统",
+  "meta_description": "Matrix Switcher矩阵开关系统 - 我大约1993年的时候，辞掉在悉尼的制造ISDN通讯设备的公司JTech当软件工程师的职位，转到在North Ryde区域（在 1 Waterloo Road)另一家生产维护电讯设备的公司Datacraft 作维护工程师。这个Datacraft 公司当时有...",
+  "meta_keywords": "matrix,switcher,矩阵,开关,系统",
+  "tags": [
+    {
+      "id": "40",
+      "name": "澳洲"
+    },
+    {
+      "id": "107192",
+      "name": "Matrix Switcher"
+    }
+  ],
+  "author": {
+    "username": "grantyang",
+    "uid": "6190"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\t我大约1993年的时候，辞掉在悉尼的制造ISDN通讯设备的公司JTech当软件工程师的职位，转到在North Ryde区域（在 1 Waterloo Road)另一家生产维护电讯设备的公司Datacraft 作维护工程师。这个Datacraft 公司当时有许多Matrix Switching 设备，或称Matrix Switcher，是在1980年代由另一个叫做Summit 的公司设计制造的，后来这个Summit 公司被Datacraft 公司购买了，其生产的设备也就被继承下来了。<br/>\n<br/>\r\n当时所谓的Matrix Switching系统，就是对数据通讯设备（电话，电脑，磁盘存储器，打印机，传真机等等）的数据线的批量连接开关：即以矩阵形式安排N 排 M列 电器开关，按连接需要，手动机械式地把某个设备的数据I/O与某个另外设备的数据I/O线连接。这有点像电话局交换站的电话线连接，只不过被连接的可以是任何数据通讯或I/O 设备。当时用到这些Matrix Switcher 设备的多是澳洲的银行，因为他们有很多IBM Mainframe 电脑及其外设，所以在他们的Mainframe 机房里用了不少这些Matrix Swicher。<br/>\n<br/>\r\n那个Summit 公司设计的Matrix Switcher 都是用一个金属框架约80厘米左右宽，高约两米，底部放电源，上方框架内就是几十几百个电器插头的开关电路，每个开关电路成直角插入金属框架上的一个格子内，连接线插头都在插入板的前方，类似于这个样子：<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9NRGg4dEJWLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/MDh8tBV.jpg\"><img alt=\"https://i.imgur.com/MDh8tBV.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/MDh8tBV.jpg\" style=\"max-width:100%\"/></a><br/>\r\n由于每个连接点设计了一个发光二极管LED作为该点的通/断状态及数据传输显示，所以当几百几千个连接点的LED在数据传输不断进行时持续闪动，尤其是在室内灯光黯淡时，千百个LED的不规则闪动不断，煞是壮观有趣。<br/>\n<br/>\r\n后来我还利用当时的IBM PC 电脑及微软视窗3.1 程序，配合一种多通道（每板有几十上百通道）I/O 插件板（好像还是ISA 总线的？），设计了对该Matrix Switcher 系统的各开关点的通/断 状态进行实时监控发反馈/警告的软件系统。记得那种多通道I/O插件卡相当昂贵，每块要好几千澳元，我向公司CEO申请后似乎邮购来的。我设计的那个系统当时Datacraft 公司企图向使用我们许多Matrix Switcher 的澳洲联邦银行CBA兜售，欲以十万澳元卖给联邦银行。为此我还数次到 CBA 在悉尼Burwood 郊区的数据中心去测试及演示我的软/硬件系统，还参加了我们那个Salesman 名叫Wayne 的对银行方面的推销会议。不过后来银行最终也没有购买, 原因不详。<br/>\n<br/>\r\n在设计那个多通道I/O监控软件前后，我还用一块单或双I/O通道的ISA PC插件卡，设计了一个简单的数据线路通/断 测试程序，用在公司内部大家测试线路通断状态。记得我还把声音表示设计进去，有点像万用表测试线路通/断那样，只不过这里有较方便的对通讯设备接口的插头，另外即使无声时电脑屏幕也可显示图像，可对连续测试的设备名称/时间/地点等等做记录等。\t\t\t\t\t\t\t</div>",
+  "view_count": 1595,
+  "date": "2023-12-20",
+  "agree_count": 3,
+  "comment_count": 0
+}

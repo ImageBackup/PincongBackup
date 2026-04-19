@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "66985",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "744853",
+      "is_folded": false,
+      "answerer": {
+        "username": "Freehand4252",
+        "uid": "128351"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t所谓天意就算了，不炮轰中南海，绞死中帝核心集团人物，都不叫天意。\t\t</div>",
+      "date": "2024-05-02",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744870",
+      "is_folded": true,
+      "answerer": {
+        "username": "Sechi",
+        "uid": "126729"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-05-02",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

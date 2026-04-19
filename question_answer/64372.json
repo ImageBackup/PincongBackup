@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "64372",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "717161",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tTor本来就可以自定义安装位置<br/>\nChrome,Edge,Brave都不能<br/>\nIridium可以<br/>\n<br/>\n至于提升安全性.你是想指哪方面?<br/>\n当你人都被抓了想不让黑皮找到你装Tor的那块盘么?<br/>\n你没有被抓,装哪都是一样的<br/>\nTOR本来默认就不保存任何网站信息,关掉浏览器就什么都没了\t\t</div>",
+      "date": "2024-01-02",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "717173",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tTor Browser本身设计就是绿色版的firefox，安装包只是一个解压释放文件的过程\t\t</div>",
+      "date": "2024-01-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

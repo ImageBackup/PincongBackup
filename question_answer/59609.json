@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "59609",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "667866",
+      "is_folded": false,
+      "answerer": {
+        "username": "FXXKXIJINPING",
+        "uid": "79556"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t并不是觉得安全，是没得选。qq 也是微信家的，没区别。\t\t</div>",
+      "date": "2023-07-05",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": []
+    },
+    {
+      "id": "667956",
+      "is_folded": true,
+      "answerer": {
+        "username": "机器猫博士",
+        "uid": "105067"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-07-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

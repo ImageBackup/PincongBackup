@@ -1,0 +1,95 @@
+{
+  "parent_type": "question",
+  "parent_id": "63090",
+  "answer_count": 6,
+  "answers": [
+    {
+      "id": "703403",
+      "is_folded": false,
+      "answerer": {
+        "username": "daxuesheng",
+        "uid": "14137"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>ps：既然发帖了，还是控诉一下迷雾通那丧心病狂给普通用户限速125k的政策吧，以前好歹还给200k，现在这是没钱了吗？穷疯了吗？虽然不是说就该免费提供便利，但你赚了钱，也不能这样店大欺客啊，再说200k在现在这个时代，只能算基础通讯带宽吧？而且提供200k看网页也是普及翻墙的好手段啊！难道这个125k是百度网盘学的？<br/>\n<br/>\n真的全网就这两个货125k了😂 </blockquote><br/>\n<br/>\n搞不懂现在中国人还有没有廉耻。开发维护软件是一个翻墙工具是一个需要花很多时间都活，迷雾通道作者花时间做这个产品出来、还有免费可以使用那就说明人家还有一些理想，否者有这个技术水平的人随便进个网络安全公司拿个$2-300k是小意思，不会去赚翻墙软件那种小钱。你应该把矛头对准共产党。\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 11,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703405",
+      "is_folded": false,
+      "answerer": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能稳定125KB就无所谓,至少打开这种文字主导的网站没有问题<br/>\n看视频就144P听个响,游戏视频就别想了<br/>\n这时候到还得感谢YT提供了144P的解析度了<br/>\n<br/>\n毕竟没花钱,还坚持免费好几年了\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703404",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n<blockquote>三星呢，针对国内app总是唤醒的问题，有一个功能，就是自动“关禁闭”，具体就是程序如果总是试图唤醒系统，或者阻止系统进入休眠，或者其他类似危害系统的操作、影响用户体验，三星就会自动冻结这个app</blockquote><br/>\n<br/>\n<br/>\n你这不是说的很清楚了，作为一个 必需在后台运行的翻墙软件，阻止系统进入休眠或者将自己杀掉，应该是必需的操作吧，可能就是这些操作导致了你说的问题<br/>\n<br/>\n另外我很同意上面daxuesheng 的观点，对于免费提供的软件，哪怕满屏广告，我觉得你也可以选择不用，而不是抱怨，无他，人家免费，没请你或逼你用。\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703391",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷霧通沒用過，如果類似VPN連綫，那必須長期在後台運作background run，不然連不了server<br/>\n<br/>\n如果是牆外版samsung，那個os就是android不是aosp，牆內才叫aosp\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1222988",
+          "replier": {
+            "username": "Shit进瓶",
+            "uid": "93874"
+          },
+          "date": "2023-11-04",
+          "content": "并不会，法轮功系的vpn全都正常"
+        }
+      ]
+    },
+    {
+      "id": "703408",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t125k不算慢吧，微信看网页app都够了。真要下载东西或看视频连个WiFi呗。\t\t</div>",
+      "date": "2023-11-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "703414",
+      "is_folded": true,
+      "answerer": {
+        "username": "HHHeYYYe",
+        "uid": "102855"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-11-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

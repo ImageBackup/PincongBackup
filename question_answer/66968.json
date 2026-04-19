@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "66968",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "744681",
+      "is_folded": false,
+      "answerer": {
+        "username": "okamiyu",
+        "uid": "81756"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t卷父母啊，<br/>\n不仅看你还要看你的父母，家庭能给公司带来什么。<br/>\n真正意义上的拼爹时代将会来临。\t\t</div>",
+      "date": "2024-05-01",
+      "agree_count": 6,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "744867",
+      "is_folded": true,
+      "answerer": {
+        "username": "Sechi",
+        "uid": "126729"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-05-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "67311",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "748027",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t看不懂需要翻译一下<br/>\n黄四郎 共匪<br/>\n鹅城 中国<br/>\n<br/>\n康城 美国\t\t</div>",
+      "date": "2024-05-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "748017",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t什么大哥有几成胜算？品葱的人现在连话都说不清楚了？帕金森啊你？大哥谁的大哥。\t\t</div>",
+      "date": "2024-05-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

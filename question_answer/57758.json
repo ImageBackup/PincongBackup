@@ -1,0 +1,62 @@
+{
+  "parent_type": "question",
+  "parent_id": "57758",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "650160",
+      "is_folded": false,
+      "answerer": {
+        "username": "BreakingWave",
+        "uid": "50441"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t说实话就好。<br/>\n<br/>\n说假话是Misrepresentation虚假陈述比资产来源不合法问题还严重，最严重可能直接给你5年不许入境。<br/>\n<br/>\n加拿大比特币合法，很多比特币公司都在加拿大有分部，便利店也有bitcoin ATM，联邦选举委员会甚至特地写了关于如果用比特币进行政党捐款应该如何处理。人话就是，加拿大不认为这玩意是货币，只认为是一种特殊的货物，你要以物易物没人管你，买卖货物进行投资也没人管你，毕竟自由市场你干什么是自由的，但是也不给你货币该有的保障和监管风险自负，盈亏正常报税就可以。<br/>\n<br/>\n可以提供炒币平台的截图和流水等等，告诉签证官我这是玩cryptocurrency拿的钱。虽然可能签证官可能会比较疑惑，但是至少比你说假话好\t\t</div>",
+      "date": "2023-04-22",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1172488",
+          "replier": {
+            "username": "periodspell",
+            "uid": "99071"
+          },
+          "date": "2023-04-23",
+          "content": "比较疑惑不就是拒签了吗？签证官不可能再找你确认的吧！😅"
+        },
+        {
+          "id": "1172658",
+          "replier": {
+            "username": "BreakingWave",
+            "uid": "50441"
+          },
+          "date": "2023-04-24",
+          "content": "@periodspell:还真有可能，单纯资金来源不足是要有程序正义找你问的，如果程序不正义他们是可能被起诉的"
+        }
+      ]
+    },
+    {
+      "id": "649676",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t发达国家的话，惯例是提供税表。投资所得没关系，有完税证明就行。所谓洗钱也是想方设法把税交给国家。<br/>\n<br/>\n当然我们都知道在中国只有傻逼才会主动报税……\t\t</div>",
+      "date": "2023-04-20",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1172259",
+          "replier": {
+            "username": "kxy",
+            "uid": "99835"
+          },
+          "date": "2023-04-22",
+          "content": "然而所有工薪阶层年收入超过12万的每年都会主动报税……否则税务会找上公司……"
+        }
+      ]
+    }
+  ]
+}

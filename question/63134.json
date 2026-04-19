@@ -1,0 +1,52 @@
+{
+  "question_id": "63134",
+  "category_id": "10",
+  "title": "为什么骂别人可以 骂“自己人”不行？",
+  "meta_description": "为什么骂别人可以 骂“自己人”不行？ - ",
+  "meta_keywords": "别人,自己人,不行",
+  "tags": [
+    {
+      "id": "2553",
+      "name": "管理员"
+    }
+  ],
+  "author": {
+    "username": "hoohoo2",
+    "uid": "117298"
+  },
+  "view_count": 2043,
+  "contents": "<div class=\"content markitup-box\">\n</div>",
+  "date": "2023-11-07",
+  "agree_count": 3,
+  "discussion_count": 3,
+  "discussions": [
+    {
+      "id": "1050089",
+      "replier": {
+        "username": "admin",
+        "uid": "1"
+      },
+      "date": "2023-11-07",
+      "content": "爱、和平与包容是我们的价值，而且每条法律再通过后需要再次发表投票程序才能进行，否则它会工作。"
+    },
+    {
+      "id": "1050090",
+      "replier": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "date": "2023-11-07",
+      "content": "@admin:修正语法错误：才能进行+修改、工作->生效"
+    },
+    {
+      "id": "1050309",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2023-11-12",
+      "content": "什么翻译腔"
+    }
+  ],
+  "answer_count": 4
+}

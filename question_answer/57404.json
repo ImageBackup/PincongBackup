@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "57404",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "645764",
+      "is_folded": false,
+      "answerer": {
+        "username": "sllnvaeolbz800",
+        "uid": "87561"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的<br/>\n你把国家换成赵家人就明白了<br/>\n不能危害赵家人安全<br/>\n不能看太子党关系（这可是机密https://github.com/programthink/zhao）<br/>\n不能颠覆赵家人政权<br/>\n不能承认台湾是个国家<br/>\n赵家人特指中共红色家族，虽然有人说现在是习家但习是赵的一个子项，根据独裁者手册没有独裁者可以一个人统治一个国家，所以赵家人还适用，推荐看到什么党国的宣传直接把 国家 换成赵家人就可以了解了。<br/>\n还有这VPN不行所有要遵守赵家法律的都不行。<br/>\n尽量不要用国内的VPN，用国外的，并且进行双重代理（tor）\t\t</div>",
+      "date": "2023-04-05",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1168109",
+          "replier": {
+            "username": "通商宽衣颐使气指",
+            "uid": "74980"
+          },
+          "date": "2023-04-05",
+          "content": "我还以为这是国内网游加速器的服务条款"
+        }
+      ]
+    },
+    {
+      "id": "645770",
+      "is_folded": false,
+      "answerer": {
+        "username": "通商宽衣颐使气指",
+        "uid": "74980"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t结论：送中vpn，为了安全只有打外服游戏的用途<br/>\n实在不想花钱上google白嫖免费节点也好过毒药机场，不看视频还是可以将就着用的\t\t</div>",
+      "date": "2023-04-05",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "645787",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t中资的VPN，或中国人开设的机场，都应该敬而远之<br/>\n选择VPN，第一个要政治可靠，第二个要技术可靠<br/>\n在墙内能够安全使用的VPN应该具备几个特性：<br/>\n传输协议不被识别，或难以识别，或伪装成正常的网络协议（https、wechat……）<br/>\n至少两个节点跳转，入口节点知道你的ip地址，也知道你在翻墙，但不知道你访问了哪些网站；出口节点知道你要访问的网站，但不知道你的ip地址。这就从物理上简单的隔离了开来<br/>\n不记名，不绑定邮箱，支付信息与账号分离\t\t</div>",
+      "date": "2023-04-05",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

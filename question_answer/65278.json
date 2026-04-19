@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "65278",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "727604",
+      "is_folded": false,
+      "answerer": {
+        "username": "麦克白",
+        "uid": "123903"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tFreeFrom吧 注册不需要任何个人信息 不用翻墙 什么都可以说不用担心被审查被封号\t\t</div>",
+      "date": "2024-02-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "727360",
+      "is_folded": false,
+      "answerer": {
+        "username": "百年等一回",
+        "uid": "124159"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用过这个软件，似乎创建群组需要有一个服务器用来部署，不然只能先加群主再被拉进群\t\t</div>",
+      "date": "2024-02-11",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1244860",
+          "replier": {
+            "username": "爱新觉罗柱间",
+            "uid": "122291"
+          },
+          "date": "2024-02-11",
+          "content": "这也太不方便了"
+        }
+      ]
+    },
+    {
+      "id": "727361",
+      "is_folded": false,
+      "answerer": {
+        "username": "不婚主义者",
+        "uid": "124180"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tLine，你最少需要找个比较主流的软件，小众的根本没几个人用，Telegram虽然需要用手机号注册，但是是目前最主流的。\t\t</div>",
+      "date": "2024-02-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

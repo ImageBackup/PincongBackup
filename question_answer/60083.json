@@ -1,0 +1,131 @@
+{
+  "parent_type": "question",
+  "parent_id": "60083",
+  "answer_count": 8,
+  "answers": [
+    {
+      "id": "672392",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这个话题以前讨论过。<br/>\n<br/>\n希望站方能加强论坛的搜索功能，现在用第三方引擎，非常不好用。<br/>\n<br/>\n回到话题，人家说的是“成熟”，我理解成有进步。我在以前的帖子里也说过，接触过一些这个领域国家队的边缘人员，目前最高水平的还是美国，另外包括俄罗斯在内的一些东欧国家的个人和非政府组织的水平是顶级的，和大家“东欧多数学家多极客”的印象是一致的，反而俄国官方的能力没怎么听到提起。<br/>\n<br/>\n另外这个领域的专业和业余的差别比天壤之别还大，我知道一些省市公安部门所谓的“网安”部门，水平非常差，甚至可以说还不如一些科技公司的高级网管，如果用他们去推断专门的国家安全部门的水平，会有极大的认知误差。\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "672391",
+      "is_folded": false,
+      "answerer": {
+        "username": "The19890604",
+        "uid": "46798"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t在這種無聊的地方贏有什麼意思 真正的機密設施都只有局域網<br/>\n<hr/><br/>\n幻想中的駭客：在好萊塢動作片裡面憑著聰明才智和驚人技術正面一層一層突破防火牆，最終抵達資訊核心。<br/>\n<br/>\n現實中的駭客：網路爬蟲，啊今天有個傻逼在社交媒體把帳號密碼洩漏出來了，幹它。\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "672485",
+      "is_folded": false,
+      "answerer": {
+        "username": "奥威尔1984",
+        "uid": "22793"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t反正我身边做安全的没有几个不是反贼的🤣但凡懂黑客技术的大佬都懂翻墙！被转化成反贼几率很高，编程随想不就是吗？\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "672486",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你看俄罗斯黑客平时曝光率很高<br/>\n真的乌克兰打仗就没什么出色的战绩了<br/>\n<br/>\n隐蔽工作应该要尽量低调, 取得成果对手不发现才是高手<br/>\n<br/>\n党国在信息安全和其他领域类似以量取胜, 而且党的领导缺乏远见\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1193232",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-07-21",
+          "content": "黑进五角大楼官网又没用，那不过是个发布文件的地方\n黑进军队内网才是本事，大家都不行"
+        }
+      ]
+    },
+    {
+      "id": "672465",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ Advanced persistent threat 高級長期威脅 aka: APT, 說白了概念與釣魚攻擊類似, 攻擊的是設備後面的人. 複合一些社會工程學知識, 只有少數設備安全+安全規章嚴格的部門能免疫, 多爲單一功能部門.<br/>\n<br/>\n_ _ 也就是說多功能部門幾乎不可能防住, 能防住個半年一年算不錯了. 因目前電腦與軟件工業體系的特點, 軟硬韌人四種件總有 0day 或存在.<br/>\n<br/>\n_ _ 紅客年代我就嘲笑他(她)們做不出工具, 都是拿人家的代碼一通組合就上路的高級腳本小子, 棱鏡工具泄漏之後有改觀了, 也不知這些貨賣帝王家的蠢蛋是否看清自身身爲尿壺的命運.\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "672464",
+      "is_folded": false,
+      "answerer": {
+        "username": "无明12",
+        "uid": "102177"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你说俄罗斯我都信，<mark>支那</mark>的数学水平够给鹅爹提鞋吗，无外乎量大，能摸到漏网之鱼\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "672437",
+      "is_folded": false,
+      "answerer": {
+        "username": "zhengyi",
+        "uid": "1766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t黑客水平最高的应该是以色列。他们有些公司专门开发和抓漏洞然后 美国黑客被捕后也会送给以色列公司，在公司内部服刑加工作。\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "672446",
+      "is_folded": false,
+      "answerer": {
+        "username": "kmvver",
+        "uid": "112733"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t網路黑客之間有流傳，什麼都可以進攻，就是別進攻美國政府。因為美國的長臂管轄能伸到別的國家抓人\t\t</div>",
+      "date": "2023-07-21",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1193177",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-07-21",
+          "content": "應該是引渡的問題，西方盟友連日韓坡東南亞基本上都會配合美國的引渡要求，Snowden Assange，例子太多"
+        }
+      ]
+    }
+  ]
+}

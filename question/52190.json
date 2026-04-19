@@ -1,0 +1,32 @@
+{
+  "question_id": "52190",
+  "category_id": "4",
+  "title": "为什么迷雾通无法连接？",
+  "meta_description": "为什么迷雾通无法连接？ - 节点试过一遍都不行，  然后重新下载安装后注册，注册新账号时一直显示  attempt和made proxbinder 然后验证码加载不出来无法注册  看起来是迷雾通完全无法与服务器通信",
+  "meta_keywords": "迷雾,无法,连接",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "3033",
+      "name": "GFW防火墙"
+    },
+    {
+      "id": "6220",
+      "name": "迷雾通"
+    }
+  ],
+  "author": {
+    "username": "使命光荣责任重大",
+    "uid": "100513"
+  },
+  "view_count": 5645,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t节点试过一遍都不行，<br/>\n<br/>\n然后重新下载安装后注册，注册新账号时一直显示<br/>\n<br/>\nattempt和made proxbinder<br/>\n然后验证码加载不出来无法注册<br/>\n<br/>\n看起来是迷雾通完全无法与服务器通信\t\t\t\t\t\t\t</div>",
+  "date": "2022-11-02",
+  "agree_count": 2,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 3
+}

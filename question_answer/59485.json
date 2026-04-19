@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "59485",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "666357",
+      "is_folded": false,
+      "answerer": {
+        "username": "比特肥肥",
+        "uid": "112512"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t习近平与他的情人们 https://github.com/xijinping0/lovers<br/>\n润学 https://github.com/The-Run-Philosophy-Organization/run<br/>\n客观评价习近平 https://github.com/zmike1993/hello-world/issues/106  https://github.com/zmike1993/hello-world/issues/104<br/>\n这个issue里面更多 https://github.com/zmike1993/hello-world/issues\t\t</div>",
+      "date": "2023-06-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "666367",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tOP忘了有一种技术叫做451<br/>\n<br/>\nhttps://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451<br/>\n<br/>\n<blockquote>The HyperText Transfer Protocol (HTTP) 451 Unavailable For Legal Reasons client error response code indicates that the user requested a resource that is not available due to legal reasons, such as a web page for which a legal action has been issued.</blockquote><br/>\n<br/>\nGitHub 肯定对这些页面都设置 451 了\t\t</div>",
+      "date": "2023-06-30",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

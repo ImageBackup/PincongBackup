@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "59484",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "666358",
+      "is_folded": false,
+      "answerer": {
+        "username": "欽定匪軍經商",
+        "uid": "102983"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t林獻堂在臺灣本土社會名望很高，但卻肯定是中國國民黨的眼中釘，也必然是大一統獨裁者的天然仇敵。\t\t</div>",
+      "date": "2023-06-30",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "666406",
+      "is_folded": false,
+      "answerer": {
+        "username": "c2h4",
+        "uid": "101813"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t刚刚得知此人，看了下履历，如今这样的土豪很少，翻版梁启超。\t\t</div>",
+      "date": "2023-06-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

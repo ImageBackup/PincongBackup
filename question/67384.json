@@ -1,0 +1,28 @@
+{
+  "question_id": "67384",
+  "category_id": "4",
+  "title": "有比较懂chatGPT的葱友吗？有疑问想请教",
+  "meta_description": "有比较懂chatGPT的葱友吗？有疑问想请教 - 我出门在外时，手机上开安卓版Clash Meta，亲测可以和chatGPT（谷歌商店直接下载）对话。 然而在家里时，用刷了梅林的某硕路由，开Clash，此时打开手机chatGPT（到家时把安卓版clash关闭的），却显示无网络。  两个都是用同一个机场、同...",
+  "meta_keywords": "比较,chatgpt,葱友,请教",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "103445",
+      "name": "ChatGPT"
+    }
+  ],
+  "author": {
+    "username": "shinhwa1984",
+    "uid": "73445"
+  },
+  "view_count": 3905,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t我出门在外时，手机上开安卓版Clash Meta，亲测可以和chatGPT（谷歌商店直接下载）对话。<br/>\n然而在家里时，用刷了梅林的某硕路由，开Clash，此时打开手机chatGPT（到家时把安卓版clash关闭的），却显示无网络。<br/>\n<br/>\n两个都是用同一个机场、同一个节点。而且都是白名单规则，没有开全局。<br/>\n在家时只要是连接了路由wifi的设备，全都可以出国。唯独chatGPT无法使用。<br/>\n<br/>\n网上查了说要开全局啊位置信息关掉啊之类的，但都试过了不行。<br/>\n所以不太明白它的检测机制。<br/>\n请懂的葱友解答一下，谢谢。\t\t\t\t\t\t\t</div>",
+  "date": "2024-05-19",
+  "agree_count": 0,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 2
+}

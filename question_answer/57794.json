@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "57794",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "650075",
+      "is_folded": false,
+      "answerer": {
+        "username": "我请党喝地沟油",
+        "uid": "108937"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvZDBkNzBlNWQ5NGU0YTE3NmNkY2RmLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/d0d70e5d94e4a176cdcdf.jpg\"><img alt=\"https://telegra.ph/file/d0d70e5d94e4a176cdcdf.jpg\" loading=\"lazy\" src=\"https://telegra.ph/file/d0d70e5d94e4a176cdcdf.jpg\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-04-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657295",
+      "is_folded": false,
+      "answerer": {
+        "username": "Times",
+        "uid": "109478"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t有點像是特洛伊木馬，可以將一些武器藏起來，要是有安檢不行就塞點東西\t\t</div>",
+      "date": "2023-05-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "657218",
+      "is_folded": true,
+      "answerer": {
+        "username": "miketere",
+        "uid": "111664"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-05-22",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

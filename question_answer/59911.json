@@ -1,0 +1,46 @@
+{
+  "parent_type": "question",
+  "parent_id": "59911",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "670590",
+      "is_folded": false,
+      "answerer": {
+        "username": "欽定匪軍經商",
+        "uid": "102983"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t這案件確實不好查，因為就算有餵精神藥物也會因為時間太長而無法查出，只能保證自己的孩子不要未經同意被老師餵藥。\t\t</div>",
+      "date": "2023-07-14",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "670618",
+      "is_folded": false,
+      "answerer": {
+        "username": "fb_china_today",
+        "uid": "8633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你们小同志没钱发奖金了, 所以用这种东西糊弄领导\t\t</div>",
+      "date": "2023-07-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "670558",
+      "is_folded": true,
+      "answerer": {
+        "username": "藍白拖",
+        "uid": "106244"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-07-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

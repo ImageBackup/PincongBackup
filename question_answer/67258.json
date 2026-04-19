@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "67258",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "747477",
+      "is_folded": false,
+      "answerer": {
+        "username": "幼馴染",
+        "uid": "120820"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以前知乎一堆专门写各个国家的，19年以后就全给永封了。\t\t</div>",
+      "date": "2024-05-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "747478",
+      "is_folded": false,
+      "answerer": {
+        "username": "古巴雪茄人",
+        "uid": "120882"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGitHub了解一下<br/>\nhttps://github.com/The-Run-Philosophy-Organization/run\t\t</div>",
+      "date": "2024-05-13",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

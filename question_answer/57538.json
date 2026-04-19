@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "57538",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "647144",
+      "is_folded": true,
+      "answerer": {
+        "username": "说话的权利",
+        "uid": "52021"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-04-10",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1169611",
+          "replier": {
+            "username": "斩首习近平",
+            "uid": "52179"
+          },
+          "date": "2023-04-11",
+          "content": "品葱姨学家浓度比任何地方都高，你在这不是随便讨论嘛，还要什么群组干嘛"
+        }
+      ]
+    }
+  ]
+}

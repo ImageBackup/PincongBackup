@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "58781",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "659568",
+      "is_folded": false,
+      "answerer": {
+        "username": "刁民共和国",
+        "uid": "111364"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我看的是那个原版印度电影（中国的自首结局太恶心了，况且我早就看过原版）。<br/>\n在片子里那个村子里如果没有监控，且民众普遍有反警情绪，那有一定成功率。<br/>\n城市里就算了，天网不是说着玩的，特别是杀了个官二代，这种命案公安是必破的。\t\t</div>",
+      "date": "2023-06-01",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "659818",
+      "is_folded": true,
+      "answerer": {
+        "username": "番茄三號",
+        "uid": "111700"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-06-02",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

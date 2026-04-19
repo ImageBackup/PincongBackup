@@ -1,0 +1,66 @@
+{
+  "parent_type": "question",
+  "parent_id": "57558",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "647345",
+      "is_folded": false,
+      "answerer": {
+        "username": "华国锋",
+        "uid": "16360"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t法律当然是武器，保守人士也会用大量法律诉讼保护自己的持枪权，not say gay law之类。<br/>\n<br/>\n川普被告比较恶劣的一点是公诉，这种民事诉讼不算什么。这种级别的事经常有。\t\t</div>",
+      "date": "2023-04-11",
+      "agree_count": 8,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1169516",
+          "replier": {
+            "username": "台灣來的麻雀",
+            "uid": "30373"
+          },
+          "date": "2023-04-11",
+          "content": "公訴罪那個我真是很佩服檢察官的努力..."
+        }
+      ]
+    },
+    {
+      "id": "647410",
+      "is_folded": false,
+      "answerer": {
+        "username": "LBJLBJ",
+        "uid": "49657"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t体现了美国是个法治国家，总统和平民被平等对待。<br/>\n<br/>\n川普这案肯定会上诉到最高法院的。最高法院保守派法官占比多，如果川普真的能被定罪，说明一定是证据确凿。\t\t</div>",
+      "date": "2023-04-11",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1169697",
+          "replier": {
+            "username": "Trump_irl",
+            "uid": "110191"
+          },
+          "date": "2023-04-12",
+          "content": "法治国家首先要有司法程序正义。\n1.前两天的川普案整个司法程序就有问题，还有这些天的米歇尔案也是，，类似的案子太多太多；\n2.打官司要花费大量的时间、金钱等，有几个人耗得起；\n3.很多民主党主导的州对罪犯提前释放，有些地方的警察甚至对黑人、同性恋等等群体犯罪都不愿处理；\n4.美国主流媒体等对新闻选择性报道，甚至歪曲事实。\n不是什么案子都能打到高院的，多数到上诉巡回法院就结束了。"
+        }
+      ]
+    },
+    {
+      "id": "647414",
+      "is_folded": true,
+      "answerer": {
+        "username": "brideg",
+        "uid": "108951"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: none;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-04-11",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

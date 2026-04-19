@@ -1,0 +1,66 @@
+{
+  "parent_type": "question",
+  "parent_id": "56735",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "638370",
+      "is_folded": false,
+      "answerer": {
+        "username": "steven380",
+        "uid": "34431"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t以我最善意的猜测，去年那个四百多的数字是车厂往4S店下面铺货的总数，而330是实际售出的数字。4S店保持2周订货周期的库存差不多100万。\t\t</div>",
+      "date": "2023-03-09",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1161247",
+          "replier": {
+            "username": "习下李上2022",
+            "uid": "97085"
+          },
+          "date": "2023-03-10",
+          "content": "问题是库存原来就有啊……"
+        }
+      ]
+    },
+    {
+      "id": "638374",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t虚报的产值越多，浮夸的数字越漂亮，杀人的税赋就越重。不管哪一次大跃进，中国共产党都能抓住在生产物资资料领域阶级斗争的重心——反瞒产。\t\t</div>",
+      "date": "2023-03-09",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "638405",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t两个数字哪个包括非乘用车？非乘用车去年这个数字是多少？\t\t</div>",
+      "date": "2023-03-09",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1161250",
+          "replier": {
+            "username": "习下李上2022",
+            "uid": "97085"
+          },
+          "date": "2023-03-10",
+          "content": "2022，中国商用车，包括客车和货车，总销量330万辆。"
+        }
+      ]
+    }
+  ]
+}

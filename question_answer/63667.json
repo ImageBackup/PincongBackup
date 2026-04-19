@@ -1,0 +1,87 @@
+{
+  "parent_type": "question",
+  "parent_id": "63667",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "709528",
+      "is_folded": false,
+      "answerer": {
+        "username": "shenzaius",
+        "uid": "26941"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t支原体就是一种细菌。在不存在广泛的抗生素抗药性的正常国家，不可能大规模流行。不过，这个支原体的名字倒是涉嫌辱华。\t\t</div>",
+      "date": "2023-12-01",
+      "agree_count": 11,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1229786",
+          "replier": {
+            "username": "MasonQian",
+            "uid": "15361"
+          },
+          "date": "2023-12-01",
+          "content": "台灣叫霉漿菌"
+        },
+        {
+          "id": "1229804",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-12-02",
+          "content": "这细菌点了抗药反而还传播不起来?\n要么你在骗我,要么瘟疫公司骗我"
+        },
+        {
+          "id": "1229879",
+          "replier": {
+            "username": "shenzaius",
+            "uid": "26941"
+          },
+          "date": "2023-12-02",
+          "content": "@takesipon: 现在在中国感染的主要是儿童，如果有特强抗药性的超级细菌传播到其他国家，不排除引发流行，目前还没有看到。"
+        }
+      ]
+    },
+    {
+      "id": "709529",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你想的真多，新冠那种明明白白发源于武汉的全新的病毒都清算不了，支原体肺炎这种早就存在而且一直在全世界流行的病怎么可能清算的到？\t\t</div>",
+      "date": "2023-12-01",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "709556",
+      "is_folded": false,
+      "answerer": {
+        "username": "snowingnight",
+        "uid": "53957"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t就算再来一次武汉放毒<br/>\n<br/>\n是否清算鸡共，真的不清楚<br/>\n<br/>\n但是，海外对高华的排斥一定会越演越烈<br/>\n<br/>\n海外的人士记得保重\t\t</div>",
+      "date": "2023-12-01",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "709742",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t支原体、支源体，这丫没跑了，中华人民共和国原产。\t\t</div>",
+      "date": "2023-12-02",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

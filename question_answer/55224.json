@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "55224",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "620956",
+      "is_folded": false,
+      "answerer": {
+        "username": "总钻风",
+        "uid": "103468"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可怜人，本来就有精神疾病，很有同情心所以按照秃驴教的方法弄了个排位，结果被乌合之众们弄到监狱里现在生死未卜，抓着一个破牌位说事，全国秃驴们干了多少坏事怎么没人管。\t\t</div>",
+      "date": "2023-01-14",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1144916",
+          "replier": {
+            "username": "liuzh720",
+            "uid": "92426"
+          },
+          "date": "2023-01-14",
+          "content": "她要是有精神病就好"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "parent_type": "question",
+  "parent_id": "63495",
+  "answer_count": 7,
+  "answers": [
+    {
+      "id": "707616",
+      "is_folded": false,
+      "answerer": {
+        "username": "台湾国的周杰伦",
+        "uid": "114126"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我买了一个月会员，刚开始还可以后面开始不行了，看什么都卡的很，缓冲很久，体验感不是很好。\t\t</div>",
+      "date": "2023-11-24",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1227670",
+          "replier": {
+            "username": "屑大大突开沼气池",
+            "uid": "111498"
+          },
+          "date": "2023-11-24",
+          "content": "速度从来就没有快过，前几天经常连上了打开网页都费劲这几天总算稳定下来了。"
+        },
+        {
+          "id": "1227675",
+          "replier": {
+            "username": "台湾国的周杰伦",
+            "uid": "114126"
+          },
+          "date": "2023-11-24",
+          "content": "@屑大大突开沼气池:就是啊好像迷雾通是一个人在维护的，名气远大于实力"
+        }
+      ]
+    },
+    {
+      "id": "707618",
+      "is_folded": false,
+      "answerer": {
+        "username": "yeuoneo",
+        "uid": "11686"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我目前没有买会员，在免费使用，虽然速度一再受限，但网络浏览还是可以的，主要是因为别的翻墙工具目前不太好用，要碰运气才能成功连接上。\t\t</div>",
+      "date": "2023-11-24",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1227703",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2023-11-24",
+          "content": "我前段时间开会员，付费的节点，90%时间都无法使用，连接成功但网速为0，前车之鉴，现在不知道迷雾通宣称的所谓修复靠不靠谱"
+        }
+      ]
+    },
+    {
+      "id": "707635",
+      "is_folded": false,
+      "answerer": {
+        "username": "被水淹没不知所措",
+        "uid": "52322"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t上周连接速度很差，油管最低画质都卡，最近两天似乎有所恢复，继续观察下\t\t</div>",
+      "date": "2023-11-24",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708204",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tTLS正常，过去一年左右的时间里，UDP一直被针对<br/>\n<a href=\"url/link/aHR0cHM6Ly9jb21tdW5pdHkuZ2VwaC5pby90L3RvcGljLzE0MDEz\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://community.geph.io/t/topic/14013\">https://community.geph.io/t/topic/14013</a> </div>",
+      "date": "2023-11-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "708243",
+      "is_folded": false,
+      "answerer": {
+        "username": "LovePeace",
+        "uid": "95494"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t迷雾通都不好用好久了，iOS端更是悲剧，Twitter视频都不能流畅加载…但这两天速度还凑合，YouTube看个720p问题不大\t\t</div>",
+      "date": "2023-11-26",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "707579",
+      "is_folded": false,
+      "answerer": {
+        "username": "helltaker",
+        "uid": "51656"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其他人不知道，但是我这里，没有，已经完全连不上了。付费用户。\t\t</div>",
+      "date": "2023-11-23",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1227671",
+          "replier": {
+            "username": "屑大大突开沼气池",
+            "uid": "111498"
+          },
+          "date": "2023-11-24",
+          "content": "我一直能连上 但是前几天连上了打开网页都很慢前天开始又恢复了以前的低速稳定"
+        }
+      ]
+    },
+    {
+      "id": "707592",
+      "is_folded": true,
+      "answerer": {
+        "username": "民人",
+        "uid": "108220"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t可以，我现在就在用迷雾通，昨晚是比较不稳定。<br/>\n（ps：我平时一直在用东京节点，偶尔用台北的，我认为在节点稳定性方面东京&gt;台北&gt;旧金山，仅做参考）<br/>\n<br/>\n对于迷雾通黑，我就一个态度，<b>现在市面上能吊打迷雾通的VPN有哪些，可以都列出来看看。刚好借助这个帖子，咱们让这些VPN自由竞争一下，看看到底谁更好用。</b><br/>\n<br/>\n翻墙无非就跟每一个自由国度的人民需求一样，看看油管，2k，1080p无压力，我还经常用GPT查资料，谷歌账户Proton邮件全网通，推特电报红迪以及所有的西方媒体网站，还有需要外国ip才能玩的游戏，想看动漫电影或者黄色，资源随便找随便下。<br/>\n<br/>\n<b>而所有这些自由互联网下的需求，迷雾通都能够满足我</b>，翻墙好几年了，大大小小的VPN都用过，只有迷雾通还留在我的手机电脑里，有时候真不想吹说实话，只不过黑有点多，看不下去了。<br/>\n（<b>既然楼主认为我是水军，那就没什么和你讨论的必要了，我只是如实回答了你的问题，最简单的，现在能不能用你试试看就知道了，真的白费力气</b>）\t\t</div>",
+      "date": "2023-11-23",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1227668",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-11-24",
+          "content": "迷雾通速度没那么好，谢谢"
+        },
+        {
+          "id": "1227674",
+          "replier": {
+            "username": "民人",
+            "uid": "108220"
+          },
+          "date": "2023-11-24",
+          "content": "@rowlandheights:迷雾通再怎么不限速，也是要看你本来的网速的"
+        }
+      ]
+    }
+  ]
+}

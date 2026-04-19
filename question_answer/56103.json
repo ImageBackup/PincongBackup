@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "56103",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "631158",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t搞不好真有可能呢！千万不要低估独裁者的邪恶！\t\t</div>",
+      "date": "2023-02-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "631159",
+      "is_folded": false,
+      "answerer": {
+        "username": "奥赛习题库",
+        "uid": "79436"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t人家收集起来是用来写书法<br/>\n习主席？<br/>\n紫薯布丁紫薯布丁\t\t</div>",
+      "date": "2023-02-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

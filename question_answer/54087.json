@@ -1,0 +1,84 @@
+{
+  "parent_type": "question",
+  "parent_id": "54087",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "611242",
+      "is_folded": false,
+      "answerer": {
+        "username": "堀井雄二",
+        "uid": "5654"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvOTM4ZjU3MGI0OTJlNDVlMTMzYjdjLnBuZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/938f570b492e45e133b7c.png\"><img alt=\"https://telegra.ph/file/938f570b492e45e133b7c.png\" loading=\"lazy\" src=\"https://telegra.ph/file/938f570b492e45e133b7c.png\" style=\"max-width:100%\"/></a><br/>\n首先，google play软件商店对登入用户和未登入用户的说明文似乎不同，你首先需要登入。<br/>\n之后可以在google play 的 About this app 找到如上图的一段说明。<br/>\n好了。现在按照官方的教程来设置本地代理端口、尝试连接。<br/>\n<br/>\n如果你尝试过后还是不成功，请使用 google translate 去翻译你的问题、情况、设备信息。<br/>\n用可信的邮箱，发送给：<br/>\n<blockquote>★ MESSAGE US: Are we missing your favorite feature? Found an annoying bug? We’d love to hear from you! Send us an email: support@guardianproject.info</blockquote><br/>\n寻求帮助。<br/>\n<br/>\n当然你也可以登陆相关reddit、github、或者支持中文的品韭继续尝试...呃、技术交流。/<br/>\n<br/>\n——————\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1136164",
+          "replier": {
+            "username": "Shit进瓶",
+            "uid": "93874"
+          },
+          "date": "2022-12-16",
+          "content": "感谢回复，我觉得应该和端口无关，因为我进行了如下尝试，如果我未勾选“网络诊断”这个APP，三星是无法用浏览器通过orbot上网的，而如果设置浏览器不通过orbot上网，浏览器是直连模式，感觉和三星的域名请求有关，三星安卓6的手机，IP方式可以通过orbot上网，但用域名就会提示无法解析"
+        },
+        {
+          "id": "1136165",
+          "replier": {
+            "username": "Shit进瓶",
+            "uid": "93874"
+          },
+          "date": "2022-12-16",
+          "content": "可能没说清楚，补充下，三星安卓10有网络诊断APP可以勾选，但三星安卓6没有"
+        },
+        {
+          "id": "1138121",
+          "replier": {
+            "username": "假行僧",
+            "uid": "41163"
+          },
+          "date": "2022-12-24",
+          "content": "@Shit进瓶:建议你先按他找到的方法看一下是否有端口冲突，英文也说了是on some devices，也许是你的安卓6三星有这个问题而10没有。另外如果实在无法解决，也可以看看如何让10连上Tor之后作为6的VPN代理来中转所有流量"
+        }
+      ]
+    },
+    {
+      "id": "611225",
+      "is_folded": false,
+      "answerer": {
+        "username": "Shit进瓶",
+        "uid": "93874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t汗，这个论坛只有反共的情绪发泄，没有人帮助一下或技术交流的吗？\t\t</div>",
+      "date": "2022-12-16",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "613408",
+      "is_folded": false,
+      "answerer": {
+        "username": "jcemao",
+        "uid": "13457"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t瀏覽網站還是別直接使用Orbot再手動設置代理吧，應該裝手機版的Tor Browser。<br/>\n<br/>\nOrbot建立好tor連線後，要使用tor資源的軟件要一個個設置socks代理，這裡很容易出錯。設好代理後，你用的瀏覽器會不會乖乖只用tor連線、還是某些情況會直連，無法預測。<br/>\n<br/>\n這好比你在電腦上不會分開裝tor與瀏覽器，而是直接安裝Tor Browser Bundle，或是安裝Tails、Whonix等經過仔細調校的整個系統，才會比較安全。<br/>\n<br/>\n安裝F-Droid，打開Guardian Project Repository，裡面有Tor Browser for Android。\t\t</div>",
+      "date": "2022-12-23",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1138114",
+          "replier": {
+            "username": "Shit进瓶",
+            "uid": "93874"
+          },
+          "date": "2022-12-24",
+          "content": "是的，我考虑过这个问题，主要是，1，tor浏览器只能浏览不方便，而且也用得不是很习惯，2，orbot可以对app进行VPN代理，这样就可以说避免了app内使用特殊协议导致的绕过代理问题，3，使用tor浏览器，我觉得就和使用法轮功系的自由浏览一样，不方便，也引起一下类似下载的问题，4，基于以上原因，我觉得可能还是orbot更实用一些，毕竟它是一个通用代理服务，至于socks或http代理端口，由于安卓的特殊性，使用VPN模式就可以都解决了"
+        }
+      ]
+    }
+  ]
+}

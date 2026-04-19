@@ -1,0 +1,53 @@
+{
+  "parent_type": "question",
+  "parent_id": "58795",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "659633",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t同样我也很讨厌他们的这种行为，加上使唤人的态度，真是缺乏教养。最后，我成功解决了这个问题，通过向他们多次发出有日期和具体时间、地点的议程，尽管对他们而言这改变的仅仅是与我的打交道方式。\t\t</div>",
+      "date": "2023-06-01",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1181458",
+          "replier": {
+            "username": "永遠的零",
+            "uid": "107997"
+          },
+          "date": "2023-06-01",
+          "content": "我至少给父母安装了安排日程的app，不过过几天后发现他们删掉了...真是没辙。"
+        }
+      ]
+    },
+    {
+      "id": "659649",
+      "is_folded": false,
+      "answerer": {
+        "username": "問心",
+        "uid": "43432"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你可以回答：我的schedule滿了喔，不然你和我的助理約時間吧。\t\t</div>",
+      "date": "2023-06-02",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1181465",
+          "replier": {
+            "username": "永遠的零",
+            "uid": "107997"
+          },
+          "date": "2023-06-02",
+          "content": "刁"
+        }
+      ]
+    }
+  ]
+}

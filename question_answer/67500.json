@@ -1,0 +1,30 @@
+{
+  "parent_type": "question",
+  "parent_id": "67500",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "749783",
+      "is_folded": false,
+      "answerer": {
+        "username": "landsbetween",
+        "uid": "112665"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不懂，如果在牆內不建議為了一個破國旗這麼大費周章。台灣將來會有自己的國旗\t\t</div>",
+      "date": "2024-05-25",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1267323",
+          "replier": {
+            "username": "ibaba",
+            "uid": "53805"
+          },
+          "date": "2024-05-25",
+          "content": "中華民國台灣的國旗就是現況，不爽的話，你可以丟掉所有手上的新台幣先（上面有中華民國）"
+        }
+      ]
+    }
+  ]
+}

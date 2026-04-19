@@ -1,0 +1,144 @@
+{
+  "parent_type": "question",
+  "parent_id": "57895",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "651071",
+      "is_folded": false,
+      "answerer": {
+        "username": "Groupoid",
+        "uid": "74161"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不都是用<a href=\"url/link/aHR0cDovL3NoYXJlLmRtaHkub3JnLw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"http://share.dmhy.org/\">动漫花园</a>和<a href=\"url/link/aHR0cHM6Ly9ueWFhLnNpLw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://nyaa.si/\">nyaa</a>吗\t\t</div>",
+      "date": "2023-04-26",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1173212",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-04-26",
+          "content": "你可以把vcb视为发布种子的通知网站\nvcb本身不提供bt下载,都是链接到动漫花园或者萌番组这种网站的\nnyaa还真没听说过,谢啦"
+        },
+        {
+          "id": "1173499",
+          "replier": {
+            "username": "Groupoid",
+            "uid": "74161"
+          },
+          "date": "2023-04-27",
+          "content": "@takesipon:不能100%确定，不过我相信国内外大部分动画字幕组的新番生肉片源都是来自于nyaa。一般来说某一集在Crunchyroll等平台配信之后就会有大佬发到nyaa，字幕组下载之后就开始着手翻译。"
+        },
+        {
+          "id": "1173648",
+          "replier": {
+            "username": "S700N",
+            "uid": "75716"
+          },
+          "date": "2023-04-27",
+          "content": "@takesipon:VCB发片也会发nyaa的啊，你不会从来没上过他们网站吧。"
+        }
+      ]
+    },
+    {
+      "id": "651323",
+      "is_folded": false,
+      "answerer": {
+        "username": "lll",
+        "uid": "42918"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你直接在线看不就得了吗？一堆这种网站，随便打个番剧名就能出来\t\t</div>",
+      "date": "2023-04-27",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1173757",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-04-28",
+          "content": "不,制作的BT内还含有图片,无损CD,附加内容\n这些是流媒体所没有的"
+        },
+        {
+          "id": "1174322",
+          "replier": {
+            "username": "dusttrust",
+            "uid": "106680"
+          },
+          "date": "2023-05-01",
+          "content": "观点同上↑，并且那种网站大部分都有低俗广告"
+        },
+        {
+          "id": "1174324",
+          "replier": {
+            "username": "dusttrust",
+            "uid": "106680"
+          },
+          "date": "2023-05-01",
+          "content": "不过在线网站我推荐异世界动漫和mx动漫，目前视频没有内嵌广告"
+        }
+      ]
+    },
+    {
+      "id": "651080",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tbt在一个国家不能用，bt是明文传输，pt可以玩，pt是加密传输，不过据说有些国家会检测数据量过大会被盯上，小心吃牢狱之灾和巨额罚款\t\t</div>",
+      "date": "2023-04-26",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1173519",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-04-27",
+          "content": "BT可以加密"
+        }
+      ]
+    },
+    {
+      "id": "651349",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这是公然盗版，你只有在偷国才能自由的偷，在民主国家这种人是会被抓进监狱判刑的\t\t</div>",
+      "date": "2023-04-27",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1173649",
+          "replier": {
+            "username": "penima",
+            "uid": "13424"
+          },
+          "date": "2023-04-27",
+          "content": "pt大站基本都墙外的"
+        },
+        {
+          "id": "1173759",
+          "replier": {
+            "username": "takesipon",
+            "uid": "89998"
+          },
+          "date": "2023-04-28",
+          "content": "会,但俺认为抓捕做种者的成本是否过于高昂\n首先,有些正版资源也会通过BT种子传播,比如Ubuntu系统镜像\n这就让政府不可能直接封锁BT"
+        }
+      ]
+    }
+  ]
+}

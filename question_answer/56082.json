@@ -1,0 +1,43 @@
+{
+  "parent_type": "question",
+  "parent_id": "56082",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "630973",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t其实是套用模板机器写的，将来chaygpt这样的东西越来越多，这样的垃圾会越来越多\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "630976",
+      "is_folded": false,
+      "answerer": {
+        "username": "langjiaom",
+        "uid": "103699"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://en.wikipedia.org/wiki/Content_farm<br/>\n一般说这类是内容农场，可是传统内容农场是真人手动写的。不知道现在这类自动生成内容的网站要叫什么\t\t</div>",
+      "date": "2023-02-14",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1154214",
+          "replier": {
+            "username": "lbow",
+            "uid": "53236"
+          },
+          "date": "2023-02-14",
+          "content": "廢文農場"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "parent_type": "question",
+  "parent_id": "65262",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "726889",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不是有link嗎，他沒給你？<br/>\n。。。。。。。。。。。。。\t\t</div>",
+      "date": "2024-02-09",
+      "agree_count": 0,
+      "discussion_count": 6,
+      "discussions": [
+        {
+          "id": "1244504",
+          "replier": {
+            "username": "tigerFace",
+            "uid": "121949"
+          },
+          "date": "2024-02-09",
+          "content": "link安全吗，推上好多人都推荐session，我都是用电报，如果安全我以后也试试link"
+        },
+        {
+          "id": "1244517",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-02-09",
+          "content": "@tigerFace: link=鏈結，他沒給你鏈結嗎？session / status這些都落伍了，現在流行simplex"
+        },
+        {
+          "id": "1244518",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-02-09",
+          "content": "連接"
+        },
+        {
+          "id": "1244520",
+          "replier": {
+            "username": "tigerFace",
+            "uid": "121949"
+          },
+          "date": "2024-02-09",
+          "content": "我说呢，link那个app挺大众不太可能安全。谢谢告知差点就去尝试了"
+        },
+        {
+          "id": "1244579",
+          "replier": {
+            "username": "爱新觉罗柱间",
+            "uid": "122291"
+          },
+          "date": "2024-02-09",
+          "content": "没有给我，我只想要一个不需要手机就可以注册的聊天软件"
+        },
+        {
+          "id": "1244671",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2024-02-10",
+          "content": "@爱新觉罗柱间: simplex也可以純電腦，我debian用 .appimage ，也有個 .deb包"
+        }
+      ]
+    },
+    {
+      "id": "727012",
+      "is_folded": false,
+      "answerer": {
+        "username": "B圈的良心8964",
+        "uid": "113640"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t这里有二维码 https://freearkham.cc/ ，用软件扫描这个二维码，我已经在群里面了。\t\t</div>",
+      "date": "2024-02-10",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1244913",
+          "replier": {
+            "username": "爱新觉罗柱间",
+            "uid": "122291"
+          },
+          "date": "2024-02-12",
+          "content": "我没有在软件中找到扫描二维码的功能，直接复制网址又不让加入啊。"
+        }
+      ]
+    }
+  ]
+}

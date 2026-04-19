@@ -1,0 +1,78 @@
+{
+  "parent_type": "question",
+  "parent_id": "54625",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "614024",
+      "is_folded": false,
+      "answerer": {
+        "username": "卡卡里",
+        "uid": "31999"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果為了求心安，接回來倒也不是不可以。<br/>\n但你要跟你爸詳細探討接回來的流程。<br/>\n不要老人在北方養老沒事，在接回來的路上卻被感染，這樣就不好了。<br/>\n<br/>\n然後，我想先說一件事。<br/>\n我從沒聽過「鼻炎患者，无法感染新冠」這種論點，這有醫學上的實證嗎？<br/>\n還是說這是哪個專家提出的論點並已經獲得醫學界的承認？<br/>\n<br/>\n至於宣傳南北毒株不一樣，我想最早只是用來解釋北京為什麼突然多了那麼多重症跟病死的患者，而南部卻沒有那麼嚴重的情況，這是一種宣傳上的話術。<br/>\n如果都一樣，會被北京人民質疑吧？像是環衛方面是不是出了什麼系統上的問題，諸如此類的。\t\t</div>",
+      "date": "2022-12-25",
+      "agree_count": 3,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1138418",
+          "replier": {
+            "username": "天下旡贼",
+            "uid": "36074"
+          },
+          "date": "2022-12-25",
+          "content": "鼻炎那个说法的话，好像是有相关论文了，而且葱油也有自发统计过敏性鼻炎感染新冠，目前还没看到很严重的"
+        },
+        {
+          "id": "1138428",
+          "replier": {
+            "username": "卡卡里",
+            "uid": "31999"
+          },
+          "date": "2022-12-25",
+          "content": "@a1161aa:喔喔，即使還沒看過很嚴重的，也不要就這麼輕忽大意。\n就算感染後也不嚴重，但既然會陽性，也代表你可能會傳染給其他人。\n如果之後會把老人家接回南方，就更是要多留意這方面了，"
+        }
+      ]
+    },
+    {
+      "id": "613988",
+      "is_folded": false,
+      "answerer": {
+        "username": "心理不稳定的韭菜",
+        "uid": "75115"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t还是气候（温暖寒冷、潮湿干燥）、生活方式（有无集中供暖，是否常通风等）的问题。我寻思着欧美我周围也没说哪个毒株或哪个地方更猛\t\t</div>",
+      "date": "2022-12-25",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "614016",
+      "is_folded": false,
+      "answerer": {
+        "username": "闽越国民",
+        "uid": "52852"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t死亡率致病率应该和南北气候差异以及生活习惯有关，气候因素应该也会影响病毒变异的方向，但是不会这么快\t\t</div>",
+      "date": "2022-12-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "614037",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t上海也死了很多人 大城市人口密度高应该无一幸免 现在还是小地方蹲着可能更安全一点\t\t</div>",
+      "date": "2022-12-25",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

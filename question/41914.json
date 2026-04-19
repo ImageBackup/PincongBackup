@@ -1,0 +1,42 @@
+{
+  "question_id": "41914",
+  "category_id": "15",
+  "title": "“六四记忆 人权博物馆”网址被香港电讯HKT部分dns解析服务器屏蔽，其余香港isp正常，是否如此？",
+  "meta_description": "“六四记忆 人权博物馆”网址被香港电讯HKT部分dns解析服务器屏蔽，其余香港isp正常，是否如此？ - 网址为 https://8964museum.com   昨晚开始使用hkt的218.102.23.228（ns3.netvigator.com）以及203.198.7.66（ns4.netvigator.com）进行解析均返回nxdomain的结果。  ...",
+  "meta_keywords": "六四记忆,人权,博物馆,网址,香港,电讯,hkt,部分,dns,解析,服务器,屏蔽,isp,正常,是否",
+  "tags": [
+    {
+      "id": "17",
+      "name": "香港"
+    },
+    {
+      "id": "1117",
+      "name": "GFW"
+    },
+    {
+      "id": "9207",
+      "name": "国安法"
+    }
+  ],
+  "author": {
+    "username": "irwzk",
+    "uid": "34021"
+  },
+  "view_count": 10509,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t网址为 https://8964museum.com<br/>\n<br/>\n<br/>\n昨晚开始使用hkt的218.102.23.228（ns3.netvigator.com）以及203.198.7.66（ns4.netvigator.com）进行解析均返回nxdomain的结果。<br/>\n<br/>\n但是其余香港isp比如hgc的dns服务器210.0.128.242或者hkbn的dns服务器202.130.97.65则是都能返回正确结果。<br/>\n<br/>\n已确认210.0.128.242与202.130.97.65也会服从国安处的命令，hkchronicles.com与www.2021hkcharter.com就已被屏蔽。<br/>\n<br/>\n<br/>\n能否帮忙测试？\t\t\t\t\t\t\t</div>",
+  "date": "2021-09-17",
+  "agree_count": 1,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1000836",
+      "replier": {
+        "username": "dogpcs",
+        "uid": "74069"
+      },
+      "date": "2021-09-17",
+      "content": "已删除"
+    }
+  ],
+  "answer_count": 4
+}

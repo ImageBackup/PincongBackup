@@ -1,0 +1,106 @@
+{
+  "parent_type": "question",
+  "parent_id": "61933",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "690739",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我记得法律改过，以前土地财政归地方政府，后来都统一归到中央了，地方政府早就不靠土地财政了\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1209992",
+          "replier": {
+            "username": "反清复明2017",
+            "uid": "73211"
+          },
+          "date": "2023-09-20",
+          "content": "土地财政还是归地方政府，只是土地出让金由税务局（中央垂直管理）代为收缴，这样比较透明（以前里面很多猫腻）。"
+        },
+        {
+          "id": "1210015",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2023-09-21",
+          "content": "@反清复明2017:那是不是他们只能从地产商卖出的房子里面收税，也就是只能通过管地产商要钱，而不能直接从中收钱"
+        },
+        {
+          "id": "1210030",
+          "replier": {
+            "username": "反清复明2017",
+            "uid": "73211"
+          },
+          "date": "2023-09-21",
+          "content": "@心情不好: 税也收，土地出让金也收。只是以前会隐瞒很多收入，让中央不知道。现在没法隐瞒了。"
+        }
+      ]
+    },
+    {
+      "id": "690802",
+      "is_folded": false,
+      "answerer": {
+        "username": "山南青",
+        "uid": "117009"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可是说是停滞，但是崩盘没有。<br/>\n<br/>\n因为我认为崩盘就是要他们原本能享受消费的东西，现在没了才算。<br/>\n<br/>\n财政赤字高是真的，但是工资不影响发也是普遍情况。那些体制内的，工资保险都已经高的不行了，少了年中奖金而已，最多少换一次手机。根本不影响生活中的实质问题。\t\t</div>",
+      "date": "2023-09-21",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690750",
+      "is_folded": false,
+      "answerer": {
+        "username": "永遠的零",
+        "uid": "107997"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t偷偷摸摸加些地方税、继续举债、罚款、裁掉些边缘人等或多或少能续点狗命。\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "690746",
+      "is_folded": false,
+      "answerer": {
+        "username": "熙来",
+        "uid": "92527"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t三四线房产很可能是负资产，特别是那些入住率不高的高层小区。<br/>\n<br/>\n至于财政，其实节省的空间还是很大的，主要砍的方向也不会是体制内工资。\t\t</div>",
+      "date": "2023-09-20",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1209989",
+          "replier": {
+            "username": "感謝習近平",
+            "uid": "100154"
+          },
+          "date": "2023-09-20",
+          "content": "那三四線經濟會崩潰嗎"
+        },
+        {
+          "id": "1209995",
+          "replier": {
+            "username": "熙来",
+            "uid": "92527"
+          },
+          "date": "2023-09-20",
+          "content": "@感謝習近平:看你怎么定义。其实所有现代化国家，三四线都是人口流出，产业萎缩的。包括日韩欧美"
+        }
+      ]
+    }
+  ]
+}

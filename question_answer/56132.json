@@ -1,0 +1,52 @@
+{
+  "parent_type": "question",
+  "parent_id": "56132",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "631424",
+      "is_folded": false,
+      "answerer": {
+        "username": "罗兰岗",
+        "uid": "107014"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t共和党不是因为普京的统治方式符合共和党价值观，而是因为共和党认为美国不应该伸手超过北约界线。这正是川普任上说过阿富汗要撤军的原因。\t\t</div>",
+      "date": "2023-02-16",
+      "agree_count": 0,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1154674",
+          "replier": {
+            "username": "dabaichi1",
+            "uid": "99779"
+          },
+          "date": "2023-02-16",
+          "content": "这么说美国应该不管台湾了，当初伊拉克入侵科威特，美国也不该管了"
+        },
+        {
+          "id": "1154677",
+          "replier": {
+            "username": "罗兰岗",
+            "uid": "107014"
+          },
+          "date": "2023-02-16",
+          "content": "@dabaichi1:台湾的话，美国有台湾关系法保护台湾；科威特的话，至少伊拉克吞并科威特将近一年美国才出兵。"
+        }
+      ]
+    },
+    {
+      "id": "631450",
+      "is_folded": false,
+      "answerer": {
+        "username": "dabaichi1",
+        "uid": "99779"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t台湾关系法和军事没有半毛钱关系，主要是为了维持商业往来。\t\t</div>",
+      "date": "2023-02-16",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

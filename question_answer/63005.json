@@ -1,0 +1,79 @@
+{
+  "parent_type": "question",
+  "parent_id": "63005",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "702482",
+      "is_folded": false,
+      "answerer": {
+        "username": "RobotRepublic",
+        "uid": "101437"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你是要报仇还是钓鱼啊？就算这是个真事，你这么发出来，当时人也被你害死了。真服了。\t\t</div>",
+      "date": "2023-11-01",
+      "agree_count": 5,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1222133",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2023-11-01",
+          "content": "发在品葱也不安全吗"
+        }
+      ]
+    },
+    {
+      "id": "702499",
+      "is_folded": false,
+      "answerer": {
+        "username": "社会的不适应者",
+        "uid": "100968"
+      },
+      "contents": "<div class=\"markitup-box\">\n<mark>支那猪</mark>别出来秀逗好吗 傻逼东西 指数字数字数\t\t</div>",
+      "date": "2023-11-01",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1222176",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2023-11-01",
+          "content": "我不是\n支那猪\n，我是智商正常的中国人"
+        }
+      ]
+    },
+    {
+      "id": "702485",
+      "is_folded": true,
+      "answerer": {
+        "username": "幸福中国",
+        "uid": "107007"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<s class=\"aw-deleted\">已删除</s> </div>",
+      "date": "2023-11-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "702501",
+      "is_folded": true,
+      "answerer": {
+        "username": "李知妍",
+        "uid": "80306"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2023-11-01",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

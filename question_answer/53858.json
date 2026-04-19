@@ -1,0 +1,385 @@
+{
+  "parent_type": "question",
+  "parent_id": "53858",
+  "answer_count": 17,
+  "answers": [
+    {
+      "id": "606457",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 買之前要做功課, 查 XDA 上有沒有 ROM. 簡單來説沒有就不買, 進階玩家通過 Datasheet 比較下有 ROM 的臨近型號如果就差一個基帶的話, 可以賭一下是否能把基帶撈出來. 反正我一直都是三星/索尼, 就專買氣死五粉毛的日韓牌子, 之前想買 LG 來著, 可惜沒買上. 對 HTC 不爭氣, 讓我用不上臺產手機略有不快, 但芯片(晶片)是臺積電的就好啦.<br/>\n<br/>\n_ _ 堅決不買虛標欺騙的陸產手機或電子設備, 寧當多掏二三百的冤大頭, 不當買個電幕的大傻子. 陸產手機也用過, 不是朋友送的就是同事送的二手, 零付出無限性價比的小米暖手寶什麽的. 另一個退市雑牌就不説了.<br/>\n<br/>\n_ _ 因能讓使用四年左右的手機送去換電池再刷入 ROM 煥發第二春, 身邊民粹很迷信我推薦的有性價比的手機, 討厭韓國的推薦三星, 討厭日本的只說索尼. 咱身邊不能有用華爲的人~\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 5,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1132428",
+          "replier": {
+            "username": "奥威尔1984",
+            "uid": "22793"
+          },
+          "date": "2022-12-05",
+          "content": "现在索尼三星这些手机，最新版都有rom吗？因为我现在自己用的苹果手机已经很久没用安卓了。"
+        },
+        {
+          "id": "1132433",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-05",
+          "content": "@奥威尔1984:\n_ _ 如果你很適應蘋果, 找在海外的人, 購機申請 Apple ID 寄回大陸. 這樣你就有一個墻外的商店, 上面不少免費翻墻的 APP. 泰國越南都可以, 只是人要可靠不糊弄你.\n_ _ 安卓的話, 如非大陸專供型號或電信定制機, 是世界行銷型號, 大概率會在未來有 ROM, 但我沒法向你保證這一點. 流行型號大多會有.  通常我會先看一眼 LineageOS 項目上有無再做定奪."
+        },
+        {
+          "id": "1132434",
+          "replier": {
+            "username": "奥威尔1984",
+            "uid": "22793"
+          },
+          "date": "2022-12-05",
+          "content": "感谢"
+        },
+        {
+          "id": "1132436",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-05",
+          "content": "@奥威尔1984:\n_ _ 遇到問題可看 XDA 論壇的帖子, 或跑這來問問, 我倒是不介意為自由派提供一點技術支持啦. 加油爲了咱們的自由."
+        }
+      ]
+    },
+    {
+      "id": "606492",
+      "is_folded": false,
+      "answerer": {
+        "username": "亡共进行时",
+        "uid": "7969"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t刷机之前先弄清楚几个问题，确保手机不会出问题。<br/>\n1.刷机你首先必须学会如何备份提取，官方REC，基带文件，而且你必须要知道如何把官方REC和基带刷回去。<br/>\n2.必须要有官方线刷救砖包，多数国产厂商基本不提供，只有小米会提供。<br/>\n3.刷机一定要确保Bootloader不会损坏，这是最后的底线，如果Bootloader坏了，基本变砖。Bootloader损坏一般都是刷机导入错误的刷机包导致的，这个要注意。<br/>\n4.必须要会找到正确的第三方REC，如果你找不到，不建议刷。<br/>\n<br/>\n搞清楚这个四个刷机关键问题之后才能去XDA论坛找相应的刷机包，如果你不会，不建议玩，厂家售后对于黑砖，不能开机，丢基带，一律建议更换主板，维修成本1000左右。还有XDA的类原生系统，都是第三方作者业余开发的，大部分都是有BUG的，比如不支持快冲，会自动重启，信号不好，不支持蓝牙，不支持自动亮度之类，稳定性上跟国产系统有差距的。<br/>\n<br/>\n其实最省的办法就是购买摩托罗拉，诺基亚类原生的就行，缺点配置不高，墙内还能买到，钱多就买华硕。\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606450",
+      "is_folded": false,
+      "answerer": {
+        "username": "心情不好",
+        "uid": "82447"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一个pixel 6就解决的事，何必折腾自己<br/>\n<br/>\n为什么凑二十字凑二十字凑二十字凑二十字\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 4,
+      "discussion_count": 8,
+      "discussions": [
+        {
+          "id": "1132417",
+          "replier": {
+            "username": "奥威尔1984",
+            "uid": "22793"
+          },
+          "date": "2022-12-05",
+          "content": "关键现在闲鱼各种电商平台开始禁pixel了"
+        },
+        {
+          "id": "1132419",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-05",
+          "content": "@奥威尔1984: 那是假消息，网上随便买"
+        },
+        {
+          "id": "1132421",
+          "replier": {
+            "username": "奥威尔1984",
+            "uid": "22793"
+          },
+          "date": "2022-12-05",
+          "content": "@心情不好:但愿如此，但是不能排除那天真的开始禁了"
+        },
+        {
+          "id": "1132424",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-05",
+          "content": "已删除"
+        },
+        {
+          "id": "1132425",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-05",
+          "content": "@奥威尔1984:所以赶紧买，我就最近买了一个"
+        },
+        {
+          "id": "1132430",
+          "replier": {
+            "username": "奥威尔1984",
+            "uid": "22793"
+          },
+          "date": "2022-12-05",
+          "content": "@心情不好:很棒你是个行动派"
+        },
+        {
+          "id": "1132439",
+          "replier": {
+            "username": "Xenitar",
+            "uid": "87302"
+          },
+          "date": "2022-12-05",
+          "content": "pixel6现在还有全新的吗？"
+        },
+        {
+          "id": "1132440",
+          "replier": {
+            "username": "心情不好",
+            "uid": "82447"
+          },
+          "date": "2022-12-05",
+          "content": "@Xenitar: 全新的也有，但一般都是买二手。想买全新就买今年出的6A，亚马逊直邮也行，淘宝上买也行，都是全新未拆封，2500左右"
+        }
+      ]
+    },
+    {
+      "id": "606459",
+      "is_folded": false,
+      "answerer": {
+        "username": "天下无贼",
+        "uid": "19319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t绝大部分不行了，哥们儿，你对国产手机的认知还停留在十几年前。<br/>\n<br/>\n现在别说什么破解了，绝大部分厂商都不提供Bootloader解锁了，根本不可能线刷系统，造成现在这种情况的原因其实是国内手机软件内卷造成的。<br/>\n以前会人刷系统的主要目的不是为了要个干净的系统，是因为当时MIUI一枝独秀，而其他厂商的系统特别烂，所以大家都想刷个MIUI，或者刷个干净没广告的系统。现在几大厂商互相学习，功能都差不多，也都有广告，想去也去不掉（APP的可以通过一些软件搞定，系统内置的那些一般没办法），之前大家想root之后加上的功能，大部分厂商已经都加上了，所以连root需求都很少了，更不要说刷系统了。\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606488",
+      "is_folded": false,
+      "answerer": {
+        "username": "Brooks",
+        "uid": "104652"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不建议用国内全部机子，很多都已经在源头（硬件）层面就给你限制刷机了，反正这两年的机子我发现还能ROOT的极少了，更不提还有这种需求的人越来越少，网上能参考的教程也很少，万一刷坏了得不偿失，真要买就去买水货机是最优解决方案，不过很多地方都是建议不要用手机作为主力浏览内容的工具，毕竟墙内很多APP各种权限要的太多，真要找你估计很可能就是墙内某些APP把你卖了，所以有条件真建议还是电脑为主好些\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606477",
+      "is_folded": false,
+      "answerer": {
+        "username": "一個東方人",
+        "uid": "95125"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t不能，大部分新机型都锁BL，而且很难找到支持的ROM。支产手机很多都有硬件级后门，刷了新系统也没什么用。\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610361",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我之前机锋论坛被封了 估计就是刷rom太火了。<br/>\n完了有一个软件 名字不记得了 可以智能刷机 这个软件还在吗？<br/>\n<br/>\n咸鱼买水货不好吗？\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606544",
+      "is_folded": false,
+      "answerer": {
+        "username": "unname",
+        "uid": "76384"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t刷机就算了吧,20年以后的手机应该都刷不了了<br/>\n现在最好的选择应该是谷歌的手机\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606456",
+      "is_folded": false,
+      "answerer": {
+        "username": "sisisiye",
+        "uid": "87699"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小米可以吧，但是操作也比较麻烦，要满足一定使用时间，然后还要解bl锁，还要那个手机有原生包才行，其他手机就不知道了\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 1,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1132437",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2022-12-05",
+          "content": "_ _ 小米確實很費勁, 當初解個 Bootloader 竟然每月還是每周有限額, 直接把我惡心退了. 再有小米找上門來我也回絕說幫不了, 不差一噸館子."
+        },
+        {
+          "id": "1132450",
+          "replier": {
+            "username": "隐匿之影",
+            "uid": "103339"
+          },
+          "date": "2022-12-05",
+          "content": "小米有破解版吗？"
+        }
+      ]
+    },
+    {
+      "id": "606458",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t安卓都有自己的bl系统，每家不一样，东西不能随便刷，除非有人去做适配，现在玩机的，国内最大的机锋都没了，目前只有xda可以玩了\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606504",
+      "is_folded": false,
+      "answerer": {
+        "username": "elemosyna11",
+        "uid": "33543"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t小米红米系列凡是高通处理器的都可以，只是要小米账号解锁等一周。\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606521",
+      "is_folded": false,
+      "answerer": {
+        "username": "wget",
+        "uid": "51008"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一加小米基本没什么限制, 刷lineageos跟玩一样, 华为之类的用<mark>支那</mark>自产处理器的就没戏了, 都没有人去做适配的, 做了也没高通三星处理器放心, 另外也受限于铺货区域, 大部分国产机都不是国外开发者能买到<br/>\n<br/>\n至于国内那些官改rom谁知道有没有能力把后门干掉/有没有加什么料, xda我都信不过, 只信的过lineageos的官方构建\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610357",
+      "is_folded": false,
+      "answerer": {
+        "username": "漢室不可興復",
+        "uid": "48003"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我手机好几部。中国的手机用中国的流氓软件，我随便用，黑皮也可以随便看，反正我不在乎。海外的手机上海外的网，黑皮不知道我用什么。<br/>\n<br/>\n另外，楼主既要购买国产手机品牌，又要方便使用中国流氓软件，还要手指轻轻一滑即可安全翻墙，这个要求不亚于习总书记的要求了。\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606475",
+      "is_folded": false,
+      "answerer": {
+        "username": "kxy",
+        "uid": "99835"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一加可以刷氧os吧，类似原生。<br/>\n<br/>\n其他几乎不行。<br/>\n<br/>\n想纯原生，要么三星刷海外，要么pixel吧\t\t</div>",
+      "date": "2022-12-05",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610386",
+      "is_folded": false,
+      "answerer": {
+        "username": "萨格尔王八",
+        "uid": "101035"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t纯抬杠的说，<br/>\n只要是中国产的芯片都有可能有别人不知道的后门。<br/>\n<br/>\n譬如很多年前的XBOX360的脉冲破解，很有可能就是故意留的后门。<br/>\n在启动时发送固定信号可以执行未被签名的程序。\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "610447",
+      "is_folded": false,
+      "answerer": {
+        "username": "lily654378",
+        "uid": "84569"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t要刷机首先要解BL锁，BL锁在厂家手上，同意解你才能刷机\t\t</div>",
+      "date": "2022-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "606445",
+      "is_folded": false,
+      "answerer": {
+        "username": "隐匿之影",
+        "uid": "103339"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以，但技术门槛对大多数人来说太高，我就尝试过刷vivo，最后还是放弃了。<br/>\n<br/>\n关键是把破解的成本降下来，否则对大多数人来说还是不可行。\t\t</div>",
+      "date": "2022-12-04",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1132413",
+          "replier": {
+            "username": "奥威尔1984",
+            "uid": "22793"
+          },
+          "date": "2022-12-04",
+          "content": "可以作为产业做嘛！对于想要翻墙的用户以后需求会很大"
+        },
+        {
+          "id": "1132415",
+          "replier": {
+            "username": "隐匿之影",
+            "uid": "103339"
+          },
+          "date": "2022-12-04",
+          "content": "@奥威尔1984:我曾经找手机维修店做root，但是他们不做，有固定的店面就有警察过来打招呼，所以root业务大部分在网上。"
+        },
+        {
+          "id": "1132416",
+          "replier": {
+            "username": "奥威尔1984",
+            "uid": "22793"
+          },
+          "date": "2022-12-05",
+          "content": "@隐匿之影:2014年左右我用的就是是安卓机，那个时候root刷机我都会，但是现在的国产机root很难了，也很难找到对应系统。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "parent_type": "question",
+  "parent_id": "58013",
+  "answer_count": 15,
+  "answers": [
+    {
+      "id": "652384",
+      "is_folded": false,
+      "answerer": {
+        "username": "SeeYardSmooth",
+        "uid": "111319"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以使用I2P等<b><u>去中心化</u></b>软件临时应急，来下载翻墙软件， 记得即使补种，以防连不上去。<br/>\n编程随想说过：<br/>\n<blockquote>为啥俺特别强调 I2P 捏？根据最近十年的经验，I2P 的坚挺程度始终令人放心。所以在封锁很严重的时期，手头备一个【可用的】I2P，可以用来【应急】。</blockquote><br/>\nI2P使用去中心化技术，较难被封锁。 其他去中心化软件也可以， 不过同样一定要注意补种和身份隐匿。<br/>\n与I2P同类型的软件还有：FreeNET、零网等。零网需要配备Tor来达到匿名性。<br/>\nI2P使用Java语言， 不放心可以使用C++的i2pd。<br/>\n量子计算的发展让楼主的说法变得可能， 使用Shor算法可以破解RSA, 椭圆曲线和基于质因数分解的算法。 GFW 在未来很有可能采用大规模量子计算机来破解现有的加密算法，届时有可能会重新采用内容算法来过滤。虽然学界已开始研究相应措施，但俺对这种情况不持乐观态度。<br/>\n一言以蔽之， 要减少对现有网络基础设施的依赖。<br/>\n如果互联网真的开始白名单， Briar等软件通过蓝牙技术组网或许可以成为不错的选择。\t\t</div>",
+      "date": "2023-05-03",
+      "agree_count": 7,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1174611",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2023-05-03",
+          "content": "你说的这个怎么配置？\nMacos也能用吗？有什么教学吗"
+        },
+        {
+          "id": "1174614",
+          "replier": {
+            "username": "SeeYardSmooth",
+            "uid": "111319"
+          },
+          "date": "2023-05-03",
+          "content": "@洼地先知: I2P的话去官网\nhttps://geti2p.net/zh/\n下载即可， 下载好以后运行打开控制台， 基本配置晚后点击设置， 点击补种标签叶，在补种设置选项卡中，将HTTPS代理主机填写为你使用的代理软件的主机， HTTPS代理端口选择你使用的代理软件的端口， 用已有的翻墙软件进行补种，速度比较慢但可以应急，出口代理可以在notbob.i2p上慢慢找， 默认的出口代理不能使用，推荐使用purokishi.i2p，具体的可以参照编程随想的博客\nhttps://program-think.blogspot.com/2012/06/gfw-i2p.html\n；I2PD需要手动编辑配置文件， 更改[reseed]下的proxy将其设置为代理服务器的地址，I2PD可以直接在github下载，可以在\nhttps://github.com/PurpleI2P/i2pd/releases\n下载， 下载软件不需要翻墙； FreeNET匿名性不是很好并且很占空间，可以提供分布式存储， 俺个人没怎么用过， 不过这些都可以在Google上查到；Briar是个手机应用，可以通过官网或Google Play下载，需要设置密码，官网地址是\nhttps://briarproject.org/\n；零网也是github的一个项目， 可以在\nhttps://github.com/HelloZeroNet/ZeroNet/releases\n下载，需要python环境， 也可以使用ZeroBundle，地址是\nhttps://github.com/HelloZeroNet/ZeroBundle\n。很多突破审查的软件都可以在prism-break.org下载， 不过那个网站被墙了。这里面绝大多数应用MacOS都可以用， 都是开源软件。网络上教程很多， 这里就不赘述了。"
+        },
+        {
+          "id": "1174744",
+          "replier": {
+            "username": "lily654378",
+            "uid": "84569"
+          },
+          "date": "2023-05-04",
+          "content": "几年前就知道I2P但是教程都没看懂，下载下来的打开都不会用"
+        }
+      ]
+    },
+    {
+      "id": "652323",
+      "is_folded": false,
+      "answerer": {
+        "username": "老腊肉",
+        "uid": "111282"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t风声越来越紧了，<br/>\n鬼子封锁越来越严了<br/>\n现在鬼子兵们每天把守着交通要道关口<br/>\n抽查路人手机，下载反诈APP<br/>\n<br/>\n遇到了绕着走<br/>\n<br/>\n切记\t\t</div>",
+      "date": "2023-05-02",
+      "agree_count": 11,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1174708",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-05-03",
+          "content": "哪里"
+        },
+        {
+          "id": "1174724",
+          "replier": {
+            "username": "老腊肉",
+            "uid": "111282"
+          },
+          "date": "2023-05-03",
+          "content": "@维尼熊吃包子:你想套我底细，然后抓人？"
+        },
+        {
+          "id": "1174728",
+          "replier": {
+            "username": "clevoT",
+            "uid": "51830"
+          },
+          "date": "2023-05-03",
+          "content": "@老腊肉:兄弟不必这么紧张，你说哪里不代表你是那里人，查手机这个爆料我也刚听过，但没有说在哪儿"
+        },
+        {
+          "id": "1175801",
+          "replier": {
+            "username": "维尼熊吃包子",
+            "uid": "96600"
+          },
+          "date": "2023-05-08",
+          "content": "@老腊肉:我没碰到过"
+        }
+      ]
+    },
+    {
+      "id": "652324",
+      "is_folded": false,
+      "answerer": {
+        "username": "小魔女",
+        "uid": "92406"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t常备海外漫游手机是最保险也是最贵的解决方案。\t\t</div>",
+      "date": "2023-05-02",
+      "agree_count": 6,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1176239",
+          "replier": {
+            "username": "约定的世界岛",
+            "uid": "2101"
+          },
+          "date": "2023-05-10",
+          "content": "更贵的是 Iridium GO 吧"
+        }
+      ]
+    },
+    {
+      "id": "652326",
+      "is_folded": false,
+      "answerer": {
+        "username": "长歌当哭",
+        "uid": "85967"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t一部手机插Sim卡 国产常用软件 打电话。<br/>\n另外一个不插卡 只用来冲浪翻墙<br/>\n<br/>\n遇到要检查给插卡机\t\t</div>",
+      "date": "2023-05-02",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652368",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 和你一樣的, 會看下暗網還能工作不. 共匪早晚會局部乃至大範圍斷網, 例如伊朗、普俄和北朝鮮與緬甸信息透出率不都是極低的嘛.\t\t</div>",
+      "date": "2023-05-03",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652388",
+      "is_folded": false,
+      "answerer": {
+        "username": "有一说一",
+        "uid": "77887"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t没有吧，我这付费的还是正常使用，1年才199<br/>\n<br/>\n字数限制字数限制\t\t</div>",
+      "date": "2023-05-03",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1174610",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2023-05-03",
+          "content": "本人用的刚恢复"
+        }
+      ]
+    },
+    {
+      "id": "652375",
+      "is_folded": false,
+      "answerer": {
+        "username": "水浅茶清",
+        "uid": "2333"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自己买个vps服务器，一年几百块钱，去github上找个一键脚本，5分钟装一台翻墙服务器。\t\t</div>",
+      "date": "2023-05-03",
+      "agree_count": 2,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1176355",
+          "replier": {
+            "username": "极权之下无产权",
+            "uid": "19340"
+          },
+          "date": "2023-05-11",
+          "content": "这样和使用软件的罪名不一样了，属于非法搭建xxx"
+        }
+      ]
+    },
+    {
+      "id": "653589",
+      "is_folded": false,
+      "answerer": {
+        "username": "忧乐为天下",
+        "uid": "23699"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://github.com/Alvin9999/new-pac/wiki?9<br/>\n<br/>\n电脑用这个，手机我用的是迷雾通。\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652511",
+      "is_folded": false,
+      "answerer": {
+        "username": "王德成",
+        "uid": "20643"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t马上买张高铁票到香港西九龙阿。<br/>\n我回墙内都是只住在珠三角，<br/>\n因为工作的事情离不开外网<br/>\n一旦梯子全部失效，<br/>\n最后的预案就是肉身奔港澳。\t\t</div>",
+      "date": "2023-05-04",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1176357",
+          "replier": {
+            "username": "极权之下无产权",
+            "uid": "19340"
+          },
+          "date": "2023-05-11",
+          "content": "你这思路独树一帜啊"
+        }
+      ]
+    },
+    {
+      "id": "652386",
+      "is_folded": false,
+      "answerer": {
+        "username": "lily654378",
+        "uid": "84569"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t彻底断网就是饮鸠止渴，中共自己就得死，唉，又是字数限制\t\t</div>",
+      "date": "2023-05-03",
+      "agree_count": 2,
+      "discussion_count": 2,
+      "discussions": [
+        {
+          "id": "1174604",
+          "replier": {
+            "username": "司马脱",
+            "uid": "76468"
+          },
+          "date": "2023-05-03",
+          "content": "对普通人来说看情况到哪一步，就看看什么时候物理断网，原来能上的一般性海外网站上不了说明接近翻脸了。目前尚可"
+        },
+        {
+          "id": "1176398",
+          "replier": {
+            "username": "pctrk7915",
+            "uid": "75018"
+          },
+          "date": "2023-05-11",
+          "content": "错误，王岐山说过，老百姓吃草3年没问题！！"
+        }
+      ]
+    },
+    {
+      "id": "653585",
+      "is_folded": false,
+      "answerer": {
+        "username": "baozi3311",
+        "uid": "99088"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t找个卖服务器的，随便买一个境外的，香港，日本，泰国，越南，新加坡，这些地方的服务器都可以 买个linux的服务器 然后docker一键搭建，简单的不能再简单了，就是稍微贵一点\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "653586",
+      "is_folded": false,
+      "answerer": {
+        "username": "第三帝国主席",
+        "uid": "90772"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t能说一下tor怎么用桥吗？我去tor上面官方网站getbridge的桥用不了。。。。\t\t</div>",
+      "date": "2023-05-08",
+      "agree_count": 0,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1175804",
+          "replier": {
+            "username": "客观评价习近平",
+            "uid": "84033"
+          },
+          "date": "2023-05-08",
+          "content": "联通的线路，内置的snowflake网桥就可以出墙，雪花网桥的抗封锁能力强于obfs4。电信也能用，只是体验会差点"
+        },
+        {
+          "id": "1176230",
+          "replier": {
+            "username": "第三帝国主席",
+            "uid": "90772"
+          },
+          "date": "2023-05-10",
+          "content": "@客观评价习近平:谢谢"
+        },
+        {
+          "id": "1176356",
+          "replier": {
+            "username": "极权之下无产权",
+            "uid": "19340"
+          },
+          "date": "2023-05-11",
+          "content": "tor什么都不做直接用，和用桥的区别在于？"
+        }
+      ]
+    },
+    {
+      "id": "654272",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t朕昨天去了深圳，出入境需要掃健康碼，孤說沒有手機，被盜了，也沒怎麼樣，照樣給我過境<br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9PdnlxbWcwLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/Ovyqmg0.jpg\"><img alt=\"https://i.imgur.com/Ovyqmg0.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/Ovyqmg0.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9laUw3UUg2LmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/eiL7QH6.jpg\"><img alt=\"https://i.imgur.com/eiL7QH6.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/eiL7QH6.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9ZWVJnY1ZrLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/YYRgcVk.jpg\"><img alt=\"https://i.imgur.com/YYRgcVk.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/YYRgcVk.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9pdU45SkdoLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/iuN9JGh.jpg\"><img alt=\"https://i.imgur.com/iuN9JGh.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/iuN9JGh.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9JTlJFd3NlLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/INREwse.jpg\"><img alt=\"https://i.imgur.com/INREwse.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/INREwse.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9DVXppTnFmLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/CUziNqf.jpg\"><img alt=\"https://i.imgur.com/CUziNqf.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/CUziNqf.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9tYkloTVVOLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/mbIhMUN.jpg\"><img alt=\"https://i.imgur.com/mbIhMUN.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/mbIhMUN.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS81d01JOW1ILmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/5wMI9mH.jpg\"><img alt=\"https://i.imgur.com/5wMI9mH.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/5wMI9mH.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9oeWtuanI2LmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/hyknjr6.jpg\"><img alt=\"https://i.imgur.com/hyknjr6.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/hyknjr6.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9iamJ1QmVxLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/bjbuBeq.jpg\"><img alt=\"https://i.imgur.com/bjbuBeq.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/bjbuBeq.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9rZlprRnFlLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/kfZkFqe.jpg\"><img alt=\"https://i.imgur.com/kfZkFqe.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/kfZkFqe.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9FMncwZHpOLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/E2w0dzN.jpg\"><img alt=\"https://i.imgur.com/E2w0dzN.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/E2w0dzN.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9IQjRwYUh2LmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/HB4paHv.jpg\"><img alt=\"https://i.imgur.com/HB4paHv.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/HB4paHv.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9mczdQWWdpLmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/fs7PYgi.jpg\"><img alt=\"https://i.imgur.com/fs7PYgi.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/fs7PYgi.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9JemhQaG1ELmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/IzhPhmD.jpg\"><img alt=\"https://i.imgur.com/IzhPhmD.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/IzhPhmD.jpg\" style=\"max-width:100%\"/></a><br/>\n<br/>\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9va0hnR1g5LmpwZw\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://i.imgur.com/okHgGX9.jpg\"><img alt=\"https://i.imgur.com/okHgGX9.jpg\" loading=\"lazy\" src=\"https://i.imgur.com/okHgGX9.jpg\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-05-11",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "652500",
+      "is_folded": false,
+      "answerer": {
+        "username": "MickyMouse",
+        "uid": "96165"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t用外国的电话卡漫游可以吗<br/>\n我记得可以的<br/>\n字数\t\t</div>",
+      "date": "2023-05-03",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1174729",
+          "replier": {
+            "username": "clevoT",
+            "uid": "51830"
+          },
+          "date": "2023-05-03",
+          "content": "但是漫游费用很贵的啊，那时候wifi calling也肯定给你断了"
+        }
+      ]
+    },
+    {
+      "id": "652516",
+      "is_folded": false,
+      "answerer": {
+        "username": "shellcat",
+        "uid": "78316"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t自建节点即可<br/>\n实在不行多买几个iepl机场<br/>\niepl一般都是企业专线，很多外企在用，短时间不会被禁\t\t</div>",
+      "date": "2023-05-04",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

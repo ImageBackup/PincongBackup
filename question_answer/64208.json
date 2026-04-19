@@ -1,0 +1,79 @@
+{
+  "parent_type": "question",
+  "parent_id": "64208",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "715520",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你如果人在国内就不要去做。油管会卖你个人信息给大陆的。<br/>\n<br/>\n我怀疑油管内部有大陆间谍。\t\t</div>",
+      "date": "2023-12-26",
+      "agree_count": 4,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "715515",
+      "is_folded": false,
+      "answerer": {
+        "username": "凯末尔",
+        "uid": "90881"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果没有特别密料我不推荐你去做听床节目，听床节目已经有很多了不差你一个。\t\t</div>",
+      "date": "2023-12-26",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1234485",
+          "replier": {
+            "username": "幸福中国",
+            "uid": "107007"
+          },
+          "date": "2023-12-26",
+          "content": "我不仅会听床，还会制作辱包视频"
+        }
+      ]
+    },
+    {
+      "id": "715524",
+      "is_folded": false,
+      "answerer": {
+        "username": "孤烟墓蝉",
+        "uid": "116913"
+      },
+      "contents": "<div class=\"markitup-box\">\n<a class=\"placeholder\" href=\"url/img/aHR0cHM6Ly90ZWxlZ3JhLnBoL2ZpbGUvZDAwYTJkZjg5YmRiZWU5NzJlN2RlLnBuZz93aWR0aD00MzImaGVpZ2h0PTc4OA\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://telegra.ph/file/d00a2df89bdbee972e7de.png?width=432&amp;height=788\"><img alt=\"https://telegra.ph/file/d00a2df89bdbee972e7de.png?width=432&amp;height=788\" loading=\"lazy\" src=\"https://telegra.ph/file/d00a2df89bdbee972e7de.png?width=432&amp;height=788\" style=\"max-width:100%\"/></a> </div>",
+      "date": "2023-12-26",
+      "agree_count": 3,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1234491",
+          "replier": {
+            "username": "四邑漁農牧工商總會",
+            "uid": "7113"
+          },
+          "date": "2023-12-26",
+          "content": "電腦翻牆基本上是很安全的，清除exif直接用gimp打開，copy / copy visible再paste然後export as .jpg就行"
+        }
+      ]
+    },
+    {
+      "id": "715522",
+      "is_folded": false,
+      "answerer": {
+        "username": "四邑漁農牧工商總會",
+        "uid": "7113"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t申請google id不需要電話號碼和email<br/>\n<br/>\n但如果你用vpn，同一 ip 太多人申請賬號，估計要電話號碼驗證。我都差不多10個google id\t\t</div>",
+      "date": "2023-12-26",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

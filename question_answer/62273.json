@@ -1,0 +1,48 @@
+{
+  "parent_type": "question",
+  "parent_id": "62273",
+  "answer_count": 1,
+  "answers": [
+    {
+      "id": "694420",
+      "is_folded": false,
+      "answerer": {
+        "username": "crisv",
+        "uid": "111942"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t台灣產粉紅也很多喔<br/>\n不是只有進口的<br/>\n<br/>\n本地產粉紅更糟喔~\t\t</div>",
+      "date": "2023-10-05",
+      "agree_count": 3,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1213797",
+          "replier": {
+            "username": "DKChan無言101",
+            "uid": "112024"
+          },
+          "date": "2023-10-05",
+          "content": "原來那些人說小粉紅.....我還以為他們是韓粉......"
+        },
+        {
+          "id": "1213999",
+          "replier": {
+            "username": "crisv",
+            "uid": "111942"
+          },
+          "date": "2023-10-05",
+          "content": "要叫它們韓粉也可以, 這些東西比洽那的粉紅更糟糕, 簡直非人"
+        },
+        {
+          "id": "1214008",
+          "replier": {
+            "username": "yuta08",
+            "uid": "47016"
+          },
+          "date": "2023-10-05",
+          "content": "這些台產粉紅，在各大論壇、評論區非常多，雅虎新聞、Mobile01政治版、PTT一堆"
+        }
+      ]
+    }
+  ]
+}

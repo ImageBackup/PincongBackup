@@ -1,0 +1,43 @@
+{
+  "question_id": "63553",
+  "category_id": "6",
+  "title": "请问一个问题，怎么使用微软那个魔性女声呢，我想把文字转音频？",
+  "meta_description": "请问一个问题，怎么使用微软那个魔性女声呢，我想把文字转音频？ - 请问收费吗，我以前研究过，好像要收费，并且挺高的，有没有免费版本的呢？",
+  "meta_keywords": "请问,一个,问题,使用,微软,魔性,女声,想把,文字,音频",
+  "tags": [
+    {
+      "id": "106938",
+      "name": "微软AI语音"
+    }
+  ],
+  "author": {
+    "username": "白衣黑旗除共军",
+    "uid": "103874"
+  },
+  "view_count": 1330,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t请问收费吗，我以前研究过，好像要收费，并且挺高的，有没有免费版本的呢？\t\t\t\t\t\t\t</div>",
+  "date": "2023-11-26",
+  "agree_count": 1,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1051000",
+      "replier": {
+        "username": "斩首习近平",
+        "uid": "52179"
+      },
+      "date": "2023-11-26",
+      "content": "找到了@我，我也想用"
+    },
+    {
+      "id": "1051008",
+      "replier": {
+        "username": "吃包子的小學生",
+        "uid": "90380"
+      },
+      "date": "2023-11-26",
+      "content": "Microsoft text to speech的AI，每月5小時內容免費好像是"
+    }
+  ],
+  "answer_count": 0
+}

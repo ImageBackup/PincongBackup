@@ -1,0 +1,24 @@
+{
+  "question_id": "63476",
+  "category_id": "4",
+  "title": "这几种新的翻墙协议各有什么优点和差别？",
+  "meta_description": "这几种新的翻墙协议各有什么优点和差别？ - Reality不用域名，也就是不用CDN，直接连IP总感觉不是很可靠，一封IP就完蛋。而且确实经常听到被封。  Trojan据说原来并非用来翻墙的，所以是不是并不那么完善？  Naiveproxy好像安全验证有些问题，谷歌人机验证界面刷不出来，谷歌翻译也用...",
+  "meta_keywords": "几种,翻墙,协议,优点,差别",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    }
+  ],
+  "author": {
+    "username": "中華聯邦共和國",
+    "uid": "20514"
+  },
+  "view_count": 15490,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tReality不用域名，也就是不用CDN，直接连IP总感觉不是很可靠，一封IP就完蛋。而且确实经常听到被封。<br/>\n<br/>\nTrojan据说原来并非用来翻墙的，所以是不是并不那么完善？<br/>\n<br/>\nNaiveproxy好像安全验证有些问题，谷歌人机验证界面刷不出来，谷歌翻译也用不了。<br/>\n<br/>\nHysteria2感觉是最快的翻墙，但不知道安全性怎样。\t\t\t\t\t\t\t</div>",
+  "date": "2023-11-22",
+  "agree_count": 1,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 5
+}

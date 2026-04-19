@@ -1,0 +1,51 @@
+{
+  "question_id": "68072",
+  "category_id": "1",
+  "title": "迷雾通 电脑版 还能用吗？",
+  "meta_description": "迷雾通 电脑版 还能用吗？ - OS 是 Linux/Ubuntu, 用 flatpak 运行的，最近都连不上，有同款吗？  Error Msg: Transport level errors,：error communicating with melnode. 然后 Google 了一...",
+  "meta_keywords": "迷雾,电脑,能用",
+  "tags": [
+    {
+      "id": "112",
+      "name": "翻墙"
+    },
+    {
+      "id": "1117",
+      "name": "GFW"
+    },
+    {
+      "id": "6220",
+      "name": "迷雾通"
+    }
+  ],
+  "author": {
+    "username": "hkfool",
+    "uid": "25982"
+  },
+  "view_count": 2329,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\tOS 是 Linux/Ubuntu, 用 flatpak 运行的，最近都连不上，有同款吗？<br/>\n<br/>\nError Msg: Transport level errors,：error communicating with melnode.<br/>\n然后 Google 了一下了找 不到什么有用信息。\t\t\t\t\t\t\t</div>",
+  "date": "2024-06-22",
+  "agree_count": 0,
+  "discussion_count": 2,
+  "discussions": [
+    {
+      "id": "1061902",
+      "replier": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "date": "2024-06-22",
+      "content": "我一直用迷雾通啊\n虽然翻墙能力我没法测试（肉身不在中国）\n但是用来看geo-restricted内容还是能行的"
+    },
+    {
+      "id": "1061909",
+      "replier": {
+        "username": "hkfool",
+        "uid": "25982"
+      },
+      "date": "2024-06-22",
+      "content": "@rowlandheights:  我也用了很久，甚至把 迷雾通 给欧洲人 安装过，但是这一次似乎 我的电脑被完全断了。"
+    }
+  ],
+  "answer_count": 3
+}

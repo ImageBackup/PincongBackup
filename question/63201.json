@@ -1,0 +1,61 @@
+{
+  "question_id": "63201",
+  "category_id": "4",
+  "title": "是不是牆內 +86 收不到境外驗證碼？例如telegram？",
+  "meta_description": "是不是牆內 +86 收不到境外驗證碼？例如telegram？ - 我試了下，好像收不到telegram的驗證碼，是不是把境外的短信block了",
+  "meta_keywords": "是不是,牆內,+86,不到,境外,驗證,telegram",
+  "tags": [
+    {
+      "id": "3513",
+      "name": "telegram"
+    }
+  ],
+  "author": {
+    "username": "四邑漁農牧工商總會",
+    "uid": "7113"
+  },
+  "view_count": 13572,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t我試了下，好像收不到telegram的驗證碼，是不是把境外的短信block了\t\t\t\t\t\t\t</div>",
+  "date": "2023-11-10",
+  "agree_count": 1,
+  "discussion_count": 4,
+  "discussions": [
+    {
+      "id": "1050213",
+      "replier": {
+        "username": "叼大大",
+        "uid": "29277"
+      },
+      "date": "2023-11-10",
+      "content": "有些人能收到，有些人不能"
+    },
+    {
+      "id": "1050216",
+      "replier": {
+        "username": "我是大臭B",
+        "uid": "12493"
+      },
+      "date": "2023-11-10",
+      "content": "有些能收到，有些不可以。"
+    },
+    {
+      "id": "1050217",
+      "replier": {
+        "username": "我佛山人",
+        "uid": "111091"
+      },
+      "date": "2023-11-10",
+      "content": "电报我劝你多用"
+    },
+    {
+      "id": "1050220",
+      "replier": {
+        "username": "shitsocialism",
+        "uid": "74157"
+      },
+      "date": "2023-11-10",
+      "content": "已删除"
+    }
+  ],
+  "answer_count": 6
+}

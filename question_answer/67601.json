@@ -1,0 +1,33 @@
+{
+  "parent_type": "question",
+  "parent_id": "67601",
+  "answer_count": 2,
+  "answers": [
+    {
+      "id": "750770",
+      "is_folded": false,
+      "answerer": {
+        "username": "平疫禁人忍民领袖",
+        "uid": "105080"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t墙内禁人，其乐无穷；墙外禁人，其乐无穷！<br/>\n字数字数字数\t\t</div>",
+      "date": "2024-05-29",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "750852",
+      "is_folded": true,
+      "answerer": {
+        "username": "李强强",
+        "uid": "129841"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-05-29",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

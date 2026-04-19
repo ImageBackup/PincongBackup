@@ -1,0 +1,46 @@
+{
+  "question_id": "42055",
+  "category_id": "8",
+  "title": "請問新品蔥有沒有 .onion 地址？如果沒有, 站長是否考慮加一個？",
+  "meta_description": "請問新品蔥有沒有 .onion 地址？如果沒有, 站長是否考慮加一個？ - [url=https://tb-manual.torproject.org/onion-services/]洋蔥瀏覽器官方網站[/url]提及的好處：  [quote]Onion services offer several advantages over...",
+  "meta_keywords": "請問,新品,.onion,地址,站長,是否,考慮,一個",
+  "tags": [
+    {
+      "id": "473",
+      "name": "暗网"
+    },
+    {
+      "id": "1174",
+      "name": "Tor"
+    },
+    {
+      "id": "1216",
+      "name": "洋蔥"
+    },
+    {
+      "id": "1993",
+      "name": "匿名"
+    }
+  ],
+  "author": {
+    "username": "eck9zp",
+    "uid": "73426"
+  },
+  "view_count": 1973,
+  "contents": "<div class=\"content markitup-box\">\n<a href=\"url/link/aHR0cHM6Ly90Yi1tYW51YWwudG9ycHJvamVjdC5vcmcvb25pb24tc2VydmljZXMv\" rel=\"nofollow noreferrer noopener\" target=\"_blank\" title=\"https://tb-manual.torproject.org/onion-services/\">洋蔥瀏覽器官方網站</a>提及的好處：<br/>\n<br/>\n<blockquote>Onion services offer several advantages over ordinary services on the non-private web:<br/>\n<br/>\n    Onion services’ location and IP address are hidden, making it difficult for adversaries to censor them or identify their operators.<br/>\n    All traffic between Tor users and onion services is end-to-end encrypted, so you do not need to worry about connecting over HTTPS.<br/>\n    The address of an onion service is automatically generated, so the operators do not need to purchase a domain name; the .onion URL also helps Tor ensure that it is connecting to the right location and that the connection is not being tampered with.</blockquote><br/>\n<br/>\n翻譯：<br/>\n<br/>\n<blockquote>与非私有网络上的普通服务相比，洋葱服务具有以下几个优势：<br/>\n<br/>\n    洋葱服务的位置和 IP 地址是隐藏的，使攻击者难以审查它们或识别其运营商。<br/>\n    Tor 用户和洋葱服务之间的所有流量都是端到端加密的，因此您无需担心通过 HTTPS 进行连接。<br/>\n    洋葱服务地址自动生成，运营商无需购买域名； .onion URL 还帮助 Tor 确保它连接到正确的位置并且连接没有被篡改。</blockquote><br/>\n<br/>\n還有就是因爲不用傳統的 DNS, 應該不必經過 cloudflare, 不必做噁心的 hcaptcha 了，讓巴士飛機卡車消防栓見鬼去吧。<br/>\n<br/>\n謝謝。\t\t\t\t\t\t\t</div>",
+  "date": "2021-09-24",
+  "agree_count": 4,
+  "discussion_count": 1,
+  "discussions": [
+    {
+      "id": "1003914",
+      "replier": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "date": "2021-11-22",
+      "content": "也希望有一個 i2pd 的入口"
+    }
+  ],
+  "answer_count": 1
+}

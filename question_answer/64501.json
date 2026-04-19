@@ -1,0 +1,398 @@
+{
+  "parent_type": "question",
+  "parent_id": "64501",
+  "answer_count": 27,
+  "answers": [
+    {
+      "id": "718751",
+      "is_folded": false,
+      "answerer": {
+        "username": "workingpaper",
+        "uid": "21337"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t最近几年，AMD的CPU并不差，可以跟Intel形成有力竞争，在服务器市场以及专业工作站市场已经领先了Intel一大截，市占率更是节节攀升。<br/>\n<br/>\n而且，AMD不像Intel那样玩大小核，用起来稳定很多。Intel的大小核在Windows 10翻过车，在Linux简直是频繁翻车，性能调度总是出包，Linux社区早就骂翻天了。越新的Linux内核越好，大小核调度相关的优化代码不断升级，但各大发行版未必能第一时间就能升级到最新内核，所以选了旧版Linux LTS仍然有可能翻车。<br/>\n<br/>\n即使是玩游戏，AMD最高端CPU也能和Intel最高端CPU打成平手，但AMD机器的机箱风扇明显平静得多。<br/>\n<br/>\n<br/>\n显卡的话，AMD越来越力不从心了。在“同时期”的尺度下，最高端的AMD显卡比不过NV最高端显卡。最近5年尤甚，NV最高端狂甩AMD最高端显卡几条街。\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 12,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718636",
+      "is_folded": false,
+      "answerer": {
+        "username": "nyny",
+        "uid": "115318"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tGPU不至於嘲笑，但確實不如NV<br/>\n其主要問題你也說了，驅動更新太慢追不上新遊戲bug又多。<br/>\n<br/>\nCPU方面AMD和intel差不多，特別在第五代Ryzen後已經足夠穩定遊戲性能良好，價低者得吧。<br/>\n<br/>\nAMD大部分時間只能降價應戰NV intel，如果價格足夠低值得買，又對自己電腦排錯和動手能力有信心可以使用，但不會向不太懂電腦硬件的人推薦。\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 8,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718662",
+      "is_folded": false,
+      "answerer": {
+        "username": "Xenitar",
+        "uid": "87302"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只说笔记本，AMD去年靠着7840hs在轻薄本领域吊打英特尔，b站中正评测直接pass掉全部英特尔平台的轻薄本，英特尔的标压u在核显、续航、频率全方位落败，Ultra隔代u都只能说和7840hs打得有来有回，但整体落败，即使对adobe有显卡加速和特殊优化，但英特尔核显羸弱的性能，这种优势聊胜于无<br/>\n<br/>\n当然AMD的翻身主要还是靠台积电的先进制程，虽然说只是跟在苹果的后面吃点残羹冷炙\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 10,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718650",
+      "is_folded": false,
+      "answerer": {
+        "username": "elsaanna",
+        "uid": "24409"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t市值不会骗人，毕竟是投资者用真金白银投的票<br/>\nNvidia市值&gt;AMD&gt;Intel<br/>\n结论已经很明显了。\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 7,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718641",
+      "is_folded": false,
+      "answerer": {
+        "username": "观云先生",
+        "uid": "73140"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAMD的CPU曾在奔腾4时代超越过一次Intel，然后在近些年凭借Ryzen系列力压Intel，目前二者可以说是各有千秋吧。<br/>\n<br/>\n不过GPU上，AMD的确一直相对落后，但便宜。\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718632",
+      "is_folded": false,
+      "answerer": {
+        "username": "丽可酱",
+        "uid": "119273"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你猜Wintel咋来的，我自己用的就是AU，总是会有点莫名其妙小毛病，尤其是跟win的适配上，听人家说intel就好很多<br/>\n<br/>\n但是玩游戏买AU问题不大，intel这几年搞大小核，AMD全大核不香吗\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1237822",
+          "replier": {
+            "username": "wget",
+            "uid": "51008"
+          },
+          "date": "2024-01-10",
+          "content": "认真的? xbox除了第一代以外哪一代没有a家的cpu/显卡"
+        }
+      ]
+    },
+    {
+      "id": "718633",
+      "is_folded": false,
+      "answerer": {
+        "username": "白衣黑旗除共军",
+        "uid": "103874"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我这么给你说吧，小时候我第一二台电脑都是ATI+AMD，后来换到奔腾加英伟达，我才知道电脑原来可以如此流畅，从这之后再让我用A MD产品，我用你妈呢，穷逼事逼才用AMD。<br/>\n<br/>\n类似的可以比喻为用了十多年联想华为产品，有一天无意中用了其他品牌的，我才知道手机是可以不卡顿的。<br/>\n<br/>\n现在我都是买省心的产品，而不是买这些破烂。<br/>\n<br/>\n我又想起我的第一辆大众了，买尼玛的大众破烂呢。\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 5,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1237713",
+          "replier": {
+            "username": "asukapincong",
+            "uid": "47154"
+          },
+          "date": "2024-01-10",
+          "content": "机械硬盘时代,AMD的磁盘性能(芯片组nvidia,ati,via)落后于intel(芯片组intel,nvidia,ati),成为最短的一片木板严重拖累整机性能;再就是amd对内存检测宽松,没有intel严格(问题内存自检都无法通过),内存引发的问题几率远大于intel平台,这是amd的销售策略还是什么考量就不得而知了.仅个人经验用amd平台有更大机会接触到因为内存或者驱动造成的运行一半后崩溃引发的问题;"
+        }
+      ]
+    },
+    {
+      "id": "718640",
+      "is_folded": false,
+      "answerer": {
+        "username": "fbihaya",
+        "uid": "1064"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tintel+nvdia的时候出现问题，那肯定是软件问题。amd+任意品牌显卡的时候出现问题，垃圾amd。用intel+a卡的时候出现问题，垃圾amd。上述就是很多半桶水的真实心里写照。就我个人而言，用了10多年amdCPu+a卡，没遇到过什么离谱的问题，除了cude性能等于没有，ai和模拟器基本不能用。下张卡没办法只能选n卡了.\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 5,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718666",
+      "is_folded": false,
+      "answerer": {
+        "username": "weibao",
+        "uid": "41372"
+      },
+      "contents": "<div class=\"markitup-box aw-briefly\">\n\t\t\t比较关心集成图形性能的ｃｐｕ在ｅｎｃｏｄｉｎｇ方面的表现，<br/>\n<br/>\nａｍ４接口时代，ａｍｄ家的ａｐｕ，ｖａｉｎｆｏ都是下面这样，<br/>\n<br/>\n<blockquote># vainfo --display drm --device /dev/dri/renderD128<br/>\nlibva info: VA-API version 1.8.0<br/>\nlibva info: Trying to open /usr/lib64/dri/radeonsi_drv_video.so<br/>\nlibva info: Found init function __vaDriverInit_1_8<br/>\nlibva info: va_openDriver() returns 0<br/>\nvainfo: VA-API version: 1.8 (libva 2.8.0.pre0)<br/>\nvainfo: Driver version: Mesa Gallium driver 21.2.4 for AMD RENOIR (DRM 3.40.0, 5.10.74-generic-2rosa2021.1-x86_64, LLVM 12.0.1)<br/>\nvainfo: Supported profile and entrypoints<br/>\n      VAProfileMPEG2Simple            : VAEntrypointVLD<br/>\n      VAProfileMPEG2Main              : VAEntrypointVLD<br/>\n      VAProfileVC1Simple              : VAEntrypointVLD<br/>\n      VAProfileVC1Main                : VAEntrypointVLD<br/>\n      VAProfileVC1Advanced            : VAEntrypointVLD<br/>\n      VAProfileH264ConstrainedBaseline: VAEntrypointVLD<br/>\n      VAProfileH264ConstrainedBaseline: VAEntrypointEncSlice<br/>\n      VAProfileH264Main              : VAEntrypointVLD<br/>\n      VAProfileH264Main              : VAEntrypointEncSlice<br/>\n      VAProfileH264High              : VAEntrypointVLD<br/>\n      VAProfileH264High              : VAEntrypointEncSlice<br/>\n      VAProfileHEVCMain              : VAEntrypointVLD<br/>\n      VAProfileHEVCMain              : VAEntrypointEncSlice<br/>\n      VAProfileHEVCMain10            : VAEntrypointVLD<br/>\n      VAProfileHEVCMain10            : VAEntrypointEncSlice<br/>\n      VAProfileJPEGBaseline          : VAEntrypointVLD<br/>\n      VAProfileVP9Profile0            : VAEntrypointVLD<br/>\n      VAProfileVP9Profile2            : VAEntrypointVLD<br/>\n      VAProfileNone                  : VAEntrypointVideoProc</blockquote><br/>\n<br/>\n而同时代ｉｎｔｅｌ家７代到１０代ｈｄ６３０对应的ｖａｉｎｆｏ是这样，<br/>\n<br/>\n<blockquote>vainfo: VA-API version: 1.4 (libva 2.4.0)<br/>\nvainfo: Driver version: Intel i965 driver for Intel(R) Coffee Lake - 2.3.0<br/>\nvainfo: Supported profile and entrypoints<br/>\n      VAProfileMPEG2Simple            : VAEntrypointVLD<br/>\n      VAProfileMPEG2Simple            : VAEntrypointEncSlice<br/>\n      VAProfileMPEG2Main              : VAEntrypointVLD<br/>\n      VAProfileMPEG2Main              : VAEntrypointEncSlice<br/>\n      VAProfileH264ConstrainedBaseline: VAEntrypointVLD<br/>\n      VAProfileH264ConstrainedBaseline: VAEntrypointEncSlice<br/>\n      VAProfileH264ConstrainedBaseline: VAEntrypointEncSliceLP<br/>\n      VAProfileH264Main              : VAEntrypointVLD<br/>\n      VAProfileH264Main              : VAEntrypointEncSlice<br/>\n      VAProfileH264Main              : VAEntrypointEncSliceLP<br/>\n      VAProfileH264High              : VAEntrypointVLD<br/>\n      VAProfileH264High              : VAEntrypointEncSlice<br/>\n      VAProfileH264High              : VAEntrypointEncSliceLP<br/>\n<b>      VAProfileH264MultiviewHigh      : VAEntrypointVLD</b><br/>\n<b>      VAProfileH264MultiviewHigh      : VAEntrypointEncSlice</b><br/>\n<b>      VAProfileH264StereoHigh        : VAEntrypointVLD</b><br/>\n<b>      VAProfileH264StereoHigh        : VAEntrypointEncSlice</b><br/>\n      VAProfileVC1Simple              : VAEntrypointVLD<br/>\n      VAProfileVC1Main                : VAEntrypointVLD<br/>\n      VAProfileVC1Advanced            : VAEntrypointVLD<br/>\n      VAProfileNone                  : VAEntrypointVideoProc<br/>\n      VAProfileJPEGBaseline          : VAEntrypointVLD<br/>\n      VAProfileJPEGBaseline          : VAEntrypointEncPicture<br/>\n      VAProfileVP8Version0_3          : VAEntrypointVLD<br/>\n      VAProfileVP8Version0_3          : VAEntrypointEncSlice<br/>\n      VAProfileHEVCMain              : VAEntrypointVLD<br/>\n      VAProfileHEVCMain              : VAEntrypointEncSlice<br/>\n      VAProfileHEVCMain10            : VAEntrypointVLD<br/>\n    <b>  VAProfileHEVCMain10            : VAEntrypointEncSlice</b><br/>\n      VAProfileVP9Profile0            : VAEntrypointVLD<br/>\n <b>     VAProfileVP9Profile0            : VAEntrypointEncSlice</b><br/>\n      VAProfileVP9Profile2            : VAEntrypointVLD</blockquote><br/>\n<br/>\n明显ｉｎｔｅｌ硬件编码方面更用心，ｊｅｌｌｙｆｉｎ的推荐也证明了这一点，<br/>\n<br/>\nhttps://jellyfin.org/docs/general/administration/hardware-selection#graphics-cards-gpus<br/>\n<br/>\n<blockquote>Graphics Cards (GPUs)<br/>\n<br/>\nWith modern systems, the media engines are usually located on the GPUs. Therefore, the available hardware acceleration options are determined by the choice of GPU.<br/>\n<br/>\n<b>Encoder Quality: Intel &gt; Nvidia &gt; AMD &gt; Apple</b><br/>\n<br/>\n<b>Intel graphics is recommended over Nvidia graphics because of the quality. AMD or Apple Silicon are not recommended since they produce poor quality H.264 and H.265(HEVC) output.</b></blockquote> <div class=\"aw-stretch-content-button-container\"><button class=\"aw-stretch-content-button\" type=\"button\"></button></div></div>",
+      "date": "2024-01-08",
+      "agree_count": 4,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1237396",
+          "replier": {
+            "username": "观云先生",
+            "uid": "73140"
+          },
+          "date": "2024-01-08",
+          "content": "Intel的集显在视频编解码方面的确是目前最好的"
+        }
+      ]
+    },
+    {
+      "id": "718784",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t既然是玩游戏为主，显卡当然应该选英伟达，CPU倒是无所谓，Intel和AMD都可以。\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719163",
+      "is_folded": false,
+      "answerer": {
+        "username": "客观评价习近平",
+        "uid": "84033"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tCPU选用3D V-Cache(垂直缓存)技术的X3D处理器<br/>\n例如7800X3D<br/>\n移动端有锐龙9 7945HX3D<br/>\n显卡首选NVIDIA\t\t</div>",
+      "date": "2024-01-10",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718664",
+      "is_folded": false,
+      "answerer": {
+        "username": "真实姓名",
+        "uid": "78636"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAMD技术上比INTEL差远了。也就是最近几年，在制程上强于INTEL。<br/>\n我是I粉，但是我买了5000X。<br/>\n<br/>\n但是你要说实力，AMD肯定不如INTEL的。<br/>\n<br/>\n至于显卡 A卡从来就是垃圾，从我就用过一块A卡 迪兰9550（改9600），不稳定，掉驱动，显示效果，颜色 这些都不好。\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718773",
+      "is_folded": false,
+      "answerer": {
+        "username": "李瑞环",
+        "uid": "33525"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我之前每次决定用AMD的CPU之后都踩坑，跑分高，实际表现差。现在为了省心一直用intel，显卡倒是无所谓。<br/>\n<br/>\n历史经验不做参考，只是个人倾向。反正intel比AMD也贵不了多少。\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718648",
+      "is_folded": false,
+      "answerer": {
+        "username": "[已注销]",
+        "uid": null
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tau a卡是垃圾。    我就被<mark>支那人</mark>忽悠，买了au a卡，你玩游戏最好用因特尔的cpu和n卡\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724634",
+      "is_folded": false,
+      "answerer": {
+        "username": "爱新觉罗柱间",
+        "uid": "122291"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1，如果只玩游戏不运行流行的AI软件是可以用AMD显卡的，在广泛的应用上英伟达全兼容。<br/>\n2，CPU反而AMD好于英特尔，AMD是台基电工艺。<br/>\n3，电脑的稳定性最重要的是电源，建议上  海盗船，海韵。<br/>\n4，主板用华硕的重炮手，AMD和英特尔都有对应的。<br/>\n5，内存用A-DIE的。<br/>\n6，显卡用华硕的散热特别好，跑24小时AI都不会有问题。<br/>\n7，绝对不能在电源和显示器上省钱，电源不好轻则死机，重则损坏硬件。<br/>\n显示器是输出结果的设备相当于相机的镜头，看电影最好要有HDR600，低于HDR600为假HDR。\t\t</div>",
+      "date": "2024-01-30",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718637",
+      "is_folded": false,
+      "answerer": {
+        "username": "之江新军",
+        "uid": "92363"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t万物推陈出新，选择很多，何必吊死在一棵树上？吃到一个鸡蛋，觉得好吃，何必去抢下蛋的母鸡？\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 2,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719117",
+      "is_folded": false,
+      "answerer": {
+        "username": "pcpcppc",
+        "uid": "115762"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tAMD就是芯片届的拼多多。便宜，凑合着用也行。所以拼多多市值都超过了阿里巴巴。\t\t</div>",
+      "date": "2024-01-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724558",
+      "is_folded": false,
+      "answerer": {
+        "username": "別看今天鬧得歡",
+        "uid": "123264"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我玩遊戲 500刀二手筆電17寸。i7 1660ti.對於我要求自己夠用了。並且運行速度還蠻不錯\t\t</div>",
+      "date": "2024-01-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719200",
+      "is_folded": false,
+      "answerer": {
+        "username": "leviathan1",
+        "uid": "120938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tgpu两大主流功能：游戏渲染，和并行计算。<br/>\n<br/>\nnvidia 40xx系列的dlss3加成，哪怕4060也能很不错了，主流3A都能玩，而且计算上是独树一帜的好。<br/>\n<br/>\namd个人用的gpu，渲染还可以，计算是真差，支持的也不好。<br/>\n<br/>\n所以我投资amd股票，买nvidia gpu用，因为nvidia股票已经太贵了。\t\t</div>",
+      "date": "2024-01-10",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1253830",
+          "replier": {
+            "username": "Vinobianco",
+            "uid": "93938"
+          },
+          "date": "2024-03-29",
+          "content": "AMD  PE ratio好几百 nvda才30几"
+        }
+      ]
+    },
+    {
+      "id": "718702",
+      "is_folded": false,
+      "answerer": {
+        "username": "ligenlglg",
+        "uid": "50707"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我反正已经买过1600，2950x，5800x和7900xtx了。。英特尔超频牛批，英伟达高端卡更牛批\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "724631",
+      "is_folded": false,
+      "answerer": {
+        "username": "爱慕拆腻子8964",
+        "uid": "20869"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tamd的CPU主要是配套主板比较贵，不过你买上一代的5000系CPU就便宜了，不过存量主板不多了，GPU方面，你纯玩游戏，光追明显落后NV一个世代，光栅性能又比NV稍强，但是你如果想拿来赚点小钱，剪剪视频，跑跑ai画图，那没办法，a卡就是垃圾了\t\t</div>",
+      "date": "2024-01-30",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718756",
+      "is_folded": false,
+      "answerer": {
+        "username": "rowlandheights",
+        "uid": "108549"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tCPU最近这段时间（2020年起）超过intel了<br/>\n<br/>\nGPU的话好像是不如nvidia，但是可以挖矿啊，挖矿优于nvidia就行了\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "719071",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tamd感觉主打性价比，实际应用中好像兼容性不如intel，gpu肯定是不如nv\t\t</div>",
+      "date": "2024-01-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "727788",
+      "is_folded": false,
+      "answerer": {
+        "username": "pz221",
+        "uid": "51046"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你同事小孩买电脑问你干嘛？直接去买品牌机好了，你给他配可能就是终身免费售后。AMD cpu并不比INTEL差，关键是你有多少钱买多少钱的U。AMD GPU除了 视频剪辑、挖矿、3D设计等专业领域差点，游戏领域也还可以，部分显卡还是有性价比的。\t\t</div>",
+      "date": "2024-02-14",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "728565",
+      "is_folded": false,
+      "answerer": {
+        "username": "痛击2024",
+        "uid": "124410"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t只要游戏不玩吃显卡的，买什么无所谓，无非是价格而已\t\t</div>",
+      "date": "2024-02-17",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718634",
+      "is_folded": false,
+      "answerer": {
+        "username": "grantyang",
+        "uid": "6190"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我的经验在桌面电脑上，AMD 的显卡比Nvidia 系列的显卡性能好。但CPU 则是Intel 的性能好，价格比AMD 的贵。\t\t</div>",
+      "date": "2024-01-08",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "718681",
+      "is_folded": true,
+      "answerer": {
+        "username": "中国上将",
+        "uid": "121294"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n<i class=\"aw-deleted\">已隐藏</i> </div>",
+      "date": "2024-01-08",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

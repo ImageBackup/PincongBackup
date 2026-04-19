@@ -1,0 +1,32 @@
+{
+  "question_id": "62241",
+  "category_id": "1",
+  "title": "Cloudflare 宣布开始推行 Encrypted Client Hello 标准会对gfw（墙）带来什么影响?",
+  "meta_description": "Cloudflare 宣布开始推行 Encrypted Client Hello 标准会对gfw（墙）带来什么影响? - 官方链接：https://blog.cloudflare.com/announcing-encrypted-client-hello/  目前：1.1.1.1彻底上不去了  简单说一下，就是使用这个标准后，访问cf的网站除了cf官方和网站所有者都不能知道你...",
+  "meta_keywords": "cloudflare,宣布,推行,encrypted,client,标准,会对,gfw,带来,影响",
+  "tags": [
+    {
+      "id": "406",
+      "name": "技术"
+    },
+    {
+      "id": "470",
+      "name": "vpn"
+    },
+    {
+      "id": "607",
+      "name": "墙"
+    }
+  ],
+  "author": {
+    "username": "sysut",
+    "uid": "99533"
+  },
+  "view_count": 8008,
+  "contents": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t官方链接：https://blog.cloudflare.com/announcing-encrypted-client-hello/<br/>\n<br/>\n目前：1.1.1.1彻底上不去了<br/>\n<br/>\n简单说一下，就是使用这个标准后，访问cf的网站除了cf官方和网站所有者都不能知道你访问了那个网站。    目前gfw已经做出了回应，有一部分的节点已经被ban了  帖个知乎荒原：*Encrypted Client Hello (ECH)* 是 Encrypted SNI 的后继者，它加密了用于协商 TLS 握手的服务器名称指示 (SNI)。<br/>\n<br/>\n这意味着，每当用户访问 Cloudflare 上启用了 ECH 的网站时，除了用户、Cloudflare 和网站所有者之外，*没有人能够确定访问了哪个网站*。<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nCloudflare 目前已经强制为所有免费计划的用户默认启用了ECH，且无法手动关闭。对于GFW来说，加密的SNI意味着，**GFW将不再能够通过域名劫持来阻止大陆用户访问国际互联网**，仅剩的手段是IP封禁和DNS污染。<br/>\n<br/>\n<br/>\n<br/>\n要么阻断所有ECH流量（其效果将等同于**封禁整个Cloudflare网络，这意味着所有使用Cloudflare的网站将会被全数封锁。**然而，**Cloudflare 服务了全球约 20% 的互联网流量，贸然封禁它带来的后果是不可估量的**）；要么耗费大量资源，维护一个黑名单IP列表；要么**对出境网络实施彻底的白名单制度**。<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nECH的未来尚不明朗，但我们仍将***拭目以待***。<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\n<br/>\n<br/>\n<br/>\n在关闭 GFW 和屏蔽 20% 互联网，中国政府选择了后者。<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\n<br/>\n<br/>\n<br/>\n2023/10/3 19:17<br/>\n<br/>\n<br/>\n<br/>\n- 目前部分CloudFlare网络已被屏蔽，包括但不限于：<br/>\n<br/>\n- CloudFlare 洛杉矶节点<br/>\n<br/>\n- CloudFlare 部分边缘网络<br/>\n<br/>\n- CloudFlare CN<br/>\n<br/>\n- CloudFlare Dash Src<br/>\n<br/>\n- 1.1.1.1<br/>\n<br/>\n- 部分地区的 warp+<br/>\n<br/>\n- *.pages.dev<br/>\n<br/>\n- *.workers.dev<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\n<br/>\n<br/>\n<br/>\n19:21 Update<br/>\n<br/>\n<br/>\n<br/>\n- api.mojang.com<br/>\n<br/>\n- **api.qq.com** (笑)<br/>\n<br/>\n- api.openai.com<br/>\n<br/>\n- awaish.link\t\t\t\t\t\t\t</div>",
+  "date": "2023-10-03",
+  "agree_count": 6,
+  "discussion_count": 0,
+  "discussions": [],
+  "answer_count": 4
+}

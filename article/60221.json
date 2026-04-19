@@ -1,0 +1,22 @@
+{
+  "article_id": "60221",
+  "category_id": "4",
+  "title": "在chrome中启用DNS over HTTPs(DoH) 避免中共监听",
+  "meta_description": "在chrome中启用DNS over HTTPs(DoH) 避免中共监听 - DNS over HTTPS是一个进行安全化的域名解析方案。其意义在于以加密的HTTPS协议进行DNS解析请求，避免原始DNS协议中用户的DNS解析请求被窃听或者修改的问题来达到保护用户隐私的目的。Google及Mozilla基金会正在测试此协议，提高网络...",
+  "meta_keywords": "chrome,启用,dns,https,doh,避免,中共,监听",
+  "tags": [
+    {
+      "id": "9372",
+      "name": "上网安全"
+    }
+  ],
+  "author": {
+    "username": "liangxinge666",
+    "uid": "112256"
+  },
+  "contents": "<div class=\"content markitup-box\">\r\n\t\t\t\t\t\t\t\tDNS over HTTPS是一个进行安全化的域名解析方案。其意义在于以加密的HTTPS协议进行DNS解析请求，避免原始DNS协议中用户的DNS解析请求被窃听或者修改的问题来达到保护用户隐私的目的。Google及Mozilla基金会正在测试此协议，提高网络安全性。<br/>\n<br/>\r\n依次打开 Chrome 浏览器的设置 –&gt; 隐私设置和安全性 –&gt; 安全，然后在「高级」项下打开使用安全 DNS 选项<br/>\n<br/>\r\n选择 Cloudflare 这个，免翻墙可用，赶紧去教会身边的人。\t\t\t\t\t\t\t</div>",
+  "view_count": null,
+  "date": "2023-06-25",
+  "agree_count": 5,
+  "comment_count": 6
+}

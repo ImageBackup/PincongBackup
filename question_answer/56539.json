@@ -1,0 +1,512 @@
+{
+  "parent_type": "question",
+  "parent_id": "56539",
+  "answer_count": 12,
+  "answers": [
+    {
+      "id": "636100",
+      "is_folded": false,
+      "answerer": {
+        "username": "wjsly",
+        "uid": "74396"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果不想再读一个博就只能博后了。加拿大faculty移民很快，我同学毕业去加拿大做AP一年拿pr。博后应该也会很快。但问题是加拿大的学术圈不像美国那样包容，往往是加拿大学位优先，哪怕美国phd也要稍微往后排一点，所以加拿大博后如果没有connection会比美国更难。<br/>\n<br/>\n如果想做学术，从长期看最好要有一个美国的学位。反正我们专业没有美国的phd很难在美国找到教职。很多发文章很牛的国内博士只能一轮轮做博后。当然，转去工业界另说。\t\t</div>",
+      "date": "2023-03-03",
+      "agree_count": 7,
+      "discussion_count": 14,
+      "discussions": [
+        {
+          "id": "1158951",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2023-03-03",
+          "content": "我就想在发达国家先稳住，然后跳出学术界\n因为学术界不好混教职"
+        },
+        {
+          "id": "1159814",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-03-05",
+          "content": "其实一般的途径是先在著名高校等机构干几年拿到绿卡甚至国籍之后，再跳槽。如果一开始只是在非常无名气的小公司工作，要绿卡或者入籍估计比较困难"
+        },
+        {
+          "id": "1164234",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-18",
+          "content": "他要求这么低，就想润，那没有faculty也行，一轮一轮博后，熬下来也能拿到永居"
+        },
+        {
+          "id": "1164604",
+          "replier": {
+            "username": "wjsly",
+            "uid": "74396"
+          },
+          "date": "2023-03-20",
+          "content": "@rowlandheights:一轮轮博后的生活是这样的：1. 在实验室没有话语权说了不算，教授让干嘛干嘛，地位都不如教授的亲传弟子，比较憋屈。2. 稳定性是个大问题，在同一个实验室续一轮更要看教授脸色。而如果去别的地方做博后则意味着三十岁的人每两年搬一次家，不敢买很多家具。有小孩更麻烦，刚和小伙伴熟络起来就转学不利于心理成长。同学们都买房买车定居下来了，可是博后依然在飘着。"
+        },
+        {
+          "id": "1164607",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-20",
+          "content": "@wjsly:是的，这就是悲哀的地方。本质上是民工。"
+        },
+        {
+          "id": "1164608",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-20",
+          "content": "但是还是那句话，你在中国当不上faculty，要什么自行车"
+        },
+        {
+          "id": "1164617",
+          "replier": {
+            "username": "wjsly",
+            "uid": "74396"
+          },
+          "date": "2023-03-20",
+          "content": "@rowlandheights:所以啊，需要一个美国或加拿大的学位。我认识的一个博后的路很有参考意义。ta在国内是天坑专业，来美后做了两轮博后攒钱刷文章拿绿卡。后来花钱读了一个计算机硕士，现在FANG工作。"
+        },
+        {
+          "id": "1164630",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-20",
+          "content": "@wjsly:你说的故事，其实是需要绿卡。"
+        },
+        {
+          "id": "1164634",
+          "replier": {
+            "username": "wjsly",
+            "uid": "74396"
+          },
+          "date": "2023-03-20",
+          "content": "@rowlandheights:学位+绿卡。有绿卡没学位是去不到工业界的。那些博后千老每个人都有绿卡，可依然是包身工。"
+        },
+        {
+          "id": "1164635",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-20",
+          "content": "@wjsly:cs master一年半就够了，但是绿卡是要熬的\n很多千老是人也钝了，依我看，他们拿了绿卡随便找个班上年薪也有四五万美元，还不用受导师的气。"
+        },
+        {
+          "id": "1164647",
+          "replier": {
+            "username": "wjsly",
+            "uid": "74396"
+          },
+          "date": "2023-03-20",
+          "content": "@rowlandheights:四五万会活得很辛苦。假设税后五万，一个月4200. 负担房贷和房产税+HOA会比较困难。我搜了下我们村附近一个2b2b的小平房每个月加起来都要三千出头。还要各种生活开销应。除非过得很苦，否则不够。于是只能租房。\n另外对于千老来说绿卡恰恰是最简单的，一般天坑专业的特点就是文章比较快还引用高，基本都是走eb1两年内解决。所以对于博后来说关键在于学位和技能。考个资格证去卖房子三天打鱼两天晒网都不止五万。所以问题的关键在于要保持学习，不断接受新东西才能改变生活。我还认识一个反面例子博后，十年前就出来而且马上绿卡了，然而不愿意转行不愿意学新东西投资自己，到现在博后做不动了只能在朋友介绍的一些相关专业的startup混日子，也不是很稳定，换了好几家了。"
+        },
+        {
+          "id": "1164649",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-20",
+          "content": "@wjsly:四五万是收入不高，但是博后也是这个钱，科研本身还是非常消耗人精力的事情，有绿卡的千老还去做博后就是问题。"
+        },
+        {
+          "id": "1164655",
+          "replier": {
+            "username": "wjsly",
+            "uid": "74396"
+          },
+          "date": "2023-03-20",
+          "content": "@rowlandheights:博后转行其实没有想象中那么容易。很多中国博后一来就在一个实验室里，环境比较单纯，有事儿往往是教授对接，博后只要埋头拉磨就行，且周围往往是中国人。所以语言，社交技巧，美国职场的经验都完全得不到提高。而这几项是能在美国读博训练出来的。所以我说美国学位重要。除了工业界认证外很多体现在这些软技巧上。我认识好几个博后，真正转行的只有一个。"
+        },
+        {
+          "id": "1164672",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-20",
+          "content": "@wjsly:我不要你转行干什么高级活，就跟我到办公室坐班当文员去"
+        }
+      ]
+    },
+    {
+      "id": "636120",
+      "is_folded": false,
+      "answerer": {
+        "username": "springwood",
+        "uid": "55321"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我就是博士，润到日本了。<br/>\n<br/>\n找博后，努力攒文章和攒人脉吧\t\t</div>",
+      "date": "2023-03-03",
+      "agree_count": 6,
+      "discussion_count": 7,
+      "discussions": [
+        {
+          "id": "1158950",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2023-03-03",
+          "content": "我的专业在日本不怎么火\n你在日本做几年博后能移民呢"
+        },
+        {
+          "id": "1159020",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-03-03",
+          "content": "@洼地先知:高度人才打分，70分以上可以三年拿绿卡，80分以上可以一年拿绿卡。至于拿护照则需要居住满五年。"
+        },
+        {
+          "id": "1159734",
+          "replier": {
+            "username": "pc0107",
+            "uid": "94254"
+          },
+          "date": "2023-03-05",
+          "content": "@billzt:如果待满一年拿绿卡后就离开日本，会影响之后持有绿卡吗"
+        },
+        {
+          "id": "1159800",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-03-05",
+          "content": "@pc0107:做人不能那么邪恶。你这是对日本有多大的仇啊"
+        },
+        {
+          "id": "1159857",
+          "replier": {
+            "username": "pc0107",
+            "uid": "94254"
+          },
+          "date": "2023-03-05",
+          "content": "@billzt:倒不是，单纯职涯发展问题，怕之后政策变了，我都愿意不待日本但年年给日本缴年金了"
+        },
+        {
+          "id": "1159858",
+          "replier": {
+            "username": "pc0107",
+            "uid": "94254"
+          },
+          "date": "2023-03-05",
+          "content": "@billzt:单纯好奇问问，这样会有什么影响吗"
+        },
+        {
+          "id": "1159869",
+          "replier": {
+            "username": "springwood",
+            "uid": "55321"
+          },
+          "date": "2023-03-05",
+          "content": "@pc0107:日本的绿卡每隔七年要审查一次，而且现在已经说了要严查那些不居住在日本的绿卡持有者。"
+        }
+      ]
+    },
+    {
+      "id": "636119",
+      "is_folded": false,
+      "answerer": {
+        "username": "一Watcher一",
+        "uid": "103381"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果对工资没有要求的话可以试试加拿大博后。对工资有要求的话可以考虑（西）欧洲博后，一般签2-4年，工资大约在5000欧左右浮动，加拿大博后（前几年的情况）远达不到这个水准，中心城区不到50Ｋ加币的年薪，和欧洲的待遇/消费水平完全没法比。<br/>\n<br/>\n但欧洲移民的周期也比较长，一般在5-8年，同时还要求本地语言考试。\t\t</div>",
+      "date": "2023-03-03",
+      "agree_count": 4,
+      "discussion_count": 5,
+      "discussions": [
+        {
+          "id": "1158949",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2023-03-03",
+          "content": "请问加拿大博后移民快吗？\n加拿大博后期间去工业界机会多吗？"
+        },
+        {
+          "id": "1158955",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2023-03-03",
+          "content": "@洼地先知: 不太了解博后移民。但就安省来说（每个省省提名加分项目不同），省提名可以走省内硕/博，不包括博后。所以我推测博后只能算加拿大经验以移民池的方式打分移民。你可以去移民局官网试一下（用来测试是否有资格入移民池）的打分系统。\n我认识的博后其实都是本地人，找不到工作做两年博后缓缓，因为工资实在太低了。"
+        },
+        {
+          "id": "1158957",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2023-03-03",
+          "content": "@一Watcher一:\n我看了，全球博后性价比就加拿大和英国最低，\n东欧等发展中国家的博后工资低，但是当地物价低\n加拿大和英国那个工资和物价根本没什么福利可言\n主要是租房子太贵了"
+        },
+        {
+          "id": "1158967",
+          "replier": {
+            "username": "一Watcher一",
+            "uid": "103381"
+          },
+          "date": "2023-03-03",
+          "content": "@洼地先知: 英国早就不行了，我都没把英国算到欧洲里。法国荷兰之类的还可以。"
+        },
+        {
+          "id": "1164235",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-18",
+          "content": "@一Watcher一:博后不就是博吗"
+        }
+      ]
+    },
+    {
+      "id": "636461",
+      "is_folded": false,
+      "answerer": {
+        "username": "疯狂习近平",
+        "uid": "910"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t穷……没钱……<br/>\n这年头，穷，其实就是懒，稍微勤快点，送个外卖，不至于穷。还是要从自身找原因。\t\t</div>",
+      "date": "2023-03-04",
+      "agree_count": 1,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1159811",
+          "replier": {
+            "username": "流羽年华",
+            "uid": "100894"
+          },
+          "date": "2023-03-05",
+          "content": "你说的穷跟别人说的穷可能不是一个级别的"
+        },
+        {
+          "id": "1159870",
+          "replier": {
+            "username": "总是忘记密码",
+            "uid": "89532"
+          },
+          "date": "2023-03-05",
+          "content": "这是个被国内新闻联播洗脑洗白了的。"
+        },
+        {
+          "id": "1164236",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-18",
+          "content": "博士穷不要紧，只要有论文发表了，就有可能找到学术界的打工工作。"
+        },
+        {
+          "id": "1164310",
+          "replier": {
+            "username": "TIAN_KUAI_HUO",
+            "uid": "88301"
+          },
+          "date": "2023-03-19",
+          "content": "穷不一定是懒吧？\n在中国，多少996的打工人，工资还不如你"
+        }
+      ]
+    },
+    {
+      "id": "636921",
+      "is_folded": false,
+      "answerer": {
+        "username": "大美利坚总统拜登",
+        "uid": "21731"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t你来这大伙儿打屁聊天的地方问自己的前途问题是严肃的吗？! 干嘛不上网查查美国各大学研究所你这个专业的教授老师们，给他们发email介绍你自己，问问他们有没有招postdoc 的计划?\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1164237",
+          "replier": {
+            "username": "rowlandheights",
+            "uid": "108549"
+          },
+          "date": "2023-03-18",
+          "content": "博士都快毕业了才来想这一茬也是搞笑"
+        }
+      ]
+    },
+    {
+      "id": "636928",
+      "is_folded": false,
+      "answerer": {
+        "username": "卡爾馬克思",
+        "uid": "108914"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t已經移民或者可以移民美國與英聯邦國家以及歐盟國家的人因為擔心移民太多影響生活質量因為人性中不希望格調不同的人與自己擁有共同的生活環境的本性所以會對國內的人宣揚國外的不好，無法移民的人因為羨慕嫉妒恨與吃不著葡萄說葡萄酸所以會拼命的醜化美國與英聯邦國家以及歐盟國家，中國政府因為擔心韭菜了解美國與英聯邦國家以及歐盟國家之後不再安分做韭菜所以會拼命的妖魔化美國與英聯邦國家以及歐盟國家，可以認知到美國與英聯邦國家以及歐盟國家的好的中國人都是認知環境良好人生際遇特殊擁有國際視野的極少數人。\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "637078",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t如果研究做得很牛，教职绿卡都是小菜一碟。不牛的话，那就博后然后慢慢熬绿卡。拿到绿卡之前就不要琢磨往工业界跳了。\t\t</div>",
+      "date": "2023-03-06",
+      "agree_count": 1,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1164231",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2023-03-18",
+          "content": "为什么绿卡有了后，就不要往工业界了？\n绿卡难，教职也难啊"
+        },
+        {
+          "id": "1164245",
+          "replier": {
+            "username": "Meltdown",
+            "uid": "2058"
+          },
+          "date": "2023-03-18",
+          "content": "@洼地先知: 「拿到绿卡之前」。拿到之后当然可以随便换工作，不要说工业界，开餐馆开十八轮都行。"
+        },
+        {
+          "id": "1164247",
+          "replier": {
+            "username": "洼地先知",
+            "uid": "102273"
+          },
+          "date": "2023-03-18",
+          "content": "@Meltdown:谢谢！\n不好意思，没看清楚\n以后多向你请教"
+        }
+      ]
+    },
+    {
+      "id": "636878",
+      "is_folded": false,
+      "answerer": {
+        "username": "WinnieThePooh",
+        "uid": "461"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我这都博士没读完 直接申请澳洲的硕士了 如果没钱最好去申美国的博士 学费生活费都cover 不过拿绿卡时间比较长\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641642",
+      "is_folded": false,
+      "answerer": {
+        "username": "Vinobianco",
+        "uid": "93938"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t都博士了 论文应该有一点吧 拿得出手的可以考虑来美国做博士后申请EB1绿卡 以前很快的 今年开始也要排队了 不过比别的类别还是要快很多\t\t</div>",
+      "date": "2023-03-20",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "636900",
+      "is_folded": false,
+      "answerer": {
+        "username": "ismynewmail",
+        "uid": "74520"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t_ _ 小初高時期看家庭狀況, 上大學就別浪費四年在感興趣的行業多發文章, 如業内有小名就藉助外企出去, 這種模式可以一直持續. 目前帖主的情況要準備好語言, 假定你博士已無語言障礙, 如有研究成果嘗試聯絡感興趣的人或研究機構及商業公司, 不然至少也得掏點錢了繼續上學了.<br/>\n<br/>\n噢, 我是沒經驗的本土派, 算是幫帖主頂帖吧.\t\t</div>",
+      "date": "2023-03-05",
+      "agree_count": 0,
+      "discussion_count": 4,
+      "discussions": [
+        {
+          "id": "1159817",
+          "replier": {
+            "username": "arsingsoa",
+            "uid": "101392"
+          },
+          "date": "2023-03-05",
+          "content": "马上出去重读本科 我也想着本科发文章 感觉自己感兴趣行业的数据不好拿 咋办呀"
+        },
+        {
+          "id": "1159821",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-03-05",
+          "content": "@arsingsoa: 那麽找個精通 python 的人給你寫個爬蟲從網上抓到數據, 來寫文章吧. 或者上 ChatGPT 吧."
+        },
+        {
+          "id": "1159832",
+          "replier": {
+            "username": "arsingsoa",
+            "uid": "101392"
+          },
+          "date": "2023-03-05",
+          "content": "@ismynewmail: 嗯嗯 想看看行业刊物发的都是什么类型文章 数据都是啥样的先了"
+        },
+        {
+          "id": "1159838",
+          "replier": {
+            "username": "ismynewmail",
+            "uid": "74520"
+          },
+          "date": "2023-03-05",
+          "content": "@arsingsoa:\n_ _ 引用文獻省事, 不用非得多高, 每個人都用的適當也寫寫, 先行業裏混個臉熟~正確運用匪患區人的框架做好事是沒錯的. 有擅長的多下點心力建立影響力吧."
+        }
+      ]
+    },
+    {
+      "id": "636192",
+      "is_folded": true,
+      "answerer": {
+        "username": "精盆习明泽",
+        "uid": "108873"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t也可以赌一把二十一大，如果李强带领新改开派上台的话，中国人的好日子就来啦！<br/>\n二十一届政治局常委：<br/>\n总书记 李强<br/>\n总理 胡春华<br/>\n丁薛祥<br/>\n李书磊<br/>\n张国清<br/>\n袁家军<br/>\n陈吉宁\t\t</div>",
+      "date": "2023-03-03",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "641211",
+      "is_folded": true,
+      "answerer": {
+        "username": "食粥定食饭",
+        "uid": "109286"
+      },
+      "contents": "<div class=\"markitup-box collapse\" style=\"display: block;\">\n\t\t\t你的学历高别洋洋得意，将来的出路无非6个。工程师、律师、教师、公务员、医生、科学家。<br/>\n这些行业体面稳定，但你要明白这些职位少之又少，你想投身其中并非易事。<br/>\n<br/>\n你想赚钱还不如学一门正当手艺，就像木工电工施工厨师装修剪发美容修车等等，表面看来不体面不风光，实则你比大部分人优秀得多，钱途无可限量。\t\t</div>",
+      "date": "2023-03-19",
+      "agree_count": -1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

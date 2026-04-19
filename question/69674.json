@@ -1,0 +1,70 @@
+{
+  "question_id": "69674",
+  "category_id": "4",
+  "title": "有什么ChatGPT类似的是无限制的？这玩意你让它化习近平都不愿意。",
+  "meta_description": "有什么ChatGPT类似的是无限制的？这玩意你让它化习近平都不愿意。 - 想创作动画片，拿这个作为画图。结果，不能碰瓷政治。  那还叫什么人工智能？",
+  "meta_keywords": "chatgpt,无限制,玩意,你让,它化,不愿意",
+  "tags": [
+    {
+      "id": "339",
+      "name": "辱包"
+    }
+  ],
+  "author": {
+    "username": "洼地先知",
+    "uid": "102273"
+  },
+  "view_count": 6768,
+  "date": "2024-08-27",
+  "agree_count": 4,
+  "discussion_count": 5,
+  "discussions": [
+    {
+      "id": "1065468",
+      "replier": {
+        "username": "pcfun",
+        "uid": "29448"
+      },
+      "date": "2024-08-27",
+      "content": "Gork?"
+    },
+    {
+      "id": "1065469",
+      "replier": {
+        "username": "OrangSelatan",
+        "uid": "130871"
+      },
+      "date": "2024-08-27",
+      "content": "補充：很殘酷的現實，哪個AI都沒關係，就怕它們流行起來以後會不會也變成另一個CHATGPT在那搞審查，都是有個過程的，有的AI它今天很開放，沒審查；沒準過幾個月又突然審起來了；有的AI它很自由又免費，但是沒準再過段時間又説要收費了。最理想的解決方式還是自己搭建屬於自己的語言模型屬於自己的AI，雖然這聼上去有些強人所難。哎……"
+    },
+    {
+      "id": "1065507",
+      "replier": {
+        "username": "RudBo",
+        "uid": "9235"
+      },
+      "date": "2024-08-28",
+      "content": "挺無言的，我給出一個免費快速而且網頁介面不用安裝的方案，你們繼續自顧自的討論找不到方便的AI唉聲嘆氣"
+    },
+    {
+      "id": "1065514",
+      "replier": {
+        "username": "takesipon",
+        "uid": "89998"
+      },
+      "date": "2024-08-28",
+      "content": "chatGPT现在可以不用手机号注册吗?"
+    },
+    {
+      "id": "1065519",
+      "replier": {
+        "username": "洼地先知",
+        "uid": "102273"
+      },
+      "date": "2024-08-28",
+      "content": "@takesipon:不需要手机号，如果没记错的话。不过验证很麻烦，因为对方可能认为你是机器人撸人家资源的。所以，你要干净的IP，推荐Kamatera（一个月最低4美刀，可以按小时算钱。按小时稍微贵一点，因为流量费另算。100G一美刀。按小时网速好像快一点。），别用机场，太脏了。\n自建的脚本用ProxySU。域名买namecheap.\n全套下来大概8美金。因为域名大概两美金。\n给你一个教程：\nhttps://github.com/Alvin9999/new-pac/tree/master\n找到proxusu"
+    }
+  ],
+  "answer_count": 13,
+  "content": "<div class=\"content markitup-box\">\n\t\t\t\t\t\t\t\t想创作动画片，拿这个作为画图。结果，不能碰瓷政治。<br/>\n<br/>\n那还叫什么人工智能？\t\t\t\t\t\t\t</div>"
+}

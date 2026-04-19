@@ -1,0 +1,97 @@
+{
+  "parent_type": "question",
+  "parent_id": "55227",
+  "answer_count": 4,
+  "answers": [
+    {
+      "id": "621029",
+      "is_folded": false,
+      "answerer": {
+        "username": "Meltdown",
+        "uid": "2058"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t至少两年前人民日报的官网还是可以直接查询创刊以来所有的人民日报的。后来大概是真理部终于领悟了『人民日报不宜看合订本』（向李大眼致敬）的道理，现在只能查最近几年的了。<br/>\n<br/>\n国内稍微大一点的图书馆应该都会收集，你可以去碰碰运气。我记得高华教授说他有一阵子总去查阅老的《文汇报》，后来图书馆就不让他看了。堂堂华东师范大学历史学教授都看不到党的旧报纸，普通P民就更不好说了。\t\t</div>",
+      "date": "2023-01-15",
+      "agree_count": 2,
+      "discussion_count": 3,
+      "discussions": [
+        {
+          "id": "1145084",
+          "replier": {
+            "username": "墙国壬民",
+            "uid": "84766"
+          },
+          "date": "2023-01-15",
+          "content": "已删除"
+        },
+        {
+          "id": "1145085",
+          "replier": {
+            "username": "墙国壬民",
+            "uid": "84766"
+          },
+          "date": "2023-01-15",
+          "content": "我目前了解到的一种方法是去data.people.com. cn上查询，但是需要提供真实姓名和身份证号"
+        },
+        {
+          "id": "1145092",
+          "replier": {
+            "username": "墙国壬民",
+            "uid": "84766"
+          },
+          "date": "2023-01-15",
+          "content": "应该是从2022年5月开始的，2022年2月我上人民日报官网也是可以查到1946-2021年的所有人民日报的"
+        }
+      ]
+    },
+    {
+      "id": "621093",
+      "is_folded": false,
+      "answerer": {
+        "username": "使命光荣责任重大",
+        "uid": "100513"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t淘宝有卖电子版合订本，从创刊开始的数据都有（真理部忘记查封资源佬了）。\t\t</div>",
+      "date": "2023-01-15",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "621058",
+      "is_folded": false,
+      "answerer": {
+        "username": "墙国壬民",
+        "uid": "84766"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我目前了解到的一种方法是去data.people.com. cn上查询，但是需要提供真实姓名和身份证号\t\t</div>",
+      "date": "2023-01-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "621003",
+      "is_folded": false,
+      "answerer": {
+        "username": "韭国",
+        "uid": "93534"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我借你这个帖子，同求一下1960年前后那些年的人民日报，网上有，但是收费的遍地都是，找不到免费的，最好是扫描的，最差也要是ocr的\t\t</div>",
+      "date": "2023-01-15",
+      "agree_count": 0,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1145086",
+          "replier": {
+            "username": "墙国壬民",
+            "uid": "84766"
+          },
+          "date": "2023-01-15",
+          "content": "我目前了解到的一种方法是去data.people.com. cn上查询，上面的都是高清版的人民日报，但是需要提供真实姓名和身份证号"
+        }
+      ]
+    }
+  ]
+}

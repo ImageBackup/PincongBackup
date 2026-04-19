@@ -1,0 +1,56 @@
+{
+  "parent_type": "question",
+  "parent_id": "63957",
+  "answer_count": 3,
+  "answers": [
+    {
+      "id": "712847",
+      "is_folded": false,
+      "answerer": {
+        "username": "不吃蔥",
+        "uid": "39352"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t經過樓主這麼提醒，我想起來中文書的段落開頭都要縮兩格。<br/>\n<br/>\n我完全忘記了這個習慣。還是這是古代的語文規定，早就沒有這個規則了？還是說網頁內容一般不用這個格式？<br/>\n<br/>\n原來是我太久沒看紙本書，好像都是要兩格🥹<br/>\n<br/>\n比起首行縮進，我覺得可以把段落間隔拉大，我每次分段都要手動兩次換行。<br/>\n<br/>\n我看到有些人一大篇寫下去全部擠在一起根本沒法閱讀。\t\t</div>",
+      "date": "2023-12-14",
+      "agree_count": 1,
+      "discussion_count": 1,
+      "discussions": [
+        {
+          "id": "1232494",
+          "replier": {
+            "username": "soto35",
+            "uid": "120394"
+          },
+          "date": "2023-12-15",
+          "content": "古文连断点都没有。是现代大陆地区的书写习惯，分段落看着的确舒服一点。"
+        }
+      ]
+    },
+    {
+      "id": "712834",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t__手动缩进，哈哈哈哈， 紫薯补丁紫薯补丁紫薯补丁紫薯补丁\t\t</div>",
+      "date": "2023-12-14",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "712856",
+      "is_folded": false,
+      "answerer": {
+        "username": "Nederland",
+        "uid": "73269"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t同意，这个功能应该修改，太碍眼了<br/>\n字数字数字数字数\t\t</div>",
+      "date": "2023-12-15",
+      "agree_count": 0,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}

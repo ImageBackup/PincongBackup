@@ -1,0 +1,72 @@
+{
+  "parent_type": "question",
+  "parent_id": "54120",
+  "answer_count": 5,
+  "answers": [
+    {
+      "id": "609002",
+      "is_folded": false,
+      "answerer": {
+        "username": "yogafire",
+        "uid": "3317"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t1.最保险的，找个在海外的朋友让他寄给你一张。<br/>\n2.在ebay或者amazon上买，现在应该都可以寄送到中国。<br/>\n问题是首先你需要确认卡已经激活或者可以在中国激活，不确定的话你可以邮件问卖家。然后有一些sim卡在你离开该卡发行国家很长时间（一般一年以上）之后会自动失效，你要去该卡的terms and conditions上看清楚。我只能说我所了解的，比如英国的3卡可以长期在海外漫游使用，不会被失效。<br/>\n以上你不愿意做的话，淘宝买的话当然有信息泄露的风险，但是总比你直接用+86的电话号码要强。\t\t</div>",
+      "date": "2022-12-10",
+      "agree_count": 3,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608989",
+      "is_folded": false,
+      "answerer": {
+        "username": "背书名",
+        "uid": "104812"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t我也没有啊，赶快教教我，谢谢。<br/>\n<br/>\n我也没有啊，赶快教教我，谢谢。\t\t</div>",
+      "date": "2022-12-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "608994",
+      "is_folded": false,
+      "answerer": {
+        "username": "中華聯邦共和國",
+        "uid": "20514"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\thttps://grizzlysms.com/<br/>\n<br/>\n一次性。反正电报只要一部手机保持登录，就不需要第二次验证了。\t\t</div>",
+      "date": "2022-12-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609000",
+      "is_folded": false,
+      "answerer": {
+        "username": "AAPLTSLA",
+        "uid": "31122"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\t可以用google voice的电话号码？注册一个gmail邮箱，然后申请一个google voice电话号码？\t\t</div>",
+      "date": "2022-12-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    },
+    {
+      "id": "609008",
+      "is_folded": false,
+      "answerer": {
+        "username": "GreekMyth",
+        "uid": "79633"
+      },
+      "contents": "<div class=\"markitup-box\">\n\t\t\tTwilio. 有API 。它是一家主营云通信平台的公司。总部位于美国加利福尼亚州旧金山，并提供拨打和接听电话、发送和接收短信以及使用其Web服务API执行其他通信功能的可编程通信工具。\t\t</div>",
+      "date": "2022-12-10",
+      "agree_count": 1,
+      "discussion_count": 0,
+      "discussions": []
+    }
+  ]
+}
